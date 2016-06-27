@@ -2,6 +2,7 @@ from sklearn import datasets
 from sklearn.pipeline import Pipeline
 from sklearn import metrics
 import numpy as np
+import sys
 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
@@ -10,12 +11,12 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.linear_model import SGDClassifier
 from sklearn.grid_search import GridSearchCV
 
-
-## load train set
-cc_train = datasets.load_files("data/classcentral_dataset_train")
+# load train set
+cc_train = datasets.load_files("data/tran_set")
 print "courses count:",len(cc_train.data)
 
-# ## use SVM and train
+# use SVM and train
+# sys.exit(1)
 text_clf = Pipeline([('vect', CountVectorizer()),
                      ('tfidf', TfidfTransformer()),
                      ('clf', SGDClassifier(loss='hinge', penalty='l2',
@@ -23,28 +24,8 @@ text_clf = Pipeline([('vect', CountVectorizer()),
                      ])
 text_clf = text_clf.fit(cc_train.data, cc_train.target)
 
-
-## use naive-bayes
-# text_clf = Pipeline([('vect', CountVectorizer()),
-#                      ('tfidf', TfidfTransformer()),
-#                      ('clf', MultinomialNB()),
-#                     ])
-# text_clf = text_clf.fit(cc_train.data, cc_train.target)
-
-## parameter tuning using grid search
-# parameters = {'vect__ngram_range': [(1, 1), (1, 2)],
-#               'tfidf__use_idf': (True, False),
-#               'clf__alpha': (1e-2, 1e-3),
-#               }
-# gs_clf = GridSearchCV(text_clf, parameters, n_jobs=-1)
-# gs_clf = gs_clf.fit(cc_train.data, cc_train.target)
-# best_parameters, score, _ = max(gs_clf.grid_scores_, key=lambda x: x[1])
-# for param_name in sorted(parameters.keys()):
-#     print("%s: %r" % (param_name, best_parameters[param_name]))
-# print score
-
-## test with test set
-cc_test = datasets.load_files("data/classcentral_dataset_test")
+# test with test set
+cc_test = datasets.load_files("data/test_set")
 docs_test = cc_test.data
 predicted = text_clf.predict(docs_test)
 print np.mean(predicted == cc_test.target)

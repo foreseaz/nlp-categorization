@@ -4,14 +4,19 @@ import re
 import shutil
 
 topic = {}
+# subjects = {}
 
-if os.path.exists("tran_set"):
-	shutil.rmtree('tran_set')
-os.mkdir("tran_set")
+if os.path.exists("./data/tran_set"):
+  print "tran_set removed"
+  shutil.rmtree("./data/tran_set")
 
-if os.path.exists("test_set"):
-	shutil.rmtree('test_set')
-os.mkdir("test_set")
+os.mkdir("./data/tran_set")
+
+if os.path.exists("./data/test_set"):
+  print "test_set removed"
+  shutil.rmtree("./data/test_set")
+
+os.mkdir("./data/test_set")
 
 
 file = open('classcentral_courses_test.json', 'r')
@@ -25,18 +30,18 @@ while line:
 	topic_status = topic.get(course['topic_name'][0])
 	if topic_status == None:
 		topic[course['topic_name'][0]] = 0
-		os.mkdir("tran_set/" + course['topic_name'][0])
-		os.mkdir("test_set/" + course['topic_name'][0])
+		os.mkdir("./data/tran_set/" + course['topic_name'][0])
+		os.mkdir("./data/test_set/" + course['topic_name'][0])
 		topic_status = 0
 	
 	if topic_status == 0:
-		outfile = open("tran_set/" + course['topic_name'][0] + "/" + re.sub("[\\/:*?\"<>\|\n]", " ", course['title']) + ".json", "wb")
+		outfile = open("./data/tran_set/" + course['topic_name'][0] + "/" + re.sub("[\\/:*?\"<>\|\n]", " ", course['title']) + ".json", "wb")
 		outline = json.dumps(course)
 		outfile.write(outline)
 		outfile.close()
 		topic[course['topic_name'][0]] = (topic[course['topic_name'][0]] + 1) % 2
 	elif topic_status == 1:
-		outfile = open("test_set/" + course['topic_name'][0] + "/" + re.sub("[\\/:*?\"<>\|\n]", " ", course['title']) + ".json", "wb")
+		outfile = open("./data/test_set/" + course['topic_name'][0] + "/" + re.sub("[\\/:*?\"<>\|\n]", " ", course['title']) + ".json", "wb")
 		outline = json.dumps(course)
 		outfile.write(outline)
 		outfile.close()
