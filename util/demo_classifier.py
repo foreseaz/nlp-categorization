@@ -1,3 +1,9 @@
+"""
+======================================================
+Demo Mapping of Courses into Subjects and Topics
+using simple character similarity
+======================================================
+"""
 import json
 import difflib
 
