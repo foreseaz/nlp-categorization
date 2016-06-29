@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t          If you have always wanted to learn how to create great Java web applications then this course is for you. This friendly, hands-on course will show you how to overcome the inherent complexity in writing Java web applications by leveraging the Play Framework.  </p>  <p style=\"\">  \t           The course starts by showing you how to create a basic agenda application. You’ll then add validations, internationalization and custom error pages before enhancing it using the popular frontend framework Twitter Bootstrap. Additionally you’ll learn how to create modules to re-utilize code for future projects. You’ll finish the course by adding a JSON API to your application so that it can consume Twitter’s API using async requests.  </p>  <p style=\"\">  \t          By the end of Play Framework for Web Application Development you will be a more confident developer able to create attractive, fast, and scalable applications using the Play Framework.  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p style=\"\">  \t<strong style=\"\">Martin Gontovnikas</strong> is a software engineer living in Buenos Aires, Argentina. He’s an IT enthusiast who started programming at the age of 12, when he decided that this was going to be his life. Martin is passionate about technology and he always keeps up to date with everything regarding IT.  </p>  <p>  \t            He started as a .NET programmer and converted into Java early on as he saw that most of the open source and the greatest technology contributions were in this area. He continued working on this while trying JavaScript, Ruby, and Scala later on. After learning about Rails, he started to look for a framework that could be as good and productive for the JVM, as it is written from scratch and more robust. That’s when he discovered Play! 1 and Play! 2. He started working with these two with Java as well as Scala, and hasn’t looked back since.  </p>", 
+    "end_date": null, 
+    "title": "Play! Framework for Web Application Development", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/298880_8785_2.jpg", 
+    "course_url": "https://www.udemy.com/play-framework-for-web-application-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-12T08:08:28Z"
+}

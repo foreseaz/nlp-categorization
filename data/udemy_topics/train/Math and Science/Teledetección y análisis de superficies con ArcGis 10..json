@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p style=\"\">Curso dirigido a profesionales o estudiantes de áreas ambientales que deseen adquirir los conocimientos necesarios sobre Teledetección, análisis de imagenes satélitales y estudios de superficie del terreno derivados de un Modelo Digital de Terreno.</p><p style=\"\">En el curso, encontrarás los fundamentos teóricos y prácticos que debes  conocer sobre teledetección y satélites, como los necesarios a la hora  de solicitar o buscar imágenes como: el sensor y tipos de sensores,  bandas del sensor, resolución, servidores de imágen, etc. Realizar  composiciones de imágenes, crear imágenes fusionadas, aplicar índices de  vegetación, combinar bandas y las combinaciones más comunes, intepretar  sus resultados, etc. </p><p style=\"\">También indicaremos los servidores dónde y cómo puedes descargar  imágenes satelitales libres para proyectos ambientales como las  proporcionadas por los proyectos Landsat, Terra, Earth Observer, etc. </p><p style=\"\">Estudiaremos que son los Modelos digitales de terreno, dónde obtenerlos y los dístintos análisis de  superficies que podemos realizar, mapas temáticos, determinar ceuncas, redes hidrográficas, mapas de isolíneas, de pendientes, y otras herramientas o funciones como reclasificación y/o editar las tablas de atributos.</p><p style=\"\">Este curso está estructurado en distintas secciones que podrás realizar según tu disponibilidad de tiempo, cada sección posee una serie de clases donde iremos prácticando y realizando distintos procedimientos. </p><p style=\"\">En las clases de práctica se os suministrará la información geográfica necesaria para realizar con vuestro pc el procedimiento o análisis que veréis en el vídeo de la clase. También, todas las clases van acompañadas con una ficha en pdf, teórica o de procedimiento para que puedas descargar y almacenar los distintos contenidos del curso. </p><p style=\"\">Además se os enseñará como obtener la licencia de evaluación gratuita y completa de la última versión del programa ArcGIS. </p><p style=\"\">Todo esto utilizando la última versión de ArcGIS uno de los software  líderes en el mundo de los SIG. Se recomienda poseer conocimientos  básicos del programa como: Cargar, guardar y borrar capas a la vista,  conocimientos básicos de simbología, para un máximo aprovechamiento del  curso.</p>", 
+    "end_date": null, 
+    "title": "Teledetección y análisis de superficies con ArcGis 10. ", 
+    "price": "50.00", 
+    "instructors": "Isis Gómez López", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/374982_2a31.jpg", 
+    "course_url": "https://www.udemy.com/teledeteccion-y-ordenacion-del-territorio-con-arcgis-10/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-21T13:56:38Z"
+}

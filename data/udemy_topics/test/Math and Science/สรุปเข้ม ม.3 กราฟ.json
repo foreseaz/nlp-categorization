@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>สัมพันธ์แบบเส้นตรง</p><ul><li>ลักษณะของสมการ</li><li>ลักษณะของกราฟ</li></ul><p>รูปสมการเส้นตรง</p><ul><li>รูปทั่วไป</li><li>รูปมาตรฐาน</li><li>ความสัมพันธ์ของรูปทั้งสอง</li></ul><p>การตัดแกน</p><ul><li>ตัดแกน X</li><li>ตัดแกน Y</li></ul><p>ความชัน</p><ul><li>การทำมุมกับแกน X</li><li>การหาค่าความชัน</li></ul><p>การสร้างสมการเส้นตรง</p><ul><li>ผ่าน 1 จุด  และรู้ความชัน</li><li>ความสัมพันธ์ของกราฟเส้นตรง 2 เส้นใดๆ</li></ul>", 
+    "end_date": null, 
+    "title": "สรุปเข้ม ม.3 กราฟ", 
+    "price": "40.00", 
+    "instructors": "WeMaths คณิตศาสตร์ชาติไทย มาตรฐานระดับโลก", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/756636_5613_5.jpg", 
+    "course_url": "https://www.udemy.com/m3a02a_graph/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-09T01:41:12Z"
+}

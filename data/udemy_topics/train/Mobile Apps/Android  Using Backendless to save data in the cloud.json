@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Building stand alone applications that only function and \nsave their data on the device that they are installed on is becoming \nobsolete and not feasible. With the increased use of mobile devices, it \nis common for applications to offer ways to backup, sync and share data \nin the cloud. </p>\n\n<p>A type of backend is usually needed where data can be saved \nand manipulated but this requires time, resources and skills to make it \nwork. Fortunately, there are several platforms like Backendless and Parse that provide a\n backend that we as developers can integrate with our applications.</p>\n\n\n\n\n\n\n\n\n\n<p>This course will introduce the popular Backendless SDK and show \nyou how to integrate it with your Android applications in order to save \napplication data in the cloud.</p>\n\n\n\n\n\n\n\n\n\n<p><strong>Content and Overview of the course</strong></p>\n\n\n\n\n\n\n\n\n\n<p>This course will mainly focus on the Backendless SDK, but in order\n to build our final application we will also do some basic Android \ncoding. This course includes:</p>\n\n\n\n\n\n\n\n\n\n<ul><li>Creating activities and moving between activities using Intents</li><li>Creating aesthetically appealing buttons using only XML</li><li>Creating a fully fledged login screen using the Backendless SDK to do email verification and password reset.</li><li>Using the Backendless SDK to create data in your online database, edit and delete existing data.</li><li>Using Backendless SDK and GCM to send Notifications to your users</li><li>Showing information in a custom ListView</li><li>Working with different icons and pictures</li><li>Using a library for a custom progress dialog</li></ul>\n\n\n\n\n\n\n\n\n\n<p>The Backendless SDK makes saving data in the cloud a walk in the \npark. In less than 5 hours, you will be building an application that \nwill be able to save data in the cloud in an exciting and fun way!</p>\n\n\n\n\n\n\n\n\n\n<p>I am excited to start working with you!</p>", 
+    "end_date": null, 
+    "title": "Android: Using Backendless to save data in the cloud", 
+    "price": "25.00", 
+    "instructors": "Mr Johan Jurrius", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/799758_7ec8_2.jpg", 
+    "course_url": "https://www.udemy.com/android-using-backendless-to-save-data-in-the-cloud/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-21T14:23:02Z"
+}

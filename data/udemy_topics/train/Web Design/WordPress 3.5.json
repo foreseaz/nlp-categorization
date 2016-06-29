@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t In this VTC course, you will learn the intricacies of setting up, using, and administering a WordPress 3.5 site. In addition to how to install and set up WordPress, you will also learn about themes, security concerns and mitigation, and plugin implementation. Author Jon Ward will discuss the theory of WordPress operation and then he will show you how to build a site from scratch. While the course is taught in 3.5, topics covered will be applicable to any WordPress 3.x installation. This title is a self-paced software training course delivered via pre-recorded video. We do not provide additional information outside of the posted content.  </p>", 
+    "end_date": null, 
+    "title": "WordPress 3.5", 
+    "price": "40.00", 
+    "instructors": "VTC Software Training", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/96746_2e35_5.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-35-vtc/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-24T20:19:18Z"
+}

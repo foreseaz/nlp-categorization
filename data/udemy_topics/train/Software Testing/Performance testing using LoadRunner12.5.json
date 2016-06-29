@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>LoadRunner is a Licensed tool  from HP for performance and load automation testing. Very widely used in industry, it support web based application &amp; also support almost all commonly used protocols.\n</p>\n\n<p>This course is specially designed for Software Testing professionals, This will take students from basic level to advance in decent pace videos.\n</p>\n\n<p>Here we will cover basic to advance concepts of LoadRunner &amp; performance testing also we have covered many interview question which are asked in interviews\n</p>\n\n<p>In this course we will be learning in-depth of JMeter tool and will also use some good plugins available for jmeter.\n</p>\n\n<p>We also cover distributed testing using LoadRunner</p>\n\n<p>After going through the course you can easily measure performance of any web based application / Service and can crack performance testing related interviews.</p>", 
+    "end_date": null, 
+    "title": "Performance testing using LoadRunner12.5", 
+    "price": "20.00", 
+    "instructors": "Testing World", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/773576_a6ed.jpg", 
+    "course_url": "https://www.udemy.com/performance-testing-using-loadrunner/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-25T03:48:59Z"
+}

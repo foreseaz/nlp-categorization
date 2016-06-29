@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\">  \t Curso básico sobre a linguagem de programação MQL5. A Linguagem MetaQuotes 5 (MQL5) é a linguagem de programação integrada  para o desenvolvimento de estratégias para negociações automatizadas. Ela permite a criação de <em style=\"\">Expert Advisors</em> (robôs de negociação), Indicadores Customizáveis, <em style=\"\">Scripts</em> e Bibliotecas. Todos esses instrumentos aumentam significativamente a habilidade dos <em style=\"\">traders</em> nos mercados financeiros (moedas, ações, futuros e CFD).  </p>  <p style=\"\">  \t A Linguagem MetaQuotes 5 é baseada em conceitos da conhecida e popular  linguagem de programação C++, sendo ainda uma linguagem de programação de alto nível.  </p>", 
+    "end_date": null, 
+    "title": "TRADER BOT: Introdução à Linguagem MQL5", 
+    "price": "20.00", 
+    "instructors": "Prof. Márcio Souza", 
+    "commitment": "70 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/167316_4110_4.jpg", 
+    "course_url": "https://www.udemy.com/intro-mql5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-19T12:09:47Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Ab jetzt nehmen wir unsere Daten in die eigene Hand. In diesem Videotraining setzen wir gemeinsam eine Seafile Installation auf Windows auf. Zunächst führen wir einige vorbereitende Tasks im Windows Hostsystem durch. Danach laden wir uns die benötigten Dateien herunter. Anschließend installieren wir die private Cloud Seafile auf Basis von Python.</p><p>Zusätzlich setzen wir einen Reverse-Proxy mit Hilfe des Application Request Moduls auf und definieren eine HTTPS Umleitung. Auch das Einbinden der passenden Zertifikate wird kommt nicht zu kurz. Abschließend passen wir unsere Seafile Installation noch an unsere Bedürfnisse an und binden ein eigenes Logo ein.</p><p>Zum Schluss ernten wir unsere Früchte und erleben Seafile in Aktion: Mit dem Browser, einem Windows Client und mit dem Smartphone.</p>", 
+    "end_date": null, 
+    "title": "Ihre private Cloud auf Windows mit Seafile", 
+    "price": 0, 
+    "instructors": "Michael Fritz", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/496918_3a52_2.jpg", 
+    "course_url": "https://www.udemy.com/private-cloud-windows-seafile/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-08T16:50:43Z"
+}

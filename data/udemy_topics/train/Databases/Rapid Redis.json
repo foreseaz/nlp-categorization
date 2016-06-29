@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t <span>This course teaches you the key aspects of this flexible data store. You’ll learn how a NoSQL data store such as Redis differs from traditional SQL databases that you may be more familiar with. You’ll see how to install the database on your own machine, or use a database provider in the cloud. You’ll also discover the basic native data types of Redis and how to use them.</span>  </p>  <p>  \t From theory to application, Rapid Redis explains when, why, and how to use the Redis data store. We’ll discuss the differences between NoSQL and SQL, explore the Redis data types to see how to use them, and end up with an easy-to-understand Node.js example app that uses Redis as a cache.  </p>  <p>  \t No matter what kind of application you’re working on, you need a place to store your data. Rapid Redis gives you a new tool to add to your toolbox: a data store that is quick and easy to use, and far more powerful than you can imagine.  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t<span><strong style=\"\">Scott Ganyo</strong> is a software developer with over 20 years of hands-on expertise in development, architecture, research, and leadership. His strikingly broad and successful technical background includes founding a large web service software company and two consulting companies, product and project leadership in enterprise and consulting environments, research and development for some of America’s most prestigious firms, 24x7 operations planning and management, and open source software development and leadership. A Renaissance man, Scott is also an accomplished actor, writer, singer, improviser, and award-winning producer. Scott is currently employed with Apigee Corporation and contributes to several open source projects including Apache Usergrid and Apigee 127 utilizing Java, Node.js, Ruby, and Redis.</span>  </p>", 
+    "end_date": null, 
+    "title": "Rapid Redis", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/420202_6433_2.jpg", 
+    "course_url": "https://www.udemy.com/rapid-redis/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-12T13:50:19Z"
+}

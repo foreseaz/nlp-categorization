@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn to code from the ground-up by building <strong>a fully functional social network with real-time capabilities</strong>. <br></p>\n\n<p>Sounds crazy right! But it’s not beyond what you can do these \ndays! and this course will guide you step-by-step through the process.</p><p>\n\n\n\n</p><p><strong>This course is made for absolute beginners</strong>.<strong> No prior programming knowledge is required to take this course</strong>. The main goal of the course is to give you a quick exposure to the <strong>full development stack</strong>, using <strong>JavaScript</strong>, as opposed to the usual approach of learning one thing at a time and never getting a “big picture” view.</p>\n\n<p>These are the exciting topics we teach in the course:</p>\n\n<ul><li>HTML</li><li>CSS</li><li>Responsive web design</li><li>JavaScript</li><li>DOM access and manipulation</li><li>Meteor to build web applications</li><li>MongoDB to store and query your data</li></ul>\n\n<p>The course follows a project-based approach. Concepts are introduce \nas we need them to build our social network project. We strongly believe\n this is the best approach for people who are starting web development \nand want a quick look at the entire process, instead of covering each \ntopic in depth right away.</p>\n\n<p><strong>Pablo Farias Navarro</strong> is a software developer and founder of <strong>ZENVA</strong>.\n Pablo has been programming since 1996 and has taught programming to \nover 100k students. By following our usual project-based approach, by \nthe end of this course you’ll have the skills to create solid web \napplications.</p>", 
+    "end_date": null, 
+    "title": "Learn Web Development by Creating a Social Network", 
+    "price": "20.00", 
+    "instructors": "Pablo Farias Navarro", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/709324_4029.jpg", 
+    "course_url": "https://www.udemy.com/meteor-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-29T05:30:21Z"
+}

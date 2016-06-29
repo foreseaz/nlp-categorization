@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Android es la plataforma libre desarrollada por Google, ampliamente utilizada en multitud de dispositivos como móviles, tabletas, TV, wearables o sistemas empotrados. Su expansión ha sido espectacular, superando en la actualidad al S.O. Microsoft Windows. Tras realizar este curso conocerás los fundamentos del desarrollo de aplicaciones en Android y podrás realizar sencillas aplicaciones, que incluyan los aspectos más importantes y novedosos de esta plataforma.\nA lo largo del curso se desarrolla una aplicación de ejemplo, \"Mis Lugares Favoritos\", que nos permitirá almacenar fotografía, posición geográfica, valoración y otros datos de los locales que más nos gustan. El curso se introducen los siguientes aspectos: repaso de Java, visión general de Android, entorno de desarrollo (Eclipse), Interfaz de usuario (vistas, Layouts, recursos, barra de acciones, preferencias, ListView, Fragments...), actividades, intenciones, seguridad, posicionamiento, mapas y bases de datos.\n\n                                    ", 
+    "end_date": "2016-06-21T00:00:00Z", 
+    "title": "AIP201x: Android: Introducción a la Programación", 
+    "price": 0, 
+    "instructors": "Dr. Jesús Tomás Gironés", 
+    "institution_name": [
+        "Universitat Politècnica de València"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.edx.org/course/android-introduccion-la-programacion-upvalenciax-aip201x-0", 
+    "duration": "11 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-04-05T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  You should take this course if you want to have mastery over the foundations of digital technology... if you want to look at an HD movie and think &quot;I know how that&#039;s working on the root level. Awesome!&quot;  </p>  <p style=\"\">  \t  This course is all about binary, hexadecimal, and the core concepts that make all of our modern information technology possible. There are videos, quizzes, and a couple of App Cat episodes in presentation format.  </p>  <p style=\"\">  \t  You should watch the videos in order. Some of them build on the content from the last video. There are 3 chalkboard session videos that show the how-to steps for reading and writing binary and hexadecimal. You should watch those with paper and a pencil. You&#039;ll want to follow along.  </p>", 
+    "end_date": null, 
+    "title": "Binary: The Foundation of All Computing", 
+    "price": "20.00", 
+    "instructors": "Kilton Hopkins", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/58325_189c_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-binary/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-05T04:38:46Z"
+}

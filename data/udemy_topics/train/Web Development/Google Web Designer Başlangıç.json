@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tGoogle Web Designer, entegre bir görsel ve kod arayüzü kullanarak HTML5 reklamları ve diğer web içeriğini tasarlamanızı ve oluşturmanızı sağlayan gelişmiş bir web uygulamasıdır. Google Web Designer tasarım görünümünü kullanarak çizim araçları, metin ve 3D nesneler ile içerik oluşturabilir, nesneleri ve etkinlikleri bir zaman çizelgesinde canlandırabilirsiniz. İçeriğinizi oluşturmayı tamamlamanızdan sonra Google Web Designer; HTML5, CSS3 ve Javascript kodlarını kullanıcıların okuyabileceği bir biçimde sunar.  </p>  <p>  \tGoogle Web Designer Kod görünümü CSS, JavaScript ve XML dosyaları oluşturmanıza olanak tanır ve kodunuzu hem daha kolay hem de daha az hatayla yazmanıza olanak sağlayan sözdizimi vurgulama ve otomatik kod tamamlama özelliklerini kullanır.  </p>  <p>  \t    Html5&#039;in gelişmesi ve mobil cihazlarda desteğin artması üzerine, web animasyon programları hızla gelişmektedir. Flash player, mobil cihazlarda uzun zamandır bulunmuyor. Bu açığı html5 ile web animasyon programları kapatmaktadır.  </p>  <p>  \t    Bu eğitim içerisinde, html5,css3 ve javascript tabanlı web animasyonu yapabilen Google Web Designer&#039;ı kullanmayı öğreneceksiniz.  </p>  <ul>  \t<li>Google Web Designer&#039;ı temelden tanımak</li>  \t<li>Dosyalar ile çalışmak ve arayüz yapısı</li>  \t<li>Carousel, 360 derece, swipeaple ve iframe gibi bileşenleri kullanmak</li>  \t<li>Çizim aracını ve etiketleri kullanmak</li>  \t<li>Timeline yapısını anlamak ve kullanmak</li>  \t<li>3D araçlarını kullanmak</li>  </ul>  <p>  \t    gibi konuları, bu eğitim içerisinde bulabilirsiniz.  </p>", 
+    "end_date": null, 
+    "title": "Google Web Designer Başlangıç", 
+    "price": "20.00", 
+    "instructors": "Ersin Sengul", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/373922_8c67_2.jpg", 
+    "course_url": "https://www.udemy.com/google-web-designer-baslangic/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-19T13:46:38Z"
+}

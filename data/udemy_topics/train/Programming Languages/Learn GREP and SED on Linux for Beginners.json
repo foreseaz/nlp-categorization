@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>One of the most important tasks we undertake in Linux is <strong>processing text in files</strong>. This course explores two powerful tools we have to do this: <strong>grep and sed</strong>. Grep and sed find and manipulate text in files using <strong>regular expressions</strong>, which use special characters for searching and replacing text.<br><br>In the course, we’ll introduce regular expression syntax in the context of learning grep, then apply what we’ve learned as we work with sed. Topics include:<br><br> - finding text with grep<br> - regular expression syntax<br> - meta characters<br> - validating emails and phone numbers<br> - intro to sed<br> - replacing text in files<br> - line number addressing<br> - outputting only found lines<br> - printing line numbers<br> - adding text before and after lines<br> - simple sed scripts<br><br>The course is in two units, and runs just over an hour in length.</p>", 
+    "end_date": null, 
+    "title": "Learn GREP and SED on Linux for Beginners", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/762074_2779_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-grep-and-sed-on-linux-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-14T06:53:18Z"
+}

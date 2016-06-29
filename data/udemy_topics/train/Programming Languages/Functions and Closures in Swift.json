@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t     This course focuses on the functional features of the Swift programming language. Concepts like closures, value capturing, higher order functions and closure inline expressions, among many more are covered through simple examples.  </p>  <p style=\"\">  \t     This course is relatively short but focused to give you a better understanding of functions and closures in Swift since they are as important as objects and classes.  </p>", 
+    "end_date": null, 
+    "title": "Functions and Closures in Swift", 
+    "price": "20.00", 
+    "instructors": "Amin Meyghani", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/244704_ca1b_5.jpg", 
+    "course_url": "https://www.udemy.com/functional-programming-in-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-17T05:01:53Z"
+}

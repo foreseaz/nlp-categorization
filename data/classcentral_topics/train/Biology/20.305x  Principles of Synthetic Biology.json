@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Biology"
+    ], 
+    "description": "\n\n                    \n                    \n                    Do you like biology, biotechnology, or genetic engineering? Are you interested in computer science, engineering, or design? Synthetic Biology is an innovative field bringing together these subject areas and many more to create useful tools to solve everyday problems.\n\nThis introductory synthetic biology course starts with a brief overview of the field and then delves into more challenging yet exciting concepts. You will learn how to design your very own biological regulatory circuits and consider ways in which you can apply these circuits to real-world problems we face today.\nFrom basic oscillators, toggle switches, and band-pass filters to more sophisticated circuits that build upon these devices, you will learn what synthetic biologists of today are currently constructing and how these circuits can be used in interesting and novel ways.\n\nJoin us as we explore the field of synthetic biology: its past, present, and promising future!\n\n                                    ", 
+    "end_date": "2016-04-11T00:00:00Z", 
+    "title": "20.305x: Principles of Synthetic Biology", 
+    "price": 0, 
+    "instructors": "Ron Weiss and Adam Arkin", 
+    "institution_name": [
+        "Massachusetts Institute of Technology"
+    ], 
+    "commitment": "8-9 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://www.edx.org/course/principles-synthetic-biology-mitx-20-305x", 
+    "duration": "14 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-01-04T00:00:00Z"
+}

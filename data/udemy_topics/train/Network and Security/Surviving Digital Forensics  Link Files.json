@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Windows LINK files are a great source of information when your aim is <strong>proving file use and knowledge</strong> during a <strong>computer forensic investigation</strong>.  This course goes beyond automated results and digs into the body of a LINK file in order to understand how it is constructed and how to manually pull out and interpret the data.  Through a series of hands-on validation exercises and practical exercises you will gain a firm understanding of how LINK file data is affected by different types of user driven behavior.   Using all freely available tools, this course takes you through the process of understanding what automated tools do under the hood - all in about an hour.</p><p>Source material for the practical exercises is provided.  Just bring your Windows 7 or Windows 8 system and a desire to learn.</p>", 
+    "end_date": null, 
+    "title": "Surviving Digital Forensics: Link Files", 
+    "price": "50.00", 
+    "instructors": "Michael Leclair", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/528674_a47a.jpg", 
+    "course_url": "https://www.udemy.com/surviving-digital-forensics-link-files/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-15T16:30:11Z"
+}

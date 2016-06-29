@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Bioinformatics"
+    ], 
+    "description": "\n\n                    \n                    \n                    The sequencing of the human genome at the start of this century fueled a computational revolution in biology. As a result, modern biology produces as many new algorithms as any other fundamental realm of science.Once we have sequenced a genome, it may look like an incomprehensible string of the nucleotides A, C, G, and T. Yet hidden in these four letters is a secret language. In this course, we will start understanding this language by using computer programming. What makes this course distinct is that we assume that you have never programmed before.While learning Python from the ground up, we will write algorithms to determine where a bacterium starts replicating its genome, a problem with applications in genetic engineering.  We will also use programming to learn how a cell knows what time of day it is and how the bacterium causing tuberculosis can hide from antibiotics.This course offers a much gentler-paced alternative to Finding Hidden Messages in DNA, the first course in the Bioinformatics Specialization.  After completing it, we hope you will be well prepared to jump into the full Specialization!\n\n                                            Syllabus\n                        The course will be based around the following biological questions, with the algorithmic ideas that we will use to solve them in parentheses:Where Does DNA Replication Begin? (Algorithmic Warm-up)Which DNA Patterns Act As Molecular Clocks? (Greedy and Randomized Algorithms)Some of these topics will require you to complete coding challenges in order to implement bioinformatics algorithms, followed by a comprehension quiz at the end of the topic.  Other topics will carry lighter workloads and consist primarily of lecture videos and short quizzes.\n                                    ", 
+    "end_date": "2016-03-21T00:00:00Z", 
+    "title": "Biology Meets Programming: Bioinformatics for Beginners", 
+    "price": 0, 
+    "instructors": "Pavel  Pevzner and Phillip Compeau", 
+    "institution_name": [
+        "University of California, San Diego "
+    ], 
+    "commitment": "6-10 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/course/algobioprogramming", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-01-25T00:00:00Z"
+}

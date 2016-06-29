@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tEn este curso abordaremos el desarrollo de Apps para sistemas iOS, como son el iPhone o el iPAD. Xcode ofrece a los desarrolladores todo lo que necesitan para crear grandes aplicaciones para Mac, iPhone y iPad. Xcode tiene un diseño unificado de interfaz de usuario, codificación, pruebas y depuración de dentro de una sola ventana. El Xcode IDE analiza los detalles de su proyecto para identificar errores tanto en la sintaxis y la lógica y puede incluso ayudar a reparar su código.  </p>  <p>  \tEste curso es impartido por David Matellano, emprendedor, analista y desarrollador apasionado de la tecnología. Licenciado en Ingeniería de Telecomunicaciones por la Universidad Autónoma de Madrid, se ha especializado en el diseño y desarrollo de aplicaciones móviles, habiendo colaborado en diferentes empresas y proyectos con una experiencia de más de tres años.  </p>  <p>  \tCubriremos los siguientes temas:  </p>  <ul>  \t<li>Introducción a iOS</li>  \t<li>La primera app</li>  \t<li>Vistas y controladores</li>  \t<li>Tipos de navegación</li>  \t<li>Interface y configuración avanzada</li>  \t<li>Modelo vista controlador</li>  \t<li>Posicionamiento en mapas</li>  \t<li>UI Slider</li>  </ul>", 
+    "end_date": null, 
+    "title": "iOS para Apps", 
+    "price": "35.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/173736_67d5.jpg", 
+    "course_url": "https://www.udemy.com/ios-para-apps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-27T09:36:14Z"
+}

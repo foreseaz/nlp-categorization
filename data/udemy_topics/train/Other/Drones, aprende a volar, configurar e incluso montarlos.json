@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Marketing"
+    ], 
+    "description": "<p>Vamos a poder aprende todos los aspectos esenciales para volar, contruir, reparar y mejorar un Dron que utilize tecnología de libre distribución como son la APM y la PixHawk. Porque la diferencia de este curso es que hablaremos de todo los aspectos. Un curso totalmente completo.</p><p>Vamos a tener diferentes seccines bien diferenciadas: Una introducción, unos conceptos de vuelo, conoceremos las entrañas de un dron para poder construirlos, aprenderemos a configurar nuestro dron desde cero, sabremos crear rutas totalmente autónomas, y aun asi tendremos unas clases extras donde hablaremos por ejemplo de los gimbal o FPVS</p>", 
+    "end_date": null, 
+    "title": "Drones, aprende a volar, configurar e incluso montarlos", 
+    "price": "30.00", 
+    "instructors": "Fernando Monteoliva", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/588678_1b9b_2.jpg", 
+    "course_url": "https://www.udemy.com/drones-vuela-montalos-configuralos/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-20T18:12:38Z"
+}

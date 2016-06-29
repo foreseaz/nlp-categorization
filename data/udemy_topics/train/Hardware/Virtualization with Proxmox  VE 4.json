@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course about<strong> Proxmox VE 4.1 </strong>was made for people with no knowledge at all about Proxmox VE or virtualization. You will be able to learn the fundamentals and advanced topics by watching all the videos and practising at home or work.</p>\n\n<p>Covering all areas and divided into sections according to the complexity of the topics, this course will give you strong knowledge of each of them by providing theoretical concepts, video guides and an open community to ask specific questions which can come up during learning (<em>Udemy provides a course with a forum where students and teachers share knowledge</em>).</p><p>The course also provides two Proxmox VE virtual machines (.OVA) already clusterized to perform all the exercises and testings. Will be available as part of \"Documentation\" section (last two classes)<em class=\"redactor-inline-converted\"><strong>.</strong></em></p>\n\n<p>I hope you enjoy the course! Come in! ;)<br></p>", 
+    "end_date": null, 
+    "title": "Virtualization with Proxmox  VE 4", 
+    "price": "20.00", 
+    "instructors": "Juan Ignacio Ciriaco", 
+    "commitment": "12.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/655150_8b3d_2.jpg", 
+    "course_url": "https://www.udemy.com/proxmox-ve-4-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-30T01:58:06Z"
+}

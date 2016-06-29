@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Electrical Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course provides basic knowledge about digital design and implementation using VHDL as the description language, as well as skills in the use of computer-based design and simulation tools.\n\n                                            Syllabus\n                        The course is divided into five parts with the following contents:\r\n\r\nIntroduction to the design of digital electronic systems: Motivation to use hardware description languages, design flow; development tools; types of integrated circuits\r\nBasics of the language VHDL: Code models; component model; gates; entity; architecture; identifier object; variables, signals, data types, operators of relationships\r\nParallel and sequential processing: Modeling for simulation, simulation cycle, parallel and sequential sets; instantiation of components\r\nConstruction of combinatorial logic: Timing and delays in digital circuits; hazard; arithmetic units; ROM; design example\r\nDesign of sequential logic: Timing of synchronous systems; synchronous processes; latches; flip-flops; initialization; Mealy and Moore machines; counters; registers; RAM\r\n\n                                    ", 
+    "end_date": null, 
+    "title": "Digital Design with VHDL", 
+    "price": 0, 
+    "instructors": "Najeem Lawal", 
+    "institution_name": [
+        "Mid Sweden University"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.canvas.net/courses/digital-design-with-vhdl", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Canvas.net"
+    ], 
+    "start_date": "2014-09-22T00:00:00Z"
+}

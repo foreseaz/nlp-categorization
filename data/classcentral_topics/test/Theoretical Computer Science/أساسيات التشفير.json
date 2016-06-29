@@ -1,0 +1,25 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Theoretical Computer Science"
+    ], 
+    "description": "\n\n                    \n                    \n                    دراسة أساسيات التشفير, وأهم الطرق المستخدمة فيها. كما سيتم التطرق لأهم أنواع التشفير التقليدي والحديث. سنتناول أهم الخوارزميات المستخدمة في التشفير وماهي العناصر الأساسية الواجب الانتباه لها لتحديد مقدار صلابة وممانعة الخوارزمية للتفكيك, ومدى الاعتمادية على مفاتيح التشفير وفك التشفير. وسنتناول التواقيع الرقمية, واستخداماتها في الحياة العملية والمعاملات التجارية.\n\n                                    ", 
+    "end_date": "2014-07-20T00:00:00Z", 
+    "title": "أساسيات التشفير", 
+    "price": 0, 
+    "instructors": "", 
+    "institution_name": [], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "http://www.rwaq.org/courses/introduction-to-encryption", 
+    "duration": "12 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Rwaq (رواق)"
+    ], 
+    "start_date": "2014-04-27T00:00:00Z"
+}

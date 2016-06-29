@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Just Released 1/11/2016 - For Odoo 9</strong></p><p><strong></strong>This course shows step-by-step how to run Odoo 9 in the cloud using Amazon's EC2 Free Tier servers. We start right at the beginning with setting up your AWS account and show you how to pick the free Ubuntu 14.04 server tier that will run your Odoo installation and launch the instance right from the AWS console.</p><p><strong>Install Odoo in the Cloud on Amazon's EC2 Servers - Use the FREE Tier!</strong></p><p>If you have never installed Odoo before, this course is for you. Maybe you have been able to get Odoo installed and running but have struggled setting up and configuring Odoo so it is easily accessible by your own domain name.  If you are in that spot in which you can 'kind of' get Odoo running but want more knowledge on how to use Odoo in the cloud this course is for you.</p><p>We then take you all the way to a fully working Odoo installation you can access from your own domain name. The course leaves nothing out. </p><p><strong>Odoo Class has produced more than 100 Odoo Videos</strong></p><p>Odoo Class is recognized as the #1 source of Odoo Video Training and Workshops. If you Google for Odoo Class, you will quickly see that this is certainly not our first successful video course. Now we are bringing our video courses to Udemy students.</p><p><strong>Here are some testimonials from Odoo Class Video subscribers:</strong></p><p><em>I just wanted to say that the videos are great and have really opened my eyes to the capabilities with Odoo.</em></p><p>- Joey K.</p><p><em>I recommend Odoo Class for anyone want to learn Odoo, they have a very high quality videos for both functional and technical</em></p><p>- Vyas S.</p><p><em>I find your videos real easy to follow and often revert back to them as a point of reference…</em></p><p>- Peter Y.</p><p><em>First off I want to comment on all of the quality video editions you have recently added to your library. They have been tremendously helpful and I have been recommending your service to many people.</em></p><p>- John P.</p><p><strong>NOTICE - If you are an active Odoo Class subscriber, this video is included with your subscription. Please login to your Odoo Class subscription to get access to this course.</strong><br></p><p><strong>Here are some of the course highlights:</strong><br></p><ul><li>See how to launch a free cloud server using Amazon AWS EC2</li><li>Learn exactly how to access your server using the key provided by Amazon</li><li>Install Odoo 9 from the source code repository</li><li>See how to test your Odoo install quickly and securely</li><li>Create an Odoo configuration file to launch your Odoo server</li><li>Learn how to use Nginx to link your own domain to your Odoo instance</li><li>Make a boot script that will automatically launch Odoo when your server reboots</li></ul><p>With this course you will be up and running your Odoo server on Amazon in no time.</p><p><strong>Why would I want to use the Cloud to run Odoo?</strong></p><p>One of the best reasons for running Odoo in the cloud is it allows you to take advantage of reliability and redundancy that is very difficult to replicate in a local IT center you would run in your own company. Amazon has experts at every level of security, backups, networking, and performance monitoring that takes a lot of risk away from trying to host Odoo on your own machines in your office.</p><p><strong>You can try Odoo in the Cloud Risk Free with Amazon EC2!</strong></p><p>If you are thinking about hosting Odoo in the Cloud or on Amazon EC2 this course was designed just for you. From setting up the account to accessing Odoo from your own domain name we have made sure to cover all the essentials for getting you started with Odoo in the cloud.</p>", 
+    "end_date": null, 
+    "title": "Run Odoo in the Cloud with Amazon EC2 Free Tier Servers", 
+    "price": "50.00", 
+    "instructors": "Odoo Class Videos", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/723618_a8be.jpg", 
+    "course_url": "https://www.udemy.com/run-odoo-in-the-cloud-with-amazon-ec2-free-tier-servers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-11T06:42:41Z"
+}

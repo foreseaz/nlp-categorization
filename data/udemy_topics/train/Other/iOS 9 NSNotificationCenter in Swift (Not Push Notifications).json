@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Course Description</strong><strong></strong><br></p><p>Learn\n the basic concepts of Apples NSNotificationSystem with the Swift \nprogramming language for iOS 9.<br></p><p><br><strong></strong></p><p><strong>Build\n a strong foundation in XCode 7 and Swift. This course helps you \nunderstand and implement the NSNotificationSystem framework in your own app with the \nlatest technologies.</strong><br></p><ul><li>Swift programming language</li><li>XCocde 7</li><li>iOS 9</li><li>NSNotificationSystem framework</li></ul><p><br><strong></strong></p><p><strong>Professional skills and experience from an iOS Architect with over 8 years experience.</strong><br></p><p>Learn\n the fundamentals but also tips and tricks of the experts. Learn about \nthe NSNotificationSystem framework. </p><p>We will walk thru XCode setup and \ncreation of a project iOS iPhone application that uses the NSNotificationSystem framework.<br></p><p><strong>Content and Overview </strong></p><p>This\n course explains Apples NSNotificationSystem framework systems and how it is used with \niPhone application development. We explain the overall system in detail \nfocused on developers not the marketing folks. We explain how the NSNotificationSystem framework works and how to integrated into an application with \nexamples in Swift, Apples latest programming language for the iPhone. \nAll examples are based on iOS 9.</p><p><br><strong></strong></p><p><strong>What am I going to get from this course?</strong></p><ul><li>Detailed explanations of the NSNotificationSystem framework for iOS 9</li><li>Learn how to integrate into your apps from an iOS professional</li><li>Suitable\n for any iOS programmer, Swift basics for NSNotificationSystem is presented, no \nexperience as a UI developer or server developer is expected.</li><li>Teaching\n by example with hands on examples showing technical details.</li></ul><p><br></p>", 
+    "end_date": null, 
+    "title": "iOS 9 NSNotificationCenter in Swift (Not Push Notifications)", 
+    "price": 0, 
+    "instructors": "Tom Jay", 
+    "commitment": "36 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/772472_4be6.jpg", 
+    "course_url": "https://www.udemy.com/ios-9-notification-center-in-swift/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-24T03:27:14Z"
+}

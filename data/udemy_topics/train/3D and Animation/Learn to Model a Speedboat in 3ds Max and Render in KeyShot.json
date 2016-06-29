@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>In this series we&#039;re going to create a hydroplane speedboat using mostly splines and polygons. We&#039;ll examine the references/schematics so that we have examples to follow from and then we&#039;ll jump into creating the parts of the model using splines as our foundation for shaping the pontoons, fins, and extra back wing. We&#039;ll then work on the main body/engine of the hydroplane before unwrapping the model for UVs. We&#039;ll also create a quick color map before dropping the model into Keyshot so that we can apply a variety of materials for photo-real renderings.</p><p>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</p><hr style=\"\"><p><u style=\"\">More about the Instructor:</u></p><p>Stephen Wells is an expert 3D modeler for characters, props, vehicles, weapons and environments and have created both high and low polygon assets for game productions. He has over 20 years experience in creating a variety of game assets for several different genres (fantasy, sci-fi, combat, superheroes, horror, etc) using 3ds Max, Maya, Photoshop, ZBrush, Mudbox, Topogun, and xNormal. As an enthusiastic instructor, he loves creating video tutorials on a wide variety of subjects to help students better their skillsets.</p>", 
+    "end_date": null, 
+    "title": "Learn to Model a Speedboat in 3ds Max and Render in KeyShot", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/441762_4ac9.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-learn-to-model-a-speedboat-in-3ds-max-and-render-in-keyshot/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-08T06:37:12Z"
+}

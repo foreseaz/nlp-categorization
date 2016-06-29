@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>This course takes the hands-on approach while getting familiarized with some of the Excel’s advanced concepts. The analysis and dash-boarding capabilities are hence practiced to the fullest. </p><p>At the end of the course, participants would learn/use/acquire the following techniques/knowledge:<br></p><p><strong><u></u></strong></p><ul><li>Appreciate the usage of Lookup functions – VLOOKUP and HLOOKUP </li><li>Explore Reverse Lookup techniques – using INDEX and MATCH  </li><li>Handle formula related errors effectively and perform auditing on the same</li><li>Generate Pivot Tables and Charts from complex datasets, instantly</li><li>Explore the various components of Pivot Tables and Charts                                                        </li><li>Implement Slicers and Sparklines to build interactive dashboards</li><li>Learn the techniques to implement Sparklines in reports</li></ul><p>Each and every topic mentioned above are explained in detail in the Hands-on videos. Exercises and datasets included in this course are useful to practice and implement the concepts learned in this course. For your reference,additional materials are also provided </p><p>This course is is intended for the  financial analysts and business users who are willing to explore the advanced tools present in Microsoft Excel 2013. This training is best suited for all business professionals: data analysts, developers, IT professionals, project leads, and project managers. <br></p>", 
+    "end_date": null, 
+    "title": "Essentials of Financial Analysis using MS Excel", 
+    "price": "20.00", 
+    "instructors": "GreyCampus Inc.", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/702662_37fb_2.jpg", 
+    "course_url": "https://www.udemy.com/essentials-of-financial-analysis-using-ms-excel/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-21T06:17:37Z"
+}

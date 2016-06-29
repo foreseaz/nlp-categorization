@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Entity Framework Kullanarak windows form uygulamaları geliştirmek isteyen kişilere insert,update, delete işlemleri yanısıra backup, truncate vb. veritabanı işlemlerini de EF ile nasıl yapıldığının gösterilmesi yanısıra, model ekranı, karşılaşılan hataların nasıl çözüleceğinin bilileri bu kursta verilmiştir. Ayrıca, kursun son 4 dersinde geliştirilen proje ile datagridview gibi objelerin entitiy ile nasıl kullanılacağı gösterilmiştir. Eğer kod kalabalığından uzak hızlı ve güvenli uygulama geliştirmek istiyorsanız EF yi muhakkak öğrenip denemelisiniz. <span></span></p>", 
+    "end_date": null, 
+    "title": "C#, Entitiy Framework", 
+    "price": "20.00", 
+    "instructors": "MCSD, Senior Software Developer Hayreddin Eren BAŞ", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/792292_8163_4.jpg", 
+    "course_url": "https://www.udemy.com/csharp-entitiy-framework/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-14T12:23:43Z"
+}

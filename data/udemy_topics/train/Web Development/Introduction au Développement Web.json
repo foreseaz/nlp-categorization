@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Dans ce cours, je vous offre <strong class=\"redactor-inline-converted\">une vue d'ensemble sur le développement Web</strong>. On va tout bien expliquer depuis le début.<br>Comment fonctionne un site Web ?<br>Qu'est-ce qu'<strong class=\"redactor-inline-converted\">un client</strong> et qu'est ce qu'<strong class=\"redactor-inline-converted\">un serveur </strong>?<br>Qu'est-ce que le <strong class=\"redactor-inline-converted\">Front-End</strong> et le <strong class=\"redactor-inline-converted\">Back-End</strong> ?<br>Qu'est-ce que<strong class=\"redactor-inline-converted\"> HTML, CSS, Javascript, jQuery, Bootstrap, PHP, MySQL, Wordpress </strong>,etc...?<br></p>\n\n\n\n\n\n\n\n<p>Ce cours est une introduction à la \"<strong class=\"redactor-inline-converted\">Formation Développeur Web</strong>\" dont le but est de vous apprendre le <strong class=\"redactor-inline-converted\">Développement Web de A à Z.</strong> <br>Dans la vidéo <strong>\"Introduction à la Formation Développeur Web\"</strong> , il y a un lien avec une promotion spéciale pour la \"<strong class=\"redactor-inline-converted\">Formation Développeur Web</strong>\", n'hésitez pas à aller la voir :)</p>", 
+    "end_date": null, 
+    "title": "Introduction au Développement Web", 
+    "price": 0, 
+    "instructors": "John Codeur", 
+    "commitment": "36 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/833298_3cbf.jpg", 
+    "course_url": "https://www.udemy.com/introduction-au-developpement-web/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-27T09:49:36Z"
+}

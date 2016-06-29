@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is the beginning track for certification. It is designed for the beginning C# programmer although there are topics of an advanced nature included as well. The topics discussed within this curriculum focus primarily on C# code and not interface design or true event-based programming.</p>  ", 
+    "end_date": null, 
+    "title": "C# Introduction", 
+    "price": "20.00", 
+    "instructors": "CompuWorks Trainers", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/61773_1454_4.jpg", 
+    "course_url": "https://www.udemy.com/cwc-introduction/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-24T20:28:44Z"
+}

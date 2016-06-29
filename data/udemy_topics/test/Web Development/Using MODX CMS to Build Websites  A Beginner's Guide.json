@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t                                Content Management Systems (CMS&#039;s) help you create and manage your website on-line. This course will guide you through using <strong>MODX </strong>to build and maintain your website with <strong>total creative freedom</strong>.  </p>  <p>  \t              Why does MODX win out over other CMS&#039;s? Too often they get in the way. You want to add something but you have to add it as a &quot;widget&quot; or a &quot;block&quot;. You want to change the layout of your site but you don&#039;t have access to the code. MODX<strong> </strong>changes all that, you have total control over the code.  </p>  <p>  \t                You may be familiar with <strong>Drupal</strong>, <strong>Joomla</strong> and <strong>Wordpress, </strong>while these are good at what they do, they all have their limitations. <strong>MODX </strong>is different, you are unrestrained, you can design your website exactly how you want, to look like you want it to look and do what you want it to do.  </p>  <p>  \t                                 This course introduces you to the basic concepts of the MODX content management system<strong> </strong>so you can get up and running with a website that is totally under your control in no time at all. You will learn:  </p>  <ul>  \t<li>how to download MODX</li>  \t<li>how to host MODX</li>  \t<li>how to create the required database </li>  \t<li>how to install MODX</li>  \t<li>what are the key concepts for using MODX</li>  \t<li>finding and using a free website theme</li>  \t<li>adapting a theme to your requirements</li>  \t<li>collecting data from your users</li>  \t<li>how to implement search engine optimisation best practices</li>  \t<li>how to set up Google Analytics and Webmaster Tools to help optimise your site</li>  \t<li>how to make your website social media friendly</li>  </ul>  <p>  \t  The objectives are to:  </p>  <ul>  \t<li>Use MODX with power, ease, and flexibility</li>  \t<li>Build an attractive, functional, and responsive website step-by-step with MODX.</li>  </ul>  <p>  \t  MODX is an <strong>open source CMS </strong>software<strong> </strong>project which means it has been developed by a community of programmers around the world and is given away for <strong>free</strong>.  </p>  <p>  \t  The course is made up of <strong>step-by-step video lessons</strong> in which a responsive website is built using the MODX system and a free template.  </p>  <p>  \t                                A basic understanding of HTML and CSS is all that is required to discover the power of MODX.  </p>  <p>  \t<strong>You can learn all you need to know to start using MODX in just two and a half hours.</strong>  </p>  <p>  \t                                You should take this course if:  </p>  <ul>  \t<li>You have just completed one of the many HTML and CSS courses and want to check out the different CMS options open to you.</li>  </ul>  <ul>  \t<li>You use another content management system such as Joomla, Drupal or Wordpress and you want to compare it to MODX.</li>  </ul>  <p>  \t                            The instructor will be available to answer any questions you have during the course.  </p>", 
+    "end_date": null, 
+    "title": "Using MODX CMS to Build Websites: A Beginner's Guide", 
+    "price": "20.00", 
+    "instructors": "Mike Nuttall", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/297602_16e4_7.jpg", 
+    "course_url": "https://www.udemy.com/using-modx-cms-to-build-websites-a-beginners-guide/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-10T09:44:29Z"
+}

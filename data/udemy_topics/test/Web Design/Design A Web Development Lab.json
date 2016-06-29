@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>In this course I am going to show you how to setup your very own web development lab. Whether you are interested in learning web design, need a platform to build websites for clients, or want to start a web development business, this course will help you do just that!</p>\n\n<p>In this course I will teach you about Virtual Machines (VMs), walk you through building and configuring your first VM, installing Ubuntu LAMP (Linux Apache MySQL and PHP) Server, configuring your share-drives between Ubuntu and Windows, installing Wordpress, and downloading Themes / Plugins for Wordpress.</p>\n\n<p>Best of all, I understand that <strong>your time</strong> is extremely valuable!  I designed this course to get the job done as quickly as possible and for that reason this course is only 45 minutes long! I took every precaution to avoid adding the fluff that will frustrate and hinder your learning.  I edit out every uneccessary waiting and loading times so I don't waste your time!</p>\n\n<p>You don't have any reason to not take this course! I will see you inside the course!</p>", 
+    "end_date": null, 
+    "title": "Design A Web Development Lab", 
+    "price": "20.00", 
+    "instructors": "Paul Hill", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/706050_4887_4.jpg", 
+    "course_url": "https://www.udemy.com/web-design-lab/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-24T23:52:56Z"
+}

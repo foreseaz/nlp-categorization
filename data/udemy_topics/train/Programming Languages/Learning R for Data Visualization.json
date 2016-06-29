@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>R is on the rise and showing itself as a powerful option in many software development domains. At its core, R is a statistical programming language that provides impressive tools for data mining and analysis, creating high-level graphics, and machine learning. R gives aspiring analysts and data scientists the ability to represent complex sets of data in an impressive way.</p>\n\n<p>The course is structured in simple lessons so that the learning process feels like a step-by-step guide to plotting. We start by importing data in R from popular formats such as CSV and Excel tables. Then you will learn how to create basic plots such as histograms, scatterplots, and more, with the default options, which guarantees stunning results.</p>\n\n<p>The second part of the course is dedicated to interactive plots. Static plots, in fact, are extremely important for scientific manuscripts, but nowadays most of our work is done online on websites and blogs, where static plots do not harness the full potential of the technology. Interactive plots, on the other hand, can improve that and allow us to present our results in more appealing and informative ways, by using the native language of the web. Do not worry though, you will not need to learn an additional programming language because this course will show you how to create stunning web plots directly from R.</p>\n\n<p>In the final part of the course, the Shiny package will be extensively discussed. This allows you to create fully-featured web pages directly from the R console, and Shiny also allows it to be uploaded to a live website where your peers and colleagues can browse it and you can share your work. You will see how to build a complete website to import and plot data, plus we will present a method to upload it for everybody to use. Finally, you will revise all the concepts you've learned while having some fun creating a complete website.</p>\n\n<p>By the end of the course, you will have an armour full of different visualization techniques, with the capacity to apply these abilities to real-world data sets.</p><p><strong class=\"redactor-inline-converted\">About The Author</strong></p><p><strong>Dr. Fabio Veronesi</strong> obtained a PhD in digital soil mapping from Cranfield University and then moved to Zurich, where he has been working for the past three years as a postdoc at ETH. There, he is working on Geoinformation topics, ranging from the application of mathematical techniques to the improvement of shaded relief representations to the use of machine learning to increase the accuracy of wind speed maps.</p>\n\n<p>During his PhD, he needed to learn a programming language, because commercial applications did not provide the ideal platforms to pursue his research work. Since R has a series of packages created specifically for the application of statistical techniques to soil science, he decided to teach himself this powerful language. Since then, he has been using R every day for his work.</p>", 
+    "end_date": null, 
+    "title": "Learning R for Data Visualization", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/859650_4df2_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-r-for-data-visualization/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-25T13:43:45Z"
+}

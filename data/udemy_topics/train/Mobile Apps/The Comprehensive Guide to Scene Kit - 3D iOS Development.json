@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Take your app to the next level </strong>with the only fully in depth and <em>comprehensive </em>look at Apple's new framework for 3D development available on the web!</p><p>SceneKit is a framework that allows native developers on iOS to engage users in a totally new way using the elusive and often times intimidating 3D environment on mobile platforms. SceneKit allows developers the much needed access to 3D development that has so far been totally missing form the native world of mobile development, <strong>without</strong> having to use or learn an an entirely separate and external development software like Unity or Unreal Engine. Scene Kit makes it easy for the developers looking to get an edge over the competition to develop in 3D space. It is a powerful framework that has a lot to offer and can be applied to almost any sort of application. </p><p><strong>3D is not just for games!</strong> By learning to use Scene Kit developers can also develop applications that use a 3D interface and push their apps to new heights by creating immersive experiences for the user.</p><p>In this course we cover all the basics of working with SceneKit and then go into all the essentials of SceneKit in detail recreating popular elements of some of today's biggest apps!</p><p> <strong>We include all the models and source code for this class! </strong>Afraid you won't have the 3D assets or know-how to start this course? Do not worry! As we have created all the essential 3D assets for you and included them along with the course and the source code for every step so you are never lost!</p><p><strong>Skip the fluff and get to the main topic! </strong>This is a course that understands that you are here to learn SceneKit and will not take hours and hours of talking about irrelevant information. We get right to the point and tell you what you need to know quickly. We intentionally made this course low on fluff because you need this information, and you need it quickly! We've seen courses before that had all the information but spent hours and hours talking about things not relevant to the topic so we said we are not going to be one of those courses taking a firm stand for <em>information now!</em></p><p><strong>No course is as detailed or covers as many topics in SceneKit</strong> as this course does! If you are looking to get your hands on SceneKit and be among some of the very first developers able to take on this amazing framework then this is the course for you! It is the missing guide for SceneKit that will let you understand the power of SceneKit and allows you to learn every thing you need to in order to start developing your own apps from scratch in 3D!</p><p>Join <em>the Comprehensive Guide to Scene Kit </em>and you will be amazed at how easy it is to get started on the next great app!</p>", 
+    "end_date": null, 
+    "title": "The Comprehensive Guide to Scene Kit - 3D iOS Development", 
+    "price": "30.00", 
+    "instructors": "CEO / Lead Developer Ibram Uppal", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/511424_dc81_4.jpg", 
+    "course_url": "https://www.udemy.com/scene-kit/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-26T03:12:34Z"
+}

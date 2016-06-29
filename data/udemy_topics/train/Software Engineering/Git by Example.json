@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Git is an essential skill for all team members of a technology company</strong>. In order to survive, technology companies are increasingly depending on continuous delivery to give customers a better experience. Git or other methods of Version Control are necessary in order to do this.<br></p>  <p>  \t<strong><strong>Git</strong> is necessary for teamwork, organisation, and management of projects</strong>. It is much easier to work when all team members can immediately see code changes and can follow what others have done.  </p>  <p>  \t<strong>It’s difficult to go wrong with <strong>Git</strong></strong>. You can always roll back if someone deletes code, changes the structure of your project, or sends out incomplete code. Everyone makes mistakes, but when using Git properly, no mistake is fatal.  </p>  <p>  \t  Today we will make sure you get <strong>familiar</strong>, <strong>understand</strong>, and then <strong>master</strong> the extremely popular Version Control system called <strong>Git</strong>. This was originally used in the Linux project, so it is lightweight, but able to cope with the largest of projects.</p>  <p>Throughout the course we will learn:</p>  <ol>  \t<li>What is Version Control, a gentle introduction for those not familiar with it.</li>  \t<li>Markdown: what it is and how to use it.</li>  \t<li>The basic structure of a repository. Vital to understand how everything works on a low level.</li>  \t<li>Using the terminal/console properly.</li>  \t<li>Using VIM, a great text editor within the console. We will use this to write commit messages when not using a GUI.</li>  \t<li>Configuring Git. We will get it to work on any system.</li>  \t<li>Basic Git commands that you will use in every project you are part of: git add, git commit, git push, git pull, git fetch.</li>  \t<li>Writing meaningful commit messages. This is vital, so that everyone looking at the project can see what’s going on.</li>  \t<li>Branches. What are branches?</li>  \t<li>Organising branches via the Gitflow workflow. Ensuring your project has a great and easy to work with structure.</li>  \t<li>Merging two branches together.</li>  \t<li>Dealing with merge conflicts. We won’t have many of these!</li>  \t<li>Using SourceTree for Git outside an IDE.</li>  </ol>  <p>  \t  Now you can <strong>acquire a vital and in-demand skill</strong> to boost your CV and development abilities, help your team deliver working software, and make companies love you.  </p>  <p>  \t<strong>Join us now</strong>, and <strong>tomorrow you could be an expert</strong>. I’ll see you inside!  </p>", 
+    "end_date": null, 
+    "title": "Git by Example", 
+    "price": "20.00", 
+    "instructors": "Jose Salvatierra", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/154716_61b3_6.jpg", 
+    "course_url": "https://www.udemy.com/git-version-control/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-29T13:39:04Z"
+}

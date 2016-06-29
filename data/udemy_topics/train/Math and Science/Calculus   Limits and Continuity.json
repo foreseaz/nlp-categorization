@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p style=\"\">  \t    Limits are the core tool that we build upon for calculus. Many times, a function can be undefined at a point, but we can think about what the function &quot;approaches&quot; as it gets closer and closer to that point (this is the &quot;limit&quot;). Other times, the function may be defined at a point, but it may approach a different limit. There are many, many times where the function value is the same as the limit at a point. Either way, this is a powerful tool as we start thinking about slope of a tangent line to a curve. If you have a decent background in algebra (graphing and functions in particular), you&#039;ll hopefully enjoy this course!!!  </p>", 
+    "end_date": null, 
+    "title": "Calculus : Limits and Continuity", 
+    "price": "20.00", 
+    "instructors": "Rafael Gomes", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/395910_9a3a_2.jpg", 
+    "course_url": "https://www.udemy.com/calculus-limits-and-continuity/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-16T17:07:05Z"
+}

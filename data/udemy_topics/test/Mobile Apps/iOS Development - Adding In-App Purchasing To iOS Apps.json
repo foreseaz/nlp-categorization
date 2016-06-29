@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t This iOS development course covers how to integrate In-App Purchasing into your application. Created by Infinite Skills, this course will teach you how to add In-App purchasing to your apps, which allows app developers to increase their earnings beyond the sale price of the app. This course is designed for users that have previous experience in building apps and working in the native iOS xCode.  </p>  <p style=\"\">  \t <br style=\"\">  \t You will start the course by learning how to set up your app in the Dev Center. The course will show you how to create your purchase items in iTunes Connect, and implement the sale process in code. This video tutorial will also explain and demonstrate the different purchasing options. As a bonus, the course shows you how to use iAds to generate even more app revenue.<br style=\"\">  \t <br style=\"\">  \t By the completion of this computer based training course, you will have developed the necessary skills required to be able to set up and implement In-App purchasing. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "iOS Development - Adding In-App Purchasing To iOS Apps", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/158614_4335_5.jpg", 
+    "course_url": "https://www.udemy.com/ios-inapp-purchase/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-05T15:04:39Z"
+}

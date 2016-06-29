@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tEste  curso está pensado para que conozcas en <strong style=\"\">profundidad Sublime Text</strong>, uno de los mejores editores de texto que existen hoy en día para <strong style=\"\">programar</strong>.  </p>  <p>  \tEn  este curso veremos en profundidad el programa, desde cómo crear  proyectos, crear múltiples espacios de trabajo, navegación entre  proyectos y archivos, instalar y localizar plugins, creación de macros  para automatizar tareas repetitivas, cómo realizar búsquedas avanzadas y  reemplazos de textos, autocompletado de código, cómo crear nuevos  atajos de teclado y muchos más <strong style=\"\">consejos</strong> y <strong style=\"\">trucos</strong> para que afiances tu relación con el editor.  </p>  <p>  \tAdemás te ofreceré una serie de <strong style=\"\">recursos</strong> para hacer tu vida más fácil a la hora de programar y para aumentar aún más tu velocidad de <strong style=\"\">desarrollo</strong> con  Sublime Text.  </p>", 
+    "end_date": null, 
+    "title": "Sublime Text ¡Sé más productivo y desarrolla más rápido!", 
+    "price": "20.00", 
+    "instructors": "Roxana Falasco", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/171932_4eea_5.jpg", 
+    "course_url": "https://www.udemy.com/sublime-text/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-24T12:56:53Z"
+}

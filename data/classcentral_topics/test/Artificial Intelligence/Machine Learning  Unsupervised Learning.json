@@ -1,0 +1,28 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Artificial Intelligence"
+    ], 
+    "description": "\n\n                    \n                    \n                    *This is the second course in the 3-course Machine Learning Series and is offered at Georgia Tech as CS7641. Taking this class here does not earn Georgia Tech credit.*\n\nEver wonder how Netflix can predict what movies you'll like? Or how Amazon knows what you want to buy before you do? The answer can be found in Unsupervised Learning!\n\nClosely related to pattern recognition, Unsupervised Learning is about analyzing data and looking for patterns. It is an extremely powerful tool for identifying structure in data. This course focuses on how you can use Unsupervised Learning approaches -- including randomized optimization, clustering, and feature selection and transformation -- to find structure in unlabeled data. \n\n**Series Information**: Machine Learning is a graduate-level series of 3 courses, covering the area of Artificial Intelligence concerned with computer programs that modify and improve their performance through experiences. \n\n- [Machine Learning 1: Supervised Learning](https://www.udacity.com/course/ud675) \n- [Machine Learning 2: Unsupervised Learning](https://www.udacity.com/course/ud741) (this course)\n- [Machine Learning 3: Reinforcement Learning](https://www.udacity.com/course/ud820)\n\nIf you are new to Machine Learning, we suggest you take these 3 courses in order. \n\nThe entire series is taught as an engaging dialogue between two eminent Machine Learning professors and friends: Professor Charles Isbell (Georgia Tech) and Professor Michael Littman (Brown University).Why Take This Course?You will learn about and practice a variety of Unsupervised Learning approaches, including: randomized optimization, clustering, feature selection and transformation, and information theory.\n\nYou will learn important Machine Learning methods, techniques and best practices, and will gain experience implementing them in this course through a hands-on final project in which you will be designing a movie recommendation system (just like Netflix!).\n\n                                            Syllabus\n                        ### Lesson 1: Randomized optimization\n- Optimization, randomized\n- Hill climbing\n- Random restart hill climbing\n- Simulated annealing\n- Annealing algorithm\n- Properties of simulated annealing\n- Genetic algorithms\n- GA skeleton\n- Crossover example\n- What have we learned\n- MIMIC\n- MIMIC: A probability model\n- MIMIC: Pseudo code\n- MIMIC: Estimating distributions\n- Finding dependency trees\n- Probability distribution\n\n### Lesson 2: Clustering\n- Clustering and expectation maximization\n- Basic clustering problem\n- Single linkage clustering (SLC)\n- Running time of SLC\n- Issues with SLC\n- K-means clustering\n- K-means in Euclidean space\n- K-means as optimization\n- Soft clustering\n- Maximum likelihood Gaussian\n- Expectation Maximization (EM)\n- Impossibility theorem\n\n### Lesson 3: Feature Selection\n- Algorithms\n- Filtering and Wrapping\n- Speed\n- Searching\n- Relevance\n- Relevance vs. Usefulness \n\n### Lesson 4: Feature Transformation\n- Feature Transformation\n- Words like Tesla\n- Principal Components Analysis\n- Independent Components Analysis\n- Cocktail Party Problem\n- Matrix\n- Alternatives\n\n### Lesson 5: Information Theory\n- History\n-Sending a Message\n- Expected size of the message\n- Information between two variables\n- Mutual information\n- Two Independent Coins\n- Two Dependent Coins\n- Kullback Leibler Divergence\n\n### Unsupervised Learning Project\n                                    ", 
+    "end_date": "2014-05-12T00:00:00Z", 
+    "title": "Machine Learning: Unsupervised Learning", 
+    "price": 0, 
+    "instructors": "Charles Isbell and Michael Littman", 
+    "institution_name": [
+        "Brown University", 
+        "Georgia Institute of Technology"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741?utm_medium=referral&utm_campaign=api", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2014-04-14T00:00:00Z"
+}

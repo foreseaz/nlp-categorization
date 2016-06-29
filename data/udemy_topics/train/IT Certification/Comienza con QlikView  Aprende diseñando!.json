@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">El único curso en Castellano / Español en Udemy sobre QlikView. Usamos la ultima versión de QlikView, QlikView 12.<br></strong></p><p><strong class=\"redactor-inline-converted\">Comienza con QlikView: Aprende diseñando!</strong></p><p>Comencemos tu viaje con QlikView juntos. Diseñaremos dos apps desde cero para aprender lo mas importante de QlikView. Te llevaré paso a paso. El primero será uno muy básico para aprender los conceptos básicos. El segundo será ya un poco mas completo donde cubriremos algunos temas mas avanzadas para que puedas crear apps mas completos en el futuro.<br></p>\n\n\n\n<p>QlikView es un software de Business Intelligence, o Business Discovery. Permite importar datos (txt, csv, Excel, XML, QVD o directamente conectando a una base de datos con SQL) para crear aplicaciones que te permitan investigar los datos mas fácilmente.</p>\n\n\n\n<p>En este curso importaremos un archivo de Excel para aprender los conceptos básicos.</p>\n\n\n\n<p>Al final de este curso de QlikView serás capaz de:<br></p>\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Importar datos a QlikView</li><li>Crear y modificar gráficos en QlikView</li><li>Escribir expresiones en QlikView</li><li>Escribir código básico en el Editor de Script</li><li>Escribir expresiones usando Set Analysis</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Y ante todo entenderás lo útil y fácil de usar que puede ser QlikView para investigar tus propios datos y sacar información de negocio muy rápidamente.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Este curso es perfecto para ti si quieres una introducción a QlikView muy practica.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Apuntate! Ya veras lo fácil que es aprender QlikView. <strong>Comencemos tu viaje con QlikView juntos.</strong></p>", 
+    "end_date": null, 
+    "title": "Comienza con QlikView: Aprende diseñando!", 
+    "price": "20.00", 
+    "instructors": "Sebastian Tunnell Gonzalez", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/786384_d79c_5.jpg", 
+    "course_url": "https://www.udemy.com/comienza-con-qlikview/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-08T18:08:11Z"
+}

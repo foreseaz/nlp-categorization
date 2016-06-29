@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Veritas Enterprise Vault is a market-leading archiving product for both for emails and files. In this comprehensive course we will look at how to configure, manage and troubleshoot SMTP Archiving which was introduced in Enterprise Vault 11.0.1. </p>\n\n<p>The course consists of 9 video lectures and 2 quizzes to test your knowledge. Many of the lectures include practical demonstrations of Enterprise Vault SMTP Archiving so that you can see it working. There are also 4 lab exercises for you to try out if you have access to an Enterprise Vault lab system.</p>\n\n<p>This course is aimed at anyone who already has some understanding of Enterprise Vault but who now wants to find out about this new feature of SMTP Archiving. It would be particularly useful for messaging administrators who manage and administer Enterprise Vault and IT consultants who deliver Enterprise Vault services.</p>", 
+    "end_date": null, 
+    "title": "SMTP Archiving with Veritas Enterprise Vault", 
+    "price": "20.00", 
+    "instructors": "Dr Phil Walters", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/841274_d9b7.jpg", 
+    "course_url": "https://www.udemy.com/smtp-archiving-with-veritas-enterprise-vault/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-06T13:22:50Z"
+}

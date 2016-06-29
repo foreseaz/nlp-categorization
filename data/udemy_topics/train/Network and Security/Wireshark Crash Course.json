@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t  Wireshark is the most widely used network capture and protocol analyzer on the market.  It is used by IT and Network administrators to troubleshoot network connectivity issues and by Network Security analysts to dissect network attacks.  This free and open source application is so widely used in the industry because it works.  It is cross platform, meaning that it runs on Windows, Mac, Linux and FreeBSD.  </p>  <p>  \t  This course is an introduction to the application and goes over the basics to get you started capturing and analyzing network traffic.  It will build your base by explaining the theory behind how networks work and then get you in to real world applications of the software.  </p>  <p>  \tIn this course you will learn:  </p>  <ul style=\"\">  \t<li><span>The basics of how networks operate</span></li>  \t<li><span>How to capture traffic on wireshark</span></li>  \t<li><span>How to use display and capture filters</span></li>  \t<li><span>How to use command line wireshark to work with large packet captures</span></li>  </ul>", 
+    "end_date": null, 
+    "title": "Wireshark Crash Course", 
+    "price": "30.00", 
+    "instructors": "Kyle Slosek", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/191290_b743_4.jpg", 
+    "course_url": "https://www.udemy.com/wireshark-crash-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-30T15:57:15Z"
+}

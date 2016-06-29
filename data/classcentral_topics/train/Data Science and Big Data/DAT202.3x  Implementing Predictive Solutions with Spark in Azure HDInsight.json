@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    Are you ready for big data science? In this course, learn how to implement predictive analytics solutions for big data using Apache Spark in Microsoft Azure HDInsight. You will learn how to work with Scala or Python to cleanse and transform data, build machine learning models with Spark MLlib (the machine learning library in Spark), and create real-time machine learning solutions using Spark Streaming. Plus, find out how to use R Server on Spark to work with data at scale in the R language.\n\nNote: To complete the hands-on elements in this course, you will require an Azure subscription and a Windows client computer. You can sign up for a free Azure trial subscription (a valid credit card is required for verification, but you will not be charged for Azure services). Note that the free trial is not available in all regions. It is possible to complete the course and earn a certificate without completing the hands-on practices.\n\n                                    ", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "title": "DAT202.3x: Implementing Predictive Solutions with Spark in Azure HDInsight", 
+    "price": 0, 
+    "instructors": "Graeme Malcolm", 
+    "institution_name": [
+        "Microsoft"
+    ], 
+    "commitment": "3-4 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/implementing-predictive-solutions-spark-microsoft-dat202-3x-0", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-07-11T00:00:00Z"
+}

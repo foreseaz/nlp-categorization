@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Marketing"
+    ], 
+    "description": "<p style=\"\">  \t    In this day and age data is everything. Especially in the digital marketing world because things are often easy to measure.  Before Google Tag Manager came out a couple years ago, if you wanted to know how many people clicked a certain button on your site, you had to have a developer to install a custom javascript code that sends data to Google Analytics.  </p>  <p style=\"\">  \t    Now with Google Tag Manager, marketers can quickly track interactions with website elements (aka event tracking) with a few clicks of the mouse and no coding. Event tracking data doesn&#039;t come with Google Analytics, but its a big part of best practice configurations.  <strong style=\"\">This data is most valuable for understanding your users and deciding on website improvements.</strong> Instantly, you&#039;ll see your data pour into Google Analytics or Universal Analytics and from there…happy analyzing!  </p>  <p style=\"\">  \t    In this course, my 1 hour video series and learning materials will walk you through setting up best practices for Google Analytics event tracking with Google Tag Manager.  </p>  <ul style=\"\">  \t<li style=\"\">I&#039;ll also provide you with a step by step cheat sheet to limit the amount of notes you need to take.</li>  </ul>", 
+    "end_date": null, 
+    "title": "Google Analytics Event Tracking with Google Tag Manager", 
+    "price": "20.00", 
+    "instructors": "Daniel Greco", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/308070_5b5b_3.jpg", 
+    "course_url": "https://www.udemy.com/google-analytics-event-tracking-with-google-tag-manager/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Digital Marketing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-26T02:10:31Z"
+}

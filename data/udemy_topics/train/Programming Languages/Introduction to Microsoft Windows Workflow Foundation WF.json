@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>New videos added, to cover CodeActivity and NativeActivity.</strong><br></p>\n\n<p>At the heart of almost all business processes lies some type of workflow. Whether you are the local pizza shop, a worldwide shipping company, a job board, or a video game manufacturer, you have business processes that drive your business in a systematic way, and that way can be expressed as a workflow.</p>\n\n<p>Of course, workflow modelling has been around for decades. With UML, and other modelling languages, almost all developers are familiar with flowcharts, and pseudo-code, and other ways of expressing a program visually without writing lines of code.</p>\n\n<p>Microsoft provides a workflow tool within the .NET platform called <strong>Workflow Foundation (WF)</strong>. Also called Windows Workflow Foundation. (But don't call it WWF - that's taken.)</p>\n\n<p>Workflow Foundation provides a visual workflow designer where you can model your business processes. You can use three different styles of modeling your workflow:</p>\n\n<ul><li>State diagram</li><li>Flowchart / data driven workflow</li><li>Sequence diagram</li></ul>\n\n<p>Using this workflow designer, you can <strong>separate out the business logic from the implementation code</strong>. You can see, what steps come in what order. You don't have to be a programmer to see and understand the workflow in the workflow designer view. </p>\n\n<p>Of course, if you are a programmer and love working in the IDE, you can code the Workflow using .NET code. The option is yours!</p>\n\n<p>Thank you for signing up for this course on Udemy. The course will always be up-to-date here and nowhere else. I am also available for questions inside the course discussion board.<br></p>\n\n<p>Grab this course today, and understand how Microsoft's Windows Workflow Foundation works!</p>", 
+    "end_date": null, 
+    "title": "Introduction to Microsoft Windows Workflow Foundation WF", 
+    "price": "25.00", 
+    "instructors": "Scott Duffy", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/512922_0a3f.jpg", 
+    "course_url": "https://www.udemy.com/workflow/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-27T16:34:25Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t In this tutorial, we will focus entirely on creating an Options or Preferences screen, using a Single View Application (or UIView based project) or Sprite Kit based project. We&#039;ll create UISwitches, UIButtons, UISliders, UISegmentedControls (and groups of buttons that act like segmented controls), and finally, a UIPickerView. Picker views can be made up of single or multiple columns of &quot;spin-able&quot; data (for example, Apple&#039;s Clock app has a Timer function made up of a double column UIPickerView).  </p>  <p style=\"\">  \t In our hypothetical project we will create a 3-column picker view which populates itself using data from a Property List file. This data is split into a column for the level name (&quot;Ocean, Bad Lands, etc&quot;), a column for the mode of game play (&quot;Kill X&quot; number of enemies, &quot;Collect X&quot; number of coins, or &quot;Beat the Clock&quot;) and third column for a number parameter to tweak the difficulty of each game mode (for example, you could add more time to the &quot;Beat the Clock&quot; mode or add more enemies to kill).  We will make the wheels interconnected as well. So if you spin the first wheel to set the level, it will change the other two wheels to default to the settings defined in the Property List for the level. If you spin the middle wheel to change the game mode, it will automatically change the third wheel to use a different range of numbers (one mode of play might be best with a small range like 1-15, but another might work better in increments of ten, like 60-300).  </p>  <p style=\"\">  \t All of our data is stored in a singleton AppData class, which serves as a go-between to use (or test) our preference variables with any other class. You&#039;ll see how to test any changes made in the OptionScreen class with the main game / app class.  </p>  <p style=\"\">  \t The source projects are saved in increments throughout the tutorial series, and uploaded in the Supplemental Materials tab at notable breakpoints. You&#039;ll get both <strong style=\"\">UIView and Sprite Kit based projects</strong>. The images to use are included as well.  </p>", 
+    "end_date": null, 
+    "title": "iOS 7 Option Screens for UIView or Sprite Kit Based Apps", 
+    "price": "20.00", 
+    "instructors": "Justin Dike", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/115732_b642_8.jpg", 
+    "course_url": "https://www.udemy.com/ios-7-option-screens-for-uiview-or-sprite-kit-based-apps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-05T21:16:15Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Statistics & Probability"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course provides fundamental concepts in probability and statistical inference, with application to engineering contexts. Probability topics include counting methods, discrete and continuous random variables, and their associated distributions. Statistical inference topics include sampling distributions, point estimation, confidence intervals and hypothesis testing for single- and two-sample experiments, nonparametric statistics, and goodness-of-fit testing. Excel will be used to demonstrate how to solve some class examples, and you'll be expected to use Excel to solve some homework problems. The statistical software package R will be introduced to address very basic statistics problems. Course prerequisites include calculus (differentiation and integration).\n\n                                    ", 
+    "end_date": "2016-07-11T00:00:00Z", 
+    "title": "Fundamentals of Engineering Statistical Analysis", 
+    "price": 0, 
+    "instructors": "Kash Barker", 
+    "institution_name": [
+        "The University of Oklahoma"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://janux.ou.edu/course.tag-nextthought-com-2011-10-nti-courseinfo-summer2016-ise-5013.html", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Janux"
+    ], 
+    "start_date": "2016-05-16T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<br><p><strong></strong><strong></strong><strong></strong>Welcome to the Course: Installing Wordpress on a CentOS 7 Linux Server</p>\n\n<p>In this course, we will go over the basics of preparing a CentOS 7 Linux server to run Wordpress. </p>\n\n<p><strong>CentOS 7</strong> (abbreviated from <strong>Community Enterprise Operating System</strong>)\n is free, enterprise-level Linux operating system. Version 7 is the most\n recent release, and it has seen many changes from previous versions. We will cover:</p>\n\n<ul><li>Logging in via SSH</li><li>Running commands from the Command Line</li><li>Running Software Updates on CentOS 7</li></ul>\n\n<p><br></p>\n\n<p><strong>LAMP Stack Configuration</strong> - This is the software required to configure your Linux Server into a Web Server to host a website. We will cover:</p>\n\n<ul><li>Installing Apache, MariaDB and PHP</li><li>Configuring Apache to as the web server</li><li>Configuring MariaDB as the Database software</li><li>Configuring PHP as the scripting language used for Wordpress</li><li>Configuring the firewall to allow web traffic to your server</li></ul>\n\n<p><br></p>\n\n<p><strong>Wordpress </strong>- a free, open source CMS (Content Management System), and is very popular for running a website, blog, and even ecommerce. We will cover:</p>\n\n<ul><li>Downloading Wordpress to your server</li><li>Copying the Wordpress files to your web server's Document Root</li><li>Configuring Apache to work with Wordpress</li><li>Configuring PHP Upload Limits</li></ul>\n\n<p><br></p>\n\n<p><strong>Domain Name - </strong>We will cover how to configure Wordpress with your registered internet domain name.</p>\n\n<ul><li>Configuring your DNS settings to point to your Linux Server</li><li>Configuring Wordpress to work with your registered Domain name</li></ul>\n\n<p><br></p>\n\n<p><strong>Security Considerations</strong> - We will briefly cover some Security Considerations when running Wordpress on your server.</p>\n\n<ul><li>Permissions of Files for Wordpress</li><li>Automatic Updates</li><li>Other Best Practices</li><li>Generating and Installing a Self-Signed SSL Certificate</li><li>Forcing all Wordpress Admin Logins to connect using SSL</li></ul>\n\n<p><br></p>\n\n<p><strong>Course Structure</strong> - This course has two types of Lectures. Guided Videos and Text Lectures:</p>\n\n<p><br><strong>Guided Videos</strong> are a visual step-by-step guide to the commands run and what they do. This is so you can follow along and quickly perform the tasks.</p>\n\n<p><br><strong>Text Lectures</strong> will include all the commands run in the video lectures, and also include some additional information as needed. This way you can refer back to the text without having to watch the entire video again just to find one section.</p>\n\n<p><br><strong>Course Requirements:</strong><br>    •    Computer with a Terminal Application<br>    •    Internet Access<br>    •    Access to a Linux Server running CentOS 7 (I use a Cloud Based Server in this course)</p>", 
+    "end_date": null, 
+    "title": "How to Install Wordpress on a CentOS 7 Linux Cloud Server", 
+    "price": "35.00", 
+    "instructors": "Matt Spenn", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/638716_fade_5.jpg", 
+    "course_url": "https://www.udemy.com/installing-wordpress-on-a-centos-7-linux-server/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-12T23:54:04Z"
+}

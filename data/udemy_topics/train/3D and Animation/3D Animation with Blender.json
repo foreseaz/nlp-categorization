@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p><br></p>\n\n<p>Have you ever wanted to become an animator and bring your imagination to life?</p>\n\n<p> In this course you receive a .Blend file with a free character, scene and props created in the amazing and free 3D software called Blender.</p>\n\n\n\n<p>The course begins by creating a character pose. This simple pose forms the basis of the characters actions. The characters pose allows for for easy animation throughout the scene. This pose involves parenting or connecting a controller object to the characters hand. The Character will be animated using this object later in the scene.</p>\n\n\n\n<p>Next we create a walk cycle for our character. We add a path object to the scene and animate him walking backwards along it as he carefully guides a paint rig into the scene.</p>\n\n\n\n<p>To give the character some reactions we will use shape keys that control some simple face movements that are easily animated throughout the scene.</p>\n\n\n\n<p>We set up a camera to help capture the story of the scene and animate its movement from start to finish.</p>\n\n\n\n<p>We will set up multiple scenes within Blender and render these scenes out in PNG format. Then we will use Blenders video editing features to quickly and easily combine those scenes with sound and render out the the short animation to view on a media player such as VLC.</p>\n\n\n\n<p>Sound easy? You'll be surprised at the results you can achieve with a little time and effort, using this amazing and extremely powerful application that is Blender.</p>", 
+    "end_date": null, 
+    "title": "3D Animation with Blender", 
+    "price": "30.00", 
+    "instructors": "Thomas Mc Donald", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/764088_574e_2.jpg", 
+    "course_url": "https://www.udemy.com/3d-animation-with-blender/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-16T06:56:17Z"
+}

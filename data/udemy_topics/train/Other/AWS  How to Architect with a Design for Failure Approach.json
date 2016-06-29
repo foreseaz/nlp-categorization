@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t  Can&#039;t afford to have failure or overloaded servers take your web deployments offline? Want to learn how to configure truly stable and reliable apps? You need to design for failure.  </p>  <p>  \t  The gold standard for high availability is five 9&#039;s, meaning guaranteed uptime 99.999% of the time. That means just five and a half minutes of downtime throughout an entire year. Achieving this kind of reliability requires some advanced knowledge of the many tools AWS provides to build a robust infrastructure.  </p>  <p>  \t  In this Cloud Academy course, expert Cloud Architect Kevin Felichko will show one of the many possible alternatives for creating a high availability application, designing the whole infrastructure with a Design for Failure. You&#039;ll learn how to use  </p>  <ul style=\"\">  \t<li><span>AutoScaling</span></li>  \t<li><span>load balancing, and </span></li>  \t<li><span>VPC </span></li>  </ul>  <p>  \t<span>to run a standard Ruby on Rails application on an EC2 instance, with data stored on an RDS-backed MySQL database, and assets stored on S3. Kevin will also touch on some advanced topics like using CloudFront for content delivery and how to distribute an application across multiple AWS regions.</span>  </p>  <p>  \t<strong style=\"\">  Should you take this course?  </strong>  </p>  <p>  \t  You will need to have some experience with AWS&#039;s EC2, S3 and RDS, and at least a basic knowledge of AutoScaling, ELB, VPC, Route 53 and CloudFront. But I&#039;ll provide the rest.  </p>", 
+    "end_date": null, 
+    "title": "AWS: How to Architect with a Design for Failure Approach", 
+    "price": "30.00", 
+    "instructors": "Cloud Academy", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/424382_0a21_3.jpg", 
+    "course_url": "https://www.udemy.com/how-to-architect-with-a-design-for-failure-approach/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-16T23:00:28Z"
+}

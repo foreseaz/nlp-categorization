@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Mükemmel web uygulamaları yapmak için bilmeniz gereken her şey bu kursta ;  </strong>  </p>  <ul style=\"\">  \t<li style=\"\"><strong style=\"\">Entity Framework Code First </strong></li>  \t<li style=\"\"><strong style=\"\">LINQ to SQL Sorgu Dili</strong></li>  \t<li style=\"\"><strong style=\"\">Bootstrap 3</strong></li>  \t<li style=\"\"><strong style=\"\">Asp net ve Entity Framework Code First Uygulaması</strong></li>  \t<li style=\"\"><strong style=\"\">Asp net Identity (Üyelik Sistemi) &amp; Visual Studio 2013</strong></li>  </ul>  <p style=\"\">  \t<strong style=\"\">          Entity Framework Code First</strong> kursumuzun amacı programlama dillerinin zor ve karmaşık yapısında kendinizi kaybetmeden kısa zamanda uygulama odaklı olarak basit ve yalın şekilde nasıl mükemmel uygulamalar yaptığınızı görmektir.  </p>  <p style=\"\">  \t        Kursumuza sıfırdan <strong style=\"\">Microsoft </strong>araçlarını kullanarak uygulama geliştirmeyi öğrenmek isteyen ya da bildiklerini güncelleyip yapabileceklerini daha kısa zamanda kolayca yalın ve performanslı şekilde yapmak isteyen tüm yazılım geliştiriciler içindir.  </p>  <p style=\"\">  \t        Kursumuzda ayrıca son zamanlarda popüler olan <strong style=\"\">Bootstrap 3</strong> kütüphanesi , <strong style=\"\">Asp net</strong> <strong style=\"\">data kontrolleri</strong> ve <strong style=\"\">LINQ to SQL</strong> sorgu dili anlatıldıktan sonra baştan aşağıya yep yeni bir dinamik <strong style=\"\">Web uygulama </strong>geliştirilmektedir.  </p>  <p style=\"\">  \t      Yazılım araçları gün geçtikçe yapmak istediklerimizi daha kısa zamanda daha yalın ve daha az efor harcayarak yapmamızı amaçlar bizim tek yapmamız gereken son teknolojileri takip etmektir.  </p>  <p style=\"\">  \t      İşte yazılımcıların son gözdesi olan <strong style=\"\">Entity Framework Code First </strong>bu kursta sadece bu kursa katılarak artık sizde yazılımlarınız da <strong style=\"\">Entity Framework Code First </strong>kullanabilirsiniz.  </p>  <p style=\"\">  \t      Web Geliştiricilerin son gözdesi <strong style=\"\">Bootstrap 3 </strong>de bu kursta bu kursa katılıp bir web uygulamasının kısa zamanda nasıl profesyonel şekle girdiğini göreceksiniz.  </p>  <p style=\"\">  \t  Kursumuza son olarak<strong style=\"\"> Visual Studio 2013 ile Asp net Identity (Üyelik Sistemi) </strong>ayrıntılı olarak anlatılmaktadır. Artık <strong style=\"\">Code First</strong> altyapısı üstüne geliştirilmiş <strong style=\"\">Asp net Identity Sistemi </strong>işlerinizi çok kolaylaştıracak. Uygulamanızı güvenli hale getirmek artık çok kolay...  </p>  <p style=\"\">  \t      Bootstrap sizi <strong style=\"\">Html </strong>ve <strong style=\"\">Css&#039;in </strong>karmaşıklığından kurtaracak ve web tasarımla ilgili her konuyu halletmiş olacaksınız.  </p>  <p style=\"\">  \t<strong style=\"\">LINQ to SQL </strong>Entity Framework ile gelen kodlama anında kullanabildiğiniz veritabanı sorgulama dilidir. Artık karmaşık <strong style=\"\">SQL </strong>sorgu dillerinden kurtulabilir satırlarca yazdığınız <strong style=\"\">SQL </strong>sorgusunu sadece iki üç satırla yazıp zamandan tasarruf edebilirsiniz.  </p>  <p style=\"\">  \t                  Sizde mükemmel uygulamalar geliştirip <strong style=\"\">Microsoft </strong>un son veritabanı odaklı mimarisini kısa zamanda bu kursumuzla öğrenebilirsiniz.  </p>  <p style=\"\">  \t        Kurs boyunca aklınıza takılan tüm soruları anında sorabilir ve en kısa zamanda bilmediğiniz tüm konulara hakim olabilirsiniz.  </p>", 
+    "end_date": null, 
+    "title": "Entity Framework Code First ile Dinamik Asp.Net Uygulamaları", 
+    "price": "20.00", 
+    "instructors": "Sadık Turan", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/306084_545b_3.jpg", 
+    "course_url": "https://www.udemy.com/her-yonuyle-entity-framework-code-first/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-23T13:01:14Z"
+}

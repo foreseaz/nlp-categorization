@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p> <strong>Two courses in one!!!</strong></p><p>Learn Python programming language from scratch with examples and then learn how to write automated web tests using the most popular framework, Selenium WebDriver. The most popular tool for Web testing (WebDriver) combined with one of the most popular and easiest to learn programming languages, will accelerate your success in software quality assurance field.</p><p>Most jobs, if not all, require some knowledge of test automation to be considered as a tester even for manual testing jobs. This course will put you in a position to apply for any software testing job whether it is manual testing or front-end automation.</p><p><strong>Learn and practice the most popular combination of tools for web test automation.</strong></p><ul><li> Syntax of Python language</li><li> Working examples of every concept discussed</li><li> Watch the code run and modify the code as you desire for practice (downloadable files)</li><li> Examples of tests to perform with WebDriver</li><li> Build a small frame work to extend builtin functions of WebDriver</li></ul><p><strong>Fastest way to get into programming and automation field.</strong> </p><p>You will learn Python programming language in a short period of time. Then you will learn Selenium Webdriver. Which is a concept you can transfer to other programming languages easily. Once you lean Python it will make it so much easier to pick up other programming languages. Python is one of the most popular languages out there. Examples of well known applications made with Python are Instagram, YouTube, Twitter, Tinder, Dropbox, Meetup and so much more.  Knowing Python not only enables your to write front-end automation but also sets you up halfway into learning Back-end API testing.</p><p><strong>Contents and Overview</strong></p><p> The first half of this course covers writing code in Python. I cover topics like defining variable, using conditionals, using loops, handling errors, getting help, defining functions and more. At the end of this section you will be able to write small application/programs to solve some task. You will able to read any Python code and understand what the code is doing. If you have automation code at your job or if you are browsing around the web looking at other people's Python code you will be able to understand what the code is doing.  The second part of this course will cover Selenium WebDriver. I will cover how to start running your scripts in different browsers and how to use some additional tools you should use alongside WebDriver. Then we will look at what capabilities WebDriver provides us to interact with elements on the page. We will write working functions and run them against some well known websites and watch WebDriver do its magic.</p><p>All the examples I use, I will run and you will be able to see the results. I will be using slides and editor (PyCharm) for the Python section and I will be using the editor and browser for the WebDriver section of the course.</p>", 
+    "end_date": null, 
+    "title": "Selenium WebDriver and Python: WebTest Automation Course", 
+    "price": "30.00", 
+    "instructors": "Admas Kinfu", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/482754_7146_4.jpg", 
+    "course_url": "https://www.udemy.com/selenium-webdriver-and-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-22T01:02:43Z"
+}

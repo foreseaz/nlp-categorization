@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is designed to be an indepth look at Joomla Content   Management System. The information in this course will take a user   from installation to building a websites.&nbsp; The course will cover   installing and setting up the Joomla environment, creating categories   and articles, adding links and modules, using templates, adding a better editor and a calendar, handling SEO and maintaining and backup your Joomla environment -   everything you need to build your website. </p>", 
+    "end_date": null, 
+    "title": "Joomla Content Management System", 
+    "price": "45.00", 
+    "instructors": "CompuWorks Trainers", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/62095_9265_6.jpg", 
+    "course_url": "https://www.udemy.com/cwjoomla-content-management-system/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-25T15:54:47Z"
+}

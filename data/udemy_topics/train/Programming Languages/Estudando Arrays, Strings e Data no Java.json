@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Este curso foi feito para pessoas que querem aprofundar os seus conhecimentos na linguagem java. Vamos estudar em detalhes os principais classes e métodos para manipulação de Arrays, Strings e também Data.</p><p>Como metodologia usamos o método Ágora de ensino que tem com principal pilar, a máxima de que: \"Para você dominar um assunto completamente, a melhor forma é dividir um assunto macro e assuntos menores\" e por isso estudaremos todos os detalhes de arrays, strings e datas.</p><p>Estes assunto são de extrema importância e utilizados em praticamente qualquer programa feito em java.</p><p>Sempre mesclamos o conteúdo em teoria e prática para facilitar a fixação e o seu aprendizado, também utilizamos a técnica de ajudar você a pensar como programador para melhorar o seu nível de abstração na hora de resolver problemas.</p>", 
+    "end_date": null, 
+    "title": "Estudando Arrays, Strings e Data no Java", 
+    "price": "20.00", 
+    "instructors": "Manoel Jailton Nascimento", 
+    "commitment": "11.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/804410_b852_2.jpg", 
+    "course_url": "https://www.udemy.com/estudando-arrays-strings-e-data-no-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-26T11:49:28Z"
+}

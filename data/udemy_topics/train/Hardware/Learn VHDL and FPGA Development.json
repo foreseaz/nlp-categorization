@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>VHDL and FPGA Development for Beginners and Intermediates is a course that is designed to teach students how to create and successfully simulate their VHDL design. We will also be implementing these designs on a Xilinx BASYS 3 or BASYS 2 FPGA development board so that the students can see their designs actually running. This course starts from beginning to end in teaching the user how to turn their digital logic design into VHDL designs that can be simulated in ModelSim or ISim and then implemented on an FPGA development board. This course also covers how to use Altera's tools so students are not limited to Xilinx development boards.<br></p>  <p>  \tCourse Structure:  </p>  <p>  \tThis course contains over 20 lectures that will teach students the syntax and structure of VHDL. The student will be able to understand the syntax and use of specific VHDL keywords by taking this course. There are lectures included in each lab to give a background on the digital logic circuit the student will be implementing.  </p>  <p>  \tThis course contains 7 labs that are designed so that the student will learn how to develop VHDL code. For each lab I will give the student a set of VHDL files that they will have to modify or change in order to get the project to simulate correctly in ModelSim and so they can implement the design on their FPGA board. These labs are design to help the students learn VHDL by actually coding it themselves.</p><p>Please message me before you sign up for this course!</p>", 
+    "end_date": null, 
+    "title": "Learn VHDL and FPGA Development", 
+    "price": "30.00", 
+    "instructors": "Jordan Christman", 
+    "commitment": "13.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/425522_6fbe_13.jpg", 
+    "course_url": "https://www.udemy.com/vhdl-and-fpga-development-for-beginners-and-intermediates/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-18T01:20:38Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>If I had to pick the single most important topic in software development, it would be data structures and algorithms. Think of it as the fundamental tools available to every computer programmer. The better you get with these tools the more confident a programmer you’ll become. Software development is a vast field requiring all kinds of skill-sets but getting good at this single topic is a huge leap forward in your programming journey and it’ll certainly pave the way for a successful programming career.<br></p>\n\n<p>The topics in this course are going to cover data structures such as lists, stacks, queues, trees and some of the most powerful sorting, searching, and graph algorithms that have revolutionized the field of computing. Throughout the course I keep things practical and provide real life examples of how all of these algorithms work and when &amp; where they can be applied to write efficient computer programs.</p>\n\n\n\n\n\n<p>I’ll be moving at a slow and steady pace introducing each topic followed by a <strong>PRACTICAL</strong> programming assignment so you can immediately apply what you learned. All homework assignments in the course will be accompanied with step by step solution videos demystifying each problem as I code up the solutions. My goal is to make sure, that after you complete this course you feel completely confident going into a coding interview because you will have built a solid foundation in computer programming. So go ahead and signup and I’ll see you in the course.</p>", 
+    "end_date": null, 
+    "title": "Practical Data Structures & Algorithms in Java + HW", 
+    "price": "35.00", 
+    "instructors": "Imtiaz Ahmad", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/798580_82ce_3.jpg", 
+    "course_url": "https://www.udemy.com/practical-data-structures-algorithms-in-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-20T04:32:38Z"
+}

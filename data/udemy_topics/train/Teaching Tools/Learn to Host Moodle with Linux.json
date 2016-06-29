@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Teacher Training"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Learn Linux Ubuntu Server setup</strong>  </p>  <p style=\"\">  \t<strong style=\"\">Learn LAMP setup</strong>  </p>  <p style=\"\">  \t<strong style=\"\">Learn to install PHPmyadmin<br style=\"\">  \t</strong>  </p>  <p style=\"\">  \t<strong style=\"\">Learn to setup and run Moodle</strong>  </p>  <p style=\"\">  \t      Have you ever thought, what knowledge do I need to host my own server?  </p>  <p style=\"\">  \t      This course will show you what it takes to become Moodle administrator and in few easy steps how you can use Linux to run your own server.  </p>  <p style=\"\">  \t      Linux is one of the most stable systems in the world and is totally free.  </p>  <p style=\"\">  \t      Do not get fooled by companies that tell you that you need bought hosting and experts to run your Moodle server.  </p>  <p style=\"\">  \t      Moodle hosting made easy makes you the expert. Great way to save money on licenses and support.  </p>  <p style=\"\">  \t      All the software used in this course is free.  </p>  <p style=\"\">  \t      I have designed the course using both video lectures and the I also have the Linux commands in written text. This makes this course easy to follow and understand. I will teach you the skills you need and if you follow the instructions you will have a secure setup of Moodle running in just few hours.  </p>  <p style=\"\">  \t      It does not matter if you are a teacher or if you are a technical person this course will help you better understand how Moodle works and why it is the most popular LMS system in the world.  </p>", 
+    "end_date": null, 
+    "title": "Learn to Host Moodle with Linux", 
+    "price": "50.00", 
+    "instructors": "Runar Sigurdsson", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/387856_df7f_3.jpg", 
+    "course_url": "https://www.udemy.com/moodle-hosting-made-easy/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Teaching Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-07T18:15:53Z"
+}

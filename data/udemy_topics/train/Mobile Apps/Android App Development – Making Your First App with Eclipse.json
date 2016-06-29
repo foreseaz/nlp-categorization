@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  Mobile apps are all around us.  I know a lot of people are intimidated by the sound of coding and I want to prevent that.  In my tutorial series we’ll be making a mobile app from scratch.  We’ll be writing our Android application in JavaScript and XML (Extensible Markup Language) that will cover topics such as…  </p>  <ul style=\"\">  \t<p style=\"\">  \t\t  ·Customizing text in XML  \t</p>  \t<p style=\"\">  \t\t  ·Splash Screen  \t</p>  \t<p style=\"\">  \t\t  ·Buttons  \t</p>  \t<p style=\"\">  \t\t  ·Image Buttons  \t</p>  \t<p style=\"\">  \t\t  ·Sound FX  \t</p>  \t<p style=\"\">  \t\t  ·Menu  \t</p>  \t<p style=\"\">  \t\t  ·Full screen mode  \t</p>  \t<p style=\"\">  \t\t  ·Toast notifications  \t</p>  \t<p style=\"\">  \t\t ·Navigation  \t</p>  </ul>", 
+    "end_date": null, 
+    "title": "Android App Development – Making Your First App with Eclipse", 
+    "price": "20.00", 
+    "instructors": "Andrew Durtka", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/254568_3bd2_8.jpg", 
+    "course_url": "https://www.udemy.com/android-app-development-making-your-first-app-with-eclipse/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-02T17:07:55Z"
+}

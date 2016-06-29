@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This Course is fully updated.</p><p><span></span><strong>\"Author Usman goes straight to the point. most courses don't do that, they just waste your time with pep talk!. I loved the hands on section where he illustrates Ajax using a php chat system. Hit the nail on the head!! I highly recommend this course. Passionate Author, Obviously knowledgeable about the trade and replies to all questions. Awesome!\"...<em>Frank Dupree</em></strong><br></p><p>This AJAX course will teach you what AJAX is and how to start using it with PHP to create excellent web applications like a chat system.</p><p>AJAX is all around us, just type something in the GOOGLE search bar and you will automatically see words appear in the input, that's the AJAX.</p><p>If you really want to make web applications better and interactive for the users then you really need to learn ajax.</p><p>we'll create a chat application in the last section of the course.</p><p>Ajax makes you work asynchronously, asynchronously means without page reload. Let me share the actual definition of AJAX here:</p><p><strong><em>\"The method of exchanging data with a server, and updating parts of a web page - without reloading the entire page\" </em></strong></p><p>Now you got the idea about ajax, it's time to jump in the course and learn it.!<span></span></p>", 
+    "end_date": null, 
+    "title": "Ajax in JavaScript and JQuery, with PHP", 
+    "price": "20.00", 
+    "instructors": "Usman Raoof", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/564366_b10e_6.jpg", 
+    "course_url": "https://www.udemy.com/ajax-in-javascript-and-jquery-with-php/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-25T12:53:30Z"
+}

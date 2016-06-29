@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Create your own Single Page Scrolling Website from Scratch. </strong> Single page websites are extremely popular, in this course we show you how to build one from Scratch.  All the source files and resource links are included, so you too can build your own website by the end of this course.  </p><p>With over 14 years experience in web development I'll introduce you to website design, explained step by step.  </p><p>Starting with a setup of a basic<strong> HTML5</strong> web template. Next we add in some content and create a shell to build the one page website on.   </p><p>Next we bring the content to life using<strong> CSS3</strong>.  Styling turns the HTML code into a styled webpage.</p><p><strong>JavaScript</strong> and <strong>Jquery</strong> are then used to create amazing scrolling effects.  Using data from the DOM, and properly calculating the section sizes we show you how to create page scrolling with Jquery.</p><p>All the source files and resources are included so you can get started quickly.  Build an amazing website in less than an hour.</p><p>Bonus content - update the code to create a fully functional website.  Expand your portfolio and practice website design.  We turn the previous menu into a fully functional sticky header menu.   Add images and colors to create the sample website, ready for the real world.  Make it responsive and have it re-size and expand to fit any screen.</p><p>Lots of bonus content, an instructor who helps and responds to questions quickly.  </p><ul><li>Learn to create a contact form</li><li>learn how to apply JQUERY with HTML and CSS</li><li>Access and interact with the Document Object Model DOM</li><li>add Bootstrap for styling</li><li>use Awesome fonts for cool fonts</li></ul><p><strong>Learn to Create your own website in easy to follow steps.  Let's get started creating amazing websites.</strong></p><p><br></p>", 
+    "end_date": null, 
+    "title": "HTML5 CSS3 JQUERY Single Page Website Project from Scratch", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/749560_c43d_3.jpg", 
+    "course_url": "https://www.udemy.com/html5-css3-jquery-single-page-website-project-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-02T01:16:20Z"
+}

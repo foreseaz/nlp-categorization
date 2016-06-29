@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course you will learn how to use PHP and the <em style=\"\">gettext</em> program to adapt your website so it works in more than one language.</p><p>We will look at how to internationalise your code, how to configure gettext, and how to create the files a translator uses to translate your website.</p><p>If you need your website or web application to be available in more than one language, then this course will take you through the steps you need to take to achieve that, both on the server (PHP) and in the client (Javascript).<br style=\"\"></p><p>We start the code from scratch and build on it in each lecture. Complete annotated source code for all the examples is downloadable for each lecture.<br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Learn How to Code a Multilingual Website using PHP", 
+    "price": "20.00", 
+    "instructors": "Dave Hollingworth", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/36418_3d2a_7.jpg", 
+    "course_url": "https://www.udemy.com/internationalization-i18n-with-php-and-gettext/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-01-16T14:02:41Z"
+}

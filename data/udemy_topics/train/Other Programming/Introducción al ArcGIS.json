@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Al completar todas las lecciones de este curso obtendrás un Certificado de Cumplimiento.</strong>  </p>  <p style=\"\">  \t  Este curso te proporcionará los fundamentos para llevar a cabo procesos de consulta, selección, representación y manejo de datos espaciales y tabulares en ArcGIS.  </p>  <p style=\"\">  \t     Durante el transcurso de las lecciones aprenderás los conceptos básicos por medio de videos y ejercicios prácticos.  </p>  <p style=\"\">  \t     En solo tres horas contarás con los elementos básicos para realizar análisis espaciales y, al conocer la interfaz del programa, serás capaz de explorar sus funcionalidades.  </p>  <p style=\"\">  \t  El curso se encuentra estructurado en tres secciones:  </p>  <ul style=\"\">  \t<li style=\"\">Introducción al ArcGIS: orígenes, principales aplicaciones</li>  \t<li style=\"\">Fundamentos de ArcCatalog: generación y manejo de datos</li>  \t<li style=\"\">Fundamentos de ArcMap: herramientas de visualización, consulta, selección, manejo de datos tabulares.</li>  </ul>  <p style=\"\">  \t  ¿Por qué tomar el curso?  </p>  <p style=\"\">  \t  Hoy en día, el manejo y análisis de información espacial resulta de mucha importancia en diversos ámbitos del mundo laboral. Ejemplo de ello es la aplicación de las herramientas SIG en las áreas de ordenamiento territorial, manejo ambiental, mercadotecnia y análisis socioeconómico.  </p>", 
+    "end_date": null, 
+    "title": "Introducción al ArcGIS", 
+    "price": "20.00", 
+    "instructors": "Capacitación  24/7", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/202270_7041_4.jpg", 
+    "course_url": "https://www.udemy.com/introduccion-al-arcgis/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other Programming"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-20T22:19:53Z"
+}

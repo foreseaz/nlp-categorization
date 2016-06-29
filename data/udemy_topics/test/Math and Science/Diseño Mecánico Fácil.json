@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>En este curso aprenderás los conceptos que te permitirán enfrentarte a tu examen de diseño mecánico de una manera sencilla. </p><ul><li>Aprenderás a calcular elementos mecánicos y vigas sometidas a cualquier tipo de esfuerzo. Tracción, compresión, cortante, flexión, torsión y combinación de varios.</li></ul><ul><li>Estudiaremos deformaciones tanto elásticas como plásticas</li></ul><ul><li>Calcularemos posiciones, velocidades y aceleraciones en mecanismos.</li></ul>", 
+    "end_date": null, 
+    "title": "Diseño Mecánico Fácil", 
+    "price": "30.00", 
+    "instructors": "Rafael Escalera Rivas", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/612712_049f_2.jpg", 
+    "course_url": "https://www.udemy.com/diseno-mecanico-facil/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-15T12:58:42Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is about Bootstrap and its basic structure and classes and all that things which are really useful for who wants to work with this and don't have an idea about bootstrap.</p><p>by this course students will be able to work in development and designing.</p><p>This course is not too much  long but all useful things are covered in this course. </p><p>Every web developer should know how to properly code a responsive website. <strong>Bootstrap 3</strong> is an ultimate <strong>framework </strong>that learns you how to think when coding responsive websites and makes their creation much easier and faster.</p><p><strong>Why we choose Bootstrap??</strong></p><div>It's a very popular, well designed, open source UI framework  <div>•  <div><strong>CSS wrappers for many Javascript components  </strong><div><strong>•modal windows, typeahead, tooltips, etc.  </strong><div>•  <div>Mobile-first design  <div><strong>•Bootstrap 3.0 is in the vanguard of responsive, mobile-first UI design frameworks</strong></div></div></div></div></div></div></div><p>This <strong>list of </strong>some<strong> Bootstrap classes</strong> <strong>with </strong>some <strong>description which i explained in this video series</strong></p><p><strong></strong></p><p><strong>.container</strong></p><ul><li>sets fixed width to an element (which changes depending on a screen\n size to other fixed values, so it's still responsive)</li><li>a fixed width responsive website should be wrapped in .container </li><li>.container can't be nested!</li></ul><p><strong>.container-fluid</strong></p><ul><li>sets 100% width, margin-left and margin-right: auto, padding-left and padding-right: 15px</li><li>a full screen website should be wrapped in .container-fluid</li><li>.container-fluid can't be nested!</li></ul><p><strong>.row</strong></p><ul><li>creates horizontal groups of columns (which usually have width classes, see below)</li><li>must be within .container to ensure correct padding and alignment</li><li>only columns (block elements with width classes) may be immediate children of rows</li></ul><p><br></p><ul><strong></strong><li><strong>Bootstrap Grid Classes\n\n</strong></li></ul><p><br></p><ul><li>can be nested, the nested columns must be wrapped in .row as well</li><li>all columns have float: left and position: relative styles</li></ul><p><br></p><p><strong> </strong><br></p><p><br></p><p><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Bootstrap Tutorial for Beginners", 
+    "price": "20.00", 
+    "instructors": "Developer Rachna Makwana", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/768612_890d_2.jpg", 
+    "course_url": "https://www.udemy.com/bootstrap-tutorial-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-20T12:59:41Z"
+}

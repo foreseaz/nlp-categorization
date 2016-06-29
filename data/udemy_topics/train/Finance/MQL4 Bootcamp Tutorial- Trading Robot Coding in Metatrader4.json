@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\">Gerade im automatischen Devisenhandel stellt man sich häufig die Frage: Was wäre wenn?</p> <p style=\"\">Was wäre, wenn man ein System findet, mit dem man zuverlässig automatisch und profitabel handeln kann? Was wäre, wenn man eine funktionierende Handelslogik aufdecken könnte, OHNE die Zukunft vorraussagen zu wollen?</p> <p style=\"\">Interessant finde ich besonders die Möglichkeit in einem MQL4 System wieder und wieder einen Test mit den exakt gleichen historischen Daten durchzuführen und dabei jedesmal eine Kleinigkeit in den Einstellungen zu verändern. </p> <p style=\"\">Damit kann man relativ einfach und in kurzer Zeit feststellen, ob und was sich verändert und Anpassungen im eigenen Handelssystem vornehmen.</p> <p style=\"\">Nehmen wir beispielsweise einmal an wir würden unserem automatischen Handelssystem beibringen einen Gewinn von 2 Euro als Signal dafür zu nehmen, dass unsere Gewinnspanne erreicht ist und ein Trade geschlossen werden soll. </p> <p style=\"\">Wie würde sich jetzt auf ein ganzes Jahr gerechnet unser Endergebnis verändern oder verbessern, wenn wir dieses Gewinnziel von 2 euro auf 5 Euro verändern?</p> <p style=\"\">Was würde passieren, wenn wir uns entschließen von 2 Euro auf 50 Cent herunter zu gehen? Haben wir dann schneller die gleichen Profite oder erzielen wir nur noch ein Viertel davon?</p> <p style=\"\">Was im wahren Leben Monate oder Jahre dauert können wir in MQL4 in wenigen Minuten durchrechnen lassen.</p> <p style=\"\">Man sagt immer, Zeit ist Geld und in diesem Fall stimmt beides, denn wir können uns durch die Erkenntnisse die wir in kurzer Zeit gewinnen können auf lange Sicht viel Geld sparen.</p> <p style=\"\">Diskretionäre Trader haben diesen Vorteil nicht. Sie müssen viele Jahre hintereinander handeln um die gleichen Erkenntnisse gewinnen zu können, die mit einem MQL4 System innerhalb eines Nachmittages gewonnen werden können.</p> <p style=\"\">Auch wenn viele durchschnittliche Trader auf dieser Welt nicht viel vom automatischen Handel halten wird jeder erfolgreiche Trader einer Tatsache auf jeden Fall zustimmen: Nichts kann eigene Erfahrung ersetzen. </p> <p style=\"\">Und tatsächlich trifft das für viele andere Bereiche zu. Auch im alltäglichen Leben legen wir viel Wert darauf Menschen zu finden die auf ihrem Gebiet viel Erfahrung gesammelt haben.</p> <p style=\"\">Niemand möchte sich von einem Arzt operieren lassen, der so eine Operation vorher noch niemals gemacht hat. Wir wollen den Spezialisten!</p> <p style=\"\">Wir sind durchaus bereit viel Geld zu bezahlen um Spezialisten zu beauftragen, die durch ihre Erfahrung in der Lage sind gute Resultate zu erzielen und uns eine Menge Zeit zu sparen.</p> <p style=\"\">Warum also sollte man den größten Vorteil im Trading, nämlich die Möglichkeit wertvolle Handelserfahrungen in einem Bruchteil der sonst benötigten Zeit zu machen freiwillig aufgeben?</p> <p style=\"\">Ja, es dauert eine Zeit bis man MQL4 gelernt hat. Aber Lesen und Schreiben lernen hat auch einige Zeit gedauert. Oder Autofahren lernen in der Fahrschule. </p> <p style=\"\">Wenn Du das ab heute lernst, vergeht wahrscheinlich ein Jahr bis Du das kannst. Aber wieviel Zeit vergeht während Du das nicht lernst? Vermutlich genau so viel, oder? </p> <p style=\"\">Es gibt eine weitere Tatsache, die kein erfolgreicher Trader bestreiten wird: Ein profitables Tradingsystem besteht aus nachvollziehbaren Regeln und ihrer disziplinierten Umsetzung. </p> <p style=\"\">Und was macht eine Regel aus? Eine Regel folgt einer logischen Gesetzmässigkeit, einer Formel die immer wieder vom Trader überprüft und angewendet wird. </p> <p style=\"\">Und jeder Trader macht das mit computergenerierten Kursen auf computergenerierten Charts und vermutlich nutzt er dafür sowieso computergenerierte Indikatoren - die er dann manuell überprüft statt das auch den Computer machen zu lassen.</p> <p style=\"\">Für mich ist MQL4 damit das einzig fehlende Puzzlestück wenn Du wertvolle Antworten auf die Frage haben willst: Was wäre wenn?</p><p style=\"\"></p><p style=\"\"></p>", 
+    "end_date": null, 
+    "title": "MQL4 Bootcamp Tutorial- Trading Robot Coding in Metatrader4", 
+    "price": "20.00", 
+    "instructors": "Raimund Bauer", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/542950_aaf9_2.jpg", 
+    "course_url": "https://www.udemy.com/mql4-bootcamp-tutorial-trading-robot-coding-in-metatrader4/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-02T09:26:07Z"
+}

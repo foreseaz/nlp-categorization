@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>  \t  DCF analysis is both academically respected and widely used on Wall Street as a primary method of valuation. Many finance interview questions specifically test a candidate&#039;s understanding of the DCF. <span>The step-by-step modeling course uses a real case study approach and is designed to mimic the experience of an financial analyst.</span>  </p>  <p>  \tThis course builds on Wall Street Prep&#039;s financial statement modeling course to teach trainees how to build a working discounted cash flow (DCF) model in Excel from scratch.  </p>  <p>  \tAlong the way, you will learn how to estimate the weighted average cost of capital (WACC) in the real world, and build several commonly used approaches to calculating terminal value. Finally, we will use data tables to analyze a broad range of scenarios given different assumptions.  </p>", 
+    "end_date": null, 
+    "title": "Build a DCF Valuation Model", 
+    "price": "50.00", 
+    "instructors": "Wall Street  Prep", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/297742_1545_4.jpg", 
+    "course_url": "https://www.udemy.com/build-a-dcf-valuation-model/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-10T14:21:49Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>If you have never worked with Core Data before, this mighty framework can seem a little intimidating. But the fact is, once you understood the basics of the Core Data framework you will hardly believe that there was a time when you didn't want to use it. </p>\n\n<p>In this course you will learn exactly as much theory about databases as you need to get started with building your own data models with Xcode and Core Data. You are going to learn why relationships not only matter in real life, but also when talking about structuring data in your apps. You will learn all about the benefits that come with using Core Data and then put them into practice in easy examples. </p>\n\n\n\n<p>After learning all the necessary basics regarding Core Data, you will create a complex app that will combine everything you have learned so far. Creating this app will give you insights into other advanced iOS development techniques. You are even going to integrate iCloud into a Core Data driven application. </p>", 
+    "end_date": null, 
+    "title": "iOS and CoreData: Create Professional Data Driven Apps", 
+    "price": "20.00", 
+    "instructors": "Daniel Autenrieth", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/828226_80a6_3.jpg", 
+    "course_url": "https://www.udemy.com/become-an-ios-core-data-expert/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-21T16:06:01Z"
+}

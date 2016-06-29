@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">****Course Updated May 2016**** </strong></p>\n\n<p><strong class=\"redactor-inline-converted\">Are You Ready for PHP7?</strong></p>\n\n<p>Hi,Welcome to this course Learn PHP 7 With <strong class=\"redactor-inline-converted\">PhpStorm 2016.1</strong>.PHP 7 brings a wealth of new features, bug fixes, most important is performance improvements.This Course is for PHP developers looking to jump into PHP 7. You’ll need previous experience with PHP in order to understand the topics and examples we’ll cover.The new PHP version is a nice addition to the PHP family with refined features all round. PHP will still be around despite what developers say. The more you know about PHP 5 and OOP, the more you’ll understand why some of the changes are important and how they’ll impact your development.</p><p>This course is designed to make it easy for anyone to learn about PHP 7.It has been divided into following main sections:</p><ol><li><strong>Type declarations<br></strong></li><li><strong>Anonymous classes<br></strong></li><li><strong>Generator delegation<br></strong></li><li><strong>The null coalesce operator<br></strong></li><li><strong>The space ship operator<br></strong></li><li><strong>division function<br></strong></li><li><strong>Uniform variable syntax<br></strong></li><li><strong>Handling Errors </strong></li></ol><p>This course will help you quickly master all the difficult concepts.</p><p>Let's Get started!</p><p><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "(New) Learn PHP 7 With PhpStorm 2016.1", 
+    "price": "20.00", 
+    "instructors": "GoThink Learning Solutions", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/859774_487f.jpg", 
+    "course_url": "https://www.udemy.com/php-7-with-phpstorm/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-25T16:23:13Z"
+}

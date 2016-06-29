@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>  \tNumber systems are a common math and computer science topic. This course is about mastering conversion between 4 common number systems: Decimal, Binary, Octal and Hexadecimal.  </p>  <p>  \t<strong>Number System Conversion The Easy Way!</strong>  </p>  <ul>  \t<li><span>Convert Decimal&lt;=&gt;Binary</span></li>  \t<li><span>Convert Decimal&lt;=&gt;Hex</span></li>  \t<li><span>Convert Hex&lt;=&gt;Binary</span></li>  \t<li><span>Convert Hex&lt;=&gt;Octal</span></li>  \t<li><span>Convert Decimal&lt;=&gt;Octal</span></li>  \t<li><span>Fractional conversion from Decimal&lt;=&gt;Binary</span></li>  </ul>  <p>  \tIn this course, I teach and show through example how to easily convert between Binary (base 2), Octal (base 8), Decimal (base 10), and Hexadecimal (base 16). We start by counting in base-n, and get a feel for what counting in a base-n system really means. You will understand how a base-n system only has n digits to count with (for example, in Decimal there are only 10 digits), and how we can reach higher numbers after using up those 10 digits.  </p>  <p>  \tThrough these lectures, we explore the special relationship between Hexadecimal and Binary (a hex digit is really four binary digits), and Octal and Binary (an octal digit is really 3 binary digits). Binary is really the star of this course. We spend some time in the course exploring these relationships between Octal and Binary and Hexadecimal and Binary. In the Hexadecimal to Octal lecture, I show how the computation can be made super easy by using Binary as an intermediate conversion step. You’ll wonder how you managed these conversions without this technique! You probably won’t learn an easier method!  </p>  <p>  \tWe also cover conversion from fractional Decimal numbers to fractional Binary. You will probably find it surprisingly easy!  </p>  <p>  \tConversions between number systems almost always show up on computer science tests. You want to be able to breeze through these conversions quickly, easily, and correctly. If you enjoy math, you’ll find this course a nice leisurely exercise. After this course, you will walk away from this course a master of number system conversion. You will feel very comfortable converting between each of Decimal, Hex, Octal and Binary.  </p>", 
+    "end_date": null, 
+    "title": "Easy Binary, Hexadecimal, and Octal Math Conversion", 
+    "price": "20.00", 
+    "instructors": "William Sherif", 
+    "commitment": "37 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/326622_278b_3.jpg", 
+    "course_url": "https://www.udemy.com/easyhexbin/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-24T19:52:32Z"
+}

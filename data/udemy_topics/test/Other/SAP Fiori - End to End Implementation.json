@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Course is about - How to install SAP Fiori &amp; configure. </p><p>Audience - SAP Basis, SAP Fiori Administrators, SAP Fiori Architects, SAP Fiori Developers. </p><p>Course is structured with Pre steps, Installation steps, Post Steps, Configuration of Fiori Launchpad, Fiori Theme Designer, Customizing Fiori logon Screen, Deploying ESS/MSS Fiori Tile, Step by Step of TDMS Fiori App Configuration, Cache Administration etc.</p><p>It really helps for Basis, Admin, Fiori Architect folks.</p>", 
+    "end_date": null, 
+    "title": "SAP Fiori - End to End Implementation", 
+    "price": "50.00", 
+    "instructors": "Fiori Training", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/729440_5842_3.jpg", 
+    "course_url": "https://www.udemy.com/sap-fiori-admin/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-15T20:59:52Z"
+}

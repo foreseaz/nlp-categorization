@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    Conecta tus páginas de internet con datos y dales nueva vida. En la actualizada es fundamental poder hacer páginas que lean datos externos para ser procesados y mostrados al usuario. En la evolución de la Internet, se han destacado diferentes formatos como XML, que lleva más tiempo en el ámbito de Internet y que por lo es más robusto y extendido, y el relativamente &quot;nuevo&quot; formato JSON, que es más sencillo, pero igual de poderoso.  </p>  <p>  \t  También revisaremos la importante función de conectarnos a una base de datos por medio de un lenguaje intermedio del servidor, en este caso es PHP y la base de datos es MySQL para contar con un panorama completo en el desarrollo de aplicaciones Web.  </p>  <p>  \t    La instrucción que revolucionó a las páginas web, fue el XMLHttpRequest que nos permitirá leer los datos en el &quot;background&quot;, por lo que podremos mostrar diferente información en nuestras páginas sin necesidad de refrescar toda la página cada vez que lo hagamos. Esta intrusión es la base de lo que conocemos como AJAX, lo cual nos permite hacer páginas tipo RIA (Rich Internet Aplication) sin necesidad de utilizar un plug-in de terceros, como Adobe Flash.  </p><p>También revisamos el File-API de HTML5 para leer archivos de la computadora del usuario y utilizarlos con JavaScript.</p>  <p>  \t    En este curso revisaremos estas tres tecnologías, AJAX, JSON y XML, y daremos una revisión a su relación con otras dos: PHP y jQuery.  </p>", 
+    "end_date": null, 
+    "title": "Trabajando con datos en la Web", 
+    "price": "20.00", 
+    "instructors": "Francisco Javier Arce Anguiano", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/356578_d1b9_4.jpg", 
+    "course_url": "https://www.udemy.com/trabajando-con-datos-en-la-web/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-26T00:31:16Z"
+}

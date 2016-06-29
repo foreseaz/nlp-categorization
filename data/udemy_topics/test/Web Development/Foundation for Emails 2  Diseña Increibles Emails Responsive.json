@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>¿Has iniciado un negocio, blog o quieres ofrecer tus servicios por email? ¿Te gustaría crear un diseño único para tu empresa o negocio y no usar las plantillas de otros servicios? Este curso es para ti!</p><p>Antes de empezar debo decir que elaborar e-mails para campañas publicitarias es una tarea aburrida, tediosa y cansada, LA BUENA NOTICIA es que este curso te explicará como utilizar FOUNDATION FOR EMAILS 2, el framework más avanzado que con pocas líneas de código te permitirá tener un diseño adaptable a todos los servicios de E-mail.</p>\n\n<p>Aprenderás Foundation for Email 2 y sus mejores funciones como Inliner, Inky, SASS, y componentes como Menús, Grid, Callouts, etc.</p>\n\n<p>Conocerás servicios como Litmus para probar tu e-mail antes de enviarlo y MailChimp para enviarlo a una lista de usuarios.</p>\n\n<p>Crearemos 2 diseños totalmente personalizados que te ayudarán a practicar e implementar cualquier diseño para tu negocio, trabajo o blog.</p>\n\n<p>Al finalizar el curso tendrás todo lo necesario para crear tus propios diseños, probarlos y enviarlos por una de los servicios más populares como MailChimp.</p>", 
+    "end_date": null, 
+    "title": "Foundation for Emails 2: Diseña Increibles Emails Responsive", 
+    "price": "20.00", 
+    "instructors": "Juan Pablo De la torre Valdez", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/824470_8132.jpg", 
+    "course_url": "https://www.udemy.com/foundation-for-emails-2-disena-increibles-emails-responsive/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-17T17:58:30Z"
+}

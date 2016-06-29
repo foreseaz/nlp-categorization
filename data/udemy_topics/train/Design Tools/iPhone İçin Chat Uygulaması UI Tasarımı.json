@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Adım adım mobil ortamı için bir uygulamanın UI Tasarımı nasıl yapılır ve UI tasarımı yaparken dikkat etmeniz gereken genel bilgileri bulabilceksiniz. Ayrıca UI elemanları dizayn ederken, hizalamadan planlamaya kadar bir çok süreci görebileceksiniz.</p><ul><li>Wireframe'ler hazırlamak</li><li>Görseller oluşturmak</li><li>Icon'lar çizmek</li><li>UI elemanları yerleşimde neler dikkate alınır</li><li>Efektler</li><li>İnteraktif durumları tasarlamak</li><li>Hizalamalar ve text size'larını belirmek</li><li>Planlamalar yapmak</li><li>Programlar arasında ortak geçişler</li><li>Butonlar tasarlamak</li><li>Alternatifler üretmek</li><li>Artboard'lar ile çalışmak</li><li>Mockup denemeleri</li></ul>", 
+    "end_date": null, 
+    "title": "iPhone İçin Chat Uygulaması UI Tasarımı ", 
+    "price": 0, 
+    "instructors": "Ramazan Yildiz", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/726980_49c8_2.jpg", 
+    "course_url": "https://www.udemy.com/iphone-icin-chat-uygulamas-ui-tasarm/", 
+    "subject_name": [
+        "Design Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-13T16:21:41Z"
+}

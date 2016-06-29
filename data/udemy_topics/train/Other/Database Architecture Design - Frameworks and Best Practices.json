@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course is designed to assist database analysts, database architects and IT development personnel in understanding \"Best Practices\" that should be considered when architecting the data solutions for a corporation.  </p>\n\n<p>It starts out by discussing the The Enterprise Data Environment Framework which provides the architectural boundaries for all aspects of architecting a corporation's data.  This defines the scope within which the architect will work - from database structures through to data management, data services, data security, etc.</p>\n\n\n\n<p>Then it discusses \"Best practices\" in each of these areas supported by their rationale and general implications to a corporation if these concepts are implemented.  In the final lectures of this course, additional guidance is given in the arts of architecting for high availability, high concurrent user bases and high complexity situations.</p>\n\n\n\n<p>The course should take the student about an hour and a half to two hours to complete. </p>\n\n<p>The course is \"lecture\" based and no additional tools or software is required to take this course.</p><p>This course has been upgraded for \"Close Captioned\" viewing - so subtitles are there to be viewed at your option.</p><p>Best wishes,</p><p>-Dan</p>", 
+    "end_date": null, 
+    "title": "Database Architecture Design - Frameworks and Best Practices", 
+    "price": "20.00", 
+    "instructors": "Dan Grijzenhout", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/839756_ea8f.jpg", 
+    "course_url": "https://www.udemy.com/database-architecture-frameworks-and-best-practices/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-04T19:37:43Z"
+}

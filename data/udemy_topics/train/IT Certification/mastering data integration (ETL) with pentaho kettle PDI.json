@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<ul style=\"\">  \t<p style=\"\">  \t\t<strong style=\"\"></strong><strong style=\"\">Why should i take this course</strong><br style=\"\">  \t\t    Isn&#039;t it obvious? Don&#039;t you want to be the best ETL, pentaho kettle developer?  \t</p>  \t<p style=\"\">  \t\t<strong style=\"\">General:<br style=\"\">  \t\t</strong>The course is the outcome of my 10 year experience with IT projects and business intelligence and data integration with pentaho kettle.  \t</p>  \t<p style=\"\">  \t\t<strong style=\"\"> I developed the course because I want to share my knowledge with you. </strong><br style=\"\">  \t\t<br style=\"\">  \t\t     the best way to learn technological software and concepts is via an online course, <br style=\"\">  \t\t     structured by a real developer with actual experience that guide you through his (my) Path to knowledge.  \t</p>  \t<p style=\"\">  \t\t    I will help you master ETL with pentaho kettle .  \t</p>  \t<p style=\"\">  \t\t<strong style=\"\">What is the course about?</strong>The course is about taking you from the beginning and transfer you to a master of Pentaho kettle .  \t</p>  \t<p style=\"\">  \t\t    The main dish of the course is a walk-through of a real pentaho kettle project hands on, case study, tips taking you from easy steps that becomes more and more complex, layer by layer, as you go forward. That way you can learn pentaho kettle as a beginner but also become an expert as you go along (and practice)  \t</p>  \t<p style=\"\">  \t\t    Also I cover <br style=\"\">  \t</p>  \t<ul style=\"\">  \t\t<li style=\"\">the concepts of data integration</li>  \t\t<li style=\"\">why we need it</li>  \t\t<li style=\"\">what are the tools used today</li>  \t\t<li style=\"\">data warehouse concepts</li>  \t</ul>  \t<p style=\"\">  \t\t    Structure of the course<br style=\"\">  \t\t     the course is divided 4 main sections:  \t</p>  \t<p style=\"\">  \t\t<strong style=\"\">Section 1: Theory and concepts of data integration in general </strong><br style=\"\">  \t\t     (if you already an ETL developer you can skip that)  \t</p>  \t<p style=\"\">  \t\t<strong style=\"\">Section 2: setting up the environment</strong><br style=\"\">  \t\t<br style=\"\">  \t\t     install and operate the data integration with pentaho kettle.<br style=\"\">  \t\t     Including database management and profiling the database as a source.<br style=\"\">  \t\t     PDI, navicat (to manage database), jdbc drivers, JRE, sakila database example, mysql and more .  \t</p>  \t<p style=\"\">  \t\t    walk-through<br style=\"\">  \t</p>  \t<ul style=\"\">  \t\t<li style=\"\">pentaho kettle environment.</li>  \t\t<li style=\"\">navicat (best database manager in my opinion) </li>  \t\t<li style=\"\">power architect </li>  \t</ul>  \t<p style=\"\">  \t\t<br style=\"\">  \t\t<strong style=\"\"> Section 3: the main dish</strong><br style=\"\">  \t</p>  \t<ul style=\"\">  \t\t<li style=\"\">full data integration project with pentaho kettle</li>  \t\t<li style=\"\">project overview</li>  \t\t<li style=\"\">detailed design</li>  \t\t<li style=\"\">step-by-step (divide and conquer) </li>  \t</ul>  \t<p style=\"\">  \t\t     until the successfully end of the project. Including some 80% of the steps used by pentaho kettle in order to master data integration. <br style=\"\">  \t\t     You can see all the steps in the curriculum (it&#039;s too many to write them here)<br style=\"\">  \t\t     just for the example:<br style=\"\">  \t\t<br style=\"\">  \t\t     a. Connect to various data sources (databases, files…)  \t</p>  \t<p style=\"\">  \t\t    b.  manipulate the data <br style=\"\">  \t\t     changing strings, dates and calculations, joins, lookups, slowly changing dimensions, consideration of when and how to use different steps.  \t</p>  \t<p style=\"\">  \t\t    c. Work with variables <br style=\"\">  \t\t     d. outputs steps (bulk load , table output , update/insert , file output…)  \t</p>  \t<p style=\"\">  \t\t<strong style=\"\">Section 4: wrapping up - go to production</strong>  \t</p>  \t<p style=\"\">  \t\t    You will learn how to:  \t</p>  \t<ol style=\"\">  \t\t<li style=\"\">deploy the project.</li>  \t\t<li style=\"\">make it stable by securing the solution – validation, error handling</li>  \t\t<li style=\"\">logging</li>  \t</ol>  \t<ol style=\"\">  \t\t<li style=\"\">performance</li>  \t</ol>  </ul>", 
+    "end_date": null, 
+    "title": "mastering data integration (ETL) with pentaho kettle PDI", 
+    "price": "45.00", 
+    "instructors": "Itamar Steinberg (inflow systems)", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/283620_5bc5_6.jpg", 
+    "course_url": "https://www.udemy.com/mastering-data-integration-etl-with-pentaho-kettle-pdi/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-19T09:39:10Z"
+}

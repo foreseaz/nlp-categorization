@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Questo corso riempie una lacuna: la mancanza di una <strong class=\"redactor-inline-converted\">guida esaustiva e pratica di javascript in italiano</strong> dove ti insegno passo a passo, dall'A alla Z, <strong class=\"redactor-inline-converted\">tutti i segreti </strong>di javascript. Imparerai  tutti i segreti di <strong class=\"redactor-inline-converted\">oggetti</strong>, <strong>funzioni</strong> e <strong class=\"redactor-inline-converted\"> ECMASCRIPT 2015 </strong>conosciuto come <strong class=\"redactor-inline-converted\">ES6</strong>.</p>\n\n<p>Se vuoi sfruttare al massimo librerie come <strong class=\"redactor-inline-converted\">Jquery, Sencha, Angularjs</strong>, devi seguire un corso come questo che ti dia le fondamenta  per essere pronto <strong class=\"redactor-inline-converted\">alla programmazione avanzata con javascript</strong>.</p>\n\n<p>Vedremo ogni tipo di variabili: <strong class=\"redactor-inline-converted\">numeri, stringhe, array ,funzioni, metodi</strong>.</p>\n\n<p><br></p>\n\n<p>Studieremo le <strong class=\"redactor-inline-converted\">funzioni</strong>, come passare i parametri, lo scope delle funzioni, come dichiarare funzioni come <strong class=\"redactor-inline-converted\">espressione</strong> e come dichiarazione. Come passare una funziona ad un'altra funzione, ritornare una funzione.</p>\n\n<p>Vedremo i segreti delle <strong class=\"redactor-inline-converted\">closure</strong>: funzioni annidate che dopo essere ritornate hanno accesso alle <strong class=\"redactor-inline-converted\">variabili private</strong> di una funzione.</p>\n\n<p>Vedremo come si creano gli <strong class=\"redactor-inline-converted\">oggetti in javascript</strong>, come si estendono con il <strong class=\"redactor-inline-converted\">prototype</strong></p>\n\n<p>Vedremo come funziona <strong class=\"redactor-inline-converted\">l'ereditarietà </strong>in javascript.</p>\n\n<p>Vedremo i nuovi costrutti di <strong class=\"redactor-inline-converted\">ES6 </strong>come <strong class=\"redactor-inline-converted\">let, const, parametri rest, il costrutto class</strong>.</p>\n\n<p>Studieremo gli oggetti predefiniti di javascript come<strong class=\"redactor-inline-converted\"> Math, Date, RegExp</strong>.</p>\n\n<p>Studieremo l'oggetto <strong class=\"redactor-inline-converted\">XMLHttpRequest</strong> e vedremo come fare delle chiamate asincrone ad un server, <strong class=\"redactor-inline-converted\">AJAX</strong>.</p>\n\n<p>Il corso sarà in <strong class=\"redactor-inline-converted\">continuo aggiornamento </strong>e ci saranno degli esempi pratici e degli esercizi.</p>\n\n<p>Soprattutto ti farò da tutor per chiarirti qualunque dubbio e aiutarti a crescere nel mondo di javascript.</p>\n\n<p>Ti aspetto!</p>", 
+    "end_date": null, 
+    "title": "Javascript  ES6 Avanzato", 
+    "price": "40.00", 
+    "instructors": "Hidran Arias", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/836346_d0cd_3.jpg", 
+    "course_url": "https://www.udemy.com/corso-javascript-es6-avanzato-italiano/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-30T22:04:35Z"
+}

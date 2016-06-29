@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Effective JavaScript language basics course for absolute beginners </strong>by the author of the book “Pro Android Web Game Apps&quot;. You will learn how to install the environment on your PC and begin writing real code using one of the most popular and fun programming languages. You will <strong style=\"\">master the basic JavaScript language constructs</strong>: variables, data types, loops, conditional operators, arrays and objects.  </p>  <p>  \t            The course is for everyone. <strong style=\"\">No specific programming knowledge is required</strong>. If you already have some experience with programming, you will grasp the core faster. <br style=\"\">  \t<br style=\"\">  \t      All you need is a PC or Mac and a text editor. You will learn how to install and configure other tools in the first section of the course.  </p>  <p>  \t        With our course you will:  </p>  <ul style=\"\">  \t<li>Learn how to set up working environment </li>  \t<li>Understand language basics, develop your first JavaScript code</li>  \t<li>Get ready for web development with JavaScript or even building NodeJS applications!</li>  \t<li>Move on to more advanced topics like Object Oriented Programming</li>  </ul>  <p>  \t                  The course is being improved live based on our students&#039; feedback!  </p>  <p>Enroll now and get special offers for upcoming courses.  </p>", 
+    "end_date": null, 
+    "title": "JavaScript from Scratch for Very Beginners", 
+    "price": "30.00", 
+    "instructors": "JS Knights, Juriy Bura", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/368908_07c5_2.jpg", 
+    "course_url": "https://www.udemy.com/javascript-basics-for-begginers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-12T16:13:32Z"
+}

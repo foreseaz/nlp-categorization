@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This video course provides readers with a complete guide to managing and configuring Salesforce for your organization. This course covers all the important topics within the application, in a manner which covers both real-life solutions as well as common best practices used throughout the community</p><p>The video course begins with discussing how to set up organization wide settings and then moves on to topics such as user management, configuration, data management, analytics, and business processes. The course also discusses how to extend the application and the different best practices when working with the platform.</p><p>Starting from how to initially set up the organization in Salesforce, the course moves to cover a breadth of different topics. This includes settings such as default currencies, locale, time zone, as well as the default language. It later moves on to how to manage users within the system and then properly set up a security model across different users. The video course will also tackle ways to configure and extend the system’s functionality by creating custom fields and objects, as well as creating business rules such as workflow rules and approval processes.</p><p>The course aims to provide beginners with a solid baseline to configuring an application, as well as provide novices with the ammunition they need to make Salesforce the perfect fit for their organization.</p>", 
+    "end_date": null, 
+    "title": "Salesforce CRM: The Definitive Admin", 
+    "price": "40.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/546318_9ad2_4.jpg", 
+    "course_url": "https://www.udemy.com/salesforce-crm-the-definitive-admin/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-06T05:15:28Z"
+}

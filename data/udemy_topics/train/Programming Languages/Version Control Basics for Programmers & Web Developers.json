@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Version control is something <em>every</em> web developer or programmer should know.</strong></p><p>This course gives you a quickstart into using the popular Bitbucket and SourceTree software. If you are new to Git, Bitbucket, SourceTree or version control then this is the course for you. </p><p>Version control is the system which records the changes you make to your projects, files, folders etc. This means if we mess up, or are unable to locate a bug, problem etc, we can revert back to an earlier version before our changes. By the end of this course you will be comfortable with:</p><ul><li>How to set up and install Bitbucket &amp; SourceTree</li><li>Creating and cloning repositories</li><li>Committing &amp; pushing changes</li><li>Pull requests</li><li>Creating branches</li><li>Merging branches</li><li>Forking repositories and team collaboration</li></ul><p>Please note this course is for beginners and is not an in depth look at Git, version control, Bitbucket and SourceTree. however you will have all the skills you need to successfully apply version control in your projects.</p><p>So sign up now and learn a valuable skill essential for any developer!</p>", 
+    "end_date": null, 
+    "title": "Version Control Basics for Programmers & Web Developers", 
+    "price": "20.00", 
+    "instructors": "Chris Dixon", 
+    "commitment": "40 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/769674_6758_3.jpg", 
+    "course_url": "https://www.udemy.com/version-control-basics-for-programmers-web-developers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-21T17:30:08Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t <span>In this lesson, Alan Thorn is will be covering C# fundamentals as well as how to script in Unity using the C# language. Here you'll learn how to create basic script files and get and understanding for variables, functions, events, loops, conditional statements, and classes as you get your feet wet with programming in Unity. Don't miss it!</span></p>  <p><strong>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</strong></p><p>More about the Instructor:</p><p>Alan Thorn is a game developer, author and educator with 15 years industry experience. He makes games for PC desktop, Mobile and VR. He founded 'Wax Lyrical Games' and created the award-winning game 'Baron Wittard: Nemesis of Ragnarok', working as designer, programmer and artist. He has written sixteen technical books on game development and presented ten video training courses, covering game-play programming, Unity development, and 3D modelling. He has worked in game development education as a visiting lecturer for the 'National Film and Television School', as a Lead Teacher for 'Uppingham School', and is currently a Senior Lecturer at 'Teesside University' where he helps students develop the skills needed for their ideal role in the games industry.</p>", 
+    "end_date": null, 
+    "title": "Intro to C# Programming and Scripting for Games in Unity", 
+    "price": "30.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/83302_734b_4.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-intro-to-c-programming-and-scripting-for-games-in-unity/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-24T23:23:09Z"
+}

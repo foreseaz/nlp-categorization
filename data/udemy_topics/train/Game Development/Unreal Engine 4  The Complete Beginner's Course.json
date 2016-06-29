@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em>Course last updated: Jun 1, 2016</em></p><p>Learn game development using the industry-leading 3D game design software the pros use, the Unreal Engine 4. This award-winning engine is used to create many of today’s top games.</p>\n\n<p><strong>Learn Video Game Development with this Unreal Engine 4 Course for Beginners</strong></p>\n\n\n\n<ul><li>Projects &amp; Levels</li><li>Actor Types</li><li>Meshes &amp; Brushes</li><li>Lighting</li><li>Materials</li><li>Characters &amp; Input</li><li>Collisions</li><li>Blueprint Logic &amp; Data</li><li>User Interfaces</li><li>Audio</li></ul>\n\n\n\n<p><br></p>\n\n\n\n<p><strong>Develop Games Using Cutting-Edge Game Design Software and Run Them on a State-of-the-Art 3D Game Engine</strong></p>\n\n\n\n<p>The Unreal Engine has won the “Best Game Engine” award several times from various organizations, including the Develop Industry Excellence Awards and Game Developer Magazine.</p>\n\n\n\n<p>The Unreal Engine has been used to develop many blockbuster games and game series including Borderlands, Gears of War, BioShock, Mass Effect, and hundreds more.</p>\n\n\n\n<p>For years, the Unreal Engine was only affordable for large companies, but starting in 2015, Unreal Engine 4 is now completely free to use, as long as you agree to pay Epic Games 5% of your game sales.<br></p>\n\n\n\n<p><strong>Learn Unreal Engine 4 in this Video Game Design Course</strong></p>\n\n\n\n<p>In this course, you will learn the fundamentals of game development using the Unreal Engine 4 through a series of 63 lectures and over 8 hours of content.</p>\n\n\n\n<p>The course will start from scratch and programming knowledge is not required, so anyone with basic computer skills can jump in and begin their Unreal Engine 4 training!</p>\n\n\n\n<p>The first part of the course will help you get the Unreal Engine 4 up and running and will introduce you to the basic concepts of game development using the Engine. Next, you will learn all the skills you need to craft beautiful environments to stage your games in. Then, you will learn how to script logic for your games so you can define game rules and behaviors, keep track of data such as health and inventory, and create playable characters. You will learn about collisions and damage, key concepts for any action game. You will learn how to create user interfaces using the UMG Editor, so you can add things like menus, load screens, and HUDs to your game. And finally, you will learn how audio works within the Engine so you can add music, dialogue, and sound effects to your game.</p>\n\n\n\n<p>Upon completion of the course, you will have the skills necessary to translate <em class=\"redactor-inline-converted\">ideas</em> for games into playable games that use environments you sculpt and logic that you define, and you will understand how to make a game in Unreal Engine 4.<br></p>", 
+    "end_date": null, 
+    "title": "Unreal Engine 4: The Complete Beginner's Course", 
+    "price": "20.00", 
+    "instructors": "David Nixon", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/660600_39b2_2.jpg", 
+    "course_url": "https://www.udemy.com/unreal-engine-4-the-complete-beginners-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-05T00:49:20Z"
+}

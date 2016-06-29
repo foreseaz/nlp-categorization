@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>BEST COURSE CHOICE for beginners and intermediate developers who want to take their skills to the next level and deepen their understanding of the C# language.</strong></p><p>In this course I am going to teach you some very cool and advanced C# language features.<br></p><p>So let's see a show of hands. How many of you can explain what the <strong>yield return</strong> statement does? What are the benefits of <strong>auto properties</strong>? And what's the risks of using captured variables in <strong>lambda expressions</strong>?</p><p>If you have no idea what an 'auto property' is, don't worry about it! The C# language is absolutely packed with goodies, and it is almost impossible to keep up with all the latest features. I bet there are many power features that you've never used before.</p><p><strong>But this can also hold you back</strong></p><p>Not knowing about these power features means you are probably typing way too much code that the C# compiler can produce for you automatically. This is slowing you down and it may reduce the quality of your code.</p><p><strong>Let me help you!</strong></p><p>In this course I will teach you 10 advanced power features of the C# language. You will learn all about the null coalescing operator, auto properties, object initialisers, lambda expressions, and much more! And I will also show you some very cool new language features that were introduced in C# version 6.</p><p>By the end of the course you will be fluent in advanced C#, and this will help you write better, cleaner and more compact code.</p><p><strong>Why should you take this course?</strong><br></p><p>You should take this course if you are a beginner or intermediate developer and want to learn advanced features of the C# language. This might seem like a challenge, but all of my lectures are very easy to follow and I explain everything clearly. You'll have no trouble following along.</p><p>Or maybe you're preparing for a job interview? The knowledge in this course will help you prepare for any questions they might throw at you.</p><p><strong>30 day money-back guarantee</strong><br></p><p><em>This course comes with an unconditional, Udemy backed, 30-day money-back guarantee. If you are dissatisfied with the course for any reason, simply request a refund and get your full purchase amount back, no questions asked.</em></p><p><strong>Act now</strong></p><p>This course today contains over 2.5 hours of video content. Enrol now to benefit from the current price and get free lifelong access to all of the content.</p><p><strong>Enrol now!</strong></p>", 
+    "end_date": null, 
+    "title": "Spice Up Your C# Code With Advanced Language Features", 
+    "price": "40.00", 
+    "instructors": "Mark Farragher", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/767462_b02e.jpg", 
+    "course_url": "https://www.udemy.com/spice-up-your-csharp-code-with-advanced-language-features/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-19T09:26:26Z"
+}

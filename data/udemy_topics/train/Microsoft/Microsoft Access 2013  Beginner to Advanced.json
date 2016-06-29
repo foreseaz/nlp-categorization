@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p><strong style=\"\">Microsoft Office Access 2013 is a relational database management tool that helps you store information for reference, reporting, and analysis.</strong></p>   <p>Our Access 2013 training videos shows how to store and track just about any kind of information - inventory, contacts, business processes - and you&#039;ll learn how to organize and manage your data.</p><p>In this course you will learn how to:</p><ul style=\"\"><li>Create an Access database, including tables, forms, queries, and reports.</li><li>Create and work with various Access objects and relationships. </li><li>Discover how to maintain consistent data, customize database components, and share data with other applications.</li><li>Create form controls, macros, subforms and tab pages. </li><li>Manage a database including backup, compact and repair, documentation, database splitting, encrypting a database and adding a digital signature to a database. </li><li>Create a switchboard for your database application.</li></ul><p>Our instructor will explain all of the features and functionalities the application offers in an easy to understand, step-by-step method. The videos have been designed for both first-time users with fundamental Access 2013 problems and advanced users with specific Access 2013 problems. Quizzes are available at the end of each lesson to validate your knowledge.</p>", 
+    "end_date": null, 
+    "title": "Microsoft Access 2013: Beginner to Advanced", 
+    "price": "35.00", 
+    "instructors": "SONIC - High Quality Training for Over 20 Years", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/459764_71e1.jpg", 
+    "course_url": "https://www.udemy.com/microsoft-access-2013-beginner-to-advanced/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-26T15:47:03Z"
+}

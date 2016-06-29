@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Digital Media & Video Games"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course provides an introductory overview of audio synthesis and visual programming using Native Instruments' Reaktor Software.  Students will receive an in-depth look into various audio synthesis methods, including: additive, subtractive, sampling, wavetable, physical modeling, and granular synthesis, as well as the various types of modulation synthesis. Students will also learn about the history of the synthesizer and electronic music, and will take a look at many of the current sound design trends in electronic music.  \n\nAdditional topics include:\n• Sound + waveform characteristics (Timbre)\n• Modulation/filters/envelopes\n• MIDI/OSC\n• Analog + digital signals\n• Signal flow\n• DAWs/sequencing\n• Sound design\n• Audio effects\n• Production techniques\n• Audio warping/FFT \n\n\n                                            Syllabus\n                        Session 1: Intro To Synthesis This session will provide an introduction to synthesis, an overview of the properties of sound, a historical review of early 20th century synth development, and an introduction to Native Instrument's Reaktor.\r\nSession 2: Subtractive Synthesis This session will introduce subtractive synthesis, the concepts of monophony and polyphony, the Moog Minimoog, the Roland Juno, and how to build Reaktor ensembles inspired by these classic synths.\r\nSession 3: Ring Modulation And FM Synthesis This session looks at modulation synthesis, such as amplitude modulation, ring modulation, frequency modulation, and phase modulation. We will look at the history and development of these techniques, as well as how to build them ourselves using Reaktor.\r\nSession 4: Percussion Synthesis This session will have us looking at various methods for synthesizing percussion, the history of drum machines, and our efforts to emulate some classic Roland drum synths using Reaktor.\r\nSession 5: Sequencers This session will look at the history of the sequencer, and how we can apply it to our own percussion synths from the previous session.\r\nSession 6: Wavetables This session will look at sample based oscillators, including wavetables. We will also look at the history of wavetables, and build several different approaches using Reaktor.\r\nSession 7: Granular In this session we look at how granular synthesis works, its history, and the tools that exist in Reaktor for granular synthesis.\r\nSession 8: Physical Modelling This session will cover physical models, the development of the Karplus-Strong algorithm, the digital waveguide algorithm, and modal synthesis. We will then see how we can build these ourselves using Reaktor.\r\nSession 9: Additive Synthesis This session will introduce the concept of the FFT, and how we can use these ideas to construct our own band limited oscillators in Reaktor.\n                                    ", 
+    "end_date": "2016-03-15T00:00:00Z", 
+    "title": "Sound Synthesis Using Reaktor", 
+    "price": 0, 
+    "instructors": "Owen Vallis", 
+    "institution_name": [
+        "California Institute of the Arts"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Art & Design"
+    ], 
+    "course_url": "https://www.kadenze.com/courses/sound-synthesis-using-reaktor-iii/info", 
+    "duration": "9 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Kadenze"
+    ], 
+    "start_date": "2016-01-12T00:00:00Z"
+}

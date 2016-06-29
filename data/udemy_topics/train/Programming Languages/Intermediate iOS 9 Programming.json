@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>One of the downsides (or upsides, depending on your outlook) to Apple and iOS is that it doesn’t play nice with the rest of the programming world. It takes some special knowledge and training to become and Apple developer. If you already have some programming experience, this isn’t a problem. Start with this course and you’ll get a head start on the road to your dream career.</p>\n\n<p><strong> </strong></p>\n\n<p><strong>Create native iPhone and iPad Apps using Xcode and Swift</strong></p>\n\n<ul><li>Master the most popular iOS features<strong></strong></li><li>Write apps that use GPS, social networking, remote data and in-app purchases<strong></strong></li><li>Take your existing programming skills to the next level<strong></strong></li><li>Get up to speed on iOS 9 updates and changes<strong></strong></li><li>Get on the right path to a career in app development<strong></strong></li></ul>\n\n<p><strong> </strong></p>\n\n<p><strong>Take the First Steps to Becoming an Apple Developer</strong></p>\n\n<p>If you already have some programming experience and want to take your skills up a notch, or if you want to learn specifically about creating apps for Apple, or even if you just want to get an update on programming for iOS 9, this is the perfect course for you. With 58 lectures and 5.5 hours of content, you can delve right into the world of Swift, Xcode and iOS 9, and come back up for air as a bona fide expert. </p>\n\n<p>This course covers all of the most important and most popular features of iOS 9, including interfacing with remote data services, accessing media and the media library, using GPS to track location, social networking, data access with cloud-kit and in-app purchasing. You’ll cover all of the above and dig right down into the nitty gritty straight away. </p>\n\n<p>By the end of this course, you’ll know how to create native iPhone and iPad apps using Xcode and Swift and can proudly call yourself an intermediate iOS 9 programmer. You’ll know how to implement all of the above features using iOS frameworks, using source code which is provided. At each step you’ll review and analyse the behaviour to help compound  your knowledge. </p>\n\n<p><strong> </strong></p>\n\n<p><strong>Tools Used</strong></p>\n\n<ul><li><strong>Xcode: </strong>Xcode is an Integrated Development Environment (IDE) that contains all the software you need to create beautiful, fast, and easy to use applications for Apple devices like iPhones and iPads.  You can experiment with new APIs, add additional source code, and even make use of the interface  testing feature, which records your app in action.</li><li><strong>Swift: </strong> Swift is a multi-paradigm programming language created for Apple. Deemed by its creators to be a ‘modern programming language that is safe, fast, and interactive’, it is designed to work with the Cocoa and Cocoa Touch frameworks for iOS, OS X, watchOS and tvOS applications. It was introduce by Apple in 2014 and is currently in its second version.</li></ul>", 
+    "end_date": null, 
+    "title": "Intermediate iOS 9 Programming", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/699700_87e9_2.jpg", 
+    "course_url": "https://www.udemy.com/advanced-ios-9-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-17T05:10:56Z"
+}

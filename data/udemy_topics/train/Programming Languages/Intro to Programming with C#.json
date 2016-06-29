@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Hey Guys,<br></p><p><br></p><p>My name is Zach, and I'm a software engineer. <strong>I love programming, teaching, and making people laugh.</strong> Currently, I work at a robotics company, but I also released some indie games to the App Store and majored in computer science.</p><p><br></p><p>... now that's enough about me. Let's talk about this course.</p><p><br></p><p><strong>This course will teach you the basic building blocks shared across most programming languages</strong>, such as variables, conditional statements, loops, functions, and classes. The programming language I'm going to use to teach this course is <strong>C#, however, if you have your sights set on another language, don't sweat it.</strong> If you can learn one programming language, you can learn any other one, just as long as you know the fundamentals!</p><p>I've designed this course for people with busy schedules. <strong>Each video is 1 minute in length, and is meant to deliver 1 new piece of logic in that minute.</strong> This way, if you're on the go and want to get some quick learning in, you won't have to worry about pausing some long video and coming back to it later. I'll be showing my screen the entire time, narrating our work together personally, and describing how I approach certain bugs we encounter (there's always bugs ... haha ... lol ... but actually).</p><p>By the end of this course, <strong>you'll be able to use C# to build basic, but complete, programs.</strong> However, Unity is a game engine, and we won't be building games ... yet. That's on the horizon for one of my next courses in the near future =D.</p><p>Talk to you soon (literally),</p><p>Zach</p>", 
+    "end_date": null, 
+    "title": "Intro to Programming with C#", 
+    "price": "20.00", 
+    "instructors": "Zach Freedman", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/761872_f508_3.jpg", 
+    "course_url": "https://www.udemy.com/intro-to-programming-with-csharp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-14T01:10:50Z"
+}

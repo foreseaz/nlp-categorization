@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">Legacy System Migration Workbench</em></strong></p>\n\n<p>In this course you are going to learn the step by step process for creating and implementing an LSMW inside a SAP System.</p>\n\n\n\n<p>The steps are:</p>\n\n\n\n<ol><li>Maintain Object Attributes</li><li>Maintain Source Structures</li><li>Maintain Source Fields</li><li>Maintain Structure Relations</li><li>Maintain Field Mapping and Conversion Rules</li><li>Specify Files</li><li>Assign Files</li><li>Read Data</li><li>Display Read Data</li><li>Convert Data</li><li>Display Converted Data</li><li>Create Batch Input Session</li><li>Run Batch Input Session</li></ol>\n\n\n\n<p>For more information on financials check our course for FI Configuration</p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">FROM SAP:</strong></p>\n\n\n\n<p>The Legacy System Migration Workbench (LSMW) is a tool that supports data migration from legacy systems (non-SAP systems) to SAP systems. It is a cross-platform component of the SAP system.\n\n</p>\n\n\n\n<p>The LSMW comprises the following <strong>main functions</strong>:\n\n</p>\n\n\n\n<p>  1.  Read data (legacy data in spreadsheet tables and/or sequential files). \n\nYou can use any combination of PC and server files.\n\n</p>\n\n\n\n\n\n<p>  2.  Convert data (from the source into the target format).\n\n</p>\n\n\n\n\n\n<p>  3.  Import data (to the database used by the SAP application).</p>\n\n\n\n<p><br></p>\n\n\n\n<p><strong><em>PRIMATEKO</em></strong></p>\n\n\n\n<p><br></p>\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Learn in SAP how to upload Master Data (LSMW)", 
+    "price": "20.00", 
+    "instructors": "PRIMATEKO TECHNOLOGY", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/815922_ebbb_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-in-sap-lsmw/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-07T23:08:29Z"
+}

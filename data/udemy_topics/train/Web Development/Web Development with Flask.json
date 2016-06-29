@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Flask is a micro webdevelopment framework for Python. This course covers the web development with Flask from scratch. This course is meant for newbies. Each lecture guides you through step by step process to create a website. The course covers creation of login and logout pages and also storing data in the SQLite database. The course takes less than an hour to complete and is covered in two sections. The first section creates the website and the second sections deals with database queries. Take this course if you are a complete newbie to web development and Flask.</p>", 
+    "end_date": null, 
+    "title": "Web Development with Flask", 
+    "price": "25.00", 
+    "instructors": "Nisha Kiran", 
+    "commitment": "26 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/656200_74fc_3.jpg", 
+    "course_url": "https://www.udemy.com/web-development-with-flask/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-31T10:00:24Z"
+}

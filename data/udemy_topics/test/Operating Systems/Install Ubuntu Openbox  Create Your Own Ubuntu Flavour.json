@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>The course mainly uses screenshot videos for illustration combining with Power point slides, pdf documents and online web page material.</p>\n\n<p>This course need about one hours to go through but as it is a practical instruction, you will need to go through it the first time to get a general idea, then doing the tasks while watching it again.  <br></p>\n\n\n\n\n\n\n\n\n\n<p>The general steps are: </p>\n\n\n\n\n\n\n\n\n\n<p>1. Install a base system using a netinstall.iso file (either burning it out or using a USB)<br> 2. Install Xorg and Openbox<br> 3. General components of a Operating System: taskbar (panel), network manager, file manager, notification mechanism...<br> 4. Install day-to-day using software (web browser, Skype, spreadsheet,...)</p>\n\n\n\n\n\n\n\n\n\n<p>Each needed packages will have detail explanation why they are used.<br></p>\n\n<p>The course is for those who have already got bored with their Ubuntu/ Linux Mint/ Debian fork systems, or who want to learn more about Linux, or who want to try out Openbox, or who want a lighter yet enough feature and beautiful operating system.<br></p>", 
+    "end_date": null, 
+    "title": "Install Ubuntu Openbox: Create Your Own Ubuntu Flavour", 
+    "price": "25.00", 
+    "instructors": "James Nguyen", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/555102_3c42_3.jpg", 
+    "course_url": "https://www.udemy.com/ubuntu-openbox/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-15T05:33:54Z"
+}

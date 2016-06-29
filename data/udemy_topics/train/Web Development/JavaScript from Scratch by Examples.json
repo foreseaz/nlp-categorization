@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em>Notice</em>: <em>Course fully updated at <strong>02/25/2015</strong>, so make sure to join our over <strong>3</strong><strong>K</strong> students now, that many of them left <strong>5 shining stars</strong> and start your training.</em></p><p><strong>#</strong><em> <strong>30 day</strong> money-back guarantee, no questions asked.</em></p><p>__________________________________________________________________________</p><p>On the server, different languages are used to generate web pages. However, once created and sent to the browser page, JavaScript is only able to interact with the user to make the page reactive. It is precisely this reactivity and ergonomics that are an expected results by users.</p><p>Therefore, JavaScript has become ubiquitous on the web. Whether checking the validity of information entered on a form, the display image galleries, visual effects on elements of the document, JavaScript is always present.</p><p>Any web developer must now know the fundamentals of the language. It is these fundamentals that we'll cover in this training. As with any learning, it is important to begin with the basics: What can we expect from JavaScript, what its limitations are, how to embed scripts in a page?</p><p>The special feature of JavaScript is to be an object-oriented language with prototype. Beyond the basic instructions, conditionals and loops, we will detail the main objects provided by JavaScript, their properties and methods. The different examples provided will help you familiarize yourself with the practical implementation of the language and how to make it interact with a web page, creating your own functions and objects.</p><p><br></p><p><em>And of course you can download all the resources of this training in the download area.<br></em></p><p><em><em><strong>Note again</strong>: We're very confident to give you a <strong>30 days</strong> money-back guarantee, no questions asked.</em><br></em></p><p><strong>So are you excited as I'm now to learn JavaScript from scratch by Examples ? Let's get started !</strong><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "JavaScript from Scratch by Examples", 
+    "price": "20.00", 
+    "instructors": "Insane IT Skills", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/428558_82eb_7.jpg", 
+    "course_url": "https://www.udemy.com/javascript-fundamentals-from-scratch-by-examples/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-21T16:47:02Z"
+}

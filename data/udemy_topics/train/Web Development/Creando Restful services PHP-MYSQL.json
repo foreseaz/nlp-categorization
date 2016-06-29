@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Este curso se enfoca en crear y utilizar servicios, las famosas APIs y realizar funciones principales de los mismos, tales como <strong>PUT, GET, DELETE y POST, </strong>y al final, explicar paso a paso para crear tus servicios utilizando la nomenclatura <strong>api.tupaginaweb</strong></p><p>Aquí explicamos como utilizar <strong>de cero el framework de Codeigniter</strong>, pero si es necesario que tengas un <strong>conocimiento intermedio de PHP</strong>, ya que daremos por hecho que tu sabes algo de <strong>arreglos</strong> y clases. </p><p>Todos los programas utilizados <strong>son abiertos y pueden ser descargados de forma gratuita</strong>, hay una sección dedicada a las instalaciones necesarias.</p><p>Este curso es totalmente práctico, la idea es que aprendas haciendo, que refuerces lo aprendido con las tareas. Otro objetivo primordial, es que <strong>el código aquí escrito, te servirá para tus proyectos </strong>y así ayudarte a mejorar tu productividad.</p><p>Es un curso corto, que pueden terminarlo en una o dos semanas, pero depende de que tanto esfuerzo y dedicación le pongan. Ya sea que usen<strong> Codeigniter, Laravel, symfony</strong><strong> u otro framework</strong>, la idea y los conceptos son los mismos. Claro, que como son frameworks, la estructura sería diferente.</p><p>Recuerden que cuentan con la política de reembolso de Udemy, que en caso de que este curso no cumpla sus expectativas, pueden solicitarla y les darán el 100% de su dinero de regreso, pero si lo hacen, por favor díganme en que falle, y así seguir mejorando este curso.</p><p>Antes de comprarlo, pueden revisar <strong>el contenido gratuito que esta accesible para ustedes</strong> y así tengan una mejor idea de lo que aquí se hará.</p><p><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Creando Restful services PHP-MYSQL", 
+    "price": "20.00", 
+    "instructors": "Fernando Herrera", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/775264_1ddf_4.jpg", 
+    "course_url": "https://www.udemy.com/creando-restful-services-php-mysql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-26T17:02:38Z"
+}

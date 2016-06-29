@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Are you trying to configure Odoo's Manufacturing application?  Do you wish to learn how to manage bill of materials and manufacturing orders? Perhaps you want to learn how to automate manufacturing orders so they are created automatically based on reordering rules?  Maybe you are even at the stage where you are looking to implement work centers and need to calculate time requirements to complete a specific job?  If you answer yes to any of these questions, then Mastering Odoo 9 MRP - Manufacturing Essentials is for you!</p><p><strong>The OdooClass difference</strong></p><p>Like all OdooClass videos we start off with simple real world examples that are easy to understand and apply the concepts to your own business requirements. We then build on these examples with plenty of opportunities to practice what you have learned along the way. If you want a reference course that just walks through each feature and says... this feature does this thing, and then moves on; then this is probably not the course for you. </p><p><strong>Learn to implement real world MRP Business solutions</strong></p><p>There are countless videos out there that walk through menus and explain features but never tell you how to use Odoo to solve real world business problems.</p><p>This is a course for those who want to understand WHY you use specific MRP features and options to solve various business requirements. So each lecture builds on the one before adding more complexity. It introduces you to a method of setting up an MRP system from the very beginning. Yet before you know it you are comfortable building bill of materials and work orders as well as setting up sub-assemblies and more complex production rules. </p><p><strong>Exercises to help you Master Odoo MRP</strong></p><p>Often we will ask you in our lectures to take a moment to practice and build your own solutions. Usually the people that skip these opportunities to do these exercises struggle when they want to implement their own production system. Configuring MRP systems is not easy if it is your first time and many people don't want to practice to learn what it takes. We hit these core essentials of MRP hard in this course because they are the foundation you will require when it is time to tackle more advanced MRP integration.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Mastering Odoo 9 MRP - Manufacturing Essentials", 
+    "price": "50.00", 
+    "instructors": "Odoo Class Videos", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/729968_e248.jpg", 
+    "course_url": "https://www.udemy.com/mastering-odoo-9-mrp-manufacturing-essentials/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-16T12:54:33Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is designed to be a quick start overview of Joomla Content Management System. The information in this course will take a new user from installation to building a simple website.&nbsp; The course will cover installing and setting up the Joomla environment, creating categories and articles, adding links and modules and an overview of templates - everything you need to build your first website. <br></p>  ", 
+    "end_date": null, 
+    "title": "Joomla - A Quickstart Introduction", 
+    "price": "20.00", 
+    "instructors": "CompuWorks Trainers", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/61791_5903_4.jpg", 
+    "course_url": "https://www.udemy.com/cwjoomla-a-quickstart-introduction/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-24T21:37:49Z"
+}

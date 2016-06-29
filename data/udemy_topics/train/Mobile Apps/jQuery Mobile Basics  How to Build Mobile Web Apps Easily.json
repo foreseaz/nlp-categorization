@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tBuilding web apps targeted for mobile devices can be daunting. Even to get web applications to look good on mobile devices, there is still a lot of CSS to get the HTML to look good on both phones and tablets. To get the effect you want you may have to spend hours learning CSS, JavaScript, and HTML.  </p>  <p>  \tjQuery Mobile is a HTML5-based user interface system designed to make responsive web sites and apps that are accessible on all smartphone, tablet and desktop devices.  </p>  <p>  \t In this course Jeff Batt will take you through the basics of building jQuery Mobile Apps from basic mobile page to using touch events.  </p>", 
+    "end_date": null, 
+    "title": "jQuery Mobile Basics: How to Build Mobile Web Apps Easily", 
+    "price": "20.00", 
+    "instructors": "Jeff Batt", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/161562_e7ae_6.jpg", 
+    "course_url": "https://www.udemy.com/building-jquery-mobile-apps-easily/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-11T02:39:31Z"
+}

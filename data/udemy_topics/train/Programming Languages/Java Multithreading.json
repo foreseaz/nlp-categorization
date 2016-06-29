@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Discover how to write effective multi-threaded code in Java; learn why  problems can occur with Java multithreading and how to fix those problems.</p>  ", 
+    "end_date": null, 
+    "title": "Java Multithreading", 
+    "price": 0, 
+    "instructors": "John Purcell", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/22169_1283_9.jpg", 
+    "course_url": "https://www.udemy.com/java-multithreading/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-08-02T09:17:16Z"
+}

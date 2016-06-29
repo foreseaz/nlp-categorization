@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Ce cours est une initiation à la programmation avec le langage Python.</p><p>Il s'adresse à des débutants, il n'est pas nécessaire de connaitre un autre langage de programmation mais bien sur cela peut aider. </p><p>Vous découvrirez le langage Python, depuis les fonctions les plus simples jusqu'à des aspects plus avancés, comme la programmation orienté objet (POO).</p><p>Le cours est consitué de courtes vidéos, après quelques principes de base et l'installation des outils, nous verrons point par point comment coder en Python. Les scripts développés en cours sont tous fournis en téléchargement et plusieurs mini-projets de développement permettront de faire une synthèse des compétences acquises.</p><p>Si vous voulez faire évoluer votre carrière, découvrir un langage de programmation simple mais aux possibilités (presque) infinies ou simplement utiliser Python pour vos projets personnels et automatiser un certain nombre de tâches fastidieuses, ce cours est fait pour vous !<br></p>", 
+    "end_date": null, 
+    "title": "Débuter en Python, la programmation facile", 
+    "price": "20.00", 
+    "instructors": "Marc Augier", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/824458_d78d_4.jpg", 
+    "course_url": "https://www.udemy.com/programmer-en-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-17T17:37:36Z"
+}

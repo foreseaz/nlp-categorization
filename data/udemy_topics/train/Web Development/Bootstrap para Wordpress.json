@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t        El curso de <strong style=\"\">Bootstrap</strong> para Wordpress, te enseñará a simplificar el proceso de creación de diseños temas responsive o adaptive con resultados de un nivel superior.  </p>  <p>  \t        Paso a paso crearemos temas que se adaptan a los diferentes navegadores, tanto de escritorio como tablets y móviles a distintas escalas y resoluciones con una sintaxis limpia y optimizada basada en el framework por excelencia y veremos funciones avanzadas como crear un slide basado en entradas y efectos UX.  </p>", 
+    "end_date": null, 
+    "title": "Bootstrap para Wordpress", 
+    "price": "20.00", 
+    "instructors": "David Piqué Garcia", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/279300_c1c1_2.jpg", 
+    "course_url": "https://www.udemy.com/bootstrap-para-wordpress/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-12T09:05:35Z"
+}

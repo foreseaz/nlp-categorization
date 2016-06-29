@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t <strong style=\"\">PythonとDjangoで作る初めてのランディングページ</strong>をご覧頂きありがとうございます。  </p>  <p>  \t  このレッスンでは<strong style=\"\">Macでのターミナル</strong>操作を十分に理解したあとで、<strong style=\"\">Python</strong>の基本的な構文について勉強していきます。「<strong style=\"\">プログラミングは初めて</strong>」という方もご安心ください。  </p>  <p>  \t  また、実際に<strong style=\"\">django</strong>と<strong style=\"\">Python</strong>を使ってランディングページを作成します。他にもdjangoのテンプレート機能や<strong style=\"\">Bootstrap</strong>を使ったグリッドデザイン、画像やボタンを配置する方法について勉強します。  </p>  <p>  \t  様々なウェブサービスに使われているPythonとdjangoを使って、アナタだけの<strong style=\"\">オリジナルのウェブサイト</strong>を作ってみましょう！  </p>  <p>  \t  レッスンのアウトラインは以下の様になっております。  </p>  <p>  \t<strong style=\"\">＜Macのターミナル操作を勉強してみましょう＞</strong>  </p>  <ul style=\"\">  \t<li>ターミナルとは？</li>  \t<li>lsとcdコマンドについて</li>  \t<li>mkdirコマンドについて</li>  \t<li>mvコマンド</li>  \t<li>touchとrm・rmdirコマンド</li>  </ul>  <p>  \t<strong style=\"\">＜Pythonを勉強してみましょう＞</strong>  </p>  <ul style=\"\">  \t<li>Pythonとは？</li>  \t<li>printを使ってみよう</li>  \t<li>変数と文字列の結合</li>  \t<li>while文</li>  \t<li>for文</li>  \t<li>リスト</li>  \t<li>if文での条件分岐</li>  \t<li>文字列での条件分岐</li>  </ul>  <p>  \t<strong style=\"\">＜djangoを使ってランディングページを作ってみましょう＞</strong>  </p>  <ul style=\"\">  \t<li>プロジェクトの作成</li>  \t<li>Sublime Text2</li>  \t<li>ルートの設定</li>  \t<li>管理者ページ</li>  \t<li>views.pyの作成</li>  \t<li>Bootstrapを使ってみよう</li>  \t<li>ボタンとリンク</li>  \t<li>グリッドシステムと画像の配置</li>  \t<li>hタグの変更</li>  </ul>", 
+    "end_date": null, 
+    "title": "PythonとDjangoで作る初めてのランディングページ", 
+    "price": "20.00", 
+    "instructors": "Takafumi Kawai", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/224928_9c19_2.jpg", 
+    "course_url": "https://www.udemy.com/python-django-landing/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-21T08:59:44Z"
+}

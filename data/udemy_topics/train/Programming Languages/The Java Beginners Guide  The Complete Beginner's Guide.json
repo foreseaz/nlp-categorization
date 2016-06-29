@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn the basic object-oriented concepts of the java programming language that you will need to build fully functional programs with the most widely used and popular on demand programming language, Java OOP.</p><p>This course is suited for beginning programmers or any existing programmer that wants to refresh their skills. You’ll learn all of the Java fundamentals and establish a strong understanding of the concept behind object-oriented programming (OOP). <br></p><p>\n  \t   Starting with the installation of the Java Development Kit, this \ncourse will take you through Java variable types, operators, and how to \nuse them. By creating classes and objects, you’ll a establish a strong \nunderstanding of OOP.  </p>\n\n<p>  \t   With these basics \nmastered, the course will take you through program flow control by \nteaching you how to use for loops, while loops, and conditional if-else \nstatements to add complexity and functionality to your programs.  </p>\n\n<p>  \t   Students completing the course will have the knowledge to create functional and useful and basic Java programs.</p>", 
+    "end_date": null, 
+    "title": "The Java Beginners Guide: The Complete Beginner's Guide", 
+    "price": "20.00", 
+    "instructors": "Jaddian Forte", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/826554_a2cd_9.jpg", 
+    "course_url": "https://www.udemy.com/programming-java-for-beginnersmac-pc-simple-fast/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-19T21:57:32Z"
+}

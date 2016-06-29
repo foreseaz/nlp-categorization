@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Kurs i Autodesk Fusion 360 för nybörjare. Inga förkunskaper i Fusion 360 krävs. Vi börjar ifrån grunden och går igenom grundläggande funktioner och koncept. Tanken är att du sedan på egen hand kan skapa olika projekt och visualisera dina idéer. I kursen ingår mängder med övningar och kompletta lösningar. Vi lär ut grunderna i Solidmodellering, skulptering, ritningar, rendering, assembly, CAM, simulering, ytmodellering och animation. </p>", 
+    "end_date": null, 
+    "title": "Autodesk Fusion 360 Grund", 
+    "price": 0, 
+    "instructors": "Jakob Andersson", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/784112_43e0.jpg", 
+    "course_url": "https://www.udemy.com/autodesk-fusion-360-grund/", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-06T16:20:58Z"
+}

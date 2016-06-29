@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Lerne in diesem Kurs, wie du mit dem Salesforce Mobile SDK deine eigene Salesforce Mobile App entwickelst. <strong>Und das abseits von allen Restriktionen in Salesforce.</strong></p><p>Der Kurs eignet sich perfekt, wenn du einen leichten Einstieg in die Salesforce Mobile-Entwicklung suchst. Ich vermittle dir das Handwerkszeug, damit du nach dem Kurs selbstständig eine hybride App mit Salesforce-Anbindung umsetzen kannst, die Daten aus Salesforce abrufen und manipulieren kann sowie auf deinem Gerät (Android/iOS) offline verfügbar macht.</p><p>Dafür führe ich dich Schritt für Schritt durch die Unwägbarkeiten des Salesforce SDK. Ich zeige dir auf, wo das SDK lückenhaft dokumentiert ist und wie du mit diesen Lücken umgehst. Ich zeige dir weniger, wie du etwas implementierst, sondern vermittle dir die Struktur des SDK, sodass du auf lange Sicht mit Spaß und Erfolg mit dem Salesforce SDK arbeiten kannst.</p>", 
+    "end_date": null, 
+    "title": "Erstellen einer hybriden App mit dem Salesforce Mobile SDK", 
+    "price": "35.00", 
+    "instructors": "- Skillcoach -, Lars Czerwonka, Skillcoach Gunnar Lehker", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/732712_6206_2.jpg", 
+    "course_url": "https://www.udemy.com/hybride-apps-mit-dem-salesforce-mobile-sdk/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-18T13:38:20Z"
+}

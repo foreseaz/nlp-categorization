@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em>“The world we live is full of coordinates and I love it!\"</em> - Alfred Lam, the course instructor.</p><p><em>“The essence of creating a beautiful map is balance!\"</em> - Alfred Lam, the course instructor.</p><p>This course is about making GIS(Geographic Information System) maps to iOS platform apps by using ArcGIS Runtime SDK for iOS developed by ESRI. This course covers the most important concepts and basic skills for you to deploy GIS maps to iOS apps or to develop mobile GIS apps independently.</p><p>Some developers may ask why do we bother to use GIS maps as we already have google map. My answer is that the google map is great for you to identify your locations. But its data, functionality, and flexibility are far from enough if you want to create a versatile app with various basemaps, to tell a story, to add your own map features, or to perform an analysis to your clients with a map. ArcGIS, on the other hand, is the most comprehensive and advanced GIS in the world and it is capable of performing all these tasks for you.</p><p>Rather than spending time in fumbling and bewildering into APIs/code libraries, in this course, you can learn how to build GIS maps and functions to iOS apps step by step.</p><p>After completing this course and the exercises, you will be able to:</p><ul><li>create apps with various basemap;</li><li>enrich your map with selected feature layers by utilizing ESRI resources;</li><li>understand your map and create your own functional tools exploring map features;</li><li>display GPS location with different modes;</li><li>characterize your GPS icon;</li><li>collect data in field with on-board GPS sensor;</li><li>use offline basemaps while there is no internet connection</li><li>estimate size of offline basemaps and download offline basemaps;</li><li>create your webMap online and add your own feature layers;</li><li>open your webMap to iOS app;</li><li>create your own popups displaying attribute information;</li><li>create your own native geometries: point, polyline, and polygon;</li><li>sketch and save geometries: point, polyline, polygon</li><li>and more;</li></ul>", 
+    "end_date": null, 
+    "title": "Develop Mobile GIS Apps for iOS in Swift", 
+    "price": "50.00", 
+    "instructors": "Alfred Lam", 
+    "commitment": "12.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/558806_c99d_3.jpg", 
+    "course_url": "https://www.udemy.com/develop-mobile-gis-apps-for-ios-in-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-19T18:10:49Z"
+}

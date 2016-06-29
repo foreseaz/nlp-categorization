@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Algebra & Geometry"
+    ], 
+    "description": "\n\n                    \n                    \n                    Math is everywhere. In this class, you’ll gain an in-depth understanding of algebraic principles, many of which you may have seen before, and learn how to use them to solve problems that we encounter in everyday life.  The online version of College Algebra will cover all of the topics that you would see in more traditional class formats, but it will present the material in a way that we hope you’ll find fresh and interesting. You will learn about functions, polynomials, graphing, complex numbers, exponential and logarithmic equations, and much more, all through exploring real-world scenarios.Why Take This Course?In this course, you will learn...  \n\n  - To translate word problems into mathematical expressions or equations\n  - To manipulate algebraic expressions and solve equations\n  - To graph different types of functions and to understand the relationship between a function’s graph and its equation\n  - To model growth and decay\n\n                                            Syllabus\n                        The following topics will be covered. There will be two midterms and one  final exam. There are no deadlines unless you are in the SJSU Plus-Udacity for-credit program. \n\nLesson 1: Number    \nLesson 2: Expressions    \nLesson 3: Polynomials    \nLesson 4: Equations    \nLesson 5-1: Coordinates    \nLesson 5-2: Distance    \nLesson 5-3: Midpoints And Slope    \nLesson 6-1: Slope And Equations    \nLesson 6-2: Points    \nLesson 7: Forms of the Equation of a Line    \nLesson 8: Inequalities And Absolute Value    \nLesson 9: More Inequalities And Equations    \nLesson 10: Parabolas    \nLesson 11: Factoring    \nLesson 12: Quadratic and Rational Inequalities    \nLesson 13: More Parabolas    \nLesson 14: Completing the Square    \nLesson 15: Quadratic Formula    \nLesson 16: Complex Numbers    \nLesson 17: Functions    \nLesson 18: Domain and Range    \nLesson 19: Behavior of Functions    \nLesson 20: Factor Theorem    \nLesson 21: Rational Zero Test    \nLesson 22: Intermediate Value Theorem    \nLesson 24: Asymptotes    \nLesson 25: Slant Asymptotes    \nLesson 26: Transformations    \nLesson 29: Exponential Functions    \nLesson 30: Scientific Notation    \nLesson 31: Logarithmic Functions    \nLesson 32: Log Properties    \nLesson 33: Solving Exponential and Logarithmic Equations    \nLesson 34: Population, Scrolls and Sound\n                                    ", 
+    "end_date": "2013-05-22T00:00:00Z", 
+    "title": "College Algebra", 
+    "price": 0, 
+    "instructors": "Julie Sliva Spitzer and Miriam Swords Kalk", 
+    "institution_name": [
+        "San Jose State University"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.udacity.com/course/college-algebra--ma008?utm_medium=referral&utm_campaign=api", 
+    "duration": "16 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2013-01-30T00:00:00Z"
+}

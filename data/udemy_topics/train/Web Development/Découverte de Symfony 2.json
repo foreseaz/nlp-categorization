@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Cette formation à pour but de vous faire découvrir le développement web via l'utilisation d'un framework MVC.</p><p>En l’occurrence, il s'agit de Symfony, framework le plus populaire et le plus demandé en France en matière de développement web.</p><p>L'utilisation de ce framework vous forcera à programmer de façon propre et organisée. De plus, vos sites seront beaucoup plus maintenables et évolutifs.</p><p>Pour suivre ce cours, des connaissances même sommaires en PHP sont conseillées. Après avoir suivi cette formation, vous pourrez développer vos sites web avec Symfony 2.</p>", 
+    "end_date": null, 
+    "title": "Découverte de Symfony 2", 
+    "price": "20.00", 
+    "instructors": "Anthony Cardinale", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/807556_dc72.jpg", 
+    "course_url": "https://www.udemy.com/decouverte-de-symfony-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-29T19:56:10Z"
+}

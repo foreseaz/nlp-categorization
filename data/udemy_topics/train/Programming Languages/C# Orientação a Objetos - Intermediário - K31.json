@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Se você deseja se diferenciar na área de desenvolvimento de software é obrigatório dominar os conceitos avançados de orientação a objetos. Sem esse conhecimento, o programador não consegue aproveitar totalmente os benefícios desse modelo de programação.</p><p>Através das aulas em vídeo da K19, você aprenderá o que é encapsulamento, herança, reescrita de métodos, polimorfismo, classes abstratas e interfaces.</p><p>Para se tornar um bom programador, é fundamental praticar. Na apostila desse curso, você encontrará uma grande quantidade de exercícios para fixar o conteúdo das aulas.</p>", 
+    "end_date": null, 
+    "title": "C# Orientação a Objetos - Intermediário - K31", 
+    "price": "30.00", 
+    "instructors": "Rafael Cosentino, Jonas Hirata, Marcelo De Rezende Martins, K19 Treinamentos", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/774188_cc12.jpg", 
+    "course_url": "https://www.udemy.com/csharp-orientacao-a-objetos-intermediario-k31/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-25T17:35:42Z"
+}

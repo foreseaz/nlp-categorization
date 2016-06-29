@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Dans ce cours vous allez apprendre  pas à pas comment construire une base de données, qui pourrait être utile aussi bien à un entrepreneur ou commerçant pour gérer ses affaires comme à un particulier pour gérer son quotidien (révision de la voiture, dossier médical, recettes, collection, etc.</p>\n\n<ul><li>Sur le papier tout d'abord, parce qu'une base de données c'est d'abord une construction de l'esprit pour enregistrer  des informations. Nous verrons donc quelques éléments théoriques et surtout 2 méthodologies : MERISE et UML pour nous aider dans cette démarche.</li></ul>\n\n\n\n<ul><li> Sur votre ordinateur ensuite, avec MS Access, le gestionnaire de base de données relationnelle qui accompagne la suite Office de Microsoft.</li></ul>", 
+    "end_date": null, 
+    "title": "MS Acccess et les Bases de Données Relationnelles", 
+    "price": "25.00", 
+    "instructors": "Marc Augier", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/805466_1f95_4.jpg", 
+    "course_url": "https://www.udemy.com/bases-de-donnees/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-27T16:27:20Z"
+}

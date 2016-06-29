@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    You will learn to make fluid digital interactive experiences that are suitable for gaming and use the advanced sensor hardware built into the iPhone and iPad. This includes drawing 2D graphics, playing sounds and music, integrating with Game Center, the iOS physics engine and detecting device orientation and location.\n\n                                            Syllabus\n                        Location, Locomotion and MotionIn this week we are going to do a deep dive on the sensors in the iOS platform.  Sensors are one of the aspects of smartphones that make them a unique platform and form a bridge between the digital and physical world.  We will look at different ways of bridging that divide with location sensors (and street address look-ups via reverse geocoding), geofencing and motion sensors. This will give you the skills to write code that makes your apps aware of the world around them and possibly even react to a user’s physical movement.Lights and SoundsWorking with light levels from the physical world is tough on iOS, but this week we will show you a way to access the ambient light around the device by leveraging the screen brightness. Then we will flip the paradigm. Instead of trying to sense the physical world, we will act in the physical world by playing sounds. We will introduce two methods of playing sounds in apps (not the only ways by any means).Touch, Collision, ReactionThis week we give you the foundation for making games with SpriteKit. How do you build a game?  How do you load assets into your game?  How do you make them move and respond?  We will start with the “Hello, World” of games, “Pong”.  That will give a quick intro into how games work. Then we will return to each of the steps that we leveraged in making Pong and go into more depth explaining what we did along the way.  In the in depth tutorial we will keep a running example of a game of “Breakout” tracking along with our progress.  The focus of this style of game is on leveraging the physics engine, and detecting and responding to collisions in 2 dimensions.  We will show the student how to place sprites, react to multi-touch interaction, detect and respond to contact events.Where the Action Is In this final week we will explore the different actions that can be initiated by your Sprites to create dynamic games.  By leveraging the SKAction class, complicated multi-step animations, sounds and effects can be chained together without the app developer having to micro-manage their unfolding.  We will also introduce particle systems as they are a fun and efficient way to simulate effects like smoke, fire and magic. Lastly, we will show you how to interact with Game Center so that you can add social action to your games. That includes leaderboards and achievements that are visible to the user’s social network and add a fun element of competition to any game.\n                                    ", 
+    "end_date": "2016-04-25T00:00:00Z", 
+    "title": "Games, Sensors and Media", 
+    "price": 0, 
+    "instructors": "Don Patterson and Sam Kaufman", 
+    "institution_name": [
+        "University of California, Irvine"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.coursera.org/learn/games", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-03-28T00:00:00Z"
+}

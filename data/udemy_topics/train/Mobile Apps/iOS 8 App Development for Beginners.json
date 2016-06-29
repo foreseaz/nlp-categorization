@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">100% BEGINNER FRIENDLY</strong>. Whether you have prior  programming experience or not, if you’ve ever wanted to create your own  apps this comprehensive course is built right for you. With beginners in  mind, we’ve put together a training that starts from scratch and covers  everything you need to know in order to create apps for <strong style=\"\">iOS 8</strong>.  </p>  <p style=\"\">  \t           By using <strong style=\"\">Apple’s XCode 6</strong> and the latest development tools, you’ll learn how to code <strong style=\"\">iOS apps</strong> using <strong style=\"\">Swift</strong> and <strong style=\"\">Objective-C</strong>.  Both languages are covered from scratch. After you learn both languages <strong style=\"\"> you’ll be building two mobile apps</strong>: ZooBook, an animal-watching  iPhone app (<strong style=\"\">including camera access</strong>) where you’ll be putting everything to practice, and S-Quizzer, a quiz app made with Swift.<br style=\"\">  </p>  <p style=\"\">  \t           This course was created by <strong style=\"\">Mohit Deshpande</strong>, professional app developer (iOS and Android) and trainer. The course is produced by <strong style=\"\">ZENVA</strong> and follows the same <strong style=\"\">Learn by Doing</strong> approach you find in our other titles.  </p>  <p style=\"\">  \t<strong style=\"\">WHAT’S INCLUDED</strong>  </p>  <ul style=\"\">  \t<li style=\"\"><strong style=\"\">Module 1: Swift for Beginners</strong> – Learn how to program in Swift, Apple’s new programming language.</li>  \t<li style=\"\"><strong style=\"\">Module 2: Objective-C for Beginners </strong>– To make robust iOS 8 apps you need to master Objective-C as well as Swift.</li>  \t<li style=\"\"><strong style=\"\">Module 3: Build ZooBook </strong><em style=\"\">- </em>  Learn by building a real app from scratch, using the most common API’s.  ZooBook is an animal-watching iOS 8 app that integrates all the  concepts learned through out the course.</li>  \t<li style=\"\"><strong style=\"\">Module 4: Build S-Quizzer</strong> - Build a quiz app from scratch using Swift.</li>  \t<li style=\"\"><strong style=\"\">BONUS</strong>: <strong style=\"\">iOS 7 for Beginners</strong> – by enrolling in this course, you also get full access to an entire <strong style=\"\">iOS 7</strong>  course which covers Objective-C and building a Epistle, a note taking  app from scratch. Everything covered here is 100% iOS 8 compliant.</li>  </ul>", 
+    "end_date": null, 
+    "title": "iOS 8 App Development for Beginners", 
+    "price": "20.00", 
+    "instructors": "Pablo Farias Navarro, Mohit Deshpande", 
+    "commitment": "13 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/259860_851b_2.jpg", 
+    "course_url": "https://www.udemy.com/ios-8-apps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-11T20:12:43Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t Brain-Computer Interface or BCI is a rapidly evolving technology that builds a direct channel between the human brain and the computer. BCI is a technology that enforces a collaboration between a brain and a device that enables signals from the brain to direct some external activity. This working together is aimed at either controlling a cursor or manipulating a prosthetic limb. The interface facilitates a direct communications path between the brain and the object to be controlled.  </p>  <p>  \t This introductory course will begin discussions on definitions, the history, benefits and drawbacks of BCI.  An introduction of how our brain works will also be discussed. The succeeding modules will discuss BCI components, types, BCI in animals and humans, medical and non-medical BCI applications, BCI technologies, and the current and future status of BCI.  </p>", 
+    "end_date": null, 
+    "title": "Brain Computer Interface", 
+    "price": "50.00", 
+    "instructors": "The Art Of Service", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/180690_0c9c_2.jpg", 
+    "course_url": "https://www.udemy.com/brain-computer-interface/", 
+    "currency": "USD", 
+    "subject_name": [
+        "User Experience"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-12T00:11:34Z"
+}

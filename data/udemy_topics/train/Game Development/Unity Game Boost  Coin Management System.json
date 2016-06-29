@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>What is a virtual economy?</strong></p><p>A virtual economy (also named synthetic economy) is an emergent economy existing in a virtual persistent world, i.e inside a video game, usually exchanging virtual goods in the context of an Internet or mobile game. </p><p>People enter these virtual economies for recreation and entertainment rather than necessity, which means that virtual economies lack the aspects of a real economy that are not considered to be \"fun\" (for instance, avatars in a virtual economy often do not need to buy food in order to survive, and usually do not have any biological needs at all). However, some people do interact with virtual economies for \"real\" economic benefit.</p><p><br></p><p><strong>Despite primarily dealing with in-game currencies, players use real money to buy virtual currency.</strong> </p><p>***</p><p><strong>Why do you need to add a Coin Management System to your video game?</strong></p><p>Anyone willing to keep making games for fun needs a source of income. This is why adding a coin management system to your video games is an important factor in making real profit.</p><p>This is a major source of income for the top games on any app stores. Just take a look at Clash of Clans or Farmville where players spends millions of dollars to buy virtual coins and gems through in-app purchases.</p><p><br></p><p>How is this course going to help?</p><p>In this course, I will show you go through every steps to create a coin management system using Unity. I will start by creating the game user interface that will display the coin amount, then I'll go through the programming part to add coins, store and retrieve coins.</p><p>Then I'll go through the steps of creating an in-game store. I will design the store front interface and then we will program a professional system so that players can buy coin packs using in-app purchases. I will show yo how to connect the system to Google Play for Android and iTunes Connect for iOS.</p><p>Finally I'll teach you ow to bundle up the code and the store into a package that you can reuse in any games, this will save you so much time.</p><p>As a bonus, you'll get all the graphics sounds and final project, free of charge, just by joining this course. That's a value of $100 dollars on its own.</p><p>My students know that I'm always available if yo have any questions, just shoot me a message in the forums.</p><p>Whether you're already a game developer or you're learning how to make games, you need to understand how this work. You've got to learn and apply the skills from this course.</p><p>I guarantee you will get your money worth with this course or you'll get a full refund. </p><p>Join me now.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Unity Game Boost: Coin Management System", 
+    "price": "20.00", 
+    "instructors": "Yohann Taieb", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/796918_7e78.jpg", 
+    "course_url": "https://www.udemy.com/unity-game-boost-coin-management-system/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-18T12:35:36Z"
+}

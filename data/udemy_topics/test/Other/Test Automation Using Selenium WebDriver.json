@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course is designed for those who want to get started on using the Selenium WebDriver for automating their tests.<br> </p><p>To begin with there will a quick start to illustrate how to setup the environment and run your first testcase. This will introduce you to basic test template and constructs of WebDriver. Thereafter , it will go deeper into various methods of WebDriver Interface, WebElement Interface, By class. Alert interface, Navigation interface, Window interface Manage and Timeouts interface All these will be used time and again and form the core of using WebDriver.</p><p>To sum up there will a case study illustrating starting from requirement (user stories), writing testcases, writing test scripts and running them as batch.<br><br></p><p>This will prepare you well to start automating your projects using Selenium WebDriver.</p>", 
+    "end_date": null, 
+    "title": "Test Automation Using Selenium WebDriver", 
+    "price": "20.00", 
+    "instructors": "Ganesh Sahai", 
+    "commitment": "11 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/642628_5f40_2.jpg", 
+    "course_url": "https://www.udemy.com/test-automation-using-selenium-webdriver/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-16T17:38:48Z"
+}

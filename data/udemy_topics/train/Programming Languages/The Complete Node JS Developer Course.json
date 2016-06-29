@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learning Node JS can be difficult. In The Complete Node JS Developer Course you'll learn how to create your own Node JS apps, from scratch. I'll teach you everything you need to launch you own app or switch careers into the tech world.<br></p><p>This course comes with 82 project-packed lessons that put you in the drivers seat. You'll write 5 Node apps, and every video comes with a programming exercise designed to keep your skills sharp. </p><p>You'll setup your computer with all the tools to build Node apps. Don't worry, all the tools are free. From there, you're going to cover the basics of the Node language and start building your first project.</p><p>After you have the fundamentals down, you'll get comfortable adding a wide variety of features to your Node apps. You'll build command line tools, a chat application, use a 3rd party weather API, and launch your very own API for a Todo App.</p><p>You'll explore popular Node JS 3rd party modules like Express, Sequelize, SocketIO and others. You'll also learn how to host your code on GitHub and deploy it live on Heroku!</p><p>Node JS is the fastest growing server-side language. Companies like Walmart, Netflix, and LinkedIn are moving their back-ends over to Node. It's speed, scalability, and growing community are a few of the great reason to build you apps on Node. There has never been a better time to start learning Node JS!</p><p><strong>About The Instructor: Andrew Mead\n</strong></p><p>When I decided to create The Complete Node Developer Course I teamed up with Andrew Mead, an experienced Node developer. Andrew is the primary instructor for this course.\n</p><p>We worked together to come up with an awesome curriculum where you learn by creating 5 awesome applications. I ensured all Andrews videos are up to my high standards. I hope you love it.\n</p><p>- Rob </p>", 
+    "end_date": null, 
+    "title": "The Complete Node JS Developer Course", 
+    "price": "35.00", 
+    "instructors": "Rob Percival, Andrew Mead", 
+    "commitment": "27 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/520122_a27c_4.jpg", 
+    "course_url": "https://www.udemy.com/the-complete-node-js-developer-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-04T10:23:44Z"
+}

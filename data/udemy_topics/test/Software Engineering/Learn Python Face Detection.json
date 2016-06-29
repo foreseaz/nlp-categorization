@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course covers the fundamentals of Python programming, as well as an introduction to using image-processing techniques to identify a human face in live video recordings. It will be taught by myself through my desktop, and I will be coding from scratch, and step by step to insure that no ambiguity is present.</p><p>This course will start out with a brief overview of Python basics such as variables, for and while loops, boolean statements, functions and more. After becoming familiar with Python, we will dive into some image-processing concepts and start on our Python script to detect human faces!</p><p>This course is intended for anyone who wants to quickly pick up Python and start working on an interesting, applicable project instead of drudging along a twenty-hour tutorial. My videos are short, hands-on, interactive and engaging, so you&#039;ll come out happy and enthusiastic with a large amount of gained knowledge.</p>", 
+    "end_date": null, 
+    "title": "Learn Python Face Detection", 
+    "price": "30.00", 
+    "instructors": "Jason Cromer", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/522910_6e2f_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-python-face-detection/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-08T01:50:24Z"
+}

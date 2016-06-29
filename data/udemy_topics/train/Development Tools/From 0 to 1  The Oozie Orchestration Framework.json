@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Prerequisites: </strong>Working with Oozie requires some basic knowledge of the Hadoop eco-system and running MapReduce jobs</p>\n\n<p><strong class=\"redactor-inline-converted\">Taught by</strong> a team which includes 2 Stanford-educated, ex-Googlers  and 2 ex-Flipkart Lead Analysts. This team has decades of practical experience in working with large-scale data processing jobs. \n</p>\n\n\n\n\n\n<p><strong><em>Oozie is like the formidable, yet super-efficient admin assistant who can get things done for you, if you know how to ask</em></strong></p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Let's parse that </strong></p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\"><em><em>formidable, yet super-efficient</em></em>: </strong>Oozie is formidable because it is entirely written in XML, which is hard to debug when things go wrong. However, once you've figured out how to work with it, it's like magic. Complex dependencies, managing a multitude of jobs at different time schedules, managing entire data pipelines are all made easy with Oozie</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\"><em>get things done for you</em>: </strong>Oozie allows you to manage Hadoop jobs as well as Java programs, scripts and any other executable with the same basic set up. It manages your dependencies cleanly and logically. </p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\"><em>if you know how to ask</em>: </strong>This is the key, knowing the right configurations parameters which gets the job done, that is the key to mastering Oozie</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">What's Covered: </strong></p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Workflow Management:</strong> Workflow specifications, Action nodes, Control nodes, Global configuration, real examples with MapReduce and Shell actions which you can run and tweak</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Time-based and data-based triggers for Workflows: </strong>Coordinator specification, Mimicing simple cron jobs, specifying time and data availability triggers for Workflows, dealing with backlog, running time-triggered and data-triggered coordinator actions</p>\n\n<p><strong>Data Pipelines using Bundles: </strong>Bundle specification, the kick-off time for bundles, running a bundle on Oozie</p>\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Talk to us!</strong></p>\n\n\n\n\n\n<ul><li>Mail us about anything - <strong class=\"redactor-inline-converted\">anything!</strong> - and we will always reply :-)</li></ul>", 
+    "end_date": null, 
+    "title": "From 0 to 1: The Oozie Orchestration Framework", 
+    "price": "20.00", 
+    "instructors": "Loony Corn", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/880046_425a.jpg", 
+    "course_url": "https://www.udemy.com/from-0-to-1-the-oozie-orchestration-framework/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-16T14:15:55Z"
+}

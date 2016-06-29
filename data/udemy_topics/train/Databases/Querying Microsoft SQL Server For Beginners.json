@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Welcome everyone to the course. SQL is also popularly referefered to as Sequel .In this course you will learn how to install step by step and communicate with SQL Server database. We will be downloading and installing SQL Server Express 2014 (which is a free download). As a sample, we will use AdventureWorks 2014 as our database. Along the way, we will be getting data from the database using T-SQL to write queries. But AdventureWorks 2014 will be our main focus. As far as T-SQL, we will start with the simple select statements and add new features as we go. We will cover grouping and filtering data as well as sorting data before it is read.</p>  <p>This course will provide you with the basic knowledge and skills to install and query SQL Server database.  You will also be familiar with SQL Server Management Studio 2014 which is the management tool used to administer and manage SQL Servers.<br> <br> <strong>What You Will Learn in this course includes:</strong></p>  <ul><li>How to download and install SQL Server</li><li>  </li><li>How to download and install Sample database</li><li>  </li><li>How to download and install SQL Server Management Tool (SSMS)</li><li>  </li><li>What is a database?</li><li>  </li><li>How to make database records unique with a primary Key</li><li>  </li><li>How to sort data</li><li>  </li><li>How to group data</li><li>  </li><li>How to filter data</li><li>  </li><li>How to get data from a database</li><li>  </li><li>How to count records</li></ul>  <p><br> This is a video based course of about 2 hours with lots of practical hands on examples to follow along.</p>", 
+    "end_date": null, 
+    "title": "Querying Microsoft SQL Server For Beginners", 
+    "price": "20.00", 
+    "instructors": "Bluelime Learning Solutions", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/653928_5361_3.jpg", 
+    "course_url": "https://www.udemy.com/how-to-install-and-query-sql-server/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-28T22:12:28Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t    This one day course will teach you the basics of HTML and CSS so you can build  your own website from scratch.  It will also cover several popular ways to get a website online including Weebly, Wordpress, and self-hosting. By the end of the course, you will have created your own website.  </p>  <p style=\"\">  \t  Awesome Inc U is devoted to teaching coding skills. It’s never too early or too late to learn how to code. You don’t have to be a genius to learn to code, you just need to be determined.  </p>", 
+    "end_date": null, 
+    "title": "Develop and Launch Your First Website in Just One Day!", 
+    "price": "25.00", 
+    "instructors": "Awesome Inc", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/172746_1e45_2.jpg", 
+    "course_url": "https://www.udemy.com/basic-web-crash-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-25T13:44:04Z"
+}

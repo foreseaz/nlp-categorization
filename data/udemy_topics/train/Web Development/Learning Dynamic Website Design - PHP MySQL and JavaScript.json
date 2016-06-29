@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<h5>A Verifiable Certificate of Completion is presented to all students who undertake this course.</h5>  <p>This Dynamic Web Design with PHP and MySQL training course will give you a working understanding of these important technologies and show you how to use them to create your own impressive websites. When used in combination, there simply isn&#039;t a better way to construct sites that involve complexity, large volumes of data, and the flexibility to make adjustments and changes over time. This course goes step by step through the basics of each technology, and then gradually shows you how to build the necessary components and underlying framework of your site. It goes through installation of PHP and MySQL technologies on your local machine as well as hosted servers, explains basic tags, commands and constructs, and helps you build and work within a solid back-end database. One you have the basics of PHP and MySQL covered, you&#039;ll also learn how to use CSS, JavaScript and AJAX to create the visual style and added functionality your pages deserve.</p>  <p>&nbsp;</p>  <p><strong style=\"\">What You Will Learn<br style=\"\" /> </strong></p>  <p>- How to build functional, full-featured websites that utilize MySQL, PHP and other current web development technologies.</p>  <p>- How to install, configure and modify functional PHP constructs and MySQL databases for the web.</p>  <p>- How to pair a secure PHP / MySQL backend of a website with a compelling visual interface made with CSS, AJAX, and JavaScript code.</p>  <p>- The basic principles and best practices of PHP and MySQL in a relevant, real world project.</p>  <p>&nbsp;</p>  <p><strong style=\"\">Who Should Take This Course<br style=\"\" /> </strong></p>  <p>- Individuals and small business owners interested in creating their own fully featured websites with total control over data management, functionality and visual appearance.</p>  <p>- Web developers and programmers looking to learn a new language and set of standards.</p>  <p>- Anyone who has used basic CMS or templates to create basic websites in the past but want much more control.</p>  <p>- Anyone who has tried to learn PHP or MySQL in the past but found it difficult due to a lack of practical examples.</p>  <p>&nbsp;</p>  <p><strong style=\"\">What People Are Saying<br style=\"\" /> </strong></p>  <p>&quot;Have to say I was nervous at first, but the authors explanations were very well laid out and crystal clear. The site is coming together nicely.&quot;</p>  <p>-Ben Jeffries</p>  <p><br style=\"\" /> &quot;A PHP tutorial that is up to date with current standards...very easy to follow.&quot;</p>  <p>-Breck Defontes</p>  <p><br style=\"\" /> &quot;I come from a design background but I wanted to beef up my knowledge of basic code. This was a nice and easy primer, thanks.&quot;</p>  <p>-Angela Redberg</p>", 
+    "end_date": null, 
+    "title": "Learning Dynamic Website Design - PHP MySQL and JavaScript", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "12.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/19603_713c_6.jpg", 
+    "course_url": "https://www.udemy.com/learning-dynamic-website-design/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-06-15T22:45:58Z"
+}

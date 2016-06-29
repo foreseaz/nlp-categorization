@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t  Wireless networks are popping up everywhere.. It will be the most commonly used technology among computer networks in the near future. They provide a lot of freedom but not without cost: All too many <strong style=\"\">home</strong> and <strong style=\"\">corporate wireless networks</strong> are left wide <strong style=\"\">open</strong> for <strong style=\"\">attack</strong>.  </p>  <p style=\"\">  \t  This course takes an <strong style=\"\">in-depth look</strong> at the security challenges of many different wireless technologies, exposing you to wireless security threats through the eyes of an attacker. Using readily available and custom-developed tools, you will navigate your way through the techniques attackers use to exploit Wi-Fi networks, including attacks against<strong style=\"\">WEP, WPA/WPA2, WPS</strong>and other systems.  </p>  <p style=\"\">  \t  Using assessment and analysis techniques, this course will show you how to identify the threats that expose wireless technology and build on this knowledge to implement defensive techniques that can be used to protect wireless systems.  </p>  <p style=\"\">  \t  In this course we teach everything from<strong style=\"\">scratch</strong>and<strong style=\"\">no pre-existing knowledge</strong>is needed. So as long as you have a working internet connection, a wireless router and a computer/laptop you are good to go.  </p>  <p style=\"\">  \t  With <strong style=\"\">25 modules</strong> for this course and Challenge Assignments for topics, we make sure you understand the topic from the ground up to the deep packet level.  </p>", 
+    "end_date": null, 
+    "title": "Ultimate Wi Fi Hacking & Security Series", 
+    "price": "50.00", 
+    "instructors": "Zeal Vora", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/358490_1252_5.jpg", 
+    "course_url": "https://www.udemy.com/ultimate-wifi-hacking-security/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-28T15:35:49Z"
+}

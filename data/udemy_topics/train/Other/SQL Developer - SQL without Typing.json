@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Are you TIRED!!!! of remembering the Syntax of SQL to perform your day to day database operations??</p><p><strong>The solution to this problem is</strong><strong>:</strong> Use a Oracle SQL Developer Graphical User Interface(GUI). </p><p>Oracle SQL Developer is a powerful SQL client with Graphical User Interface(GUI) for querying and administration of databases.</p><p>In this course I will be teaching you step by step how to perform various SQL operations using this GUI environment.</p><p>You will learn how to... (<strong>All of this using Graphical user Interface without typing</strong>)</p><ul><li>Create tables</li><li>Add new columns to the tables</li><li>Add Indexes to the tables</li><li>Add constraints to the tables</li><li>Insert, Update and Delete data from the table</li><li>Save your SQL as a View</li><li>Save your SQL to Desktop</li><li>Export data to an Excel worksheet</li><li>Import data from an Excel worksheet to database table</li><li>Monitoring other User activities</li><li>Building SQL's using Query Builder</li><li>and many more...</li></ul><p>and of course I will be there to answer your questions.....</p>", 
+    "end_date": null, 
+    "title": "SQL Developer - SQL without Typing", 
+    "price": "20.00", 
+    "instructors": "Amarnath Reddy", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/555596_57b1_3.jpg", 
+    "course_url": "https://www.udemy.com/sql-developer/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-15T18:39:47Z"
+}

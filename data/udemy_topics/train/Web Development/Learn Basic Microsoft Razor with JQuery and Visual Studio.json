@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  In this course, using Microsoft Visual Studio 2013 for Web, you learn the fundamentals of programming using Microsoft Razor. This course uses the very powerful &quot;Step Into&quot; feature of Microsoft Visual Studio 2013. This debugger approach ensures you can observe the code execute line by line, so it&#039;s behavior is very clear and predictable. Why should you learn this language? Because Razor is a simplified syntax version of Microsoft C#, and Razor is widely used in many modern web architectures like MVC. However, Razor is also less intimidating than C#, so you&#039;ll get cracking in no time. Along the way, you&#039;ll get exposure to technologies like HTML, CSS, JQuery and SQL. These are all essential technologies in the world of web development. And, of course,you learn to use Microsoft Visual Studio, which is one of the most powerful, and widely used programming environments in use today, and well into the future. Let&#039;s get coding!  </p>", 
+    "end_date": null, 
+    "title": "Learn Basic Microsoft Razor with JQuery and Visual Studio", 
+    "price": "20.00", 
+    "instructors": "Edwin Ang, Jess Nault", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/333902_96e1_11.jpg", 
+    "course_url": "https://www.udemy.com/explorewebsitedevelopment/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-02T06:31:47Z"
+}

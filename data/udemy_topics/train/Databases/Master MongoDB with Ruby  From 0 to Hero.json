@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">****Course Updated in June 2016****</strong></p><p>Welcome to this course: <strong class=\"redactor-inline-converted\">Master MongoDB with Ruby</strong>. MongoDB a is a high-performance, open source and schema-free database designed to handle document-oriented storage. MongoDB makes it possible to store and process large sets of data in ways that drive up business value.It's sort of a cross between scalable key/value stores and traditional functionality-rich relational databases.MongoDB might be useful as a fast, simple, non-transactional data store for a web application, or as a caching mechanism. </p><p>This course is designed to make it easy for everyone to master MongoDB in Ruby. It has been divided into following main sections :</p>\n\n<ul><li><strong class=\"redactor-inline-converted\">Introduction to MongoDB with Ruby<br></strong></li><li><strong class=\"redactor-inline-converted\">Installation<br></strong></li><li><strong>Mongoid</strong></li></ul><p>This amazing Course will help you quickly master all the difficult concepts and will the learning will be a breeze. <br></p><p>Let's get started.</p><p><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Master MongoDB with Ruby: From 0 to Hero", 
+    "price": "20.00", 
+    "instructors": "GoThink Learning Solutions", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/870156_8e49_2.jpg", 
+    "course_url": "https://www.udemy.com/master-mongodb-with-ruby/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-06T11:50:37Z"
+}

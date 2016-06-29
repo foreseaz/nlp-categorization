@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>El objetivo de este tutorial es iniciarse en la programación de Android empleando el entorno de desarrollo Android Studio. Se requieren conceptos previos de programación en Java.</p><p>Se busca ir conociendo los rudimentos básicos de la programación en Android presentando los conceptos con ejercicios resueltos e invitando a la resolución de otros problemas propuesto</p><p>Android Studio llega a revolucionar el desarrollo de aplicaciones Android con nuevas herramientas que harán más placentera la experiencia de crear tus aplicaciones.Este software es creado directamente por Google y a diferencia de las opciones tradicionales como Eclipse, este programa fue creado con Android en mente, cada elemento del programa está integrado para facilitarte el proceso de creación de aplicaciones. </p><p>En este curso vamos a examinar todas las posibilidades que nos ofrece este nuevo programa, comenzando desde cero, configurando el sistema e instalando todos los paquetes de software necesarios.</p><p>Examinaremos a fondo los elementos que componen un proyecto, las herramientas de Android Studio, los elementos gráficos e interactivos necesarios para crear una aplicación Android profesional y aprenderás a crear múltiples pantallas y a navegar entre ellas, utilizar las API&#039;s de geolocalización y reproducir archivos multimedia.</p><p>Descubre sus herramientas y su entorno gráfico y cómo te permite ver la apariencia exacta de tu aplicación mientras la desarrollas.</p><p>Android Studio tiene todas las herramientas especializadas para que crear y publicar aplicaciones sea un proceso más fácil, rápido y sencillo.</p>", 
+    "end_date": null, 
+    "title": "Desarrollo de Apps en Android Studio", 
+    "price": "50.00", 
+    "instructors": "Pixel Web Pro", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/562918_98d0_3.jpg", 
+    "course_url": "https://www.udemy.com/desarrollo-de-apps-en-android-studio/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-23T18:44:27Z"
+}

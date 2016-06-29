@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">With the dawn of XNA back in 2006, Microsoft has offered us an easy way to create 3D games, and this framework has evolved to its fourth version.</p><p style=\"\">XNA 3D Game Development By Example is THE video course for starting game development on the Windows platform. This video series will go over the all the essential technical aspects of building good games. This video series will show you how to build a 3D puzzle game for Windows, and point future game developers in the right direction. It will also show you how to design your own framework, something you can use to build upon for future projects.</p><p style=\"\">The XNA framework empowers us to build 2D and 3D games for PC, Xbox 360, and Windows Phone 7, and we&#039;ll use those capabilities to create stunning 3D games for Windows. We start with drawing 2D and 3D graphics, both static and animated, followed by several techniques to build a custom framework that&#039;ll make your life easier while building games.</p><p style=\"\">We also cover the various ways of handling user input and help set the mood of our game by playing both 2D and 3D sound. Finally, we&#039;ll build an actual 3D puzzle game together from the ground up that will run on Windows.</p><p style=\"\"><strong style=\"\">About the Author</strong></p><p style=\"\"><strong style=\"\">Brecht Kets</strong> is a Senior Lecturer at Howest University in Belgium, where he teaches game development in one of the leading international game development study programs, Digital Arts and Entertainment. He&#039;s been actively involved in game development for several years, and has been writing about XNA since the launch in December 2006. He hosts the website and has received the Microsoft Most Valuable Professional award in the category DirectX/XNA five times in a row for his contributions in the community. Brecht has also co-authored the video series XNA 3D Game Development By Example, Packt Publishing.</p><p style=\"\"></p><p style=\"\"><strong style=\"\">Thomas Goussaert</strong> graduated in Digital Arts And Entertainment (DAE), from Howest University. With a wide range of skills acquired by his studies, he explored the world of programming and game development. Thomas is always curious and eager to learn new things; always feeding his passion for programming. Now he&#039;s a lecturer at Howest University, where he teaches game development in one of the leading international game development study programs, Digital Arts and Entertainment. It&#039;s nice to have a passion for programming, but it&#039;s even better to share it with the world! Thomas has also co-authored the video series XNA 3D Game Development By Example, Packt Publishing.</p>", 
+    "end_date": null, 
+    "title": "XNA 3D Game Development By Example", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/542846_7ef0_2.jpg", 
+    "course_url": "https://www.udemy.com/xna-3d-game-development-by-example/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-02T06:09:00Z"
+}

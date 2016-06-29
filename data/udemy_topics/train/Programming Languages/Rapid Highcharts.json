@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   The Rapid Highcharts video course goes all the way from configuring a simple pie chart to creating a dashboard full of charts that interact with your user interface. You will learn how to process your data, how to create different chart types, and which chart type is best to visualize your data.  </p>  <p style=\"\">  \t   The video course sets the stage by first introducing you to a dashboard theme, which progressively grows with the inclusion of each different chart type. After exploring the basic features of Highcharts, you will quickly create your first chart to get to grips with the subject. Chart types from simple line charts to pie charts and heat maps to geographical maps will be covered throughout this course, demonstrating the interesting ways in which data can be represented. Once the charts are created, you will add interactive features such as drilldown and exporting functionality and learn how to load data from different sources on the Internet to display in your charts.  </p>  <p style=\"\">  \t   This video course will get you started with creating charts by covering important features that will allow you to create a wide variety of charts to make the users of your web application comprehend their data easily.  </p>  <h4><strong style=\"\">About the Author</strong></h4>  <p style=\"\">  \t<strong style=\"\">Tom Hombergs</strong> is a software engineer based in Germany who has worked on software projects for more than 10 years. He has broad experience in web technologies with a focus on Java and JavaScript. He is the creator of Wicked Charts, bringing the power of the Highcharts JavaScript library to Java programmers.  </p>  <p style=\"\">  \t  Tom is currently employed at adesso AG in Dortmund, Germany, working as a project lead and software architect on various projects.  </p>", 
+    "end_date": null, 
+    "title": "Rapid Highcharts", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/420164_7a8d_2.jpg", 
+    "course_url": "https://www.udemy.com/rapid-highcharts/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-12T13:05:11Z"
+}

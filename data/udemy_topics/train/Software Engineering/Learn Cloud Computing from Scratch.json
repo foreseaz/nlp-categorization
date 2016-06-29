@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Cloud Computing</strong> has really changed the way companies looking into their digital Infrastructure now a days. Cloud computing with its unique paradigms brings in new opportunities and challenges for developers and administrators worldwide. With our unique curriculum we have tried to create the content which will bring beginners up to speed with Cloud technologies.  </p>  <p>  \t      The Course will start with basic introduction to cloud concepts like SAAS, PAAS and IAAS. You will also learn how Linux systems is changing the Infrastructure landscape worldwide. You will then learn to use popular cloud technologies like Google Compute Engine , Amazon AWS and Redhat open shift. The last unit covers Virtualization Technologies to provide you a holistic understanding of cloud computing environment.  </p>  <p>  \t      This course is surely the fastest and smartest way to get started with Cloud computing technologies.  </p>", 
+    "end_date": null, 
+    "title": "Learn Cloud Computing from Scratch", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/270820_ff8f_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-cloud-computing-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-29T06:43:30Z"
+}

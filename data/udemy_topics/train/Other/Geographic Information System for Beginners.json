@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>INTRODUCTION TO GIS FOR BEGINNERS: Learn both the theoretical knowledge and practical skills of the latest GIS technologies with easy to follow video lectures and laboratory exercises.</p><p>This course provides an introduction to GIS, sources of GIS data, GIS data structure and and hands-on practical exercises to processing, downloading, and visualizing large volume of geospatial data in Google Earth Engine platform. Specifically we will cover:</p><ul><li>Introduction to GIS</li><li>GIS data structure</li><li>Sources of GIS data</li><li>Earth observation data</li><li>GIS data access</li></ul><p>No prior experience required. All are tailored such that anyone can follow them easily.</p><p>To date the ability to have skills in GIS technologies is key to various decision makings. This course will provide you the necessary skills on how to manipulate and utilize a GIS data for your own purpose.</p><p>In my course, I will give you the tools and skills through a step-by-step lecture and lab exercises. You will understand the fundamentals of GIS and gain skills on manipulating earth observation data. Students will learn the different concepts in a GIS including sources of GIS data, GIS data structure, functions of a GIS and applications to GIS. Example earth observation satellite data will be used through out the course. </p>", 
+    "end_date": null, 
+    "title": "Geographic Information System for Beginners", 
+    "price": "20.00", 
+    "instructors": "Dr. Alemayehu Midekisa (PhD)", 
+    "commitment": "44 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/548592_d62c_5.jpg", 
+    "course_url": "https://www.udemy.com/gis-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-08T03:08:04Z"
+}

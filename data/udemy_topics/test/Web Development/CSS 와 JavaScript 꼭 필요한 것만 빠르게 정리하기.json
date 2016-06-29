@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>아래와 같은 내용으로 구성되어 있습니다.<br></p>\n\n<ol><li>HTML 및 HTML5 에 대해<strong class=\"redactor-inline-converted\"> 37</strong>강의 강의</li><li>CSS에 대해<strong class=\"redactor-inline-converted\"> 25</strong>강</li><li>자바스크립트에 대해<strong> 65</strong>강</li></ol>\n\n\n\n\n\n<p>쉬운 개념들은 매우 빠르게 지나 갔습니다.</p>\n\n\n\n<p>한번 동영상으로 쭉 훑어 보고나면, 교보문고 강남점에 가서 두꺼운 책 한권 사다본 것과 같은 효과가 있을 것입니다.</p>\n\n<p>책보다 비디오가  나의 경우에는 훨씬 빨랐습니다. 잘 아는 부분은 1.5배속이나 2배속으로 지나가도 이해가 될 것입니다.</p>", 
+    "end_date": null, 
+    "title": "CSS 와 JavaScript 꼭 필요한 것만 빠르게 정리하기", 
+    "price": 0, 
+    "instructors": "NORTHPARD SNOWCOUNTRY", 
+    "commitment": "13 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/830234_df05_3.jpg", 
+    "course_url": "https://www.udemy.com/eastpard/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-23T20:49:17Z"
+}

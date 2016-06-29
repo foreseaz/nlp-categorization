@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">概要</strong>  </p>  <p style=\"\">  \t        これは，交流電気回路の基礎理論について学ぶ，2014年度「回路理論I」のレクチャービデオです．この講義の目標は，正弦波交流の複素数表示を理解し，回路網解析を用いて交流電気回路を解析する方法を修得することです．授業を受講している学生の補助資料として，このレクチャービデオを公開しています．（それ以外の方にも，多少のメリットはあるかもしれません）  </p>  <p style=\"\">  \t<strong style=\"\">レクチャー内容</strong>  </p>  <p style=\"\">  \t    レクチャーでは，直流の電気回路の基礎から復習します．電気回路とはなにか，を説明したと，基本法則であるキルヒホッフの電圧・電流法則を說明します．次に，オームの法則を用いて，直流電気回路の直列接続・並列接続を解析します．また直流の電源を導入し，電力の概念を說明します．  </p>  <p style=\"\">  \t    そして正弦波交流への導入として，三角関数と正弦波を説明したあと，正弦波交流に対する抵抗の電流電圧特性，平均電力を說明します．同時に実効値の概念も解説します．キャパシタとインダクタの交流特性を説明したあと，簡単なRL直列回路の解析を說明します．重要な解析道具である複素数を復習した後，複素数によってどのように正弦波交流が表されるのか，それによって解析がどのように簡単になるのか，を說明します．  </p>  <p style=\"\">  \t    正弦波交流を導入したことにより，電力の概念が交流でどのように表されるのかについても說明します．そして，回路解析の手段である，閉路解析・節点解析を說明します．  </p>  <p style=\"\">  \t<strong style=\"\">教材</strong>  </p>  <p style=\"\">  \t  このコースには3分〜5分程度のビデオレクチャーから構成されています．今のところ，クイズはありません．  </p>  <p style=\"\">  \t<strong style=\"\">時間</strong>  </p>  <p style=\"\">  \t  1セクションのビデオレクチャーの長さは，平均30分程度です．9セクションあるので，すべてを試聴するには5時間程度が必要です．  </p>  <p style=\"\">  \t<strong style=\"\">キーワード</strong>  </p>  <p style=\"\">  \t  電気回路，回路解析，素子，接続，節点，KCL（キルヒホフの電流法則），KVL（キルヒホフの電圧法則），オームの法則，合成抵抗，合成コンダクタンス，電流源，電圧源，直流電力，キャパシタ，インダクタ，三角関数，正弦波（振幅，位相，実効値），正弦波交流，平均電力，複素数，直交・極座標表示，正弦波交流の複素数表示，複素インピーダンス，複素アドミタンス，合成インピーダンス，合成アドミタンス，フェイザー表示（ベクトル表示），交流電力，皮相電力，有効電力，無効電力，力率，複素電力，力率改善，フェイザー図（ベクトル図），フェイザー軌跡（ベクトル軌跡），閉路解析（網目解析），節点解析，グラフ理論，頂点，辺，有向グラフ，連結グラフ，木，補木  </p>  <p style=\"\">  \t  Abstract  </p>  <p style=\"\">  \t<em style=\"\">This lecture in JAPANESE is of electric circuit theory including: resistance, capacitance, inductance, <span id=\"fbcaa3e1-bed4-41bd-a7fb-65cddbe66246\" class=\"GINGER_SOFTWARE_mark\" style=\"\">voltage-current relations, Kirchhoff’s laws, complex numbers, <span id=\"bd9e8fea-fd01-4b3a-ad32-a2d7d2b78643\" class=\"GINGER_SOFTWARE_mark\" style=\"\">phasor</span> diagrams, impedance, admittance, series circuit, parallel circuits, average power, real power, reactive power, power factor, power factor improvement, sinusoidal circuit analysis, mesh current method, node voltage method. The lecture is comprised of many videos of length between three and five minutes.</span> </em>  </p>", 
+    "end_date": null, 
+    "title": "電気回路理論入門", 
+    "price": 0, 
+    "instructors": "Toru Tamaki", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/51539_d42c_3.jpg", 
+    "course_url": "https://www.udemy.com/electric_circuit/", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-04-27T21:10:35Z"
+}

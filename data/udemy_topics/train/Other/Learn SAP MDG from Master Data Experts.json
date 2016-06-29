@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>SAP MDG training is relevant for a wide audience with a variety of background: Functional Experts, ABAP developers, Data Experts, Implementation Leads. Specifically BRFPlus, Workflow and WebDynpro ABAP developers play a crucial part in any MDG implementation.</p><p>SAP MDG is a rapidly growing product offering. Master Data and its relevance to business process and analytics has been long ignored by organizations.</p><p>This training is created by SAP MDG experts with several implementation projects in a variety of scenarios. Learn MDG effectively<strong style=\"\"> in the shortest possible time</strong>. This is not merely a how-to guide. It give you an end-to-end view of MDG implementation.</p><p>The MDG training includes a MDG demo and detailed overview of MDG Architecture. MDG uses several technical components in the underlying ECC system. Several session to dedicated to cover each technical component: WebDynpro for ABAP, ABAP Dictionary, Business Workflow.</p><p>The course includes detailed demos. We pause at various times in the demo to explain the underlying concepts.</p><p>The course has been designed by Indira Sharma, Abhi Anantharam and Velu Singa. You will hear the voice of Velu all through this training session.</p><p></p>", 
+    "end_date": null, 
+    "title": "Learn SAP MDG from Master Data Experts", 
+    "price": 0, 
+    "instructors": "Indira Sharma", 
+    "commitment": "34 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/466374_a848_2.jpg", 
+    "course_url": "https://www.udemy.com/sap-mdg-training/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-03T03:22:05Z"
+}

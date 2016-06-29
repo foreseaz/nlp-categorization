@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>Neste Curso, você aprenderá as melhores técnicas de automatização de relatórios através do Excel. </p><p>Aprenda sobre a linguagem de desenvolvimento Visual Basic para Microsoft  Excel e Ganhe muito mais tempo nas análises gerenciais dos seus negócios.</p><p>Automatize relatórios e realize análises financeiras, de negócios e estratégicas.</p><p>* Aulas práticas</p><p>* Vídeos de alta qualidade</p><p>* Acesso vitalício ao conteúdo</p><p><strong>Conteúdo Programático:</strong></p><ul><li>Introdução ao conceito de VBA</li><li>Propriedades e Métodos</li><li>Descobrindo Nome das Ações</li><li>Selecionando uma Célula</li><li>Selecionando um intervalo de Células</li><li>Selecionando Nomes</li><li>Selecionando com Cells</li><li>Selecionando intervalo de Célula com Cells</li><li>Activecell</li><li>Selection</li><li>Janela de Verificação Imediata</li><li>Active Cell x Range</li><li>Alterar Valores das Células</li><li>Variáveis</li><li>Declaração de Variáveis</li><li>Declaração de Variáveis Públicas</li><li>Aplicattion_WorksheetFunction</li><li>Offset</li><li>Loop</li><li>For Next</li><li>Formulários</li><li>Formulários - Adicionando Botões</li><li>Formulários - Automatização</li><li>Formulários - Valor Total</li><li>Formulários - Botão Cadastrar</li><li>Formulários - Finalizar</li></ul><p></p><p></p>", 
+    "end_date": null, 
+    "title": "Visual Basic Para Excel - Microsoft VBA Excel Módulo 2", 
+    "price": "20.00", 
+    "instructors": "Doutores do Excel, Daniel Tadeu Delgado", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/556398_f416_2.jpg", 
+    "course_url": "https://www.udemy.com/visual-basic-para-excel-microsoft-vba-excel-modulo-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-16T15:17:00Z"
+}

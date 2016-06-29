@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Der Einstieg in NodeJS ist am Anfang oft ein bisschen ungewohnt, da JavaScript komplett anders programmiert wird als Java oder PHP. Dennoch macht es Sinn, Webserver in NodeJS zu programmieren, JavaScript ist unglaublich performant. Dank NodeJS können wir z.B. problemlos einen Chat programmieren, der mit 10000+ Benutzern gleichzeitig klarkommt.</p><p>In diesem Kurs werdet ihr alle Grundlagen lernen, die ihr benötigt, um eure Anwendungen in NodeJS zu programmieren. </p><p>Ihr werdet lernen:</p><ul><li>wie ihr NodeJS verwendet</li><li>was die Gedankengänge hinter den Funktionen von NodeJS sind</li><li>und wie es genau funktioniert</li></ul><p>Dadurch werdet ihr nach diesem Kurs nicht nur ein super NodeJS - Entwickler sein, sondern werdet auch verstanden haben, warum NodeJS so funktioniert wie es funktioniert. Ihr programmiert also nicht einfach nur 1:1 nach, sondern lernt auch das Konzept hinter dem Tool. Dadurch seid ihr in der Lage, dieses langfristig zu verstehen und auch anderen später zu erklären.</p><p>Ich bin fest davon überzeugt, das hier ist der Beste Kurs für deinen Einstieg in die Welt von NodeJS. Starte jetzt, und fange an deine Apps in NodeJS zu entwickeln!</p>", 
+    "end_date": null, 
+    "title": "Der komplette NodeJS Kurs - Vom Anfänger zum Profi ", 
+    "price": "30.00", 
+    "instructors": "Jannis Seemann", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/688196_9e24_3.jpg", 
+    "course_url": "https://www.udemy.com/derkomplettenodejskurs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-03T18:49:47Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \tWhy should you take this course?  </p>  <p style=\"\">  \tSeveral decades since its inception, UNIX is still at the heart of the Internet and computing in general. In my view, a tool this powerful that has withstood such a rapid change in a fast-paced industry is something that needs to be learned and used regularly.  </p>  <p style=\"\">  \tIf you own a Mac and are a programmer, software engineer, web developer or designer, network or systems engineer, or simply interested in learning more about your system, you&#039;re really missing out if you don&#039;t learn the UNIX command line.  It is simply one of the most powerful technical skills you can have available in your arsenal.  </p>  <p style=\"\">  \tAt the end of this course, students should possess the skills necessary to start using the UNIX operating system with greater proficiency, as well as the ability to learn more about the system on their own.  </p>", 
+    "end_date": null, 
+    "title": "Learning the UNIX Command Line on OS X", 
+    "price": "25.00", 
+    "instructors": "Chip Castle", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/59526_7cec_5.jpg", 
+    "course_url": "https://www.udemy.com/learning-the-unix-command-line-on-os-x/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-11T21:01:39Z"
+}

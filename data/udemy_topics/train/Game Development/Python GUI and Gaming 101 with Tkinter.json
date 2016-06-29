@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\">If you&#039;re interested in Python GUI, Gaming, and more, you&#039;re in the right place!</strong> </p><p style=\"\">This course is a one-stop-shop for all things GUI! We&#039;ll be using the Tkinter Module of Python for all our graphics and animations. We&#039;ll start with the basics, buttons, labels, etc. Once we cover those, we&#039;ll move on to more complex things, like performing actions from button clicks, getting entry data, and then we&#039;ll create a full-fledged Calculator!</p><p style=\"\">After that, we&#039;ll create two fantastic games, Bounce and Pong! This entire course will get you started with Python and the Tkinter Module, creating fantastic GUI&#039;s and Games. </p><p style=\"\">By the end of this course, you&#039;ll be able to create you&#039;re very own Python Games, and GUI applications. Well, why are you still reading the Course Summary? Enroll now and start creating Python GUIs! </p>", 
+    "end_date": null, 
+    "title": "Python GUI and Gaming 101 with Tkinter", 
+    "price": "20.00", 
+    "instructors": "Avinash Jain", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/566404_56ea_3.jpg", 
+    "course_url": "https://www.udemy.com/pythongui/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-27T19:10:54Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \tLearn the complete pipeline for creating a game asset from start to finish! In this course, we&#039;ll take a nostalgic dip into the past by recreating an authentic 1930&#039;s home radio. We&#039;ll begin by constructing our high polygon mesh (often called sub-d modeling), utilizing several methods to create the base mesh and accompanying finer details. Once that is complete, we&#039;ll use our original high poly as a base mesh to create our low poly mesh.  </p>  <p style=\"\">  \tWe&#039;ll then UV unwrap the mesh to create clean UVs. We&#039;ll take the info from the High Poly model to render out our normal maps, and the UV layout will be used as the schematic for creating the texture in Photoshop. We&#039;ll complete the radio asset with finishing touches in the material, which should provide a complete &quot;A-to-Z&quot; foray into the 3D art creation pipeline.  </p>  <p style=\"\">  \t                (Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)  </p>  <hr style=\"\">  <p style=\"\">  \t<u style=\"\"><strong style=\"\">More about the Instructor:</strong></u>  </p>  <p style=\"\">  \t              Stephen Wells is an expert 3D modeler for characters, props, vehicles, weapons and environments and have created both high and low polygon assets for game productions. He has over 20 years experience in creating a variety of game assets for several different genres (fantasy, sci-fi, combat, superheroes, horror, etc) using 3ds Max, Maya, Photoshop, ZBrush, Mudbox, Topogun, and XNormal. As an enthusiastic instructor, he loves creating video tutorials on a wide variety of subjects to help students better their skillsets.  </p>", 
+    "end_date": null, 
+    "title": "Model and Texture a Radio Prop for Video Games Using 3ds Max", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/349074_4056.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-model-and-texture-a-radio-prop-for-video-games-using-3ds-max/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-18T04:32:58Z"
+}

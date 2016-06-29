@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Massive</strong> amounts of <strong>data</strong> are being collected on just about everything and only a small part of that data is being analyzed.</p><p>In 2014, <strong>every second</strong> over <strong>5700 tweets </strong>were sent and <strong>870 Facebook</strong> links were sent. </p><p>In 2013, about <strong>4.4 zettabytes</strong> of data were created and approximately 5% of it was analyzed. </p><p>By 2020, it’s estimated that we will collect <strong>44 zettabytes</strong> of data and the amount we <strong>analyze</strong> will jump to <strong>40%</strong>. </p><p>One of the most overused words in recent times is <strong>“Big Data”</strong></p><p>But what does the word really mean? </p><p>Big data refers to data being collected in ever-escalating <strong>volumes</strong>, at increasingly high <strong>velocities</strong>, and for a widening <strong>variety</strong> of unstructured formats and variable semantic contexts.</p><p>Big data describes any <strong>large body of digital information,</strong> from the text in a Twitter feed, to the sensor information from industrial equipment, to information about customer browsing and purchases on an online catalog. </p><p>Big data can be <strong>historical</strong> (meaning stored data) or <strong>real-time</strong> (meaning streamed directly from the source).</p><p>For big data to provide <strong>actionable intelligence</strong> or insight, not only must the right questions be asked and data be relevant to the issues be collected, the data must be <strong>accessible</strong>, <strong>cleaned</strong>, <strong>analyzed</strong>, and then <strong>presented</strong> in a useful way. </p><p><strong>HDInsight</strong> is a <strong>cloud implementation</strong> on Microsoft <strong>Azure</strong> of the rapidly exanding Apache Hadoop technology stack that is the go-to solution for big data analysis.</p><p>It <strong>includes</strong> <strong>implementations</strong> of Storm, HBase, Pig, Hive, Sqoop, Oozie, Ambari, and so on. HDInsight also integrates with<strong> business intelligence (BI) tools such as Excel</strong>, SQL Server Analysis Services, and SQL Server Reporting Services.<br></p><p><strong>Note</strong>: This is <strong>not</strong> a hands on course. This course creates a knowledge foundation for my next course in this series which is using what we've learned to create a real world end to end big data solution with Azure HDInsight. </p>", 
+    "end_date": null, 
+    "title": "Hadoop on Azure. An Introduction to Big Data Using HDInsight", 
+    "price": "20.00", 
+    "instructors": "Mike West", 
+    "commitment": "38 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/670114_2d2d.jpg", 
+    "course_url": "https://www.udemy.com/hadoop-on-azure-working-with-big-data-using-hdinsight/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-15T04:48:22Z"
+}

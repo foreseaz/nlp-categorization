@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Strategic Management"
+    ], 
+    "description": "\n\n                    \n                    \n                    Digitization is reinventing the global economy; individuals, businesses, and societies are becoming interconnected in real time, leading to a new digital economy that is more collaborative, intelligent, responsive, and efficient, with dramatic increases in productivity and economic value. This digital economy is transforming how we design, plan, respond, make, ship, and operate our products and assets.\r\nIn the openSAP course Digital Transformation Across the Extended Supply Chain – In a Nutshell, we explained how digital transformation is effecting extended supply chain business processes that are driven by customer centricity, individualized products, the sharing economy, and resource scarcity.\r\nIn this subsequent 6-week course, we will cover trends and challenges faced by business executives across the extended supply chain, and learn how SAP extended supply chain solutions address these challenges. The course is structured along the SAP extended supply chain value map. Each week will cover a different business priority of the value map.\n\n                                            Syllabus\n                        Week 1: Demand-Driven Business Planning\r\nWeek 2: Response and Supply Orchestration\r\nWeek 3: Efficient Logistics and Order Fulfillment\r\nWeek 4: Sustainable Product Innovation\r\nWeek 5: Automated Agile Manufacturing\r\nWeek 6: Operational Excellence\n                                    ", 
+    "end_date": "2016-04-26T00:00:00Z", 
+    "title": "Digital Transformation Across the Extended Supply Chain", 
+    "price": 0, 
+    "instructors": "Garrett Miller, Markus Rosemann and Martin Barkman", 
+    "institution_name": [], 
+    "commitment": "3-4 hours", 
+    "subject_name": [
+        "Business & Management"
+    ], 
+    "course_url": "https://open.sap.com/courses/escm2", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "openSAP"
+    ], 
+    "start_date": "2016-03-15T00:00:00Z"
+}

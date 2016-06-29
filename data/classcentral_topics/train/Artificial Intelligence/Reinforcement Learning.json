@@ -1,0 +1,28 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Artificial Intelligence"
+    ], 
+    "description": "\n\n                    \n                    \n                    You should take this course if you have an interest in machine learning and the desire to engage with it from a theoretical perspective. Through a combination of classic papers and more recent work, you will explore automated decision-making from a computer-science perspective. You will examine efficient algorithms, where they exist, for single-agent and multi-agent planning as well as approaches to learning near-optimal decisions from experience. At the end of the course, you will replicate a result from a published paper in reinforcement learning.Why Take This Course?This course will prepare you to participate in the reinforcement learning research community. You will also have the opportunity to learn from two of the foremost experts in this field of research, Profs. Charles Isbell and Michael Littman.\n\n                                            Syllabus\n                        * Reinforcement Learning Basics\n* Introduction to BURLAP\n* TD Lambda\n* Convergence of Value and Policy Iteration\n* Reward Shaping\n* Exploration\n* Generalization\n* Partially Observable MDPs\n* Options\n* Topics in Game Theory\n* Further Topics in RL Models\n                                    ", 
+    "end_date": "2014-09-01T00:00:00Z", 
+    "title": "Reinforcement Learning", 
+    "price": 0, 
+    "instructors": "Charles Isbell and Michael Littman", 
+    "institution_name": [
+        "Brown University", 
+        "Georgia Institute of Technology"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.udacity.com/course/reinforcement-learning--ud600?utm_medium=referral&utm_campaign=api", 
+    "duration": "16 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2014-05-12T00:00:00Z"
+}

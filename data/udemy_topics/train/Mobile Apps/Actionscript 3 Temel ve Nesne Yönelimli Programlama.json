@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Bu eğitim Actionscript dilini konu alsada, nesne yönelimli programlamayı destekleyen tüm diller için ortak olan konsepti anlatmaktadır. </p><p>Yazım olarak ve bazı küçük farklılıklar dışında nesnel programlama tüm diller için ortak bir konsepttir. Bu sebeple sadece actionscript dilini öğrenmekle kalmayıp, hangi dili öğrenirseniz öğrenin size faydası olacaktır.</p><p>Programcılık alanında bulunan birçok dil nesnel programlama mantığını desteklemektedir. Swift, C#, Java gibi. Actionscript 3 de nesnel programlama yapısını destekleyen bir dildir.</p><p>Bu eğitim içerisinde programcı olabilmek için ve nesnel yapıyı öğrenebilmeniz için gereken konular en başından alınmaktadır. Programlama nedir ile başlayıp, nesnel yapının tüm özellikleri ayrıntılı ve tane tane anlatılmıştır.</p><p>Bu eğitim actionscript için temel kaynak niteliğinde hazırlanmış ve tüm detaylar sizlere sunulmuştur. </p><p>1. Bölüm: <br>Genel olarak programlama hakkın bilgiler ikapsamaktadır.</p><p>2. Bölüm:<br>Actionscript yazmak için kullanabileceğiniz editörleri anlatmaktadır.</p><p>3. Bölüm ile 10. Bölüm arası:<br>Temel olarak actionscript kodlamak için gerekli tüm bilgileri kapsamaktadır.</p><p>11. Bölüm ile 18. Bölüm arası:<br>Birçok profesyonel programlama dilinde kullanılan nesnel programlama mantığını, (Object Oriented Programming) gerekli tüm detayları ile içermektedir.</p>", 
+    "end_date": null, 
+    "title": "Actionscript 3 Temel ve Nesne Yönelimli Programlama", 
+    "price": "20.00", 
+    "instructors": "Ersin Sengul", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/702702_1d41.jpg", 
+    "course_url": "https://www.udemy.com/actionscript-3-temel-ve-nesne-yonelimli-programlama/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-21T08:19:46Z"
+}

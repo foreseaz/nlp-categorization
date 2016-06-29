@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>SQL es un lenguaje de acceso a bases de datos que explota la flexibilidad y potencia de los sistemas relacionales permitiendo gran variedad de operaciones<br></p>\n\n<p>Es un lenguaje declarativo de \"alto nivel\", que gracias a su fuerte base teórica y su orientación al manejo de conjuntos de registros, y no a registros individuales, permite una alta productividad en codificación. De esta forma una sola sentencia puede equivaler a uno o más programas que se utilizarían en un lenguaje de bajo nivel orientado a registros.</p>\n\n\n\n<p>El curso es teórico práctico lo que permite que el alumno pueda conocer las ventajas de manejar una SGBD dentro de proyectos reales.</p>\n\n\n\n<p>El curso tiene como objetivo aprender la sintaxis T-SQL para el manejo de información y aplicarlo en empresas, creara una base solida de las sentencias sql.</p>\n\n<p><strong> </strong></p>", 
+    "end_date": null, 
+    "title": "Aprende T-SQL orientado a negocios", 
+    "price": "20.00", 
+    "instructors": "Carlos Palomino", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/785594_cff3_5.jpg", 
+    "course_url": "https://www.udemy.com/aprende-t-sql-orientado-a-negocios/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-08T01:14:46Z"
+}

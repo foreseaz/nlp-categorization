@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Statistics & Probability"
+    ], 
+    "description": "\n\n                    \n                    \n                    Statistics is a versatile discipline that has revolutionized the fields of business, engineering, medicine and pure sciences. This course is Part 2 of a 4-part series on Business Statistics, and is ideal for learners who wish to enroll in business programs. The first two parts cover topics in Descriptive Statistics, whereas the next two focus on Inferential Statistics.\n\nSpreadsheets containing real data from diverse areas such as economics, finance and HR drive much of our discussions.  \n\nIn Part 2, we use the language of probability to examine the underlying distributions of random variables. We model real-life phenomena using known variables such as Binomial, Poisson and Normal. We learn how to simulate data that are distributed according to these variables.\n\nWe shall take up datasets that have over a million rows, which makes it difficult to analyze using a spreadsheet. This is a natural setting for R, an advanced statistical programming platform. We incorporate helpful tutorials to get learners acquainted with the platform. \n\n                                    ", 
+    "end_date": "2017-11-23T00:00:00Z", 
+    "title": "QM101.2x: Statistics for Business - II", 
+    "price": 0, 
+    "instructors": "Ishita Kumar and Shankar Venkatagiri", 
+    "institution_name": [
+        "Indian Institute of Management Bangalore"
+    ], 
+    "commitment": "5-7 hours", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.edx.org/course/statistics-business-ii-iimbx-qm101-2x-0", 
+    "duration": "53 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-11-17T00:00:00Z"
+}

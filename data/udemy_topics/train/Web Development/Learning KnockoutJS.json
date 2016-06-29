@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Among the various JavaScript libraries available to developers, KnockoutJS really stands out due to the diverse features it provides and also because it promotes the use of the Model-View-ViewModel (MVVM) design pattern to build data-driven web applications. Construct power-packed apps without compromising on its flexibility and build rich user interfaces, which will update in real-time when the data model state changes, eliminating the need to refresh pages.</p><p>Learning KnockoutJS will walk you through all of the key features of KnockoutJS and make it easy for you to quickly and easily build feature-and data-rich web applications that are easy to extend and maintain.</p><p> We start off with a brief introduction to KnockoutJS, and its various benefits, and explore the different design patterns in context of KnockoutJS to make your JavaScript code cleaner and more manageable. After that, we will walk through and understand the relationship between Models, Views, and ViewModels, as well as creating them.</p><p>Along with that, you will also learn how we can use the different data binding attributes to manipulate the output. We will also discuss and implement various important concepts such as two way data binding and dependency tracking to update your UI in real-time and to separate the components of your application into logical parts.</p><p>We will analyze Knockout's template feature to help you deal with data context in most scenarios. Then, we will take a look at how to track the changes in dependencies and subscribe to them using computed observables and subscriptions. Furthermore, you will also learn how to customize bindings and functions as well as using extenders to create our own set of Knockout tools. Finally, we will take a look at some advanced features of KnockoutJS to take your knowledge to the next level!</p><p>Learning KnockoutJS is more than just an introduction; it's a complete course on one of JavaScript's innovative libraries.</p><p><strong style=\"\">About The Author</strong></p><p><strong style=\"\">Robert Gaut </strong>is a father, husband, musician, photographer, martial artist, and software developer. He began his career teaching application and database development at a technical college. After several years teaching, he spent more than a decade developing web-based content management systems for the automotive industry. He currently works for a large public school district where he develops business applications and data integration processes using Microsoft technologies.<br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Learning KnockoutJS", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/601388_478f.jpg", 
+    "course_url": "https://www.udemy.com/learning-knockoutjs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-03T13:18:00Z"
+}

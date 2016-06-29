@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\">  \t    In this course you will learn the basics of getting started with one of the industry leading tools for Operational Intelligence in Splunk. I will show you how to :  </p>  <ul style=\"\">  \t<li style=\"\">Download and Install Splunk</li>  \t<li style=\"\">Connect to Data Sources</li>  \t<li style=\"\"> Understand Splunk Search Engine</li>  \t<li style=\"\">Navigate through the features Splunk </li>  \t<li style=\"\">Create visualizations and dashboards to answer operational questions </li>  \t<li style=\"\">Create alerts to monitor the machines in your network</li>  \t<li style=\"\">Gain insight on the aggregation of your Machine data</li>  \t<li style=\"\">Dissect existing Dashboards and more</li>  </ul>  <p style=\"\">  \t  Splunk indexes and makes searchable data from any app, server or network device in real time including logs, config files, messages, alerts, scripts and metrics. Learning Splunk will increase your skill set and open up a new job market for you with the large amount of job openings for Splunk users throughout the world. Join me in going over Splunk and adding this tool to your Data Analytics toolset and resume.  </p>", 
+    "end_date": null, 
+    "title": "Operational Intelligence and Machine Data with Splunk", 
+    "price": 0, 
+    "instructors": "Jeffrey Lau", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/422916_a108_2.jpg", 
+    "course_url": "https://www.udemy.com/operational-intelligence-and-machine-data-with-splunk/", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-16T02:15:32Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">The Modbus protocol is the oldest and still by far the most popular automation protocol in the field of process automation and SCADA. Knowing how to create Modbus based networks that run on the RS485 serial communication standard is essential for any electrical technician and engineer working in these fields. Being able to integrate devices from different manufacturers is a skill that is in demand and will ultimately make you more valuable and marketable in the industry.</p><p style=\"\">This course gives you the theory behind the Modbus Protocol as well as RS485. It then goes on to show you how they work together to create a Modbus RS485 network. Two freeware applications are then used to create a Modbus network right on your PC so you can see the communication in action.&nbsp;</p><p style=\"\">After completing this course, you will be able to integrate devices from the same manufacturers and different manufacturers, that are Modbus compliant, to form a complete seamless network.</p>", 
+    "end_date": null, 
+    "title": "Mastering Modbus RS485 Network Communication", 
+    "price": "50.00", 
+    "instructors": "Emile Ackbarali", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/65618_be53_6.jpg", 
+    "course_url": "https://www.udemy.com/mastering-modbus-rs485-network-communication/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-07-15T19:07:05Z"
+}

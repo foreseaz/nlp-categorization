@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tThis Scala training course from Infinite Skills teaches you everything you need to know about the Scala programming language. This course is designed for users that already have some programming experience.  </p>  <p style=\"\">  \t<br style=\"\">  \tYou will start by learning the language basics of Scala, including sequences, recursion, and nesting functions. The course will then teach you about the object-oriented aspects of Scala, linearization of trait methods, and building and writing with XML. This video tutorial also covers text processing, parallelism and actors, and libraries for unit testing.<br style=\"\">  \t<br style=\"\">  \tOnce you have completed this computer based training course, you will have developed a solid working knowledge of the Scala programming language, and be able to start your own Scala-based project. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Beginning Scala Programming ", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/307686_66ad_5.jpg", 
+    "course_url": "https://www.udemy.com/beginning-scala-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-25T14:51:56Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>EmberJS has altered the way people now create web applications by allowing developers to focus more on building the app, rather than working on backend coding. What is EmberJS? It is an open-source JavaScript application framework that works on the client-side allowing developers to create scalable web applications. </p><p>Based on the model-view-controller (MVC) pattern, EmberJS gives developers a set of tools that work in collaboration to provide a complete development stack. In addition, the Ember CLI allows the developer to have a standard structure and a build pipeline, enabling them to drastically reduce the development time of an application.</p><p>Ember is currently one of the hottest technologies on the market and is used in numerous popular websites including Chipotle, Groupon, Vine, Discourse, Nordstrom and Live Nation. </p><p>With one of the fastest growing technologies, it is no surprise that a lot of developers want to add this application to their skill set. Our course is designed to teach you everything you need to learn about EmberJS and how it works.</p><p>This video tutorial will teach you the fundamentals of the technology as well as all the associated components required for building a fully-functional website or application using EmberJS. While primarily considered as a framework for websites, Ember can also be used to develop desktop and mobile applications.</p><p>Our online course will cover basics such as what is Ember, how does Ember exactly work, setting up NodeJS, Ember-cli, routing, models, templates, components and services. It will also teach you how to incorporate all of these technologies to create a working ToDo List Application.</p><p>What are the benefits of learning EmberJS?</p><ul>\n<li>EmberJS has  a flexible framework which allows you to speed up the performance of your application without having to constantly reload the whole page</li>\n<li>Handlebars template ensures that the HTML stays up-to-date even when the underlying model changes</li>\n<li>The data binding is fully supported, which means if one value is changed, the other one is automatically updated.</li>\n<li>EmberJS has the ability to automatically determine routes and controller and makes it easier to shareable URLs.</li>\n</ul><p>At the end of this course, you will be able to:</p><ul>\n<li><strong>Set up NodeJS environment</strong></li>\n<li><strong>Fully understand what is Ember and how to use EmberJS to create web applications</strong></li>\n<li><strong>How do routes, templates and linking routes function</strong></li>\n<li><strong>How handlebars, controllers and data binding function</strong></li>\n<li><strong>How to get data from models and use the Ember Data Library</strong></li>\n<li><strong>To create an application using EmberJS</strong></li>\n</ul><p>This comprehensive guide has been designed to give you the complete knowledge of EmberJS and how it can be effectively used to create a working application. With this tutorial, you will not only get the theoretical knowledge but also hands-on knowledge of how to design a functional application with Ember. With all of this and more, all you have to do is click Enroll and step into a world of easy learning.</p>", 
+    "end_date": null, 
+    "title": "Build Web Apps Using EmberJS: The Complete Course", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/684794_b6ff.jpg", 
+    "course_url": "https://www.udemy.com/build-web-apps-using-emberjs-the-complete-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-30T09:51:14Z"
+}

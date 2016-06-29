@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>この講義をご受講頂くことで、FXを自動で売買するシステムトレードのソフトを、あなた自身が作れるようになります。</p><p>【使い方①　自分で使う】<br>FXをやりたくても、忙しい会社員の方は、チャート画面に張り付いてチャンスを狙う時間が、なかなか作れません。<br>システムトレードであれば、２４時間、取引ができます。</p><p>【使い方②　在宅ビジネスに使う】<br>この講義で作成したソフトは、もちろん、あなたのものです。<br>自分のロジックを世界に発信することも可能ですし、すごく勝てるものができたら、ソフトの販売やシグナル配信で自分のビジネスを営むことも自由です。</p><p><br></p><p>講義は受講しやすいように細かく分けていますが、覚えることは非常に少ないです。<br>プログラミングの経験が０の人にも、ソフト作りを楽しんで頂きたいので、必要な関数は全て作ってあり、テンプレートとサンプルもご用意しました。<br>ほとんどコピペで、かんたんに楽しく、ソフトを作ることができるはずです。</p><p><br></p><p><span></span></p><p><strong>Sec.1</strong> <strong> FX</strong><strong>自動売買って何</strong><strong>？</strong> <br><strong>Sec.2</strong><strong>開発</strong><strong>環境の</strong><strong>準備</strong> <br><strong>Sec.3</strong><strong>ソフト</strong><strong>の構成を把握しよう</strong> </p>  <p>セクション1~3は、導入編です。 <br>基本的な知識、必要なファイルのダウンロードやセットアップ、ソフトの中身を、順を追ってご説明していきます。 </p>    <p><strong>Sec.4</strong><strong>① </strong><strong>インジケータを準備する部分をつくろう</strong> <br><strong>Sec.5</strong><strong>② </strong><strong>売買の条件を決める部分をつくろう</strong> <br><strong>Sec.6</strong><strong>③ </strong><strong>売買を実行する部分を</strong><strong>つくろう</strong> <br><strong>Sec.7</strong><strong>戦略</strong><strong>を広げるオプション機能</strong> </p>  <p>セクション4~7は、実際にソフトを作る部分です。<br>ほとんどコピペで完成していくので、気軽にやってみながら受講してください。 </p>    <p><strong>Sec.8</strong><strong>バックテスト</strong><strong>で最適化</strong><strong>する</strong> </p>  <p>セクション8は、ソフトのパラメータを調整します。 <br>ここには誰もがはまるワナがあるので、その回避方法がご説明の中心になります。 </p>    <p><strong>Sec.9</strong><strong>総復習</strong> <br>最後に課題として、指定されたロジックのサンプルソフトを作って頂きます。 </p><p><br></p><p>わからないことがあれば、お気軽にディスカッションにご投稿ください。<br>できる限り、２４時間以内に、ご回答します。<br>ご受講お待ちしております。</p>", 
+    "end_date": null, 
+    "title": "ＦＸで勝てない人はチャートを見るな！　自動売買ソフトをつくろう！", 
+    "price": "50.00", 
+    "instructors": "Ryu Oishi", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/738398_0252_3.jpg", 
+    "course_url": "https://www.udemy.com/fx-mt4ea/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Home Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-22T22:39:08Z"
+}

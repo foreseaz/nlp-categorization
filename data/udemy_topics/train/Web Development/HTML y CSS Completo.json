@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tHTML y CSS Completo es un curso orientado a todo el publico, ya sea principiante o con experiencia. Se aprenderá a crear sitios desde cero utilizando unicamente un editor de texto a elección del alumno/a.  </p>  <p>  \tEl curso esta compuesto de 2 secciones, conceptos básicos y avanzados, en los cuales el alumno aprenderá HTML a fondo. Cada sección cuenta con un resumen de los contenidos vistos y se adjuntan materiales de referencia junto con un sitio básico a modo de resumen de lo visto en la cursada.  </p>  <p>  \tAdemas tendremos una tercer sección orientada unicamente a CSS.  </p>  <p>  \tCualquier consulta o material que quieran ver en el curso y aún no esté presente, simplemente háganmelo saber y lo incluiré!  </p>", 
+    "end_date": null, 
+    "title": "HTML y CSS Completo", 
+    "price": "20.00", 
+    "instructors": "Facundo Precentado", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/45537_4036_5.jpg", 
+    "course_url": "https://www.udemy.com/html-para-principiantes/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-03-12T00:37:52Z"
+}

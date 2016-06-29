@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Having good understanding of the fundamentals is one of the first steps to be an excellent programmer. This course is designed to test your understanding of C fundamentals. The objective of the course is to equip you with in-depth knowledge of C fundamentals - including complex topics like Structures, Unions, Functions and Pointers.</p><p>With hundreds of  examples, this course would serve as a great first step for C Interview Preparation.</p><p>Topics covered during this course are</p><ul><li>Variables and Variable Types </li><li>Expressions - Associativity and Precedence</li><li>Arrays</li><li>Functions</li><li>Pointers</li><li>Structures</li><li>Structures, Pointers &amp; Dynamic Memory</li><li>If Condition, Switch Statement and For Loop</li><li>Preprocessor Directives</li></ul><p><strong>Note :</strong> This is a course where we would test and improve your knowledge on the intricacies (Pointers, Structures, Unions, Dynamic Memory, Syntax of various C constructs) of C Programming Language. This course does NOT teach programming. </p>", 
+    "end_date": null, 
+    "title": "C Puzzles for Interview Preparation", 
+    "price": "25.00", 
+    "instructors": "in28Minutes Official", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/624280_283e_2.jpg", 
+    "course_url": "https://www.udemy.com/c-puzzles-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-28T03:45:38Z"
+}

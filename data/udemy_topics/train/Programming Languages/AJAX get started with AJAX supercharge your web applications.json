@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn how to make a DYNAMIC WEB FORM that uses AJAX to connect to the back end code and return responses. Learn how to make your HTML page content interact with BACK-END code.</p><p>Learn how to make JavaScript come to life, we show you all the building blocks you need to create your own JavaScript interactive applications.</p><p>Source files included!!! No wasted time we get right to the point. Lots of extras to help you learn.</p><p>Within this course we show you how to make a instant username check, which uses AJAX to connect to PHP code.  JavaScript DOM to get the form field value, then send that value to the Back end via AJAX.  Callback response from the Server, and then output it in HTML using JavaScript.  We also show you how to use AJAX in JQuery to do the same thing.</p><p>We show you how to pull in JSON data into JavaScript and parse it as a usable object to build HTML content.</p><p>Everything you need to learn about creating Dynamic JavaScript web applications is provided within this course.</p><ul><li>no wasted time watching someone type</li><li>quick lessons get right to the point</li><li>fully covered topics with real world examples</li><li>source files downloadable to work along</li><li>challenges and lessons</li><li>30 day money back guarantee</li><li>new course material added regularly</li><li>trusted name in education since 2002</li><li>full HD easy to read source coding</li><li>quick response support to students</li><li>regular discussions</li></ul>", 
+    "end_date": null, 
+    "title": "AJAX get started with AJAX supercharge your web applications", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/574120_59d1.jpg", 
+    "course_url": "https://www.udemy.com/ajax-bootcamp-learn-asynchronous-javascript-and-xml/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-05T00:31:39Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em>UPDATE 2016-04: The course has been updated for Symfony 2.8 LTS</em></p>\n\n<p>  \t This course is an introduction to web development with <strong>Symfony</strong>, the most complete PHP framework.<strong></strong></p>\n\n\n\n\n\n<p>  \t It consists of videos where you can follow the creation of a complete web application from scratch and step by step: a <strong>blog</strong>, including an administration area.  </p>\n\n\n\n\n\n<p>  \t It's <strong>4 hours</strong> length, but if you want to practice while you learn, you will take more time, which <strong>I recommend</strong>.  </p>\n\n\n\n\n\n<p>  \t The course is globally structured this way:  </p>\n\n\n\n\n\n<ul>  \t<li>Setting up the <strong>development environment</strong></li>  \t<li>Generating the <strong>core bundle</strong> for the public part (frontend)</li>  \t<li>Generating the <strong>model bundle</strong> for the business logic (interactions with the database)</li>  \t<li>Generating the <strong>administration bundle</strong>, to manage posts and authors (backend or backoffice)</li>  \t<li>Refactoring code to modularize and organize it better, using the flexibility of the <strong>service container</strong></li>  \t<li>Make use of the URLs to select the <strong>language</strong></li>  </ul>\n\n\n\n\n\n<p>  \t During the course I will emphasize test driven development, using the industry standard: <strong>PHPUnit</strong>.  </p>\n\n<p>Also, you can find the resulting application in GitHub (it's in the latest lecture, you can check it out even if you are not enrolled in the course). It uses git tags so you can see how the code looks like at the end of each lecture.</p>\n\n\n\n\n\n<p>  \t If you are a <strong>PHP developer</strong> and you want to step up to the next level using a framework, or if you already know Symfony or another framework and you want to review and go in depth, <strong>this is your course</strong>. An introduction that will give you the tools to create an application easily, making use of <strong>good practices</strong>.  </p>\n\n\n\n\n\n<p>  \t Once you have joined the course <strong>I will answer your questions</strong> about the contents.  </p>", 
+    "end_date": null, 
+    "title": "Introduction to web development with Symfony2", 
+    "price": "30.00", 
+    "instructors": "David Morales", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/159972_d32a_5.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-web-development-with-symfony2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-07T19:57:26Z"
+}

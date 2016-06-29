@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<div>In\nthis course you will learn how to scrape data from web pages using\nthe Request and Cheerio node modules.</div><ul><li>We'll\nbegin with an overview of how Request works to download pages and\npipe out data.</li></ul><ul><li>Next,\nwe'll look at the Cheerio and how we can use jQuery-like syntax to\nretrieve elements off a page.</li></ul><ul><li>Then we'll\ntake what you've learned to create 2 sample web apps to scrape and\ndisplay data first to our console then to a web page.</li></ul><p><br></p><p><strong>What You Will Learn</strong>:</p><p>- How to download web pages using Request. </p><p>- How to then grab elements from the page using Cheerio</p><p>- Display the data on a web page. First, we'll use Express and Swig to display Indeed job search data.  Then we'll use Angular to show an image and other details after a user inputs a URL.</p><p><br></p><p><strong>Who This Course is For</strong>:</p><p>- Anyone with an interest in web scraping using Node.  This is a beginner level course, so the only requirement is that you already have node.js installed.</p>", 
+    "end_date": null, 
+    "title": "Learn Web Scraping with Node.js", 
+    "price": "20.00", 
+    "instructors": "Patrick Schroeder", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/701636_5881_2.jpg", 
+    "course_url": "https://www.udemy.com/web-scraping-nodejs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-19T18:10:59Z"
+}

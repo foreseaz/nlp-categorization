@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t    Welcome to &quot;Learn Hacking using Backtrack 5&quot;.  This is a course dedicated to learning the backtrack 5 Linux OS along with many of the tools it comes with. Please note that everything on this course is <strong style=\"\">purely educational</strong> and we are not responsible for your actions.  </p>  <ul style=\"\">  \t<li>Backtrack Basics: New to Backtrack? What to learn how to get started and learn the basics of hacking? Then this is where you want to start! These videos include how to install backtrack, updating tools, and the protocol to take when taking over a system.</li>  \t<li>Backtrack Intermediate: For those who want more than the basics. Includes web-based exploitation and the use of backdoors.</li>  \t<li>Backtrack wireless: <span>That magical piece of technology that gives you access over the air-waves and its vulnerabilities.</span><a href=\"http://backtracktutorials.com/metasploit-tutorial/\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\">:</a></li>  \t<li>    Metasploit is an amazing framework for exploits and updates almost everyday. These videos cover some of the things Metasploit can do, and how to use it.</li>  \t<li>Tutorials on learning to code your own exploits and other useful things for penetration testing.</li>  </ul>", 
+    "end_date": null, 
+    "title": "Learn Hacking using Backtrack 5", 
+    "price": "20.00", 
+    "instructors": "QScutter Tutorials", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/282412_d005_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-hacking-using-backtrack-5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-17T05:43:18Z"
+}

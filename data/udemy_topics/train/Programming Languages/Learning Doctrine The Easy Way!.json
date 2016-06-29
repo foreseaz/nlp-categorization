@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this Learning Doctrine training course, expert author Doug Bierer will teach you how to install and configure Doctrine for any PHP project. This course is designed for users that already have experience with PHP.<br><br>You will start by learning concepts and terms, then jump into installing Doctrine. From there, Doug teaches you how to create entities, perform create, read, update, and delete operations, and model a database. This video tutorial also covers the query builder, performance tuning, and incorporating Doctrine into frameworks. Finally, you will learn how to configure apps to use Doctrine with MongoDB and CouchDB.<br><br>Once you have completed this computer based training course, you will be fully capable of working with Doctrine to model database tables using entities, perform create, read, update and delete operations, build queries, and much more. A substantial number of working files are included, allowing you to follow along with the author throughout the lessons.</p>", 
+    "end_date": null, 
+    "title": "Learning Doctrine The Easy Way!", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/822113_64e0_3.jpg", 
+    "course_url": "https://www.udemy.com/learning-doctrine-the-easy-way/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-14T16:58:27Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t En este curso de Access 2013 básico aprenderemos a utilizar el entorno de trabajo de Access 2013 y a configurarlo y personalizarlo para adaptarlo a nuestras propias necesidades, crear una base de datos y analizaremos la vista diseño de las tablas, haciendo especial referencia a los nombres de campo y a los diferentes tipos de datos que podemos almacenar dentro de las tablas, modificar las diferentes propiedades de los campos de las tablas de Access 2013 personalizándolas de muy diferentes formas, aplicar diferentes tipos de máscaras de entrada a los campos de una tabla y veremos cómo crear un cuadro combinado, analizaremos los diferentes tipos de relaciones que podemos crear entre las tablas de una base de datos y aprenderemos a definir correctamente los respectivos campos clave dentro de cada tabla y cómo podemos diseñar Consultas de selección dentro de una base de datos y analizaremos los diferentes tipos de criterios que podemos utilizar dentro de las consultas.  </p>  <p>  \t Este curso está impartido por Luis Corrochano. Luis tiene más de 15 años de experiencia impartiendo formación en cursos de OFIMÁTICA AVANZADA, DISEÑO GRÁFICO y DISEÑO WEB.  </p>", 
+    "end_date": null, 
+    "title": "Curso de Access 2013: Aprende cómo usar Access desde 0", 
+    "price": "20.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/169582_54b8_3.jpg", 
+    "course_url": "https://www.udemy.com/curso-de-access-2013-aprende-como-usar-access-desde-0/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-21T10:52:17Z"
+}

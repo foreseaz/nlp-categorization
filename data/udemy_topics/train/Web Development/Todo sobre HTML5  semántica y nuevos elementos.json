@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">HTML5 es la versión definitiva de código HTML que ponga orden al caos que se ha acumulado durante los años en el mundo del desarrollo web.</p><p style=\"\"><span style=\"\">Veremos cómo la incorporación de nuevos   elementos en HTML5 se utiliza para definir el outline de nuestras   páginas dando a los user agents la información que necesitan para   entender cómo hemos estructurado nuestro contenido y como se relacionan   entre sí. </span><br style=\"\"><br style=\"\">Para sacar el máximo partido a este curso es bueno que tengas conocimientos de HTML y CSS para poder seguir el curso sin problemas, pues partiremos de un documento maquetado en html 4.01 y lo adaptaremos al nuevo estándar.</p><p style=\"\">Este curso es un complemento al curso de maquetación en HTML y CSS.<br style=\"\"></p>  ", 
+    "end_date": null, 
+    "title": "Todo sobre HTML5: semántica y nuevos elementos", 
+    "price": "45.00", 
+    "instructors": "Skeyon Formación Barcelona", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/45589_c866_4.jpg", 
+    "course_url": "https://www.udemy.com/todo-sobre-html5-semantica-y-nuevos-elementos/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-03-12T11:06:01Z"
+}

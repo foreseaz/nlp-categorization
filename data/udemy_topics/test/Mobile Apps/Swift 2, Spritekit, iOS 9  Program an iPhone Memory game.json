@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Update: Code updated for Swift 3 and the latest iOS 9</strong></p>\n\n<p>  \tOur iOS courses teaches the complete process needed to develop a complete professional iPhone game using Swift language and SpriteKit . Along our journey, you will learn the syntax of Swift, the latest most-efficient language used to develop for iOS, as well as important design patterns and best practices. By the end of the course, you should be able to understand and recreate many of the features seen on popular iOS games and extend that knowledge to making apps of your own.  </p>\n\n<p>  \tWe believe students learn by building. That's why we have you build an entire game from scratch during the course, with the final app being a full featured memory card matching game.  </p>\n\n\n\n<p>  \tEvery single step in show to you in video lectures. We even provide you with the image and sound assets, and the final completed source code of the fully working iPhone memory game.  </p>\n\n\n\n<p>  \tTopics Covered:  </p>\n\n\n\n<p>  \tSwift: Learn the language used to develop all native iOS and Mac apps  </p>\n\n\n\n<p>  \tGameKit: Learn how to create world leaderboard, authenticate the user to the Apple Game Center, and submit best scores.  </p>\n\n\n\n<p>  \tiOS8 and XCode 6: Learn the latest technology platforms from Apple  </p>\n\n\n\n<p>  \tRate &amp; Review App: learn how to use a third party Objective-C library that let the user rate and review your app, by creating a bridge from Objective-C to Swift.  </p>\n\n\n\n<p>  \tStoryboard: Learn how to create custom launch screens using Apple’s graphical interface builder  </p>\n\n\n\n<p>  \tInternal data storage: Learn how to store game data settings on your device and how to retrieve them.  </p>\n\n\n\n<p>  \tiAD: Learn how to monetize your app or game using their advertising banner.  </p>\n\n\n\n<p>  \ticons: learn how to add your very own icons  </p>\n\n\n\n<p>  \tsounds: learn how to add sound files and play them  </p>", 
+    "end_date": null, 
+    "title": "Swift 2, Spritekit, iOS 9: Program an iPhone Memory game", 
+    "price": "20.00", 
+    "instructors": "Yohann Taieb", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/430054_f2cd.jpg", 
+    "course_url": "https://www.udemy.com/program-a-pro-iphone-memory-game-using-swift-and-spritekit/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-23T16:21:12Z"
+}

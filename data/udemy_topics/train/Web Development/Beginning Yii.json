@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<span style=\"\">Starting with the basics of installing and configuring Yii, you will learn how to use the Yii application generator to build your first fully working application with just one command. You will then move on to a step-by-step progression to tailoring this to your requirements by including database access methods and manipulating queries as well as using sub-forms and third-party plugins. This course also covers how to use the fully integrated auto-testing tools such as PHPUnit and Selenium, uploading and crunching images, using themes, user security and authentication, debugging and logging, and finally how to configure your application for deployment.</span>  </p>  <p style=\"\">  \tBy the end of Beginning Yii, you will be fully conversant with the Yii framework, and you will be able to confidently build applications.  </p>  <h4><strong style=\"\">About the Author</strong></h4>  <p style=\"\">  \t<strong style=\"\">Chris Backhouse</strong> is an independent web developer with 30 years of experience in Software Development. Over the past 3 years, he has specialized in optimising businesses by building customized web applications based on LAMP technologies and PHP frameworks such as Yii. He has been using web platforms for more than 10 years.  </p>  <p style=\"\">  \tPreviously, Chris provided independent consultancy to international businesses around Europe. His particular expertise lay in the management of introducing advanced technologies into the system development work place and the creation and maintenance of the processes involved. Companies such as Cisco Inc, Hyder plc, and Microsoft UK have benefited in these areas.  </p>", 
+    "end_date": null, 
+    "title": "Beginning Yii", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/309896_a72c_3.jpg", 
+    "course_url": "https://www.udemy.com/beginning-yii/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-29T09:08:45Z"
+}

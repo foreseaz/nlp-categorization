@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course has been created for the users who wants <strong style=\"\">quick learning</strong> on <strong style=\"\">real time industrial application like Sorting, Packaging, ,</strong> We have used high end software like <strong style=\"\">FACTORY I/O </strong>and <strong style=\"\">CONNECT I/O</strong> to explain PLC Logics.</p><p>Factory I/O is the <strong style=\"\">world&#039;s first flexible 3D simulation software</strong> that takes the simulation of <strong style=\"\">industrial systems</strong> to a new level. With state-of-the-art graphics, physics and dynamic sound, Factory I/O immerses users in a realistic <strong style=\"\">3D industrial environment </strong>. With this real time sandbox, users can edit pre-built industrial systems or build new ones. All systems are completely interactive and can be controlled by a wide range of technologies</p><p> <strong style=\"\">Note: </strong> Student license has <strong style=\"\">unlimited access to all drivers and the SDK, a .NET Framework 2.0 assembly</strong>, which enables inter-process communication (IPC) between FACTORY I/O and the user&#039;s own applications. With the Open (SDK), you can develop your own drivers and use CONNECT I/O.</p><p><strong style=\"\">EDUCATIONAL AND TRAINING TOOL FOR</strong> </p><ul style=\"\"><strong style=\"\"></strong><li><strong style=\"\">Industrial Automation </strong></li><li><strong style=\"\">Industrial Mechanics </strong></li><li><strong style=\"\">Industrial Maintenance </strong></li><li><strong style=\"\">Electrical Engineering </strong></li><li><strong style=\"\">Mechanical Engineering </strong></li><li><strong style=\"\">Mechatronics</strong></li></ul>     This fully interactive simulation includes<strong style=\"\"> cutting edge physics, high quality graphics </strong>and <strong style=\"\">sound,</strong> providing a realistic environment.<strong style=\"\"> FACTORY I/O</strong> uses an innovative technology that allows an easy and quick creation of <strong style=\"\">3D industrial systems</strong> through a drag and drop approach.", 
+    "end_date": null, 
+    "title": "Factory Automation using PLC Logics", 
+    "price": "50.00", 
+    "instructors": "Mr Rajvir Singh", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/542004_10fe.jpg", 
+    "course_url": "https://www.udemy.com/factory-automation-using-plc-logics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-01T08:16:07Z"
+}

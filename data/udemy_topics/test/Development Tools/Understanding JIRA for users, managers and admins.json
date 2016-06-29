@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This Introduction to JIRA course is intended to be to get you up to speed on how to be more productive and effective in JIRA. With over 5 hours of content, we'll focus on the three main types of users in JIRA. The modules in this course are broken up for each of these types, so no matter which one you are you'll be able to quickly access the things you need.</p><p>In the first module, we'll cover some core concepts and terms you'll need to know about both agile and JIRA before diving into the software itself. </p><p>After that, we'll look at JIRA from an end user's perspective. What are the key things you'll need to know as someone who's just using JIRA at your company? That's what we'll look at in the second module.</p><p>When you're a team leader or manager using JIRA, there's some things you can do to help your team be more effective. So we'll look at some of these things in the third module.</p><p>Finally, as a JIRA administrator there's a lot of ways you can help your company by setting them up for success in JIRA. In the fourth module, we'll look at JIRA from an administrator's perspective.</p><p>Now even though this course is organized for different types of users, I wanted to make it so no matter what type of user you are you'll benefit from watching all of it if you wanted. For example, even if you're only using JIRA as an end user you can find it beneficial to understand how JIRA workflows and processes work so you can \"speak the language\" when you're asking your JIRA administrator for something.</p>", 
+    "end_date": null, 
+    "title": "Understanding JIRA for users, managers and admins", 
+    "price": "25.00", 
+    "instructors": "Dan LeFebvre", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/770336_d591_3.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-jira/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-22T08:51:37Z"
+}

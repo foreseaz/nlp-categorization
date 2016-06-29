@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\"><em style=\"\">Netbeans is one of the most powerful development environments available for programmers today!</em></strong>  </p>  <p style=\"\">  \t          However, most programmers never get around to learning all of the extremely powerful features that Netbeans provides.  It&#039;s like using the most advanced smartphone for nothing more than making phone calls.  </p>  <p style=\"\">  \t    Look at it this way:  An average programmer will work for 40 years in his or her life.  Assuming 4 weeks of vacation a year, that&#039;s 9600 days programming.  If you can take advantage of Netbeans to become 20% more efficient in your coding, you will save 1920 days or 5 years of your life!  Of course, your mileage may vary... ;-&gt;  However...  </p>  <p style=\"\">  \t<strong style=\"\"><em style=\"\">  I promise you that taking a few hours to go through this course today will pay for itself many, many times over in your career as a programmer!  </em></strong>  </p>  <p style=\"\">  \t    Join me in our journey as we unlock the powerful features of Netbeans and learn how to refactor code, have Netbeans auto-generate code for us, use the powerful debugging functionality, create our own code shortcuts and many, many other of Netbean&#039;s powerful features.  </p>  <p style=\"\">  \t<strong style=\"\"><em style=\"\">In this course, we will learn how to:</em></strong>  </p>  <ul style=\"\">  \t<li style=\"\">Customize file templates so that your classes are created exactly as you want them to be.  This saves you a lot of time.</li>  \t<li style=\"\">Use and customize your own code shortforms to save you huge amount of typing and reduce spelling mistakes dramatically.</li>  \t<li style=\"\">Using project groups to keep your code organized and manageable.</li>  \t<li style=\"\">Importing and exporting projects.</li>  \t<li style=\"\">Learning to refactor code!  This is a huge advantage.  The ability to change code without breaking other code eliminates mistakes!</li>  \t<li style=\"\">Master the debugger.  Likely the most important thing you can learn as a programmer.  The debugger should be your best friend, not just for finding bugs but for quickly understanding other people&#039;s code.</li>  \t<li style=\"\">An introduction to developing your own coding style and how Netbeans can help you to keep your code the way you want it.  In my experience, programmers who have a good, easily understandable coding style make more money than those that don&#039;t.</li>  \t<li style=\"\">Building JavaDocs to comment your code and create your documentation at the same time!</li>  \t<li style=\"\">Using custom action items to keep organized.</li>  \t<li style=\"\">Automatically generate getters/setters and constructors for your classes.  This will save you hundreds of thousands of keystrokes in your career!</li>  </ul>  <p style=\"\">  \t    Also, as your guide, I look forward to hearing from you!  Just send my any questions that you have or ideas for new modules to this course and I will do my best to help you!  </p>  <p style=\"\">  \t<strong style=\"\"><em style=\"\">Let&#039;s get started!!!</em></strong>  </p>  <p style=\"\">  \t          Rich.  </p>", 
+    "end_date": null, 
+    "title": "Netbeans with Java", 
+    "price": "50.00", 
+    "instructors": "Rich Smith", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/261406_3011_5.jpg", 
+    "course_url": "https://www.udemy.com/netbeans/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-14T22:31:35Z"
+}

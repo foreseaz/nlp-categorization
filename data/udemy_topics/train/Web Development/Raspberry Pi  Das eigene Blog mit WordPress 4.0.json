@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Selbst aktiv werden, selbst eine eigene Seite im Intenet anbieten, selbst ein eigenes Blog führen. Das eigene Blog im Internet anbieten, selbst informationen zu veröffentlichen war noch nie so einfach wie heute.  </p>  <p>  \t  In diesem Videokurs erhalten Sie alle notwendigen Informationen, wie Sie im Internet selbst beitragen können. Mit Ihrem eigenen Blog.  </p>  <p>  \t  Früher war es recht aufwendig selbst online zu gehen. Musste man sich bisher in der Regel einen Server im Internet mieten, bringt Ihnen der Raspberry Pi alles was Sie benötigen nach Hause.  </p>  <p>  \t  Installieren Sie einfach ihren eigenen Webserver auf Ihrem Pi und konfigurieren Sie ihn nach eigenen Vorstellungen. Dieses Video nimmt Sie dazu an die Hand und erklärt Ihnen alle notwendigen Schritte in einem verständlichen Kurs.  </p>  <p>  \t  Als Blogsoftware wird die äußerst erfolgreiche WordPress Software installiert und eingerichtet. Diese Software wird von Hundertausenden Bloggern weltweit eingesetzt. Die Suche auf Google nach „powered by WordPress“ ergibt 138 Millionen treffer. Kaum eine Software wird öfters eingesetzt.  </p>  <p>  \t  Auch auf externe Bereiche, wie die notwendige Routerkonfiguration und das Einrichten einer sog. Subdomain auf NoIP, werden in diesem Kurs erläutert.  </p>  <p>  \t  In Anlehnung an den Grundlagen-Kurs kann dieser Kurs von Windows- sowie von Linux-Nutzern problemlos belegt werden.  </p>  <p>  \t  Anstatt einen teuren Desktop-PC für diesen Dienst abzustellen, ist es sinnvoller den günstigen Minicomputer Raspberry Pi diese Aufgabe erledigen lassen.  </p>  <p>  \t  Da der Raspberry Pi unter Linux läuft, können Sie diesen Kurs auch als Anleitung nutzen, um auf einem beliebigen Linux-Rechner einen Adblock-Proxy zu installieren. Haben Sie z.B. einen alten PC, den Sie nicht mehr brauchen. Installieren Sie einfach ein Linux auf den PC und den entsprechenden Adblock-Proxy nach dieser Anleitung.  </p>  <p>  \t  Starten Sie jetzt und erweitern Sie Ihr eigenes Netzwerk um die einfache Möglichkeit eines eigenen WordPress Blog. Dies ist nur eine von vielen Anwendungen Ihres Raspberry Pi. Viele andere Möglichkeiten die Sie auch in Kombination einsetzen können, finden Sie auf der Seite des Autors.  </p>", 
+    "end_date": null, 
+    "title": "Raspberry Pi: Das eigene Blog mit WordPress 4.0", 
+    "price": "20.00", 
+    "instructors": "Andreas Sprecher", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/323656_c9f2_5.jpg", 
+    "course_url": "https://www.udemy.com/raspberry-pi-das-eigene-blog-mit-wordpress-40/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-21T00:06:22Z"
+}

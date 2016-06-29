@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Teacher Training"
+    ], 
+    "description": "<p>Super Curso de Moodle - 101 Vídeo Aulas mostrando como implantar um site para ser usado tanto em ambiente empresarial como em ambiente Educacional. Acompanha no DVD.: A versão 1.9 do Moodle + Themes + Xampp + MySQl + Apache (Servidor)</p><p>Aprenda a implantar e usar o fantástico E-learning Moodle, um dos programnas mais usados no mundo por alunos e professores para o ensino online. MOODLE é o acrónimo de \"Modular Object-Oriented Dynamic Learning Environment\", um software livre, de apoio à aprendizagem, executado num ambiente virtual. </p><p>Ele foi desenvolvido em 2001 pelo educador australiano Martin Dougiamas, que localizou uma lacuna no sistema de educação \"on-line\", e desenvolveu o moodle cuja principal função é basicamente criar páginas de cursos online, com diferentes disciplinas e até mesmo grupos de aprendizagem específicos. Está disponível em mais de 70 línguas e possui 25 mil Sites no mundo todo.</p><p>O moodle se enquadra no segmento de e-learning (Ensino Eletrônico), que é baseado no aprendizado somente online, não presencial. Com linguagem fácil e layout intuitivo, é simples de ser usado e pode ser implantado por escolas, faculdades, Universidades ou como página de um professor.</p><p>Esse software é voltado principalmente para fins acadêmicos. </p><p>O programa pode ser utilizado sob a licença de Software Livre e instalado em diversos sistemas operacionais (Mac OS, Windows, Linux ou Unix). A base de dados pode ser qualquer uma que seja acessível ao ODBC, como Interbase, PostgreSQL, Oracle, Access ou MySQL. Pode ainda ser configurado de três formas específicas: Formato Semanal, com cursos programados para início e fim, Formato Social, cujos temas podem ser alocados em Fóruns e o Formato em Tópicos, onde os assuntos são separados por temas.</p><p><strong>A plataforma Moodle apresenta como pontos fortes, quando utilizado para o ensino:</strong></p><ul><li>Aumento da motivação dos alunos;</li><li>Maior facilidade na produção e distribuição de conteúdos;</li><li>Partilha de conteúdos entre instituições;</li><li>Gestão total do ambiente virtual de aprendizagem;</li><li>Realização de avaliações de alunos;</li><li>Suporte tecnológico para a disponibilização de conteúdos de acordo com um modelo pedagógico e design institucional;</li><li>Controlo de acessos;</li><li>Atribuição de notas.</li><li>Conteúdo programático do curso</li><li>Arquivos de Instalação</li></ul><p><strong>Veja um pouco do que você vai aprender:</strong></p><ul><li>Introdução, instalação do Moodle e do Banco</li><li>Usuário, calendário, eventos, temas</li><li>Box, Fóruns, Notícias, Atividades, Tópicos, Chat, Finalizando Localhost</li><li>Moodle em ambiente Web, ftp, banco de dados</li><li>Página Central, Box e Novos Cursos</li><li>Banckup e Restore</li><li>Manipulando Recursos (vídeos, links, diretórios, documentos)</li><li>Atividades: chat, escolha, fórum, lição, questionário, glossário, pesquisa</li><li>Atividades: Diário, hot potatoes, tarefas, wiki, encerrando disciplina</li><li>Finalizando videoaulas: cache, instalação moodle Ulbra, GD</li></ul><p><strong>Ainda:</strong></p><ul><li>Você aprenderá a instalar e baixar o moodle via FTP.</li><li>Você irá aprender a instalar passo a passo o moodle tanto em ambiente local como em ambiente web (online)</li><li>Você aprenderá a instalar um servidor web para testar o moodle em localhost. Verás também como configurar o seu moodledata, que é o local onde ficarão os arquivos.</li><li>Você verá e acompanhará passo a passo a criação de tabelas no seu banco de dados.</li><li>Você aprenderá a manipular o banco de dados e as tabelas contidas neles. Também verá como efetuar backup e restore para não perder os dados.</li><li>Aprenderá a escolher e instalar diversos temas para modificar o layout do seu moodle, aprenda também a manipular o moodle com menus.</li><li>A segunda instalação do moodle é ensinando como criar um site completo usando o moodle, inclusive Menus, mas já na web. Aprenda a usar todos os recursos do moodle (atividades, recursos, inserir disciplinas, etc.)</li><li>E para não restar dúvidas, ainda verá uma terceira instalação do moodle, onde aprenderá a instalar um site completo para a universidade.</li></ul>", 
+    "end_date": null, 
+    "title": "Moodle para ensino a distância", 
+    "price": "30.00", 
+    "instructors": "Neri Neitzke", 
+    "commitment": "13.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/632462_dd27.jpg", 
+    "course_url": "https://www.udemy.com/moodle-para-ensino-a-distancia/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Educational Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-06T14:47:03Z"
+}

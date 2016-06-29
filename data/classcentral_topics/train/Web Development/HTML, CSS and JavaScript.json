@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course will teach you the essential elements of web page development, covering HTML, CSS and JavaScript. No previous experience of these technologies is necessary, although it is helpful if you have some prior programming experience. First, HTML together with CSS are discussed and explored. Then we move on to consider the essential components of JavaScript, including variables, arrays, loops, events and functions. Then we explore more advanced elements of JavaScript control, including advanced use of functions, event control, array processing, and DOM manipulation.\n\nAfter completing this course, you will be able to:\n\n- Create a web page using HTML elements\n- Be able to apply CSS (style sheet rules) to parts of a web page, for altering display and behavior\n- Be able to program interactive JavaScript in a web page\n\n                                            Syllabus\n                        HTML &amp; CSSWelcome to the first week of the course!\n\n\n\n\n\n\n\n\nIn this module you will be introduced to the fundamental elements of HTML and CSS, the main technologies used to construct web pages.Introduction to JavaScriptIn the second week of the course you will begin to learn JavaScript. This includes the fundamental components of most programming languages such as variables, arrays, making decisions, loops, events and functions, as well as the generation of random numbers.Advanced JavaScriptIn the third and last week of the course we look at relatively more advanced components of JavaScript. This includes a deeper understanding of techniques which have already been introduced, namely loops, arrays, events and functions. New topics include DOM concepts and manipulation.\n                                    ", 
+    "end_date": "2016-07-11T00:00:00Z", 
+    "title": "HTML, CSS and JavaScript", 
+    "price": 0, 
+    "instructors": "David Rossiter", 
+    "institution_name": [
+        "The Hong Kong University of Science and Technology"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.coursera.org/learn/html-css-javascript", 
+    "duration": "3 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-20T00:00:00Z"
+}

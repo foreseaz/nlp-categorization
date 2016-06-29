@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>The Arduino is an open-source electronics platform based on easy-to-use hardware and software. Sensing the environment by receiving inputs from many sensors, Arduino affects its surroundings by controlling lights, motors, and a number of other accessories. It&#039;s intended for anyone making interactive hardware projects.</p>  <p>\t This course is designed to introduce the Arduino hardware and programming environment to get you started on building projects as soon as possible.</p>  <p>\t<strong style=\"\"> Unleash Your Inner Tony Stark With this Comprehensive Course </strong>  </p>  <ul style=\"\">\t<li>Arduino Ecosystem and Programming Introduction</li>\t<li>Shields, Accessories, and Sensors</li>\t<li>Internet Integration and Communication</li>\t<li>Advanced Integrations with Motors, Gears, and Movement</li>\t<li>DIY Projects and Quick Tips</li>  </ul>  <p>\t<strong style=\"\"> A Platform for Creating Any Device Imaginable </strong> \t Created in 2005 by students at the Interaction Design Institute in Italy, Arduinos are microcontrollers that make the creation of interactive electronic devices accessible and fun. In recent years have become a favorite of electronic hobbyists and DIYers because of their ease of use and extremely low cost.</p>  <p>\t Notable projects include Ardupilot, a UAV platform able to control aerial drones, and Xoscillo, an open-source oscilloscope.</p>  <p>\t<strong style=\"\"> Contents and Overview </strong> \t This course is designed for anyone interested in learning electronic design. No experience is required, and all you need is an Arduino and several low cost components.</p>  <p>\t With over 19 hours of content in 110 lectures, this course will take you from zero experience in electronics or programming to Arduino Master.</p>", 
+    "end_date": null, 
+    "title": "Arduino Step by Step: Your complete guide", 
+    "price": "20.00", 
+    "instructors": "Peter Dalmaris", 
+    "commitment": "23 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/79846_2454_11.jpg", 
+    "course_url": "https://www.udemy.com/arduino-sbs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-17T01:14:55Z"
+}

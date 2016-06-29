@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn deeply the concepts and tools that you will need to build fully functional UI-applications with the modern UI-building framework, Windows Presentation Foundation (WPF).<br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Teaching Approach</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>No fluff, no ranting, no beating the air. I esteem your time. The course material is succinct, yet comprehensive. All important concepts are covered. Particularly important topics are covered in-depth. For absolute beginners I offer my help on Skype absolutely free, if requested.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Take this course and you will be satisfied.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Build a strong foundation in WPF with this course</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Today, almost all applications have rich UI, console applications are very specific. Learning the essentials of WPF puts a powerful and very useful tool at your fingertips. Being familiar with WPF will make it absolutely easy to move to Universal Windows Platform (UWP) if needed, because these technologies rely basically on the same principles and they are both XAML-based.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Content and Overview</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>This course is primarily aimed at beginner to intermediate developers. <strong class=\"redactor-inline-converted\">It provides solid theoretical base reinforced by tons of practical material.</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>WPF is a very wide platform and it’s impossible to cover all its features in a single course, or in a single book. <strong class=\"redactor-inline-converted\">That’s why this course includes all the topics needed for the developing of a full-fledged Windows UI-application</strong>, sacrificing some advanced topics such as interoperation with Windows Forms, skinning, creating custom markup extensions etc. </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">The most beneficial aspect of this course is that it gives you the deep understanding of the platform.</strong> For example, you will understand how the layout process really works. It helps to compose XAML quicker. Sometimes you’ll find yourself baffled by the events system of WPF without deep understanding of how it really works.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>In short, <strong class=\"redactor-inline-converted\">the course covers the following topics</strong>:</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Basic notions of UI-development</li><li>Controls</li><li>Layout</li><li>Data-Binding</li><li>Core-Types of WPF</li><li>Events and Dependency Properties</li><li>Templates</li><li>Resources</li><li>Styles</li><li>User Controls</li><li>Custom Controls</li><li>WPF application model (threading model, app life-cycle)</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>In the end we will recap what you have learned and you will try to understand where you have to go further with intention to master your skills. Here we will have a discussion of different paths you can go on.</p>", 
+    "end_date": null, 
+    "title": "Learn Enterprise WPF with XAML from Scratch", 
+    "price": 0, 
+    "instructors": "Elias Fofanov", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/782224_d02f_2.jpg", 
+    "course_url": "https://www.udemy.com/enterprise-wpf-with-xaml-from-scratch/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-04T15:56:50Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p><strong><em>Comprehensive Graphics with R</em></strong> is a thorough, comprehensive overview of each of three major graphics approaches in R: base, lattice, and ggplot. The course also demonstrates the use of the R Commander interface to create a variety of 2D and 3D graphics. Most of the course is engaged in live, \"hands-on\" demonstrations of creating a wide range of 2D and 3D plots and graphs using extensive scripts and data sets, all provided with the course materials. Adequate documentation including slides, exercises and exercise solutions are also provided. The course demonstrates (and uses) two of the most popular ‘front-ends’ to the R Console: R Commander and RStudio. We begin by exploring the range of graphics output available using both the R Commander and RStudio GUI interfaces to the R Console. The course then follows with a more in-depth examination of the graphics capabilities for each of the three main graphics systems, base, lattice, and ggplot.</p><p>This course is a ‘must see’ for anyone who will use R and wishes to get the most out of the stunning variety of graphical charts, plots, and even animations that are available. The R software was designed from the outset to be particularly strong in visualization and graphical capabilities. However, if you are unaware of the full range of these capabilities you are missing opportunities to apply this wide variety of rich, powerful graphics to your own work and research projects. Accordingly, this course is specifically designed to comprehensively demonstrate and explain the broad range of graphical outputs that are available with R.</p>", 
+    "end_date": null, 
+    "title": "Comprehensive Graphics with R", 
+    "price": "20.00", 
+    "instructors": "Geoffrey Hubona, Ph.D.", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/703902_fe1c_4.jpg", 
+    "course_url": "https://www.udemy.com/comprehensive-graphics-with-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-22T16:01:01Z"
+}

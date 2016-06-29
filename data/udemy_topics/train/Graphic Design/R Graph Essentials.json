@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t <em style=\"\">R Graph Essentials</em><span> is a beginner’s course to learning about R graphics. This course will provide you with both a solid grounding in the so-called “base” graphics package in R as well as introducing elements from more sophisticated packages, such as lattice and ggplot2. </span>  </p>  <p>  \t <em style=\"\">R Graph Essentials</em> explains the basic functionality of R graphs in detail in order to familiarize you with how they work. The course starts with very basic R plot functions, first helping you to gain control of this function, then moving on towards various advanced plotting functions.  </p>  <p>  \t Different types of graphs are used to visualize different types of variables. The <em style=\"\">R Graph Essentials</em> video course classifies these graphs and teaches them separately. This course is a compilation of tips and tricks related to the most efficient ways of drawing various types of graphs using basic R plotting functionality. Additionally, bivariate plots, time series, and high dimensional plots are also covered in this course. By the end of this course, you will be in a position to create your own ETL processes within a short amount of time.  </p>  <p>  \t<span>The course offers a practical and interactive way to learn about R graphics, equipping you with the tools to draw informative statistical plots to effectively visualize your data.</span><br style=\"\">  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t<span><strong style=\"\">Ehsan Karim</strong> is a statistics Ph.D. candidate at the University of British Columbia. His current research interest is in the methods that deal with time-dependent confounding in longitudinal observational studies. Additionally, he is interested in software implementation of methods related to causal inference. He has been a user of R for more than 15 years, and has more than 5 years of experience in teaching various statistical software packages.</span>  </p>", 
+    "end_date": null, 
+    "title": "R Graph Essentials", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/395652_cd7b_2.jpg", 
+    "course_url": "https://www.udemy.com/r-graph-essentials/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Graphic Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-16T10:32:11Z"
+}

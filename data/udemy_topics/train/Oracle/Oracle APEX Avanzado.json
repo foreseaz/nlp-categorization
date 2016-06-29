@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t  Oracle APEX - Parte I  </p>  <p style=\"\">  \t  En éste curso aprenderemos a desplegar Oracle APEX en un Servidor Glassfish con APEX Listener desde cero.  </p>  <p style=\"\">  \t  También aprenderemos a trabajar con Formularios Tabulares, conociendo todas sus nuevas características, además podrás construir tu propio Formulario Tabular Manual el cuál partiremos de cero utilizando una metodología que nos guiará paso a paso en la construcción del mismo.  </p>  <p style=\"\">  \t  Nos enfocaremos en el &quot;Look and Feel&quot; de nuestra aplicación aprendiendo a crear un slider responsive utilizando jquery, además personalizaremos la pagina de inicio con estilos CSS propios.  </p>  <p style=\"\">  \t  Al finalizar ésta primera parte del curso crearemos una aplicación demo para trabajar en la personalización de su Pagina de Inicio tomando un template HTML free y volcando toda su esctructura dentro de APEX, de ese modo el aspecto de la aplicación será idéntica al template HTML, para ello aprenderemos a manejar los Templates en APEX.  </p>  <p style=\"\">  \t  Estate atento que pronto publicaremos la segunda parte del Curso Avanzado de Oracle APEX el cual cubriremos los siguientes temas: Seguridad, Web Services, Impresión PDF, Integración con JasperReport e IReport, Calendarios, extendiendo APEX con la API de Google, AJAX, JavaScript, entre otros temas.  </p>", 
+    "end_date": null, 
+    "title": "Oracle APEX Avanzado", 
+    "price": "50.00", 
+    "instructors": "Clarisa Maman Orfali", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/180646_2790_2.jpg", 
+    "course_url": "https://www.udemy.com/oracle-apex-avanzado-parte-i/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-11T22:50:46Z"
+}

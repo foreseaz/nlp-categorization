@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>With more than 1k+ students with great ratings and review;This course is under active development based out on students topics, sign up today before the price rises! Look at the \"Upcoming Lectures\" section on the curriculum for the upcoming topics! </strong></p><p>There are two groups of people. First group of people might already knew Angular 1 and thinking Angular 2 have come up in its <strong>beta</strong> version, which is completely has new concepts then Angular 1. They might be thinking how to get started with Angular 2? </p><p>Second group of people might be the person who wants to learn Angular from scratch and thinking where to start from. Whether should I start Angular 1 or Angular 2? <strong><em>Obviously</em></strong> Angular 2, but from where?<br></p><p>I'm sure out your out of these two groups! And this course designed for these <strong><em>two groups of people</em></strong>! Having Angular 2 have reached its beta version, it indicates that its APIs are going to be stable and doesnt change! Thats great news!</p><p>This course teaches the fundamentals of Angular 2 using <strong>Typescript</strong> as an language. Don't worry if Typescript is new to you! This course teaches the enough knowledge on Typescript to work on Angular 2. We will start with fundamentals of Angular 2 and goes in depth!</p><p>I believe the best way to learn is to understand how a Angular 2 works and what it does for you, look at examples, and then try it yourself. By keeping that principles in mind, we will be building up <strong>Udemy Course Tracker</strong> page using Angular 2 completely from scratch. By building this application, students will be getting immense knowledge on Angular 2 as framework. <br></p><p><strong><em>Signup the course today to learn Angular 2 in its beta version and be ready when Angular 2 is in production!</em></strong></p><p>The gist of the course is as follows:</p><p><strong>1. What is Component in web terms?</strong></p><p><strong>2. How Angular 2 is different from Angular 1 ( Bonus lectures )</strong></p><p><strong>3. Dependency injection</strong></p><p><strong>4. Directives</strong></p><p><strong>5. Routing</strong></p><p><strong>6. Communication between components</strong></p><p><strong>7. Form handling</strong></p><p><strong>8. Pipes and Custom Pipes</strong></p><p><strong>9. Observables (advanced)</strong></p><p><strong>10. HTTP Services</strong></p><p>and etc.</p><p>All code samples are put in Github, so that students can follow the lectures and build themselves!</p>", 
+    "end_date": null, 
+    "title": "Angular 2 Jump Start With Typescript", 
+    "price": "20.00", 
+    "instructors": "Anto Aravinth", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/671960_bc91.jpg", 
+    "course_url": "https://www.udemy.com/angular-2-jump-start-with-typescript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-17T04:20:39Z"
+}

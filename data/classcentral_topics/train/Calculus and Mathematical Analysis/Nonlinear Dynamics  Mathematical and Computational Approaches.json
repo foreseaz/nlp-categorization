@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Calculus & Mathematical Analysis"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course provides a broad introduction to the field of nonlinear dynamics, focusing both on the mathematics and the computational tools that are so important in the study of chaotic systems.  The course is aimed at students who have had at least one semester of college-level calculus and physics, and who can program in at least one high-level language.    \r\n\r\nAfter a quick overview of the field and its history, we review the basic background that students need in order to succeed in this course.  We then dig deeper into the dynamics of maps—discrete-time dynamical systems—encountering and unpacking the notions of state space, trajectories, attractors and basins of attraction, stability and instability, bifurcations, and the Feigenbaum number.  We then move to the study of flows, where we revisit many of the same notions in the context of continuous-time dynamical systems.  Since chaotic systems cannot, by definition, be solved in closed form, we spend several weeks thinking about how to solve them numerically and what challenges arise in that process.  We finish by learning about techniques and tools for applying all of this theory to real-world data.\n\n                                    ", 
+    "end_date": "2016-11-10T00:00:00Z", 
+    "title": "Nonlinear Dynamics: Mathematical and Computational Approaches", 
+    "price": 0, 
+    "instructors": "Liz Bradley", 
+    "institution_name": [
+        "Santa Fe Institute"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "http://nonlinear.complexityexplorer.org/", 
+    "duration": "10 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Complexity Explorer"
+    ], 
+    "start_date": "2016-09-01T00:00:00Z"
+}

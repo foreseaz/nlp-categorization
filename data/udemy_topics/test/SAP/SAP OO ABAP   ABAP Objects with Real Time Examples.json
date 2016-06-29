@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t<strong>&gt;&gt;The price will go up from $29 to $129 on September 30th so join now and save $100&lt;&lt; </strong></p><p style=\"\"><strong><em>OOALV also included in the course</em></strong></p>  <p style=\"\">  \tSAP OO-ABAP is object oriented programming approach to ABAP developed by SAP and traditional approach is now becoming obsolete, Every one who learned abap and who are learning abap should learn the object oriented approach because all the application are going to build by SAP in abap objects, This approach is very simple to learn, All the concepts will be on classes and objects which are very near to the real life scenarios.  </p>  <p style=\"\">  \t  This course is well explained with every concepts covered with examples. You will learn SAP ABAP Objects from the ground up, building on your procedural coding knowledge to ensure you have a thorough grasp of the how best to make use of OO programming techniques in SAP enterprise systems. You will slowly work through all the key aspects of ABAP Objects such as attributes, methods, class definitions and visibility scope all the way through to more advanced concepts such as inheritance, polymorphism and interfaces.  </p>  <p style=\"\">  \t      This training course not only gives you an a thorough insight into how SAP ABAP Objects works but is delivered in such a way that everyone who takes the course will have absolutely no problem in understanding all the topics discussed.  </p>", 
+    "end_date": null, 
+    "title": "SAP OO ABAP : ABAP Objects with Real Time Examples", 
+    "price": "20.00", 
+    "instructors": "DoEdu IT Educations", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/395570_6ac4_8.jpg", 
+    "course_url": "https://www.udemy.com/sap-ooabap/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-16T07:41:32Z"
+}

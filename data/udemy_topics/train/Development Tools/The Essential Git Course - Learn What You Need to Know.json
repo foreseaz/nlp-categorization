@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">This course simply teaches what you *really* need to know about Git</strong>. After working professionally with Git for more than 5 years with large and distributed teams, I will show you, step by step and cutting out all the fat, what Git is, what’s the use case behind each feature and how you can use it effectively like most professional web developers use it.  </p>  <p style=\"\">  \t<strong style=\"\">The course starts assuming you know nothing about Git and step by step explains the theory and introduces each command,  progressing in a smooth, logical flow.</strong>  </p>  <p style=\"\">  \t<strong style=\"\">At the end of the course you participate in an open source project hosted in Github </strong>where you will collaborate with other student building a worldwide restaurant guide, where you will need to apply everything you learned in the course.  </p>  <p style=\"\">  \t  If you search on the web, you’ll find hundreds of courses, videos and other resources about Git, but it’s work that’s incredibly tedious and leaves more questions than answers. You can also buy a “Pro Git” book and try to learn all of Git as if it was your end goal. <strong style=\"\">The truth is Git is only a very basic utility tool that you shouldn’t be thinking about.</strong> You should spend your valuable time learning more productive things, like computer languages. <strong style=\"\">With this course you’ll get that level of comfort, knowing you will be using Git without thinking about it</strong>.  </p>  <p style=\"\">  \t                  The course is divided in 6 sections:  </p>  <ul style=\"\">  \t<li style=\"\">Introduction</li>  \t<li style=\"\">Git Fundamentals</li>  \t<li style=\"\">Remote Repositories</li>  \t<li style=\"\">Branching</li>  \t<li style=\"\">Git Tools</li>  \t<li style=\"\">The Github Portal</li>  </ul>  <p style=\"\">  \t<strong style=\"\">The course has more than 2 hours of video tutorials and written support guides at the end of each section</strong> as well as a handy downloadable eBook with a summary of the course.  </p>  <p style=\"\">  \t    Also, at the end of the course, we have a <strong style=\"\">collaborative project </strong>that uses all the knowledge from the course and leverages Github as a community platform.  </p>  <p style=\"\">  \t    It can be completed in one day, but it’s better to take each lesson and then practice what you learned, so one week is the optimal timeframe to complete it (around one section per day). However, the material is so complete, that we’re sure you will take the lessons time and time again to revise the fundamental subjects.  </p>  <p style=\"\">  \t<strong style=\"\">Additionally we’re constantly updating the course constantly</strong>, adding lessons thanks to the feedback of our students.  </p>  <p style=\"\">  \t<strong style=\"\">We will also have Google Hangouts where you can ask the instructor any question you might have</strong> about the course or about Git in general.  </p>  <p style=\"\">  \t<strong style=\"\">So stop feeling like Git is something complicated.</strong> You need this tool to become a successful, professional developer. Git is not hard.  </p>  <p style=\"\">  \t<strong style=\"\">Enroll now and learn the essential Git and move on the important stuff... like coding. </strong>  </p>", 
+    "end_date": null, 
+    "title": "The Essential Git Course - Learn What You Need to Know", 
+    "price": "20.00", 
+    "instructors": "Jorge Escobar", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/307668_c17d.jpg", 
+    "course_url": "https://www.udemy.com/essential-git/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-25T21:18:28Z"
+}

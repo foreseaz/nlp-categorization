@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p><strong>Mediation, Moderation, and Conditional PROCESS Analysis</strong> is a methodological statistical technique developed by Dr. Andrew F. Hayes which is applied to ordinary least squares (OLS) regression. PROCESS simplifies the 'untangling' of the analyses of combined direct, indirect and total effects driven by simultaneous mediating and moderating influences in an OLS regression model. However, PROCESS can also be directly applied to estimate the mediating and moderating effects of latent variables in PLS path modeling and in covariance-based SEM. </p><p>In 2013, Dr. A.F. Hayes developed and published a comprehensive statistical approach to estimate and interpret intertwined, cascading, mediating and moderating, direct, indirect, and total effects, and the comparisons of significant differences between them, as embedded in a series of 77 templates for linear models. Dr. Hayes comprehensively integrated these techniques into a coherent set of SAS and SPSS 'PROCESS' scripts to estimate these complicated effects in linear regression models. We extended these SAS and SPSS scripts with R scripts and a GUI interface and applied this approach directly to both OLS regression and to PLS path modeling results. In this course, we provide our complimentary GUI-based desktop application, <strong><em>allstatGUI</em></strong>, that reliably calculates these estimates using participants' own data and OLS models. This course explains the conceptual basis of <strong>PROCESS</strong> and demonstrates how these complicated mediating and moderating effects can be reliably estimated on your own data and models using the <strong><em>allstatGUI</em></strong> application developed by Mr. Dean Lim and Dr. Geoffrey Hubona.</p><p>All software is included with the course materials. The course is structured as a tutorial which begins with simple mediation models and then progresses through a series of moderation examples. All of the models and data and analyses are provided with the course materials. A course participant should then be able to apply the PROCESS analysis approach to their own data and models which may contain a mixture of combined mediating and moderating effects.</p><p>Anyone who regularly works with regression models would benefit from this course. This includes graduate students, faculty and quantitative and data analysis professionals. However, <strong><em>please note that both our allstatGUI application and the PROCESS application are written in the visual RGtk2 language in R which has been noted to have problems running on a Mac computer.</em></strong> So if you only have a Mac computer available to you, you might have problems getting the free software that comes with the course materials to run properly.</p>", 
+    "end_date": null, 
+    "title": "Mediation, Moderation, and Conditional Process Analysis", 
+    "price": "20.00", 
+    "instructors": "Geoffrey Hubona, Ph.D.", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/630332_9ea2_9.jpg", 
+    "course_url": "https://www.udemy.com/mediation-moderation-and-conditional-process-analysis/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Social Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-04T13:06:59Z"
+}

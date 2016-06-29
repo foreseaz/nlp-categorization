@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t      En este videocurso sobre efectos CSS3 para tu sitio web verás cómo desarrollar desde cero una gran gama de efectos que logran en tus proyectos un aspecto más llamativo destacando del resto de páginas web.  </p>  <p style=\"\">  \t  No necesitas tener grande conocimientos de html ni de css, todo lo que es necesario se analiza en el curso, solo tienes que contar con algún editor de texto y... !! ganas de practicar !!  </p>  <p style=\"\">  \tVerás que es muy sencillo y a la vez necesario. Durante todo el curso veremos cómo cambiar el aspecto de un elemento jugando con sus pseudo-elementos (after y before) y sus pseudo-clases (principalmente hover), así que en cada ocasión daremos diseño a propiedades diferentes, pero en todos los casos el patrón será el mismo, fácil de aprender. Si te dedicas al desarrollo web, o quieres hacerlo, tendrás que saber que el tiempo de permanencia en un sitio web es muy importante, y algo que hace que éste aumente es el aspecto visual del contenido, y cuán agradable sea la experiencia de usuario cuando interactua en tu página. Por eso, saber combinar bien estos efectos e integrarlos junto con el resto de elementos dará más fuerza a tu web. Es algo similar a decorar un buen plato, no es que vaya a estar más rico, pero sí tendrá mejor aspecto, llamará más la atención, recibirá más visitas y tú tendrás más fama de buen &quot;cocinero&quot; web.  </p>  <p style=\"\">  \t  Aprenderás entre otras cosas:  </p>  <ul style=\"\">  \t<li style=\"\">Técnicas de camuflaje sobre los efectos.</li>  \t<li style=\"\">Uso de pseudo-elementos</li>  \t<li style=\"\">Uso de pseudo-clases</li>  \t<li style=\"\">Qué tener en cuenta para elegir los colores de algunos efectos</li>  \t<li style=\"\">Efectos en Sombras</li>  \t<li style=\"\">Efectos en Bordes</li>  </ul>  <p style=\"\">  \t      Este curso sienta las bases fundamentales de la animación con CSS, algo más avanzado, por eso éste es el curso ideal para iniciarse en los efectos CSS, y por eso quiero que sea gratis, para que pruebes qué te parece este área del desarrollo web antes de decidir si quieres dar un salto adelante con animaciones keyframes u otros temas. Seguro que tras este curso serás capaz de crear tus propios efectos :)  </p>", 
+    "end_date": null, 
+    "title": "Aprende Efectos CSS3", 
+    "price": 0, 
+    "instructors": "Jose Javier Villena", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/336784_8d68_2.jpg", 
+    "course_url": "https://www.udemy.com/aprende-efectos-css3/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-05T19:32:58Z"
+}

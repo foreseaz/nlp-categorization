@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Você quer aprender como uma Telecom configura sua rede MPLS? Se você trabalha em uma telecom, ou vai trabalhar, ou ainda mesmo quer entender como tudo funciona dentro da Núvem MPSL? Esse é o seu curso!<br></p>\n\n<p>Esse curso foi ministrado pelo Instrutor &lt;strong&gt;André Iácono diretamente da Unidade em Orlando USA!&lt;/strong&gt;</p>\n\n<p>Neste curso estarei ministrando a partir de conceitos básicos da MPLS, como Labels, blocos, stack e distribuição, como tópicos e configurações avançadas de VRF, BGP e L3 VPN. Vamos discutir também sobre o protocolo LDP e aprender como as labels são enviadas entre os roteadores LDR. Como estarei utilizando uma topologia com 9 roteadores, a parte de configuração será constituída de vários protocolos IGP’s com a adição do BGP fazendo essa uma rede mista e cheia de desafios a serem descobertos.</p>\n\n<p>Vamos simular e criar duas empresas com a utilização de Provider Edge Router e Customer Edge Router fazendo com que empresas consigam se comunicar através da VPNv4.</p>\n\n<p>O que seria MPLS sem VRF? Por esse motivo vamos configurar VRF’s para demostrar como funcionam e sua importância na rede MPLS.</p>\n\n<p>Pronto para iniciar? Então vamos juntos!<br><br></p>", 
+    "end_date": null, 
+    "title": "Configure uma Telecom com MPLS", 
+    "price": "30.00", 
+    "instructors": "Andre Iacono", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/880874_dc19_3.jpg", 
+    "course_url": "https://www.udemy.com/configure-uma-telecom-com-mpls/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-17T12:13:28Z"
+}

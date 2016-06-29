@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this Python Beyond the Basics - Object-Oriented Programming training course, expert author David Blaikie will teach you how to design Python classes, and how to implement object-oriented programming concepts in Python. This course is designed for users that already have a basic working knowledge of Python.</p><p>You will start by learning about classes, including defining a class, class attributes, and working with class and instance data. From there, David will teach you about inheritance and polymorphism. This video tutorial also covers advanced features, such as implementing core syntax, subclassing built-ins, and new style classes. You will also learn about exceptions and object serialization. Finally, David will teach you about efficiency and testing, including debugging, logging, and benchmarking.</p><p>Once you have completed this computer based training course, you will be fully capable of designing your own Python classes, as well as implementing object-oriented programming concepts in Python. </p>", 
+    "end_date": null, 
+    "title": "Python Beyond the Basics - Object-Oriented Programming", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/449532_2aa9_7.jpg", 
+    "course_url": "https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-17T15:55:59Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Digital Media & Video Games"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course provides hands-on experience in producing, mixing, and sound design with a digital audio workstation. Students will learn the fundamentals (physics) of sound and digital audio, proper gain staging, where and how distortion enters recordings and mixes, how to set levels and panning, effective sub group mixing, and an introduction to signal processing such as equalization, compression, delay, and reverb. In addition to core audio and mixing concepts, students will learn various production techniques, such as sequencing, arranging, automation, using virtual instruments (e.g. synths, samplers, and drum machine plugins), working with MIDI, plugin formats such as VST/Audio-Units, and mapping digital USB controllers for the studio and live performance.\n\nThe material covered in this course will range from the foundations of producing music and sound design, to more advanced topics such as Ableton \"racks\" (Audio Effect Racks, MIDI Effect Racks, Instrument Racks, and Drum Racks), multi-band effects processing, advanced modulation, warping, time-stretching, and mangling audio, as well as taking advantage of Live's audio analysis tools for extracting grooves, melody, harmony, and drums from recorded sound.\n\n\n                                            Syllabus\n                        \r\nSession 1: Introduction To Ableton Live This session will cover the fundamentals of Ableton Live, including Live Sets and Projects, tracks, clips, the Session View, the Arrangement View, exporting audio, and more.\r\nSession 2: The Nature Of Sound This session will cover the basic properties (physics) of sound, an introduction to digital audio theory, and gain staging.\r\nSession 3: Levels And Panning This session will cover the fundamentals of setting up a basic mix, including balancing levels, placing sounds in the stereo field, and mixing into pink noise.\r\nSession 4: Sculpting Frequencies: Equalization This session will cover using EQ to shape your sounds and mixes. Learn about the different types of EQs (3-band, Graphic, and Parametric) and how to use them on different sounds, using EQs for dramatic effect, as well as creating dynamic EQs.\r\nSession 5: Reverb And Space Learn about natural and analog reverb, sound reflections and absorption, and how to use Live's powerful digital 'verb to bring a sense of space and depth to your tracks. Additional lessons in using reverb for sound design and FX will be covered.\r\nSession 6: Compression And Dynamics This session will cover everything you need to know about dynamics processing and using compression to produce punchy mixes. Topics include an overview of how compression works using Ableton's \"Compressor\", buss compression with the \"Glue\" compressor, Parallel/NY compression, multiband compression with the \"Multiband Dynamics\" compressor, and Side-chain compression.\r\nSession 7: Slicing And Dicing: Sampling In Live This session will cover the foundations of sampling from a historical perspective (Musique Concrete to Hip Hop), and practical use of samplers and sampling including using Live's Simpler and Sampler devices for synthesis and sound design, chopping up drum breaks, etc.\r\nSession 8: Parallel Signal Processing: Ableton Racks This session will cover using Audio Effect Racks, MIDI Effect Racks, Instrument Racks, and advanced Drum Rack configuration for a wide range of applications including: dynamic audio effects, custom arpeggiators, multiband effect processing, and more.\r\nSession 9: Inside/Outside: Advanced MIDI, Syncing Laptops, Mapping Strategies, And Audio Analysis This session will cover a wide range of advanced production techniques including a deeper understanding of the MIDI protocol, syncing multiple Live sessions on different computers via a standard computer network (WIFI/Ethernet), mapping strategies for live performance, as well as advanced audio analysis in Live (extracting \"grooves\" from audio, and converting melody, harmony, and drums from audio-to-MIDI).\r\n\n                                    ", 
+    "end_date": "2016-03-15T00:00:00Z", 
+    "title": "Sound Production in Ableton Live for Musicians and Artists", 
+    "price": 0, 
+    "instructors": "Jordan Hochenbaum", 
+    "institution_name": [
+        "California Institute of the Arts"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Art & Design"
+    ], 
+    "course_url": "https://www.kadenze.com/courses/sound-production-in-ableton-live-for-musicians-and-artists-iii/info", 
+    "duration": "9 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Kadenze"
+    ], 
+    "start_date": "2016-01-12T00:00:00Z"
+}

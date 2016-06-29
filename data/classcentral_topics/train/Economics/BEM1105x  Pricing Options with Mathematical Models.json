@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Economics"
+    ], 
+    "description": "\n\n                    \n                    \n                    This is an introductory course on options and other financial derivatives, and their applications to risk management. We will start with discrete-time, binomial trees models, but most of the course will be in the framework of continuous-time, Brownian Motion driven models. A basic introduction to Stochastic, Ito Calculus will be given. The benchmark model will be the Black-Scholes-Merton pricing model, but we will also discuss more general models, such as stochastic volatility models. We will discuss both the Partial Differential Equations approach, and the probabilistic, martingale approach. We will also cover an introduction to modeling of interest rates and fixed income derivatives.\n\nI teach the same class at Caltech, as an advanced undergraduate class. This means that the class may be challenging, and demand serious effort. On the other hand, successful completion of the class will provide you with a full understanding of the standard option pricing models, and will enable you to study the subject further on your own, or otherwise. You should have a working knowledge of basic calculus, statistics, and probability and be interested in the use of mathematical modeling.\n\n                                    ", 
+    "end_date": "2016-04-26T00:00:00Z", 
+    "title": "BEM1105x: Pricing Options with Mathematical Models", 
+    "price": 0, 
+    "instructors": "Jaksa Cvitanic", 
+    "institution_name": [
+        "California Institute of Technology"
+    ], 
+    "commitment": "8-10 hours", 
+    "subject_name": [
+        "Social Sciences"
+    ], 
+    "course_url": "https://www.edx.org/course/pricing-options-mathematical-models-caltechx-bem1105x-1", 
+    "duration": "30 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2015-09-29T00:00:00Z"
+}

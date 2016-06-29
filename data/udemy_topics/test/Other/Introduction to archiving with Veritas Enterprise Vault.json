@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Veritas Enterprise Vault is a market-leading archiving product for both for emails and files. In this introductory course we will answer fundamental questions about Enterprise Vault such as: Why archive with Enterprise Vault? What does Enterprise Vault do? How does Enterprise Vault work? We will then look in more detail at Microsoft Exchange Archiving. File System Archiving and SMTP Archiving.</p><p>The courses consists of 8 video lectures and 2 quizzes to test your knowledge. Many of the lectures include practical demonstrations of Enterprise Vault so that you can see it working.</p><p>This course is aimed at anyone who wants to get a better understanding of Enterprise Vault but would be particularly useful for messaging administrators, file server administrators and IT consultants who sell Enterprise Vault services and licenses.</p>", 
+    "end_date": null, 
+    "title": "Introduction to archiving with Veritas Enterprise Vault", 
+    "price": 0, 
+    "instructors": "Dr Phil Walters", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/813592_2ed1.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-archiving-with-veritas-enterprise-vault/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-05T15:23:33Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t  O curso ensinará a trabalhar com a URL API do MicroStrategy para Web e Mobile.  </p>  <p style=\"\">  \tO aluno verá exemplos práticos de como adicionar URL APIs em documentos, páginas da Web, documentos para Mobile (iOS, Android, Blackberry), etc.  </p>  <p style=\"\">  \t  Ensina a utilizar os vários eventos e formas de se utilizar a URL API tanto para relatórios, documentos, dashboards e navegação do projeto.  </p>  <p style=\"\">  \t  Muitos desenvolvedores querem incluir relatórios e dashboards dentro de páginas da Web. O curso ensinará como fazer a inclusão destes objetos dentro de páginas da internet ou intranet.  </p>  <p style=\"\">  \tCom a URL API é possível alterar o layout, page-by, group-by, formas de visualização e formas de exportação tanto de relatórios analíticos e sintéticos quanto documentos e dashboards.  </p>  <p style=\"\">  \tVocê conseguirá adicionar funcionalidades ao seu projeto BI que só são possíveis utilizando a URL API.  </p>", 
+    "end_date": null, 
+    "title": "MicroStrategy URL API", 
+    "price": "30.00", 
+    "instructors": "Felipe Vilela De Araújo Pereira", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/402276_7f67_8.jpg", 
+    "course_url": "https://www.udemy.com/microstrategy-url-api/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-23T15:57:32Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong></strong>Im WordPress Einsteigerkurs lernen Sie das Content Management System WordPress kennen. Ich zeige Ihnen alles was Sie wissen müssen um WordPress zu installieren, eine eigene Webseite aufzubauen und dauerhaft zu betreiben.</p><p>In 28 Videos lernen Sie alle wichtigen Schritte um Ihre eigene Webseite mit WordPress aufzubauen!</p><p>Im Kurs zeige ich Ihnen die folgenden Inhalte:</p><p><strong>Modul 1 So starten Sie mit WordPress:</strong></p><ul><li>Hintergrundwissen Webhosting</li><li>Datenbanken und FTP</li><li>Wordpress Installieren</li><li>Erste Einstellungen im Backend</li></ul><p><strong>Modul 2 Die ersten Inhalte erstellen:</strong></p><ul><li>Beiträge und Seiten</li><li>Erweiterte Funktionen in Beiträgen</li><li>Eine Galerie in WordPress erstellen</li><li>Datenschutz und Impressum</li><li>Menüs erstellen</li><li>Mit Widgets arbeiten</li><li>Mit Tags und Kategorien arbeiten</li><li>Schnelles editieren mit Quickedit</li></ul><strong>Modul 3 Mit Medien arbeiten:</strong><ul><li>Die WordPress Mediathek</li><li>Einstellungen für Mediendateien</li><li>Dateien und Videos einfügen</li><li>Bilder bearbeiten</li></ul><p><strong>Modul 4 Plugins, Themes und Shortcodes:</strong></p><ul><li>Übersicht zu Plugins</li><li>Google Analytics installieren</li><li>WordPress SEO Plugin</li><li>Kontaktformular erstellen</li><li>Lightbox Bildergalerie</li><li>Shortcodes erstellen und einfügen</li><li>Übersicht zu Themes</li></ul><p><strong>Modul 5 Wartung Ihrer WordPress Webseite:</strong></p><ul><li>Updates in WordPress</li><li>Backups erstellen</li><li>Zusätzliche Sicherheitsfunktionen aktivieren</li><li>WordPress aus Backup wiederherstellen </li></ul>", 
+    "end_date": null, 
+    "title": "WordPress Einsteigerkurs", 
+    "price": "25.00", 
+    "instructors": "Benjamin Ronnenberg", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/512738_5594_2.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-einsteigerkurs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-27T12:35:32Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course has been designed as a step by step guide for the complete beginner to web development that has never done it before. </p><p>In this course we will start with some of the most basic elements of what happens when you click a link in a browser. From there we will continue through HTML building the foundation that will serve us throughout our journey into JavaScript and beyond.</p><p>In CSS, we learn the importance of taking ownership of a project and the powerful feeling that comes from being able to make changes to a website based on your knowledge and taste. This is the section of the course where we redefine what a successful web development career looks like and the importance of involvement and commitment.</p><p>JavaScript is where we let our foot off the gas and turn everything up a notch. With the core skills we have learned from HTML and CSS we can start to build dynamic and interactive websites that  allow us to show more- or less of our personality or make a statement about what we do. So if you're ready to step up to the higher opportunity and better challenge, join me on this journey into JavaScript.<br></p><p>Let's get coding and have some fun!</p>", 
+    "end_date": null, 
+    "title": "Complete Beginner to JavaScript Developer", 
+    "price": "20.00", 
+    "instructors": "Martin Kenny", 
+    "commitment": "14 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/643732_0787_2.jpg", 
+    "course_url": "https://www.udemy.com/complete-beginner-to-javascript-developer/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-18T04:20:36Z"
+}

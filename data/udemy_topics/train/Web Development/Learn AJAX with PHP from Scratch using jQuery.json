@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">What&#039;s AJAX? </strong>  </p>  <p>  \t<strong style=\"\">AJAX = A</strong><strong style=\"\">synchronous JavaScript and XML</strong>  </p>  <p>  \t  It&#039;s a web development technique widely used by popular websites.  </p>  <p>  \t  It&#039;s not a new programming language, but a way or technique to use existing web standards. If you don&#039;t anything about AJAX then you can learn from this course.  </p>  <p>  \t  AJAX can be used to send a request to the server and get a response back from the server, and during this time, the page will not be reloaded/refreshed, it does every job in the background, and web browsing experience gets a lot better.  </p>  <p>  \t<strong style=\"\">What this course means for you? </strong>  </p>  <p>  \t  If you are a new web developer using PHP and JavaScript or jQuery and you don&#039;t know much about AJAX then this short course is for you, You can learn AJAX from very basic in this course, and You&#039;ll also learn creating a small project in this course using AJAX, jQuery and PHP.  </p>  <p>  \t<strong style=\"\">What&#039;s included with the course? </strong>  </p>  <p>  \t  With this short course, You&#039;ll also get the whole source code, and You&#039;ll be able to create a few small applications using AJAX after watching this basic course.  </p>  <p>  \t<strong style=\"\">Is support available for this course? </strong>  </p>  <p>  \t  Yes, if you got any question during the course, you can ask me anytime, just post your question in the discussion forum of this course on Udemy, and I&#039;ll be there to answer it as soon as I&#039;m available on Udemy.  </p>", 
+    "end_date": null, 
+    "title": "Learn AJAX with PHP from Scratch using jQuery", 
+    "price": 0, 
+    "instructors": "Abdul Wali", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/421328_bae7_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-ajax-with-php/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-13T19:59:23Z"
+}

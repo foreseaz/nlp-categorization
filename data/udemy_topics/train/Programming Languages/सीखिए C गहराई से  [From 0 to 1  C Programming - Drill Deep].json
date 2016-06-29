@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong><em>C Programming is still a very valuable skill - and its also surprisingly easy to pick up. Don't be intimidated by C's reputation as scary - we think this course makes it easy as pie!</em></strong></p><p><strong>This course is in Hindi.</strong></p><p><strong>What's Covered:</strong></p><ul><li><strong>Conditional Constructs:</strong> If/else and case statements have a surprising number of little details to be aware of. Conditions, and working with relational and logical operators. Short-circuiting and the order of evaluation</li><li><strong>Loops:</strong> For loops, while and do-while loops, break and continue. Again, lots of little details to get right.</li><li><strong>Data Types and Bit Manipulation Operations</strong>, again full of little gotchas that interviewers and professors love to test.</li><li><strong>Pointers:</strong> Memory layout of pointers and variables, pointer arithmetic, arrays, pointers to pointers, pointers to structures, argument passing to functions, pointer reassignment and modification - complete with visuals to help you conceptualize how things work.</li><li><strong>Strings:</strong> Strings, Character pointers, character arrays, null termination of strings, string.h function implementations with detailed explanations.</li><li><strong>Structs and Unions:</strong> These seem almost archaic in an Object-Oriented world, but worth knowing, especially in order to nail linked list problems.</li><li><span></span><strong>Linked lists:</strong> Visualization, traversal, creating or deleting nodes, sorted merge, reversing a linked list and many many problems and solutions, doubly linked lists.</li><li><span></span><strong>IO:</strong> Both console and file IO</li><li><span></span><strong>Typedefs, macros</strong></li></ul><p><strong>Talk to us!</strong></p><p>Mail us about anything - <strong>anything</strong>! - and we will always reply :-)</p>", 
+    "end_date": null, 
+    "title": "सीखिए C गहराई से  [From 0 to 1: C Programming - Drill Deep]", 
+    "price": "20.00", 
+    "instructors": "Loony Corn", 
+    "commitment": "12.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/735226_4b80.jpg", 
+    "course_url": "https://www.udemy.com/in-hindi-from-0-to-1-c-programming-drill-deep/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-20T09:06:30Z"
+}

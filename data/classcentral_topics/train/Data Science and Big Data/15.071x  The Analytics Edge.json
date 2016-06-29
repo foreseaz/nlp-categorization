@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                                            Class Central Course Rank  \n                                                    \n                                #1 in Subjects\n                                                                    &gt; Computer Science\n                                                                                                    &gt; Data Science and Big Data\n                                                            \n                            \n                                                \n                    \n                    \n                    In the last decade, the amount of data available to organizations has reached unprecedented levels. Data is transforming business, social interactions, and the future of our society. In this course, you will learn how to use data and analytics to give an edge to your career and your life. We will examine real world examples of how analytics have been used to significantly improve a business or industry. These examples include Moneyball, eHarmony, the Framingham Heart Study, Twitter, IBM Watson, and Netflix. Through these examples and many more, we will teach you the following analytics methods: linear regression, logistic regression, trees, text analytics, clustering, visualization, and optimization. We will be using the statistical software R to build models and work with data. The contents of this course are essentially the same as those of the corresponding MIT class (The Analytics Edge). It is a challenging class, but it will enable you to apply analytics to real-world applications. \n\nThe class will consist of lecture videos, which are broken into small pieces, usually between 4 and 8 minutes each. After each lecture piece, we will ask you a “quick question” to assess your understanding of the material. There will also be a recitation, in which one of the teaching assistants will go over the methods introduced with a new example and data set. Each week will have a homework assignment that involves working in R or LibreOffice with various data sets. (R is a free statistical and computing software environment we’ll use in the course. See the Software FAQ below for more info). In the middle of the class, we will run an analytics competition, and at the end of the class there will be a final exam, which will be similar to the homework assignments.\n\n \n\nFAQ\n\nWhat do I need to know about the topic prior to enrolling in the course?\n\nYou only need to know basic mathematics. For most people, this is equivalent to basic high school mathematics. You should know concepts like mean, standard deviation, and histograms. This course is also useful for those who already have experience in the subject.  In each lecture, recitation, and homework assignment, we use a different dataset and case to illustrate the method. Even if you are familiar with all of the methods taught, you can still learn a lot from the different examples.\n\nWhat software will be used in the course?\n\nWe’ll be using two software programs in this class: R and LibreOffice. Both are free online, and you don’t need to be familiar with either of them to take the course. R is a free statistical and computing software environment and LibreOffice is similar to MS Office but a free open source program. Specifically we’ll use the LibreOffice module, Calc in this course. Don’t worry though - we’ll teach everything from scratch!\n\n                                    ", 
+    "end_date": "2016-07-05T00:00:00Z", 
+    "title": "15.071x: The Analytics Edge", 
+    "price": 0, 
+    "instructors": "Dimitris Bertsimas", 
+    "institution_name": [
+        "Massachusetts Institute of Technology"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/analytics-edge-mitx-15-071x-2", 
+    "duration": "12 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-04-12T00:00:00Z"
+}

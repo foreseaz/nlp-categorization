@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  I this course we are going to have a look at the different screen sizes, as well as the many devices out there. And there are quite a lot of them. So we need to ask our selves one question: What does ‚truly universal‘ actually mean?  </p>  <p style=\"\">  \t  We are going to start by taking a look at Auto Layout and especially Size Classes, which were introduced with iOS 8. Using these features will enable you to create user interfaces that adjust themselves to any rotation and screen size.  </p>  <p style=\"\">  \t  We will continue with learning about techniques to identify the currently used device so that you can customize the user interfaces for each device type and thereby provide your users with the best experience possible.  </p>  <p style=\"\">  \t  Once your users have installed your App on more than one device you will have to think about synchronizing data. Therefore you will learn a lot about Parse, a backend service with awesome cloud features.  </p>  <p style=\"\">  \t  After learning the basics of creating universal user interfaces we are going to build a real world application from scratch. By creating an instagram like app you can put into practice everything you have learned so far.  </p>", 
+    "end_date": null, 
+    "title": "Swift iOS Course: iOS 8 Apps for every Screen Size", 
+    "price": "20.00", 
+    "instructors": "Daniel Autenrieth", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/309892_4239_3.jpg", 
+    "course_url": "https://www.udemy.com/truly-universal-apps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-29T08:55:13Z"
+}

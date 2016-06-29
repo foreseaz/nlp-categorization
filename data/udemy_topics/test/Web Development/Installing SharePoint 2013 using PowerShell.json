@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">PowerShell allows administrators to automate some common tasks related to the day-to-day management and deployment activities of SharePoint.</p><p style=\"\">Windows PowerShell is a Microsoft next generation scripting language which offers direct access to .NET Objects and pipeline capabilities that makes passing objects from one command to another command in an easy manner.</p><p style=\"\">This course provides developers / administrators, with a thorough knowledge on various steps that one should follow inorder to automate the installation process of SharePoint 2013 Using PowerShell.</p><p style=\"\">In this course by development expert Kameswara Sarma Uppuluri, you&#039;ll learn essential concepts that you need to know to get started writing powershell scripts to perform SharePoint 2013 installation in silent mode / unattended manner.</p><p style=\"\">This course provides step-by-step walk-throughs and coding demos that you&#039;re encouraged to code along with to enhance the learning process.</p><p style=\"\">This course is broken down into 7 modules with each module providing source code where applicable so that you can follow along with Kameswara Sarma Uppuluri. Some of the modules can be seen in the below list.</p><ol style=\"\"><li style=\"\">Introduction to PowerShell</li><li style=\"\">Working with ServerManager PowerShell Module</li><li style=\"\">Installing features using PowerShell Script</li><li style=\"\">Writing PowerShell Scripts to download SharePoint 2013 Prerequisites</li><li style=\"\">Writing scripts to Install SharePoint 2013 Prerequisites</li><li style=\"\">Writing scripts to initiate the SharePoint 2013 Installation</li><li style=\"\">Writing scripts to configure SharePoint 2013 Farm</li></ol>", 
+    "end_date": null, 
+    "title": "Installing SharePoint 2013 using PowerShell", 
+    "price": "20.00", 
+    "instructors": "Kameswara Uppuluri", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/559276_2ea5_2.jpg", 
+    "course_url": "https://www.udemy.com/installing-sharepoint-2013-using-powershell/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-20T09:38:08Z"
+}

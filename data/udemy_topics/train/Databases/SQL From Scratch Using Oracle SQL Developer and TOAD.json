@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learning SQL is a very useful skill to have as every business and organisation is so dependent on data. There are not enough skilled SQL professionals hence the demand and pay rate for SQL professionals is quite high. </p>\n\n<p>SQL stands for structured query language. It is an international standard language<br>used to query and manipulate databases. There are different types of database <br>vendors like Oracle, Microsoft ,MySQL and so on . They all support SQL and<br>performs certain operations in the same way. Keywords like CREATE,SELECT,UPDATE,<br>DELETE,WHERE and FROM are used the same way with various database vendors.</p>\n\n<p>This course will teach you the skills you need to get your foot in the door<br> as an SQL professional. With the skills you learn on this course you can work <br>confidently as a data analyst or even progress to be a database administrator.<br>This course will take from scratch to more advanced SQL using TOAD and SQL Developer TOOL</p>\n\n<p>Some of what you will learn on this course includes:</p>\n\n<ul><li>Database concepts</li><li>SQL SUB Languages -DDL and DML</li><li>Aggregate Functions</li><li>Logical Operators</li><li>SET Operators</li><li>Table Joins</li><li>Analytic Functions</li><li>Single Row Functions</li><li>Creating Tables</li><li>Creating Views</li><li>Creating Sequences</li><li>Creating Indexes</li><li>Using Aliases</li><li>Using Sub Queries</li><li>NULL Values</li><li>Restricting and Limiting Data</li></ul>\n\n<p>By the end of this course you will confidently be able to write SQL queries<br>to create,read,update and delete data which are the key functions that are performed<br>on a database.</p>", 
+    "end_date": null, 
+    "title": "SQL From Scratch Using Oracle SQL Developer and TOAD", 
+    "price": "20.00", 
+    "instructors": "247 Learning", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/655448_19f3_2.jpg", 
+    "course_url": "https://www.udemy.com/sql-from-scratch-using-oracle-sql-developer-and-toad/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-30T12:07:13Z"
+}

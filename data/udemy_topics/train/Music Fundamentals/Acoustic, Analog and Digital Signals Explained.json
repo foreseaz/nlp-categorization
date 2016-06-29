@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Music"
+    ], 
+    "description": "<h4 style=\"\">Audio Enthusiast: Make Better Music With Sound Card Mastery!</h4>  <p style=\"\">  \t   What an <strong style=\"\">analog signal</strong>? How does the <strong style=\"\">analog to digital conversion</strong> process work? What about <strong style=\"\">digital fundamentals</strong>? And what is the <strong style=\"\">digital to analog audio converter</strong>?  And the <strong style=\"\">quantization</strong>? With this course, you will be able to answer all  these questions and more!  </p>  <h4 style=\"\">At the end of this course, you will be able to understand:</h4>  <ul style=\"\">  \t<li>the differences between acoustic, analog and digital signals;</li>  \t<li>what is an analog signal;</li>  \t<li>the sampling process;</li>  \t<li>the quantization process;</li>  \t<li>bit depth and dithering;</li>  \t<li>the quantization noise;</li>  \t<li>the analog to digital conversion;</li>  \t<li>the digital to analog converter;</li>  \t<li>driver and buffer setup.</li>  </ul>  <p style=\"\">  \t   To achieve this goal, the course will start from the very beginning: we will talk about what an acoustic signal is and how it can be properly transformed, recorded and played back in a digital system through the <strong style=\"\">analog to digital audio converter</strong>. I will also give you some <strong style=\"\">quizzes</strong> to do to confirm what you have learned during the various sections of the course. And, if you want to go into more depth in some particular topics, a couple of external resources are also included in the course lectures.  </p>  <p style=\"\">  \t   Starting as it does from scratch, this course is intended for everybody. No requirements are needed except your musical passion and curiosity. It aims to introduce all the basic theory to understand the sampling process, the playback or mixdown of digital audio material through your digital audio card.  </p>  <p style=\"\">  \t   If you are a producer, a DJ or a musician or if you use a so called DAW (Digital Audio Workstation) like Cubase, Logic, Pro Tools, Fruity Loops or a DJ software like Traktor, Serato or Virtual DJ, this course will explain how and why some setting could or should be applied to your audio card or software configuration. However, if you are already an audio engineer, this course is not for you.  </p>  <p style=\"\">  \t   It is the very first module of all the music and DJing courses I teach so it starts from the very beginning and you don’t need to know anything about the topic to start . Basically, it introduces a conscious management of audio signals through digital devices regardless of the brand or software used. Even your smartphone is based on the theory here explained.  </p>  <p style=\"\">  \t   Generally speaking, it’s a good thing to know how an audio card works if an audio card is used during the management of digital audio content. Whether you are an audio newbie or an enthusiast or if you want a conscious knowledge of your audio card, this course is for you.  </p>  <p style=\"\">  \t   Also remember: Udemy&#039;s lifetime free access to the course and full 30-Day Money Back Guarantee. Enrol Now!  </p>", 
+    "end_date": null, 
+    "title": "Acoustic, Analog and Digital Signals Explained", 
+    "price": "20.00", 
+    "instructors": "Max Porcelli", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/365938_e84a_4.jpg", 
+    "course_url": "https://www.udemy.com/acoustics-analog-and-digital-fundamentals-for-everyone/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Music Fundamentals"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-08T17:15:03Z"
+}

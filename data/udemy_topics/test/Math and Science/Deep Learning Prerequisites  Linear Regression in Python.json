@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>This course teaches you about one popular technique used in machine learning, data science and statistics: linear regression. We cover the theory from the ground up: derivation of the solution, and applications to real-world problems. We show you how one might code their own linear regression module in Python.</p>\n\n<p>This course does not require any external materials. Everything needed (Python, and some Python libraries) can be obtained for free.</p>\n\n<p>If you are a programmer and you want to enhance your coding abilities by learning about data science, then this course is for you. If you have a technical or mathematical background, and you want to know how to apply your skills as a software engineer or \"hacker\", this course may be useful.</p><p><br></p><p>NOTES:</p><p>All the code for this course can be downloaded from my github: /lazyprogrammer/machine_learning_examples</p>\n\n<p>In the directory: linear_regression_class</p>\n\n<p>Make sure you always \"git pull\" so you have the latest version!</p>\n\n<p>HARD PREREQUISITES / KNOWLEDGE YOU ARE ASSUMED TO HAVE:</p>\n\n<ul><li>calculus</li><li>linear algebra</li><li>probability</li><li>Python coding: if/else, loops, lists, dicts, sets</li><li>Numpy coding: matrix and vector operations, loading a CSV file</li></ul>\n\n", 
+    "end_date": null, 
+    "title": "Deep Learning Prerequisites: Linear Regression in Python", 
+    "price": "50.00", 
+    "instructors": "Justin C", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/556954_8e95.jpg", 
+    "course_url": "https://www.udemy.com/data-science-linear-regression-in-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-17T05:25:21Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Content Updated 1/12/2016</strong></p><p><br></p><p><strong>Improve your Career by learning how to install and configure Kemp VLM Load Balancers to make your companies applications Highly Available.</strong></p><p>As Web Applications become more and more prevelent administrators need to know how keep these Web Application highly available, secure and scalable based on traffic load.</p><p>   The Kemp VLM can do all that for you and more!</p><p>The Kemp VLM Load Balancers course offers high level and detail instruction on installing, setting up, and configuring a Kemp VLM Load Balancer.  This course uses networking terminology that you should have at least some familiarity with before enrolling. </p><p>All lectures are given though video with the majority being direct configuration on a Kemp VLM Load Balancer. </p><p> I give you all the tools and information you need to follow along with the demonstrations (except a computer of course).<br></p><p><span></span><br></p>", 
+    "end_date": null, 
+    "title": "The Complete Kemp VLM Load Balancer Course", 
+    "price": "20.00", 
+    "instructors": "Mike Walton", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/621660_68c1_2.jpg", 
+    "course_url": "https://www.udemy.com/kemp-vlm-load-balancers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-24T19:48:11Z"
+}

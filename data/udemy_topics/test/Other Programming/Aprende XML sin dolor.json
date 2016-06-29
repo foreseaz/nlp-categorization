@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tEl lenguaje XML es un  estándar en el intercambio de información en Internet. De esta simple tecnología, se desprenden muchas otras que hacen a XML aún más poderoso. A parte de ver los fundamentos del lenguaje, analizaremos las herramientas para diseñar los archivos XML, como son los estilos en cascada tradicionales (CSS) y la poderosa herramienta XSLT.  </p>  <p>  \tTambién revisaremos las herramientas para recorrer un archivo XML como el XPath y la estructura DOM con JavaScript.  </p>  <p>  \tPor último veremos dos herramientas fundamentales para la validación de los documentos como el tradicional DTD y el poderoso XML Schema.  </p>", 
+    "end_date": null, 
+    "title": "Aprende XML sin dolor", 
+    "price": "20.00", 
+    "instructors": "Francisco Javier Arce Anguiano", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/180634_8d2c_3.jpg", 
+    "course_url": "https://www.udemy.com/aprende-xml-sin-dolor/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other Programming"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-11T22:07:13Z"
+}

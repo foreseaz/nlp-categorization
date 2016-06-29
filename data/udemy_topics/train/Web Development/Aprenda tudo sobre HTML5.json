@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<strong>HTML5</strong> (Hypertext Markup Language, versão 5) é uma linguagem para estruturação e apresentação de conteúdo para a World Wide Web e é uma tecnologia chave da Internet originalmente proposto por Opera Software.<sup>[1]</sup> É a quinta versão da linguagem HTML. Esta nova versão traz consigo importantes mudanças quanto ao papel do HTML no mundo da Web, através de novas funcionalidades como semântica e acessibilidade. Possibilita o uso de novos recursos antes possíveis apenas com a aplicação de outras tecnologias. Sua essência tem sido melhorar a linguagem com o suporte para as mais recentes multimídias, enquanto a mantém facilmente legível por seres humanos e consistentemente compreendida por computadores e outros dispositivos (navegadores, parsers etc). O HTML5 será o novo padrão para HTML, XHTML, e HTML DOM. Atualmente, está em fase de esboço, porém diversos navegadores já implementam algumas de suas funcionalidades.<p>Neste curso você irá aprender quais são essas funcionalidades, o que muda e o que fica, o que os diferentes tipos de marcação podem fazer por você e pelo seu site. O que o HTML5 torna possível fazer e como a linguagem interage com CSS3. </p><p><br></p>", 
+    "end_date": null, 
+    "title": "Aprenda tudo sobre HTML5", 
+    "price": "20.00", 
+    "instructors": "Hugo Vasconcelos", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/658376_e44a_2.jpg", 
+    "course_url": "https://www.udemy.com/aprenda-tudo-sobre-html5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-03T01:07:17Z"
+}

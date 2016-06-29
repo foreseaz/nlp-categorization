@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn to create <strong style=\"\">Dynamic Website</strong><span><strong style=\"\"> </strong></span>from scratch in PHP &amp; MySQLi, building a website with database connectivity. Building a dynamic website had never been easier from scratch before this course. This Dynamic Web Design with PHP and MySQLi training course will give you a working understanding of these important technologies and show you how to use them to create your own impressive websites. This course gradually shows you how to build the necessary components and underlying framework of your site. It goes through installation of PHP and MySQL technologies on your local machine, explains basic tags, command, and helps you build and work within a solid back-end database.</p>", 
+    "end_date": null, 
+    "title": "Learn how to build dynamic website in PHP & MySQL", 
+    "price": "20.00", 
+    "instructors": "Shibli Murtaza", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/586814_d011_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-how-to-build-dynamic-website-in-php-mysql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-18T23:10:56Z"
+}

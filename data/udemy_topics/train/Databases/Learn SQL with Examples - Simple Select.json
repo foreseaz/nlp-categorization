@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>\"Learn SQL with Examples\" Video Course aims at providing an insight on how to write SQL queries. We find lot of material to teach people the syntax but we do not see much on assisting individuals in analysing a problem statement and arriving at a SQL query. So we took the initiative to come out with a simple course on how to decode a problem and write SQL. We have a six step approach to analysing a problem statement and arrive at a SQL statement as given below:</p> <ul><li><b>Decode the problem statement</b></li><li><b>Visualize the expected output from the problem statement</b></li><li><b>Identify the tables in which the output report fields exist</b></li><li><b>Identify the columns which are required for the output</b></li><li><b>Build the query</b></li><li><b>Finally execute it and see the result</b></li></ul> <p>This course requires approximately one hours to complete. </p><p>We made this course graphical with less written material so that individuals can grasp the concept much faster. The graphical representation and the six step method makes the course enjoyable. We have taken 10 simple exercises and explained how to arrive at the required SQL query.</p><p>This course is designed in such a way that one can start writing SQL in hours with confidence.</p><p>We are providing a free tool jaquerybrowser to try-out the exercises which will boost the learner's confidence.</p>", 
+    "end_date": null, 
+    "title": "Learn SQL with Examples - Simple Select", 
+    "price": "20.00", 
+    "instructors": "John Anthony", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/545250_f594_2.jpg", 
+    "course_url": "https://www.udemy.com/simpleselect/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-05T07:41:21Z"
+}

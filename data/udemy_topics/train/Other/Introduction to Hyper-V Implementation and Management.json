@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this Introduction to Hyper-V Implementation and Management training course, expert author John Savill will teach you about the core capabilities of Hyper-V. This course is designed for the absolute beginner, meaning no previous knowledge of Hyper-V is required.</p>\n\n<p>You will start with an overview of virtualization, then jump into learning about Hyper-V, including features, scalability changes, storage and network changes, and licensing. From there, you will learn about virtual machine resource fundamentals, such as time synchronization, dynamic memory configuration, and page sharing technologies. This video tutorial also covers virtual storage, virtual switches, and deploying Hyper-V. Finally, you will learn how to use checkpoints in Hyper-V. </p>\n\n\n\n\n\n\n\n<p>Once you have completed this computer based training course, you will have gained a solid understanding of Hyper-V and its capabilities, as well as be able to deploy and manage Hyper-V.</p>", 
+    "end_date": null, 
+    "title": "Introduction to Hyper-V Implementation and Management", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/851172_f165_2.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-hyper-v-implementation-and-management/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-16T20:30:47Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>The SQL Server Administration will give the student what is necessary and the prerequisites for SQL Server installation. This includes Windows Server Operating System,SQL Server 2012, and the Virtual Application that is needed to install SQL Server 2012.  It will introduce to the student how to configure SQL Server in a production environment.  The student should take my first course SQL Server T-SQL course although not mandatory but strongly encouraged as this is the language that is needed to create and manipulate databases.   All other material will be provided and where necessary, website will be given for downloading applications.  The course is structured in such a way that it builds upon what you have learned.</p>", 
+    "end_date": null, 
+    "title": "Introduction To SQL Server Administration Part 1", 
+    "price": 0, 
+    "instructors": "Raphael Asghar", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/701666_3bc8_2.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-sql-server-administration-part-1/", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-19T18:53:01Z"
+}

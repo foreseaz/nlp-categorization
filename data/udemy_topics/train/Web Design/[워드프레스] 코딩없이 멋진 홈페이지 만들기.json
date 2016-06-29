@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>이 강좌는 유료 테마 The7과 번들로 제공되는 비주얼 컴포저, 레볼루션 슬라이더 플러그인 사용법을 설명합니다. 웹 호스팅과 내 컴퓨터 두 곳에 테마를 설치하고 데모데이터, 테마 옵션 설정, 페이지 빌더, 슬라이더 사용법을 설명합니다.</p><p>테마마다 약간씩 설정의 차이는 있지만 기본 사용법을 알면 업데이트된 테마와 다른 테마에서 응용할 수 있습니다. 비주얼 컴포저와 레볼루션 슬라이더는 워드프레스 기본 테마로 설명했기 때문에 다른 테마에서도 쉽게 적용할 수 있습니다.<br></p><p>유료 테마와 번들로 제공되는 유료 플러그인들은 매뉴얼을 영어로 제공하기 때문에 영어에 익숙하지 않은 국내 사용자가 사용법을 알기 쉽지 않습니다. 책보다 훨씬 이해가 빠른 동영상에 한국어로 설명했습니다. <br></p><p>워드프레스로 코딩없이 홈페이지 만들기는 쉽습니다. 그러나 홈페이지 만들기에 실패한 대부분의 경우는 한글 자료의 부족으로  테마 옵션, 비주얼 컴포저, 레볼루션 슬라이더 사용법에 너무 많은 시간을 사용했기 때문입니다. 학습 시간을 절약하고 홈페이지 제작에 집중해야 빠르게 만들 수 있습니다.<br></p>", 
+    "end_date": null, 
+    "title": "[워드프레스] 코딩없이 멋진 홈페이지 만들기", 
+    "price": "35.00", 
+    "instructors": "Kyungdae Min", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/701130_750d_4.jpg", 
+    "course_url": "https://www.udemy.com/selfwordpress_the7/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-19T00:09:13Z"
+}

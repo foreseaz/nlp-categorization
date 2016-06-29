@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Test Prep"
+    ], 
+    "description": "\n\n                    \n                    \n                    Vous préparez les concours d’entrée aux grandes écoles ? Vous redoutez cet examen et souhaitez vous préparez pour être performant le jour J ? Vous maîtrisez les différentes notions mathématiques telles que le calcul matriciel, les équations différentielles, les coniques, les algorithmes, mais vous craignez ne pas savoir gérer votre temps lors de l’examen ?Dans ce cours, je vous montrerai comment résoudre, grâce à votre calculatrice TI-Nspire CAS, les différents problèmes mathématiques de l’épreuve à l’aide des multiples fonctionnalités de la calculatrice : DeSolve, tauylor, diagonalization, eigenvals, charpoly...Nous verrons tout d’abord sa prise en main, puis ses premières fonctionnalités pour calculer par exemple le déterminant d’une matrice ou représenter graphiquement une conique. Basé sur les sujets type de cette épreuve, je vous montrerai comment exploiter votre calculatrice afin de résoudre les problèmes en un temps record !\n\n                                    ", 
+    "end_date": "2015-06-29T00:00:00Z", 
+    "title": "Réussir les concours d'école d'ingénieurs avec sa calculatrice TI-Nspire CAS La", 
+    "price": 0, 
+    "instructors": "Boris Hanus", 
+    "institution_name": [
+        "Texas Instruments"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Education & Teaching"
+    ], 
+    "course_url": "https://openclassrooms.com/courses/reussir-les-concours-d-ecole-d-ingenieurs-avec-sa-calculatrice-ti-nspire-cas", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "OpenClassrooms"
+    ], 
+    "start_date": "2015-06-01T00:00:00Z"
+}

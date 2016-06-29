@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This is an introductory course on Vagrant designed to show how to setup local development environments using Vagrant and related tools.</p><p><strong>Course Outline</strong><br></p><p><strong>Introduction</strong> provides an overview for the course, cover the core concepts for Vagrant, how to get the course materials.</p><p><strong>Quick Installation</strong> provides streamlined, fast instructions on how to setup Vagrant, VirtualBox, and other tools needed for the rest of the course on both Windows and Mac platforms. See the Bonus section for full installation processes.</p><p><strong>Quick Start</strong> walks through the basics of using Vagrant and how to version control (using Git) a project using Vagrant.</p><p><strong>Boxes</strong> covers how to find, manage and use Vagrant boxes.</p><p><strong>Provisioning</strong> covers how to write shell provisioners to automatically install software when Vagrant first runs or on demand. Students write a real shell script to provision Tomcat in their Vagrant managed virtual machines.</p><p><strong>Conclusion</strong> has some final thoughts on Vagrant.</p><p><strong>Bonus!</strong> sections provide comprehensive, step-by-step installation processes for both Windows and Mac OS X.</p><p><strong>Course Features<span></span></strong></p><p><strong>Presentations</strong> provide audio/video training of conceptual ideas in each major area or introduction of new concepts.</p><p><strong>Screencasts</strong> provide a video of the instructor's computer system with any actions, commands, or screens displayed and narrated. There are several hours of screencat video content -- it makes up the vast majority of the course.</p><p>Several <strong>attachments</strong> throughout the course provide supplemental information, illustrations, or other reference material.</p>", 
+    "end_date": null, 
+    "title": "Vagrant Quick Start: Virtualized Development Environments", 
+    "price": "20.00", 
+    "instructors": "Jason Taylor", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/744606_4271.jpg", 
+    "course_url": "https://www.udemy.com/vagrant-quick-start/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-28T08:21:37Z"
+}

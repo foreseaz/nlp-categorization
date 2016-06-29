@@ -1,0 +1,25 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Information Technology"
+    ], 
+    "description": "\n\n                    \n                    \n                    Press releases about the theft of sensitive data in unprecedented magnitude clarify again that Internet security is an important issue. Internet users are more likely aware of the many opportunities offered by the network, but less of its potential dangers. This openhpi course introduces the basic concepts of Internet Security: Here you can not only learn what formal security goals are, but also why the Internet is insecure in its basic design. The most common vulnerability of the Internet to demonstrate how this can be exploited and finally, how you can protect yourself.\r\nThe course first explains basic concepts such as \"vulnerability\", \"attack\" or \"security incident\" and clarifies who attackers on the Internet are, what they do and can thereby underlie the motives. Next, the course examines in week 2 with digital identities and passwords: How to (easily) Passwords can be cracked and how to choose a secure password? In week 3, it then goes to malware (malicious software) - ie viruses, worms and Trojans as well as their connection with the so-called botnets. Continue then in week 4 with the dangers that threaten the insecure transport routes in the open internet: How can attacker might listen to news or even engage in compounds and manipulate the communication? In addition, it comes in this week to protective measures such as firewalls and encryption for the insecure communication channels. The topic of encryption is then absorbed in the weeks 5 and 6 further: First, the course explains the conceptual underpinnings of encryption method and shows following the techniques in practice, eg based on PGP, a commonly used tool for E-mail Security .\r\nNo special knowledge is required for this course.\n\n                                            Syllabus\n                        \r\nWeek 1: Basic concepts of Internet security\r\nWeek 2: passwords and digital identities\r\nWeek 3: malware - viruses, worms, Trojans and Botnets\r\nWeek 4: Open Internet, unsafe transportation routes\r\nWeek 5: Introduction to Encryption\r\nWeek 6: Encryption in practice\r\n\n                                    ", 
+    "end_date": "2016-06-26T00:00:00Z", 
+    "title": "Sicherheit im Internet", 
+    "price": 0, 
+    "instructors": "Prof. Dr. Christoph Meinel", 
+    "institution_name": [], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://open.hpi.de/courses/intsec2016", 
+    "duration": "7 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "openHPI"
+    ], 
+    "start_date": "2016-05-08T00:00:00Z"
+}

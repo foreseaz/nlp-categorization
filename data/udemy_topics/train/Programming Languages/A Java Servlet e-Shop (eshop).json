@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t     In this series, we shall develop an &quot;<strong style=\"\">e-shop</strong>&quot; based on the Java <strong style=\"\">Servlet Technology</strong>. This e-shop is a typical Internet <em style=\"\">business-to-consumer</em> (B2C) <em style=\"\">3-tier client/server database application</em>,.  The course is not meant to be a Java tutorial, and basic knowledge of java is desired. Having said that some java will be thought when we are covering Servlet. Throughout the course, we will be using <strong style=\"\">Apache </strong><strong style=\"\">Tomcat, </strong> <strong style=\"\">MySql </strong>Server and <strong style=\"\">Eclipse </strong>IDE.  </p>", 
+    "end_date": null, 
+    "title": "A Java Servlet e-Shop (eshop)", 
+    "price": "20.00", 
+    "instructors": "Johnny Karkar", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/119516_1e24_6.jpg", 
+    "course_url": "https://www.udemy.com/servlet-eshop/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-13T21:24:34Z"
+}

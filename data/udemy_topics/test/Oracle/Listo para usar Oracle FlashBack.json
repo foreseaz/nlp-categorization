@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t    En este tutorial veremos lo que es Oracle FlashBack. Os enseñare a usar esta tecnología. Durante el tutorial podréis aprender conceptos como UNDO, TRANSACCIONES, RESTORACION etc.  </p>  <p>  \t    En este tutorial encontrareis un PDF, un video explicativo, 2 videos adicionales con un ejemplo en vivo de uso de los puntos de restauración y un fichero txt con ejemplos de comandos. El curso completo tarda unos 30 minutos, dividido en 3 partes.  </p>  <p>  \t    Este tutorial es vital para todos aquellos desarrolladores que pueden en un momento de su trabajo, manipular datos, subir código que hace updates (una release por ejemplo) y que quieren tener la seguridad de poner restaurar de forma rápida y sencilla los datos originales. Cualquier modificación en la base de datos puede ocasionar problemas graves para su negocio. Esta tecnología os permite hacer mas cosas peligrosas con mas seguridad. Estaréis a salvo de la perdida de datos o las modificaciones no deseadas del modelo de datos.  </p>  <p>  \t    La ventaja de un tutorial de este formato es que lo podéis usar ya sin dar mas rodeos.  </p>  <p>  \t    Os copio aquí la introducción de la versión original y en el curso tenéis acceso al PDF completo. El párrafo relacionado con FB es el 13 -- Buena suerte a todos:  </p>  <p>  \t    Oracle Flashback Technology is a group of Oracle Database features that that let you  </p>  <p>  \t    view past states of database objects or to return database objects to a previous state  </p>  <p>  \t    without using point-in-time media recovery.  </p>  <p>  \t    With flashback features, you can do the following:  </p>  <p>  \t    ■ Perform queries that return past data  </p>  <p>  \t    ■ Perform queries that return metadata that shows a detailed history of changes to  </p>  <p>  \t    the database  </p>  <p>  \t    ■ Recover tables or rows to a previous point in time  </p>  <p>  \t    ■ Automatically track and archive transactional data changes  </p>  <p>  \t    ■ Roll back a transaction and its dependent transactions while the database remains  </p>  <p>  \t    online  </p>", 
+    "end_date": null, 
+    "title": "Listo para usar Oracle FlashBack", 
+    "price": "20.00", 
+    "instructors": "Luis Diaz", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/293774_6ad4_3.jpg", 
+    "course_url": "https://www.udemy.com/oracle-flashback/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-04T11:14:44Z"
+}

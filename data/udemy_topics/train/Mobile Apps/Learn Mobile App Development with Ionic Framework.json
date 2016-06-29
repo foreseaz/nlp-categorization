@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Mobile Apps are everywhere. They have augmented our phones to help us in myriad of ways starting from booking a movie ticket to a plan our daily expenses. The app development landscape offer tremendous opportunity to programmers but with different native operating systems and languages it is difficult to reach critical mass of users.   </p><p>The process of creating an application is also not as simple as it seems though. It requires extensive coding, building the app, deploying it and then scaling it (when it attracts a lot of users). All of this doesn’t even factor in that creating an app for iOS is completely different from creating an app for Android. Both require a complete different language and process. </p><p><strong>This is where the Ionic framework comes in.</strong></p><p>The Ionic framework is an open source library of mobile-optimized components in JavaScript, HTML and CSS. It provides developers with tools for building robust and optimized apps that work on both, Android and iOS. </p><p>Ionic aims to simplify the process of creating apps for numerous platforms, eliminating the need for duplicating the same code in multiple different languages for different platforms. Additionally, the app can be written in HTML, CSS and JavaScript (no need to learn a new language) and can be deployed on both, iOS and Android. The look and feel of the apps remain similar to the native apps.</p><p>Ionic comes with features such as typography, mobile components, an extensible base theme, and interactive paradigms. The framework is created on AngularJS, making it a powerful SDK for developing robust applications.</p><p>Our ionic course has been created as a one-stop shop for all your Ionic needs. Our Ionic Framework tutorial will help you understand what is Ionic, how can it help you in terms of coding, and how can you maximize it to its full potential.</p><p>This is the only course that teaches you not only the basics of the technology but will also give you the background behind the technology. The course will go over the advantages of mobile apps and will cover basics as well as advanced concepts and technologies.</p><p>Learn Android Studio, SDK tools and Ionic tools, FindFeed App, Angular Controllers, Directives, Services, Google JSON API, Routing, Angular Templates, Firebase, AngularFire, CRUD Functionality, Firebase Service and so much more in this video tutorial.</p><p>If this is not enough, you will also use everything you learn in this course to build a functional mobile app from scratch to get practical knowledge. So, what are you waiting for? Let’s get started and become an app guru.</p>", 
+    "end_date": null, 
+    "title": "Learn Mobile App Development with Ionic Framework", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/785782_ee3f.jpg", 
+    "course_url": "https://www.udemy.com/learn-mobile-app-deveopment-with-ionic-framework/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-08T06:15:09Z"
+}

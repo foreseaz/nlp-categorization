@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>Conditional formatting is one of the best ways to visualize your data by coloring the cells that meet a certain criteria or add different shapes to those cells and <strong>allows you to see the different colors of the rainbow in your data.</strong></p>  <p>In this course, you will learn the basics of conditional formatting in Excel and how to use the built in features.</p>  <p>The course is designed to get you up and running with conditional formatting in 1 hour.</p>  <p>If you want to learn the basics of conditional formatting, then this course is for you.</p>  <p>Course <strong>doesn't include</strong> conditional formatting using formulas as this is an advanced topic in conditional formatting.</p>  <p><strong>So Let's see what you'll learn from this course:</strong></p>  <ul><li><strong>Introduction to conditional formatting</strong>, what it is and what it does.</li><li><strong>Highlight Cell rules</strong> : Highlighting cells based on the comparison of their value to another value, highlighting dates, and highlighting duplicates in a data set.</li><li><strong>Top/Bottom Rules</strong>: Conditionally formatting the top or bottom % of the data and values above or below average.</li><li>Using<strong> Data Bars</strong> in conditional formatting.</li><li>Using <strong>Icon sets</strong> (Creating <strong>Traffic Lights</strong> conditional formatting).</li><li>Using <strong>Color scales</strong> for conditional formatting.</li></ul>", 
+    "end_date": null, 
+    "title": "Excel Conditional Formatting Basics - The built in Features", 
+    "price": "20.00", 
+    "instructors": "Abdelrahman Abdou", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/761134_06d2_3.jpg", 
+    "course_url": "https://www.udemy.com/excel-conditional-formatting-color-cells-at-your-terms/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-13T01:00:03Z"
+}

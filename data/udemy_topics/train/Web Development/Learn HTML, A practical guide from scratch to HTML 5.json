@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\">What is HTML?</strong></p><p style=\"\">HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages. It is written in the form of <strong style=\"\">HTML elements</strong> consisting of tags enclosed in angle brackets (like html). HTML was designed to share web document but internet has evolved a lot since. Now we can share video and audio too.</p><p style=\"\"><strong style=\"\">Why should I learn it?</strong></p><p style=\"\">In Today&#039;s computer centric world, where coding skill comes up with thousands of jobs opportunity, HTML is one of the core skills to get friendly with computer programming. Things doesn&#039;t just end up with HTML but a whole world will get open in front of you.</p><p style=\"\"><strong style=\"\">What will I learn in this course?</strong></p><p style=\"\">This course is bit unique. This course is totally practical oriented and all the theory is covered in such a way that you won&#039;t even realize that theory was covered. We will start from basics like a discussion about choosing best IDE to work, where you can write your code.</p><p style=\"\"><strong style=\"\">What are the exercise files?</strong></p><p style=\"\">Exercise files are free with this course, every chapter that we will discuss will have an exercise file, and these exercise files will help you to write error free code as well as to modify existing code.</p><p style=\"\"><strong style=\"\">What is the best way to master HTML and HTML 5?</strong></p><p style=\"\">If you will talk technically, there is not much drastic difference between HTML and HTML 5. HTML 5 is totally based on HTML 4 and just gives us few new tags to help and make our work easy. The best way to learn is the hard way. This means typing each code on an editor is the best way to learn HTML. We would highly recommend that you take our exercise files as just a reference and don&#039;t rely on them completely. </p>", 
+    "end_date": null, 
+    "title": "Learn HTML, A practical guide from scratch to HTML 5", 
+    "price": "20.00", 
+    "instructors": "Igneus Technologies", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/476408_c234_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-html-a-practical-guide-from-scratch-to-html-5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-14T20:54:33Z"
+}

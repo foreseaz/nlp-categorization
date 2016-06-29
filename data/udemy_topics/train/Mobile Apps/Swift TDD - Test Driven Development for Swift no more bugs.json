@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong></strong></p>\n\n<p><strong>*** Course Last Update 08/05/2016 ***</strong><br></p>\n\n\n\n\n\n\n\n<p><strong>*** Code using Swift 2.2 for iOS 9 ***</strong></p>\n\n\n\n\n\n<p>Did you ever had that feeling that<strong> you fix one bug</strong> and it <strong>creates another two</strong>? Well it maybe because you are and you don't know because you are not adopting <strong>TDD</strong></p>\n\n\n\n\n\n\n\n<p><strong>If you are already a Swift developer</strong> and want to be the best in the field this course is for you, <strong>Test Driven Development also known as <em>TDD </em></strong>is a must have skill for any serious professional or anyone tired of expend precious time \"hunting\" for bugs.</p>\n\n\n\n\n\n\n\n<p><strong>Even the best programmer write bug codes</strong>, it is almost impossible to write the perfect code, even than, what work today may not work tomorrow, frameworks change, APIs change<strong> even the iOS every year</strong> we have a new one. <strong>Now how to find out if your old code is compatible with this new version? And if not what part isn't?</strong> Can you see how a little work before hand can make<em> life much easier in the future?</em></p>\n\n\n\n\n\n\n\n<p><strong>TDD the concept of start development from the test phase</strong>, ensure that all the relevant parts of your code is tested, running the automated test ensure that the new changes you just made didn't create a bug in the old functions.</p>\n\n\n\n\n\n\n\n<p>You may ask, but <strong>how really important is TDD?</strong> Until<em> XCode 5 TDD was a optional check box</em> when creating an app, in<em> XCode 6 <strong>Apple decide that all apps should have TDD</strong></em> so they auto create the Unit tests for you (even if you didn't want to, good on you Apple).</p>\n\n\n\n\n\n\n\n<p><strong>Invest few hours now</strong> and few minutes while doing your applications and I promise you that you <strong>will save a lot of time and headaches in a short future</strong>, be it from clients that find that hidden bug, from your boss that give you long speeches every time one of your items get reopened or from your mother because that app you made to her for mothers day is crashing.</p>", 
+    "end_date": null, 
+    "title": "Swift TDD - Test Driven Development for Swift no more bugs", 
+    "price": "25.00", 
+    "instructors": "Icaro Lavrador", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/608312_5aa1_2.jpg", 
+    "course_url": "https://www.udemy.com/tdd-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-10T18:43:03Z"
+}

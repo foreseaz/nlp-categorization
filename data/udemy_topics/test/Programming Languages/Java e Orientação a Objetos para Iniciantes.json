@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong><em>Curso atualizado em Janeiro de 2016!</em></strong></p>  <p>  \t  Aprenda Orientação a Objetos de uma forma fácil e rápida. Você conhece Orientação a Objetos na vida real, agora iremos transformar esse conhecimento em Orientação a Objetos na programação.  </p>  <p>  \t  Usaremos Java como ferramenta de aprendizado.  </p>  <p>  \t  Fazendo este curso, você terá condições de programar orientado a objetos em qualquer linguagem que usa esse paradigma. Mas, se você não conhece Java, poderá aproveitar para aprender ela no processo.  </p>  <ul>  \t<li>Histórico do Java;</li>  \t<li>Objetos na vida real;</li>  \t<li>Objetos em Java;</li>  \t<li>Classes, Métodos e Atributos;</li>  \t<li>Herança, Classes Abstratas, Interfaces;</li>  \t<li>Modificadores de Acesso;</li>  \t<li>Polimorfismo;</li>  \t<li>Exceções.</li>  </ul>  <p>  \t<strong>Você está preparado para o mercado de trabalho?</strong>  </p>  <p>  \t  O mercado está aquecido como nunca. Nós, da TI, somos disputados pelas empresas. Mas, sem um sólido conhecimento de programação, você não conseguirá colocar na prática todo o seu potencial.  </p>  <p>  \t  Talvez você não pretenda trabalhar com Java. Entretanto, ela é a linguagem de programação mais popular do mercado e conhecendo-a você conseguirá aprender outras tecnologias de forma mais simplificada.  </p>  <p>  \t<strong>Com Orientação a Objetos, você programa na linguagem que quiser!</strong>  </p>  <p>  \t  Qual linguagem você quer trabalhar? Python, Rails, PHP, ou até mesmo Javascript? Todas, sem exceção, são linguagens orientadas a objetos. Não se limite ao básico, desenvolva software de forma elegante e de fácil manutenção.  </p>  <p>  \t  Este curso lhe guiará através do desenvolvimento de um software simples, porém completo. Entenderemos o básico, escreveremos de forma simples e transformaremos em um programa verdadeiramente OO. Desta forma, se você for programador e souber alguma linguagem não orientada a objetos a transição será bastante fácil.  </p>  <p>  \t  Muitos exercícios estarão disponíveis. A cada novo conceito, exercícios lhe darão a segurança de que cada passo será sólido em direção ao aprendizado. Subiremos degrau por degrau, e tenho certeza de que esses serão apenas o primeiros passos rumo ao seu sucesso como programador!  </p>", 
+    "end_date": null, 
+    "title": "Java e Orientação a Objetos para Iniciantes", 
+    "price": "20.00", 
+    "instructors": "Lauro Becker", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/391564_e5d1_2.jpg", 
+    "course_url": "https://www.udemy.com/java-orientacao-a-objetos/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-12T00:11:11Z"
+}

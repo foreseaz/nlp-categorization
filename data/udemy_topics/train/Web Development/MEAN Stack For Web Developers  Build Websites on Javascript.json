@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn all the building blocks of a MEAN stack and the available tools and techniques you can use to rapidly develop and maintain your web application.</p><p><strong>Leverage the knowledge of only one programming language (Javascript) to build your entire stack</strong></p><ul><li>Front End with Angular</li><li>RESTful Backend with Node and Express</li><li>MongoDB database through Mongoose Object Modeling tool</li></ul><p><strong>A smart way to build your application framework faster</strong></p><p><strong></strong>You will start with the boiler plate code of a pre-built stack which is already proven so that there is no time wasted in researching the list of packages you will need and laying out your framework code. To make it convenient, you will use Yeoman generators to create the boiler plate code.</p><p><strong>A powerful combination of web technologies that every web developer should have at his disposal</strong></p><p>If you are in the web development industry, knowing Javascript is quite beneficial since it is the defacto language for front end code. Web development is complicated in itself. Why make it more complicated by using a different language for your backend and then choose a database that has it's own learning curve. </p><p>Of course, the choice of technologies is strongly dictated by the use cases of the application that you are building. But this stack is definitely one to consider and a good choice for most cases. Here you can take advantage of the following powerful combination of technologies:</p><ul><li>Nodejs has been around since 2009 and has experienced increasing adoption among companies including big corporations like Walmart, PayPal Linkedin and the likes.</li><li>Express is a widely adopted minimal and flexible Nodejs web application framework that provides a robust set of features for web and mobile applications.</li><li>MongoDB, the most popular NoSQL database makes it easy for you to store data of any structure and dynamically modify the schema.</li><li>AngularJS gives an extraordinarily expressive, readable and fast way to develop rich front ends for our websites and is supported by an amazing team at Google.</li><li>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.</li></ul><p><strong>Content and Overview</strong></p><p>Through 37 lectures, this course will explain to you the essential building blocks of the MEAN stack and understand it's benefits.</p><p>It will introduce you to free tools like Npm package manager, Bower, Grunt, Yeoman Generators and Git that will help you build and maintain robust web applications. As you install these tools along with the author, you will also learn first hand the benefits of these tools and how to use them.</p><p>Then, you will learn to build a real world web application using all these tools. This course will explain to you all the moving parts of the application and how to work with the framework code to add desired features to your application. </p><p>Finally, you will learn some quick and easy ways to deploy your web application on a hosting provider like Heroku with it's own domain name.</p><p>Throughout, the lectures, you will be provided with the best resources to learn more on any individual technology that you are introduced to as part of this course.</p>", 
+    "end_date": null, 
+    "title": "MEAN Stack For Web Developers: Build Websites on Javascript", 
+    "price": 0, 
+    "instructors": "Vishal Kumar", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/461458_eac0_2.jpg", 
+    "course_url": "https://www.udemy.com/javascript-based-website-in-minutes-using-the-mean-stack/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-28T15:33:30Z"
+}

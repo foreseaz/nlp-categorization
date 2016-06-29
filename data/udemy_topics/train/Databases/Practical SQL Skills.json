@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tThis course is designed to give a detailed introduction to  using and understanding structured query language (SQL) for manipulating  business data. More and more companies rely on IT systems that store information  in databases. This information is typically retrieved using SQL and its use is  becoming widespread amongst not just IT teams but business users also.  </p>  <p style=\"\">  \tThe course contains walk through videos, printed documents of the course material as well as links to resources you need to be able to carry out the course.  </p>  <p style=\"\">  \tThe course is laid out over 3 levels starting with the very basics and assumes no prior SQL knowledge, right up to level 3 where we will be looking at Microsoft SQL Server specific functionality to really harness the power of a SQL database.  </p>  <p style=\"\">  \tIf you need to access any data be it online or within your own company then this course is for you. Financial systems form the hub of any business these days and many job roles require some level of SQL ability. This course will equip you with the knowledge you need to perform these tasks within your business or employment to improve your prospects.  </p>  <p style=\"\">  \tMost business systems utilise some form of SQL database, typically Microsoft SQL Server which is why this course focuses on that particular product. Additionally we can download a free &#039;express&#039; version of the product to work through the course.  </p>  <p style=\"\">  \t<em style=\"\">And the unconditional, Udemy backed, 30 day money-back guarantee is not just any old guarantee, it&#039;s my personal promise to you that you will succeed ... just like my thousands of other Udemy students.</em>  </p>", 
+    "end_date": null, 
+    "title": "Practical SQL Skills", 
+    "price": "30.00", 
+    "instructors": "Gary Kind", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/58351_1dd1_6.jpg", 
+    "course_url": "https://www.udemy.com/practical-sql-skills-from-beginner-to-intermediate/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-05T07:53:18Z"
+}

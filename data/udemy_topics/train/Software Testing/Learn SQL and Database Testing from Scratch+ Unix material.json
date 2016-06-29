@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong style=\"\">You are about to Master in SQL QUERIES AND DATABASE TESTING</strong></p><p><em style=\"\">&quot;No more Boring slides or Definitions. Understand how things work Practically with real time scenarios&quot;</em></p><p><em style=\"\">*********************************************************************************************************</em><em style=\"\"> .</em>Get Access to Top class 60 + Lectures on SQL + Database Testing + Material + Interview Questions + Resume Preparation + Life Time Instructor Support *********************************************************************************************************</p><p>On course completion You will be Mastered in SQL Language with DataBase Testing and can implement Successfully it in your work place or will surely land on High Paying Job</p><p>This course covers :</p><p>Introduction to SQL -- MySQLOverview -- Start up commands to Setup Database andTables -- Database testing to validate Schema -- Altering Table Schema operations -- Queries to retrieve Data Logical operators on Queries -- Wild cards usage in Queries -- SQL Functions with real time scenarios -- Importance of Group By in SQL -- Advanced SQL Concepts -- SubQueries syntax and usage -- SQL Joins usage and its advantages -- Importance of views in Database -- SQL String functions  -- Dataconstraints with DataBase Testing perspective -- Practise Exercises for Interviews with Solutions -- SQL glossary on discussed topics</p>", 
+    "end_date": null, 
+    "title": "Learn SQL and Database Testing from Scratch+ Unix material", 
+    "price": "25.00", 
+    "instructors": "Rahul Shetty", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/508764_e16e.jpg", 
+    "course_url": "https://www.udemy.com/database-testing-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-22T09:34:09Z"
+}

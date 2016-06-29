@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course focuses on teaching individuals the importance of fuzzing\n and how fuzzing can be used for identifying the various software \nsecurity bugs like buffer overflow, directory traversal, etc. The course\n teaches a student everything that is required from setting up tools \nthat are required to actually running the fuzzing scripts and exploiting\n real world applications in Windows. This course is focused on Windows \napplications, however the same principles can be applied to applications\n running on Linux//Unix. </p><p>The course provides all the required \nsoftware that can be downloaded from author's dropbox site. It also \nprovides links to any other software that is required and every tool \nused is opensource or available for free.</p><p>The course is divided in\n to 4 chapters that go from the very basic to advanced level where a \nstudent would fuzz a network service.</p><p>Anyone interested in \nentering and learning about software exploitation and how do people \nidentify 0-days exploits should take this course.</p>", 
+    "end_date": null, 
+    "title": "Fuzzing Development Mega Primer ", 
+    "price": "30.00", 
+    "instructors": "Mr Nicholas Griffin", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/659144_a4c4_3.jpg", 
+    "course_url": "https://www.udemy.com/fuzzing-mega-primer/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-03T17:26:18Z"
+}

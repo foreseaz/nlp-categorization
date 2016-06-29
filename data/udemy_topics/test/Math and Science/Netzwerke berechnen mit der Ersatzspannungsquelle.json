@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>Dieser Kurs ist eine <strong>zielgerichtete Einführung</strong> in das Thema Ersatzspannungsquelle<strong> </strong>(Thévenin-Theorem).</p><p>Anhand von <strong>Beispielen</strong> wird das Berechnungsverfahren, beginnend mit einfachen Beispielen bis zur Berechnung von Netzwerken mir mehreren Spannungsquellen, <strong>Schritt für Schritt</strong> anschaulich erklärt.</p><p>Bereite Dich <strong>effektiv</strong> für die nächste Klausur vor.</p><p>Am Ende des Kurses wirst Du das Prinzip und die Anwendung der Ersatzspannungsquelle verstanden haben und Schaltungen mit Hilfe der Ersatzspannungsquelle berechnen können.</p><p>So, wie es Du für Klausuren und Prüfungen<strong> zum Fachabitur</strong>, in der <strong>Meister-</strong> oder <strong>Technikerschule</strong> oder in den <strong>ersten Semestern an einer Hochschule</strong> benötigst.</p><p>Die Bearbeitung der einzelnen Beispiele erfolgt in <strong>vier Schritten</strong>:</p><ol><li>Vorstellung der Schaltung</li><li>Umwandlung der Schaltung in eine Ersatzspannungsquelle</li><li>Berechnung der Ersatzschaltung</li><li>Simulation der Originalschaltung und Ersatzschaltung</li></ol><p>Durch diese Struktur ist der Kurs sowohl für den <strong>Einstieg in die Netzwerkberechnung</strong> als auch zur <strong>gezielten Prüfungsvorbereitung</strong> geeignet.</p>", 
+    "end_date": null, 
+    "title": "Netzwerke berechnen mit der Ersatzspannungsquelle", 
+    "price": "25.00", 
+    "instructors": "Wolfgang Bengfort", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/600222_cb77_3.jpg", 
+    "course_url": "https://www.udemy.com/netzwerke-berechnen-mit-der-ersatzspannnungsquelle/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-02T10:12:27Z"
+}

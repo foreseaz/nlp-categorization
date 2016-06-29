@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t For Java, Why do we need a Build Tool like <strong style=\"\">Maven</strong>, when we have an Integrated Development Environment (IDE) ?  </p>  <p>  \t        Doing a Java build in an IDE is OK “<em style=\"\"><strong style=\"\">Only</strong></em>” when it’s a<em style=\"\"> simple project</em>, for a <em style=\"\">single developer</em> but once you go beyond that things start getting complicated and you&#039;ll need a build tool, such as <strong style=\"\">Maven</strong>.  </p>  <p>  \t        With complicated Java and Spring Framework projects you need to think about many more things. For example; other project dependencies, sharing code, version control etc...  </p>  <p>  \t <strong style=\"\">Maven 101</strong>, is an introduction to the widely used Java Build Automation Tool - Apache Maven and is completely hands-on. The course is easy to follow and uses Maven from both the command line and through an Integrated Development Environment (IDE).  </p>  <p>  \t              You will learn how to install and set up the environment correctly, so you can use Maven from the command line and from the Eclipse IDE.  </p>  <p>  \t             Learn how to use Maven in &#039;<strong style=\"\"><em style=\"\">Real World Java</em></strong>&#039; scenarios, so you can apply your new knowledge in &#039;<strong style=\"\"><em style=\"\">Real World</em></strong> <em style=\"\"><strong style=\"\">Java</strong></em>&#039; projects, straight away!  </p>  <p>  \t    Using examples you will learn about the<strong style=\"\"> Maven Repository</strong>, <strong style=\"\">Plugins</strong>, <strong style=\"\">LifeCycles</strong>, <strong style=\"\">Customizing the LifeCycles</strong> and<strong style=\"\"> Transitive Dependencies</strong>, How to make the most of the Eclipse IDE and its <strong style=\"\">m2Eclipse </strong>plugin to view and resolve project dependencies.  </p>  <p>  \t<em style=\"\">You will be up and running with Maven in only <strong style=\"\">4 hours</strong>!!</em>  </p>", 
+    "end_date": null, 
+    "title": "Java Maven :101 Stop Building Java Programs the Hard Way!", 
+    "price": "20.00", 
+    "instructors": "Bruce E. Hilton", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/222628_dd5a_15.jpg", 
+    "course_url": "https://www.udemy.com/apachemaven/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-19T10:00:28Z"
+}

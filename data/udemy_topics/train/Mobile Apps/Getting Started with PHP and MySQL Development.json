@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>PHP is an object oriented general purpose language suitable for a wide variety of tasks. In this course, we'll learn how to use PHP as a server-side scripting language for use in web development.</p>    <p>MySQL is a general purpose relational database management system (RDBMS) used mainly to provide a back-end database for web applications. In this course, we'll introduce the concepts of relational database management systems in general, and how they relate to MySQL in particular.</p>    <p>Unlike traditional courses that concentrate mainly on theory, we'll take a practical “how-to” approach to working with data. Here's what you'll learn:</p>    <p>The course cover following topics:</p>    <p>PHP</p>  <ul><li> basic syntax, variables,loops and decision constructs. </li><li>Object oriented features </li><li>String functions.</li><li>Arrays </li><li>REQUEST, GET, and POST </li><li>Integrate MySQL databases with PHP. </li><li>Creating databases and tables</li><li>Adding data to a table with INSERT</li><li>Reading a table with SELECT</li><li>How to use WHERE to filter data</li><li>Using ORDER BY to sort data</li><li>JOINs and how to use them to read from multiple tables</li><li>Changing data in a table with UPDATE</li><li>The DELETE query: removing one or more rows of data from a table</li><li>Using a text file to load a database schema</li></ul>            <p>MySQL</p>                        <p>I hope you enjoy the course, and I look forward to working with you!</p>", 
+    "end_date": null, 
+    "title": "Getting Started with PHP and MySQL Development", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/640284_5eaa_2.jpg", 
+    "course_url": "https://www.udemy.com/getting-started-with-php-and-mysql-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-14T12:01:07Z"
+}

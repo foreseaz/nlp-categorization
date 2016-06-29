@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    In this course we will build an iPhone app that records a conversation between you and a friend, and then makes your voices sound like a Chipmunk or Darth Vader.\n\nThis course will introduce you to iOS app development in Swift, a new programming language from Apple, and serves as your launching point into the [iOS Developer Nanodegree](https://www.udacity.com/course/nd003).Why Take This Course?This course will set you on your way to becoming an iOS Developer, where you’ll establish a basic understanding of the iOS ecosystem. You’ll also have working knowledge of Swift, Apple’s custom programming language created exclusively for the mobile developer.\n\n                                            Syllabus\n                        ###Lesson 1: Introduction and Xcode\nIntroduction to Swift and Xcode, taking the first steps in becoming an iOS developer.\n###Lesson 2: AutoLayout and Buttons\nLearn Storyboard, AutoLayout, UIButtons and UILabels. Start developing the Pitch Perfect App and creating the user interface.\n###Lesson 3: ViewController &amp; Multiple Views\nView Controllers, View Controller Lifecycle, and Multiple Views. Learn how to react to touch events and change the user interface based on those events.\n###Lesson 4: Delegation and Recording\nIntroduction to AVAudioRecorder, Delegation, and programatic segues. Setup audio recording in the Pitch Perfect App.\n###Lesson 5: Playback and Effects\nSetup audio playback including rate, pitch, echo, and reverb. Learn about UIStackViews and class extensions.\n###Final App Submission (1 hour)\nIn this final lesson, you will ensure that your app works according to a rubric we have designed, and will also have an opportunity to add new features to your app. We will also share with you a Code Review document that contains suggestions from an external reviewer on how to improve your code. We will request that you implement those suggestions to enhance your code and make it ready for the app store. Finally, to complete the course, you will submit your app to a Udacity coach for a thorough evaluation of your work.\n                                    ", 
+    "end_date": "2014-12-17T00:00:00Z", 
+    "title": "Intro to iOS App Development with Swift", 
+    "price": 0, 
+    "instructors": "Kunal Chawla", 
+    "institution_name": [], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585?utm_medium=referral&utm_campaign=api", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2014-11-19T00:00:00Z"
+}

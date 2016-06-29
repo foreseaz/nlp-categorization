@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   In this hands-on course, trainer Jesse Feiler will teach you how to build an iOS or OS X app using Objective-C and Xcode. This tutorial series is designed for those who have some programming knowledge, although no experience with Objective-C is required. You will start by learning how to work with Xcode, including how to edit code, use the utility area, find and search, and track changes. From there, Jesse will teach you about Objective-C and how to communicate with messages.  </p>  <p style=\"\">  \tThis video tutorial will also teach you how to add and customize your own code, create new classes and methods, and manage declared properties. You will also learn how to work with the built-in debugger, as well as use protocols and delegates, work with class extensions, and use blocks. Finally, you will learn how to handle exceptions and use selectors. Once you have completed this computer based training course, you will be fully capable of building your own app from an Xcode template, and be able to customize it to your own preferences.  </p>", 
+    "end_date": null, 
+    "title": "Learning Objective-C Programming", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/396128_b1d3_5.jpg", 
+    "course_url": "https://www.udemy.com/learning-objective-c-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-16T22:27:15Z"
+}

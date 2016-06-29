@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t                      With the increased performance capabilities of PCs, applications have a lot of extra resources to waste, making it easier to get a decent frame rate without optimising your game.  </p>  <p>  \t                          This is certainly not the case on mobile platforms, however, and trying to build a game can be extremely tricky if you do not have the knowledge on how to profile your app and predict the performance costs of the features you implement.  </p>  <p>  \t                      In this course we&#039;ll cover fundamental concepts such as how each frame is processed by the CPU and GPU, as well as what role memory usage plays, all the way to more practical topics and how to profile your game.  </p>  <p>  \t                      Each subject that&#039;s covered also includes various links to articles and documentation, making this course a useful shortcut to other resources.  </p>  <p>  \t                      The aim of this course is to give you a running start into the mysterious world of game optimisation and will mainly focus on teaching the underlying principles of various optimisation techniques, as well as when to use them.  </p>", 
+    "end_date": null, 
+    "title": "Optimizing Mobile Games in Unity3D", 
+    "price": "20.00", 
+    "instructors": "Ariel Galleano Schoch", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/350832_c509_5.jpg", 
+    "course_url": "https://www.udemy.com/optimize-mobile-games-unity3d/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-19T13:10:04Z"
+}

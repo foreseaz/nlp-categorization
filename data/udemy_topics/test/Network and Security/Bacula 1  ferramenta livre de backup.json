@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t  O treinamento apresenta teoria e prática de Backups , cobrindo instalação, recuperação, backup de ferramentas específicas, “disaster recovery” e diversos outros aspectos importantes para Backups seguros e confiáveis. Serão simuladas situações reais de gravação e recuperação de dados.  </p>  <p style=\"\">  \t  Objetivos: Preparar técnicos e/ou administradores de redes para implementar e administrar o Bacula enquanto sistema de backups.  </p>  <h4 style=\"\">Ementa:</h4>  <p style=\"\">  \t  * Tipos, mitos, topologias e estratégias de backup (GFS).  </p>  <p style=\"\">  \t  * Principais Recursos do “Bacula”  </p>  <p style=\"\">  \t  * Instalação e Configuração do Servidor “Bacula” no Linux  </p>  <p style=\"\">  \t  * Instalação e Configuração do Cliente “Bacula” (Linux e Windows)  </p>  <p style=\"\">  \t  * Configuração e Operação de “Storages” em Disco, Fita Magnética e Robô-de-fitas.*  </p>  <p style=\"\">  \t  * Comandos do “Bacula”  </p>  <p style=\"\">  \t  * Restauração completa e parcial de dados  </p>  <p style=\"\">  \t  * Restauração Cruzada  </p>  <p style=\"\">  \t  * Restauração do banco-de-dados do Bacula  </p>  <p style=\"\">  \t  * Run e After Backup scripts  </p>  <p style=\"\">  \t  * Backup de aplicações específicas: máquinas virtuais, bancos de dados, servidores de email, etc.  </p>  <p style=\"\">  \t  * Restauração do Servidor de Backups  </p>  <p style=\"\">  \t  * Cópia e Migração de Volumes  </p>  <p style=\"\">  \t  * Desduplicação de Arquivos  </p>  <p style=\"\">  \t  * Compactação de Dados  </p>  <p style=\"\">  \t  * Exercícios  </p>", 
+    "end_date": null, 
+    "title": "Bacula 1: ferramenta livre de backup", 
+    "price": "50.00", 
+    "instructors": "Heitor Medrado De Faria", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/259154_0a78_3.jpg", 
+    "course_url": "https://www.udemy.com/bacula-ferramenta-livre-de-backup/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-10T17:56:34Z"
+}

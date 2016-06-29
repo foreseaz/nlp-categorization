@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">Working with TFS 2015 Dev and QA focused </em></strong>course is designed in such a way that anyone with <strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">Zero </em></strong>knowledge in TFS can start learning it and understand how powerful and robust TFS is compared to any other tool available in market.</p>\n\n<p>Team Foundation Server provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes</p>\n\n\n\n<p>TFS is more of a</p>\n\n\n\n<ul><li><strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">Version control system</em></strong></li><li><strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">Requirement management system</em></strong></li><li><strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">Project Management system</em></strong></li><li><strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">Automated build management system</em></strong></li><li><strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">Testing and release management system </em></strong></li><li><strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">All, the above is otherwise called as Application Lifecycle Management System</em></strong></li></ul><p>With <strong>vNext build definition</strong> introduced in Team foundation server 2015, it is now much easier to create build definition steps via GUI interface in TFS 2015 web compared to XAML build definition used in previous versions of TFS.</p>", 
+    "end_date": null, 
+    "title": "Working with TFS 2015 Dev and QA focused", 
+    "price": 0, 
+    "instructors": "Mr Karthik KK", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/829656_8692_3.jpg", 
+    "course_url": "https://www.udemy.com/tfs-2015-dev-and-qa-focused/", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-23T00:57:56Z"
+}

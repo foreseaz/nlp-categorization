@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Would you like to be a data warehouse expert with Independent\nConcept Data Warehouse Training? In order to professionalize you at this topic,\nwe gathered up all of the trainings and performed the application of the\ntheorical informations to provide a better education. </p><p>After obtaining these informations, you’ll learn the Data Warehouse systems and its properties. In this training, all of the abilities that a Data Warehouse &amp; Business intelligence specialist must have will be explained. In the end of the course, we’ll present a live sample of data warehouse. By using ODI (Oracle Data Integration) in the training’s content, you won’t need to do extra payment for the training of ETL tools. You’ll be able to have a wide range of informations over the topics listed bellow:<br></p><p><strong>Data Warehouse </strong></p>  <ul><li>Data ,Entegration,Knowledge</li><li>Data Warehouse Definition</li><li>ETL/ELT Architecture</li><li>Incremental Load</li><li>Batch Load</li><li>Real Time Load</li><li>Change Data Capture</li><li>Real Time</li><li>Continuosly</li><li>Batch</li><li>Slowly Changing Dimension</li><li>Data Modelling</li><li>Conceptual Data Model</li><li>Logical Data Model</li><li>Physical Data Model</li><li>Fact Table</li><li>Dimension Table</li><li>Operational Database Properties and structure(OLTP)</li><li>Data Warehouse Schema Architecture</li><li>Stagingn Area Properties and structure(STG)</li><li>Operational Data Store Properties and structure(ODS)</li><li>Datawarehouse Properties and structure(DWH)</li><li>Datamart Properties and structure(DM)</li><li>Data Profiling</li><li>Data Quality</li><li>Data Cleaning</li><li>Metadata Management</li><li>End to End Data Warehouse Project Demo</li></ul>                                                                        <p><br></p>    <p><strong>ODI (Oracle Data Integrator)</strong></p>    <ul><li>Introduction to Oracle Data Integrator 11g</li><li>Introduction to oracle Data integrator</li><li>ODI Studio Components</li><li>ODI Repositories</li><li>Creating Master Repository</li><li>Creating work Repository</li><li>Overview of Topology Navigator</li><li>Creating Physical Architecture</li><li>Creating a Data Server</li><li>Testing a Data Server Connection</li><li>Creating a Physical Schema</li><li>Creating Logical Architecture</li><li>Overview of Logical Architecture and Context Views</li><li>Linking the Logical and Physical Architecture</li><li>Understanding Metadata in ODI</li><li>Understanding Reverse Engineering</li><li>Creating Models</li><li>Organizing Models</li><li>Creating Data stores</li><li>Overview of ODI Projects</li><li>Creating a New Project</li><li>Introduction to Knowledge Modules</li><li>Types of Knowledge modules</li><li>Creating a Basic Interface</li><li>Designing an Interface</li><li>Integration knowledge module (IKM) overview</li><li>Using Knowledge Modules (KM) with ODI Interface</li><li>Executing the interface</li><li>Operator Overview</li><li>Viewing the session log in operator</li><li>Exploring the code in operator</li><li>Creating simple mappings</li><li>Setting knowledge module option Truncate to True</li><li>Join Transformations</li><li>Set Operators Transformations</li><li>Implementing SCD Type-1 Transformations</li><li>Implementing SCD Type-2 Transformation</li><li>Creating Packages in ODI</li></ul><p><strong></strong></p><p><strong>Why you should have this course?</strong></p><p>Because; </p><p>I’m not just talking about the concept, but with its installations, I’m moving on with examples over ODI suitable for data warehouse structure and heavily used in the sector.</p><p>Despite the course language is English, I’m providing English subtitles support in order not to miss important points.</p><p>With various documents and end-of-chapter quizes, I aim to reinforce the topics.</p><p>As being more than 10 years in the sector and being an instructor in companies that have big DWH structures, I provide this course.</p><p>You are choosing an instructor that can provide support for any type of questions about the training or about DWH structures that does not fall within the training.<span></span></p>                                                                            <p><strong></strong></p>", 
+    "end_date": null, 
+    "title": "Learn Data Warehouse and ODI 11g - Step by Step Guide", 
+    "price": "40.00", 
+    "instructors": "Yusuf Arslan, Mustafa Aksoy", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/695230_599f.jpg", 
+    "course_url": "https://www.udemy.com/learn-data-warehouse-and-odi-11g-step-by-step-guide/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-11T23:20:27Z"
+}

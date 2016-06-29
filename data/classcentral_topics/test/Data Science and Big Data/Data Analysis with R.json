@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    Exploratory data analysis is an approach for summarizing and visualizing the important characteristics of a data set. Promoted by [John Tukey](http://en.wikipedia.org/wiki/John_Tukey), exploratory data analysis focuses on exploring data to understand the data’s underlying structure and variables, to develop intuition about the data set, to consider how that data set came into existence, and to decide how it can be investigated with more formal statistical methods.\n\nIf you're interested in supplemental reading material for the course check out the Exploratory Data Analysis book. (Not Required)\n\nThis course is also a part of our Data Analyst Nanodegree.Why Take This Course?You will...\n\n*   Understand data analysis via EDA as a journey and a way to explore data\n*   Explore data at multiple levels using appropriate visualizations\n*   Acquire statistical knowledge for summarizing data\n*   Demonstrate curiosity and skepticism when performing data analysis\n*   Develop intuition around a data set and understand how the data was generated.\n\n                                            Syllabus\n                        ### Lesson 1: What is EDA? (1 hour)\nWe'll start by learn about what exploratory data analysis (EDA) is and why it is important. You'll meet the amazing instructors for the course and find out about the course structure and final project.\n\n### Lesson 2: R Basics (3 hours)\nEDA, which comes before formal hypothesis testing and modeling, makes use of visual methods to analyze and summarize data sets. R will be our tool for generating those visuals and conducting analyses. In this lesson, we will install RStudio and packages, learn the layout and basic commands of R, practice writing basic R scripts, and inspect data sets.\n\n### Lesson 3: Explore One Variable (4 hours)\nWe perform EDA to understand the distribution of a variable and to check for anomalies and outliers. Learn how to quantify and visualize individual variables within a data set as we begin to make sense of a pseudo-data set of Facebook users. While the data set does not contain real user data, it does contain a wealth of information. Through the lesson, we will create histograms and boxplots, transform variables, and examine tradeoffs in visualizations.\n\n### Problem Set 3 (2 hours)\n\n### Lesson 4: Explore Two Variables (4 hours)\nEDA allows us to identify the most important variables and relationships within a data set before building predictive models. In this lesson, we will learn techniques for exploring the relationship between any two variables in a data set. We'll create scatter plots, calculate correlations, and investigate conditional means.\n\n### Problem Set 4 (2 hours)\n\n### Lesson 5: Explore Many Variables (4 hours)\nData sets can be complex. In this lesson, we will learn powerful methods and visualizations for examining relationships among multiple variables. We'll learn how to reshape data frames and how to use aesthetics like color and shape to uncover more information. Extending our knowledge of previous plots, we'll continue to build intuition around the Facebook data set and explore some new data sets as well.\n\n### Problem Set 5 (2 hours)\n\n### Lesson 6: Diamonds and Price Predictions (2 hours)\nInvestigate the diamonds data set alongside Facebook Data Scientist, Solomon Messing. He'll recap many of the strategies covered in the course and show how predictive modeling can allow us to determine a good price for a diamond. As a final project, you will create your own exploratory data analysis on a data set of your choice.\n\n### Final Project (10+ hours)\nYou've explored simulated Facebook user data and the diamonds data set. Now, it's your turn to conduct your own exploratory data analysis. Choose one data set to explore (one provided by Udacity or your own) and create a RMD file that uncovers the patterns, anomalies and relationships of the data set.\n                                    ", 
+    "end_date": "2014-05-07T00:00:00Z", 
+    "title": "Data Analysis with R", 
+    "price": 0, 
+    "instructors": "Moira Burke and Dean Eckles", 
+    "institution_name": [
+        "Facebook"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.udacity.com/course/data-analysis-with-r--ud651?utm_medium=referral&utm_campaign=api", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2014-03-12T00:00:00Z"
+}

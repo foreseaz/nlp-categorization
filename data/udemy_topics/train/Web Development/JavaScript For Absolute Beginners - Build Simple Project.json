@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>A complete and comprehensive JavaScript Introduction course for absolute beginners. In this course you'll learn the basics of JavaScript, how JavaScript works and how to implement it in HTML.  </p><p>If you're new to web development and having a hard time how to implement web development languages in your HTML code then this course is great for you.</p><p>The syntax of JavaScript is quite familiar with other programming languages so after taking this course you'll have basic knowledge how programming languages work and you can take more advance courses after this.</p><p><strong>This course is divided into two sections:</strong></p><p><strong>Basics of JavaScript</strong></p><ul><li>JavaScript Output</li><li>JavaScript Variables</li></ul><ul><li>JavaScript Arrays</li></ul><ul><li>JavaScript The For Loop</li></ul><ul><li>JavaScript Functions</li></ul><ul><li>JavaScript If/Else Statements</li></ul><p><br></p><p><strong>Building a birth year finder application</strong></p><ul><li>Birth of year finder Web Application</li><li>Basic Markup</li><li>Implementing JavaScript</li></ul><p><strong><br></strong></p><p><strong><br></strong></p><p><strong><br></strong></p>", 
+    "end_date": null, 
+    "title": "JavaScript For Absolute Beginners - Build Simple Project", 
+    "price": 0, 
+    "instructors": "Mr Kashif Iqbal", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/620024_82a1.jpg", 
+    "course_url": "https://www.udemy.com/javascript-for-absolute-beginners-learn-the-basics/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-23T05:25:09Z"
+}

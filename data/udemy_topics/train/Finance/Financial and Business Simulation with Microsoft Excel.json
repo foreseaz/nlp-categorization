@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>&quot;What will be the stock price tomorrow?&quot;</p><p>&quot;How many customer orders will we receive?&quot;</p><p>&quot;What is the chance our project will finish on time?&quot;</p><p>To answer those questions, you need a tool to model and then predict the future. </p><p>In this course, we show you how to  better predict the future, make more profits and advance your career by using Microsoft Excel!</p><p>The course will teach you:</p><ul style=\"\"><li>How to model a coin-toss type of events:  Will Red Sox win the next game?  Will Apple Stock go up or down?</li><li>How to model a random quantity: project completion time, stock portfolio value etc..</li><li>Some most useful statistical distributions in business, such as the normal distribution</li><li>How to use uncertainties to your advantage and make optimal business decisions</li></ul><p>You will discover the huge untapped potential by learning to simulate uncertain quantities (demand, stock prices, time...) and use them to make better business decisions - and more money - today! </p>", 
+    "end_date": null, 
+    "title": "Financial and Business Simulation with Microsoft Excel", 
+    "price": "20.00", 
+    "instructors": "Justin Ren", 
+    "commitment": "31 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/460652_d867_3.jpg", 
+    "course_url": "https://www.udemy.com/simulation/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-27T14:33:15Z"
+}

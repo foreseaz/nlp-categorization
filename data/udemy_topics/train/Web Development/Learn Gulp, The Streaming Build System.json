@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">This comprehensive course covers everything a developer needs to know to effectively use Gulp in day-to-day situations and in the workplace.</p><p style=\"\">We will cover all main Gulp topics in this series, including what Gulp is, Installation, Plugins and automating a project using a Gulpfile.</p><p style=\"\">You will learn:</p><p style=\"\">• How to install Gulp on your Mac or PC<br style=\"\">• How to run Gulp from the command line and use the Gulp command-line arguments<br style=\"\">• How Gulp works and when you should use it<br style=\"\">• About various essential Gulp plugins including gulp-less, gulp-concat and gulp-uglify<br style=\"\">• How to run Gulp tasks in sequence<br style=\"\">• How to run Gulp tasks automatically when certain files are updated<br style=\"\">• How to write a fully-fledged Gulpfile to manage a complex project<br style=\"\"><br style=\"\">Gulp is a very powerful and easy-to-use tool. By taking this tutorial series, you will be able to use Gulp in all your day-to-day projects. You will understand how to write a Gulpfile, what plugins to download, and how to configure them using the Gulp API.</p><p style=\"\">Best of all, we&#039;ll tackle a full Gulpfile in a hands-on workshop where we&#039;ll need to automate LESS, JavaScript and HTML processing. We&#039;ll use gulp-uglify, gulp-less, browser-sync and more, all in real time, so you can code along at home.</p><p style=\"\"><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Learn Gulp, The Streaming Build System", 
+    "price": "25.00", 
+    "instructors": "Daniel Stern", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/477250_ac4b_2.jpg", 
+    "course_url": "https://www.udemy.com/gulp-101/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-15T16:29:21Z"
+}

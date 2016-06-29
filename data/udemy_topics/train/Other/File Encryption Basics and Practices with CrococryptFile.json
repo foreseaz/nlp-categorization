@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this course, you\nwill learn how to use CrococryptFile, the open-source <strong>file encryption</strong>\nsolution. Learn what <strong>encryption</strong> means <strong>on the technical level</strong> – as a\nbackground information to choose the right file encryption method for\nyour case. If you care about privacy and if you are willing to do\nsomething about it, you are already on the right track. This applies\nfor enterprise and private users alike.</p><p>First, you will get an\nintroduction on encryption in general to understand the\ncharacteristics of the different existing technologies. Then, we will\ngo through the application family step-by-step: Windows, Linux,\nWeb-based and Command-line interface.</p><p><em>IT background would be\na plus but is not required to take this course.</em></p>", 
+    "end_date": null, 
+    "title": "File Encryption Basics and Practices with CrococryptFile", 
+    "price": 0, 
+    "instructors": "Dipl.-Inform. Frank Hissen", 
+    "commitment": "43 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/730006_a4dd_2.jpg", 
+    "course_url": "https://www.udemy.com/file-encryption-basics-and-practices-with-crococryptfile/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-16T14:04:45Z"
+}

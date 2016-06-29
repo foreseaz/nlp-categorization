@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t  Oracle Service Contracts enables you to create and manage the Service Agreements, Warranties, Extended Warranties. <span>This includes service contracts for:</span>  </p>  <ul style=\"\">  \t<li><span>Counter-based usage items like printers or photocopiers</span></li>  \t<li><span>Subscriptions such as a cloud-based software subscription charging monthly fees</span></li>  \t<li><span>Complex repair and maintenance service agreements such as Aircraft maintenance</span></li>  \t<li><span>Service Contracts provides visibility to contract entitlements and assists users in acting upon contractual commitments within the contract.</span></li>  </ul>  <p>  \t This course will introduce you to Oracle Service Contracts solution, and its associated user interface in both Jave based and HTML based forms.  </p>", 
+    "end_date": null, 
+    "title": "Introduction to Oracle Service Contracts", 
+    "price": "20.00", 
+    "instructors": "Kabeer Khan", 
+    "commitment": "33 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/239872_4312_3.jpg", 
+    "course_url": "https://www.udemy.com/oracle-services-procurement-fundamentals/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-09T07:23:45Z"
+}

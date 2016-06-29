@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>\n<span style=\"\">This\ncourse introduces <span style=\"\"> </span>the basics of</span></p><p style=\"\"><span style=\"\">programming\nfor the web using HTML, CSS, and JavaScript.</span></p><p style=\"\"><span style=\"\">This\nis a beginners course that teaches students how to build</span></p><p style=\"\"><span style=\"\">the\nvisual and interactive components of a website. Students</span></p><p style=\"\"><span style=\"\">learn\nhow to create the structural foundation of a site</span></p><p style=\"\"><span style=\"\">(HTML),\nstyle it (CSS), and add logic to control the behaviour</span></p><p style=\"\"><span style=\"\">(JavaScript)\nof their website. Students gain an understanding</span></p><p style=\"\"><span style=\"\">of\nhow the web works and customize their sites using their</span></p><p style=\"\"><span style=\"\">own\ndesigns and ideas. By the end of this course, students</span></p><p style=\"\"><span style=\"\">should\nbe able to:</span></p><p style=\"\"><span style=\"\">‣</span><span style=\"\"> </span><span style=\"\">Explain how the web works</span></p><p style=\"\"><span style=\"\">‣</span><span style=\"\"> </span><span style=\"\">Create the structure and style of a\nwebsite using HTML</span></p><p style=\"\"><span style=\"\">and\nCSS</span></p><p style=\"\"><span style=\"\">‣</span><span style=\"\"> </span><span style=\"\">Apply interactivity to a site using\nprogramming</span></p><p style=\"\"><span style=\"\">fundamentals\nin JavaScript</span></p><p style=\"\"><span style=\"\">‣</span><span style=\"\"> </span><span style=\"\">Host a website on a server</span></p><p style=\"\"><span style=\"\">‣</span><span style=\"\"> </span><span style=\"\">Know the basic technical vocabulary to\ncommunicate</span></p><p style=\"\"><span style=\"\">with\nfront-end web developers</span><span style=\"\"></span></p>", 
+    "end_date": null, 
+    "title": "Learn to Become A Frontend Web Developer:  A Beginner Course", 
+    "price": "20.00", 
+    "instructors": "Bluelime Learning Solutions", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/653948_e3bf_2.jpg", 
+    "course_url": "https://www.udemy.com/frontend-web-development-for-beginners-learn-by-creating/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-28T22:35:47Z"
+}

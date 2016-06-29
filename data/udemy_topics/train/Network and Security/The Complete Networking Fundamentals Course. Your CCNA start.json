@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Welcome to the Complete Network Fundamentals Course! In this course, you will learn the technologies that keep the world as you know today connected and running.</p><p>Networks are all around us and you are using one right now to access this course.</p><p><strong><u>Imagine</u></strong> for a moment, how different your life would be without access to Facebook, Snapchat, Google, YouTube, Whatsapp or any of the other websites on the Internet? How would you live with <strong><u>no Internet</u></strong>?</p><p>The Internet is extremely important in modern life today and all websites and Internet communication relies on networking. This reliance is only predicted to continue with the growth of the Internet of Things (IoT) in the next few years.</p><p><strong>Without routers, switches, network cabling and protocols like BGP there would be no Internet!</strong></p><p><strong>This course will teach you how networks actually work </strong>and how you are able to connect to websites like Facebook, Google, and YouTube.<br></p><p>Companies throughout the world (from the smallest to the largest) rely on networks designed, installed and maintained by networking engineers. Join this in demand industry!<br></p><p><strong>Start your journey today learning about networking.</strong></p><p>Content in this course can be used towards <strong>your CCNA. </strong>Topics such as IP addressing, subnetting and many others can be applied directly to passing your CCNA certification.<br></p><p>Access our online simulations so you <strong>can practice</strong> on simulated Cisco routers and switches. You will get to type commands such as enable, configure terminal, router ospf and many others and learn how to configure devices.</p><p>I want to welcome you to this Complete Networking Fundamentals course! I'm David Bombal, and I have been teaching networking  courses for over 15 years. I qualified as a Cisco Certified  Interwork Engineer (CCIE) in 2003 and hold with numerous other networking certifications. I'm also a Cisco and HPE  certified instructor where I have trained thousands of networking engineers in many of the largest  companies in the world including Fortune 100 companies. </p><p>I have designed this course for anyone wanting to learn more\nabout networking and gain foundational knowledge, to help them embark on their\nnetworking career. The concepts taught in this course can be applied directly\nto multiple industry certifications including the Cisco Certified Network\nAssociate (CCNA).<br></p><p>In this course, you will learn about topics such as IP addressing, IP subnetting, Routing, Switches, VLANs, Spanning Tree, Network Address Translation, Wireless and a whole lot more.<br></p><p>You will also learn more about the latest networking trends including OpenFlow and Software Defined Networking.</p><p>The course covers the following topics including (and this list will be constantly updated):<br></p><ul><li>Network basics</li><li>Network architectures (OSI Model)</li><li>What are hubs, switches, routers?</li><li>How is data forwarded through a network?</li><li>IP addresses</li><li>IP subnetting</li><li>Cabling and network topologies</li><li>Ethernet basics</li><li>TCP and UDP</li><li>DNS and DHCP</li><li>Routing</li><li>VLANs</li><li>Cisco device initial configurations</li><li>ACLs</li><li>Network naming</li><li>IP Telephony</li><li>Quality of Service (QoS)</li><li>SDN and OpenFlow</li></ul><p><br></p><p>At the end of this course, you will be able to confidently discuss networking topics; and be able to start configuring real networking devices such as routers and switches. In this an introductory course, but contains a lot of information that can be directly applied to the CCNA certification.</p>  <p>The ideal student for this course is someone looking to break into the networking field, someone looking to extend their knowledge from PCs and servers to networking, or someone interested in getting knowledge to work in one of the most exciting, most in-demand jobs in IT - networking.<br></p>  <p>There are no requirements necessary to enroll in this course, I only ask that you come open minded and ready to learn.</p>  <p>Feel free to take a look at the course description and some of the sample free videos.<br></p>  <p>I look forward to seeing you on the inside!</p><p><br></p>", 
+    "end_date": null, 
+    "title": "The Complete Networking Fundamentals Course. Your CCNA start", 
+    "price": "45.00", 
+    "instructors": "David Bombal", 
+    "commitment": "17 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/751094_fb27_2.jpg", 
+    "course_url": "https://www.udemy.com/complete-networking-fundamentals-course-ccna-start/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-03T10:28:13Z"
+}

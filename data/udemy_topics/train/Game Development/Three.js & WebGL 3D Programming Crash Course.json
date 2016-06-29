@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn how to create interactive 3D experiences such as web application and games. A step by step process is used to show everything from setting up to creating interactive 3D worlds.</p>\n\n<p>Gain a good understanding of the following concepts:</p><ol><li>3D design</li><li>Model loading</li><li>World/Scene generation</li><li>User interaction</li><li>Three.js and WebGL programming</li><li>Game development</li></ol><p>Three.js allows you to create amazing 3D web applications to target the biggest market in the world, <strong>THE WEB</strong>. Now with the boom of smart phones the audience is growing rapidly.</p>\n\n<p>You will be provided with the full source code to aid in development during and after this course. The source code is free to use in as many projects as you wish.</p>", 
+    "end_date": null, 
+    "title": "Three.js & WebGL 3D Programming Crash Course", 
+    "price": "20.00", 
+    "instructors": "Frahaan Hussain", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/767596_15e5_2.jpg", 
+    "course_url": "https://www.udemy.com/threejs-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-19T12:33:52Z"
+}

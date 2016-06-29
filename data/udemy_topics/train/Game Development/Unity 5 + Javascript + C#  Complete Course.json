@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this series of educational courses Unity we'll know how to use the main functions of software when we'll create our first game.</p><p>During this course I make an effort you'll play the first game in 3D simpler using the most fashion and easy sources of Unity 5.</p><p>We start with studying how to make a new project in Unity 5 and how to operate assets in our game. Then we are going to make the complete level using the instruments of place. It begins super strange interesting things!</p><p>We'll learn to tune up a play character and to move an animation in our level. Also, we'll learn to work with the collisions,  the capture elements, particles and sound effects.</p><p>So, we'll learn to make a new game in Unity 5 and we'll share with our friends to the end of the studying course. </p><p><strong>It will be the grand course and the knowledge to start a great adventure in Unity 5.</strong></p>", 
+    "end_date": null, 
+    "title": "Unity 5 + Javascript + C#: Complete Course", 
+    "price": "20.00", 
+    "instructors": "Awesome Teach Inc.", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/529590_bede_2.jpg", 
+    "course_url": "https://www.udemy.com/unity-5-javascript-c-sharp-create-your-own-games/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-16T15:55:57Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p style=\"\">本單元包含下列數學內容，都是學習微積分必要的基礎數學內容。</p><p style=\"\">1. 數系及集合的介紹</p><p style=\"\">2. 函數的定義：包含合成函數、反函數</p><p style=\"\">3. 各種常用的函數：包含高斯函數、絕對值函數</p><p style=\"\">4. 二元一次方程式與直線方程式</p><p style=\"\"><strong style=\"\">◎</strong><strong style=\"\">教材來源</strong></p><p style=\"\">源於中華科技大學 微積分一 課程中第一單元基礎數學部分</p><p style=\"\"><strong style=\"\">◎</strong><strong style=\"\">教材認證</strong></p><p style=\"\">內容通過台灣教育部103年度第1梯次數位學習教材認證</p><p style=\"\"><strong style=\"\">◎</strong><strong style=\"\">語言</strong></p><p style=\"\">全部課程繁體中文講授。</p><p style=\"\"><strong style=\"\">◎</strong><strong style=\"\">其他事項</strong></p><p style=\"\">本課程僅供學員自修使用，無法取得中華科技大學學分</p>", 
+    "end_date": null, 
+    "title": "微積分-基礎數學篇 Calculus-Basic Math", 
+    "price": 0, 
+    "instructors": "Lee Bor-Jian", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/462716_a265_3.jpg", 
+    "course_url": "https://www.udemy.com/calculus-basic-math/", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-30T06:41:36Z"
+}

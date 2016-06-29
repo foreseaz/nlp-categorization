@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This is a course for people who want a quick introduction into the world of R, without getting into too much detail. This course is ideal for</p><ol><li>complete beginners to R</li><li>business professionals who want a quick overview  of R</li><li>Anyone new to R, who is considering using R as the standard statistical tool in their organization</li></ol><p>After the course you will be able to do the following:</p><ol><li>install R</li><li>programming in R</li><li>multiple regression in R</li><li>perform visualization in R</li><li>and much more!</li></ol><p>Finally, you will have a good idea of R and its capabilities. The course is taught in a lecture and tutorial style format. In a very a short time the course should take you from being a complete beginner in R to someone with a solid foundation to continue his/her journey with R, knowing how to get help, as well as a good idea of the capabilities that R can provide for its users as well as organizations across the spectrum.</p><p>In order to take this course you will need to have  laptop or a desktop with a windows/mac/or linux installed</p>", 
+    "end_date": null, 
+    "title": "Quick dive into R", 
+    "price": "20.00", 
+    "instructors": "Hassan Sirelkhatim", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/740470_5aa9_4.jpg", 
+    "course_url": "https://www.udemy.com/statistics-with-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-25T01:17:41Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Hello everyone this course deals with fully about the web vulnerabilities and I explained how web vulnerabilities appears and how to solve that I make two video session for each vulnerabilities this is mainly focused on php website vulnerabilities it helps to develop your site vulnerabilities free </p><p>Course deals with vulnerabilities </p><ul style=\"\"><li>Clicking </li><li>Cross site scripting </li><li>Cross site request forgery </li><li>Sql injections basics</li><li>Insecure direct object reference </li><li>Open url redirect </li><li>Directory listing </li><li>Avoid  your site from automated web scanners</li></ul><div style=\"\"><br style=\"\"></div><p>The following vulnerabilities are very very critical vulnerabilities so I created a video about web vulnerabilities and I will show explained how to fix this type of vulnerabilities </p><ul style=\"\"><li>Learn php programming </li><li>Learn web vulnerabilities </li><li>Learn solution of web vulnerabilities </li></ul><p><br style=\"\"></p><p>This course is mainly created to avoid site from hacking from the hackers this method helps to develop secured web</p>", 
+    "end_date": null, 
+    "title": "Learn Php Security Implementations - Tutorial in tamil ", 
+    "price": 0, 
+    "instructors": "Harish Kumar", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/465882_bb56.jpg", 
+    "course_url": "https://www.udemy.com/learn-php-security-implementations-tutorial-in-tamil/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-02T14:18:40Z"
+}

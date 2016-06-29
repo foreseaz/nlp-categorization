@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Some recent reviews!!! </strong></p><p>\"I can't thank Mike enough for providing such <strong>useful information without cost</strong>; the <strong>content in this course is invaluable</strong>.\" Ken</p><p>\"Thank you for<strong> the 10</strong>\" David V</p><p>\"<strong>Great</strong> Course.\" David S</p><p style=\"\">This course focuses on <strong>10 things</strong> that every SQL Server in production should have.</p><p style=\"\">We will start with the single <strong>MOST</strong> important facet to every SQL Server DBAs job. <strong>Backups</strong>. We will cover the different kinds of backups and discuss how often we should be taking them. We will demo restores so <strong>WE</strong> understand the mechanics of how SQL Server backups up a database.</p><p style=\"\">We will talk about the importance of the <strong>FULL backup</strong> and what having it means to recovery.</p><p style=\"\"><strong>WE </strong>will cover consistency checks and talk about <strong>how often</strong> they should be run and why they should be run.</p><p style=\"\"><strong>WE </strong>will cover <strong>statistics</strong> and index <strong>REBUILDS</strong> and how and why we should use them.</p><p style=\"\">Lastly, <strong>WE</strong> will cover how to set up <strong>database MAIL</strong> so we can be alerted when <strong>OUR</strong><strong> </strong>jobs fail.</p><p style=\"\">Many organizations don't have production DBAs so this course can <strong>assist</strong> them with setting up the <strong>very basic necessities</strong> for a production SQL Server.</p><p style=\"\">This is an <strong>entry level course</strong> and can be taken by developers, network administrators and database administrators. The course is even well suited for those who manage DBAs.</p><p style=\"\">The course is a <strong>real world approach</strong> to setting up your SQL Server in a production environment.</p><p style=\"\">The course if <strong>FREE</strong> so sign up now.</p>", 
+    "end_date": null, 
+    "title": "10 Things Every Production SQL Server Should Have", 
+    "price": "20.00", 
+    "instructors": "Mike West", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/571298_32c8_3.jpg", 
+    "course_url": "https://www.udemy.com/10-things-every-production-sql-server-should-have/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-02T01:09:45Z"
+}

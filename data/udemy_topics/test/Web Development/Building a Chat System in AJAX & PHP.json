@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>PHP is a server side scripting language which commonly used for creating web applications. AJAX is a powerful web development technique to do strong actions in the background, while the user doesn't feel anything. </p><p><strong>Chat System using PHP &amp; AJAX </strong></p><p>This course is a short but comprehensive course for creating a beautiful chat application using PHP and AJAX, while I'll use PHP OOP method to make it secure, and this will responsive too. In this system, You'll also learn how you can display data from the database using AJAX request to the PHP page in real time. </p><p>Students who know the very basics of PHP and JavaScript will easily understand it. However, this course is created while keeping all levels in mind, so if you are a beginner then still you can easily learn this course with simple approach. </p>", 
+    "end_date": null, 
+    "title": "Building a Chat System in AJAX & PHP", 
+    "price": 0, 
+    "instructors": "Abdul Wali", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/692878_6872_3.jpg", 
+    "course_url": "https://www.udemy.com/chat-system-in-php-ajax/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-09T11:17:05Z"
+}

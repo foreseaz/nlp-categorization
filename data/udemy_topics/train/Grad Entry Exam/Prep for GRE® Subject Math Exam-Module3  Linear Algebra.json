@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Test Prep"
+    ], 
+    "description": "<p><em></em>This course is a prep course for the GRE Subject exam in Mathematics. If you wish to apply for a grad program in math, statistics and such, this exam is required.</p>\n\n<p>This is the third module and includes all the linear algebra material needed in order to excel in the exam. More importantly, the course teaches techniques for solving problems FAST (since in the exam you will have 2.5 min per question - very little time).</p>\n\n<p>We will go over the following topics:</p>\n\n<ul><li>Linear systems of equations</li><li>Matrices, matrix operations</li><li>Inverse, traspose</li><li>Vector spaces, subspaces, bases, dimension</li><li>Linear trasformations</li><li>Eigenvalues theory</li><li>Time and space efficient tricks</li></ul>\n\n<p>The course is designed to review all that is necessary to get you up to speed and get you solving real exam problems. Knowledge covered in the first module is assumed.</p>\n\n<p>See the free intro lecture of the first module to get more details.</p><p><br></p><p><br></p><p>GRE is a registered trademark of Educational Testing Service (ETS) in the United States and other countries. This content is not endorsed or approved by ETS.<br></p>", 
+    "end_date": null, 
+    "title": "Prep for GRE® Subject Math Exam-Module3: Linear Algebra", 
+    "price": "50.00", 
+    "instructors": "Gilad Pagi", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/502170_b1d2_2.jpg", 
+    "course_url": "https://www.udemy.com/gre-subject-math-module3-linear-algebra/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Grad Entry Exam"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-14T17:48:04Z"
+}

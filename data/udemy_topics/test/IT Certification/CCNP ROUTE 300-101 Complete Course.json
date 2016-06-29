@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This is a <strong>comprehensive and clear video tutorial for CCNP ROUTE</strong> course containing all topics with a lot of example topologies and configuration.</p><p>I have included core concepts of CCNP ROUTE plus a few activities (such as conversion from binary to decimal and vice versa, PPPoE server side configuration, RIP, ...) to make sure that you have no problem performing certain tasks.</p><p>All scenarios are done on GNS3! Why? I know most of you have access to real gear at work but that is not what you can have full access to. You may not be allowed to change your workplace's lab as many times as you wish or perhaps the only routers there, are production ones.</p><p>You don't really feel any difference though since GNS3 is a complete simulation environment (at least for routing you feel no difference even for CCIE level studies).</p><p>I have explained all topics in <strong>97 sessions</strong>. All sections are independent. You can go for any section without following the actual outline (although I highly recommend it). </p><p>New videos will be added on demand and updates are planned so that you always have access to the most recent additions and changes for this course.</p><p><strong>Those of you who finish this course will be awarded my next course!</strong> I give my courses with a super high discount (or even free) to you because I believe you deserve to be awarded if you work hard enough and <strong>complete a task</strong>!</p><p>Join a community of <strong>over 16000 students </strong>and receive a high quality course with full instructor support; I answer all questions here personally!</p><p><strong>All lessons are downloadable</strong> so that you can view them offline as many times as you wish!</p><p>I love training and I love to be there for you in your journey toward CCNP certification!</p><p>Mohammad Imani</p><p><em>Trainer since 2004</em></p>", 
+    "end_date": null, 
+    "title": "CCNP ROUTE 300-101 Complete Course", 
+    "price": "25.00", 
+    "instructors": "Mohammad Imani", 
+    "commitment": "19.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/418228_e93e_4.jpg", 
+    "course_url": "https://www.udemy.com/ccnp-route-300-101-complete-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-10T12:13:43Z"
+}

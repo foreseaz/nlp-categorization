@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>SQL Server</strong> is a combination of two core items The first is the <strong>administration</strong> side of the house. Creating databases, managing logins and users, backups,… etc.</p><p>The second part of the equation is that of <strong>developing</strong> code in a language called <strong>S</strong>tructured <strong>Q</strong>uery <strong>L</strong>anguage. </p><p>Microsoft’s flavor of SQL is called <strong>Transact-SQL</strong>. </p><p>Transact was <strong>designed</strong> primarily to work with <strong>relational databases</strong>. Transact is the language used to talk to SQL Server. </p><p>When we want to <strong>create a database</strong> a database we use DDL or <strong>Data Definition Language.</strong> I’m defining an object when I use the statement with the code. </p><p>When we want to <strong>see data inside a table</strong> we use DML or <strong>Data Manipulation Language</strong>. I’m not creating an object I’m manipulating the data inside that object. </p><p>In this course we are going to<strong> learn the basics</strong> of Transact-SQL or T-SQL. </p><p>We will cover the <strong>fundamentals</strong> of Transact using <strong>real world</strong> examples. Additionally, we will discuss some of the <strong>best practices</strong> associated with crafting clean, high performance code. </p><p>You’ll learn why <strong>stored procedures</strong> are so important to well-designed applications and why ad hoc queries aren’t. </p><p>The <strong>knowledge</strong> you gain from the <strong>course</strong> will not only help you learn to develop but will also give you a great first step to learning how to <strong>pinpoint</strong> <strong>performance</strong> issues due to poorly written code. </p><p><strong>Thanks</strong> for your interest in <strong>“Real World Transact-SQL from the Ground Up.”</strong></p><p><strong>See you in the course. </strong></p><p><strong><br></strong></p>", 
+    "end_date": null, 
+    "title": "How You Can Master the Fundamentals of Transact-SQL", 
+    "price": "20.00", 
+    "instructors": "Mike West", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/772864_9717.jpg", 
+    "course_url": "https://www.udemy.com/how-you-can-master-the-fundamentals-of-transact-sql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-24T12:40:41Z"
+}

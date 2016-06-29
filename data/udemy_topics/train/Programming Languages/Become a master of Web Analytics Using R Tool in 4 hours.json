@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will give you a better insights of your site visitors in order to make more profits by analyzing web data. Participants, at the end of the training, will be technically competent in essential as well as advanced concepts of Web Analysis such as:</p><ul><li>Using flow visualization to see how visitors navigate through a site</li><li>Understanding goals and conversions</li><li>Understanding KPIs and Metrics</li><li>Performing real-time analysis using R and Rstudio</li><li>Analyzing visitor and traffic source reports</li><li>Tracking AdWords and other marketing campaigns</li><li>Utilizing segmentation for deeper analysis</li><li>Understanding the raw data and how it's collected</li><li>Selecting and comparing date ranges</li><li>Identifying slow-performing pages</li><li>Configuring and analyzing internal site search</li><li>Working with reports and Graphs</li><li>Cleaning up data with inline filters</li><li>Forecasting Bounce rate and other metrics on website</li><li>Plotting data on Maps</li></ul>", 
+    "end_date": null, 
+    "title": "Become a master of Web Analytics Using R Tool in 4 hours", 
+    "price": "20.00", 
+    "instructors": "Easylearning guru", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/683136_b289.jpg", 
+    "course_url": "https://www.udemy.com/increase-your-traffic-by-learning-web-analytics-with-r-tool/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-28T06:46:47Z"
+}

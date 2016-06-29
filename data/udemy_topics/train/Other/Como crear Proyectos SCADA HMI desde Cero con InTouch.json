@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">En este curso aprenderás de forma fácil y rápida a crear Proyectos SCADA/HMI con Wonderware InTouch y como poner en producción estos proyectos.</p><p style=\"\">Aprenderás a diseñar gráficos HMI para tu proyecto e incluir funcionalidades necesarias para la operacion de una planta como: graficos animados, alarmas, eventos, establecer seguridad, realizar backups de tus proyectos, funciones especiales, programación de scripts, pruebas y optimización de tu proyecto.</p><p style=\"\">El curso se realizá con VIDEOS de alta calidad y plantea ejemplos 100% prácticos  paso a paso de aplicación inmediata al mundo real. </p><p style=\"\">El curso está diseñado para realizarlo en 3 semanas, tomando entre 5-10 horas a la semana (incluyendo la realización de todos los laboratorios)</p><p style=\"\">NO esperes más, realiza el curso y se un profesional desarrollando proyectos SCADA/HMI.</p>", 
+    "end_date": null, 
+    "title": "Como crear Proyectos SCADA/HMI desde Cero con InTouch", 
+    "price": "50.00", 
+    "instructors": "Jose Carlos Villajulca Velasquez", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/445414_a738_2.jpg", 
+    "course_url": "https://www.udemy.com/desarrollo-de-proyectos-scadahmi-con-wonderware-intouch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-12T02:55:01Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course is optimized for the developer who is looking to efficiently learn the most important design techniques that will help them make better apps (with a focus on mobile/Android). \n\nThis is a UX design course built for current (and aspiring) mobile developers. In this short course, you'll step back from your IDE and dive into the techniques that great designers use to plan and prototype amazing apps before any code is written.\n\n####[Download Udacity's Android app](https://play.google.com/store/apps/details?id=com.udacity.android) to keep learning wherever you go!Why Take This Course?UX (User Experience) is a big deal. Though the term is often confused with User Interface, UI is only only a tiny subset of UX (we’ll talk about the difference in Lesson 1).\n\nYou should take this course because well-designed apps are just as important as well-built apps.\n\nThe goal of this course is to help you understand the most important and immediately useful techniques and approaches used by great mobile UX designers. This course won’t turn you into a designer, but it will help you incorporate design elements into the products you build.\n\n                                            Syllabus\n                        ### Overview\nThe goal of this course is to help you build better apps by helping you become a design-minded developer. In Lessons 1 and 2, you will learn widely applicable design principles and techniques like high-level UX planning and user-centered design.\n\nIn Lessons 3 and 4, you will focus on design ideas specific to mobile/Android development. Mobile platforms all come with a unique set of constraints and opportunities and this lesson will help you respect those constraints while taking advantage of the opportunities. \n\n### Lessons\n\n#### Lesson 1: What is User Experience?\nIn this lesson you will think about User Experience from the highest level. You will break down complex apps into a small number of simple steps and think about their big picture flow (including ones that you have worked on in the past or are currently working on). \n\n*Topics covered:*\n\n* What is UX?\n* UI vs. UX\n* High-level planning\n* Low-fi wireframing and prototyping\n* Two concrete app improvements to implement now\n\n#### Lesson 2: User-Centered Design\nIn this lesson you will learn how to design apps that your users will love. You will learn the importance of user-centered design, what happens when you design for everyone/no one (spoiler alert: it’s generally bad), and how to effectively use tools like personas and use cases to ensure a baseline level of quality for anything you build. You will also learn a bit about how to use cheap and easy user research techniques to make well-informed design decisions. \n\n*Topics covered:*\n\n* The perils of ignoring your user\n* How to create effective personas and use cases\n* Low cost user research\n* How to use personas and use cases to inform feature lists\n\n#### Lesson 3: Designing for Mobile Constraints\n\nMobile design and development come with constraints and opportunities. This lesson is about the constraints. You will learn what constraints are inherent to mobile development and how to use design tools and techniques to ensure your app actually respects those constraints. \n\n*Topics covered:*\n\n* The 5 big constraints: limited data, finite battery, hand-held usage, divided user attention, and small screens.\n* The implications of these constraints and what happens when you get them wrong.\n* Advanced wireframing\n\n#### Lesson 4: Designing for Android Delight\n\nAt this point, you will already know how to make a solid mobile app that users like. But like isn’t enough! In order to be really successful, your app needs to be *loved*. In this lesson, you’ll learn how to leverage the power of Android by using device sensors and Google APIs to understand your user’s context.\n\n*Topics covered:*\n\n* Android sensors\n* The importance of contextual apps\n* The “components” of context\n* Android APIs (Google Play Services)\n\n### Final Project\nIn your final project, you will create high/mid-level design specifications for your own incredible Android app. You'll begin work on this project in the Assignments for Lesson 2, and continue working on it until the end of the course. \n\nWhen it's finished, you will have the blueprint for an app that will:\n\n* Be designed for a specific target user.\n* Have an almost-perfect high level flow.\n* Avoid all major mobile pitfalls.\n* Use Android sensors and APIs to understand your user's context and deliver context-aware moments of amazement that they will love.\n                                    ", 
+    "end_date": "2014-08-05T00:00:00Z", 
+    "title": "UX Design for Mobile Developers", 
+    "price": 0, 
+    "instructors": "Nazmul Idris", 
+    "institution_name": [
+        "Google"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.udacity.com/course/ux-design-for-mobile-developers--ud849?utm_medium=referral&utm_campaign=api", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2014-06-24T00:00:00Z"
+}

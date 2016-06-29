@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t Sass is a CSS meta-language that saves time, and allows you to write better quality code. In <em style=\"\">Step by Step Sass</em>, you&#039;ll learn how to use this powerful pre-processor in easy 5-10 minute steps.  </p>  <p style=\"\">  \t You don&#039;t need to understand every concept of Sass to use it—once you get past the installation and set up, you can start using it right away.  </p>  <p style=\"\">  \t Coding your CSS with Sass saves you time—and allows you to write neater, more consistent code. The time you&#039;ll spend completing this course will be easily made up on your next web project!  </p>", 
+    "end_date": null, 
+    "title": "Step by Step Sass", 
+    "price": "20.00", 
+    "instructors": "Lisa Catalano", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/56680_ac29_3.jpg", 
+    "course_url": "https://www.udemy.com/step-by-step-sass/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-05-27T16:45:47Z"
+}

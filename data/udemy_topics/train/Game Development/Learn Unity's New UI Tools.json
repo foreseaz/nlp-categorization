@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>Welcome to this course on Unity3D’s new UI Tools introduced in Unity 4.6.</span>  </p>  <p>  \tIn this course we will create a Simon Says style memory game from scratch primarily using these new UI Tools. You will become familiar with concepts like anchors, rect transforms, canvases and on the way learn some powerful C# scripting techniques like yields and coroutines.  </p>  <p>  \tThis course is aimed at game developers who have a basic understanding of Unity and C# scripting but who need a bit of practice getting to grips with the new UI features.  </p>  <p>  \t<br style=\"\">  \tThankyou for your interest in this course, let’s create a game together.  </p>", 
+    "end_date": null, 
+    "title": "Learn Unity's New UI Tools", 
+    "price": "20.00", 
+    "instructors": "Morgan Page", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/365788_bcde_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-unitys-new-ui-tools/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-08T12:52:07Z"
+}

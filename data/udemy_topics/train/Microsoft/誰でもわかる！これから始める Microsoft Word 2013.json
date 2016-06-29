@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>セクション1はWord2013の基本操作について学習します。起動と終了、文書の開き方と閉じ方、保存といった基本操作から始め、文字や段落の書式を設定し、文章のレイアウトや見栄えを整える方法について学びます。セクション2は、文書をさらに見栄えよく仕上がる方法を学習します。テンプレートの利用方法、ヘッダーとフッターの挿入方法、表の編集や写真や図形の挿入方法を学習し、ビジネス文書や町内会のお知らせなどを作成します。また、動画講座内で使用している演習ファイルが付属します。これによって動画講座を見ながら、実際のアプリケーションで実習することができます。</p>", 
+    "end_date": null, 
+    "title": "誰でもわかる！これから始める Microsoft Word 2013", 
+    "price": "25.00", 
+    "instructors": "アテイン 株式会社", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/574274_57d9.jpg", 
+    "course_url": "https://www.udemy.com/attain-microsoft-word2013/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-05T04:50:13Z"
+}

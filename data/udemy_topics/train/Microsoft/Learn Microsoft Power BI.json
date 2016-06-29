@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>This course introduces you to Power BI from Microsoft.  Power BI is easy to use software &amp; services that can be used to turn data into actionable insight so that you can convey stories to yourself and others through the use of highly interactive visualisations.  </p><p><strong>Acquire the Skills to Query Data, Transform it, Visualize it and Publish it. </strong></p><p>Learn how to:</p><p>Query data from</p><ul><li>Excel</li><li>Databases</li><li>Web</li><li>Web Services</li><li>Text files</li></ul><p>Transform data by<br></p><ul><li>Cleaning</li><li>Pivoting</li><li>Enriching</li><li>Calculating</li></ul><p>Communicate insights by</p><ul><li>Creating dashboards</li><li>Adding interactivity</li><li>Publishing dashboards for others to use</li></ul><p><br></p><p><strong></strong><strong>Power BI is a new tool that empowers you to be a master of data rather than a servant of it.</strong></p><p>Previously these skills were limited to experts but with the modern software the technical barrier has been lowered to such an extent that most people are capable of producing and sharing dashboards.<br></p><p>The only prerequisite I have is that students must be data literate.  Excel users will have no problem learning Power BI.   If you don't know what a table of data is this course isn't for you.  </p><p>SQL or BI developers probably won't get a lot from this course as there aren't any complex queries or calculations. <br></p><p>The type of terminology used on this course includes, Tables, Relationships, Models, Calculations, Visualizations. </p><p>The course is taught using screencasts, slides, with set assignments.  I encourage you to have a go at the assignments as this will solidify what you've learnt</p><p>The files I use on the course are available for you to download..</p><p>It can take between 2 and 4 hours to take this course (including assignments).</p><p>There are over 2 hours of screencasts.</p><p>The course is structured using key learning points, starting at the very beginning and progressing so that may the end of the course you'll have the skills to create data models with dashboards.</p><p>The skills you'll gain on this course will help boost your career as you'll be seen as a powerful steward of data.<br></p><p>Power BI is becoming increasingly in demand in organisations of all sorts of sizes.  Take advantage of this opportunity today and hit that enroll button.</p>", 
+    "end_date": null, 
+    "title": "Learn Microsoft Power BI", 
+    "price": "20.00", 
+    "instructors": "Lee Hawthorn", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/221148_af1f_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-microsoft-power-bi/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-17T06:12:08Z"
+}

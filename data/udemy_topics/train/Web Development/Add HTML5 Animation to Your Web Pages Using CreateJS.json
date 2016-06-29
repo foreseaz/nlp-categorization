@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong>What is this Course About?</strong>  </p>  <p>  \t     This course gets you up to speed basic features of the <strong>CreateJS library to create HTML5 canvas animations,  graphic drawing and user mouse interactions.</strong>  </p>  <p>  \t     CreateJS is a popular well supported Javascript library used for web advertising, education, gaming and cartooning. It does not require complicated HTML or CSS to implement. What you create is easily added to other web pages without changes.  </p>  <p>  \t<strong>What is Covered?</strong>  </p>  <p>  \t     This is a basic course where you can get a grounding on the CreateJS resources available and the software API architecture. You use a simple learning framework so you can try the API with examples that are easy to follow and grasp.  </p>  <p>  \t     You will learn about the hierarchical display list architecture built into the EaselJS library component of CreateJS.  </p>  <p>  \t     And you will apply the EaselJS mouse interaction model so you can get up and running quickly to control animations with user input.  </p>  <p>  \t     You also work with the HTML5 graphics drawing library found in EaselJS.  </p>  <p>  \t     You will learn how simple and easy to create HTML5 animations with the CreateJS tweening library component called TweenJS.  </p>  <p>  \t<strong>Who Can Take this Course?</strong>  </p>  <p>  \t     This course is for those who know Javascript basics and are beginning to learn about the CreateJS suite of libraries. This course does not require advanced programming skills. Any programming is explained and supported so you can succeed.<br>  \t<br>  \t  If you have <strong>Actionscript 3 </strong>background, you will find comfort in seeing that API finding a new home in these libraries. But Actionscript experience is not necessary for the course.  </p>  <p>  \t<strong>What Materials Are Included?</strong>  </p>  <p>  \t     The course includes step by step video presentations along with starting and completed practice files used in the videos.  </p>  <p>  \t<strong>   Getting Help  </strong>  </p>  <p>  \t     I enjoy helping so make use of the Udemy question area.  </p>  <p>  \t&quot;The instructor does not assume you know or understand everything. On the contrary, he explains the reasons behind every single step.&quot; -- Alonso Ramos  </p>  <p>  \tI am behind you succeeding so use me. No question too simple. No question too complicated. Challenge me!  </p>  <p>  \t  Often questions result in new examples and demos which are posted in the <strong>Additional Examples Lesson</strong> for everyone to see.  </p>  <p>  \t     Hope you enjoy the course and please let me know anything I can help you do.  </p>", 
+    "end_date": null, 
+    "title": "Add HTML5 Animation to Your Web Pages Using CreateJS", 
+    "price": "35.00", 
+    "instructors": "Lon Hosford", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/57659_7497_9.jpg", 
+    "course_url": "https://www.udemy.com/learn-basic-html-animation-using-createjs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-01T11:35:32Z"
+}

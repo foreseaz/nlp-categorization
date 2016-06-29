@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t        ¿Quieres aprender programación web con uno de los cursos más extensos y dinámicos que has visto en mucho tiempo?:<strong> </strong>  </p>  <ul>  \t<li><strong>25 horas de vídeo,</strong> distribuidas en <strong>139 temas diferentes.</strong></li>  \t<li><strong></strong>  \t  \t\t<strong>17 exámenes</strong> de tipo test incluidos entre los diferentes módulos del curso.  \t  \t</li>  \t<li>  \t  \t\t<strong>41 archivos en formato pdf de apuntes</strong>,  \t  \t</li>  \t<li>  \t  \t\t<strong>42 archivos en formato pdf con ejercicios propuestos</strong>  \t  \t</li>  \t<li>  \t  \t\t<strong>Más de 120 archivos con la reproducción de los ejercicios</strong> realizados durante el curso.  \t  \t</li>  </ul>  <p>  \t            Si ya tienes conocimientos de HTML y CSS habrás tenido ocasión de comprobar que su principal limitación es la imposibilidad de crear <strong>páginas webs dinámicas</strong>.  El siguiente paso en tu proceso de convertirte en todo un profesional de la programación web es aprender PHP.  </p>  <p>  \t            PHP es el lenguaje de programación <strong>más utilizado</strong> y popular por los desarrolladores, por ejemplo, es el que utiliza <strong>WordPress</strong>, ¡Imagina las oportunidades laborales que se te abrirán aprendiendo a desarrollar en este lenguaje!.  </p>  <p>  \t            Nuestros cursos tienen siempre un <strong>enfoque práctico, muy didáctico.</strong>  Todas las explicaciones teóricas son presentadas de forma animada, ilustrada, y están acompañadas de un buen número de <strong>ejercicios, casos prácticos y exámenes de tipo test </strong>que podrás reproducir fácilmente en tu ordenador y te ayudarán a evaluar tu nivel de conocimientos.  </p>  <p>  \t<strong>Comenzaremos de cero,</strong> desde los conceptos básicos, pero la gran duración del curso nos permitirá profundizar en muchas materias <strong>hasta niveles profesionales</strong>.  </p>  <ul>  \t<li>Empezaremos con las cuestiones fundamentales en cualquier lenguaje de programación: primeros programas, sintaxis, variables, tipos de datos, operadores, cálculos, expresiones...</li>  \t<li>  \t  \t\t          Después descubriremos las instrucciones básicas a la hora de programar: condicionales, bucles, matrices...  \t  \t</li>  \t<li>  \t  \t\t          Otra parte importante del curso se dedicará a estudiar las principales funciones del lenguaje PHP. Entre otras cosas aprenderemos a trabajar con variables, manipular cadenas, matrices, fechas, e incluso, a crear nuestras propias funciones.  \t  \t</li>  \t<li>  \t  \t\t          También dedicaremos un tiempo a los temas más técnicos: enviar y manipular información, por ejemplo, a través de un formulario, cómo acceder a archivos para modificarlos o leerlos, trabajaremos con cookies y sesiones, por ejemplo, para crear una página de acceso con usuario y contraseña.  \t  \t</li>  \t<li>  \t  \t\t          Finalmente estudiaremos en detalle el trabajo con bases de datos MySQLi, para que tengas todas las herramientas necesarias para poder empezar a trabajar en cualquier proyecto que se te pase por la cabeza.  \t  \t</li>  </ul>  <p>  \t      Nos va a dar tiempo de verlo todo con mucha calma: El curso está compuesto por unas <strong>25 horas de </strong><strong>vídeo</strong> que podrás ver dónde y cuándo desees, estructurados en forma de más de 130 módulos breves.  ¿Has visto muchos cursos de PHP con esa extensión?  </p>  <p>  \t            Y recuerda que contarás siempre con nuestro apoyo y colaboración para resolver todas las dudas que se te puedan plantear, <strong>adaptándonos a tu horario y nivel de conocimientos.</strong>  ¡Nunca había sido tan fácil aprender a programar en PHP!  </p>", 
+    "end_date": null, 
+    "title": "Programador web: PHP y MySqli Profesional ¡Fácil y Práctico!", 
+    "price": "30.00", 
+    "instructors": "Juan De La Torre Domingo", 
+    "commitment": "25 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/350802_4500_5.jpg", 
+    "course_url": "https://www.udemy.com/programador-web-php-y-mysql-profesional-facil-y-practico/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-19T12:33:11Z"
+}

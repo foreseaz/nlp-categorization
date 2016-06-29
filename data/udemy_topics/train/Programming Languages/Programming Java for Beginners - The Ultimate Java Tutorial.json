@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   Learn the basic concepts, tools, and functions that you will need to build fully functional programs with the popular programming language, Java.  </p>  <p style=\"\">  \t<strong style=\"\"> Build a strong foundation in Java and object-oriented programming with this tutorial for beginners. </strong>  </p>  <ul style=\"\">  \t<li style=\"\">Java Development Kit Installation</li>  \t<li style=\"\">Types and Operators </li>  \t<li style=\"\">Object-Oriented Programming (OOP), Classes, and Objects</li>  \t<li style=\"\">Loops and Conditionals</li>  </ul>  <p style=\"\">  \t<strong style=\"\"> A Powerful Skill at Your Fingertips </strong><br style=\"\">  \t   Learning the fundamentals of Java puts a powerful and very useful tool at your fingertips. Java is free, easy to learn, has excellent documentation, and is the base for all object-oriented programming languages.  </p>  <p style=\"\">  \t   Jobs in java development are plentiful, and being able to learn Java will give you a strong background to more easily pick up other object-oriented languages such as C++, C#, Ruby, and Pascal.  </p>  <p style=\"\">  \t<strong style=\"\"> Content and Overview </strong><br style=\"\">  \t<br style=\"\">  \t   Suitable for beginning programmers, through this course of 115 lectures and 10 hours of content, you’ll learn all of the Java fundamentals and establish a strong understanding of the concept behind object-oriented programming (OOP). Each chapter closes with exercises, putting your new learned skills into practical use immediately.  </p>  <p style=\"\">  \t   Starting with the installation of the Java Development Kit, this course will take you through Java variable types, operators, and how to use them. By creating classes and objects, you’ll a establish a strong understanding of OOP.  </p>  <p style=\"\">  \t   With these basics mastered, the course will take you through program flow control by teaching you how to use for loops, while loops, and conditional if-else statements to add complexity and functionality to your programs.  </p>  <p style=\"\">  \t   Students completing the course will have the knowledge to create functional and useful Java programs.  </p>  <p style=\"\">  \t   Complete with working files and code samples, you’ll be able to work alongside the author as you work through each concept, and will receive a verifiable certificate of completion upon finishing the course.  </p>", 
+    "end_date": null, 
+    "title": "Programming Java for Beginners - The Ultimate Java Tutorial", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/9463_aa8c_7.jpg", 
+    "course_url": "https://www.udemy.com/learn-to-program-with-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2011-09-03T02:16:27Z"
+}

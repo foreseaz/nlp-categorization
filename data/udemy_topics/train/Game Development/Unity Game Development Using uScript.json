@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>Do you have a passion for playing video games and are you itching to create your own? Look no further, this course in Unity Game Development is for you. At the end of the course you will be able to build fully functional games for PC, Mac, Mobile and more.</span>  </p>  <p>  \tIn this course we will be developing a 3D game to the prototype level using the industry leading engine Unity3D and a powerful plugin called uScript. uScript is an easy to use visual scripting interface which allows anybody to create complex games with ease.  </p>  <p>  \tThis course is intended for people who are wanting to dive into a career or hobby in video games. It is also intended for developers who are uncomfortable with learning complex and tedious programming languages. People such as level designers, artists, sound engineers and game designers. With uScript it is easy to start developing your game with absolutely no programming involved.  </p>  <p>  \tIn this course we will be learning from short and snappy videos, step by step video guides so that you will know all the processes used in game development. You <strong>will</strong> be building your very own games in no time.  </p>  <p>  \tSo… Are you interested in learning how to make games or simply hate using programming languages, I assure you that this course is just for you.  </p>", 
+    "end_date": null, 
+    "title": "Unity Game Development Using uScript", 
+    "price": "20.00", 
+    "instructors": "Scott Wilson", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/298888_5c3d_2.jpg", 
+    "course_url": "https://www.udemy.com/unity-game-development-using-uscript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-12T08:40:34Z"
+}

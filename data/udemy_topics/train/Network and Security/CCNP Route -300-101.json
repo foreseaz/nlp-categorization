@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<ol style=\"\"><li style=\"\"><span style=\"\"></span>This Cisco video training course covers the material needed for the 300-101 Cisco ROUTE exam with more on real-world experience and detailed technical details with more Hands on labs.</li><li style=\"\">This course is lab-based and is focused on the technologies from Cisco CCNP Route/Switch (300-101).</li><li style=\"\">Each Video is designed assist you in creating and verifying Cisco networks using GNS3 1.x</li><li style=\"\"> All of this can be done on a single computer without external hardware (no physical routers or switches required).</li><li style=\"\"> provides training on how to create a practice environment for individuals interested in mastering networking technology through practising hands on!</li></ol><p style=\"\"><span style=\"\"></span></p>", 
+    "end_date": null, 
+    "title": "CCNP Route -300-101", 
+    "price": "50.00", 
+    "instructors": "Sikandar Shaik", 
+    "commitment": "30 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/461362_3248_2.jpg", 
+    "course_url": "https://www.udemy.com/ccnp-route-300-101/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-28T12:24:00Z"
+}

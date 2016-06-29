@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Descubre Swift, el nuevo lenguaje de programación para crear Apps para iPhone e iPad.  </p>  <p>  \t  Apple presentó en su última Conferencia Mundial de Desarrolladores un nuevo lenguaje de programación, en principio coexistirá con Objective-C, pero todo apunta a que este nuevo lenguaje será la referencia en un futuro cercano, no te quedes fuera y da tus primeros pasos con este lenguaje.  </p>  <p>  \t  En este Curso verás algunos fundamentos de Swift, y crearás tu primera App con el nuevo lenguaje entre otras cosas.  </p>  <p>  \t  Venga, Swift ha llegado para quedarse, y tú estás deseando aprenderlo ;-)  </p>", 
+    "end_date": null, 
+    "title": "Primeros Pasos con Swift", 
+    "price": 0, 
+    "instructors": "Sergio Becerril", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/317386_eb31_3.jpg", 
+    "course_url": "https://www.udemy.com/primeros-pasos-con-swift/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-10T18:34:11Z"
+}

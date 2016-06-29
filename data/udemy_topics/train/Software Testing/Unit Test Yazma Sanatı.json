@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Bu kurs artik ucretsiz olarak sunulmaktadir. Kursu ucretli takip eden kullanicalar bir sonraki kursumda extra indirim alacaklardir.</strong></p><p>Unit test yazma eğitiminde birim testi yazmanın tüm inceliklerini öğrenebilir, hangi popüler araçları hangi durumlarda kullanabileceğinizi görebilirsiniz. </p><p>Kursta kullanılan kütüphane ve geliştirme ortamı şöyle:</p><ul><li>Java 8</li><li>JUnit 4</li><li>Mockito 2</li><li>Hamcrest</li><li>AssertJ</li><li>Lombok</li><li>CatchException</li><li>IntelliJ IDEA 14</li><li>Maven 3</li></ul><p><em>Test Driven Development (TDD) yani test güdümlü yazılım geliştirme konsepti bu kursun dışında tutulmuştur ve daha kapsamlı olarak başka bir kursta ele alınabilir. </em></p><p><em></em>Bu kursta testlerinizi nasıl güzel, temiz ve anlaşılabilir yazabileceğinizi göreceksiniz. Özetlemek gerekirsek alttaki konular ele alınacaktır:</p><ul><li>Test etmek nedir</li><li>Hangi test aşamaları vardır</li><li>Neden test ederiz</li><li>Unit test nedir</li><li>Unit test yazma kuralları nelerdir</li><li>Her kuralın Java kod örnekleriyle anlatılması</li><li>Nasıl testlerinizi kitap gibi okunan testler haline getirebilirsiniz</li><li>Popüler test araçları nelerdir</li><li>En popüler test araçlarının geniş detaylı örneklerinin anlatılması</li><li>Mock nedir ve neden Mock kullanırız</li><li>Popüler Mock kütüphaneleri nelerdir</li><li>Mockito kütüphanesinin çok geniş ve detaylı anlatımı</li></ul>", 
+    "end_date": null, 
+    "title": "Unit Test Yazma Sanatı", 
+    "price": 0, 
+    "instructors": "Baris Dere", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/430288_151d_3.jpg", 
+    "course_url": "https://www.udemy.com/unit-test-yazma-sanati/", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-23T20:53:28Z"
+}

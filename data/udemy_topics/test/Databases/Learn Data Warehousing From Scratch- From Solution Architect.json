@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Do you want to master in Data warehousing, keen to become an expert ? Me being worked on several Data Warehousing implementation projects in last 12 years here in UK. I will give you the grain of what's needed to implement a successful Data Warehouse project. </p><p>We've heard it all, big data and the intelligence to understand these chunks of data. Most persons have to start from scratch or meet mid-way to become an expert in business Intelligence domain. </p><p>Course is meant for someone who wants to understand fundamentals of DW and various architectural pieces around it and eventually become a part of big data revolution.</p><p>This course is built to get you the grain of the subject and give you what is essential for newbie to eventually become an expert at the end of the course. Come and Join the journey!!</p> <p><strong>Course Highlights</strong> Introduction</p><ul><li>Business Challenge?</li><li>Need for Business Intelligence</li><li>Define Data warehouse</li><li>Industry UsingData warehousing</li><li>Typical BI environment</li></ul><p>Data Warehousing Concepts</p><ul><li>OLTP ,OLAP</li><li>ODS, Data Marts</li><li>ETL</li><li>Facts, Dimensions, SCD</li><li>Surrogate Keys, Factless-Fact</li></ul><p>Two Major school of thoughts</p><ul><li>Are they at war ?</li><li>Understand myth</li><li>Case Studies</li></ul><ul><li>Ralph Kimball <ul><li>How to design </li><li>Start Schema, Snow Flake</li><li>Bus Architecture</li><li>Sample Data Models</li></ul></li><li>Bill Inmon <ul><li>How to design </li><li>3rd Normal Form</li><li>CIF Architecture</li><li>Sample Data Models</li></ul></li></ul><p>Data Warehouse Appliances</p><ul><li>Teradata</li><li>Netezza</li><li>Exadata</li></ul><p>Big Data</p><ul><li>What's the Buzz word</li><li>What are 4 V's</li><li>Understand Big Data in BI terms</li><li>Major Player </li><li>What is Hadoop</li><li>Hadoop in DW world</li><li>Example - Architecture</li></ul><p>NoSQl</p><ul><li>What it is</li><li>SQL VS NoSQL </li><li>Types of NoSQL DB's</li></ul><ul><li>Major BI Vendors </li></ul><p>Wish you all the very best!</p>", 
+    "end_date": null, 
+    "title": "Learn Data Warehousing From Scratch- From Solution Architect", 
+    "price": "25.00", 
+    "instructors": "Asif Raza", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/399488_3195_9.jpg", 
+    "course_url": "https://www.udemy.com/learn-data-warehousing-from-solution-architect/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-20T23:00:42Z"
+}

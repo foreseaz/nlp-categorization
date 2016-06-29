@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\">Learn the basics about Microsoft Azure services such as Web Applications, Cloud Services, Virtual Machines and Databases.</strong></p><p style=\"\">Migrate your web apps, services, virtual machines and databases to Azure and the cloud! This <strong style=\"\">increases availability, scalability and can even be cheaper</strong> than your current solution!</p><p style=\"\">Enroll now, if by the time you finish this course you are not entirely happy with its content, or the way I answered to your questions, you can have your money back! You have a <strong style=\"\">30 day money back guarantee, no questions asked.</strong></p><p style=\"\">++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</p><p style=\"\">With this course you will not only fully understand what cloud computing is and how it&#039;s casified, you will also learn to host your solutions and applications in Azure.</p><ol style=\"\"><li style=\"\">If you have a website or web app, you&#039;ll learn to upload it to Azure.</li><li style=\"\">If you have a web service, you&#039;ll learn to host it in Azure.</li><li style=\"\">If you want a Virtual Machine without having to install Virtualization Software, download ISOs, and that are available even if you don&#039;t have your computer, you&#039;ll learn to create VMs hosted in Azure.</li><li style=\"\">If you want a database to connect to your ADO .NET, JDBC, ODBC and/or PHP apps that is hosted in the cloud, you&#039;ll learn how to create one.</li><li style=\"\">And you&#039;ll learn how to manage your services from almost anywhere.</li></ol><p style=\"\">By the end of this course you will have the knowledge to host your web sites, web apps, seb services, virtual machines and databases in the cloud with Microsoft Azure services.</p><ul style=\"\"><li style=\"\">With websites in Azure you can quickly create a website based on a template.</li><li style=\"\">With web apps you can quickly deploy your ASP .NET apps right from Visual Studio to the cloud.</li><li style=\"\">With Cloud Services you can host web services in Azure and scale them to your needs.</li><li style=\"\">With Virtual Machines in Azure, you can create a VM with virtually any Operating System, attach disks to it and get the image so you can later create more VMs based on that image.</li><li style=\"\">With databases hosted in Azure you can have databases all over the world that are allways available.</li></ul><p style=\"\">Learn how you can do all that and more with this course!</p><p style=\"\"><strong style=\"\">Enroll now and jump to the cloud! Scalable, reliable, always available and non-expensive services for all your needs.</strong></p>", 
+    "end_date": null, 
+    "title": "Cloud Computing with Microsoft Azure", 
+    "price": "20.00", 
+    "instructors": "Eduardo Rosas", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/446940_1dd1_3.jpg", 
+    "course_url": "https://www.udemy.com/azure-cloud-computing/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-13T23:44:14Z"
+}

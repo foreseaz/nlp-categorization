@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">&nbsp;Bu eğitimin amacı codeigniter frameworke giriş yapmak ve genel bilgilendirmelerle frameworkün çalışma mantığını öğretmektir. MVC Mantığının ne olduğu, Htaccess ile nasıl URLlerin SEO dostu yapıldığı anlatılmaktadır.<br style=\"\"></p>  ", 
+    "end_date": null, 
+    "title": "Codeigniter Giriş", 
+    "price": "20.00", 
+    "instructors": "PHP Akademi", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/52438_b80c_8.jpg", 
+    "course_url": "https://www.udemy.com/gorseltv-codeigniter-framework-giris-gorsel-egitim/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-05-05T21:20:08Z"
+}

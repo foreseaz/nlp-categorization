@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tJustin Dike, lead developer and owner of <a href=\"http://www.CartoonSmart.com\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\">CartoonSmart.com</a> teaches every step in programming a side scrolling Flash game with Actionscript 3. Use the arrow keys to move a character around and attack while traversing a vector based environment (you can easily draw the entire level to play on using vector shapes or movie clips.  </p>  <p>  \t Also included is alternate code to use with a mobile device&#039;s accelerometer (tested on the Android &amp; iPhone OS). Topics include:  </p>  <ul style=\"\">  \t<li>Add new classes for different enemies.</li>  \t<li>Add new classes for objects like coins to collect.</li>  \t<li>Swap in new art to easily create new levels (just cut and paste, or draw in new art).</li>  \t<li>Add more levels, including animation that the player could collide with.</li>  \t<li>Add more objectives (items to pick up or areas on the board to go to)</li>  \t<li>Adjust how many enemies are on stage, where they spawn from, and how often they appear.</li>  \t<li>Change the physics of the game, speed or attack intensities of the enemies</li>  </ul>  <p>  \tAs usual with Justin&#039;s tutorials, source files are included.  </p>", 
+    "end_date": null, 
+    "title": "Actionscript 3 Side Scrolling Games", 
+    "price": "20.00", 
+    "instructors": "Justin Dike", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/115654_56a5_5.jpg", 
+    "course_url": "https://www.udemy.com/as3sidescroller/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-05T18:26:46Z"
+}

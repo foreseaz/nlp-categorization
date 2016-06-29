@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Este curso está enfocado en el uso de las tecnologías definidas en el estándar J2EE de Java (Java Servlets, Java Beans, JSP, JSTL, etc.) para el desarrollo de aplicaciones web. Todas estas tecnologías de desarrollo son complementadas con herramientas tales como: JavaScript, JQuery y AJAX para lograr como resultado un conocimiento completo en la programación web en Java. Desde la configuración del ambiente de desarrollo hasta como desplegar una aplicación web en un servidor es cubierto durante esta serie de video tutoriales totalmente en español.  </p>", 
+    "end_date": null, 
+    "title": "Desarrollo Web con JSP y Servlets", 
+    "price": "20.00", 
+    "instructors": "Abraham Ramirez", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/201562_f533_8.jpg", 
+    "course_url": "https://www.udemy.com/desarrollo-web-con-jsp-y-servlets/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-19T04:25:48Z"
+}

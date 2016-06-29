@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>After completing this program you should be able to:</p>\n\n<ul><li>Perform day to day activities of an Informatica Administrator</li><li>Prepare your ground for Informatica Administration certification</li><li>Install the Informatica 9x/10x architecture platform, configure add and manage Informatica PowerCenter &amp; Data Quality.</li><li>Define and set up platform best practices for users, privileges, roles, and permissions.</li><li>Assign users to groups, privileges to roles and roles to groups. Assign permissions and manage the domain.</li><li>Manage repositories and repository folders. Backup and migrate the Informatica domain database.</li><li>Use the command line to manage the domain and repository, start and control workflows</li><li>Upgrade license, versions</li><li>Understand different processes of deploying the code from one environment to another environment. </li></ul>", 
+    "end_date": null, 
+    "title": "Informatica Power Center Administration", 
+    "price": "50.00", 
+    "instructors": "Sid Inf", 
+    "commitment": "17 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/573982_f235_2.jpg", 
+    "course_url": "https://www.udemy.com/informatica-power-center-administration/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-04T22:05:49Z"
+}

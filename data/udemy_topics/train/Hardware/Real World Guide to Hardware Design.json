@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">This course covers the basic principles of developing a hardware product. Designing hardware is more than just creating a circuit.  </p><p style=\"\"><strong style=\"\">Hardware design is hard, but real world experience is the best teacher.</strong><br style=\"\"></p><p style=\"\"><span></span>I&#039;ll present to you all the techniques that you won&#039;t find in college courses that have come from experience in designing products in the real world. You will save time, energy, and money with what you will learn in this course. </p><p style=\"\"><strong style=\"\">Learn what makes a good hardware designer.  </strong></p><ul style=\"\"><li style=\"\">Setup your own laboratory with tools that will make you better but won&#039;t break the bank.</li><li style=\"\">Choose components effectively for your design.</li><li style=\"\">Create schematics that can be easily reviewed and picked up by others.</li><li style=\"\"> Learn how to reduce errors when doing a board layout.</li><li style=\"\">Debug your design quicker by learning how to use your tools on hand.</li><li style=\"\">Develop skills to confidently populate and assemble prototype boards.</li></ul><p style=\"\">This course does not teach how to design your circuit, but teaches you everything you need to turn that circuit into a product.</p><p style=\"\">This course has 50 lectures and is broken down into 2 minute lectures to help you better focus on each topic. I&#039;ve included several downloads that help you stay organized while designing your next big thing!  </p><p style=\"\">Take my real world experience and learn from mistakes that I&#039;ve made and the processes I&#039;ve put in place to help me be more efficient at designing hardware.</p>", 
+    "end_date": null, 
+    "title": "Real World Guide to Hardware Design", 
+    "price": "20.00", 
+    "instructors": "Mike Ingoldby", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/439794_ab20_2.jpg", 
+    "course_url": "https://www.udemy.com/real-world-guide-to-hardware-design/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-05T20:02:21Z"
+}

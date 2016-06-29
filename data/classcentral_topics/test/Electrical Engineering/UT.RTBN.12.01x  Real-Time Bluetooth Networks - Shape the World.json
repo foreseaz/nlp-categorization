@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Electrical Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    The increased demand by consumers and businesses for more utility, connectivity and smarter and more efficient electronic technology not only creates a need for more embedded systems but also for engineers in the embedded systems field.\n\nIn this lab-based computer science course, explore the complexities of embedded systems and learn how to develop your own real-time operating system (RTOS) by building a personal fitness device with Bluetooth connectivity (BLE). An operating system (OS) is a software system that computers use to manage the resources of a computer. The OS decides which tasks are performed when and decides how resources are utilized. Simple embedded systems, which are a combination of electrical, mechanical, chemical, and computer components designed to perform a dedicated function, originally did not need an OS. However, as embedded systems have evolved, so have their complexities. To manage this, an RTOS is now required.\n\nEmbedded systems are often deployed in safety-critical situations such as automotive, military, industrial, and medical applications. In applications such as communications and consumer electronics, response time and processing speed are important. A real-time system not only needs to arrive at the correct answer, but must also get the correct answer at the correct time. A RTOS manages a computer's resources so that tasks are performed in a timely mannner.\n\nIn this computer science course, students will learn the design fundamentals of an RTOS from the bottom up and use these fundamentals to build practical real-time applications. We will provide a board support package (BSP), so students will be able to focus on the RTOS and Bluetooth network without needing prior experience in circuits and I/O device driver software. This is a hands-on project-based lab course, where you will incrementally build a personal fitness device with Bluetooth connectivity.\n\nThis course is intended for students and professional engineers wishing to improve their skills in the fields of embedded systems, product development, computer architecture, operating systems, and Bluetooth networks.\n\nTo complete this course, you will need to purchase a lab kit including a microcontroller board, an I/O board, and a Bluetooth module. Instructions about purchasing the kit and installing required software are at http://edx-org-utaustinx.s3.amazonaws.com/UT601x/RTOS.html .\n\n                                    ", 
+    "end_date": "2016-12-15T00:00:00Z", 
+    "title": "UT.RTBN.12.01x: Real-Time Bluetooth Networks - Shape the World", 
+    "price": 0, 
+    "instructors": "Jonathan Valvano and Dr. Ramesh Yerraballi", 
+    "institution_name": [
+        "The University of Texas at Austin"
+    ], 
+    "commitment": "10 hours", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.edx.org/course/real-time-bluetooth-networks-shape-world-utaustinx-ut-rtbn-12-01x", 
+    "duration": "13 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-09-15T00:00:00Z"
+}

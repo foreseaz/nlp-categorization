@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>The most awaited sequel to top seller \"Become a Web Developer from Scratch v2016\" is now here. Covering more advanced subjects like Linux, Git, Ruby, Ruby on Rails, Heroku, Apache Server and API's.</p>\n\n<p><strong>Why Take This Course?</strong></p>\n\n\n\n\n\n\n\n<p>If you want to be up-to-date with the top techologies that experienced web developers use nowadays this is the course for you. You should also have intermediate knowledge of web development or have completed the course \"Become a Web Developer from Scratch v2016\". </p>\n\n\n\n\n\n\n\n<p>In order to take the full advantage of this course, and we want you to be well prepared for it, you should have an intermediate knowledge of PHP, as well as a solid knowledge on the following topics:</p>\n\n\n\n\n\n\n\n<ul><li>HTML and CSS</li><li>JavaScript</li><li>jQuery</li><li>MySQL</li><li>jSON</li></ul>", 
+    "end_date": null, 
+    "title": "The Advanced Web Developer Course", 
+    "price": "30.00", 
+    "instructors": "Victor Bastos, Jordan Hudgens", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/511838_61be_5.jpg", 
+    "course_url": "https://www.udemy.com/the-advanced-web-developer-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-26T14:58:26Z"
+}

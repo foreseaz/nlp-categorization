@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Biology"
+    ], 
+    "description": "\n\n                    \n                    \n                    As modern life science research becomes ever more quantitative, the need for mathematical modeling becomes ever more important. A deeper and mechanistic understanding of complicated biological processes can only come from the understanding of complex interactions at many different scales, for instance, the molecular, the cellular, individual organisms and population levels.\n\nIn this course, through case studies, we will examine some simplified and idealized mathematical models and their underlying mathematical framework so that we learn how to construct simplified representations of complex biological processes and phenomena. We will learn how to analyze these models both qualitatively and quantitatively and interpret the results in a biological fashion by providing predictions and hypotheses that experimentalists may verify.\n\n当现代生命科学研究变得更加量化，建立数学模型的需求变得越来越重要。对复杂生物现象的深入理解最终是建立在了解发生于多时空间尺度的复杂生物学相互作用上，例如，分子尺度，细胞尺度，个体和群体尺度上。通过研究一些案例，我们将建立一些简化的数学模型以及其背后的基本数学框架。同时，我们将学习如何建立基本生物学过程的简单表征，以及如何定量和定性和定量地的分析这些模型，并将它们的结果以生物学的方式进行解释，以期提供实验学家进行检验的假说和预测。\n\n                                    ", 
+    "end_date": "2015-12-17T00:00:00Z", 
+    "title": "01139732x: Mathematical Modeling in Biology and Life Sciences 生物数学建模", 
+    "price": 0, 
+    "instructors": "Dr. Louis Tao", 
+    "institution_name": [
+        "Tsinghua University"
+    ], 
+    "commitment": "3-4 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://www.edx.org/course/mathematical-modeling-biology-life-pekingx-01139732x", 
+    "duration": "10 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2015-10-08T00:00:00Z"
+}

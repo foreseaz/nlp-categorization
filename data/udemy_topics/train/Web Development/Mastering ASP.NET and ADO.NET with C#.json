@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>ASP.NET is a web application framework developed by Microsoft that allows developers to build dynamic web sites, web applications and XML web services. ASP.NET can be used to create anything from small, personal websites through to large, enterprise-class web applications.</p><p>This ASP.NET course will teach client-side Web developers with C# experience the fundamentals of Web application site implementation using Microsoft ASP.NET. This course focuses on using the Microsoft Visual Studio .NET environment and the Microsoft .NET platform to create an ASP.NET Web application that delivers dynamic content to a Web site.</p><p>This course covers the following concepts referring to ASP.NET:</p><p>Building a simple web application</p><p>Introduction to Web forms</p><p>Authentication and Authorization</p><p>Handling State Management using ASP.NET</p><p>Configuring IIS and Application Pools</p><p>Validating a web Form</p><p>Page Navigation Techniques and preserving form Variables</p><p>Cookies and Session</p>", 
+    "end_date": null, 
+    "title": "Mastering ASP.NET and ADO.NET with C#", 
+    "price": "25.00", 
+    "instructors": "Digitorious Technologies", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/743606_b0e0_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-aspnet-and-adonet-with-c-sharp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-27T14:48:59Z"
+}

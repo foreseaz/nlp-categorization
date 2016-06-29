@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Get up to speed with the latest <em><strong>Android IDE developed by Google</strong></em>. We are covering<strong> tips, tricks, customization of the UI, main functionality and lot of other things</strong>.<br></p>\n\n<p>Don't be left behind, use the latest and greatest tools to develop Android Applications. </p>\n\n<p><strong>This course will introduce you to the Android Studio world and Android programming in general</strong>. Want to become an Android developer? Start by learning the tools of the trade in order to achieve your goal faster. </p>\n\n<p>Already an Android developer? Learn the <strong>No.1 Android IDE</strong> today in order to gain new skills and develop Android applications faster. By taking this course you will be able to develop Android applications more efficiently while using the main Android IDE.</p>\n\n<p> Forget about Eclipse, Android Studio is the new Android IDE in town! Beginner to advanced user topics will be covered starting with the main UI components to the Version Control Systems like Git.</p>\n\n<p>Start by creating your first Android application with Android Studio. At the end of the course you will be able to generate the release version of your app in order to publish it on the Google Play Store.</p>\n\n<p><strong>Stop wasting time! Learn the nitty-gritty of Android Studio today!</strong></p>", 
+    "end_date": null, 
+    "title": "Learn Android Studio in 2 hours", 
+    "price": "20.00", 
+    "instructors": "Cristian Gradisteanu", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/438894_b094_2.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-android-studio/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-04T20:00:58Z"
+}

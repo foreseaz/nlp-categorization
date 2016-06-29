@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This is a hands-on course which introduces you to agile JavaScript web and mobile software development using the latest cutting-edge front-end and back-end technologies including: Node.js, MongoDB, Backbone.js, Parse, Heroku, and Windows Azure. Practical examples include building multiple versions of the Chat app.</p>\n\n<ul><li>jQuery + Parse JS REST API</li><li>Backbone and Parse JS SDK</li><li>Backbone and Node.js</li><li>Backbone and Node.js + MongoDB</li></ul>\n\n\n\n\n\n<p>The Chat application has all the foundation of a typical web/mobile application: fetching data, displaying it, submitting new data. Other examples in the course are as follows:</p>\n\n\n\n\n\n\n\n<ul><li>jQuery + Twitter RESP API \"Tweet Analyzer\"</li><li>Parse \"Save John\"</li><li>MongoDB \"Print Collections\"</li><li>Backbone.js \"Apple Database\"</li><li>Monk + Express.js \"REST API Server\"</li></ul>\n\n\n\n\n\n<p>This course will save you many hours by providing a hand-picked and tested collection of quick start guides. Full Stack JavaScript has practical examples that allow to spend less time learning and more time building your own applications. Prototype fast and ship code that matters!</p>", 
+    "end_date": null, 
+    "title": "Full Stack JavaScript: Learn Backbone.js, Node.js & MongoDB", 
+    "price": 0, 
+    "instructors": "Azat Mardan", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/823996_3d80_4.jpg", 
+    "course_url": "https://www.udemy.com/fullstack-javascript/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-16T22:40:43Z"
+}

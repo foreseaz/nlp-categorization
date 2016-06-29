@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">This course includes two series:</p><p style=\"\"><strong style=\"\">(1) Introduction to Swift. </strong>     This is the new programming language Apple introduced at WWDC 2014. Here, we will walk through every facet of the language from simple thing like variables and constants to the building block of your app in the future: Classes. Whether you already have some experience in programming or not, come join me in this course!</p><p style=\"\"><strong style=\"\">(2) iOS 101: Get up and running with iOS Development in two projects</strong>     At this moment after you complete the first section, you should be quite confident with your new-born Swift skills. In this series, we will take it to a whole new level. AND, we will start right into two new projects to learn about iOS App Design and Development. </p><p style=\"\">In these two projects, we will not only build two complete functional and quite complex apps,  but also lay the foundation that is essential for you to continue your iOS Development journey with things like the Model-View-Controller design pattern, iOS Design philosophy, UI design, efficient code. </p><p style=\"\"><strong style=\"\">The structure of the course:</strong></p><p style=\"\">I consider myself as a life-long learner. I have been emerging myself into learning every single day. That&#039;s why I believe this more than any else: there are only two phases of life. <strong style=\"\">Challenge</strong> and <strong style=\"\">Progress</strong>.  Yes, argue with me in the Udemy course forum if you like ;) But seriously and sincerely, the only way you can truly learn anything is to put yourself facing the challenge. Challenge yourself, frustrate yourself with that ugly error message, fatigue yourself with that cannot-determine-bug! That&#039;s the way we all study!  So here&#039;s my offer: after every single lecture and project, I will offer you a challenge to practice with your new-born knowledge!  Don&#039;t be panic, my friend! We are here to help! In the best scenario that you cannot figure it you, there comes along the forum to help you learn!</p><p style=\"\">Hope to see you in the course,</p><p style=\"\">Duc<em style=\"\"> from Developer Inspirus</em></p>", 
+    "end_date": null, 
+    "title": "Start iOS Development for Beginners Developing 3 Apps", 
+    "price": "30.00", 
+    "instructors": "Duc Tran", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/422598_f41f_4.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-ios-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-15T17:37:39Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t     This is a course to learn how to cross dissolve images, also called cross fade, in a web page and at the same time learn more about using JQuery in combination with HTML, CSS and Javascript.  </p>  <p style=\"\">  \tDesigned for beginners looking to learn from practical examples. The final example is reusable in other web pages. Goal is to learn the interrelationship of HTML, CSS, Javascript and JQuery.  </p>  <p style=\"\">  \t     The HTML tags for the cross fade effect are designed so they would be independent of the demo web page. This way you can reuse the completed version in your other web pages and style as you like.  </p>  <p style=\"\">  \t     For CSS you learn to configure the position static, position absolute, position releative and z-index properties to stack images at the same location.  </p>  <p style=\"\">  \t     You will use JQuery fadeOut, JQuery next, JQuery addClass, JQuery removeClass, JQuery css, JQuery prop, JQuery show, JQuery length and JQuery first filter.  </p>  <p style=\"\">  \t     Just standard Javascript core programming skills including variables and control structures are used so it is easy to follow.  </p>  <p style=\"\">  \t     The example is built from the ground up with a mimimal starting code. This way there is no complicated starting set of code to wrap your head around before you can comfortably follow along.  </p>  <p style=\"\">  \t     The steps start with the HTML, add the CSS and then the Javascript and JQuery are added.  </p>", 
+    "end_date": null, 
+    "title": "How To Do JQuery Image Cross Fades", 
+    "price": "20.00", 
+    "instructors": "Lon Hosford", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/243056_64ea_5.jpg", 
+    "course_url": "https://www.udemy.com/how-to-do-jquery-image-cross-fades/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-14T03:34:24Z"
+}

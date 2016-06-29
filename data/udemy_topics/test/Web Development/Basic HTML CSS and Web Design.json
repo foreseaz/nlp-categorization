@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn how to develop modern websites using HTML and CSS in one single project from scratch in 8 hours in video format. </p><p>You'll be taken from an absolute novice to being able to design and implement a functional, modern, static, front end, essentially a typical website, for any web application using HTML and CSS. </p><p>Every step of the way is fully explained and the source code is provided broken down for each video, section or for the whole course. This way you can jump in at any point in the project, download the source code and files and work through the project. </p><p>The course has been designed in such a way that you'll learn all the theory required while doing the project. Therefore it's very important that you do the project yourself while you're watching the videos. </p>", 
+    "end_date": null, 
+    "title": "Basic HTML CSS and Web Design", 
+    "price": "25.00", 
+    "instructors": "Great IT Courses", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/720144_61b8_6.jpg", 
+    "course_url": "https://www.udemy.com/basic-html-css-web-design/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-07T23:12:10Z"
+}

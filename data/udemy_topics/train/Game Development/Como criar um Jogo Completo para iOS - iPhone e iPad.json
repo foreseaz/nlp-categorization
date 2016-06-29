@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Meu nome é Tito Petri, trabalho e estudo desenvolvimento de softwares e games há mais de dez anos.</p><p>Criei este curso para ensinar de forma simples e clara como se produz um <strong>game 2D</strong> para iOS utilizando a ferramenta de games mais moderna que existe (o <strong>Xcode </strong>e a <strong>SpriteKit</strong>, ferramentas oficiais da Apple)</p><p>Durante as aulas, ensino do zero como se cria todo o processo do jogo, começando pela parte da <strong>Lógica de Programação</strong>, onde vamos entender primeiro os conceitos preliminares da programação antes de iniciarmos nosso projeto.</p><p>Depois vamos conhecer um pouco sobre a SpriteKit, a engine de games mais divertida e simples de se usar, utilizada no desenvolvimento de grandes jogos famosos para iOS como o <strong>Angry Birds</strong>, <strong>MegaRun</strong>, <strong>CandyCrush</strong>, <strong>Cut the Rope</strong> e outros.</p><p>Ao criar o projeto do nosso game (um clone do famoso <strong>FlappyBird</strong>, caso blockbuster da appStore), vamos entender como se criam os <strong>menus</strong> e <strong>cenas </strong>do jogo, como se implementam a <strong>física</strong>, <strong>colisões</strong>, sistemas de <strong>partículas</strong>, sistema de <strong>salvar </strong>e <strong>carregar </strong>o jogo, <strong>ranking </strong>e placares oficiais da Apple (<strong>GameCenter</strong>) e uma lojinha com produtos que se compram com créditos da appStore (dinheiro real) onde vamos aprender como se implementam compras (<strong>in-App Purchases</strong>) <strong>consumiveis </strong>(itens que serão utilizados no game) e compras <strong>não-consumíveis</strong> (que são usadas para liberar personagens, fases ou outros recursos dentro do game).</p><p>No final, ainda ensino como <strong>assinar</strong> e <strong>publicar </strong>o jogo na <strong>AppStore</strong>, a maior loja de download de aplicativos do mundo.</p><p>Este curso dá uma visão bem clara e simples de como desenvolver um jogo utilizando a ferramenta de games 2D mais moderna que existe.</p><p>Em pouco tempo o aluno já estará entendendo sobre criação de <strong>lógica </strong>e <strong>programação </strong>para <strong>aplicativos</strong> e <strong>jogos</strong>, além de ter uma <strong>visão ampla</strong> sobre <strong>todo o processo</strong> de <strong>desenvolvimento </strong>e <strong>publicação </strong>de um aplicativo para mobile do ínicio ao fim.</p><p><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Como criar um Jogo Completo para iOS - iPhone e iPad", 
+    "price": "30.00", 
+    "instructors": "Tito Petri", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/639158_9993.jpg", 
+    "course_url": "https://www.udemy.com/iosgames/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-13T11:49:47Z"
+}

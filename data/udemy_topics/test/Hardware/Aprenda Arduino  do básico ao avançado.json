@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Nesse curso, a Tati Ferandes - programadora, maker e apaixonada por tecnologia vai te ensinar  Arduino do básico ao avançado com pequenos projetos interativos, até construirmos nosso projeto final: um regador automático para suas plantas. Vamos aprender a construir nossos próprios sensores de umidade e mais: vamos fazer tudo com o tema do Super Mario Bros. para deixar tudo mais legal!</p>", 
+    "end_date": null, 
+    "title": "Aprenda Arduino: do básico ao avançado", 
+    "price": "25.00", 
+    "instructors": "Experimentoria Centro de aprendizado maker", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/714810_ef7c_2.jpg", 
+    "course_url": "https://www.udemy.com/aprenda-arduino/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-03T20:52:02Z"
+}

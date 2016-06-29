@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t    This course will guide and educate you on how to setup complex design for your lab environment using VMware Workstation. After Completion of these videos, you will:  </p>  <ul style=\"\">  \t<li>Understand what VMware Workstation is</li>  \t<li>How to set up your VMware Workstation from sratch</li>  \t<li>Allocate IP Address space to your various testing environment</li>  \t<li>Understanding how VMware Worksation interacts with your computer </li>  \t<li>Understanding how VMware Workstation works with other virtual guest application</li>  \t<li>Installation a virtual guest from scratch</li>  \t<li>Bridging your virtual guest to allow internet connectivity</li>  \t<li>How to route traffic between virtual guest on different network</li>  </ul>", 
+    "end_date": null, 
+    "title": "VMware Workstatation Lab Setup and Configuration!!", 
+    "price": "30.00", 
+    "instructors": "Tyco Taygo", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/275342_5962_3.jpg", 
+    "course_url": "https://www.udemy.com/vmware-workstatation-lab-setup-and-configuration/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-05T16:21:50Z"
+}

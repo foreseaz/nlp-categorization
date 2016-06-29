@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  This is a Codename One crash course that uses existing demos: Dr. Sbaitso &amp; PropertyCross to explain the various features of Codename One and in the process teaches you how to build a simple mobile app for iOS, Android etc...  </p>  <p style=\"\">  \t  This course is intended for Java developers and fans who are interested in building mobile apps and want to get a general sense of how this can be done. The course is structured as a code review that explains the demo in great details.  </p>", 
+    "end_date": null, 
+    "title": "Learn Mobile Programming  By Example With Codename One", 
+    "price": 0, 
+    "instructors": "Shai Almog", 
+    "commitment": "39 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/410932_7221.jpg", 
+    "course_url": "https://www.udemy.com/learn-mobile-programming-by-example-with-codename-one/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-02T14:21:28Z"
+}

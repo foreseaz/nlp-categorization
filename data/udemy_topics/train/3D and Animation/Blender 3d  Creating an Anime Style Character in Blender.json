@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>So basically what this course is is a series for people who want to learn how to make a character in blender from a reference image. This is fundamental in character modeling. Weather it be for games or a film modeling a character from a reference image is usually how the job gets done. In this course I will go over getting started in blender, then I jump right into modeling, afterwards we rig and pose the character. </p><p>This course I about quickly learning the modeling and rigging process for character creation in blender. Lots of courses teach you about the modeling basics but never really show you how to put something (in this case someone) together. This is what I do in this course.</p><p>Just so that you are familiar the terms I will be using in this series are as follows:</p><p>Extrude (E) : The process of taking existing geometry and extending it to form new shapes. </p><p>Rotate (R) : The process of rotating geometry in blender.                                             </p><p>Scale (S) : The Process of resizing geometry in blender.                                                   </p><p>Grab (G): The process of moving geometry in blender.                                                 Select (Right Click): The process of selecting Geometry in Blender. To select more than one object or piece of geometry hold shift while right clicking.                                     </p><p>Object Mode: The default mode in blender.                                                                      </p><p>Edit Mode: Once and object is selected in object mode ( note that the object must be geometry, not lights or cameras) hit the tab button on your key board and the you will have entered Edit Mode.                                                                                                             </p><p>Rigging: The process of adding bones to a mesh to enable it to be animated through the bones.                                                                                                                               </p><p>Weight Painting: Setting the amount of influence a bone or a vertex group has on an object.</p><p>The Materials needed are a computer or a laptop preferably with a number pad.</p><p>If you follow this course in its entirety it should take a few weeks to a month to complete. But its well worth the wait.</p><p>You should take this course if you want to finally learn how to make characters in blender for your own use. If you have a model sheet that you would like to see come to life then take this course.</p>", 
+    "end_date": null, 
+    "title": "Blender 3d: Creating an Anime Style Character in Blender", 
+    "price": "45.00", 
+    "instructors": "Darius Young", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/769728_ea2d_2.jpg", 
+    "course_url": "https://www.udemy.com/blender-3d-creating-an-anime-style-character-in-blender/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-21T18:24:24Z"
+}

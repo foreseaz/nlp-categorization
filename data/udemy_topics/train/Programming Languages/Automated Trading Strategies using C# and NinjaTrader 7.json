@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   In this course, we&#039;ll be walking hands-on-tutorial-style through the creation of an automated trading strategy using C# and the NinjaTrader platform, as well as methods for testing out its potential success. By the end of the lectures, you should be able to not only create a simple trading strategy, but also understand how to test it against historical market data, debug it, and even log data into a custom database for further analysis. Even if you have limited C# and trading strategy experience, the examples in this book will provide a great foundation for getting into automated trading and safely testing out strategy ideas before risking real money in the market.  </p>  <p style=\"\">  \t   This video walks through the same material presented in the e-book Automated Trading with C# and NinjaTrader 7.<a href=\"https://leanpub.com/csharpninjatrading\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\"></a>  </p>", 
+    "end_date": null, 
+    "title": "Automated Trading Strategies using C# and NinjaTrader 7", 
+    "price": "20.00", 
+    "instructors": "Ryan Moore", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/253686_63b2_6.jpg", 
+    "course_url": "https://www.udemy.com/csharpninjatrading/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-01T11:11:56Z"
+}

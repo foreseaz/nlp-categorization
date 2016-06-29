@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Electrical Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    Vous connaissez GSM, 3G ou LTE ? Venez découvrir ce qui se cache derrière ces sigles et comprendre comment fonctionnent ces réseaux qui vous permettent d'accéder à l'Internet et de communiquer, que vous soyez en ville ou à la campagne.\r\nLes objectifs de ce cours sont les suivants :\r\nconnaître les principes généraux communs aux réseaux cellulaires\r\ncomprendre l'architecture des réseaux cellulaires et ses composantes principales : le réseau d’accès et le réseau-cœur : illustration avec GSM et LTE\r\nassimiler les principes de l'interface radio des réseaux cellulaires\r\nconnaître quelques procédures radio de base\r\nconnaître les évolutions prévues des réseaux LTE\n\n                                    ", 
+    "end_date": "2015-05-19T00:00:00Z", 
+    "title": "Introduction aux réseaux mobiles", 
+    "price": 0, 
+    "instructors": "Alexander Pelov and Xavier Lagrange", 
+    "institution_name": [
+        "Institut Mines-Télécom"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.france-universite-numerique-mooc.fr/courses/MinesTelecom/04001S03/session03/about", 
+    "duration": "9 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "France Université Numerique"
+    ], 
+    "start_date": "2015-03-17T00:00:00Z"
+}

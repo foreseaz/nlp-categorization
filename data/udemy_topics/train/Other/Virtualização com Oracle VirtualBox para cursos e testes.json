@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Aprenda passo a passo como instalar o Oracle VirtualBox e criar máquinas virtuais que irão lhe ajudar no dia a dia de estudo na área de TI. Cobriremos desde o download do software e instalação, até a criação da máquina virtual e instalação do sistema operacional Windows 7, com características avançadas, como compartilhamento de pasta entre a máquina real e a máquina virtual, os diferentes modos de rede, discos dinâmicos e fixos, nossa aula bônus com dicas de softwares do gênero e muito mais!</p>", 
+    "end_date": null, 
+    "title": "Virtualização com Oracle VirtualBox para cursos e testes", 
+    "price": 0, 
+    "instructors": "Felipe Mafra", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/844428_58f4.jpg", 
+    "course_url": "https://www.udemy.com/virtualizacao-com-oracle-virtualbox/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-10T01:48:55Z"
+}

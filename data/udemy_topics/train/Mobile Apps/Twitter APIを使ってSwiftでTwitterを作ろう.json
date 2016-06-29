@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>このコースはTwitter APIをバックエンドとして利用してリアルなTwitterアプリを作成します。このコースでAPIの使い方を習得すれば今後どのようにしてRailsやPHPで作成したバックエンドを利用してアプリを作っているのかが理解できるようになり、今後のアプリ開発に役立つことでしょう。</p><p>このコースをマスターすることでURLを使って情報を習得しJSON式のデータをアプリに表示させることができます。流行りのParseより複雑な作業ができるようになります。</p><p>コースは約３週間でマスターできるように作成されています。</p><p>このコースの教材内容はjson形式にデータをどのようにして習得したり投稿したりするかと、どのようにしてjson形式のデータをswiftで処理をするかが中心になっています。</p><p>このコースを受講して新たなステージに進みましょう。</p>", 
+    "end_date": null, 
+    "title": "Twitter APIを使ってSwiftでTwitterを作ろう", 
+    "price": "25.00", 
+    "instructors": "Ryo Fukuda", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/701348_a1cf_2.jpg", 
+    "course_url": "https://www.udemy.com/twitterapi-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-19T09:04:25Z"
+}

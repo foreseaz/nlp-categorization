@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Kursumuz JQuery Mobile hakkındadır. Bu kurstan yararlanabilmek için temel düzeyde Javascript, HTML, CSS ve JQuery biliyor olmanız gerekmektedir. Kursumuz 1 saat olup hem izleyip hem uygulama yaparsanız ortalama 2 saat 30 dakikada eğitimi başarılı bir şekilde bitirebilirsiniz. Eğitimimiz de gösterip yaptırma tekniği kullanılmış olup bir örnek geliştirerek anlatılmaktadır. JQuery Mobile profesyonelce öğrenmeye başlamadan önce temel hatlarıyla JQuery Mobile tanımak için kursu almanızı tavsiye ediyorum.</p>", 
+    "end_date": null, 
+    "title": "JQuery Mobile - Yeni Başlayanlar İçin", 
+    "price": 0, 
+    "instructors": "Fatih Gürdal", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/470826_45b7_4.jpg", 
+    "course_url": "https://www.udemy.com/jquery-mobile-yeni-baslayanlar-icin/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-08T13:21:56Z"
+}

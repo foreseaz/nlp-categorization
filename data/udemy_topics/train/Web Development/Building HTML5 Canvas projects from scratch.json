@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Best way to learn is by <strong>real examples of code</strong>, showing you how the code works together to <strong>create amazing applications from scratch</strong>.</p><p>Canvas drawing is done using JavaScript, this course focuses on JavaScript based around HTML5 canvas interactions.  Also covers some basic AJAX, PHP, JQUERY, Bootstrap.</p><p>HTML5 canvas provides an amazing opportunity to create some really cool effects on web pages.  This course will show you how to build projects from scratch, using HTML5 and JavaScript.  How to use JavaScript applying it to the canvas to create animation and user generated content on the fly.</p><p>I have over 15+ years of web development experience, and have worked on hundreds of web applications just like these.   One of the best ways to learn is by example, so I've created some projects that really demonstrate core applications that can be created using html5.</p><p>This course is designed to help you learn and develop skills for working on real world concepts using JavaScript and HTML5.  Starting from scratch, step by step explanations of what code to use and where.  We demonstrate how the code gets used, in addition to the process of building something from concept to launch.</p><p>All of the source files are included, top resources and links are shared throughout the course.  Code samples are explained step by step, and you are encouraged to work along with the course material.</p><p><strong>Project one canvas animation tutorial - designed to demonstrate animation in HTML5 canvas</strong></p><ul><li>Covers basic concepts of how to animate in canvas</li><li>JavaScript to use that helps with animation</li><li>how to draw paths on canvas using JavaScript</li><li>how to create arcs and circles</li><li>Added object effects in JavaScript - random colors and shadows</li><li>how to apply logic to create a continuous animation</li></ul><p><strong>Project two create user generated images - learn how to draw on the HTML5 canvas and output those images.</strong></p><ul><li>basics of scoping a project from scratch</li><li>setup html5 field types and buttons</li><li>link to bootstrap and jquery</li><li>apply event listeners for user interaction</li><li>get mouse cursor position and calculate actions</li><li>event triggered functions</li><li>pass base64 image data to webpage</li><li>use AJAX to send image data to the server</li><li>use PHP to generate png files from the HTML5 canvas drawing</li></ul><p>In addition, I provide regular support to students.  Also course upgrades and new projects will be added regularly.</p><p>The code in these projects is included!!! for you to be able to get a jump start on creating your own projects using Canvas.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Building HTML5 Canvas projects from scratch", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/778226_8bac_2.jpg", 
+    "course_url": "https://www.udemy.com/building-html5-canvas-projects-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-29T21:18:57Z"
+}

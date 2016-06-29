@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>Install Your Own CGI &amp; PHP Scripts On To Your Server Without Having To Hire A Programmer</span>  </p>  <p>  \tInstalling scripts on your own server can be an extremely challenging task for most people. Many choose to hire someone else instead to do the job for them.  </p>  <p>  \tHowever, if you’re just starting out with a low budget, it could be a pain for you to keep on outsourcing other people because the total cost will be quite high. Therefore, the solution is to learn yourself on how to do it. Once you’re able to install your own scripts, it will be very easy for you to do the same task anytime in the future.  </p>  <p>  \tThe videos will walk you through step-by-step on how I install my PHP and CGI scripts on my own server. I’m confident that you’ll be able to do the same once you’ve watched them and try them out on your own.  </p>  <p>  \tThe overall process of script installation is almost quite similar except that in a few cases, there are special needs for the specific script to be installed. Therefore, I have chosen a few scripts where the installation process differ slightly from one another.  </p>  <p>  \t<strong>Video Series #1: </strong><br>  \tThese videos show the installation of an ad tracking script called ‘Adtrackz’. It is one of the most popular stand-alone ad-tracking scripts on the market, period! I’ll show you how you can install this script quickly &amp; easily, faster than you could ever imagine. You’ll learn on how to set up MySQL database, integrating the script with the database, uploading of files to your server, CHMOD, etc.  </p>  <p>  \t<strong>Video Series #2:</strong><br>  \tThis script is called ‘EasyClickMate’. It is a very popular script among internet marketers who are selling products via Clickbank and wish to run and manage the affiliate program effectively and efficiently. You’ll learn on how to set up MySQL database, integrating the script with the database, uploading of files, CHMOD, etc.  </p>  <p>  \t<strong>Video Series #3: </strong><br>  \t‘Parabots autoresponder’ lets you manage your own stand-alone autoresponder script on your server. Tutorials include the setting up of MySQL database, creating the cron jobs, piping emaill subscriptions, populate the MySQL databases from MyPHP admin area, uploading of files, setting up the email settings, etc.  </p>  <p>  \t<strong>Video Series #4:</strong><br>  \tThis script is called Turbo Easy Content Delivery’. This script allows automating the distribution of your products. With this unique software, you can pre-program how and when your content will be delivered to your subscribers. You’ll learn on how to set up MySQL database, populating the database from MyPHP admin area, integrating the script with the database, uploading of files, CHMOD, etc.  </p>  <p>  \t<strong>Video Series #5: </strong><br>  \tThis script is called ‘Proanalyzer’.It is an ad tracking script which is almost similar to Adtrackz. The installation is quite easy and straight forward. You’ll learn how to upload files, set up MySQL database, CHMOD files, etc.  </p>", 
+    "end_date": null, 
+    "title": "DIY Install Scripts", 
+    "price": "45.00", 
+    "instructors": "YJ  Kim", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/321692_0f2e.jpg", 
+    "course_url": "https://www.udemy.com/diy-install-scripts/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-17T17:52:39Z"
+}

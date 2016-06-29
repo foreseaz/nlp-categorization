@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Bu kurs ile <strong>ASPNET MVC 5</strong> projelerinizde verilerinizi listelemek için gerekli olan tablo görünümünü(Grid) oluşturabileceksiniz. Bunun için <strong>GridMVC isimli ücretsiz bir çalışma</strong>dan faydalandım. Böylece kolayca ve şık bir şekilde verilerinizi gösterebilecek ve üzerinde <strong>sıralama(sorting)</strong>, <strong>süzme(filtering)</strong>, <strong>sayfalama(pagging)</strong> ve benzeri işlemleri <strong>hiç </strong><strong>kod yazmadan</strong> yapabileceksiniz.</p><p>Projelerinizi geliştirirken sizlere maksimum fayda ve hız kazandıracağına emin olduğum bu aracı, projelerinize entegre etme, özelliklerini tanıma ve anlamaya çalış sürecinizi hızlandırmak için bu kursu sizlere hazırladım.</p><p>Kurs boyunca örneklerimizi <strong>Visual Studio 2013</strong> 'de geliştirdim. Sizlerde örneklerinizi <strong>Visual Studio 2012 ve üstü</strong> herhangi bir versiyon gerçekleştirebilirsiniz.</p><p>Kurs boyunca tüm özellikleri baştan sona aynı proje üzerinde geliştirerek, ihtiyaçların oluşması ve çözüm üretme şeklinde kurguladım. Bu sebeple videolar bu doğrultuda birbirini takip eden bir yapıdadır. Sıra ile izlemenizi tavsiye ederim.</p><p><strong><em>Umarım faydalı olur, başarılı projeler geliştirmeniz </em></strong><strong><em>dileklerimle..</em></strong></p>", 
+    "end_date": null, 
+    "title": "ASP-NET MVC 5 ile Grid-MVC Kullanımını Öğrenin", 
+    "price": 0, 
+    "instructors": "Kadir Murat BAŞEREN", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/653836_fb16_5.jpg", 
+    "course_url": "https://www.udemy.com/asp-net-mvc-5-ile-grid-mvc-kullanimini-ogrenin/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-28T20:45:34Z"
+}

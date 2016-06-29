@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em><strong>The world of mobile app development is quickly becoming a crowded and complicated space, especially for those outside of the development niche. “Which development platform should I use?” “Do I go native or Web-based?” “Which devices should I plan for?” “Can I build my mobile website by hand or should I use a pre-built package?” The questions are endless.</strong></em></p>\n\n<p>As a designer, my job is to help my clients answer these questions. I try to stay in the category of “knowing enough to be dangerous,” and I keep tabs on the latest mobile development trends, one being the growing popularity of mobile Web apps.</p>\n\n<p>Sencha Touch is <strong class=\"redactor-inline-converted\">one of the most powerful HTML5 mobile frameworks</strong> available. It uses HTML, CSS and JavaScript to create native-like \nmobile applications, and with the help of PhoneGap these applications \ncan even be submitted to native app stores (IOS, Android, Blackberry, \nWindows phone and others).</p>\n\n<p>This is <strong class=\"redactor-inline-converted\">not</strong> a normal tutorial; it is a complete \nguide for beginners to Sencha Touch. It's dedicated to destroying all \nobstacles a beginner may run into. It does not focus on teaching the ins\n and outs of Sencha Touch itself but rather focuses on the bigger \npicture and how everything pieces together - how to get from one step to\n the next. It follows the problems I encountered along my journey of \nlearning Sencha Touch and I walk you through all the tricky things you \nneed to know and point you to all the resources that I found most \nhelpful in learning the framework.\n\n  </p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">Here's a glance at just some of the things you'll learn:</strong>\n\n</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Set up the Perfect Development Environment\n\n  </li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Getting Started with First Sencha Touch App\n\n  </li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>The easy way to Understand The MVC File Structure\n\n  </li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Handling Interactions with Controllers and Defining Views\n\n  </li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Designing Forms for Efficient Data Entry \n\n  </li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Building a Contact Manager\n\n  </li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Building a Blog Posts Application\n\n  </li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Export your apps to Different Platforms\n\n  </li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>And more …\n\n  </li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>By the end of this course, you should be well on your way to deploying a complete app across multiple mobile platforms and save you time learning the code necessary for each platforms.\n\n  </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Enrol now!</strong>\n\n  </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p> \n\n <br></p>", 
+    "end_date": null, 
+    "title": "Build Great Web Apps With Sencha Touch", 
+    "price": "20.00", 
+    "instructors": "Fettah Ben", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/812556_1b4e_4.jpg", 
+    "course_url": "https://www.udemy.com/sencha-touch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-04T16:20:26Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>VMware vSphere 6.0 is the platform businesses depend on to deploy and manage their virtualized Windows and Linux workloads. In this course you will learn the concepts, skills and mechanics you need to get you started  as a VMware vSphere 6.0 administrator.</p><p><strong>Learn vSphere 6.0 from the ground up</strong></p><p><strong><strong></strong></strong>This course covers four major topics that all vSphere 6 administrators must know:<br></p><ul><li>First, we start by learning how to <strong>install and configure the ESXi 6.0 hypervisor</strong>. From there, we configure ESXi host management networking, join our host to a Windows AD domain, set up time services and much more</li><li>Next, we explore <strong>virtual and physical networking</strong>. Virtual networking is used to provide Ethernet and TCP/IP networking to VMs. Physical networking is used by both ESXi and VMs to communicate to physical network peers. You will learn to build NIC teams for fast, reliable networking, and how to enable Cisco Discovery Protocol on your virtual Switches</li><li><strong>ESXi can use file shares</strong> for Virtual Machines, for backups and as a repository for install media images or to hold VM clones or templates. We will see the file choices ESXi supports, how to connect and disconnect from file shares and best practices for achieving both high performance and redundancy</li><li>Finally, we will <strong>learn how to build virtual machines</strong>. You will learn about the features and capabilities of the virtual hardware layer, how to install a guest OS into your new VM, the purpose and benefits of VMware Tools and how to optimize your VMs for best performance and lowest resource overhead.</li></ul><p><br></p><p><br><strong></strong></p><p><br></p>", 
+    "end_date": null, 
+    "title": "VMware vSphere 6.0 Part 1 - Getting Started", 
+    "price": "20.00", 
+    "instructors": "Larry Karnis", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/593108_ff38_3.jpg", 
+    "course_url": "https://www.udemy.com/getting-started-with-vmware-esxi-60-hypervisor/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-25T16:51:47Z"
+}

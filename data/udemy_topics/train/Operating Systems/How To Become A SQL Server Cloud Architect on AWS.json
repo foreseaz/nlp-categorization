@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course focuses on moving <strong>SQL Server Databases</strong> to Amazon's Cloud. Amazon's cloud is called <strong>AWS</strong> which stands for <strong>Amazon Web Services </strong>and their database offering is called <strong>RDS</strong> or <strong>Relational Database Service</strong>.</p><p>This course is <strong>NOT</strong> for any of the current AWS certifications. Currently, there are <strong>NO</strong> database specific <strong>certifications</strong> for Amazon's RDS platform. </p><p>This course <strong>WILL</strong> give you the skills necessary to move SQL Server Database to Amazon's cloud. The course will provide <strong>YOU</strong> with <strong>REAL WORLD</strong> examples on how to <strong>MOVE</strong> your existing database to the cloud. </p><p>Amazon's control <strong>58%</strong> of the cloud market and is spending approximately a <strong>BILLION</strong> a year on cementing that lead over it's closest competition, which is Microsoft Azure. Currently, Azure comes in second at 12%. </p><p>As a SQL Server Consultant I can tell you that many of my customers are <strong>MOVING</strong> to Amazon's various cloud offerings. </p><p>There are still many <strong>LIMITATIONS</strong> and nuances to moving SQL Server Databases to the cloud. We will discuss many of these in the course. </p><p>The code, applications, and TOOLS (like Management Studio) you already use today with your existing databases can be used with Amazon RDS. Amazon RDS <strong>AUTOMATICALLY</strong> patches the database software and backs up your database, storing the backups for a user-defined retention period and enabling point-in-time recovery. </p><p>Amazon RDS makes it easy to use replication to enhance availability and reliability for production workloads. Using the Multi-AZ deployment option you can run <strong>MISSION CRITICAL</strong> workloads with high availability and built-in automated fail-over from your primary database to a synchronously replicated secondary database in case of a failure. </p><p>Availability zone replication is very much like having a built in SQL Server Cluster with the click of a button. This course will set up SQL Server Availability Zones for our<strong> HIGH AVAILABILITY </strong>needs. </p><p><strong>ENROLL NOW!!. Let's Get Started</strong></p>", 
+    "end_date": null, 
+    "title": "How To Become A SQL Server Cloud Architect on AWS", 
+    "price": "20.00", 
+    "instructors": "Mike West", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/477944_b653_5.jpg", 
+    "course_url": "https://www.udemy.com/how-to-become-a-sql-server-cloud-architect-on-aws/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-16T12:13:34Z"
+}

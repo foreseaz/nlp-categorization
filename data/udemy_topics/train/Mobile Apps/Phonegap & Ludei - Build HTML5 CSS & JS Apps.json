@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will cover all standard Cordova API’s in a clear, well structured way. Each lecture will guide you through how the hybrid app model works so you really get to understand what’s going off under the hood. You’ll be learning the most advanced API’s, also I tell you what an API is, such as the file system API that can be complex. However I’ll break every single API down and go into detail about how each API works. On top of that I’ll give you some general understanding of the hardware sensors such as the accelerometer, compass and geolocation sensor’s.</p><p>All in all this course is here to take you from a web developer and give you the skills to develop hybrid app’s. Also this course is not only giving you understanding of the API’s we go further than that! As an app developer I know what it’s like coming from a web developer background. Most people have to gain certain experience whilst they become an app developer. This course gives you real world knowledge of what you should and shouldn’t do; it gives you the correct perspective of UI and UX principles and finally gives you general understanding of security and privacy. The revolution of Edward Snowden and many scare stories makes understanding privacy and security and how to deal with your user’s is most important for any app developer today.<span><br></span></p><p>On top of all this you’ll learn how to use the CocoonJS platform which allows acceleration of HTML5’s 2D canvas element and WebGL for 3D graphics. This is impressive and really goes to show how developing in the hybrid app market is going to change rapidly. The future truly is bright for us hybrid app developers.<span><br></span></p><p><span>In short this course is an all rounder and will give you a massive leg up. Not just showing code and giving a general overview, but teaching you how your code is executed and how Cordova and the hybrid app model works under the hood. On top of all that you’ll get some real life experience! Not just coding but principles, guidelines and best practices for security or otherwise.<span><br></span></span></p>", 
+    "end_date": null, 
+    "title": "Phonegap & Ludei - Build HTML5 CSS & JS Apps", 
+    "price": "50.00", 
+    "instructors": "Lawrence Turton", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/442690_53b6_6.jpg", 
+    "course_url": "https://www.udemy.com/phonegap-ludei/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-09T12:07:31Z"
+}

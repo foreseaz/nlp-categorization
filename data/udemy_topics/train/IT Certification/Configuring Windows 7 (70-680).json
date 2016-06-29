@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Welcome to the <strong>Configuring Windows 7 (70-680)</strong> <br></p><p>In this course you will learn about all features that you need to know about windows 7, how to configure and network this operating system. It's very good to know about how to install and configure windows 7, set permission , set policy , install printers and manage Disks and etc..</p><p> It is the best way to prepare for Microsoft exam and earning 70-680 certification and find job via enroll in this course </p><p><strong>Course Overview</strong>:</p><p>You will learn about how configure, install and network windows 7 and you can use virtual Machine like VMWare Workstation or Virtual Box Machine.</p><p>By the end of this course you will be expert in windows 7 and you will learn about how to network windows 7 with other operating systems and set policy for users, determine their access and other features in windows 7.</p><p><strong>Course Breakdown:</strong><span></span></p><p><br><strong>Session 1</strong>: You will learn  about network concepts and devices such as Routers, Switches and hubs. You learn about network addresses such as MAC Address and IP Address<br></p><p><strong>Session 2</strong>: You will learn about features of windows 7 and how to Create users, set permission on NTFS Partitions, how to Lock partitions via Bit Locker, how to encrypt or decrypt  files or folders, how to connect via VPN and access to the share resource with VPN, how to Sharing internet connection and other features</p><p><strong>Session 3</strong>: You will learn about how to set policy such as password policy, account policy. You will learn about how to Restrict software for all users or special users and groups</p><p><strong>Session 4</strong>: You will learn about how to install and share printers. How to set several ports for printer. Learn about what is the Printer Permissions and set permission for printers and install one printer driver with different print priority.  How to install network interface printer, these printers can connect to network directly and we can set IP for those printers. </p><p><strong>Session 5</strong>: You will learn about how to manage you Disks. what is the Basic and Dynamic Disks. Create different Volumes such as Simple, Spanned, Stripped and Mirrored in Disk Management part in windows and create these types of volume via Command Line<br></p>", 
+    "end_date": null, 
+    "title": "Configuring Windows 7 (70-680)", 
+    "price": "20.00", 
+    "instructors": "Aatef Jaberi", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/712374_42d3_4.jpg", 
+    "course_url": "https://www.udemy.com/configuring-windows7/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-01T11:40:26Z"
+}

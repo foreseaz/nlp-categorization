@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Dieses Training führt Sie Schritt für Schritt in die Welt des beliebten Mikrocontrollers ein. Sie lernen nach einer gründlichen Einführung, wie Sie Leuchten, Sensoren und Motoren steuern, den Arduino als Musikinstrument oder BPM-Detektor einsetzen, einen Müdigkeitssensor bauen und eine aufwendige Lightshow realisieren. Ihr Trainer Ramin Soleymani zeigt Ihnen, was alles in dem kleinen Controller steckt, wenn er gemeinsam mit Ihnen mit Bewegungssensoren und Webcams eine Hausüberwachung programmiert. Das Beste: Sie benötigen für dieses Training kein Vorwissen!</p><p>- Faszinierende Elektronik-Projekte umsetzen</p><p>- Spielerisch programmieren lernen</p><p>- Kein Vorwissen erforderlich</p><p>Ramin Soleymani ist Informatiker und Workshop-Dozent. Bis 2012 hat er an der Universität Duisburg-Essen im Bereich Wireless Sensor Networks geforscht. Seitdem arbeitet er als selbständiger Software-Entwickler in Berlin, gibt Kurse zu Arduino und Processing und ist Mitorganisator und Dozent bei kreativen Programmierer-Veranstaltungen wie »Creative Coding Berlin« und dem »Science Hack Day«.</p>", 
+    "end_date": null, 
+    "title": "Das Arduino-Training – Sehen wie’s geht!", 
+    "price": "40.00", 
+    "instructors": "Rheinwerk Verlag", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/559518_77f3.jpg", 
+    "course_url": "https://www.udemy.com/das-arduino-training-sehen-wie-es-geht/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-20T15:45:15Z"
+}

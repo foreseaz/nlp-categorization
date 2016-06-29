@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Theoretical Computer Science"
+    ], 
+    "description": "\n\n                    \n                    \n                    Understanding how to approach programming problems and devise a solution is an essential skill for any Python developer. In this course, you’ll learn new concepts, patterns, and methods that will expand your coding abilities from programming expert, Peter Norvig.Why Take This Course?Move along the path towards becoming an expert programmer! In this class you will practice going from a problem description to a solution, using a series of assignments. During office hours segments, Peter will also share his own personal tips and tricks for approaching programming problems - and his techniques may surprise you!\n\n                                            Syllabus\n                        ### Lesson 1: Winning Poker Hands\n\nSteps of the design process; Developing for clarity and generality; \nArguments for program correctness; Experimentation and simulation.; \nDesign tradeoffs; Simplicity and Clarity. Decomposition and composability.\n                \n### Lesson 2: Back of the Envelope\n\n\nBack of envelope calculations; When to use brute force and when to be \nclever; The Zebra puzzle; Generator expressions; Permutations and \ncombinations. Cryptarithmetic; Recursive and wishful thinking; Longest palindrome \nsubstring algorithm.\n                \n### Lesson 3: Regular Expressions, other languages and interpreters                \n\nDefining the language of regular expressions; Interpreting the language; \nDefining the set of strings matched by a regular expression;  \nOther languages.\n                \n### Lesson 4: Dealing with complexity through search\n                \n\nSearch: finding your way with a flashlight or boat; pouring water. \nAnalyzing the efficiency of an algorithm; Recurrence relations; Matching \ndata types with algorithms.\n### Lesson 5: Dealing with uncertainty through probability\n                \n\nProbability: the game of Pig; Maximizing expected utility to optimize strategy. \n  \n### Lesson 6: Word Games                \n\nManaging complexity; Large sets of words; Appropriate data structures; Word games. \n                \n### Lesson 7: Conclusion\n\nInterviews and Practice Exam\n                                    ", 
+    "end_date": "2012-06-11T00:00:00Z", 
+    "title": "Design of Computer Programs", 
+    "price": 0, 
+    "instructors": "Peter Norvig", 
+    "institution_name": [
+        "Stanford University"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.udacity.com/course/design-of-computer-programs--cs212?utm_medium=referral&utm_campaign=api", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2012-04-16T00:00:00Z"
+}

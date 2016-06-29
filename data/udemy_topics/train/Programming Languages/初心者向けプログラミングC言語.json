@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Cのプログラミングを学習する人の８割以上は挫折して途中で放棄してしまいます。これは専門学校のような教育環境においても同じなのです。この原因はとても意外な部分にありました。コンピューターそのものの理解度が低いことが原因で起きるのです。</p>本講座では、まずコンピュータの理解から始まり、実習主体で進みますので、楽しいうちに終了し、スキルが身につく講座です。", 
+    "end_date": null, 
+    "title": "初心者向けプログラミングC言語", 
+    "price": "45.00", 
+    "instructors": "忠郎 渡邊", 
+    "commitment": "14 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/509218_014a_2.jpg", 
+    "course_url": "https://www.udemy.com/clang000001/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-22T21:38:53Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course teaches the <strong class=\"redactor-inline-converted\">fundamental electrical quantities</strong> that you need to understand to begin working with electronics. In the course, we cover <strong class=\"redactor-inline-converted\">voltage, current, resistance, and power</strong>: how they all fit together, and how they effect one another. The course is intended as the first module of an ongoing series: <strong class=\"redactor-inline-converted\">Electronics for Makers</strong>. This demo consists of the first half of the first module. If you want the full course, please look at the other corresponding courses in our profile.</p>\n\n<p>We’ll start with voltage and current and their relationship to one another. Power will then be introduced. All circuits consume power in some way, and various components use that power differently. Resistors dissipate power in the form of heat. But they also perform a very important function: they convert voltage to current, and current to voltage. By the end of the first unit, we’ll understand that concept fully. <br><br>In future modules, we’ll learn about <strong>diodes and transistors, capacitors and inductors</strong>, … eventually working our way up to digital logic and micro controllers. </p><p>I hope you’ll join me on the journey. </p>", 
+    "end_date": null, 
+    "title": "Introduction to Electronics for Makers", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/823396_a5ad_3.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-electronics-for-makers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-16T04:49:54Z"
+}

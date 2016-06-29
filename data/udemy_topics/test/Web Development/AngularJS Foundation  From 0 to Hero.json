@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">Note:Course fully updated in April 2016. Learn all of the core skills of AngularJS and see how it enhances web development in the future.</strong></p><p><strong class=\"redactor-inline-converted\">No matter you’re a beginner building your own website, or a professional seeking an edge on how to learn better app building, this AngularJS course is a great investment of 20 minutes to learn the best practices of creating apps from a veteran software engineer and a AngularJS expert every day. </strong></p>\n\n\n\n<p>What is AngularJS? AngularJS is a JavaScript MVC framework developed by Google that lets you build well structured, easily testable, and maintainable front-end applications.Nowadays,AngularJS continues to trend upward in the number of available jobs (which typically pay very well) and the number of applications being built. If you haven’t tried AngularJS yet, you’re missing out. The framework consists of a tightly integrated toolset that will help you build well structured, rich client-side applications in a modular fashion—with less code and more flexibility.A community of individuals and corporations maintained this open-source web application framework to address many of the challenges encountered in developing single-page applications.</p>\n\n<p>Our course is designed to make it easy for everyone to master AngularJS. It has been divided in to following main sections :</p>\n\n<ol><li><strong>Hello AngularJS<br></strong></li><li><strong>Building Modules<br></strong></li><li><strong>Controllers<br></strong></li><li><strong>Views<br></strong></li><li><strong>Services<br></strong></li><li><strong>Directives</strong></li></ol>\n\n<p>This amazing Course will help you quickly master all the difficult concepts and will the learning will be a breeze. </p>\n\n<p>Let's get started.</p>", 
+    "end_date": null, 
+    "title": "AngularJS Foundation: From 0 to Hero", 
+    "price": "20.00", 
+    "instructors": "EDULearning Academy, Inc", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/824968_8b83.jpg", 
+    "course_url": "https://www.udemy.com/angularjs-from-0-to-hero-/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-18T12:11:40Z"
+}

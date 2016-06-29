@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course I am going to cover everything you need to know about installing, configuring and maintaining a Minecraft server as well as making it secure against any unwanted guests. We are also going to cover how to backup and restore your worlds in case of unexpected emergencies.</p><p><b>This Course is the A-Z Guide on Securely Setting up a Minecraft Server.</b></p><p>We are going to cover:</p> <ul><li>Installation and maintenance of Minecraft server</li> <li>Configuring Minecraft server settings</li> <li>oWhitelisting players</li> <li>oOpping players</li> <li>oBanning players</li> <li>Setting port forwarding on your router</li> <li>Security recommendations</li></ul> <p>In this course, you are going to learn the following:</p> <ul><li>How to install and configure a Minecraft server</li> <li>How to setup your router</li> <li>How to connect to the game (both local and remote)</li> <li>How to secure your server </li> <li>How to backup your worlds </li></ul> <p><b>This course has everything you need to know about setting up and securing your server.</b></p><p>We will go over every setting step by step and give a detailed description of what everything will affect in your world. We will also cover how to maintain player lists as well as white listing ONLY the players you want to be able to connect. We will cover how to connect to the server and take a look at server logs. Lastly, we will cover how to update your server, so you are always playing on the latest version of Minecraft.</p><p>In the end of the course we are going to cover my personal security and performance suggestions and recommendations. There are many ways to setup and secure a Minecraft server, but not all of them are right. I go into each scenario and explain why we are going to set certain items the way we do. This allows us to both be safe, but also limit lag for external players. </p>", 
+    "end_date": null, 
+    "title": "Setting up a Secure Minecraft Server", 
+    "price": "25.00", 
+    "instructors": "Andy Swinford", 
+    "commitment": "36 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/509282_29b7_3.jpg", 
+    "course_url": "https://www.udemy.com/setting-up-a-secure-minecraft-server/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-22T23:45:27Z"
+}

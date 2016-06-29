@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t This course introduces you to the power of Microsoft Excel starting from the beginning. You’ll learn how to open and close files, how to enter formulae into a cell, build basic charts and format a spreadsheet. You’ll learn how to use the most important features of Excel.  </p>", 
+    "end_date": null, 
+    "title": "Microsoft Excel - Level 1 - Foundations", 
+    "price": "30.00", 
+    "instructors": "eLearnExcel", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/93474_82f8_6.jpg", 
+    "course_url": "https://www.udemy.com/microsoft-excel-level-1-foundations/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-17T10:51:02Z"
+}

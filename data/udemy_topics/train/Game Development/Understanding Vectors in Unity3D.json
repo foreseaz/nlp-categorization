@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Vectors!</p><p>When we play video games, enjoy a simulation or work with physics, they are everywhere.</p><p>Did you Unity has tons of build in Vector features, and that Vectors are built in to the very foundation of the game logic?</p><p>In this course we'll cover all sorts of practical Vector things including:</p><ul><li>Observe Unity's build in Vectors for transform, rotation, and scale</li><li>Add, subtract and multiply vectors inside C#</li><li>Measure Vector distance</li><li>Find the angle between two vectors</li><li>Determine the magnitude of a vector</li></ul>This is a simple course intended for Unity beginners. If you are getting started with Unity, you will find this course a valuable addition to your other training. It will improve your Vector knowledge, allowing you to program physics in a flash.", 
+    "end_date": null, 
+    "title": "Understanding Vectors in Unity3D", 
+    "price": "20.00", 
+    "instructors": "Daniel Stern", 
+    "commitment": "36 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/591136_ef7c_2.jpg", 
+    "course_url": "https://www.udemy.com/unity-vectors/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-23T16:44:30Z"
+}

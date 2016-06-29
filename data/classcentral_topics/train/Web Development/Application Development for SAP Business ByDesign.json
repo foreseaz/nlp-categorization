@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Many small and medium-sized enterprises or subsidiaries of large corporations have chosen SAP Business ByDesign to run their business. SAP Business ByDesign is a complete, integrated suite that can run your whole enterprise, covering financials, human resources, sales, procurement, customer service, and supply chain. This cloud-based business management solution is accessible from anywhere, and it is constantly updated to ensure that it is always ahead of the game.\r\nThe business needs of small enterprises can be very specific and vary from company to company. Using plenty of demonstrations and giving you access to SAP Cloud Applications Studio, this openSAP course will teach you how to develop add-ons to meet your specific business needs. It also allows SAP partners and customers to increase their business by selling their add-ons to other companies interested in the same solution.\n\n                                    ", 
+    "end_date": "2015-07-15T00:00:00Z", 
+    "title": "Application Development for SAP Business ByDesign", 
+    "price": 0, 
+    "instructors": "Nick Rose", 
+    "institution_name": [], 
+    "commitment": "4-6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://open.sap.com/courses/byd1", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "openSAP"
+    ], 
+    "start_date": "2015-06-03T00:00:00Z"
+}

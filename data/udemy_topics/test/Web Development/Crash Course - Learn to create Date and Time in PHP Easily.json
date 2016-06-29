@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Have you even struggled with dates and time in PHP? </p><p>Have you ever wished there was an easier way to implement dates and time in PHP? </p><p>Then this course is for you. </p><p>In this course you will learn techniques that will allow you to create really awesome date and time functionality for your PHP applications.</p><p>Say good bye to complicated timestamp modifications and complicated code. No more  coding for hours building a time / date feature for your application. </p><p>With this course you will create time / date features for your application in seconds if not minutes.</p><p><strong>Why I created this course? </strong></p><p>I created this course because I saw myself spending too much time with dates and time when building my applications, so I needed a better solution. A solution that would take little time and a solution that was easy to implement. I figured if I was spending too much time on this,  others probably had the same issue, right? </p><p>Enjoy!</p><p>I love all my students and my success depends on theirs, or I should say on yours. Come join me in this course and learn to create date and time features the easy way. </p>", 
+    "end_date": null, 
+    "title": "Crash Course - Learn to create Date and Time in PHP Easily", 
+    "price": "20.00", 
+    "instructors": "Edwin Diaz", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/838418_ad38.jpg", 
+    "course_url": "https://www.udemy.com/crash-course-learn-to-create-date-and-time-in-php-easily/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-03T12:54:29Z"
+}

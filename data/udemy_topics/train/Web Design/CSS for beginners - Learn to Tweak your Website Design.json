@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t<span>Web pages are built with HTML, but styled with CSS. As with any other coding language, CSS has a learning curve that puts off many beginners. This course aims to change all that and make learning CSS fun. As you work through the tutorials, you can try out the examples, or try your own CSS and see the live preview of your code immediately to check if you got it right.</span>  </p>  <p>  \tThe course starts with an introduction to CSS where you can get your feet wet by creating your own uniquely styled Google&#039;s homepage.  </p>  <p>  \tAfter learning a few key phrases you&#039;ll move on to look at the three ways you can implement CSS into your web pages.  </p>  <p>  \tYou&#039;ll look at color, including web safe colors, and the different ways you can add color to your web pages.  </p>  <p>  \tWe&#039;ll look at how you can style any HTML element, from headers to lists using base selectors, before looking at the design power offered by Classes and IDs to really put your CSS designs into overdrive.  </p>  <p>  \tWith a great working knowledge of the main concepts in CSS, we&#039;ll cover the Box Model of CSS, which is a great source of confusion for many CSS beginners. Using a simple diagram as reference, you can roll up your sleeves and explore the Box Model with a simple CSS coding session. Not only can you follow along in real-time using the same free tool that I do, you can also experiment and have fun as you learn.  </p>  <p>  \tIf you are a<span> beginner to CSS or s</span><span>truggled with the learning curve in the past, then this course is for you, and offers you </span><span>a fun way to learn CSS, using free tools.</span>  </p>  <p>  \tCheck out the introductory lecture for free.  </p>", 
+    "end_date": null, 
+    "title": "CSS for beginners - Learn to Tweak your Website Design", 
+    "price": "20.00", 
+    "instructors": "Andrew Williams", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/393928_0e1c_5.jpg", 
+    "course_url": "https://www.udemy.com/css-course-css/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-14T13:01:42Z"
+}

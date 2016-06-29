@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>SAP is one of the leading IT companies in the market. SAP BusinessObjects is a powerful <strong>Business Intelligence</strong> tool that help you to discover hidden insight in your data. SAP BO has many modules for reporting like <strong>SAP BO web intellignece</strong>, crystal reports, dashboards, design studio and lumira. ALL these tools access data sources through SAP BO semantic layer known as Universe. Web Intelligence is the main reporting tool under SAP BO portfolio and it can be used to create <strong>classical </strong>as well as <strong>modern </strong><strong>reports</strong>. It is very simple and easy to learn tools and so it can be used by end business users to create their own reports (<strong>Self-Service</strong>). </p>", 
+    "end_date": null, 
+    "title": "Creating Reports with SAP BO (Webi) [Fast Track]", 
+    "price": "20.00", 
+    "instructors": "Eng. Taha Mahmoud", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/733220_eabd_2.jpg", 
+    "course_url": "https://www.udemy.com/creating-reports-with-sap-bo-webi-fast-track/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-18T19:59:55Z"
+}

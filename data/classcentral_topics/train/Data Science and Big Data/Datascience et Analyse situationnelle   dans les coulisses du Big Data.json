@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    A partir d’exemples concrets et actuels touchant des secteurs variés tels que l’automobile ou encore la santé et de concepts issus de la sociologie et des sciences cognitives, ce cours propose des méthodes pour une exploitation “intelligente” et efficace de ces données. Quelques unes des multiples facettes du Big Data seront abordées : les enjeux qu’il représente, la convergence entre l’Homme et la machine, les différentes technologies mobilisables et la nouvelle donne concernant la collecte, le travail et l’exposition des données notamment. Des interviews de professionnels du secteur de la gestion de données illustreront les concepts de manière pragmatique et des questions jalonneront votre apprentissage pour vous permettre de vous autoévaluer. Et à la fin des 5 semaines de cours une certification vous sera proposée pour attester de vos connaissances sur le Big Data.\r\nPrérequis\r\nAucun prérequis spécifique n’est nécessaire pour suivre ce cours.\n\n                                            Syllabus\n                        \r\nIntroduction\r\nModule 1 - La donnée : un nouveau secteur économique ?\r\nModule 2 - Big Data : dans la continuité ou dans la rupture ?\r\nModule 3 - L’Homme : une machine Big Data - La donnée : un nouveau secteur économique ?\r\nModule 4 - Le Big Data : avec quelle techno ?\r\nModule 5 - La collecte de la donnée : qu’est ce qui change ?\r\nModule 6 - Le travail sur la donnée : qu’est ce qui change ?\r\nModule 7 - L’exposition des données : qu’est ce qui change ?\r\nModule 8 - Les données crawlées sur internet : quels sont les pièges ?\r\n\n                                    ", 
+    "end_date": "2014-10-13T00:00:00Z", 
+    "title": "Datascience et Analyse situationnelle : dans les coulisses du Big Data", 
+    "price": 0, 
+    "instructors": "Jean-Pierre Malle", 
+    "institution_name": [
+        "IONIS"
+    ], 
+    "commitment": "2-3 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://courses.ionisx.com/courses/IONISx/002-002-003/2014-FALL/about", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "IONIS"
+    ], 
+    "start_date": "2014-09-08T00:00:00Z"
+}

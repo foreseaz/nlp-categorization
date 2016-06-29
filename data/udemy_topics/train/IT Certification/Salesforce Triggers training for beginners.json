@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Coding in Apex is similar to Java/C# in lot many ways, yet so different from them in few other ways. But one thing that is common is that the application of proper design patterns to solve the problem irrespective of platform or technological difference. This is very particular for the apex triggers, because in a typical Salesforce application, triggers play a pivotal role and a major chunk of the logic is driven through the triggers. Therefore a proper understanding of triggers is very essential, not only for successful implementations, but also for laying out a strong architectural foundation.</p><p>This course explains salesforce triggers step by step in most simplest manner.</p><p>Whether you&#039;re a brand-new or experienced Developer, get the core knowledge you need to get up to speed, perform at your best, and get the most out of Salesforce. This training is a must for application and Salesforce developers who want to create custom Force applications or customize existing Salesforce applications.</p><p> Learn the basics fast and easy with these step-by-step tutorials. </p><p> Like any software, the best way to learn it is to use it and this course is to be treated as a living and growing one, where new material and corrections would be added regularly. </p><p><strong style=\"\">Note</strong>: This course comes with lifetime access and will be updated regularly as per latest release of Salesforce and all future upgrades are free for existing subscribers.<br style=\"\"></p><p><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Salesforce Triggers training for beginners", 
+    "price": "20.00", 
+    "instructors": "Prateek Singh", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/606746_e75b_3.jpg", 
+    "course_url": "https://www.udemy.com/salesforce-trigger-training-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-09T07:07:38Z"
+}

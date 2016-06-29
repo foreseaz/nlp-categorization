@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Update 6/2016:  New lessons on porting our application to Android have been added!   See your glorious game run on a mobile device!</strong></p><p>Unity 3D  has quickly become one of today's fastest growing game development tools. Learn more about this fascinating game engine in our project-based class, where we build a Tetris-style puzzle game from scratch! If you have some basic knowledge of C# and Unity, take your skills to a new level by exploring this short course in remaking a classic arcade game.</p>\n\n<p>If you have completed a few basic tutorials on Unity and have some basic knowledge of C# (variables, loops, data structures, etc.),this class is for you! We take a project-based approach, where we follow one game from start to finish.<br></p>\n\n\n\n\n\n<p>We will:</p>\n\n\n\n\n\n<ul><li>start with a blank Unity project and flesh out a fully working game.</li><li>learn some fundamental techniques for creating your own puzzle game</li><li>follow several C# scripts line-by-line and learn how to organize our scripts logically and cleanly</li></ul>\n\n\n\n\n\n<p>What is covered:</p>\n\n\n\n\n\n<ol><li>Setup our project settings and environment</li><li>Breaking down the gameplay mechanics</li><li>Creating a Board class to store our data</li><li>Laying out user interface items</li><li>Creating our game piece Shape class</li><li>Setting up our master GameController class to handle logic</li><li>Apply Time to our game logic</li><li>Script to handle player input</li><li>Add sound effects to game events</li><li>Apply particle effects to add some punch to our graphics</li><li>Making a score manager to track player progress and high scores</li><li>Enhance our game with extra features to make it a polished experience</li></ol>\n\n\n\n\n\n\n\n<p>Join the democratization of game development! Level up your Unity 3D skills and build your Tetris-style game today!</p>", 
+    "end_date": null, 
+    "title": "Make a Tetris-style Puzzler in Unity", 
+    "price": "20.00", 
+    "instructors": "Instructor Wilmer Lin", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/765834_0921_8.jpg", 
+    "course_url": "https://www.udemy.com/make-a-tetris-style-puzzler-in-unity/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-17T21:25:15Z"
+}

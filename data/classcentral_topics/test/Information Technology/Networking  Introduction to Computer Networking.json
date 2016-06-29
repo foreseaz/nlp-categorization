@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Information Technology"
+    ], 
+    "description": "\n\n                                            Class Central Course Rank  \n                                                    \n                                #3 in Subjects\n                                                                    &gt; Computer Science\n                                                                                                    &gt; Information Technology\n                                                            \n                            \n                                                \n                    \n                    \n                    \r\nThis is an introductory course on computer networking, specifically the Internet. It focuses on explaining how the Internet works, ranging from how bits are modulated on wires and in wireless to application-level protocols like BitTorrent and HTTP. It also explains the principles of how to design networks and network protocols. Students gain experience reading and understanding RFCs (Internet protocol specifications) as statements of what a system should do. The course grounds many of the concepts in current practice and recent developments, such as net neutrality and DNS security.\r\n\r\nPREREQUISITES\r\nStudents need an introductory course in probability, a strong understanding of bits and bytes, and knowledge of how computers lay out data in memory.\r\n\n\n                                    ", 
+    "end_date": "2014-04-08T00:00:00Z", 
+    "title": "Networking: Introduction to Computer Networking", 
+    "price": 0, 
+    "instructors": "Nick McKeown and Philip Levis", 
+    "institution_name": [
+        "Stanford University"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about", 
+    "duration": "11 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Stanford OpenEdx"
+    ], 
+    "start_date": "2014-01-21T00:00:00Z"
+}

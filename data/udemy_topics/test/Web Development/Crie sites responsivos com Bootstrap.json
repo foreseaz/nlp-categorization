@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>O Bootstrap é uma ferramenta de framework que permite a produção de sites com tecnologia mobile (responsivo) sem a necessidade da programação CSS do zero.</p><p>O curso completo de Bootstrap possui 54 video aulas, contendo tudo sobre esse maravilhoso recurso de estilização de páginas web, neste curso pegamos todas suas classes e elementos que podem ser aplicados nas páginas web, mostro como usá-los para uma melhor estilização e criação de novos recursos para as páginas, adquira já o curso e se torne um front-end profissional.</p><p>Estarei disponível para qualquer eventual dúvida durante o curso. Um certificado será enviado para aqueles alunos que completarem todos os módulos.<br>Te vejo no curso!<br></p>", 
+    "end_date": null, 
+    "title": "Crie sites responsivos com Bootstrap", 
+    "price": "20.00", 
+    "instructors": "Hugo Vasconcelos", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/671770_3745_3.jpg", 
+    "course_url": "https://www.udemy.com/crie-sites-responsivos-com-bootstrap/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-16T23:45:20Z"
+}

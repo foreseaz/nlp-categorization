@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t      Los seres humanos utilizamos muchos lenguajes o códigos para intercambiar información. Aunque podamos estar hablando en distintos idiomas sabemos que los datos que intercambiamos son únicos, lo que cambia es el código que estamos utilizando para transmitir la información. Para poder comprender y utilizar esta información necesitamos conocer las reglas de este código, necesitamos conocer el idioma en el que se transmite la información.  </p>  <p>  \t      Los ordenadores y sistemas digitales, ¿en qué idioma hablan? Como aprenderás en este curso los sistemas digitales sólo entienden datos formados por ceros y unos.  </p>  <p>  \t      Podemos dividir la información que almacena y procesa un sistema digital en numérica y no numérica. Durante el curso <em>“Sistemas de numeración digital”</em> aprenderás como se codifica la información numérica utilizando únicamente unos y ceros. Empezando con la codificación de números enteros sencillos iremos avanzando poco a poco hasta codificaciones más complejas hasta llegar a la codificación de números racionales en coma flotante.  </p>  <p>  \t      Aunque este curso se centra principalmente en la información numérica no nos olvidamos de la información no numérica así que a lo largo de este curso también aprenderás algunos códigos para este tipo de información. Además analizaremos la importancia de los códigos para la detección y corrección de errores, estudiando alguno de estos códigos.  </p>  <p>  \t      El curso <em>“Sistemas de numeración digital”</em> está dividido en 6 bloques con más de 3 horas de video. Para asegurar los conocimientos adquiridos en los bloques más prácticos se incluyen colecciones de ejercicios y tests para que puedas practicar y comprobar tu nivel de asimilación de los conceptos.  </p>  <p>  \t      No es necesario que tengas un nivel tecnológico alto para seguir este curso, es suficiente con unos conocimientos básicos de matemáticos (sumas, restas, multiplicaciones, divisiones). Empezaremos con conceptos muy sencillos que formarán las bases para seguir avanzando.  </p>  <p>  \t      ¿Quieres saber qué lenguaje hablan los ordenadores? En este curso comenzarás a entenderlo.  </p>", 
+    "end_date": null, 
+    "title": "Sistemas de numeración digital: 1's y 0's en los ordenadores", 
+    "price": "20.00", 
+    "instructors": "Susana Ezquerra Díaz", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/261252_7647.jpg", 
+    "course_url": "https://www.udemy.com/sistemas-numeracion-digital/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-14T18:16:05Z"
+}

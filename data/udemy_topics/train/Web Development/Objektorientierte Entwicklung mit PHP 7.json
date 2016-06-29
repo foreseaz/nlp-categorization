@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Lern objektorientierte Entwicklung mit PHP7 im Detail kennen. Mit diesem Videotraining bringst Du Deine PHP-Kenntnisse auf die nächste Stufe. Du lernst wichtige Grundlagen, Ansätze der objektorientierten Denkweise, die Umsetzung mit PHP, fortgeschrittene Konzepte und wichtige Entwurfsmuster kennen. Im praktischen Projekt vertiefen wir dieses Wissen.</p><p><strong>Warum dieses Training?</strong></p><p>Du lernst objektorientierte Webentwicklung mit PHP zu beherrschen. Dazu zeige ich Dir die wichtigen Konzepte aus der Praxis. Du lernst Webapplikationen mit PHP-Bordmitteln umzusetzen, ohne externe Frameworks zu verwenden. </p>\n\n<p><strong class=\"redactor-inline-converted\">Grundlagen der Objektorientierung mit PHP7</strong></p>\n\n\n\n\n\n<p>Das Training beginnt bei der Grundidee der Objektorientierung und führt alle Begriffe ein. Anschließend lernst Du die vier Säulen der Objektorientierung kennen. Die auch als APIE abgekürzten Konzepte sind Abstraction, Polymorphism, Inheritance, Encapsulation. </p>\n\n\n\n\n\n<p>Schließlich lernst Du die praktische Umsetzung kennen und lernst welche Möglichkeiten PHP7 bietet. Die fortgeschrittenen Konzepte bereiten Dich im Detail auf die tägliche Arbeit mit PHP vor. </p>\n\n\n\n\n\n<p>Den Übergang zum praktischen Projekt läutet die Strukturierung von Projekten ein. Dabei lernst Du den Autoloader für Klassen und die PHP-Namespaces kennen. Vor dem umfangreichen Projekt lernst Du einige Design-Patterns kennen, die Dir immer wieder begegnen werden. </p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">PHP7 in der Praxis</strong></p>\n\n\n\n\n\n<p>Im zweiten Teil des Trainings zeige ich Dir wie moderne PHP-Frameworks arbeiten. Dazu setzen wir ausschließlich mit PHP-Bordmitteln das Model-View-Controller Pattern um. Du teilst den Code mit Namespaces in logische Einheiten und erzeugst ein voll funktionsfähiges Projekt, das HTML-Templates verarbeitet. Dabei bekommst Du direkte Einblicke in den Aufbau heutiger Webprojekte. </p>\n\n\n\n\n\n<p>Die Bildergalerie umfasst einen zentralen Einstiegspunkt über die index.php Datei, das Routing der Anfrage zu den korrekten Klassen, eine Bootstrap Klasse zur Bestimmung der richtigen Resource, Front-Controller mit Actions, objektorientierter Datenbankanbindung mittels PDO und der Benutzeranmeldung. Außerdem verarbeitest Du POST-Requests, verarbeitest hochgeladene Bilder und skalierst diese auf eine gemeinsame Bildhöhe. </p>\n\n\n\n\n\n<p>Die Benutzerregistrierung wird umgesetzt, ebenso wie der entsprechende Login. Über die PHP-Session werden mögliche Fehlermeldungen transportiert.</p>\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Bonus</strong>: Du bekommst als Bonus eine komplett gestaltete Bildergalerie. Dazu gehört ein editierbares Logo, vier Photoshop Vorlagen für die Galerie und eine komplette Umsetzung als HTML/CSS Template. Alles zur unbegrenzten Verwendung. Die optimale Grundlage für professionelle Projekte.</p>", 
+    "end_date": null, 
+    "title": "Objektorientierte Entwicklung mit PHP 7", 
+    "price": "30.00", 
+    "instructors": "Jan Brinkmann", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/846406_5bc7_2.jpg", 
+    "course_url": "https://www.udemy.com/objektorientierte-entwicklung-php7/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-11T19:21:53Z"
+}

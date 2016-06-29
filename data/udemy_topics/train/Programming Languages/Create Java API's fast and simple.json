@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Course Description</strong><strong></strong><br></p><p>Learn\n the basic concepts of API's to include HTTP based REST with JSON payloads. Learn how to create a working system with Java using the Jersey 2.0 framework and Swagger to create API documentation. Learn how to create an API that connects to MongoDB. We walk thru creating some simple API's and follow thru with deployment onto a Tomcat application server. This development is presented on a Mac OSX with Java 1.7 and deployed on a Linux server in a cloud environment.<br></p><p><br><strong></strong></p><p><strong>Build\n a strong foundation in API development with Java. This course helps you \nunderstand and implement API's using Java and Jersey technology for your own back end server with the \nlatest technologies.</strong><br></p><ul><li>Java 1.7 programming language</li><li>Eclipse 4</li><li>Maven 3</li><li>Jersey 2.0</li><li>Swagger 2.0</li><li>Mac OSX 10.11</li><li>Linux</li><li>Tomcat 7</li><li>MongoDB</li></ul><p><br><strong></strong></p><p><strong>Professional skills and experience from an iOS Architect with over 8 years experience.</strong><br></p><p>Learn\n the fundamentals but also tips and tricks of the experts. Learn about \nthe different type of API end points and how to create a full end to end solution. </p><p>We will walk thru the project setup and \nall required elements to create a full end to end API server.</p><p><strong>Content and Overview </strong></p><p>This\n course explains key technology concepts of API's with REST and JSON technology in a Java system. We show development from start to finish to include deployment on a live production server not just a test machine.</p><p><br><strong></strong></p><p><strong>What am I going to get from this course?</strong></p><ul><li>Detailed knowledge of how to create Java based REST/JSON API's</li><li>Learn how to setup a Maven project in Eclipse</li><li>Learn how to document your API's using Swagger.</li><li>Learn how to use MongoDB as the back end for API's.</li><li>Teaching\n by example, several hands on examples showing every detail to the \nsmallest degree from starting a new application to deploying it in production.</li><li>Access to Instructors GitHub account with many extras and examples.</li></ul><p>If you don't have a a production server device don't worry, we show you how to test everything on your local computer.</p><p>Note: Development is all described on a Mac OSX notebook, Windows is not address. Java is a portable language and all the tools described in this calss are available on Java as well but no intention is made to describe how to setup them up of use the Windows versions.<br></p>", 
+    "end_date": null, 
+    "title": "Create Java API's fast and simple", 
+    "price": "20.00", 
+    "instructors": "Tom Jay", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/665390_c7ac_2.jpg", 
+    "course_url": "https://www.udemy.com/create-java-apis-fast-and-simple/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-10T01:43:08Z"
+}

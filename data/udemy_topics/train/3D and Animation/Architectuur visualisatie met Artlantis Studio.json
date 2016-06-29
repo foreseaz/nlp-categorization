@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\"><em style=\"\"><strong style=\"\">Update 25/3/2014</strong>: Deze cursus wordt (tijdelijk) gratis gemaakt, in afwachting van de update naar Artlantis 6. Ik heb de intentie om deze Engelstalig te maken, tenzij ik hier te veel negatieve reacties op krijg.</em></p><p style=\"\"><em style=\"\"><strong style=\"\">Update 25/3/2014</strong>: This course will be made free temporarily, while the update to Artlantis 6 is prepared. At that time, it will be an English language course, unless I get too many negative reactions.</em></p><p style=\"\">  \t    In deze cursus maak je kennis met <strong style=\"\">Artlantis Studio</strong>, een software voor architectuur visualisatie, die goed samenwerkt met 3D CAD of BIM software.  </p>  <p style=\"\">  \t    Ook voor studenten of architecten zonder ervaring met rendering is deze cursus geschikt, omdat Artlantis eenvoudig en snel werkt en toch goede resultaten mogelijk maakt.  </p>  <p style=\"\">  \t    Op minder dan één uur gaan we via video-lessen <strong style=\"\">van een eerste kennismaking tot en met een afgewerkte foto-realistische rendering</strong>.  </p>  <ul style=\"\">  \t<li style=\"\">We beginnen met de software en de <strong style=\"\">interface.</strong></li>  \t<li style=\"\"><strong style=\"\"></strong>Daarna laden we een <strong style=\"\">3D model</strong> in dat we in <em style=\"\">SketchUp</em> maakten. Je kan ook andere 3D software gebruiken, zoals <em style=\"\">ArchiCAD</em>, <em style=\"\">VectorWorks</em> of <em style=\"\">Revit</em>, maar je moet in ieder geval een 3D model hebben om mee te werken, omdat Artlantis géén modelleer opties aanbiedt.</li>  \t<li style=\"\">Vervolgens gaan we kijken naar de <strong style=\"\">belichting</strong>, via de <em style=\"\">Heliodon</em>, een combinatie van zon en hemelkoepel. We gaan ook extra lichtbronnen bekijken, die vooral bij interieur-beelden belangrijk worden.</li>  \t<li style=\"\">Met <strong style=\"\">materialen</strong> kan je het model beter aankleden. We leren daarbij de Catalogus kennen, waardoor we vlot nieuwe materialen in onze scene kunnen toewijzen.</li>  \t<li style=\"\">We kunnen bijkomende <strong style=\"\">objecten</strong> plaatsen, om de inrichting verder te verzorgen.</li>  \t<li style=\"\">Tenslotte gaat de <strong style=\"\">camera</strong> gebruikt worden om de kijkpositie, de beeldcompositie en de <strong style=\"\">render-instellingen</strong> te configureren. Je kan meerdere van deze cameras toevoegen aan je project.</li>  \t<li style=\"\">Omdat een architectuur-project evolueert, kijken we ook naar het proces om het model bij te werken na <strong style=\"\">wijzigingen</strong>. Dit is één van de sterke punten bij Artlantis.</li>  </ul>  <p style=\"\">  \t    Op het einde van deze cursus kan je zelf een heel visualisatie project aanpakken en tot een goed resultaat brengen.  </p>  <p style=\"\">  \t    Deze cursus gaat niet in op de animatie-mogelijkheden van Artlantis Studio, dus kan ook met de <em style=\"\">Artlantis Render</em> versie gevolgd worden. Hoewel de video op OSX werd opgenomen, kan je gerust volgen met de Windows versie van Artlantis, die identiek werkt.  </p>", 
+    "end_date": null, 
+    "title": "Architectuur visualisatie met Artlantis Studio", 
+    "price": 0, 
+    "instructors": "Stefan Boeykens", 
+    "commitment": "36 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/331666_65ec_2.jpg", 
+    "course_url": "https://www.udemy.com/architectuur-visualisatie-met-artlantis-studio/", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-30T13:03:35Z"
+}

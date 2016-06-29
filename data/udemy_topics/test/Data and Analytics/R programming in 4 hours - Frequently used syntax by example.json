@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>  \t<strong style=\"\"><span style=\" color:red;\">What is this course about?</span></strong>  </p>  <p>  \t        This course helps student learn R syntax for  </p>  <ul style=\"\">  \t<li>Import / Enter / Viewing data and metadata in R</li>  \t<li>Conduct Frequency Distribution Analysis / Univariate Analysis in R</li>  \t<li>Create derived variables</li>  \t<li>Merge / Append data sets</li>  \t<li>Sort / Subset data sets</li>  \t<li>Learn to substring variables</li>  \t<li>Create cross tab analysis</li>  \t<li>conduct Linear Regression analysis</li>  </ul>  <p>  \t<strong style=\"\"><span style=\" color:red;\">Terminology associated with the course</span></strong>  </p>  <ul style=\"\">  \t<li>R syntax</li>  \t<li>Data Mining</li>  \t<li>Analytics</li>  \t<li>Machine Learning</li>  </ul>  <p>  \t<span style=\" color:red;\"><strong style=\"\">      Material for the course</strong></span>  </p>  <ul style=\"\">  \t<li>20 HD Videos</li>  \t<li>Excel Data sets</li>  \t<li>PDF of presentation</li>  \t<li>R code</li>  </ul>  <p>  \t<strong style=\"\"><span style=\" color:red;\">How long the course should take?</span></strong>  </p>  <p>  \t      Approximately 4 hours to internalize the concepts  </p>  <p>  \t<span style=\" color:red;\"><strong style=\"\"> How is the course structures</strong></span>  </p>  <p>  \t      Section 1 - explains how to get R, R Studio, Understand environment and data for workout  </p>  <p>  \t      Section 2 - explains the R syntax through examples  </p>  <p>  \t      Section 3 - explains some other syntax needed for working  </p>  <p>  \t<strong style=\"\"><span style=\" color:red;\">Why take this course?</span></strong>  </p>  <p>  \t      This course ensure quick learning in a simplified way. It explains the most important aspects of working on data and conduct analysis through example.  </p>", 
+    "end_date": null, 
+    "title": "R programming in 4 hours - Frequently used syntax by example", 
+    "price": "20.00", 
+    "instructors": "Gopal Prasad Malakar", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/375989_7ada_8.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-r-programming-learn-r-syntax-by-example/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-23T01:30:43Z"
+}

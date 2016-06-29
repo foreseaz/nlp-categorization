@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tFor those of you who have not written a line of code in SQL Server it may look a bit a bit of pain in brain but actually when you get used to it you will never go for GUI!  </p>  <p>  \tWaht is GUI by the way?! It is the graphical side to SQL Server and it is amazing! But it has one big drawback; it does not keep records of the steps yu take to create and manage your data!  </p>  <p>  \tWhen you write codes, not only you can check your steps and actions later, your colleagues can understand what is going on there because everything is saved in scripts.  </p>  <p>  \tWhat you get here is a primer but I promise this will be and ever changing course in case you ask for improvements and more information to digest!  </p>  <p>  \tAnd of course, this course is downloadable and you can watch it offline anywhere.  </p>  <p>  \tYou can post your questions and discussions here and I will try to answer all of them and in case you do not like this course, you can opt out the course in a month from your enrollment.  </p>  <p>  \tIn this crash course you will learn:  </p>  <ul style=\"\">  \t<li><span>concepts of relational databases</span></li>  \t<li><span>how to create a database with its most common parameters such as size, maxsize, disk placements and file growth</span></li>  \t<li><span>how to define tables with a look at common data types used for storing data</span></li>  \t<li><span>best practices for data sizing and most efficient storage usage</span></li>  \t<li><span>adding primary keys to a table so that you can locate a piece of data uniquely and order data phisycally</span></li>  \t<li><span>-creating relations between tables using foreign keys and implementing the concept of normalization so that you do not need to store duplicate information</span></li>  \t<li><span>manipulation commands such as INSERT, UPDATE and DELETE and seeing them in action</span></li>  \t<li><span>SELECT command for retrieving data stored in tables</span></li>  \t<li><span>using JOINs for retrieving data from two or more tables where you can apply INNER JOIN and get relative information or apply OUTER JOIN and receive all information in one category and related information if exists</span></li>  \t<li><span>programming in T-SQL and using local and system variables, executing multiple commands and manipulating data</span></li>  \t<li><span>creating stored procedures so that you can combine multiple commands into one </span><span>compiled unit that can be called with a name, used in other batches and stored procedures and hide the structure of tables</span></li>  </ul>  <p>  \tOk, then! Let&#039;s begin.  </p>", 
+    "end_date": null, 
+    "title": "T-SQL Primer", 
+    "price": 0, 
+    "instructors": "Mohammad Imani", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/318774_8754_4.jpg", 
+    "course_url": "https://www.udemy.com/t-sql-crash-course/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-13T10:45:38Z"
+}

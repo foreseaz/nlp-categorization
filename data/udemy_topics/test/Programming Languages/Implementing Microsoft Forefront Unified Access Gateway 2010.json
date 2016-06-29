@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>Forefront UAG 2010 allows an organization to provision multiple remote access technologies all in one product. Application publishing and SSL-VPN, with enhanced security mechanisms provide the benefit of secure remote access from anywhere. With this course, you will be equipped to deal with these types of customization scenarios, and you will be confident in using such workarounds without hassle and trial and error.</span>  </p>  <p>  \t <br style=\"\">  \t <em style=\"\">Implementing Microsoft Forefront Unified Access Gateway 2010</em> is designed to train IT administrators in designing and implementing a UAG server in the organization. It provides a cost-effective and time-effective means of understanding the common tasks, from installation to advanced array management, with a hands-on approach. Instead of reading through hundreds of pages of text, learn all the primary tasks in only 40 video lessons which explain and demonstrate how to get things done.<br style=\"\">  \t <br style=\"\">  \t <em style=\"\">Implementing Microsoft Forefront Unified Access Gateway 2010</em> takes the viewer through a journey starting with an overview and the concepts of the UAG and remote access world, and ending with advanced scenarios for large organizations.<br style=\"\">  \t The beginning of the journey shows how to install UAG, and configure the basic building blocks, like Trunks, authentication repositories and applications such as SharePoint, Exchange and Lync. It then goes deeper, exploring advanced publishing scenarios such as non-web application publishing, full VPN access and RDP publishing. Following this, the course discusses securing your deployment with endpoint detection and policy, and granular application authorization. Finally, we discuss advanced operations like array management, monitoring, backup and URL filtering.<br style=\"\">  \t Having gone through all that, you will know everything you need to get off the ground, and start publishing your applications effectively and securely.  </p>", 
+    "end_date": null, 
+    "title": "Implementing Microsoft Forefront Unified Access Gateway 2010", 
+    "price": "35.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/402044_9a1e_2.jpg", 
+    "course_url": "https://www.udemy.com/implementing-microsoft-forefront-unified-access-gateway-2010/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-23T10:19:38Z"
+}

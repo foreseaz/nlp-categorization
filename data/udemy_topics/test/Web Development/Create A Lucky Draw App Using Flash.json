@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t   In this course, I will explain how a Lucky Draw program was created using Flash. This program can be used in events to conduct lucky draws and display the names of the winners on the screen. I have used this program successfully in my organisation on two occasions and have received feedback that this was a useful and nifty program for conducting Lucky Draws instead or picking pieces of paper from a bowl which is the usual practice.  </p>  <p>  \t   Some features of the program are:  </p>  <ul style=\"\">  \t<li>Reading in a name list from a text file</li>  \t<li>Drum roll sound effects</li>  \t<li>Clicking a button to draw each prize</li>  \t<li>Random selection of winners</li>  \t<li>Random names displayed on screen for eye candy</li>  </ul>  <p>  \t   This program is easily customisable to suit your requirements. You will to know some basic ActionScript and have the Adobe Flash software to be able to modify this program.  </p>", 
+    "end_date": null, 
+    "title": "Create A Lucky Draw App Using Flash", 
+    "price": "20.00", 
+    "instructors": "Christopher Tan", 
+    "commitment": "34 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/224866_44d0_2.jpg", 
+    "course_url": "https://www.udemy.com/create-a-lucky-draw-app-using-flash/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-21T07:56:41Z"
+}

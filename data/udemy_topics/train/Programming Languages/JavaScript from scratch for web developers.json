@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">What will you get out of this course<br style=\"\">  \t</strong>At the end of the course you will be able to use the full power of JavaScript with ASP.NET web applications to perform many cool things like client side validations, animations etc. This course starts from the scratch and cover all the basic and advanced concepts of JavaScript as we proceed. You will be able to download all the slides, code samples and text version of the videos.<br style=\"\">  \t<br style=\"\">  </p>  <p style=\"\">  \t<strong style=\"\">  What will we be covering in this tutorial<br style=\"\">  \t</strong>We will start with the relationship between ASP.NET web applications and JavaScript. Along the way we will understand why we need both client side and server side validation. Debugging JavaScript in Visual Studio to fix any run time or logical errors. The downsides of using JavaScript.<br style=\"\">  \t<br style=\"\">  \t                                We will discuss different tools available for learning and practising JavaScript. Difference between inline and external JavaScript. The right location for placing the JavaScript. Commenting JavaScript code and different data types available. We will then discuss working the string object. Along the way we will discuss the basics of JavaScript strings, converting strings to numbers and retrieving sub-strings. We will also discuss in detail different conditional statements available for conditional processing and when to use what. JavaScript loops are covered next.<br style=\"\">  \t<br style=\"\">  \t                          In the Arrays module, we will start with the basics of arrays, followed by filtering arrays and creating two dimensional arrays. In the functions module, we will be discussing different ways of defining functions, local and global variables, recursive functions, closures with examples and finally the magical JavaScript arguments object.<br style=\"\">  \t<br style=\"\">  \t                      In the Error Handling module we will discuss handling errors using try/catch/finally block and performing global exception handling. In the Date &amp; Time module we will cover the basics of Date object, timing events and creating a simple image slideshow. We will also discuss examples of performing client side validation.<br style=\"\">  </p>  <p style=\"\">  \t              The next module is Events. We will start with the introduction to events, and discuss different ways of assigning event handlers in JavaScript. We will also discuss the magical event object that is automatically passed to all event handler methods. We will then cover advanced concepts like event bubbling and capturing, followed by creating an image galley with thumb nails. We will also discuss preventing browser default actions, followed by different mouse events and detecting which mouse button is clicked. We will then discuss, how to create popup windows.<br style=\"\">  \t<br style=\"\">  \t      The next module is regular expressions. We will start with a simple example of how to use regular expressions in JavaScript, and then we will discuss the basics of regular expressions followed by different resources and tools available to learn, write and test regular expressions. We will then discuss some of the string object methods that can be used with regular expressions, followed by RegExp object. <span>Finally we will conclude regular expressions module with an example of how regular expression can be used in real time to perform client side validation.<br style=\"\">  \t<br style=\"\">  \tIn the JavaScript minifaction module, we will discuss the process of minifying, tools for JavaScript minifcation, advantages and disadvantages of minification.<br style=\"\">  \t<br style=\"\">  \tThe next module is JavaScript and object oriented programming. We will start with different ways of creating objects in JavaScript. We will then discuss the difference between creating objects using literal notation and constructor function.</span>  </p>", 
+    "end_date": null, 
+    "title": "JavaScript from scratch for web developers ", 
+    "price": "45.00", 
+    "instructors": "Venkat Kud", 
+    "commitment": "11.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/377564_eb06_6.jpg", 
+    "course_url": "https://www.udemy.com/javascript-tutorial-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-25T15:47:06Z"
+}

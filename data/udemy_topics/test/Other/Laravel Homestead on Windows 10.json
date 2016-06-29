@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong style=\"\">Develop a Powerful Skill Set for Maximum Coding Productivity</strong></p><p>With the recent LTS (Long Term Support) release of Laravel 5.1 there is no doubt that this amazing open-source PHP framework is heading towards the Enterprise space. Understanding how the Laravel development ecosystem functions is a fundamental requirement for high-productivity coding.</p><p>Deploying a fully integrated Laravel Homestead development ecosystem can be confusing as the framework leverages a number of 3rd party tools to streamline and improve developer workflow.</p><p>This course will teach you how to install a complete Laravel Homestead development environment as a seamlessly integrated ecosystem, starting with a vanilla Windows 10 installation.</p><p>By learning how to install Windows 10 onto an external USB drive you&#039;ll have a functional Windows sandbox at your disposal in order to experiment with confidence using the various technologies present in the Laravel development ecosystem.</p><p>By the end of the course we&#039;ll meet the stated objective of having a completely integrated and fully functional, Laravel Homestead Virtual Machine based, Laravel development ecosystem for Maximum Coding Productivity, without polluting the Windows operating system with unwanted software.</p><p>Only the most recent releases of each of the applicable software is used –</p><ul style=\"\"><li>Windows 10</li><li>Virtualbox 5.0</li><li>Vagrant 1.7.4</li><li>Homestead 0.2.7</li><li>Git 2.4.6</li><li>PHPStorm 9.0</li><li>PHP 5.6</li><li> Latest versions of Composer, Node, NPM, Bower, Gulp and Laravel Elixir.</li></ul><p></p><p>By the time we are done you will not only have a KILLER development environment that is fully integrated and works seamlessly, you&#039;ll also understand exactly how each of the components contributes to assist you in an advanced development workflow so that you can get cracking and focus on your development project!</p>", 
+    "end_date": null, 
+    "title": "Laravel Homestead on Windows 10", 
+    "price": "20.00", 
+    "instructors": "Leonard Harley", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/565248_8193.jpg", 
+    "course_url": "https://www.udemy.com/laravel-homestead-on-windows-10/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-26T16:23:43Z"
+}

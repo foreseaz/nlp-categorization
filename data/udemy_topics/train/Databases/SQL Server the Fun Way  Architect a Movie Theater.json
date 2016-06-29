@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will provide you with an introduction to Database Architecture.  To do this, we will build a database step-by-step for a fictional movie theater.  This theater needs to keep track of ticket sales, concession sales, and their own special loyalty program.  By the end of this course we will have discussed many topics, including Primary Keys, Foreign Keys, Identity columns, several datatypes and much more.  </p><p>This course will use Microsoft SQL Server but the core concepts apply to any SQL-based database system.</p><p>You should take this course if you are interested in learning Database Architecture concepts.  We'll cover several datatypes and go over when and when not to use them.  We'll cover many different types of tables, including dimension table and history tables.  </p><p>After you've taken this course you will have a basic understanding of how databases fit together and how to think about creating your own database for your future projects.</p>", 
+    "end_date": null, 
+    "title": "SQL Server the Fun Way: Architect a Movie Theater", 
+    "price": "20.00", 
+    "instructors": "William Belisle", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/676856_25bc_4.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-database-architecture/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-21T23:13:01Z"
+}

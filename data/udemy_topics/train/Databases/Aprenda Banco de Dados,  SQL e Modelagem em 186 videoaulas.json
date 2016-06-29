@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>São 186 videoaulas em que você vai aprender tudo de Banco de dados (Oracle, Firebird, MySQL, PostreSQL, SqlServer) SQL e modelagem<br></p><p>Em SQL você vai aprender tudo o que precisa para efetuar manutenção em banco de dados:</p><ul><li>create database (criar base de dados)</li><li>create table (bem analisado evitando redundância de dados)</li><li>Insert into tabela (campos) values (valores); (inserir valores nas tabelas)</li><li>Select (efetuar pesquisas nas tabelas)</li><li>Where (condições para execução da pesquisa)</li><li>order by (ordenando a sua pesquisa)</li><li>like (filtrar dados)</li><li>Operadores lógicos (= igual a, &gt; maior que, &gt;= maior que ou igual a, &lt; menor que, &lt;= menor que ou igual a)</li><li>Between (lista de valores)</li><li>In (..) (lista de valores)</li><li>Distinct (eliminar duplicidades)</li><li>Primary key (chave principal, simples e composta)</li><li>Drop (tables, index, constraints, campos etc)</li><li>Alter (inserir/eliminar atributos nas tabelas já existentes)</li><li>Describe (visualizar a estrutura das tabelas)</li><li>update (alterar os dados da tabela)</li><li>delete (exluir registros das tabelas)</li><li>truncate (eliminar definitivamente registros das tabelas)</li><li>avg (calcular valores medios)</li><li>count (contar registros)</li><li>sum (efetuar somas)</li><li>min (encontrar valor mínimo)</li><li>max (encontrar valor máximo)</li><li>upper (converter para maiúsculo)</li><li>lower (converter para minúsculo)</li><li>Concatenar (veja como concatenar sequência de caracteres nos 5 banco de dados)</li><li>index (para agilizar pesquisas)</li><li>group by (agrupar dados)</li><li>Foreign key (chave estrangeira, ligações entre tabelas e integridade de dados)</li><li>union - union all (unir o conteúdo de tabelas)</li><li>commit (gravação permanente dos dados)</li><li>auto incremento (veja como preencher automaticamente o conteúdo de um campo inteiro, toda vez que um novo registro for inserido na tabelaVocê aprenderá a fazer isso nos 5 banco de dados estudados)</li><li>Trigger, Generator e Domain, Check</li><li>Having - Restringir através de Função</li><li>Join - Selecionar dados de várias tabelas</li></ul><p>Em modelagem você vai aprender:</p><ul><li>Nesta sessão você aprenderá a analisar e modelar um banco de dados completo para <br>gerenciamento de cursos (alunos, professores, turmas, matrículas, pagamentos <br>etc). E para isso você usará softwares para auxiliar nesta tarefa.</li></ul><div><br></div>", 
+    "end_date": null, 
+    "title": "Aprenda Banco de Dados,  SQL e Modelagem em 186 videoaulas", 
+    "price": "30.00", 
+    "instructors": "Neri Neitzke", 
+    "commitment": "27 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/227896_909f_3.jpg", 
+    "course_url": "https://www.udemy.com/banco-de-dados-sql-modelagem/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-23T23:01:36Z"
+}

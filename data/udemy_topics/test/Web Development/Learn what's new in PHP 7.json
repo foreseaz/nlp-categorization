@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>PHP7 is the newest edition of the language to hit the server side in 2016. This well established and much loved language is providing significant performance improvements, providing new features and improving security. PHP has always been the goto language when it comes to server side database interactivity and data integrity with simplicity and ease of use.</p>\n\n<p>The first and most prominent speed increase is the PHP7 engines speed which is nearly double the performance of the previous PHP 5.6 engine. This alone should be coveted by developers who don't even need to optimise their code but just to run it in the new engine and see massive performance increases. Wordpress, Joomla and other popular CMS's have been run out of the box with no code changes and huge performance increases have been seen with no optimisation needed at all.</p>\n\n\n\n<p>But what about the other features and your script's, Will they work? Well to find out I'll be showing you additional features which may not be that dramatic after all. New features are always fun to learn but some new features will just be a simple parameter being passed into an already existing function. For example the unserialise function will now accept another optional parameter to only unserialise an object that came from a particular class; making it a little more secure. Also as we're on the topic of security and parameters the existing password hash function will no longer accept a salt but rather it will automatically generate a secure salt for you.</p>\n\n\n\n<p>The new PHP version is a nice addition to the PHP family with refined features all round. PHP will still be around despite what developers say. It's still currently the best and most secure language for database interaction with PDO, scalar data validation, prepared statements, secure password hashing and salting. It really is still the king pin! Every language has it's place and PHP is firmly settled in on the server side and despite being a Javascript developer it's still is a very established language.</p>", 
+    "end_date": null, 
+    "title": "Learn what's new in PHP 7", 
+    "price": 0, 
+    "instructors": "Lawrence Turton", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/777654_7421_3.jpg", 
+    "course_url": "https://www.udemy.com/php7-new-features/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-29T11:50:05Z"
+}

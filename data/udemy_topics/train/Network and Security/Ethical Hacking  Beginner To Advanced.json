@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong></strong></p><p><strong>LINUX FUNDAMENTALS</strong>\n\n  </p>\n\n<p>VMWARE PLAYER INSTALLATION\n\n  </p>\n\n<p>KALI LINUX INSTALLATION\n\n  </p>\n\n<p>LINUX NETWORK CONFIGURATION\n\n  </p>\n\n<p>LINUX BASIC COMMANDS\n\n  </p>\n\n<p>LINUX DIRECTORY STRUCTURE</p><p><strong><br></strong></p><p><strong>NETWORK FUNDAMENTALS</strong>\n\n  </p>\n\n<p>NETWORK BASICS\n\n  </p>\n\n<p>NETWORK DEVICES\n\n  </p>\n\n<p>OSI MODELS\n\n  </p>\n\n<p>TCP/IP</p><p><strong><br></strong></p><p><strong><br></strong></p><p><strong>WHAT IS HACKER , WHITE HACKER AND PENTEST? </strong>\n\n  </p>\n\n<p>PENTEST\n\n  </p>\n\n\n\n<p> \n\n  </p>\n\n\n\n<p> \n\n  </p>\n\n\n\n<p><strong>TOR NETWORK</strong>\n\n  </p>\n\n\n\n<p>TOR NETWORK &amp; USING NMAP, SQLMAP AND METASPLOIT WITH TOR &amp; WHONIX ANONYMOUS OPERATING SYSTEM\n\n  </p>\n\n\n\n<p> \n\n  </p>\n\n\n\n<p> \n\n  </p>\n\n\n\n<p><strong>INFORMATION GATHERING ABOUT TARGET SYSTEM</strong>\n\n  </p>\n\n\n\n<p>RECONNAISSANCE AND VULNERABILITY SCANNING AT PENETRATION TEST\n\n  </p>\n\n\n\n<p>NMAP GUIDE\n\n  </p>\n\n\n\n<p>PENTEST SCENARIO -1\n\n  </p>\n\n\n\n<p>PENTEST SCENARIO -2\n\n  </p>\n\n\n\n<p>NESSUS VULNERABILITY SCANNER\n\n  </p>\n\n\n\n<p> \n\n  </p>\n\n\n\n<p> \n\n  </p>\n\n\n\n<p><strong>METASPLOITE</strong>\n\n  </p>\n\n\n\n<p>METASPLOITE GUIDE\n\n  </p>\n\n\n\n<p>MAKE UNDETECTABLE MALWARE WITH METASPLOITE\n\n  </p>\n\n\n\n<p>MAKE UNDETECTABLE PHP AND ASP SHELL\n\n  </p>\n\n\n\n<p>MAKE AN INFECTED PDF FILE\n\n  </p>\n\n\n\n<p>PENTEST SCENARIO -3\n\n  </p>\n\n\n\n<p>PENTEST SCENARIO -4\n\n  </p>\n\n\n\n<p>PENTEST SCENARIO -5\n\n  </p>\n\n\n\n<p>PENTEST SCENARIO -6\n\n  </p>\n\n\n\n<p> \n\n  </p>\n\n\n\n<p><strong> </strong>\n\n  </p>\n\n\n\n<p><strong>WEB APPLICATION ATTACKS</strong>\n\n  </p>\n\n\n\n<p>WEB FUNDAMENTALS\n\n  </p>\n\n\n\n<p>WEB APPLICATION SECURITY\n\n  </p>\n\n\n\n<p>HTTP BASIC AUTHENTICATION DICTIONARY ATTACK WITH BURPSUITE\n\n  </p>\n\n\n\n<p>BRUTE FORCE TO WEB FORM BASED AUTHENTICATION WITH FIREFORCE\n\n  </p>\n\n\n\n<p>DICTIONARY ATTACK TO FORM BASED AUTHENTICATION WITH BURPSUITE\n\n  </p>\n\n\n\n<p>CROSS SITE SCRIPTING(XSS)\n\n  </p>\n\n\n\n<p>BEEF – THE BROWSER EXPLOTION FRAMEWORK PROJECT\n\n  </p>\n\n\n\n<p>SQL INJECTION\n\n  </p>\n\n\n\n<p>STEP BY STEP SQL INJECTION ATTACK – DEMO 1\n\n  </p>\n\n\n\n<p>STEP BY STEP SQL INJECTION ATTACK – DEMO 2\n\n  </p>\n\n\n\n<p>AUTHENTICATION BYPASS WITH SQL INJECTION\n\n  </p>\n\n\n\n<p>SQLMAP\n\n  </p>\n\n\n\n<p>SQL INJECTION THROUGH LIVE HTTP HEADERS &amp; BYPASS CLIENT SIDE SECURTY PROTECT\n\n  </p>\n\n\n\n<p>LOCAL FILE INCLUSION EXPLOITATION\n\n  </p>\n\n\n\n<p>REMOTE FILE INCLUSION (RFI)\n\n  </p>\n\n\n\n<p>DIRECTORY THAVERSAL ATTACK\n\n  </p>\n\n\n\n<p>CSRF(CROSS SITE REQUEST FORGERY)\n\n  </p>\n\n\n\n<p>FINDING TARGET WEB SERVER INFORMATIONS\n\n  </p>\n\n\n\n<p>OWASP-ZAP OPEN SOURCE WEB APPLICATION SECURITY SCANNER\n\n  </p>\n\n\n\n<p>W3AF OPEN SOURCE WEP APPLICATION SECURITY SCANNER\n\n  </p>\n\n\n\n<p> \n\n  </p>\n\n\n\n<p> \n\n  </p>\n\n\n\n<p><strong>SOCIAL ENGINEERING ATTACKS</strong>\n\n  </p>\n\n\n\n<p>SETOOLKIT\n\n  </p>\n\n\n\n<p>MALWARE INFECTED WORD FILE\n\n  </p>\n\n\n\n<p> \n\n  </p>\n\n\n\n<p><strong>LOCAL NETWORK ATTACKS</strong>\n\n  </p>\n\n\n\n<p>MAN IN THE MIDDLE ATTACK(MITM)\n\n  </p>\n\n\n\n<p> \n\n  </p>\n\n\n\n<p><strong>DECRYPTION METHODS</strong>\n\n  </p>\n\n\n\n<p>CREATE WORDLIST WITH CRUNCH\n\n  </p>\n\n\n\n<p>PASSWORD HASH CRACKING – OFFLINE CRACKING ATTACKS\n\n  </p>\n\n\n\n<p>BRUTE FORCING PASSWORD WITH MEDUSA, HYDRA AND NCRACK(ONLINE PASSWORD ATTACKS)\n\n  </p>\n\n\n\n<p> \n\n  </p>\n\n\n\n<p> \n\n  </p>\n\n\n\n<p><strong>WIRELESS HACKING</strong>\n\n  </p>\n\n\n\n<p>CONFIGURE WIFI ADAPTOR TO MONITORING MODE\n\n  </p>\n\n\n\n<p>EASY-CREDS FAKE ACCESS POINT ATTACK\n\n  </p>\n\n\n\n<p>CRACKING WEP PASSWORDS WITH AIRCRACK-NG\n\n  </p>\n\n\n\n<p>CRACKING WPA/WPA2 PASSWORDS WITH AIRCRACK-NG\n\n  </p>\n\n\n\n<p>HACK WIFI BY WPS PIN ATTACK\n\n  </p>\n\n\n\n<p>CRACKING WPA HANDSHAKE BY PYRIT MORE QUICKLY\n\n  </p>\n\n\n\n<p>CRACK PASSWORD HASHES WITH OCLHASHCAT PROGRAM\n\n  </p>\n\n\n\n<p>EVIL TWIN ATTACK ( HACK WPA/WPA2 WITHOUT USING BRUTE FORCE OR DICTIONARY ATTACK)\n\n  </p>\n\n\n\n<p> \n\n  </p>\n\n\n\n<p> \n\n  </p>\n\n\n\n<p><strong>DDOS ATTACKS</strong>\n\n  </p>\n\n\n\n<p>DISTRIBUTED DENIAL OF SERVICE ATTACK (DDOS)\n\n  </p>\n\n\n\n<p>SYN FLOOD ATTACK\n\n  </p>\n\n\n\n<p>UDP FLOOD &amp; DNS FLOOD &amp; DNS AMPLIFICATION ATTACKS\n\n  </p>\n\n\n\n<p>HTTP FLOOD ATTACK</p>", 
+    "end_date": null, 
+    "title": "Ethical Hacking: Beginner To Advanced", 
+    "price": "20.00", 
+    "instructors": "OS Information Security", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/849142_f3d2_4.jpg", 
+    "course_url": "https://www.udemy.com/ethical-hacking-pentester/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-14T16:26:48Z"
+}

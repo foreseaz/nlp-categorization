@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">This short course makes it easy to build your own website with step-by-step lessons and hands-on projects that have you apply what you learn. With each lesson, you create a piece of your very own website. When done, you have a complete website using the latest technologies.</p><p style=\"\"><strong style=\"\">Master the Basics of HTML5 and CSS3 for Creating Your Own Website</strong></p><ul style=\"\"><li style=\"\">Learn how to set-up a website.</li><li style=\"\">Learn how to choose a domain name and hosting company.</li><li style=\"\">Create your first web page in under 60 seconds.</li><li style=\"\">Learn how to organize your project with folders.</li><li style=\"\">Build your own website template file.</li><li style=\"\">Master the details of colors, backgrounds and pictures.</li><li style=\"\">Create tables and lists in HTML.</li><li style=\"\">Understand the details of links, and relative and absolute addressing.</li><li style=\"\">Learn CSS one step at a time.</li><li style=\"\">Master CSS classes and IDs.</li><li style=\"\">Control how your CSS elements interact with mastery of combinators.</li><li style=\"\">Create dazzling web pages with CSS3 special effects.</li></ul><p style=\"\"><strong style=\"\">Step-by-step learning of web technology basics that get you ready to build your own website.</strong></p><p style=\"\">This course takes you from a broad overview of setting up a website and then drills down into the details of headings, paragraphs, tables, lists, colors and links, for a solid understanding of HTML.</p><p style=\"\">Then, you graduate to CSS3 and HTML5. You learn how to control the layout of your page with positioning and floating elements. You learn to handle color, transparency, borders, backgrounds and images. You even learn some of the special effects that can make your website uniquely your own -- things like, rounded corners, drop shadows, and see-through backgrounds.</p><p style=\"\">This course can be finished in under a week with as little as an hour a day. Each step is seemingly easy, building on the skills in earlier lessons. Most lessons include an Action Item where you take the facts you&#039;ve learned and put them to use creating your own website. The course includes 4 handouts detailed with facts and resources to help you complete your website project.</p><p style=\"\">Building a website can be fun and rewarding. This course shows you how to build it and to get it hosted so the rest of the world can enjoy your work.</p>", 
+    "end_date": null, 
+    "title": "Creating a Website Made Easy", 
+    "price": "20.00", 
+    "instructors": "Rod Martin, Jr.", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/464938_88ce_4.jpg", 
+    "course_url": "https://www.udemy.com/creating-a-website-made-easy/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-01T12:15:18Z"
+}

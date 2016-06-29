@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Neste curso você aprenderá o que realmente é a programação orientada a objetos e os conceitos essenciais para você desenvolver suas próprias aplicações em Java.</p><p>Este curso é fortemente baseado no paradigma de programação orientada a objetos, possibilitando alavancar o seu aprendizado para outras linguagens orientadas a objetos além do Java.</p><p>Isto NÃO é um tutorial com meros exemplos em Java. Este é um verdadeiro curso de Java que ensina desde os conceitos básicos da linguagem tais como, objetos e classes, até os tópicos mais avançados da linguagem tais como, threads e semáforos. </p><p>Não se preocupe se você não é um expert em programação ou se você não tem qualquer conhecimento em Java, pois este curso destina-se a TODOS os níveis de estudantes.</p><p>Divirta-se programando!</p><p><strong>*Os códigos Java\ndos projetos contidos neste curso estão disponíveis para download, bem como, os\nslides apresentados.</strong><strong></strong><br></p>", 
+    "end_date": null, 
+    "title": "Aprendendo a programar em Java", 
+    "price": "30.00", 
+    "instructors": "Marco Aurélio Regis", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/589550_d2a0.jpg", 
+    "course_url": "https://www.udemy.com/aprendendo-a-programar-em-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-21T16:02:31Z"
+}

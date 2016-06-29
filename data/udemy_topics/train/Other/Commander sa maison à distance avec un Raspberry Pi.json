@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Ce projet va vous permettre de transformer votre Raspberry Pi en un « objet connecté ». Ainsi, vous pourrez commander des équipements reliés à votre Raspberry Pi (lumières, TV, chauffage électrique, etc.) où que vous vous trouviez dans le monde ! Beau défi n’est-ce pas ?</p><p>Cet objectif sera atteint en trois étapes :</p><ol><li>Allumage et extinction de LED connectées au GPIO du Raspberry.</li><li>Remplacement des LED par des relais afin de commander des appareils plus puissants, fonctionnant sous 220 Volts.</li><li>Dialogue avec le Raspberry <em>via</em> votre téléphone, votre tablette ou un ordinateur quelconque et ce, où que vous vous trouviez dans le monde. Vous pourrez ainsi commander un ou plusieurs appareils connectés aux relais de la deuxième étape et transformer votre Raspberry en un véritable objet connecté.</li></ol><p><br></p>", 
+    "end_date": null, 
+    "title": "Commander sa maison à distance avec un Raspberry Pi", 
+    "price": "25.00", 
+    "instructors": "Michel Martin", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/800776_19cb_2.jpg", 
+    "course_url": "https://www.udemy.com/commander-sa-maison-a-distance-avec-un-raspberry-pi/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-22T10:36:53Z"
+}

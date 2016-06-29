@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Don&#039;t get lost in videos that try to cover too much and lose focus! </strong> This course will demonstrate how to create a <em style=\"\"><strong style=\"\">simple </strong></em>game-ready asset with 3D Coat.  Students will learn to create the asset from scratch that can be used in various game engines.  The process will entail planning, blocking out forms, sculpting details, retopology, UV unwrapping, projection, painting and baking textures, exporting the asset, and then importing the asset into a couple of popular game engines (E.g. UDK and Unity).  As a <span style=\" color:green;\"><strong style=\"\"><em style=\"\">bonus</em></strong></span>, I&#039;ve also included a short video covering how to bring the asset into Marmoset for easier creation of beauty shots.  </p>", 
+    "end_date": null, 
+    "title": "Simple Game Ready Asset Creation in 3D Coat", 
+    "price": "20.00", 
+    "instructors": "Robert Alvord", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/248396_ca64_2.jpg", 
+    "course_url": "https://www.udemy.com/simple-game-ready-asset-creation-in-3d-coat/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-23T00:09:02Z"
+}

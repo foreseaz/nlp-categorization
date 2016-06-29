@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p><em><strong>Conceptual Foundations of PLS Path Modeling</strong> </em>provides a comprehensive introduction to the most critical foundational concepts of PLS path modeling. <strong><em>Virtually the entire course consists of narrative lectures accompanied by powerpoint slides and some readings.</em> </strong><em><strong>The course does not teach how to use any particular specific PLS software modeling package</strong></em>. The course is very useful as a preliminary course to any other \"hands-on\" course that teaches how to use specific PLS path modeling (or related) software (such as SmartPLS 2.0 or 3.0; WarpPLS; the semPLS or plspm packages in R; ADANCO; pls-gui.com; and so on). Participants learn the conceptual basics of the following critical path modeling terms and processes: What is PLS path modeling?, formative versus reflective constructs, assessing reliability and validity, bootstrapping and blindfolding, how to estimate direct, indirect, total, mediating and moderating effects. </p><p>This course is intended for graduate students, faculty and other researchers who seek explicit and comprehensive explanations and of the foundational concepts that underlie PLS path modeling. It addresses basic issues such as: How does the PLS algorithm 'work'? What are the differences between the outer measurement and inner structural models in a path model with latent variables? What are the fundamental distinctions between formative and reflective constructs? What can one determine about direct, indirect, and total effects? About mediating and moderating effects? What do path coefficients, weights and loadings tell you about the underlying data relationships? What are latent variable ‘scores’ or values? What do the predictive levels of variance explained in the endogenous latent variables actually mean?</p>", 
+    "end_date": null, 
+    "title": "Conceptual Foundations of PLS Path Modeling", 
+    "price": 0, 
+    "instructors": "Geoffrey Hubona, Ph.D.", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/769532_cb16_3.jpg", 
+    "course_url": "https://www.udemy.com/conceptual-foundations-of-pls-path-modeling/", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-21T14:29:24Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>SAP Materials Management (MM) is an ERP solution that ensures organized and structured process associated with materials management. SAP MM Training is ideal for professionals who are responsible for materials management in organizations. SAP MM Trainings demonstrates a professional's ability to handle the solution towards effective management of materials. </p><p>SAP Materials Management (MM) </p><p>SAP MM module as the term suggests manages materials required, processed and produced in enterprises. Different types of procurement processes are managed with this system. Some of the popular sub-components in SAP MM module are vendor master data, consumption based planning, purchasing, inventory management, invoice verification and so on.</p><p>One of the most important SAP Modules where MM is Materials Management - underpins the supply chain, including Requisitions, Purchase orders, Goods receipts, Accounts payable, Inventory management, BOM's, Master raw materials, finished goods etc</p><p>The Materials Management module (SAP MM) consists of all master data, system configuration, and transactions to complete the Procure to Pay process. This process map spans from MRP generated procurement proposals through final invoice receipt and verification.</p><p><strong>SAP Materials Management Components or Sub-Components:</strong></p> <ul> <li>Vendor Master and Material Master data</li> <li>Consumption Based Planning</li> <li>Purchasing</li> <li>Inventory Management</li> <li>Evaluation of Materials </li><li>Invoice Verification</li></ul>", 
+    "end_date": null, 
+    "title": "SAP Material Management Consultant Training Beginner to Adv", 
+    "price": "50.00", 
+    "instructors": "SAP Aid inc", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/580044_84f7_3.jpg", 
+    "course_url": "https://www.udemy.com/sap-mm-material-management-consultant-training-advanced-video-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-11T11:27:56Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Learn to buy, configure or manage your own VPS</strong>: this course is for them who are paying much for managing their server.</p><p>No experience required : You will be able to manage your VPS yourself after watching this video course.</p><p>There are over 30 video lectures, each lectures covers an individual topic.</p><p><strong>Reason to learn managing a VPS yourself</strong>: Web servers is a must essential for presenting yourself online. If you have large website, you will need a personal server for yourself but hire someone for managing your server can be so expensive.</p><p>How much you need to pay for the tools to manage your VPS: Well, Zero. I will show you the tools you can use for completely free. I am managing these open source tools for managing my or my client's servers for years.</p><p><strong>What you will be able to Do after watching this video course?</strong></p><p>You will be able buy a cool VPS for yourself from some industry leading VPS providers, and configure your VPS with a control panel for hassle free server managing.</p><p>You will be able to setup and manage servers from scratch yourself.</p><ul><li>Introduction to all needed server or web technologies</li><li>The tools you need to manage your own VPS.</li><li>How to setup and install Control Panel.</li><li>How to sell services from your VPS</li><li>Create your private nameservers and also use external DNS.</li><li>How to get and install SSL for your site.</li><li>Use FTP for your server.</li><li>How to install WordPress in your server.</li><li>How to Create a very basic website for yourself.</li><li>Some security Notes you need to know.</li></ul>", 
+    "end_date": null, 
+    "title": "How to manage your own VPS and create websites", 
+    "price": "20.00", 
+    "instructors": "Riyad Arefin", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/599628_5308.jpg", 
+    "course_url": "https://www.udemy.com/manage-vps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-01T18:39:31Z"
+}

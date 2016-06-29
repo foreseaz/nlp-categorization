@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<ul><li>What is Financial Modeling?</li><li>How to build a financial model in Excel?</li><li>What is EBITDA? </li><li>How to read the P&amp;L?</li><li> How to calculate WACC, ROIC, equity risk premium?</li><li> How to use DCF?</li><li>Every student will receive an Excel file with input data for Sample Company valuation, which will include both historical financial accounts and operating data for every business division (airline catering, events catering and RHL, or restaurants, lounges and hotel). The lecturer will first give detailed comments on the available historical information and will show you how to make assumptions for reconstruction of the missing data, required to start modelling of future financial items.</li><li>Business modelling will start with forecasting of P&amp;L items for each of the three divisions, which will then be combined into the Sample Company P&amp;L. Afterwards the lecturer will model Cash Flow statement for the Sample and its Balance Sheet. All the forecasts are being built for the next 6 years.</li><li>Once you get all financials forecasted you move to the most interesting part – DCF (or Discounted Cash Flows valuation) with deep plug into the calculations of WACC and its components (risk free rate, Beta and equity risk premium), Terminal Value and Discount Rate. You will learn how to apply logic to make the right assumptions as the ultimate result of every financial modelling is a matter of assumptions used.</li><li>Special attention will be paid to the multiples-based analysis and sum of the part valuation.</li><li>You will see how theory works in real business with every figure of Excel model created in front of your eyes. This is a unique experience not to be missed.</li></ul>", 
+    "end_date": null, 
+    "title": "Financial Modeling (Applied Course in Excel)", 
+    "price": "50.00", 
+    "instructors": "Eduson TV", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/372234_943b_9.jpg", 
+    "course_url": "https://www.udemy.com/financial-modelling-in-excel/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-17T09:54:32Z"
+}

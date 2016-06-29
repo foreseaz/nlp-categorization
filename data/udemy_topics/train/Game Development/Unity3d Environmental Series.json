@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">What You&#039;ll Learn </strong><br style=\"\">  </p>  <p>  \tIn this video series we will show you how to create your own custom terrain in Unity 3d. We will be going over things like using <strong style=\"\">Crazy Bump</strong> to create normal maps for our terrain. Then we&#039;ll jump into Unity to start sculpting. In this course you&#039;ll learn some simple techniques on how to sculpt realistic looking rocky terrain, how to add plateaus and even make slopes.  </p>  <p>  \t  This will be a snowy mountain type terrain so we&#039;ll be using three textures; snow, ice, and a rock like texture. Links to these textures can be found in the course. We&#039;ll learn how to blend these textures in to get a nice realistic look using our textures and explain how normal maps can be used to achieve more realism without having to create excess geometry.  </p>  <p>  \t  Here are just a few of the other things we&#039;ll go over in this course:  </p>  <p>  \t  Adding Skyboxes and fog  </p>  <p>  \t  Using water  </p>  <p>  \t  Creating a snow particle system from scratch using the <strong style=\"\">Shuriken Particle System</strong>  </p>  <p>  \t  Placing trees  </p>  <p>  \t  Using 2d sounds for ambiance  </p>  <p>  \t  Creating normal maps with <strong style=\"\">Crazy Bump</strong>  </p>  <p>  \t  This course is good for those game developers who want to learn how to create terrain using Unity3d. All experience levels are welcome as we delve into how to bring your digital world to life!  </p>", 
+    "end_date": null, 
+    "title": "Unity3d Environmental Series", 
+    "price": 0, 
+    "instructors": "Jonathan Gonzalez", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/49734_870c_8.jpg", 
+    "course_url": "https://www.udemy.com/unity3d-environmental-series/", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-04-14T14:08:42Z"
+}

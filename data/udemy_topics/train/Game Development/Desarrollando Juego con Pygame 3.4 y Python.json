@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Este Curso te enseñara como desarrollar un juego con pygame y python 3.4. Te explico paso a paso como puedes desarrollar un juego. Al Final vas a salir con uno juego que te voy a enseñar mediante el transcurso de la clase. Lo unico que necesitas es instalar pygame y python. Yo te voy a enseñar a instalar pygame y python de una manera bien sencilla. Vas a crear un juego desde cero paso a paso. No necesitas saver nada de codigo. Este curso te llevara a un nivel donde vas a quedar asombrado de que tan facil se puede hacer un juego con pygame 3.4.</p>", 
+    "end_date": null, 
+    "title": "Desarrollando Juego con Pygame 3.4 y Python", 
+    "price": "20.00", 
+    "instructors": "Oscar Ogando", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/501508_bea7_2.jpg", 
+    "course_url": "https://www.udemy.com/aprende-como-hacer-juegos-con-pygame/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-14T00:30:21Z"
+}

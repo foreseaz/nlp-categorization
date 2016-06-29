@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">As the web evolves, more and more complexity is moving to the front-end. A new trend called no-backend seeks to shy away from the traditional server-side web development in favor of utilizing cloud-based backend technologies like Firebase, allowing developers to focus on important business logic rather than boilerplate backend code.</p><p style=\"\">The web moves fast but with Firebase you can move faster by unlocking the power of real-time communication without the burden of server-side development. It will have you questioning everything you&#039;ve been told about what web development is supposed to be and unlock a productivity gain you only get a few times in your career.</p><p style=\"\">Learning Firebase will teach you how to develop fully featured real-time applications using Firebase in the friendliest and most intuitive way possible, by walking through examples using the Firebase dashboard and API.</p><p style=\"\">From the word go you will start to craft a sophisticated real-time link sharing application as a means of applying Firebase concepts exactly as they would be for any other viable application. You will be introduced to the amazing real-time data browser, which you will use extensively throughout the course, as you go hands on with the most important features of Firebase. As you move ahead you&#039;ll learn how to create, read, update, and delete data. You&#039;ll also become familiar with adding and managing user accounts, securing your data, and unlocking its full potential. You&#039;ll apply the knowledge gained to your own application to solidify the concepts and be inspired to explore topics beyond the scope of this course.</p><p style=\"\">By the end of the course, you will have created a full-blown real-time app and be rest assured that it will be the first of many to come!</p><p style=\"\"><strong style=\"\">About The Author</strong></p><p style=\"\"><strong style=\"\">Mark Nutter </strong>is a Minneapolis-based software engineer and the father of two lovely girls. He has been developing software for the web for 10 years and has extensive experience with single-page frontend JavaScript development, having launched and maintained countless heavily trafficked JavaScript applications for his clients, employers, and his own start-up companies. He authored an Angular wrapper for Firebase and has given popular talks about the productivity boost enjoyed by combining Firebase with modern JavaScript frameworks. He is always looking for ways to combine new technologies to accelerate the development of cool and useful software.</p>", 
+    "end_date": null, 
+    "title": "Learning Firebase ", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/588282_5afe_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-firebase/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-20T09:31:54Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>Visualizing data is the core idea of all type of data analyzing. Excel conditional formatting is a very useful Excel tool to visualize numeric data. And Microsoft has updated this tool in every version of Excel. In this Excel conditional formatting crash course, we will discuss conditional formatting features using Excel 2013 version.<br></p>  <p>Let’s discuss now what you will learn from this course.<br></p>  <ol><li>High Light Cells Rules: At first you will learn how to highlight cells using conditional formatting rules.</li><li>Top/Bottom Rules: Then you will work with Top/Bottom conditional formatting rules.</li><li>Then you will use data bars.</li><li>Then you will work with Color Scales and Icon sets.</li><li>Formula based conditional formatting rules: Using formulas in conditional formatting rules will give you huge benefit to visualize data in unique ways. I have used total 7 practical examples to teach you formula based conditional formatting rules. And I have added some relevant practice problems with every lecture. If you watch the lectures and practice the problems, I can guarantee, you will be an expert in using formulas in conditional formatting rules.</li><li>Then I have showed you how to manage conditional formatting rules.</li><li>And finally I have showed you how to locate conditional formatting cells in a worksheet.</li><li>Here is not the end of the course. Time to time, I shall add more lectures to the course that will teach you how to face real life data visualization using Excel conditional formatting rules.</li></ol>                So, if you are interested to learn Excel conditional formatting features with real life problems, then this course is for you. Thanks for reading. Enjoy the course!", 
+    "end_date": null, 
+    "title": "Learn Excel Conditional Formatting with 7 Practical Problems", 
+    "price": "20.00", 
+    "instructors": "Excel Academy", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/690770_a5d8_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-to-use-excel-conditional-formatting-with-examples/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-07T05:16:56Z"
+}

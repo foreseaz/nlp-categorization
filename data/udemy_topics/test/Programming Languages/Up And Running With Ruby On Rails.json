@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t             We start by deploying a <strong style=\"\">Ruby on Rails</strong> application to production. We do that really quickly starting from nothing using all the tools in the box: <strong style=\"\">rails</strong>, <strong style=\"\">bundler</strong>, <strong style=\"\">git</strong>, <strong style=\"\">heroku</strong>, and URL forwarding.  </p>  <p style=\"\">  \t             Once we have our application in production, we take a deeper look at all the parts that were necessary to make it happen.  </p>  <p style=\"\">  \t   If you are just beginning with Ruby on Rails and you want to learn the full development workflow, <strong style=\"\">from zero to production</strong>, then you should enjoy this course.  </p>  <p style=\"\">  \t<br style=\"\">  \t <strong style=\"\">The Philosophy Of The Course</strong>  </p>  <p style=\"\">  \t            All the lectures are screencasts. This course focuses on the technologies and the practical work that goes into deploying a Rails application to production. The course values exact information and productivity.  </p>  <p style=\"\">  \t       We will be using the command line for almost everything. If you are not comfortable using the command line, you might want to <a href=\"https://help.ubuntu.com/community/CommandlineHowto\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\">read up</a> before you start.  </p>  <p style=\"\">  \t<br style=\"\">  \t<br style=\"\">  \t <strong style=\"\">The Computer Setup</strong>  </p>  <p style=\"\">  \t            I am using Ubuntu to demo everything and I encourage you to use it as well. You can easily run Ubuntu alongside your current OS or from a USB stick. <a href=\"http://www.ubuntu.com/download/desktop\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\">Download Ubuntu 13.10 here</a>.  </p>  <p style=\"\">  \t     You could also stick with your current OS: the workflow demonstrated in this course should be very similar on other flavors of Linux or on Mac OS X.  </p>  <p style=\"\">  \t     Section 2 will spend a little bit of time talking about Ubuntu and the general computer setup. Feel free to use the course discussions if you have questions or problems.  </p>", 
+    "end_date": null, 
+    "title": "Up And Running With Ruby On Rails", 
+    "price": "20.00", 
+    "instructors": "Matthieu Tanguay-Carel", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/184084_daf2_8.jpg", 
+    "course_url": "https://www.udemy.com/up-and-running-with-ruby-on-rails/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-17T18:24:00Z"
+}

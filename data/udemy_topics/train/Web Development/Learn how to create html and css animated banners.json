@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Do you want to start adding animations to your banners or just learn about css animation in general and you don't want to learn javascript/jquery animation which is quickly geting outdate, for a good reason.</p><p>Css animation is light, fast to load and does not require you to learn a new language.</p><p>Add life to your website by adding animated banners with html and css animation and transitions.</p><p>Or just learn out creating animated banners for the sake of making some quick cash on fiverr or elance or Odesk.</p><p>this course is about the basics of creating animated html and css banners with out using any plugins, javascript or any libraries like jquery. infact the only files we will be creating are only .html and .css files.<br></p><p>We will cover the followings :</p><ul><li>Css Transition and Animation</li><li>How to create cool effects using transition and animation</li><li>Creating Animated Banner in Css</li></ul>", 
+    "end_date": null, 
+    "title": "Learn how to create html and css animated banners ", 
+    "price": "20.00", 
+    "instructors": "ismail businge", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/779302_9713_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-how-to-create-html-and-css-animated-banners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-01T20:21:55Z"
+}

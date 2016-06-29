@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t      Al tomar este curso aprenderas como crear un subtema para drupal y como aplicarle un diseño por medio de CSS. Explicaremos la estructura de un subtema y terminaremos usando Sass y Compass, pero primero empezaremos por aprender como crear un subtema basado en el popular tema Omega 4. Luego explicaremos las opción de la administración dentro del subtema. Despues aplicaremos un diseño con css y finalmente pasaremos todo a Sass.  </p>", 
+    "end_date": null, 
+    "title": "Creación y diseño de themes en Drupal 7", 
+    "price": "20.00", 
+    "instructors": "Ivan Mejia", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/255356_ad27_3.jpg", 
+    "course_url": "https://www.udemy.com/creacion-y-diseno-de-themes-en-drupal/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-03T23:49:50Z"
+}

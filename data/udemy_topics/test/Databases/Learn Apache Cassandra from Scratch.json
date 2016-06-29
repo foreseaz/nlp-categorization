@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  Cassandra is the high performance open source distributed database system. It showed the highest growth rate among new database systems and is poised for huge growth. Our course aims to provide you with everything you will need to get started with Cassandra DB. The Course starts with basic Cassandra Concepts and follow it up with CQL and finally teaches you to build a real application using Cassandra and NodeJs. The following sections are covered in the course  </p>  <p style=\"\">  \t<strong style=\"\">Cassandra Overview</strong>  </p>  <p style=\"\">  \t  Cassandra Data Model  </p>  <p style=\"\">  \t  Internal Working  </p>  <p style=\"\">  \t  Hadoop  </p>  <p style=\"\">  \t<strong style=\"\">Cassandra Installation</strong>  </p>  <p style=\"\">  \t  Linux  </p>  <p style=\"\">  \t  Windows  </p>  <p style=\"\">  \t<strong style=\"\">Cassandra Query Language</strong>  </p>  <p style=\"\">  \t  Tables and Queries in Cassandra  </p>  <p style=\"\">  \t  Crud operations in Cassandra  </p>  <p style=\"\">  \t<strong style=\"\">Project Building in Cassandra</strong>  </p>  <p style=\"\">  \t  Build a Simple Twitter Clone application using Cassandra and Nodejs  </p>  <p style=\"\">  \t  The course includes presentation files, source code and video training materials and follows an easy to assimilate pedagogy with practical focus to teach you all the tips of the trade.  </p>", 
+    "end_date": null, 
+    "title": "Learn Apache Cassandra from Scratch", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/390962_f3ec_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-apache-cassandra-from-scracth/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-11T06:03:43Z"
+}

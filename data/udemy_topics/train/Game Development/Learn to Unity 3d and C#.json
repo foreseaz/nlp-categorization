@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><br style=\"\"></p><p style=\"\"><strong style=\"\">YAPMANIZ GEREKENLER</strong></p><p style=\"\">Kursa başlamadan önce Unity 3d oyun motorunu bilgisayarınıza kurmanız gerekiyor Daha sonra kursu alarak oyun geliştirmeye başlayabilirsiniz</p><p style=\"\"><strong style=\"\">BAŞLARKEN</strong></p><ul style=\"\"><li>Unity 3d tercih etmeniz için size birçok neden sunabilirim.Ücretsiz yayınlanma özelliği bulunması çok geniş platformları vardır ve Unity 3d  çok özelliğinin bulunması Bende size bu özellikleri göstermeye çalıştım bu ders serimde Umarım yararlı bir ders serisi olur Bu Ders Serimle Unity 3d Oyun Motorunu öğrenmiş olacaksınız Kursu bitirmek 1 Haftanızı Alabilir Bu Kursu alarak eğer Unity 3d öğrenirseniz çeşitli Oyun Geliştirme şirketlerinde çalışabilirsiniz Bu kursa katılmanız için size birçok neden sunabilirim örneğin bu kursu alarak oyun geliştirme tecrübeniz başlayacaktır bu konuda tecrübe çok önemli gerçekten oyun şirketlerine girerken tecrübenize bakarak sizi işe alıyorlar Kursun içinde oyununuza Skybox , Coin , Car Tutorial , Car Map , Car Level , Terrain ,</li></ul><p><strong style=\"\">KURS MATERYALLERİ</strong></p><ul style=\"\"><li>Animation , Light , Particle Effect , Image , Button , Text , Character , Character Controller , Collider , Rigidbody , Scene , Menu , Android SDK yükleme gibi önemli içerikli dersler bulunmaktadır Eğer sizde bu saydıklarımıa sahip olmak istiyorsanız dersimi satın alın ve hemen Unity 3d öğrenmeye başlayın Ayrıca yukarıda saydığım özellikler ile sizde oyun geliştirebilirebilirsiniz Haydi sizde bu dersi alın ve oyun geliştirmeye başlayın Eğer destek olmak isterseniz Facebook&#039;tan bana ulaşabilirsiniz Bu ders serimde programlama dili olarak C# dilini göstermeye çalıştım Böylelikle Unity 3d yanında C# da öğrenmiş olacaksınız C# sizin işinize ileride işinize çok yarabilir C# ile program yazabilir ve Unity 3 gibi oyun motorlarında kullanarak hem oyun programlayabilirsiniz hem de kendinize muhasabe programları gibi zor programlar yazabilirsiniz Bu programları yazıp satarak ta gerçekten çok büyük paralar kazanabilirsiniz  Unity 3d ile oyun yaparakta çok büyük paralar kazanabilirsiniz Yukarıda da belirttiğim gibi oyun şirketlerinde çalışmak istiyorsanız tecrübeniz olması gerekiyor</li></ul><p style=\"\"><strong style=\"\">KURSU BİTİRDİKTEN SONRA</strong></p><ul style=\"\"><li>Bu ders serisini alarak Unity 3d indirip ve çalışmalarınıza başlayarak sizde tecrübenizi başlatabilirsiniz Şu anda piyasada türkçe android için araba yapımı videosu çok az bulunmaktadır olsa bile ücretlidir Ancak bu seride size android için araba yapımı ders videoları bulunmaktadır Aynı zamanda scriptleride verdim scriptlerle dahada kolay arabanızı hazırlayabilirsiniz Arabanızı ister sensörle ister direksiyonla kontrol edebileceğiniz bir ders olmuştur Sadece arabanın hazırlanışı değil arabanın sürüleceği haritayıda videomuzda hazırladık Birde Level konusunu işledik Car Tutorial bölümünde Aynı zamanda 2d oyun geliştirmeyi göstermeye çalıştım</li></ul>", 
+    "end_date": null, 
+    "title": "Learn to Unity 3d and C#", 
+    "price": "45.00", 
+    "instructors": "Ömer Faruk Turak", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/418196_ea63_6.jpg", 
+    "course_url": "https://www.udemy.com/unity-3d/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-10T11:15:48Z"
+}

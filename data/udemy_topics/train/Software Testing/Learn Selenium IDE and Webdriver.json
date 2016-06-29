@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><p>This “Selenium Training: Selenium IDE  Tutorial and Webdriver Tutorial “course is delivered as a highly hands-on  session, with extensive live examples. The instructor has more than 15 years of experience working  as an employee and consultants for many leading companies, including Apple,  Visa, Fidelity Investments and Subaru. Currently, he provides consulting  services at Apple Inc., in Cupertino, CA.</p>    <p><strong style=\"\">In this Selenium training course, attendees will learn the  following:</strong></p>    <p>&nbsp; <strong style=\"\">Selenium  IDE</strong></p>    <p>1.&nbsp; Download and installation</p>    <p>2.&nbsp; Working with Selenium IDE UI</p>    <p>3.&nbsp; Record and Playback</p>    <p>4.&nbsp; Selenium Commands</p>    <p>5.&nbsp; Selenium Test suites and test cases</p>    <p>6.&nbsp; Working with conventional and Ajax based websites</p>    <p>&nbsp;<strong style=\"\">Selenium  Web driver</strong></p>    <p>1.&nbsp; Setting up Eclipse IDE for Selenium Web  driver</p>    <p>2.&nbsp; Downloading and Installing Web driver</p>    <p>3.&nbsp; Working with Page elements</p>    <p>4.&nbsp; Driver, WebElements and other key concepts</p>    <p>5.&nbsp; Using Selenium Webdriver to test multiple  types of websites</p>    <p><strong style=\"\">Who should attend in this Selenium Training: Selenium IDE Tutorial  and Webdriver Tutorial course?</strong></p>    <p>Following  professionals should plan on joining:</p>    <p><ol style=\"\"><li><span>Someone who  wants to start his/her career as a Selenium Automation Tester.</span><br style=\"\"></li><li><span>QA Engineers  who want to learn Selenium Automation Tester.</span><br style=\"\"></li><li><span>Automation  Engineers</span><br style=\"\"></li><li><span>QA Managers</span><br style=\"\"></li><li><span>Programmers</span><br style=\"\"></li></ol></p>                    <p>Take this Selenium Training: Selenium IDE  Tutorial and Webdriver Tutorial course now and learn how to automate your web  and mobile applications with Selenium.</p>&lt;/p&gt;", 
+    "end_date": null, 
+    "title": "Learn Selenium IDE and Webdriver", 
+    "price": "40.00", 
+    "instructors": "Sansa Technology", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/25924_1ee5_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-selenium-ide-and-webdriver/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-10-03T22:37:05Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Delphi 10 Seattle Firemonkey, Firedac, LiveBindings em 103 videoaulas</strong></p>\n\n<p>Que tal você aprender a Criar aplicativos que irão rodar em vários dispositivos como MAC, Iphone, Android, Windows, Ipad. Bem como também conhecer a biblioteca Firedac de acesso a dados e o fantástico LiveBindings. Conheça a surpreendente ferramenta Delphi 10 seattle e crie aplicativos multi-devices.<br></p>\n\n<p>Nesse curso você vai aprender desde a parte de instalar o Delphi 10 Seattle até a criar os primeiros programas desktop para rodar no Windows e no MAC OS X (configurar a rede, usar VNC e instalar o Paserver). Esse aplicativo também irá funcionar Iphone, Android e Ipad. Isso é possível através do uso do Firemonkey (Multi-Devices). Também foi ensinado a usar o Firedac e dbexpress para acesso aos banco de dados MySQL e PostgreSQL.</p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">Para brincar:</strong></p>\n\n\n\n<p>Ensinei a criar um player de aúdio e vídeo, criar programas em 3D e inserir efeitos e animações<br>. Para quem vive conectado, foi mostrado como criar Notificações tanto para celular quanto para desktop. Uma das coisas mais legais no Delphi 10 Seattle é o LiveBindings (ligações ao vivo), você vai se impressionar com ele.</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Ainda:</strong></p>\n\n\n\n<p>Sempre é importante saber criar e ler arquivos XML. Bem como criar um sistema embarcado (embedded) em que você não precisa instalar o Banco de Dados com computador do cliente. Foi mostrado como usar arquivos .INI para ter acesso a vários bancos de dados. Que tal melhorar o estilho (layout) da sua aplicação ? Isso foi mostrado também. E por fim, como criar sistema de FTP enviado e fazendo download de arquivos de um servidor real.</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Veja abaixo os principais tópicos:</strong><br></p>\n\n<ul><li>Instalar o Delphi 10 Seattle</li><li>Firemonkey (Multi-Devices)</li><li>Firedac e dbexpress</li><li>Player de aúdio e vídeo</li><li>Notificações para celular e desktop</li><li>LiveBindings</li><li>Manipular arquivos XML</li><li>Sistema embarcado (embedded) </li><li>Programas em 3D e efeitos e animações</li><li>Arquivos .INI</li><li>Implementar estilos</li><li>Criar sistema de FTP</li></ul>", 
+    "end_date": null, 
+    "title": "Delphi 10 seattle Firemonkey, Firedac,LiveBinding 103 videos", 
+    "price": "30.00", 
+    "instructors": "Neri Neitzke", 
+    "commitment": "14.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/779200_a632.jpg", 
+    "course_url": "https://www.udemy.com/delphi-10-seattle-firemonkey-firedaclivebinding-103-videos/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-01T18:40:06Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">The future of software is going to be 3D.  If you watched the 2015 F8 Facebook Keynote you&#039;ll know that they are focusing on 3D virtual reality with oculus rift. </p><p style=\"\">Yeah yeah, 3D is cool but isn&#039;t 3D like really hard to develop?  ...usually it is but Apple has released a framework called SceneKit that makes it pretty darn simple.  </p><p style=\"\">This is your chance to get ahead of the technological curve and become proficient with the next generation of 3D frameworks.</p><p style=\"\">---</p><p style=\"\">This course will give you an introduction to Apple&#039;s easy to use 3D framework called SceneKit.  In this course you will learn how to draw objects to the screen and modify their appearance, position, and lighting.  You can use this to get your feet wet for 3D game development or better yet as a way create apps with a 3D UI.</p><p style=\"\">You will use playgrounds exclusively so that you can follow along without a device.  All you need is Xcode 6.</p><p style=\"\">You will program everything in Swift.</p>", 
+    "end_date": null, 
+    "title": "Intro to SceneKit. An easy to use iOS 3D framework.", 
+    "price": "20.00", 
+    "instructors": "Kevin Healy", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/481430_ce7e_7.jpg", 
+    "course_url": "https://www.udemy.com/scenekit/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-20T18:47:10Z"
+}

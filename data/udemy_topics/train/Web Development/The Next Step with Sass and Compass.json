@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t The Next Step with Sass and Compass is an intermediate level course in Sass for people who already know the basics of Sass. It is a follow up course to Step by Step Sass, but can be completed by anyone who understands the basic Sass concepts of variables, mixins, nesting, extend and parent selectors.  </p>  <p style=\"\">  \t In this class we will get deeper into Sass and learn how powerful it can be by using Math, Lists, and Control Directives, like @for, @each or @if and @else. All of these things let you actually write your CSS more like a programming language, which can make your code easier to maintain.  </p>  <p style=\"\">  \t This course uses a real project. In it we create a CSS only animated slideshow and make it completely modifiable using Sass. We explore the Compass framework and its many useful tools and mixins. We learn how simple it is to create and maintain CSS Sprites with Compass, and we will explore the many color functions that you get with both Sass and Compass.  </p>  <p style=\"\">  \t The course also covers how media queries work in Sass and how @content can help developing responsive websites much easier.  </p>  <p style=\"\">  \t When you are done with this course you will understand how powerful Sass is and how you can use it to get your work done faster.  </p>", 
+    "end_date": null, 
+    "title": "The Next Step with Sass and Compass", 
+    "price": "20.00", 
+    "instructors": "Lisa Catalano", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/198050_4343_2.jpg", 
+    "course_url": "https://www.udemy.com/the-next-step-with-sass-and-compass/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-12T19:12:30Z"
+}

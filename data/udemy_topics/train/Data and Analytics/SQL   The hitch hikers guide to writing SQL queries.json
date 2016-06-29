@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>Hi there,</p>\n\n<p>Welcome to \"<strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">The hitch hikers guide to writing SQL queries</em></strong>\", this is a course that I am sure you will complete and learn a lot. </p>\n\n\n\n<p>The course is aimed at Beginners to Intermediate levels.</p>\n\n\n\n\n\n\n\n\n\n<p>It covers all the bases for you to get up to speed with writing SQL before you progress on to more advanced SQL for transforming and analysing data.</p>\n\n\n\n\n\n\n\n\n\n<p>I will explain everything step by step and in detail so you get to know SQL very well. </p>\n\n\n\n\n\n\n\n\n\n<p>The course uses SQLServer 2014 express, and we all know the popularity of SQL Server and the thousands of enterprises that use it.</p>\n\n\n\n\n\n\n\n\n\n<p>Enjoy this course, contact me in the <strong>Q &amp; A</strong> pages if you have any questions , this is a free course, but you still get the same support as you would if you purchased any of my other courses.</p>\n\n\n\n\n\n\n\n\n\n<p>See you in the course.</p>\n\n\n\n\n\n\n\n\n\n<p>Paul</p>\n\n<p>Data Analyst and SQL Developer </p><p><em>Course Release date 20Apr16 Vers 1.0 </em></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "SQL : The hitch hikers guide to writing SQL queries", 
+    "price": 0, 
+    "instructors": "Paul Scotchford", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/820354_00be.jpg", 
+    "course_url": "https://www.udemy.com/sql-the-hitch-hikers-guide-to-writing-sql-queries/", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-12T22:34:13Z"
+}

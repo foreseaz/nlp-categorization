@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t   In this course you&#039;ll learn Apple&#039;s new programming language, Swift by building and MVP and using gamification to keep track of the skills you master.  </p>  <p>  \t   This course is not about theory (there are some lectures about that to help you), instead you are going to be presented with the techniques you need while building a multi-screen iOS real game.  </p>  <p>  \t   An MVP (Minimum Viable Product) is definitely the best way to start an app development. Using this technique, you build just the essentials to start testing your app with your clients before spending huge amounts of money an time.  </p>  <p>  \t   After completing the course, you&#039;ll be able to build any basic version of your idea. With that app in hand you can validate your idea with key costumers and can get an investor to put some money on your company.  </p>  <p>  \t   For every section you finish, a gamified panel will be presented showing what you have done and what skills were mastered, making it easy to keep track and most importantly giving you the motivation you need to become a Swift especiatlist.  </p>", 
+    "end_date": null, 
+    "title": "Learn Swift: Build an MVP using Gamification", 
+    "price": "30.00", 
+    "instructors": "Leandro Prates", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/246868_f536_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-swift-building-an-mvp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-20T02:11:50Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">En este curso aprenderemos los conceptos&nbsp;básicos&nbsp;de los servidores web, basados en Apache, Php y MySQL, desde un inicio&nbsp;aprenderás&nbsp;el proceso de&nbsp;configuración&nbsp;de cada una de estas herramientas.</p>    <p style=\"\">En cada&nbsp;sección&nbsp;introduciremos un nuevo concepto aplicable 100% a un entorno real de&nbsp;producción&nbsp;o desarrollo de un servidor web.</p>    <p style=\"\">Al final de este curso estarás en capacidad de instalar, configurar y administrar tu propio servidor web, en la plataforma que elijas.</p>    <p style=\"\">Sin importar si eres un desarrollador web, o apenas comienzas en el mundo de la administración de servidores este curso será de gran ayuda para alcanzar tus objetivos.</p><p style=\"\">Los desarrolladores o aspirantes a desarrolladores mejoraran su eficiencia y eficacia al conocer el funcionamiento interno de un servidor web</p>    <p style=\"\">El curso usa las&nbsp;tecnologías&nbsp;web mas comunes del momento y mas demandadas por las empresas, ya que en la actualidad existen alrededor de &nbsp;!<strong style=\"\">322.000.000¡ &nbsp;de sitios web que utilizan APACHE, PHP y MYSQL.</strong></p>    <p style=\"\"><strong style=\"\">Algunos sitios web que utilizan estas tecnologías estan :</strong></p>    <p style=\"\">  </p><ul style=\"\">  \t<li style=\"\"><span style=\"\"><strong style=\"\">youtube.com</strong></span></li>  \t<li style=\"\"><span style=\"\"><strong style=\"\">wikipedia.org</strong></span></li><li style=\"\"><span style=\"\"><strong style=\"\">Tumblr.com</strong></span></li>  \t</ul><u style=\"\"><br style=\"\"></u><p style=\"\"></p>  ", 
+    "end_date": null, 
+    "title": "Webserver Administration from Scratch", 
+    "price": "45.00", 
+    "instructors": "Juan Guillermo Zapata", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/47492_934f_6.jpg", 
+    "course_url": "https://www.udemy.com/webserver-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-03-26T18:44:36Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Aprenderás como crear una template funcional para Wordpress,el como hacer la perfecta vinculación de todos los archivos, utilizaremos un super plugin llamado Visual Composer para agilizar la maquetación y aplicarle un super blindaje de seguridad a nuestra plataforma.</p><p><strong>Requisitos:</strong></p><ul><li>Personas con un nivel intermedio en el mundo de la programación web.</li><li>Desarrolladores Junior</li><li>Tener conocimiento del 40 a 70% de los lenguajes de HTML, CSS, Javascript, jQuery, PHP, MySQL, Bootstrap.</li><li>Saber como utilizar la librería jQuery de Javascript</li><li>Uso de la sintaxis básica de PHP, MySQL</li><li>Saber el uso del Framework Bootstrap</li></ul>", 
+    "end_date": null, 
+    "title": "Aprende a crear una Template WORDPRESS desde cero", 
+    "price": "20.00", 
+    "instructors": "Gilbert Rodríguez", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/837112_c92c.jpg", 
+    "course_url": "https://www.udemy.com/aprende-a-crear-una-template-wordpress-desde-cero/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-02T00:59:18Z"
+}

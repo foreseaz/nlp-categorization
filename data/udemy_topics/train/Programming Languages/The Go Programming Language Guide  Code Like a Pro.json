@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>The sheer complexity of the systems getting created  now have resulted in the growing need for programming languages that are simpler, reliable and easy to compile and are modern in their outlook. This is where <strong>Google’s Go programming language</strong> steps in to save the day! Go is slowly garnering more followers since its introduction in 2009.</p><p>Go is an open source programming language that was developed by Google’s Robert Griesemer, Rob Pike, and Ken Thompson. Based on the tradition of C and C++, Go is a systems programming language that is used in some of Google’s production systems as well as in systems produced by other firms. </p><p>Currently one of the hottest production system programming language, Go is designed to be simple, safe and concise. It also comes added with garbage collection, safety features and CSP-style concurrent programming features.</p><p>Our Go Programming Language course has been designed to familiarize you with the basics as well as the advanced features of Go. From why should you choose Go to fancy tricks that you can do with Go, this course has it all. </p><p>The course has been designed keeping in mind beginners that have absolutely no programming background to developers that are trying Go programming language for the first time. This course comes packed with something for everyone. </p><p>Here are few reasons why Go is a great language to learn:</p><ul>\n<li>Concise variable declaration and initialization through type inference</li>\n<li>A toolchain that, by default, produces statically linked native binaries without external dependencies. </li>\n<li>Faster compile time</li>\n<li>Remote package management</li>\n<li>Built-in concurrency primitives, light-weight processes (go routines), channels, and the select statement.</li>\n</ul><p>The course will cover topics such as Go programming language and its benefits, how to set up a Go development environment, introduction to Go syntax and application development, Go Language Fundamentals such as basic Go types, functions and pointers, Go Concurrency such as the Go memory model, Go routines and Go Pipelines, how to use Go with Cloud Services including Google Cloud, Amazon Cloud and Docker, how Go works with language bindings such as C, Python and Java and what problems can arise when creating applications and how to deal with them. </p><p>Are your fingers itching to get started on learning how to use Go? Well, enroll now and become a Go guru.</p>", 
+    "end_date": null, 
+    "title": "The Go Programming Language Guide: Code Like a Pro", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/744690_e4b9.jpg", 
+    "course_url": "https://www.udemy.com/the-go-programming-language-guide-code-like-a-pro/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-28T11:36:29Z"
+}

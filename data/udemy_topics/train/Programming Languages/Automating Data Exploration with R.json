@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>As data scientists and analysts we face constant repetitive task when approaching new data sets. This class aims at automating a lot of these tasks in order to get to the actual analysis as quickly as possible. Of course, there will always be exceptions to the rule, some manual work and customization will be required. But overall a large swath of that work can be automated by building a smart pipeline. This is what we’ll do here. This is especially important in the era of big data where handling variables by hand isn’t always possible.<br></p>\n\n<p>It is also a great learning strategy to think in terms of a processing pipeline and to understand, design and build each stage as separate and independent units.</p>", 
+    "end_date": null, 
+    "title": "Automating Data Exploration with R", 
+    "price": "25.00", 
+    "instructors": "Manuel Amunategui", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/766978_222c_8.jpg", 
+    "course_url": "https://www.udemy.com/automating-data-exploration-with-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-18T21:26:30Z"
+}

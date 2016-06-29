@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p></p><p>Cualquier contenido  que se muestra en Internet, o en una Intranet empresarial, en un explorador web  es presentado a través de un servidor web.</p>  <p>La mayor parte de  páginas web de Internet están publicadas en el servidor web <a href=\"http://es.wikipedia.org/wiki/Servidor_HTTP_Apache\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">Apache HTTP Server</a>  que a su vez está instalado, normalmente, sobre un sistema operativo Linux.  Tanto Apache como Linux son programas de código abierto o <a href=\"http://es.wikipedia.org/wiki/C%C3%B3digo_abierto\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">Open Source</a>: no son  propietarios de ninguna compañía y pueden ser usados, y modificados libremente.</p>  <p>En el curso  &quot;Monta un servidor web con Linux desde cero&quot; aprenderemos a instalar  un servidor web Apache sobre&nbsp; Linux desde  cero.</p>  <p>El curso contiene  más de 4 horas de vídeo, además de materiales de apoyo a modo de resúmenes y  documentación, llenos de enlaces de interés donde poder ampliar cualquier  concepto.</p>  <p>Todo el Software que  utilizaremos es gratuito&nbsp; y puede ser  descargado libre y legalmente de Internet.</p>  <p>Al final del curso  el alumno habrá instalado y configurado desde cero un servidor listo para  instalar sobre él un sistema de blogs como <a href=\"http://es.wordpress.com/features/\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">Word Press</a> u otras herramientas <a href=\"http://es.wikipedia.org/wiki/C%C3%B3digo_abierto\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">Open Source</a> basadas  en el lenguaje de programación <a href=\"http://es.wikipedia.org/wiki/PHP\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">PHP</a>  y el gestor de bases de datos <a href=\"http://es.wikipedia.org/wiki/Mysql\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">MySQL</a>.</p>  <p>Este curso <strong style=\"\">no es  sólo un curso sobre tecnología</strong>:</p>  <ul style=\"\">   <li>Es un curso en el que el       alumno será guiado para, de forma eminentemente práctica, instalar su       propio servidor</li>   <li><strong style=\"\">Un regalo para cualquier       amante de la tecnología curioso sobre el funcionamiento de Internet</strong>.</li>   <li>Una ayuda inestimable para       quién necesite instalar un servidor web basado en Linux que funcione sin       necesidad de leer varios libros sobre distintas tecnologías.</li>  </ul>  <p>Y lo mejor de todo:  <strong style=\"\">todas las tecnologías que usaremos en el curso son libres y gratuitas</strong>, todo lo  que necesitas es tu propio ordenador.</p>  <p>Al final de este  curso estarás en disposición de publicar tu propia página web personal o  profesional en Internet sin necesidad de contratar un servicio de hosting o  alojamiento.</p><p></p><p>Todo lo que  necesitas para completar este curso habiendo montado tu propio servidor web es  un ordenador (el tuyo) en el que poder montar una máquina virtual. </p>  <p>Una máquina virtual  permite hacer una instalación de otro sistema operativo sin tocar tu actual  instalación. Es como cualquier programa que instalas , al iniciarse se arranca  la máquina virtual y dentro de ella se ejecuta, como si fuese otro ordenador, otro  sistema operativo.</p>  <p>Existen multitud de  sistemas gratuitos de virtualización. Lo único que hay que tener en cuenta es  que la máquina virtual compartirá (y competirá) por los recursos del sistema en  el que está instalado por lo que lo ideal es contar con un ordenador con, al  menos 2 GB de memoria RAM y 20 GB de espacio libre en disco.</p><p></p><p>El curso es  eminentemente práctico y basado en vídeos. </p>  <p>Todas las lecciones  tienen material complementario que servirán como apoyo a las lecciones en vídeo  y apuntes con los conceptos, comandos y configuraciones realizadas.</p>  <p>Todos los textos  están apoyados con enlaces a diversas fuentes donde ampliar cualquier concepto  o tecnología que se considere interesante o necesaria.</p><p></p><p></p><p></p>  ", 
+    "end_date": null, 
+    "title": "Monta un servidor web con Linux desde cero", 
+    "price": "45.00", 
+    "instructors": "Alberto Sanz", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/38637_1a74_7.jpg", 
+    "course_url": "https://www.udemy.com/monta-un-servidor-web-con-linux-desde-cero/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-01-28T10:49:40Z"
+}

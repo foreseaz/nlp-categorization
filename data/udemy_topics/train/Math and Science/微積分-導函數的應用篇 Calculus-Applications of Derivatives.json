@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>本單元介紹導函數的應用，其內容包含</p><ol style=\"\"><li style=\"\">相對極大與極小(Relative Maximum and Relative Minimum)</li><li style=\"\">絕對極值(Absolute Extrema)</li><li style=\"\">近似值(Linear Approximation)</li><li style=\"\">相關變率(Related Rate)</li><li style=\"\">羅必達法則(The Rule of L&#039;Hopital)</li></ol><ul style=\"\"><li style=\"\">本課程建議基礎:</li></ul><ol style=\"\"><p style=\"\">先要研讀微積分-基礎數學篇、微積分-極限篇、微積分-導函數篇、微積分-連續性篇後再學習。</p></ol><ul style=\"\"><li style=\"\">建議完成時間:</li></ul><ul style=\"\"><p style=\"\">學習者以五週時間完成</p><li style=\"\">教材來源</li><p style=\"\">源於中華科技大學 微積分一 課程中第十二單元相對極大與極小、第十三單元絕對極值、第十四單元近似值、第十五單元相關變率與第十六單元羅必達法則部分</p><li style=\"\">教材認證</li><p style=\"\">內容通過台灣教育部103年度第1梯次數位學習教材認證</p><li style=\"\">語言</li><p style=\"\">全部課程繁體中文講授。</p><li style=\"\">其他事項</li><p style=\"\">本課程僅供學員自修使用，無法取得中華科技大學學分</p></ul>", 
+    "end_date": null, 
+    "title": "微積分-導函數的應用篇 Calculus-Applications of Derivatives", 
+    "price": 0, 
+    "instructors": "Lee Bor-Jian", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/470510_4085_2.jpg", 
+    "course_url": "https://www.udemy.com/calculus-applications-of-derivatives/", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-08T04:31:43Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong></strong><strong>Summary</strong></p><p>JQuery is a well-known JavaScript library which is utilized extensively in sites that are modern. This library eases common JavaScript jobs for example event handling animations, manipulating HTML content, and communication with outside computers. Along with its easy-to-use features, JQuery also takes care of several cross- browser compatibility issues automatically.</p><p><strong>Prerequisites</strong></p><p>HTML: The student should learn the way to work with HTML tags and attributes. Simply a really basic comprehension of HTML is assumed.</p><p>JavaScript: The student should know how exactly to create Java Script, since JQuery is a Java Script library. JQuery makes substantial use of functions and things, so the student should be familiar with these concepts.</p><p>Notepad++ (Recommended): Notepad is a free, open source text editor. Although HTML and JavaScript might be created using any text-editor, Notepad is highly recommended as a result of features such as syntax-highlighting and autocomplete.</p><p>JavaScript-enabled browser: In order to to perform JavaScript, the student has to have access to some JavaScript-enabled browser. Any modern web-browser will operate provided that an administrator has not disabled Java Script, although Google-Chrome is utilized through the training.</p><p><strong>What you'll learn</strong><strong></strong></p><p>By learning about selectors, we will begin the lecture. Selectors are strings that are used to target specific HTML elements to the page. Understand and the format is simple and highly intuitive to study.</p><p>This is the lite version of our main course \"jQuery for Absolute Beginners\"</p>", 
+    "end_date": null, 
+    "title": "jQuery for Absolute Beginners - Lite", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "35 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/710486_ffc4.jpg", 
+    "course_url": "https://www.udemy.com/jquery-for-absolute-beginners-lite/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-30T05:52:45Z"
+}

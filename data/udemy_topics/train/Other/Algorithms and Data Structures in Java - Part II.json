@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Hi!</p>\n\n<p>This course is about data structures and algorithms. We are going to implement the problems in Java, but I try to do it as generic as possible: so the core of the algorithms can be used in C++ or Python. The course takes approximately 5 hours to complete. I highly recommend typing out these data structures several times on your own in order to get a good grasp of it.</p>\n\n<p>In the first part of the course we are going to learn about basic data structures such as linked lists, stacks and queues, heaps and some advanced ones such as hash tables and ternary search trees. The second part will be about data compression. We will try to optimize each data structure ( for example avoiding obsolete references ) as much as possible.</p>\n\n<p>In each chapter I am going to talk about the theoretical background of each algorithm or data structure, then we are going to write the code step by step in Eclipse, Java.</p>\n\n<p>Most of the advanced algorithms relies heavily on these topics so it is definitely worth understanding the basics. These principles can be used in several fields: in investment banking, artificial intelligence or electronic trading algorithms on the stock market.</p>", 
+    "end_date": null, 
+    "title": "Algorithms and Data Structures in Java - Part II", 
+    "price": "30.00", 
+    "instructors": "Holczer Balazs", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/816152_f28c_2.jpg", 
+    "course_url": "https://www.udemy.com/algorithms-and-data-structures-in-java-part-ii/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-08T06:35:28Z"
+}

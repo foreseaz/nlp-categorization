@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t This SharePoint Server 2013 training course from Infinite Skills walks you through the process of installing, configuring, and basic administration of Microsoft SharePoint Server 2013. Joel teaches this course from a practical point of view - how to apply these skills to your own installation, but also covers all of the topics you would need for the Microsoft 70-331 exam - Core Solutions of Microsoft SharePoint Server 2013.  </p>  <p>  \t <br>  \t This tutorial assumes that you already have familiarity with SharePoint and experience working with Microsoft Windows Server 2012. It is designed for IT professionals that may never have installed, configured or administered a SharePoint Server before. Topics that are covered in this video training include; installation methods, configuring authentication, backup and restore, rights management, Antivirus settings, configuring the search service, configuring Social Networking, monitoring SharePoint, configuring the distributed cache service, and much much more.<br>  \t <br>  \t Once you have completed this video tutorial for Microsoft SharePoint Server 2013, you will be capable of installing and configuring core services of SharePoint Server. You will be familiar with how to manage SharePoint Server installations, and you will have all the information that you need to take your Core Solutions of Microsoft SharePoint Server 2013 (70-331) exam, advancing you towards your MCSE: SharePoint certification.  </p>  <p>  \t\tHow to take the Microsoft 70-331 Exam:  \t</p>  \t<p>  \t\t1. Find a test center near you to take the Server 70-331 certification exam, their will provide details on test center locations and schedules. This exam is typically priced around $150 dollars.  \t</p>  \t<p>  \t\t2. Study the required material to pass the 70-331 examination. This course covers the material that is within the 70-331 certification exam, and will help put you in a great position to succeed in the exam  \t</p>  \t<p>  \t\t3. Pass your exam!  \t</p>  \t<p>  \t\t4. Tell your friends how easy passing the Microsoft 70-331 exam was using Infinite Skills training courses  \t</p>  \t<p>  \t\tThe information laid out above is given in good faith, we are not endorsing and third party company by offering a link to their site. You should always do your own research prior to making a purchase or using any service linked to via this website. Prices or details may alter and any information listed can not be guaranteed to be accurate. Note: While this course is comprehensive in regards to covering material on the exam, we do recommend using other aids to guide your study.  \t</p>  &lt;/p&gt;", 
+    "end_date": null, 
+    "title": "Microsoft SharePoint Server 2013 Training - Admin (70-331)", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/81760_e702_9.jpg", 
+    "course_url": "https://www.udemy.com/microsoft-sharepoint-server-2013/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-21T15:33:42Z"
+}

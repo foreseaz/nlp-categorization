@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business Analytics and Intelligence"
+    ], 
+    "description": "\n\n                    \n                    \n                    The Problem Solving with Analytics course provides students with the foundational knowledge to use data analytics to create business insights.  You will learn: \r\n\r\nTo apply a useful framework to solve a business problem\r\nTo determine which analytical method to apply given the nature of the problem and available data\r\nTo use linear regression to generate business insights   Throughout this course you’ll also learn the techniques to apply your knowledge in a data analytics program called Alteryx. At the end of the course, you’ll complete a project based on the principles in the course.  This course is part of the Business Analyst Nanodegree.Why Take This Course?Using advanced analytics is less about being a statistics wiz and more about understanding how to approach problems and knowing what tools to use. In this course you will be introduced to predictive analytics, a powerful tool to help businesses analyze data and predict future outcomes and trends. You’ll learn a scientific approach to solving problems with data, a foundational skill for anyone interested in making data driven decisions in a business context. You'll be introduced Alteryx, a data analytics tool that enables you prepare, blend, and analyze data quickly. This course is ideal for anyone who is interested in pursuing a career in business analysis, but lacks programming experience.\r\n\n\n                                            Syllabus\n                        Lesson 1 - The Analytical Problem Solving Framework In this lesson you’ll learn a Problem Solving Framework that is useful to approaching any data analytics problem. The framework includes six key steps: business problem understanding, data understanding, data preparation, analysis and modeling, validation, and visualization.   Lesson 2 - Selecting an Analytical Methodology In this lesson you’ll learn how to determine which analytical approach is most appropriate given the context of the problem and the nature of the available data.   Lesson 3 - Linear Regression In this course you’ll learn apply the Problem Solving Framework to a business problem using linear regression, a predictive model used to predict numeric outcomes. You’ll first be introduced to regression using just one predictor variable, then how to add more variables to improve the accuracy of the model, and finally how to interpret and use the results.\n                                    ", 
+    "end_date": null, 
+    "title": "Problem Solving with Advanced Analytics", 
+    "price": 0, 
+    "instructors": "", 
+    "institution_name": [], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Business & Management"
+    ], 
+    "course_url": "https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976?utm_medium=referral&utm_campaign=api", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2016-06-07T00:00:00Z"
+}

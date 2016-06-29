@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Are your automated functional tests flaky? Do they randomly fail and you are unsure why? Is your team frustrated with the \"instability\" of your Selenium Webdriver tests?<br></p>\n\n<p>If you are interested in fixing all of these problems and making your tests more stable, then you need to understand how to use all of the different types of waits in Selenium Webdriver. Knowing how to handle synchronization issues will make you a top notch Test Engineer!</p>\n\n\n\n\n\n\n\n<p><em class=\"redactor-inline-converted\"><strong class=\"redactor-inline-converted\">\"The best tutorials I have ever seen, simply awesome. I take off my hat in front of you, you are an gorgeous professor, I am speechless to express how satisfied I am with these tutorials.\"</strong> -Lisbey</em><br></p>\n\n\n\n\n\n\n\n<p>In this course, you will:</p>\n\n\n\n\n\n\n\n<p>1. Learn the problems that can occur as a result of improper synchronization</p>\n\n\n\n\n\n\n\n<p>2. Learn how to use Selenium Webdriver explicit waits</p>\n\n\n\n\n\n\n\n<p>3. Master Selenium Webdriver implicit waits</p>\n\n\n\n\n\n\n\n<p>4. Understand what a DefaultWait is</p>\n\n\n\n\n\n\n\n<p>5. Comprehend how to use all of the different types of waits during appropriate situations</p>\n\n\n\n\n\n\n\n<p><em class=\"redactor-inline-converted\"><strong class=\"redactor-inline-converted\">\"Great Video I have ever seen on YouTube. You are so so clear and honest in presenting the material. I had no idea how important it is to use QTP from different angle, that is via scripting. Great Work and Thank You so so so much!\" </strong>-Mohammed</em>\n</p>\n\n\n\n\n\n\n\n<p><em class=\"redactor-inline-converted\"><strong class=\"redactor-inline-converted\">\"Excellent course. Before starting, I was unsure if I could learn this powerful technology, but by the end I was confidently writing scripts. I'm looking forward to taking Nikolay's other courses.\"</strong>  </em><em class=\"redactor-inline-converted\">-James</em></p>\n\n\n\n\n\n\n\n<p>*******************************************************************************************************</p>\n\n\n\n<p><strong>Bonus:</strong> </p>\n\n\n\n<p>- Get a secret link to save $205 on my top selling Complete Selenium Webdriver with C# Course!</p>\n\n\n\n<p>- Get a secret link to get my Selenium Webdriver-Parallel Test Execution course absolutely FREE</p>\n\n<p><strong>*******************************************************************************************************<br></strong></p><p><strong>100% Money Back Guarantee</strong></p><p>As always, if you are not 100% satisfied, all of my courses come with a 30 day money back guarantee, no questions asked.<br></p>", 
+    "end_date": null, 
+    "title": "Selenium Webdriver - Master Synchronization Techniques", 
+    "price": 0, 
+    "instructors": "Nikolay Advolodkin", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/854544_4dc7_4.jpg", 
+    "course_url": "https://www.udemy.com/synchronization/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-19T23:52:14Z"
+}

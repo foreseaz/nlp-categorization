@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Pig is a high-level platform for creating MapReduce programs used with Hadoop. The language for this platform is called Pig Latin. In this course we will go through the PIG data flow platform and the language used by PIG tool.  The concepts which are covered in this course are:</p><p>Writing complex MapReduce transformations using a simple scripting language.</p><p>Basics of Big Data, Hadoop and MapReduce Framework.</p><p>PIG Data Model and Different type of operators to operate on datasets.</p><p>Built-in Functions as well as User Defined Functions for performing a specific task.</p><p>Running PIG Script, Unit Testing and Compression.</p><p>Many more advance topics such as Embedding PIG in Java, PIG Macros etc.</p><p>All the books and PDFs are included, allowing you to follow along with the author throughout the modules in this course.<span><br></span></p>", 
+    "end_date": null, 
+    "title": "Process Big Data using Apache PIG", 
+    "price": "25.00", 
+    "instructors": "Digitorious Technologies", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/767314_bb0a.jpg", 
+    "course_url": "https://www.udemy.com/process-hadoop-big-data-using-apache-pig/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-19T06:05:02Z"
+}

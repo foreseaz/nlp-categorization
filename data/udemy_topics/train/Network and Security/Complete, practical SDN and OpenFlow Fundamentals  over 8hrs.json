@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>A practical, hands-on, real world approach to learning and implementing SDN and OpenFlow.</strong></p><p>See SDN and OpenFlow in action. Learn SDN and OpenFlow practically. You can set up everything shown here on your laptop using free or demo software.</p><p><strong>Learn all tiers of the SDN Architecture:</strong></p><p>* Applications - Wireshark, Bash scripts, FlowMaker, HP Network Protector, HP Network Visualizer</p><p>* Controllers - Learn OpenDaylight (ODL), ONOS, RYU and the HP VAN SDN Controllers.</p><p>* OpenFlow Infrastructure - Mininet switches (Open vSwitch)</p><p><strong>Wireshark:</strong><br></p><p>Capture OpenFlow messages using both Linux and Windows based Wireshark.</p><p><strong>Technical content:</strong><br></p><p>No sales hype, no fluff. Just technical content.</p><p><strong>OVAs:</strong></p><p>As part of the course, I have made OVAs available of ODL, RYU and the HP VAN SDN Controller. I have also provided links to download OVAs directly for ONOS and Mininet.</p><p><strong>Real world SDN examples:</strong></p><p>* The NSA</p><p>* Google</p><p>* Microsoft Azure</p><p>* Facebook</p><p>* Microsoft Linux</p><p><strong>Update 10 November 2015:</strong></p><p>Based on feedback, additional videos discussing the installation of apps on the HP controller have been added:</p><p>* Install HP Controller</p><p>* Troubleshoot browser issues</p><p>* Install FlowMaker on HP Controller</p><p>* Troubleshoot app install issues</p><p><strong>Update 25 October 2015:</strong></p><p>Additional videos added to the course discussing:</p><p>* Do you need to replace switches to use SDN?</p><p>* Do you need to run OpenFlow everywhere in your network?</p><p>* How does OpenFlow and Spanning Tree interact?</p><p>* Does a single controller manage the entire network?</p>", 
+    "end_date": null, 
+    "title": "Complete, practical SDN and OpenFlow Fundamentals: over 8hrs", 
+    "price": "40.00", 
+    "instructors": "David Bombal", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/689338_ea8b_2.jpg", 
+    "course_url": "https://www.udemy.com/sdn-and-openflow-fundamentals/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-05T03:40:55Z"
+}

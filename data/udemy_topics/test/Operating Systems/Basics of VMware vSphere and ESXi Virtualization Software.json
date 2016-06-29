@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>With virtualization, a single server can host dozens or hundreds of virtual machines running a variety of operating systems, and even hook them together in a virtual network or cloud infrastructure. This practical course shows you how to create a virtual system using the VMware VSphere environment.<br></p><p>You'll find all the information you need to understand, design, and deploy one-without getting overwhelmed with technical detail. </p><ul><li>Introduces you to virtualization and VMware's virtualization/cloud computing technology</li><li>Covers installation, deployment, management and maintenance</li><li>Provides what IT managers and system administrators need to roll out their first virtualized or cloud infrastructure, or to get up to speed on VMware's technology<span></span></li></ul>", 
+    "end_date": null, 
+    "title": "Basics of VMware vSphere and ESXi Virtualization Software", 
+    "price": "25.00", 
+    "instructors": "Gabriel Avramescu", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/606772_2913.jpg", 
+    "course_url": "https://www.udemy.com/basics-of-vmware-virtualization/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-09T08:14:18Z"
+}

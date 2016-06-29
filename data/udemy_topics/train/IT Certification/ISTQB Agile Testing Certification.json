@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><em><strong>Last update 28 June 2016</strong></em></p><ul><li>Agile testing is an evolving approach to software testing that follows the principles of agile software development as defined in the Agile Manifesto.</li><li>A tester on an agile project will need some new skills compared to a tester working on a traditional project. Testers must understand the values and principles that are backing up agile projects in different environments. Testers should be involved in every activity of agile team, not just in plain testing activities.</li><li>Testers are an integral part of an agile team together with developers and business representatives. Testers on agile teams use their expertise in creating testable examples of desired behavior from business representatives and collaborating with the developers to turn those into specifications that guide all development activities.</li><li>There are a lot of things to learn about testing and quality in agile projects. The ISTQB Agile Tester Extension will give the testers, test managers and others that are interested the knowledge to be part of agile teams and achieve high performance at your work.</li></ul>\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\"><br></strong></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>The ISTQB Agile Tester Extension course helps participants to obtain the ISTQB Foundation Extension Agile Tester certificate.  The course is very useful for all testers, test coordinators, test managers, user acceptance testers or software developers who work or are planning to start working with Agile or any other iterative projects.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">The course is highly practical addressing the following areas:</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>The fundamentals of Agile Software Development and the various Agile approaches that are recognized and how these embrace the 4 values and 12 principles of the Agile Manifesto.</li><li>How Agile projects differ from traditional projects and what methods are implemented to demonstrate the status of testing throughout the project.</li><li>Understanding the role of the tester on an Agile project and how to contribute to; estimating user stories, assessing quality risks, generating testable acceptance criteria and interpreting relevant information to support testing activities.</li><li>Understand the various tools that support testing in an Agile project and how these differ from a traditional project.</li></ul>", 
+    "end_date": null, 
+    "title": "ISTQB Agile Testing Certification", 
+    "price": "30.00", 
+    "instructors": "Maged Koshty", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/855228_cd7c.jpg", 
+    "course_url": "https://www.udemy.com/istqb-agile-testing/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-20T19:32:15Z"
+}

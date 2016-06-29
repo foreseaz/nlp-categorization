@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em>We have a new class!</em> </p><p><strong>Search \"iOS 9 Adventure\" for the most up-to-date material.</strong><br></p><p><strong>Or you can scroll down to the very bottom of this page, and find my iOS 9 class in <em>More From Nick Walter</em>.</strong></p><p>This is the class I wish I had when I was trying to learn iOS development. I have a unique perspective to teach this class because I've been the newb that couldn't understand tutorials or blog posts. No prior programming experience is required.<br></p>  <p>  \t                I will walk you through <strong>everything </strong>you need to start making apps. Getting Xcode (the program we use to make apps) setup and on your machine, making a developer account with Apple, and running the iPhone and iPad simulator on your mac.  </p>  <p>  \t                I firmly believe that the best way to learn is by doing. So <strong>we'll make a series of 8 <em>killer</em> apps</strong>, each app going into depth on teaching the most important iOS app development skills. Here is an overview of the apps we'll be making:</p>  <strong>Apps that...</strong>  <ul>  \t<li>...record audio with the microphone</li>  \t<li>...use the front and rear cameras on iOS devices</li>  \t<li>...leverage game principles<strong> (FLAPPY BIRD clone)</strong></li><li>...connect with Twitter </li>  \t<li>...use GPS information</li>  \t<li>...connect with PARSE to make a social network </li><li>...use Bluetooth</li><li>...and more</li>  </ul>  <p>  \t                Once each of these apps are built, I'll teach you everything you need to know to submit these apps to the App Store. We'll also cover how to make money in iOS, and how you can continue to stay in the loop as an iOS developer and keep up with the latest and greatest. These topics could be a whole class in and of itself!  </p><p>What makes me the right teacher?</p><ul><li>I have <strong>9 iOS apps in the App Store</strong> which total over <strong>300,000+ downloads</strong></li><li>I teach more than 17,000 other students in my conglomerate of highly rated Udemy courses</li><li>I use an energetic and engaging course style that involves students. I guess you could say,<strong> I'm far from a robot</strong>… and it should be entertaining :)</li><li>I have been doing iOS development for 4+ years</li><li>When I was first learning iOS development, I was often confused by wordy blog posts and tutorials. <strong>I'll <em>never</em> talk over your head.</strong></li><li>I created the first Udemy Swift course and also teach the highly rated “Apple Watch - Go From Newbie to Pro by Building 15 Apps\" course.</li></ul>Who is this class for?<ul><li><strong>People who want to make apps</strong>. I will not be teaching wordy or complicated computer science philosophies. I will be teaching you how to make apps that you can play with, share with friends &amp; family, and offer to the world!</li><li><strong>Beginners.</strong> You don't need any programming experience to take this class. I have been the absolute beginner before and I want to help you.</li><li>Those <strong>programmers who are new to iOS 8 or Swift</strong>. Dive in with your prior experience and move more quickly, on to become an impressive iOS developer.</li><li><strong>Entrepreneurs</strong> who have an idea for an app. Don't pay somebody thousands to build your app. Do it yourself. Having the ability to create something you can think of is extremely powerful.</li><li><strong>Career development</strong> professionals who want to earn money professionally via contract work, consulting, full-time employment, and so forth</li>  </ul>", 
+    "end_date": null, 
+    "title": "iOS 8 and Swift - How to Make a \"Freaking\" iPhone App ", 
+    "price": "20.00", 
+    "instructors": "Rick Walter", 
+    "commitment": "20.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/293534_ee6d_4.jpg", 
+    "course_url": "https://www.udemy.com/ios-8-and-swift-how-to-make-a-freaking-iphone-app/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-03T23:23:29Z"
+}

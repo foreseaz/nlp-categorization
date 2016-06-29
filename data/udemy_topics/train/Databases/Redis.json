@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    Redis is a powerful in-memory database. You could liken it to memcached yet with better data type handling. You may find yourself using Redis as a medium to process vast amounts of data.  </p>  <p>  \t    Other examples may be using Redis for real-time chat logging, scoreboards, or simply a powerful caching engine. You will need to be familiar with a terminal to take this course. I recommend GitSCM for Windows, or Terminator for Linux,  </p>  <p>  \t    This series is simple, we go through the Data Type and Commands, and you follow by example. We&#039;ll also integrate a PHP and Python client to show how easy it is to use as an abstracted adapter in two popular languages.  </p>  <p>  \t    It&#039;s highly encouraged you use SSH or Linux to use the Redis CLI. The Windows binary works but it can be a bit unstable.  </p>  <p>  \t    This course will guide you through the commands (Not every single one), but it will get you started so that it makes sense. This course will take around 2 - 3 weeks to fully understand the material and practice it.  </p>", 
+    "end_date": null, 
+    "title": "Redis", 
+    "price": "20.00", 
+    "instructors": "Jesse Boyer", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/240058_10ac_5.jpg", 
+    "course_url": "https://www.udemy.com/learn-redis/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-09T14:21:07Z"
+}

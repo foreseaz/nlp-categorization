@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Personal Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">The course:</strong>  </p>  <p style=\"\">  \t      This course is Week One of an Eight Week section titled &quot;DC Electronics&quot;, which is the first semester of an eight semester program.  </p>  <p style=\"\">  \t             The main topics for this course are:  </p>  <p style=\"\">  \t             1. Starting at the atomic level, or, why we need to understand how electricity and electronics are driven by electrons.  </p>  <p style=\"\">  \t             2. The three things that make electronics work:  </p>  <p style=\"\">  \t      ......Conductors  </p>  <p style=\"\">  \t      ......Insulators  </p>  <p style=\"\">  \t      ......Semiconductors  </p>  <p style=\"\">  \t              3. What is electrical/electronic current?  </p>  <p style=\"\">  \t        4. Intro to basic circuit terminology.  </p>  <p style=\"\">  \t        5. Overview of many schematic symbols  </p>  <p style=\"\">  \t<strong style=\"\">The Semester:</strong> (This course is week 1 of this eight week semester.)<br style=\"\">  </p>  <p style=\"\">  \t      These are the classes for this eight week semester:  </p>  <p style=\"\">  \t             1. Direct Current at the Molecular Level (This class)  </p>  <p style=\"\">  \t             2. Electrical Units; Volts, Ohms, Amps and Watts  </p>  <p style=\"\">  \t             3. Measuring Equipment  </p>  <p style=\"\">  \t             4. Basic DC Circuits; Voltage, Current, Resistance and Power  </p>  <p style=\"\">  \t             5. DC Circuit Analysis; Kirchhoff&#039;s Laws; Determining Resistance, Voltage, Current and Power in Series and Parallel Resistive Circuits  </p>  <p style=\"\">  \t             6. Resistors, Potentiometers, and Rheostats  </p>  <p style=\"\">  \t             7. Cells and Batteries  </p>  <p style=\"\">  \t             8. Magnetism and Magnetic Devices; Selonoids and DC Motors  </p>  <p style=\"\">  \t<strong style=\"\">The Program:</strong>  </p>  <p style=\"\">  \t      This course is part of the first semester, DC Electronics. Future semesters will include AC Electronics, Solid State Electronics  (Transistors, FETs, MOSFETs and JFETs), Transistor and OpAmp theory,  Communications Theory and Digital Electronics.  </p>", 
+    "end_date": null, 
+    "title": "Electronics S1W1: Basic Terminology and Schematic Symbols", 
+    "price": "20.00", 
+    "instructors": "Richard Vannoy", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/30203_38d9_5.jpg", 
+    "course_url": "https://www.udemy.com/electronics-week-01/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Career Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-11-21T00:49:33Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Some Reviews:</strong> </p><p>\"This was a great course where <strong>the instruction was understandable and fun to follow</strong>. I would highly recommend everyone to take this course.\"</p>\"<strong>This is a fantastically structured course</strong>, and the material alone is worth more than the course itself. Excellent material, well structured approach.\"This Course is about real world SQL Server Analysis.<p><strong></strong></p><p><b>What do I mean when I use the words “real world?\"</b></p><p><b></b>This course is about learning <strong>a very specific skill</strong> that's one of the most important ones to becoming a senior level SQL Server DBA and that is - <strong>Where do you begin troubleshooting production issues?</strong></p>  <p>  \t                I'm going to <strong>give you the starting point </strong>and <strong>we </strong>are going to work through several examples of real world scenarios where a SQL Server was down  and how I brought back online.  </p>  <p>  \t<strong>You'll learn the language of performance tuning.</strong>  </p>  <p>  \t                All industries have their own vernacular and the SQL world is no exception.I'll be introducing some <strong>new terms and scripts</strong> that are very specific to performance tuning and optimization.  </p>  <p>  \t          These <strong>scripts </strong>and how I apply them <strong>are worth the cost of the course.</strong>  </p>  <p>  \t          Performance tuners are like mechanics. Our goal is to keep the SQL engine as tuned as it possibly can be.  </p>  <p>  \t<strong>One stored procedure to rule them all! </strong>  </p>  <p>  \t                In the real world, the <strong>elite </strong>SQL Server DBAs <strong>don't use canned tools</strong>. Many of the greats have a library of scripts and they use <strong>ONE </strong>of these every single day.  </p>  <p>  \tIf you don't have a script library started then <strong>I'll show you how</strong> to set one up and <strong>GIVE </strong>you your first <strong>few scripts.</strong>  </p>  <p>  \t                When I'm called into troubleshoot a struggling SQL Server <strong>I always use ONE script first.</strong>  </p>  <p>  \t                This script was developed by one of the <strong>world's leading experts</strong> on SQL Server and used by many of the world's leading experts on SQL Server.  </p>  <p>  \t<strong>This is a hands on course</strong>.  </p>  <p>  \t          You will simulate a OLTP application and learn what to look for when issues arise. All of the demos are written in transact.  <strong>Everything is included in the price of the course</strong>. Set up for the course is easy. Installing the tools will take several minutes.  </p>  <p>  \t          The most important part of our course will be working through the real world examples. All my lessons will have very specific instructions. The set up for all of the lessons is simply to <strong>cut and paste the transact code into SQL Server Management Studio.  </strong>  </p>  <p>  \t                                The vast majority of the course will be working through the demos and analyzing how to troubleshot production down issues and what steps can be taken to bring the server back online.  </p>  <p>  \t           The course will also include <strong>lectures </strong>but the lectures will be <strong>short and pragmatic</strong>. SQL Server is one of the most complicated pieces of software in Microsoft's suite. This course will provide you with the single most important facet to analyzing real world outages. <strong>Where do you start?  </strong>  </p>  <p>  \t<strong>If you want to be one of the most skilled SQL Server DBAs then you MUST learn how to use this script effectively! </strong>  </p>  <p>  \t<strong>Start now! Enroll today. </strong>  </p>", 
+    "end_date": null, 
+    "title": "How I Solve 95% of All SQL Server Outages", 
+    "price": "20.00", 
+    "instructors": "Mike West", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/419360_4c7d_4.jpg", 
+    "course_url": "https://www.udemy.com/sql-server-real-world-troubleshooting-skills/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-11T15:51:06Z"
+}

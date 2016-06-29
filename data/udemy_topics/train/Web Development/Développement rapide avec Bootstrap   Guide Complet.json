@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<h4 style=\"\"><strong style=\"\">Bootstrap</strong> est une librairie de propriétés CSS et de fonctionalités jQuery qui permettent le développement rapide et facile de pages internet adaptives.<br style=\"\">      Avec un système de grille flexible, il est très simple de créer des mises en page aussi bien pour les écrans d&#039;ordinateur de bureau que pour les smartphones.<br style=\"\">      Si vous faites vos premiers pas avec <strong style=\"\">Bootstrap</strong>, ce tuto est le bon choix pour démarrer avec le célèbre framework. Ce cours complet va vous aider à comprendre l&#039;intégration de sites internet adaptifs &quot;responsifs&quot; avec Bootstrap.</h4>  <h4 style=\"\"> A l&#039;aide de plusieurs examples et démonstrations, vous apprendrez à réaliser rapidement des sites internet adaptifs. Vous aurez aussi l&#039;occasion de créer votre page. Les corrigés et explications seront disponibles en videos.</h4>  <p style=\"\">  \t<br style=\"\">  \t<strong style=\"\">Qu&#039;est ce que vous allez apprendre?</strong>  </p>  <ul style=\"\">  \t<li style=\"\">Intégrer Bootstrap &amp; télécharger les fichiers ressources</li>  \t<li style=\"\">Créer rapidement une mise en page flexible et responsive avec le système de grille</li>  \t<li style=\"\">L&#039;ensemble des propriétés Bootstrap avec les classes et composants CSS pré-établis</li>  \t<li style=\"\">Ajouter des éléments intéractifs avec les extensions jQuery</li>  </ul>  <p style=\"\">  \t<strong style=\"\">En supplément, on ira plus loin avec les thèmes suivants:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">Interface alternative</li>  \t<li style=\"\">Glyphicons &amp; Font Awesome</li>  \t<li style=\"\">Google Font</li>  \t<li style=\"\">L&#039;inspector tool</li>  \t<li style=\"\">W3C validator</li>  </ul>  <h4 style=\"\"><strong style=\"\">Pré-requis </strong></h4>  <p style=\"\">  \t    Des notions des languages <strong style=\"\">HTML, CSS et Javascript </strong>aideront à mieux comprendre le concept du framework responsive.  </p>  <h4 style=\"\"><strong style=\"\">Votre instructeur</strong></h4>  <p style=\"\">  \t    Je suis Sandy et je suis a votre entière disposition si vous avez des questions. Ce cours a été conçu tout spécialement pour les débutants. <br style=\"\">  \t    Je vous recommande de visionner les vidéos et de répéter les exercices plusieurs fois. <strong style=\"\">&quot;C&#039;est en forgeant que l on devient forgeron&quot;</strong>, donc si vous mettez du coeur à l&#039;ouvrage, vous progresserez davantage et les résultats seront là.<br style=\"\">  \t<br style=\"\">  \t    N&#039;hésitez à me solliciter si vous avez besoins d&#039;aide. Je répondrai dans les meilleurs délais.  </p>", 
+    "end_date": null, 
+    "title": "Développement rapide avec Bootstrap | Guide Complet", 
+    "price": "20.00", 
+    "instructors": "Sandy Ludosky", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/373536_3b10_2.jpg", 
+    "course_url": "https://www.udemy.com/developpement-rapide-avec-bootstrap-guide-complet/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-18T22:57:39Z"
+}

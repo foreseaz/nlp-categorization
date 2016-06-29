@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Web app development isn&#039;t hard, but there sure is a lot of material to go over</strong>. I wanted to create a comprehensive course because I feel if someone is serious on building something great, you need to have knowledge on many of the different aspects of creating web apps. In addition, I didn&#039;t want to create a boring course which goes over the basics of programming and then, separately, shows how to develop feature after feature without a cohesive vision.  </p>  <p>  \t    Instead, <strong style=\"\">this course is project based</strong>, meaning that we will develop an entire web application throughout the course, and along the way, learn about programming basics and all of the different aspects on web app development as we encounter the need to implement certain features or learn certain concepts.  </p>  <p>  \t    In this course our main project will be <strong style=\"\">building a recipe search engine using Python and Google App Engine</strong>! Yeah, a full-blown recipe search engine. It&#039;s kind of like a smaller version of Google, where the only thing you can search for are recipes instead of the entire web. <strong style=\"\">Check the &quot;</strong><strong style=\"\">What am I going to get from this course?</strong><strong style=\"\">&quot; to see all of the different concepts we are going to learn :)</strong>  </p>  <p>  \t    Python is in my eyes, the best programming language to learn when you&#039;re starting. It reads like english so it&#039;s easy to understand the code and what it&#039;s doing, and Python tends to be terse, meaning that it&#039;s neatly concise and free of syntactical and verbal redundancy. Or in other words, it&#039;s clean and productive, where one line of Python code can do what maybe 5-6 lines of code do in other languages. Python is also a lot of fun to code!  </p>  <p>  \t    Google App Engine is an astonishing technology we can use to deploy our apps. <strong style=\"\">It takes away all of the headaches of managing servers and infrastructure so you can focus 100% on your application code.</strong> Whenever your app gets popular and receive a peak of traffic you don&#039;t have to worry about your servers crashing over the increased load.<strong style=\"\"> Google App Engine automagically spins up new servers to serve your users.</strong> In addition, App Engine provides many extremely useful services we will use, but that we don&#039;t have to install and configure. For example, we don&#039;t need to install nor configure a database, a email server, full text search indices, queues, etc. All of that is already build by Google on App Engine and we simply need to call those services to use them. Do you know how much time that saves us in the development process? A ton!  </p>  <p>  \t    All of that allows us to rapidly develop apps, test them out and figure if we are getting traction or if we need to improve our product. It&#039;s this ability of fast development cycles that leads us to find our ideas that work, and hopefully, generate revenues and lead us to live the lifestyle we dream of.  </p>", 
+    "end_date": null, 
+    "title": "Learn to build web applications", 
+    "price": "20.00", 
+    "instructors": "Michael Gradek", 
+    "commitment": "12 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/358016_cc00_2.jpg", 
+    "course_url": "https://www.udemy.com/build-scalable-apps-on-google-app-engine/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-27T19:56:58Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \tIf you&#039;re eager to learn how to create SQL databases or more specifically work with Microsoft&#039;s T-SQL extension language, this course is for you. The tutorials are designed for the absolute beginner, meaning no previous experience with Transact is required.  </p>  <p style=\"\">  \tYou will start by learning about databases, then jump into learning about the Microsoft SQL server. From there, Mark will teach you about the T-SQL foundations, how to create a database with T-SQL, and querying with T-SQL. This video tutorial also covers how to modify data with T-SQL, as well as T-SQL programming basics, such as comments, set and select, and batches. You will also learn how to program objects and create and drop indexes. Finally, you will learn to understand normalization and transactions. Once you have completed this computer based training course, you will be fully capable of using Transact-SQL to create your own databases and tables to select, insert, and manage data.  </p>", 
+    "end_date": null, 
+    "title": "Learning Microsoft Transact - SQL", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/365968_61d4_5.jpg", 
+    "course_url": "https://www.udemy.com/learning-microsoft-transact-sql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-09T02:11:26Z"
+}

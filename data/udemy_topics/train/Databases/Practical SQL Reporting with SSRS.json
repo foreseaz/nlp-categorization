@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course covers the Microsoft reporting tool, SQL reporting services, also known as SSRS. SSRS is used by many companies that have any form of Microsoft financial or CRM products.</p><p>It is also a useful tool for any organisation that uses databases to store their data on as SSRS can be used with any database, not just SQL Server.</p><p>This course provides all you need to know to get started developing reports using SSRS. We download and install the free tools and work from the basics of creating your first report, through to delivering reports that provide useful and user-friendly control to users of those reports.</p><p>The reports you also create in the course are available to download for future reference.</p><p>If you are looking to do any kind of reporting then its worth looking at what SSRS has to offer. It is not just a useful skill for creating reports within your own company/business, it is an in-demand skill that appears many times on job boards.</p>  ", 
+    "end_date": null, 
+    "title": "Practical SQL Reporting with SSRS", 
+    "price": "25.00", 
+    "instructors": "Gary Kind", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/67874_1106_5.jpg", 
+    "course_url": "https://www.udemy.com/practical-sql-reporting-with-ssrs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-07-22T06:20:12Z"
+}

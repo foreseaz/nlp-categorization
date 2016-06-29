@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t     This unique video course and eBook package prepares you to get more out of Excel by  using Visual Basic for Applications (VBA) to automate your routine or  labor-intensive Excel tasks. Microsoft Excel MVP and author Tom Urtis walks  through a series of lessons along with demos to  complement each lesson. Urtis takes an in-depth look at how manual tasks in  Excel can be programmed with VBA for greater speed, efficiency, and accuracy.  You&#039;ll learn how to use VBA to manipulate Excel in ways you may never have  thought possible.  </p>  <p>  \t <strong>Excel VBA 24-Hour Trainer: </strong>  </p>  <ul>  \t<li>Introduces you to VBA and discusses topics including object oriented  programming, variable declaration, objects and collections, and arrays</li>  \t<li>Teaches you how to write your own macros for programming loops, events,  charts, pivot tables and pivot charts, and user-defined functions</li>  \t<li>Shows you how to customize the look and feel of Excel with User Forms, Input  Boxes, Message Boxes, and embedded controls</li>  \t<li>Examines advanced topics including class modules, add-ins, and retrieving  external data with ADO and SQL</li>  \t<li>Demonstrates how to interact with other Office Applications from Excel,  including Word, Access®, PowerPoint®, and Outlook®</li>  </ul>  <p>  \t     Wrox guides are crafted to make learning programming languages and  technologies easier than you think. Written by programmers for programmers, they  provide a structured, tutorial format that will guide you through all the  techniques involved.  </p>  <p>  \tVisit www.wrox.com and www.wiley.com  </p>", 
+    "end_date": null, 
+    "title": "Excel VBA 24-Hour Trainer ", 
+    "price": "45.00", 
+    "instructors": "John Wiley & Sons, Inc.", 
+    "commitment": "14 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/153726_b0f0_4.jpg", 
+    "course_url": "https://www.udemy.com/excel-vba-24-hour-trainer/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-27T20:33:26Z"
+}

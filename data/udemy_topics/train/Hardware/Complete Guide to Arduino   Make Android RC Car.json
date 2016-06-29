@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><em>Use Coupon  <strong>legend15</strong><strong class=\"redactor-inline-converted\"> </strong> to get this course for only <strong class=\"redactor-inline-converted\">$15</strong><br></em></p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\"></strong><em><strong class=\"redactor-inline-converted\">This is project of remote control car controlled over Bluetooth. The car receives commands from the android application and on the basis of those commands the car performs certain action.</strong></em><strong class=\"redactor-inline-converted\"></strong></p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\"><em>Comoponents Required:</em></strong></p>\n\n\n\n\n\n<ul><li><strong class=\"redactor-inline-converted\">HC-SR04 ultrasonic Sensor</strong></li><li><strong class=\"redactor-inline-converted\">L298N Motor Controller</strong></li><li><strong class=\"redactor-inline-converted\">HC-05 Bluetooth Module</strong></li><li><strong class=\"redactor-inline-converted\">Arduino</strong></li><li><strong class=\"redactor-inline-converted\">Breadboard</strong></li><li><strong class=\"redactor-inline-converted\">Car Chassis</strong></li></ul>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\"></strong></p>\n\n\n\n\n\n<p>I\n will teach you step by step how to go about building this project. I \nwill also share the code with you so that you can replicate the project \nyourself.<br></p>\n\n\n\n\n\n<p>  \t   <strong class=\"redactor-inline-converted\">Here's what you will learn:  </strong></p>\n\n\n\n\n\n<ul><li>How to measure distance and detect obstacles using HC-SR04 ultrasonic sensor</li><li>How to communicate with other devices using Bluetooth</li><li>How to control DC motors using L298N motor controller</li><li>How to integrate components into a complete system</li><li>How to Setup Car chassis to build the body of car</li><li>How to Build circuits using the breadboard</li></ul>\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n<p>After completing the course you will be familiarized with Arduino and will be able to build your own remote controlled car from scratch and several other projects.</p>", 
+    "end_date": null, 
+    "title": "Complete Guide to Arduino : Make Android RC Car", 
+    "price": "20.00", 
+    "instructors": "Azy Geek", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/713152_ae41_7.jpg", 
+    "course_url": "https://www.udemy.com/android-arduino/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-02T10:29:49Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Reach your users while they're out and about by extending your Media or Messaging app to Android Auto! As you'll learn in this course, making your app available in the car is as easy as extending your existing code. This course explains how to get started and then covers Media and Messaging apps in detail.\n\nThis course is part of the Ubiquitous Computing series. Designed as standalone short courses, you can take any course on its own, or take them all!\n\n* Android Wear Development\n* Android TV and Google Cast Development\n* **Android Auto Development** [this course]Why Take This Course?If you're already an Android developer, you're only a few extensions away from having your existing Media or Messaging app work on Android Auto as well. Take this course to learn how easy it is to bring your existing app to the car.\n\n                                            Syllabus\n                        ### Introduction \nOverview of the course structure and goals, and introduction to the sample app. \n\n### Auto  \n#### Part 1 - Messaging App\n#### Part 2 - Media App\nExtend and test your apps for Auto.\n                                    ", 
+    "end_date": "2015-09-03T00:00:00Z", 
+    "title": "Android Auto Development", 
+    "price": 0, 
+    "instructors": "", 
+    "institution_name": [
+        "Google"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.udacity.com/course/android-auto-development--ud875C?utm_medium=referral&utm_campaign=api", 
+    "duration": "1 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2015-08-27T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t <span style=\"\">This video course will get you up and running with exciting web services quickly, allowing you to build real-time applications. You will learn to use tools that interact with users beyond the browser for a range of important use cases.</span>  </p>  <p style=\"\">  \t We will start by looking at the tools and services that Pusher and Twilio offer getting to grips with their web interfaces, debug console, and provisioning tools. Mid-way through the tutorial, we’ll look at building useful real-time and communication-based applications and learn how to build applications that can leverage the power of both Twilio and Pusher combined. Then, we will move on to building telephone verification systems with the help of 2-factor authentication tools. Before we reach the end of this course, we will develop innovative IVR systems to guide users through a telephone menu system, and update other users with their progress in real time. Finally, we will create telephone conferencing tools, voicemail services, and automated call-back request systems.  </p>  <p style=\"\">  \t With this course, you will be able to verify your users, deal with their requests, and update them to progress and activities in real time, and much more.  </p>  <h4><strong style=\"\">About the Author</strong></h4>  <p style=\"\">  \t<span style=\"\"><strong style=\"\">Michael Peacock </strong>is an experienced software developer and team lead, from Newcastle, UK, with a degree in Software Engineering from the University of Durham. After spending a number of years running his own web agency, and subsequently working directly for a number of software start-ups, Michael now runs his own software development company, helping a range of companies with application development, software processes, and technical direction. He is the author of Creating Development Environments with Vagrant, PHP 5 Social Networking, PHP 5 E-Commerce Development, Drupal 7 Social Networking, Selling Online with Drupal e-Commerce, and Building Websites with TYPO3. Other publications Michael has been involved in include Advanced API Security, Mobile Web Development, Jenkins Continuous Integration Cookbook, and Drupal for Education and E-Learning, for which he acted as a technical reviewer.</span>  </p>", 
+    "end_date": null, 
+    "title": "Building Real-time Communication Applications Using Twilio", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/424638_3d07_2.jpg", 
+    "course_url": "https://www.udemy.com/building-real-time-communication-applications-using-twilio/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-17T06:28:51Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\">Simply the <em style=\"\">fastest</em> way to learn to program on a Mac or Windows</strong> &ndash; either with the industry-standard <strong style=\"\">Delphi </strong>system or with the <em style=\"\">free </em>Lazarus and <strong style=\"\">Free Pascal</strong> you can learn cross-platform programming the easy way. Just drag-and-drop, click and code!</p>    <p style=\"\">This course will teach you the Object Pascal language, which is used not only by <em style=\"\">Lazarus</em> but also by the well-established <em style=\"\">Delphi</em> programming system. The knowledge you gain will give to entry to the world of commercial application development using Lazarus or Delphi.</p>    <p style=\"\"><strong style=\"\"><br style=\"\"></strong></p><p style=\"\"><strong style=\"\">What you will learn:</strong></p>    <ul style=\"\">  \t<li style=\"\">The fundamentals of programming &ndash; from the ground up<br style=\"\">  </li>  \t<li style=\"\">Object orientation &ndash; its principles and practice<br style=\"\">  </li>  \t<li style=\"\">The Object Pascal language &ndash; for neat, elegant, maintainable programming<br style=\"\">  </li>  \t<li style=\"\">Cross-platform development &ndash; for Windows, Mac or even for Linux<br style=\"\">  </li>  </ul>  <p style=\"\"><strong style=\"\"><br style=\"\"></strong></p><p style=\"\"><strong style=\"\">Who should take the course</strong></p><p style=\"\"></p><ul style=\"\"><li style=\"\"><span style=\"\">Beginners &ndash; if you&rsquo;ve never coded before, you can learn pascal step by step</span><br style=\"\"></li><li style=\"\"><span style=\"\">This Pascal programming tutorial is also feasible for those Programmers who&rsquo;ve used other languages &ndash; Ruby, Python or Java  but want to extend their knowledge? This is for you!</span><br style=\"\"></li><li style=\"\"><span style=\"\">Cross-platform developers &ndash; with Lazarus and Free Pascal, write  on one OS, compile on a different one!</span><br style=\"\"></li></ul><p style=\"\"></p><p style=\"\">        </p>  ", 
+    "end_date": null, 
+    "title": "Learn To Program with Pascal", 
+    "price": "45.00", 
+    "instructors": "Huw Collingbourne", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/24422_c7bf_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-to-program-with-pascal/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-09-08T12:57:57Z"
+}

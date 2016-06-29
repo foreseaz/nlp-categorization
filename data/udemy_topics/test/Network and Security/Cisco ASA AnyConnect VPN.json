@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "In this course You will learn anything about Cisco AnyConnect client VPN solutions.\n\n<ul><br><li>Benefits of using SSL-based VPN compared to IPSec-based</li><li>How to do a basic configuration of Cisco ASA to accept AnyConnect connections.</li><li>Configure tunnel modes as full tunnel, split tunnel and hair-pinning of internet access.</li><li>External user authentication with Active Directory and LDAP</li><li>Filter VPN-access.</li><li>Dynamic Access Policies</li><li>Granular access based on multiple AD group memberships.</li></ul><ul>\n\n\n\n\n\n<p><br></p><p>Remember! <strong class=\"redactor-inline-converted\">30 days money-back guarantee</strong> with no questions asked. I want you to be satisfied with my course. No Happy - No Pay!</p>\n\n<p>Also, please take advantage of the <strong>free previews</strong> to see way you will get.</p></ul><br><p>After finishing this course you will feel confident and have full \nknowledge of all aspects of AnyConnect! You will feel confident in how to \nsetup, manage and troubleshoot Cisco AnyConnect on the Cisco ASA firewall..</p>", 
+    "end_date": null, 
+    "title": "Cisco ASA AnyConnect VPN", 
+    "price": "30.00", 
+    "instructors": "Jimmy Larsson", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/847264_add4.jpg", 
+    "course_url": "https://www.udemy.com/anyconnect/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-12T16:10:13Z"
+}

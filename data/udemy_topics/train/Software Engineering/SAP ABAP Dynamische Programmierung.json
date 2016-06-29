@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Willst du die dynamische Programmierung in ABAP erlernen? Dann bist du hier genau richtig!</p><p>Der Kurs ist perfekt für ABAP-Entwickler, die schon fortgeschrittene Kenntnisse in der Programmierung von Reports besitzen und sich nun endlich die dynamische Programmierung aneignen möchten. Ich werde dir die folgenden Inhalte einfach und nachvollziehbar darstellen:</p><ul><li>Feldsymbole</li><li>Datenreferenzen</li><li>Run Time Type Services (RTTS)</li></ul><p><span></span>Ich werde dir Schritt für Schritt im SAP-System zeigen, wie die einzelnen Elemente in ABAP-Programmen verwendet werden können.</p><p>Dazu gibt es zahlreiche praktische Übungen und Quizzes, mit deren Hilfe du dein angeeignetes Wissen sofort testen kannst. Ich werde dir auch zu jeder Übung die entsprechende Musterlösung zeigen.<br></p><p>Nach Abschluss dieses Kurses wirst du in der Lage sein, generische Feldsymbole und Datenreferenzen zu erklären und anzuwenden. Des Weiteren lernst du Datenobjekte zur Laufzeit zu erzeugen. Außerdem wirst du zur Laufzeit Beschreibungen zu Datentypen holen und auch Datentypen erstellen können.</p>", 
+    "end_date": null, 
+    "title": "SAP ABAP Dynamische Programmierung", 
+    "price": "35.00", 
+    "instructors": "- Skillcoach -, Marco Fröhlich, Lars Czerwonka", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/740776_e7b7_3.jpg", 
+    "course_url": "https://www.udemy.com/sap-abap-dynamische-programmierung/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-25T09:11:16Z"
+}

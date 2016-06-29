@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Course Finished <br style=\"\">  </p>  <p>  \t  If you&#039;re a PHP beginner and ask what is the next step and how to start your first project .  </p>  <p>  \t          if you&#039;re a developer has projects already, but you have tired of writing primitive not clean codes and repeated it many times with each project.  </p>  <p>  \t<br style=\"\">  \t           Or you’re working on one of the hard frameworks and think that the programming is boring and hard.  </p>  <p>  \t          If you have motivation for self-development and want to see real programming world.  </p>  <p>  \t          Hi and Welcome to the <u style=\"\">LARAVEL</u> world.  </p>  <p>  \t<br style=\"\">  \t           My name is Fakhr.. PHP developer, Web instructor. And I am so excited to take you on this journey  </p>  <p>  \t<br style=\"\">  \t           On this journey you will figure out how<strong style=\"\"> <u style=\"\">LARAVEL</u> framework makes developing with PHP language really fun, and so easy to writing professional clean code</strong>.  </p>  <p>  \t<u style=\"\">LARAVEL</u> provides you with a reliable, Tidy and Neat code, as example <strong style=\"\">you can build pagination just by one line .it’s amazing </strong>  </p>  <p>  \t<br style=\"\">  \t           this Which makes the<strong style=\"\"> learning curve easier for beginners</strong> .<u style=\"\">LARAVEL </u>will save you a lot, <strong style=\"\">it has many tools for most of the repetitive tasks that every developer needs</strong>, which enables<strong style=\"\"> </strong>you to accomplish medium projects and even large with less time and without need to re-invent the wheel. There are...<em style=\"\">Authentication</em>..... <em style=\"\">Template system</em>...<em style=\"\">Routing</em>...<em style=\"\">Caching</em>... and <em style=\"\">Artisan magic tool </em>that generate many things, do many tasks with just one command line<br style=\"\">  \t           also contains <em style=\"\">composer</em>.. A wonderful tool that lets you add any package that your project need  </p>  <p>  \t<strong style=\"\">Only search install and it’s done... Goodbye CMS </strong>  </p>  <p>  \t<strong style=\"\"><br style=\"\">  \t</strong>LARAVEL has an active community is growing and very helpful..You can ask for support when you are in trouble <strong style=\"\"><br style=\"\">  \t           We will discuss some of these in a <strong style=\"\"><em style=\"\"><u style=\"\">practical step-by-step approach</u></em></strong> and by the end of the journey we will have been able to build Simple app from scratch By <u style=\"\">LARAVEL</u> <br style=\"\">  \t           Are you ready?..See you in the journey</strong>  </p>  <p>  \t<strong style=\"\">      Course Teaching Method:</strong>  </p>  <ol style=\"\">  \t<li> introduction chapter</li>  \t<li>After that each chapter contains a lecture to explain the concept and then apply it and so on to the end of the course </li>  \t<li> To explain difficult concepts we use photos and illustrative drawings</li>  </ol>  <p>  \t<strong style=\"\"> why this course ?</strong>  </p>  <ul style=\"\">  \t<li>  Because this course will be updated and  consistently improved</li>  \t<li> Because the learning curve is simple and focuses on clarifying difficult concepts  through practical implementation  </li>  </ul>", 
+    "end_date": null, 
+    "title": "Laravel 4 try and enjoy php coding", 
+    "price": "20.00", 
+    "instructors": "ahmed fakhr", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/313484_f318_4.jpg", 
+    "course_url": "https://www.udemy.com/laravel-4-try-and-enjoy-php-coding/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-04T19:40:15Z"
+}

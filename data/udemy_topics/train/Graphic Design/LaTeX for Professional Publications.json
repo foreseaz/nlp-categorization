@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>\r\n\t      This course is open to anyone who wants to learn how to create a professional quality, typeset publication. In addition to improving the aesthetic quality of your work, LaTeX users benefit from automating many of the tedious processes involved in writing a professional publication.\r\n</p>\r\n<p>\r\n\t      LaTeX allows you to manage references, figures, tables, footnotes, formatting, mathematical equations, algorithms, scientific proofs, and more in a programmatic fashion that provides benefits far exceeding that of word processing software.\r\n</p>\r\n<p>\r\n\t      Need to format a paper for a specific venue? Many academic journals and conferences provide LaTeX Style files (.sty) for correctly typesetting your submission. With one line of code, you can modify your publication to match the style of many leading academic publishing outlets.\r\n</p>\r\n<p>\r\n\t      Not writing a paper? LaTeX can also be used for books, reports, technical and business documents, screenplays, resumes, letters ... anything you want to write!\r\n</p>\r\n<p>\r\n\t      The course uses tools that are freely available online for Mac (Linux) and Windows users. Templates are included for download to get you started.\r\n</p>", 
+    "end_date": null, 
+    "title": "LaTeX for Professional Publications", 
+    "price": "25.00", 
+    "instructors": "Toni Farley", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/79120_cdd6_13.jpg", 
+    "course_url": "https://www.udemy.com/learn-latex/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Graphic Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-15T15:35:34Z"
+}

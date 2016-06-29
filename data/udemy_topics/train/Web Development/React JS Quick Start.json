@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Freshly updated to include links to the source code for each of the code examples so that you can follow along. Thanks for the  feedback!</strong></p><p>This course is designed to quickly get you creating applications with React in less than two hours. The course will start by covering the main concepts of React, describing how a simple application works and breaking down the core React APIs. You will then be able to code an application using React where you will gain the hands-on experience to bulid your own application or integrate React into your current website.</p><p>Learn how to get started with React, the core concepts and create an application in less than two hours. <strong></strong></p><p><b>What will you learn?</b></p><ul><li>Understanding React JS<strong></strong></li><li>Setting up a development environment</li><li>Creating Components</li><li>Component Lifecycle</li><li>Building an application</li></ul><strong>What do you need?</strong><ul><li>A Computer</li><li>Basic JavaScript Knowledge</li><li>Understanding of HTML</li></ul><p>You should take this course if you want to gain the understanding and toolset to build an application with React today.</p>", 
+    "end_date": null, 
+    "title": "React JS Quick Start", 
+    "price": "20.00", 
+    "instructors": "Cory Gackenheimer", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/554326_0aa9_2.jpg", 
+    "course_url": "https://www.udemy.com/react-quick-start/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-14T13:33:37Z"
+}

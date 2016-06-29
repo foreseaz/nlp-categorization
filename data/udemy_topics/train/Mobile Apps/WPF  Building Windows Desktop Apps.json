@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>The only Windows Presentation Foundation course in Udemy!</strong></p>  <p>  \t        Make money creating desktop apps and User Controls!  </p>  <p>  \t        Desktop apps are still a very important request from big companies, and in this course you will find what you need to start creating those companies' apps!  </p>  <p>  \t        User Controls are also something valuable (see Telerik) for WPF (and Windows / Windows Phone) developers, they could be your clients as well!  </p>  <p>  \t                                  This course walks you through the complete creation of a WPF app, which means that it covers every aspect needed for you to end up with a full app.  </p>  <p>  \t                                  This course includes the very <em><strong>basics</strong></em>: what WPF is and getting things ready, this to make sure that you are set to create apps along with me.  </p>  <p>  \t                                  This course includes the foundamentals of UI design, from defining elements, to <em><strong>stilish</strong></em> them. This is very important in your way to creating better UIs in a faster more efficient manner.  </p>  <p>  \t                                  I included <em><strong>Data Binding</strong></em> inside this course, this way you will understand one of the key features of XAML, which helps you create more flexible-easier to mantain code. If you work in a team with designers, Data Binding will make them love you.  </p>  <p>  \t                                  This course includes creating custom <em><strong>User Controls</strong></em>, for you (and designers in your team) to create UIs more precisely. This in particular could also be seen as a business itself (creating UserControls).  </p>  <p>  \t                                  This course includes <em><strong>animations</strong></em>, this helps you as a developer, create stunning user experiences. Creating apps with great user expiriences makes your users happy, which leads to more users, which leads to more money.  </p>  <p>  \t      This course now includes a very important chapter about the design pattern for XAML projects: <strong><em>MVVM</em>, </strong>so you can create projects with efficient, ready-to-test, easy-to-mantain code.  </p>  <p>  \t                                Enrol in this course now, and you could be making more money out of desktop apps or User Controls as soon as next week.  </p>", 
+    "end_date": null, 
+    "title": "WPF: Building Windows Desktop Apps", 
+    "price": "20.00", 
+    "instructors": "Eduardo Rosas", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/387206_aeda_9.jpg", 
+    "course_url": "https://www.udemy.com/wpf_apps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-07T00:17:12Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will teach you to use the Phaser Framework to program a 2D game that can be played on both mobile and desktop devices.  In the end you will have a fully functioning game, that works on all major platforms, as well as direction on where to go from here.</p><p>The course will take about 3 hours and will go over the basic concepts such as touch screen input, collision detection with Game Physics, sound, and animation.This course provides videos that will guide you from the beginning to the end on writing the game code.  The needed Images, Sprites, Sounds, Music, and Framework Library will also be provided.  At the end of the course you will be able to download the entire source code for the game you created, as well as bonus code, images, and sounds that will help guide you in advancing your game with new features.</p><p>Although some experience with JavaScript is recommended, it&#039;s not required.  Creating a game using the Phaser Framework is a great option if you want to create a game that is easy to distribute and want to ensure it&#039;s compatibility with as many devices as possiable.</p>", 
+    "end_date": null, 
+    "title": "Game Design for Mobile and Desktop", 
+    "price": "20.00", 
+    "instructors": "Kristofer Occhipinti", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/542684_17b0_2.jpg", 
+    "course_url": "https://www.udemy.com/game-design-for-mobile-and-desktop/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-02T00:09:52Z"
+}

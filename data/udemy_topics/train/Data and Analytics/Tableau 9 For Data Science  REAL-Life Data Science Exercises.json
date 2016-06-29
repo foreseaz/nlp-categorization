@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>Learn data visualization through Tableau 9 and create opportunities for you or key decision makers to discover data patterns such as customer purchase behavior, sales trends, or production bottlenecks.</p><p>You'll learn all of the features in Tableau that allow you to explore, experiment with, fix, prepare, and present data easily, quickly, and beautifully.</p><p><strong>Use Tableau to Analyze and Visualize Data So You Can Respond Accordingly </strong></p><ul><li>Connect Tableau to a Variety of Datasets</li><li>Analyze, Blend, Join, and Calculate Data</li><li>Visualize Data in the Form of Various Charts, Plots, and Maps</li></ul><p><strong>Convert Raw Data Into Compelling Data Visualizations Using Tableau 9</strong></p><p>Because every module of this course is independent, you can start in whatever section you wish, and you can do as much or as little as you like.</p><p>Each section provides a new data set and exercises that will challenge you so you can learn by immediately applying what you're learning.</p><p>Content is updated as new versions of Tableau are released. You can always return to the course to further hone your skills, while you stay ahead of the competition.</p><p><strong>Contents and Overview</strong></p><p>This course begins with Tableau basics. You will navigate the software, connect it to a data file, and export a worksheet, so even beginners will feel completely at ease.</p><p>To be able to find trends in your data and make accurate forecasts, you'll learn how to work with data extracts and timeseries.</p><p>Also, to make data easier to digest, you'll tackle how to use aggregations to summarize information. You will also use granularity to ensure accurate calculations.</p><p>In order to begin visualizing data, you'll cover how to create various charts, maps, scatterplots, and interactive dashboards for each of your projects.</p><p>You'll even learn when it's best to join or blend data in order to work with and present information from multiple sources.</p><p>Finally, you'll cover the latest and most advanced features of data preparation in Tableau 9, where you will create table calculations, treemap charts, and storylines.</p><p>By the time you complete this course, you'll be a highly proficient Tableau user. You will be using your skills as a data scientist to extract knowledge from data so you can analyze and visualize complex questions with ease.</p><p>You'll be fully prepared to collect, examine, and present data for any purpose, whether you're working with scientific data or you want to make forecasts about buying trends to increase profits. </p>", 
+    "end_date": null, 
+    "title": "Tableau 9 For Data Science: REAL-Life Data Science Exercises", 
+    "price": "30.00", 
+    "instructors": "Kirill Eremenko", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/527848_f4da_5.jpg", 
+    "course_url": "https://www.udemy.com/tableau/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-14T07:37:00Z"
+}

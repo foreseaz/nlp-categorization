@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  C# is a language for professional programming. C# (pronounced C sharp) is a programming language designed for building a wide range of enterprise applications that run on the .NET Framework. The goal of C# is to provide a simple, safe, modern, object-oriented, high performance , robust and durable language for .NET development. Also it enables developers to build solutions for the broadest range of clients, including Web applications, Microsoft Windows Forms-based applications, and thin- and smart-client devices.  </p>  <p style=\"\">  \t  Visual C# developers can leverage their existing C, C++ , Java skills and knowledge to be successful in the Microsoft .NET development environment. So many C, Java, and C++ development will move to C# to take advantage of .NET features. In cooperation with the .NET CLR (Common Language Runtime), it provides a language to use for ComponentOriented software, without forcing programmers to abandon their existing knowledge in C, C++, or COM code.  </p>  <p style=\"\">  \t  The following C# lessons provide an overview of the basics of the language and identify important language features. Each lessons includes one or more sample programs. I hope this tutorial will help you to acquire the skills and knowledge necessary to develop Windows applications in Visual C# in a simplified manner rather than in a complex way.  </p>", 
+    "end_date": null, 
+    "title": "C# for Beginners - Learn by coding", 
+    "price": "20.00", 
+    "instructors": "E-learning Academy", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/403136_13d3_2.jpg", 
+    "course_url": "https://www.udemy.com/c-for-beginners2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-24T20:22:40Z"
+}

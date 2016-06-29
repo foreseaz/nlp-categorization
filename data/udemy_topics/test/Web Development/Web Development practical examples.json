@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Welcome back dear Udemy members,</p><p style=\"\">This is my second course, and it is to help you learn by example.</p><p style=\"\">I am a certified Udemy instructor now, with three Udemy badges, and over 800 sutdents, which I am proud of achieving.</p><p style=\"\">The examples I explained in this course are trending in the market in this period of time, and the prices I estimated for each, are actual prices that I estimated and even sold some of the codes at those rates.</p><p style=\"\">You can learn and use the codes to develop for your self, or to sell to your customers.</p><p style=\"\">The course includes those projects:</p><p style=\"\"><strong style=\"\">HTML / JAVASCRIPT</strong></p><ul style=\"\"><li style=\"\">Control a form submit button, based on a checkbox status</li><li style=\"\">Verify email address using REGEX and JAVASCRIPT</li><li style=\"\">Display a clock on your web page</li></ul><p style=\"\"><strong style=\"\">PHP / MYSQL</strong></p><ul style=\"\"><li style=\"\">Retrieve form POST request on server side</li><li style=\"\">verify post requests</li><li style=\"\">using PHP loops to make HTML elements</li><li style=\"\">using PHP to send emails, using HTML form input</li><li style=\"\">PHP / MYSQL login system, with high security feature</li></ul><p style=\"\">I love to answer to your questions, and if you have an idea that you need to learn how to develop, why not post it in the course discussions, and I can share with everyone.</p><p style=\"\">Kind regards,</p><p style=\"\">Asem Hamid</p>", 
+    "end_date": null, 
+    "title": "Web Development practical examples", 
+    "price": "20.00", 
+    "instructors": "Asem Hamid", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/467610_44b6.jpg", 
+    "course_url": "https://www.udemy.com/web-development-practical-examples-worth-500/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-04T20:38:11Z"
+}

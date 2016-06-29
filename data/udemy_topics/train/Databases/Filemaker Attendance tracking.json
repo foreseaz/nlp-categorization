@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This is a beginners course in Filemaker Pro. This course covers the creation of a complete and functional Attendance Tracking system that allows us to track attendance for students following multiple courses.</p><p>When you follow the course you can download the entire Filemaker file so you can have a look behind the scenes to see how it all works. This way you have access to all of the details you might have missed.</p><p>There is no special knowledge required nor is there any use of complicated vocabulary.</p><p>At the end of this course you will have built the entire solution by yourself and you will have learned most of the tools and techniques that you can find within Filemaker.</p><p>In this system you can create multiple classes, taught by multiple teachers, and assign an infinite amount of students to these classes. You will be able to track the student's attendance and give them certificates for good work.</p><p>We will cover the creation of simple layouts, list layouts and portals. We will be creating drop-downs, tabbed objects and buttons.</p><p>We will be playing around with charts, pop-over buttons and Sub Summary parts.</p><p>We will include a section to send sms text messages from within Filemaker. This is done through an SMS API which works over the internet so it doesn't require a Sim card or a phone.</p><p>The end goal is to create a system that is fun, easy and works well. A solution that gives you a lot of interesting information all in one place. And that makes your administrative job fun to do.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Filemaker Attendance tracking", 
+    "price": "40.00", 
+    "instructors": "Guy Stevens", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/574392_b5eb.jpg", 
+    "course_url": "https://www.udemy.com/filemaker-attendance-tracking/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-05T07:53:39Z"
+}

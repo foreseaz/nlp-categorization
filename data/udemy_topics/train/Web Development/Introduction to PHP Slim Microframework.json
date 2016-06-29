@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Looking to learn the Slim Framework and Twig Template system in PHP? Here is a great course that will walk you through it! This course will walk you through how to create a RESTful PHP application with Slim and Twig. You will learn how to go from knowing completely nothing about Slim and Twig, to knowing how to create your very own application with Slim and Twig. This course will take you around 2 hours to complete, it is a very descriptive course. We will start off by creating our application, outlining how we will be writing our code, and then we will start writing some code! If you are looking to learn MVC or just expand your knowledge with PHP, this is the course for you!</p>", 
+    "end_date": null, 
+    "title": "Introduction to PHP Slim Microframework", 
+    "price": "20.00", 
+    "instructors": "Jordan Bardsley", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/576108_48bc_3.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-php-slim-microframework/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-06T22:30:31Z"
+}

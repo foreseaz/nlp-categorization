@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>In this course, you will be able to learn the math and science underlying the Lean Principles. It helps you to diagnose process performance issues, and develop coherent and logical solutions quantitatively.<br></p><p>This course begins by explaining how organisations generate value, how value is tied to its financials and what are its drivers. You will also understand how simple building blocks could be used to construct complex value networks, not just linear value streams. </p><p>As you move forward in the course, you will learn about the Little's law, how it works, and how to apply it in practical situations. Little’s law is referenced throughout the course in various Lean concepts.</p><p>You will be  familiarised with process quantities such as Flow Time, Throughput, WIP, etc., understand how are they related mathematically, and how to use these terms to diagnose problems and develop improvement solutions.</p><p>You will be able to appreciate why running operations at high utilisation reduces speed, and understand the effect of Variability on various process parameters.</p><p>You will learn and apply Capacity laws and understand the significance of V-U-T equation. You will be familiarised with the arithmetic to calculate process measures at the Value Network level.</p><p>Finally, you will learn and be able to apply the scientific basis behind the Lean Principles such as Line Balancing, One Piece Flow and Pull System.</p>", 
+    "end_date": null, 
+    "title": "LEAN: Learn The Underlying Science", 
+    "price": "45.00", 
+    "instructors": "Lean Business Academy", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/637326_4cd4_6.jpg", 
+    "course_url": "https://www.udemy.com/learn-the-science-behind-lean/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operations"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-11T13:12:55Z"
+}

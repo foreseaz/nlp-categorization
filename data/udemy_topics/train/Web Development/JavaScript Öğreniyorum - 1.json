@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tJavaScript&#039;in tarihsel gelişimi, çalışma mantığı ile başlayan bu eğitim içerisinde değişkenlerden dizilere, aritmatik-mantıksal-karşılaştırma operatörlerinden karar yapılarına(if-else-else if, swith-case), döngülerden(for, forin, while, do-while) hata yönetimine(try-catch), RegEx kullanımından prompt ve confirm&#039;e ve son olarakta event&#039;lere uzanan gerçek hayat örneklerini bularak kalıcı öğrenmeyi ve JavaScript ile ilgili bir daha hayatınız boyunca sıkıntıya girmeyeceğiniz bir eğitimdir.  </p>  <p>  \tJavaScript eğitimini iki bölüme ayırdım. Bu iki bölümü tamamladığınızda kendinizde tekrar ederek ve üzerinde çalışarak artık JavaScript ile ilgili web geliştirme süreçlerinde herhangi bir sorun yaşamayacaksınız.  </p>", 
+    "end_date": null, 
+    "title": "JavaScript Öğreniyorum - 1", 
+    "price": "20.00", 
+    "instructors": "Mahmut Can Sözeri", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/175280_f54f_3.jpg", 
+    "course_url": "https://www.udemy.com/egitim-videosu-izle-sifirdan-profesyonel-javascript-ogreniyorum-1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-02T14:56:06Z"
+}

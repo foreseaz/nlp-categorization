@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course gathers 10 years of web experience in order to achieve dependency free and high maintainability with javascript application with the process of modular loading and classes. </p><p>This would require you to have some basic knowledge in javascript HTML and CSS and .</p><p>this course will in the first place give you the tools to see what is underneath any web application as long as fixing the bugs that may occur. Then will guide you through the use of two libraries that will enhance the speed and quality of your traditional web applications.</p><p>you should take this course if you are looking to stand out in your work environment by providing slick approaches to coding practices with javascript.</p>", 
+    "end_date": null, 
+    "title": "Advanced Javascript and modularity", 
+    "price": "20.00", 
+    "instructors": "Jean William Tchoumbi Eyidi", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/753828_11d5_6.jpg", 
+    "course_url": "https://www.udemy.com/javascript-modular-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-05T21:42:50Z"
+}

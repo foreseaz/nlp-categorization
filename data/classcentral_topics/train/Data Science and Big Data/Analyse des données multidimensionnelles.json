@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    L'objectif de ce cours est de comprendre et appliquer les quatre méthodes fondamentales de l'analyse des données : analyse en composantes principales, analyse factorielle des correspondances, analyse des correspondances multiples et classification ascendante hiérarchique.\r\nIl a été conçu en vue des applications : une large place est donnée aux exemples et à la mise en œuvre logicielle (logiciel FactoMineR de R). La présentation des méthodes recourt le moins possible au formalisme mathématique en privilégiant l'approche géométrique.\r\nL'objectif est de rendre les participants autonomes dans la mise en œuvre et l'interprétation d'analyses exploratoires multidimensionnelles.\r\n \n\n                                    ", 
+    "end_date": "1900-01-01T00:00:00Z", 
+    "title": "Analyse des données multidimensionnelles", 
+    "price": 0, 
+    "instructors": "François Husson and Jérôme Pagès", 
+    "institution_name": [
+        "Angrocampus Quest"
+    ], 
+    "commitment": "5 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.france-universite-numerique-mooc.fr/courses/agrocampusouest/40001S02/session02/about", 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "France Université Numerique"
+    ], 
+    "start_date": "2016-03-01T00:00:00Z"
+}

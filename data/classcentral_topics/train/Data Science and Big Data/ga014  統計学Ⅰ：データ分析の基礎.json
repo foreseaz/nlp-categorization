@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    本コースでは、データ分析の基礎を学習する。コースは、身近なデータの具体的な例をあげながら、その種類の違いを理解しそれぞれに適した処理法やグラフ・表による整理の方法を学ぶ部分と、データが持つ特徴やデータ間の関連性を説明するために、数値を用いたデータの要約の方法を学ぶ部分から構成されている。また、統計の活用が、特に公的な場で、どのようになされているのかを学習する。\n\n                                    ", 
+    "end_date": "2016-06-15T00:00:00Z", 
+    "title": "ga014: 統計学Ⅰ：データ分析の基礎", 
+    "price": 0, 
+    "instructors": "Okuda Naohiko, Zhongshan Atsuho, Sakaori Wenwu, Shimokawa Toshio and Takemura Akimichi", 
+    "institution_name": [
+        "The University of Tokyo"
+    ], 
+    "commitment": "4-5 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://lms.gacco.org/courses/course-v1:gacco+ga014+2016_05/about", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "gacco"
+    ], 
+    "start_date": "2016-05-11T00:00:00Z"
+}

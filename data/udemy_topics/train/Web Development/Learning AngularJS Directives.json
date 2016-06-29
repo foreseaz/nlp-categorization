@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>It can be hard to maintain a balance between visual elements of an application associated with HTML and CSS and aspects such as UI Interaction and form validation. Wouldn&#039;t it be great if you could use HTML as your own domain specific language (DSL) and have it be a custom thing tuned exactly to the elements and attributes you need for the project you&#039;re building?</p><p>AngularJS provides this exact solution by separating these two features so that you can make changes in the visual layout without affecting your code. Backed by directives, AngularJS will help you to add functionality to HTML so that you can build interactive, engaging web applications.</p><p>Directives help you to extend your HTML and teach it new tricks to visually enhance your websites without compromising your code. This video course covers everything you need to use directives in your own apps, from creating directives to isolating their scope, applying transclusion, and injecting dependencies.</p><p>Firstly, we will learn how to include HTML snippets in our code using directives and create a directive to start working with it. We will use isolate scope to configure our directives individually and style them. Next, we will take a look at different operators to bind functions and make our directives interactive. We will explore the concept of transclusion and apply it to make our code more effective. Once we&#039;ve done this, we will restrict our directives to be used as an element, attribute, class or a comment according to our needs. We will also discover the difference between link and controller functions and inject dependencies to create testable components and co-ordinate our directives to work together. By the end of this course, you&#039;ll be proficient with creating and using fully functional directives to your advantage.</p><p>This course explains the various concepts of AngularJS directives step-by-step, with a hands-on approach and examples to help you understand and use directives in your code.</p><p><strong style=\"\">About the Author</strong></p><p><strong style=\"\">John Munsch</strong> is a professional software developer with over 28 years of experience. For the last 2 years, he has been leading a team that builds modern web app frontends with AngularJS. This was after a couple of years he spent doing the same kind of work with BackboneJS, UnderscoreJS, and HandlebarsJS. He&#039;s definitely enjoying a life full of JavaScript, AngularJS, and NodeJS after more than 20 years spent in the Java, C++, and C world.</p>", 
+    "end_date": null, 
+    "title": "Learning AngularJS Directives", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/524940_effe_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-angularjs-directives/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-10T08:30:19Z"
+}

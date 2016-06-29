@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t Big Data is the new Buzz work connecting the new trends of data analytics. Data management has shifted its focus from an important competency to a critical differentiator that can determine market winners. So to run along with latest trends check out this course to understand basics of Big Data.  </p>  <p style=\"\">  \t Big Data refers to technologies and initiatives that involve data that is too diverse, fast-changing or massive for conventional technologies, skills and infra- structure to address efficiently. Said differently, the volume, velocity or variety of data is too great.  </p>  <p style=\"\">  \t This course is intended for people who wants to know what is big data.  </p>  <p style=\"\">  \t the course covers what is big data, How hadoop supports concepts of Big Data and how different components like Pig, Hive, sqoop, Hbase, Flume &amp; MapReduce of hadoop support large sets of data Analytics.  </p>  <p style=\"\">  \t Please note:  </p>  <p style=\"\">  \t Couse https://www.udemy.com/overview-of-big-data-hadoop/#/ is a prerequisite to this course and is available for Free on UDEMY  </p>", 
+    "end_date": null, 
+    "title": "Big Data Hadoop : Advanced concepts and Components.", 
+    "price": "40.00", 
+    "instructors": "Jigar Vora", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/231512_5c9b_6.jpg", 
+    "course_url": "https://www.udemy.com/bigdatatech/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-28T04:49:01Z"
+}

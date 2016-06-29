@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>SAP Data services is leader in the data integration and the transformation space. It is a critical component of the SAP HANA solution. With SAP Data Services, you can quickly discover, cleanse, and integrate data – and make it available for real-time analysis. Discover all formats of data in your organization including unstructured data to understand the business better, discover profitable patterns and make better decisions.</p>\n\n<p><strong>Key Learnings:</strong><br></p>\n\n<ul><li>Understand Data Services big picture</li><li>Work with heterogeneous Source and Target Connections</li><li>Build ETL Jobs using data services transforms and functions</li><li>Trace, Validate, and Debug Data Services Jobs</li><li>Work with Global/Local variables, scripts, Custom Functions</li><li>Implement Change Data Capture in Data Services</li><li>Implement error handling</li>\n</ul>\n\n<p><strong>Engaging Teaching:</strong>\n</p>\n\n<ol><li>Expressive and immersive teaching with demonstrations and learning tools</li><li>Small, purposeful videos, packed with information, designed specifically for a virtual self paced audience.</li><li>Exercises for hands on practice</li></ol>\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "SAP Data Services(BODS)Extraction,Transformation and Loading", 
+    "price": "50.00", 
+    "instructors": "Junaid Ahmed", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/841880_19a5_2.jpg", 
+    "course_url": "https://www.udemy.com/sap-data-servicesbodsextractiontransformation-and-loading/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-07T06:47:46Z"
+}

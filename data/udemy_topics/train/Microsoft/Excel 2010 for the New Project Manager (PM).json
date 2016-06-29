@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t      Welcome to the Excel 2010 for the New Project Manager course! <strong style=\"\">This course is meant to be a short but information rich introduction to learn how to use Excel as a new project manager.</strong> And if you are an experienced project manager, you may also pick up some tips that could help with your individual projects, but think of it as a primer of Excel for Project Management.  </p>  <p style=\"\">  \t      You may be running projects that require something to help manage or present information and usually a common tool is Microsoft Excel. Though it may not have the features of Project Management specific software, Excel is robust enough to use for project management. However you may find that once you understand what Excel can do, you’ll find out it is a very powerful tool that will probably do the majority of what you want. You just need to figure out how to use it.  </p>  <p style=\"\">  \t      To really understand Excel you should probably start with the basics (and there is a lot to learn!). This course is a lecture only format that gives just enough information to get you started to feel comfortable using Excel to run projects.  </p>  <p style=\"\">  \t      This course will cover the following:  </p>  <ul style=\"\">  \t<li><strong style=\"\">Explore the Excel 2010 User Interface</strong></li>  \t<li><strong style=\"\">Understanding the Ribbon</strong></li>  \t<li><strong style=\"\">A Look at the Backstage view</strong></li>  \t<li><strong style=\"\">Quick Access Toolbar (QAT)</strong></li>  \t<li><strong style=\"\">Workbook and Worksheet Basics</strong></li>  \t<li><strong style=\"\">Primer to Cells, Columns and Rows</strong></li>  \t<li><strong style=\"\">Exploring different views using Freeze Panes and Split Panes</strong></li>  \t<li><strong style=\"\">How to Create Formulas and use Functions</strong></li>  \t<li><strong style=\"\">Using Lists Filters</strong></li>  \t<li><strong style=\"\">How the Table Feature Works</strong></li>  \t<li><strong style=\"\">Basics of Charting</strong></li>  \t<li><strong style=\"\">Formatting Charts</strong></li>  \t<li><strong style=\"\">Using Styles and Text Formatting</strong></li>  \t<li><strong style=\"\">Tips on Printing</strong></li>  \t<li><strong style=\"\">Keyboard Shortcuts</strong></li>  \t<li><strong style=\"\">How to Create a Gantt Chart</strong></li>  \t<li><strong style=\"\">How to Create a Pareto Chart</strong></li>  \t<li><strong style=\"\">How to Create a Timeline Chart</strong></li>  </ul>  <p style=\"\">  \t      There are a lot of things you can do with Excel and <strong style=\"\">this course should give you the tools to really understand how it works.</strong> By the end of the course you should feel familiar with using Excel and may also be able to create some charts that you may see in your work.  </p>", 
+    "end_date": null, 
+    "title": "Excel 2010 for the New Project Manager (PM)", 
+    "price": "25.00", 
+    "instructors": "Doug H", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/226440_e505_4.jpg", 
+    "course_url": "https://www.udemy.com/excel101-newprojectmanager/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-22T17:32:18Z"
+}

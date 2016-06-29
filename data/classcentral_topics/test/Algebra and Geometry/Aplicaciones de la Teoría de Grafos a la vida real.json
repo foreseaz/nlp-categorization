@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Algebra & Geometry"
+    ], 
+    "description": "\n\n                    \n                    \n                    Este curso trata la Teoría de Grafos desde el punto de vista de la modelización, lo que nos permitirá con posterioridad resolver muchos problemas de diversa índole. Presentaremos ejemplos de los distintos problemas en un contexto real, analizaremos la representación de éstos mediante grafos y veremos los algoritmos necesarios para resolverlos.\n\n                                    ", 
+    "end_date": "2013-12-19T00:00:00Z", 
+    "title": "Aplicaciones de la Teoría de Grafos a la vida real", 
+    "price": 0, 
+    "instructors": "", 
+    "institution_name": [
+        "Universitat Politècnica de València"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "http://cursografos.upvx.es/ficha", 
+    "duration": "7 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "UPV [X]"
+    ], 
+    "start_date": "2013-10-31T00:00:00Z"
+}

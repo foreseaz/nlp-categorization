@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>  \t<strong style=\"\"><em style=\"\">Newly Launched Course!</em></strong>  </p>  <p>  \t<strong style=\"\">            R is the new and fastest growing Business Analytics platform.</strong> R shall become (<em style=\"\">if it hasn&#039;t already become</em>) one of the most used Business Analytics tool. It is giving strong competition to giants like SAS, SPSS and other erstwhile business analytics packages.  </p>  <p>  \t                  This course is designed specifically for someone who knows basics of Business Analytics and wants to learn implementation of those skills on R platform.  </p>  <p>  \t                  The course is designed considering the busy schedule of learners. It has power pack content for about 90 mins. If you practice along with learning (which is highly recommended) then you shall take about <strong style=\"\">1-2 days to complete</strong> the course.  </p>  <p>  \t                      You will learn how to perform all the analytical tasks required to develop a <strong style=\"\">&quot;Losses prediction model in R&quot; from scratch</strong>. This means that you will be working on:  </p>  <ul style=\"\">  \t<li>Downloading and Installing R in your machine</li>  \t<li>Getting familiar with R environment</li>  \t<li>Loading important packages in R</li>  \t<li>Start writing your first code in R</li>  \t<li>Import Data in R and perform exploration and transformation activities</li>  \t<li>Do plots in R to understand data distribution</li>  \t<li>Write your own macro functions</li>  \t<li>Run correlation and regression in R and analyse model results</li>  </ul>  <p>  \t              By the end of the course you shall be confident and equipped with all the knowledge required to perform analytical activities in R.  </p>  <p>  \t                      If you want to learn Business Analytics or SAS language, then our other course &quot;Business Analytics for Beginners: Using SAS&quot; shall be the best fit for you.  </p>", 
+    "end_date": null, 
+    "title": "Learn R for Business Analytics from Basics !", 
+    "price": "20.00", 
+    "instructors": "Analytics 17", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/318142_4405_3.jpg", 
+    "course_url": "https://www.udemy.com/training-in-r-for-business-analytics-a-beginners-guide/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-12T07:47:07Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   Aprenderás a diseñar un Landing Page desde 0, con herramientas modernas de desarrollo web como Sublime Text, utilizaremos las librerias Font Awesome, Bootstrap, AnimateCSS, SmoothScrollJS y BootstrapValidator.  </p>  <p style=\"\">  \t   El curso está dirigido a personas que quieran aprender a crear páginas web con HTML5, CSS3, y PHP, es una gran introducción y aprenderás bastante.  </p>  <p style=\"\">  \t   Programadores con experiencia podrán obtener nuevos conocimientos con otras librerias que utilizaremos como WaypointJS y SmoothScroll JS.  </p>  <p style=\"\">  \t   Al finalizar el curso, tendrás un Landing Page completamente funcional de tu producto, servicio y habrás aprendido lo necesario para comenzar a crear nuevos diseños.  </p>", 
+    "end_date": null, 
+    "title": "Diseña un Landing Page con HTML5, CSS3, Bootstrap y Parallax", 
+    "price": "20.00", 
+    "instructors": "Juan Pablo De la torre Valdez", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/261898_4b01_3.jpg", 
+    "course_url": "https://www.udemy.com/disena-un-landing-page-con-html5-css3-bootstrap-y-parallax/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-15T16:42:36Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>No matter if you work in marketing, sales or finance, a solid understanding of data and the ability to query databases is a huge plus for your career. The first step to pulling your own data is an understand of SQL, the language used to query most data bases.<br></p><p>It doesn't matter if your company uses MySQL, TeraData, Microsoft SQL Server, Oracle oder MS Access. SQL is a standardized language, can be used to get data out of almost all relational databases. </p><p><strong>What will you learn in this course?</strong></p><p>This course is a quick and easy step by step guide to writing SQL queries to pull your own data. You learn all key functions of SQL and get a basic understanding of how relational databases work. Plenty of practice sessions will allow you to write your own queries and learn hands on. This way you will feel comfortable in applying the learned material to your day to day problems at work.</p><p><strong>Is this course right for you?</strong></p><p>If you want to learn solid skills that will improve your career prospects, then this is probably the course for you. Individuals that know their way around data bases, can query their own data sets and analyze them are in high demand in. If your current or your dream employer collects data of any kind? Then you should learn how to use this data.</p><p>If you run your own business, it is even more critical to get to your data and make sense of it. Even the databases of websites, online shops and payment systems can be queried with SQL. Get this data, format it and analyze to take the right decisions for your business success.</p><p><strong>Course structure</strong></p>The course is structured in easy steps that allow you to learn one step at a time. Practice sessions and quick quizzes will allow you to write your own queries in an easy to use online tool. No installation or setup required. In fact, you will write your first SQL query in the very first lesson. With each lesson the queries get more complicated and built on the learnings of the prior lessons.<p><br></p><p>Begin today, learn how to write your first query and start your journey to becoming a data expert!</p>", 
+    "end_date": null, 
+    "title": "Learn SQL with ease", 
+    "price": "35.00", 
+    "instructors": "Marco Eder", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/703778_8119_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-sql-with-ease/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-22T13:02:44Z"
+}

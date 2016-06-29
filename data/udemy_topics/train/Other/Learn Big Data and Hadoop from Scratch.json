@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t<span style=\"\">With a tremendous data revolution happening across the globe, it has become difficult to process data using the traditional processing. On completion the participant will know to change the economics of data by knowing how to keep data online forever using Big Data and Hadoop.</span>  </p>  <p style=\"\">  \t                This course mainly focuses on Big Data and Hadoop, providing a basic understanding of data storage giving an overview of commercial distributions along with other Hadoop ecosystem components such as Pig, Hive Sqoop, Zookeeper and MapReduce. You can take a glance at various concepts and components of Big Data and Hadoop,the course is divided into two sections of online content. The total duration of the course is 1 hour with an added advantage of 130 questions to check your knowledge in the areas covered.  </p>  <p style=\"\">  \t                While focusing on Big Data and Hadoop, it also provides an overview of commercial distributions along with the Hadoop ecosystem components.  </p>  <p style=\"\">  \t                This course is intended to familiarize data storage using Big Data and Hadoop to IT professionals who work with large amounts of data and/or students who want to understand the basics of Big Data. If you have some basic skills in programming you are all set to take up this course.  </p>  <p style=\"\">  \t                In addition to the basic concepts of Big Data and Hadoop, this course includes a set of 40 quizzes for the participants to test their understanding of the topics covered here. At the end of the course there is a quiz section with 90 questions.  </p>  <p style=\"\">  \t                After completing this course, the participants will be able to interpret what goes behind the processing of huge amounts of data as the industry switches over from excel based analytics to real-time analytics.  </p>", 
+    "end_date": null, 
+    "title": "Learn Big Data and Hadoop from Scratch", 
+    "price": "20.00", 
+    "instructors": "Compaq learning", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/408892_e923_6.jpg", 
+    "course_url": "https://www.udemy.com/big-data-and-hadoop-an-introduction/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-31T10:32:17Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>The ultimate Knockout JS framework tutorial is here. The course is aimed to get you started on this powerful MVVM JavaScript framework. Knockout has gained popularity in recent years and is widely used in Industry for creating web applications and custom bindings. Knockout comes with many advantages such as</p><p><strong>Pure JavaScript Implementation</strong></p><p><strong>Open Source MIT License</strong></p><p><strong>Lightweight Framework</strong></p><p><strong>Extensive browser support</strong></p><p><strong>No Dependencies</strong></p><p>Our course has been designed with simplicity and practicality as its prime focus making the technology accessible even to beginners. You will start with basic knockout introduction before getting started on important concepts such as View Models, Observables ,Data binding and Templating. The following are the main concpets covered in the course</p><p><strong>Why Use Knockout ?</strong></p><p><strong>Knockout framework attributes</strong></p><p><strong>Views and Observables and their role in Web Apps</strong></p><p><strong>Data binding concepts</strong></p><p><strong>Understand the appearance handling</strong></p><p><strong>Templating</strong></p><p><strong>Using Underscorejs</strong></p><p><strong>Components </strong></p><p><strong>Building a complete project  in Knockout</strong></p><p>Learn all this and much more and unleash the power of knockout for your projects.</p>", 
+    "end_date": null, 
+    "title": "Learn Knockout JS Framework from GroundUp", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/637840_5f78.jpg", 
+    "course_url": "https://www.udemy.com/learn-knockout-js-framework-from-groundup/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-12T04:17:37Z"
+}

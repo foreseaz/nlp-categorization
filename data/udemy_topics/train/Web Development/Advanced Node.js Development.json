@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  In this course we&#039;ll examine advanced topics in NodeJS. The first thing we’ll look at is AJAX, or Asynchronous Javascript and XML, but we won’t really be using the XML part, we’ll be using JSON instead. This will allow us communicate between the client and the server without having to have a full page refresh, which can be kind of jarring for our users. We’ll also take a look at some client-side Model-View-Controller (MVC) using BackboneJS. This is a way to help organize and maintain our client-side code as our application gets larger.  </p>  <p style=\"\">  \t  Finally, we’ll take a look at implementing user authentication in our applications using PassportJS, the library that’s been built to help us write our application logic for authentication a little bit easier. We’ll look at implementing a local strategy for username, email, and password and storing the data ourselves. We’ll also take a look at some third-party implementations such as Facebook and Twitter. Let’s take a look.  </p>  <p style=\"\">  \t<strong style=\"\">Course Includes:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">40 videos with over 175 minutes of lectures and explanations.</li>  \t<li style=\"\">3 external resource files.</li>  \t<li style=\"\">3 exercises to help you master Advanced Node concepts.</li>  </ul>  <p style=\"\">  \t<strong style=\"\">What You&#039;ll Learn:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">AJAX with jQuery</li>  \t<li style=\"\">Setting up the Project</li>  \t<li style=\"\">Sending and receiving data</li>  \t<li style=\"\">Client-side MVC with Backbone</li>  \t<li style=\"\">Creating a blog with Backbone, Express, and MongoDB</li>  \t<li style=\"\">Scaffolding the project</li>  \t<li style=\"\">Setting up Backbone Models</li>  \t<li style=\"\">Testing the models</li>  \t<li style=\"\">Adding a post view</li>  \t<li style=\"\">Setting up the blog view</li>  \t<li style=\"\">Wiring it up to the page</li>  \t<li style=\"\">Setting up the server</li>  \t<li style=\"\">Connecting to the Database</li>  \t<li style=\"\">Adding new posts</li>  \t<li style=\"\">Deleting posts</li>  \t<li style=\"\">Bootstrapping data</li>  \t<li style=\"\">Local User Authentication with Passport</li>  \t<li style=\"\">Scaffolding the project</li>  \t<li style=\"\">Creating the user model</li>  \t<li style=\"\">Connecting to the database</li>  \t<li style=\"\">Encrypting passwords</li>  \t<li style=\"\">Comparing passwords after encryption</li>  \t<li style=\"\">Setting up the login form</li>  \t<li style=\"\">Hooking up the form</li>  \t<li style=\"\">Print out the logged-in user</li>  \t<li style=\"\">Setting up private routes</li>  \t<li style=\"\">User logout</li>  \t<li style=\"\">Facebook User Authentication with Passport</li>  \t<li style=\"\">Additional Resources</li>  \t<li style=\"\">Exercises</li>  \t<li style=\"\">And More!</li>  </ul>", 
+    "end_date": null, 
+    "title": "Advanced Node.js Development", 
+    "price": "20.00", 
+    "instructors": "RefactorU LLC", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/212398_f76e_4.jpg", 
+    "course_url": "https://www.udemy.com/refactoru-adv-nodejs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-07T15:45:09Z"
+}

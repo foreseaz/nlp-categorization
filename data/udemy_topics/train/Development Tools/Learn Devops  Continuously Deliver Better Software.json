@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course you will learn how to apply DevOps. Why DevOps? It is one of the most sought after skills in the IT industry. The average salary in the US is <strong>$105,000 per year</strong> (source: Glassdoor), up to an <strong>average of $146,000 in San Fransisco</strong> (source: Indeed).</p><p>The course is <strong>aimed at software engineers and system administrators</strong> that want to deliver better software. Other IT professionals can also take this course, but might have to do some extra research to understand some of the concepts.</p><p>You will learn how to improve the Software Development Lifecycle by applying techniques to improve software delivery. I will explain how to improve delivery using <strong>automation</strong>, <strong>configuration management</strong>, <strong>provisioning</strong> and <strong>deployment</strong> <strong>tools</strong>. I also cover newer tools like <strong>Docker</strong> and <strong>Kubernetes</strong>. Where possible I point you towards the best practices in the field.</p><p>The<strong> course is very practical</strong>. There is about 3 to 4 hours of lectures, but you want to try out everything yourself, which will add multiple hours of learning. If you get stuck with the technology while trying, there is support available. I will answer your messages on the message boards and we have a Facebook group where you can post questions.</p><p><strong>February 2016 Updates:</strong></p><ul><li>Added content about building tools like sbt and maven</li><li>By popular demand: added more Docker content about the architecture, images, volumes, and networking</li></ul>", 
+    "end_date": null, 
+    "title": "Learn Devops: Continuously Deliver Better Software", 
+    "price": "25.00", 
+    "instructors": "Edward Viaene", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/645126_3d41_5.jpg", 
+    "course_url": "https://www.udemy.com/learn-devops-continuously-deliver-better-software/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-19T20:02:20Z"
+}

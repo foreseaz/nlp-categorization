@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  There are tons of games where objects need to get from Point A to Point B, all the while avoiding dead ends, cliffs, and who knows what all.  </p>  <p style=\"\">  \t  That&#039;s where <em style=\"\">pathfinding</em> comes in.  </p>  <p style=\"\">  \t  The Jumper library is available free on Github and this mini-tutorial includes videos with 4 sample demos that will get you up and running fast!  </p>  <p style=\"\">  \t  You can pound it out yourself, or get a headstart for less than the price of a movie and snacks!  </p>  <p style=\"\">  \t<strong style=\"\"><em style=\"\">Note! This is NOT a course for beginners. There is less &quot;hand-holding&quot; in this mini-tutorial than in most of my courses. ;)</em></strong>  </p>", 
+    "end_date": null, 
+    "title": "Easy Pathfinding in Corona SDK - Free Lib Does All the Work!", 
+    "price": "20.00", 
+    "instructors": "J. A. Whye", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/110496_f635_6.jpg", 
+    "course_url": "https://www.udemy.com/pathfinding-with-corona-sdk-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-25T10:43:03Z"
+}

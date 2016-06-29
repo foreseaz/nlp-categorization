@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">The</strong> purpose of this course is to understand the techniques employed by security enthusiast to break into users account or machine using client side exploitation techniques which covers leveraging <em class=\"redactor-inline-converted\"><strong class=\"redactor-inline-converted\">client side application functionalities or loopholes</strong></em> to achieve the hack and how to<strong><em> defend against such attacks</em></strong>. It also helps you understand  how to be <strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">creative and careful</em></strong> at the same time when crafting your social engineering attacks.The course covers variety of topics ranging from hacking facebook user account using phishing techniques and how to defend against such attacks. It extends to exploiting phones,systems and learning how to defend from such attacks which comprise client side exploitation domain. </p>\n\n<p>Topic Coverage :</p>\n\n<ul><li>Phishing (Social network accounts such as Facebook,twitter;etc.)</li><li>Browser attacks</li><li>Macro based client side hack</li><li>Android Phone hacking</li><li>Defend against all client side attacks</li></ul>", 
+    "end_date": null, 
+    "title": "Hacking Facebook,phones and systems in an ethical way !", 
+    "price": "25.00", 
+    "instructors": "Snehil Khare", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/851896_2ba1_5.jpg", 
+    "course_url": "https://www.udemy.com/advanced-real-world-hacking-with-practical-videos/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-17T13:57:13Z"
+}

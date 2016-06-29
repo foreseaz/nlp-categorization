@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p><strong>Remember, your one-time purchase grants you lifetime access, so you receive all new lectures &amp; updates at NO ADDITIONAL COST.</strong></p>  <p>  \t                                                   Timer jobs are SharePoint's way of executing scheduled tasks. Many commercial SharePoint products and custom solutions use them, and they're a super important concept for any serious SharePoint developer to master.  </p>  <p>  \t                                   In this course, I'll teach you all about timer jobs for SharePoint Server 2013 and SharePoint Online. I'll also show you the secrets pros use to create solutions that are good enough to sell commercially!  </p>    <p>Here are a few examples of how this course is different:</p>  <p>  \t<strong>Example #1</strong>: You may have seen articles or blog posts telling you to inherit from <em>SPJobDefinition</em> as your base class for a custom timer job. Did you know there are other options that are sometimes better? I cover those in this course.</p>  <p>  \t<strong>Example #2</strong>: Many free articles and blog posts about timer jobs say \"use the property bag for configuration settings.\" Well, there are other options too, and sometimes those are better! In this course I delve pretty deep into job configuration and the trade-offs between different approaches.</p>  <p>  \t<strong>Example #3</strong>: Best practices from real-world experience. This is a big deal. I cover things like error handling and progress reporting that other training courses and articles don't cover much, if at all. Why? Because those things matter in real life! Glossing over them might be okay for simple \"how to\" articles but not when you're building commercial solutions you're <em><strong>selling</strong></em> to people!  </p>  <p>I update this course periodically with new information to keep it current and relevant. Since you have lifetime access to this course once you purchase it, you get these updates at no additional cost once you buy.  </p><p><strong>The Goal</strong>: By the time you finish this course, you should feel confident about when timer jobs are an appropriate design choice in SharePoint and how to create one like the pros do!</p>  <p>  \t                                                        Good training is about <em><strong>making you more valuable</strong></em> and <em><strong>getting you productive as quickly as possible</strong></em>. All the information you need is wrapped up into this one course and is presented with real-world examples and best practices.</p>", 
+    "end_date": null, 
+    "title": "Developing Timer Jobs for SharePoint 2013 and Office 365", 
+    "price": "40.00", 
+    "instructors": "Bart McDonough", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/50092_93b3_11.jpg", 
+    "course_url": "https://www.udemy.com/developing-custom-timer-jobs-for-sharepoint-2013/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-04-16T17:17:50Z"
+}

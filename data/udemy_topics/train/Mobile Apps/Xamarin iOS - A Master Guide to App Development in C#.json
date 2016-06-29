@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>*************<br><strong>Released End of April 2016 this course contains up to date instructions on creating fantastic iOS apps using the latest version of Xamarin</strong><br>*************</p>\n\n<p>This course is designed to be the complete reference guide for building apps in Xamarin.iOS. I will teach you iOS specific lessons that cover most of the code you will ever need! </p>\n\n\n\n\n\n<p>Take this course and you will go from beginner to <strong>completely</strong> <strong>proficient</strong>. No more translating of Objective-C or Swift code to try make your Xamarin.iOS application work. Now you have all the C# and .Net coding answers contained in this course!</p>\n\n\n\n\n\n<p>*************</p>\n\n\n\n<p>Forget the $2000 fee at Xamarin University, get the same information here for a fraction of the cost!<br></p>\n\n\n\n\n\n<p><strong>What You'll Learn: </strong></p>\n\n\n\n\n\n<ul><li>Basic C# (optional)</li><li>Make your First Xamarin.iOS App</li><li>Basic UI Elements on iOS</li><li>Advanced UI Elements on iOS</li><li>Xamarin Designer for iOS</li><li>Table Views (scrolling lists)</li><li>Collection Views</li><li>iOS Specific Layouts</li><li>Event, Protocols and Delegates</li><li>Foreground and Background Threading</li><li>Resources and Images</li><li>App Icons and Launch Screens</li><li>Simple and Advanced Animation Techniques</li><li>iOS File System Structure</li><li>Reading and Writing Directories and Files</li><li>Working with JSON</li><li>Making Web Calls</li></ul>\n\n\n\n\n\n<p>And SO MUCH MORE! </p><p>Join now and upgrade your app development skills!</p>", 
+    "end_date": null, 
+    "title": "Xamarin iOS - A Master Guide to App Development in C#", 
+    "price": "25.00", 
+    "instructors": "Mr Grant Klimaytys", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/766280_2515.jpg", 
+    "course_url": "https://www.udemy.com/xamarin-ios-the-master-guide/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-18T07:01:57Z"
+}

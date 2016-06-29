@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">In this course, Emiel Sleegers will be going over how to create a tileable texture using both ZBrush and Substance Designer. To start he will be sculpting some tiles in ZBrush and then use that sculpt to export various height, normal, and lightmaps. From there, he will begin his joirney into Substance Designer where he will be showing you how to create the final diffuse, normal, height spec, and gloss maps. And to wrap things up, he will be taking everything into Marmoset to get a quick preview of how everything will look in its final state.</p><p style=\"\">(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</p><hr style=\"\"><p style=\"\"><u style=\"\">More about the Instructor:</u></p><p style=\"\">Emiel Sleegers is a self-taught 3d artist currently residing in the Netherlands. He&#039;s been teaching himself 3D art for the past 3-4 years, and has worked as a freelance artist on numerous unannounced projects. He&#039;s a lover of all things 3d and enjoys sharing the knowledge he has obtained with others eager to learn.</p>", 
+    "end_date": null, 
+    "title": "Introduction to Substance Designer for Games and Film", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/441768_a6a4.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-introduction-to-substance-designer-for-games-and-film/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-08T06:39:29Z"
+}

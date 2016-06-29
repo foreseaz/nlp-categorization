@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This cute little fella is the mBot a do-it-yourself educational robot kit from robotics experts Makeblock. Built around the Arduino open-source platform, it's designed to induct kids into the fields of robotics and programming. The company chose to build around the concept of STEM education: science, technology, engineering &amp; mathematics. Specifically, it helps children get an early start into these disciplines. There are two versions of the mBot: a Bluetooth version for home use and a 2.4 GHz Wi-Fi version, which is designed for classroom use.</p>    <p>Everything that you need to build it is in the box in a nutshell, you need to assemble it using the precise instructions provided and add batteries. There are 45 pieces and it's easy to put them together in about 15 minutes. It's neatly packaged and consists of very high quality materials. Every little part that you need from the main Arduino board, DC motors, to each screw, cable and even a set of tools is in the box. It comes pre-programmed but it's also designed to be tinkered with. Parent of pre-teens might be familiar with Scratch. It’s a free, graphical based programming language developed by MIT Media Lab. </p>    <p>Well, Makeblock has built their own version for this and called it mBlock. The idea behind mBlock is that younger children can start out with graphical programming and move on to text-based programming as they become more advanced.</p>    Ultimately, once you put everything together, mBot can move around and avoid obstacles on its own, follow a line on the ground or just accept commands from the supplied IR remote controller. With the Makeblock app, you can control the robots wirelessly. For children, especially, it can be a surreal experience: actually building something out of tiny parts and seeing it come to 'life'. And there's no limit to what you can do add more parts, add another robot to play games or program your own actions. This is what will inspire the next generation of engineers.", 
+    "end_date": null, 
+    "title": "Introduction to mBot", 
+    "price": "20.00", 
+    "instructors": "Venkatesh Varadachari, Kamesh Dkr", 
+    "commitment": "33 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/631058_9fe8_3.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-mbot/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-05T07:35:04Z"
+}

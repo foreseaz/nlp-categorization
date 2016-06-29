@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Learn to build a web application using modern design principles and tools, including HTML5, Git, Twitter Bootstrap, Postgresql, PHP5, Vagrant and JQuery. We&#039;ll go through the entire web development process from start to finish, and learn how to build a modern, stable, secure web application. No prior programming experience is required.</p>", 
+    "end_date": null, 
+    "title": "Introduction to Modern Programming with PHP", 
+    "price": "20.00", 
+    "instructors": "Trevor Sawler", 
+    "commitment": "16 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/565384_bef0.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-modern-programming-with-php/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-26T19:28:19Z"
+}

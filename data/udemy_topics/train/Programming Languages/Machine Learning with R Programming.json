@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><span style=\"\">This course will cover the basic algorithm that helps us to build and apply prediction functions with an emphasis on practical applications. </span>Students, at the end of this training, will be technically competent in the basics and the fundamental concepts of Machine Learning such as:</p>  <ul><li><span>Understand components of a machine learning algorithm</span></li><li><span>Apply multiple machine learning tools to build and evaluate predictors on real data</span></li><li><span>Learn how to perform different classification algorithm to filtering the Email data</span></li><li><span>Forecasting on Time series Data</span></li><li><span>Perform Clustering with the help of case study</span></li></ul>          <ul>  <li>This      course contains lectures as videos along with the hands-on implementation      of the concepts, additional assignments are also provided in the last      section for your self-practice, working files are provided along with the      first lecture.</li></ul>", 
+    "end_date": null, 
+    "title": "Machine Learning with R Programming ", 
+    "price": "25.00", 
+    "instructors": "Easylearning guru", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/687860_db72.jpg", 
+    "course_url": "https://www.udemy.com/machine-learning-with-r-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-03T10:44:27Z"
+}

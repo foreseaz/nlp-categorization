@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>As we all know, web development moves quickly. With frameworks like Angular 2 and React, we’ve seen a massive move in the industry from the imperative programming paradigm to the functional and <em>reactive</em> paradigms. To be successful in modern development, it’s <strong>paramount </strong>to have an understanding of how these paradigms work, and the tools that we can use to express them.</p><p>This course is an introduction to the core concepts of the reactive programming paradigm. We will use the <strong>RxJS </strong>(Reactive Extensions for JavaScript) library as a way to explore this mindset and develop an understanding of how to <em>think reactively</em>. Reactive Extensions are used by many companies - from Netflix to Microsoft and even Github!</p><p>Did you know that Angular 2 uses Reactive Extensions for its asynchronous operations? If Angular 2 is your goal, then learning RxJS is an absolute must!</p><p>Even frameworks that don’t use RxJS directly, such as Facebook’s React, are modeled after this paradigm - and integrate with it <strong>flawlessly</strong>.</p><p>If you plan on moving forward with modern development, reactive programming should be your next step. With the knowledge in this course, you will gain confidence in working with modern frameworks and libraries. Even if you’re not interested in writing web applications, the concepts here apply everywhere. Reactive Extensions itself has many ports to other languages that you can easily move between!<strong> </strong></p><p><strong>The concepts in this course offer a new way to reason about c</strong><strong>ode - </strong>and will apply no matter what language, platform, framework, or library you wish to use! If you want to be on the forefront of modern web development, then this course is your next step!</p>", 
+    "end_date": null, 
+    "title": "Reactive JS:  Are you ready for the next big paradigm shift?", 
+    "price": "30.00", 
+    "instructors": "3D BUZZ Programming and Digital Art training", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/771198_4d2a_2.jpg", 
+    "course_url": "https://www.udemy.com/reactive-js-getting-ready-for-the-next-big-paradigm-shift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-23T02:10:48Z"
+}

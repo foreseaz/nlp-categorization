@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t This class teaches you all of the essential concepts and knowledge you need to get started with Joomla 3.  </p>  <p>  \t This Joomla 3 Beginner class is aimed at people who are completely new to Joomla. You don&#039;t need have any experience or know any coding.  </p>  <p>  \t In the first part of the class, we introduce you to Joomla and explain the basics about how Joomla works:  </p>  <ul>  \t<li>Introduction</li>  \t<li>What is Joomla?</li>  \t<li>Navigating the Public Site</li>  \t<li>Navigating the Administrator Site</li>  </ul>  <p>  \t In the second part of the class, you&#039;ll see how to manage content in Joomla. You&#039;ll add text and images then see all your options for presenting content to your visitors.  </p>  <ul>  \t<li>The Joomla Workflow</li>  \t<li>The Category Manager</li>  \t<li>The Article Manager</li>  \t<li>Adding Images to Articles</li>  \t<li>Adding Code to Articles</li>  \t<li>Adding Images for the Introduction to Articles</li>  \t<li>Featured Articles</li>  \t<li>The Menu Manager</li>  \t<li>Creating a New Menu</li>  \t<li>Linking to an Article</li>  \t<li>Linking to a Blog</li>  \t<li>Linking to Articles from a Category in a List</li>  \t<li>Linking to a Category List</li>  \t<li>The Article Options</li>  \t<li>Managing Menus</li>  </ul>  <p>  \t In the third part of the class, you&#039;ll learn about extensions which provide all of the extra features you could want in your Joomla site:  </p>  <ul>  \t<li>Understanding Extensons</li>  \t<li>Banners</li>  \t<li>Contacts</li>  \t<li>Joomla Update</li>  \t<li>Messaging</li>  \t<li>Redirects</li>  \t<li>Search</li>  \t<li>Smart Search</li>  \t<li>Module Manager</li>  \t<li>New Modules</li>  \t<li>Plugins</li>  \t<li>Languages</li>  </ul>  <p>  \t In the fourth part of the class, you&#039;ll learn about design and show you how to find, install and use a great-looking template:  </p>  <ul>  \t<li>What is a Template?</li>  \t<li>Modifying Your Template</li>  \t<li>Installing a Template</li>  </ul>  <p>  \t In the fifth part of the class, we show you how to keep your Joomla site safe and secure.  </p>  <ul>  \t<li>User Manager</li>  \t<li>User Registration</li>  \t<li>Access Control Levels</li>  \t<li>Maintenance and Security</li>  </ul>  <p>  \t In the final part of the class, you&#039;ll learn about a wide variety of installation options for Joomla:  </p>  <ul>  \t<li>Local Installation on a PC</li>  \t<li>Local Installation on a Mac</li>  </ul>", 
+    "end_date": null, 
+    "title": "Joomla 3 Beginner", 
+    "price": "25.00", 
+    "instructors": "OSTraining LLC", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/125324_d64c_6.jpg", 
+    "course_url": "https://www.udemy.com/joomla-3/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-25T23:07:04Z"
+}

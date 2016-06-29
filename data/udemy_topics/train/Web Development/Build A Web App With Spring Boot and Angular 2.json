@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>elcome to my course of <strong class=\"redactor-inline-converted\">Angular 2 and Spring integration</strong>. This course is based on my previous course - <strong class=\"redactor-inline-converted\">Fundamentals of Angular 2 Full Stack Design</strong>, whose target is to know the basics and features of Angular 2. There is also a photo sharing web app called - <strong class=\"redactor-inline-converted\">Lagoon</strong>, was developed as an example to show how to approach front-end design using angular 2. Now, in this course, we will be <strong class=\"redactor-inline-converted\">l</strong><strong class=\"redactor-inline-converted\">everaging that project</strong> and start to develop the back-end using <strong class=\"redactor-inline-converted\">Spring Boot and Spring Data</strong>. If you haven't taken that Angular 2 course, or you don't have any Angular 2 knowledge, I would suggest go ahead and do that first. I cut out some stuff but focus more on the basics so that you can get started quickly. <br></p>\n\n<p>In this course, we will use Angular 2 to build the front-end and Spring Boot as back-end, specifically with <strong class=\"redactor-inline-converted\">REST</strong> services, which fits more in the<strong class=\"redactor-inline-converted\"> modern trend</strong>. Regarding the content, we will first have an overview on the project architecture. Then, we will go through two \"hello world\" type demo - one for Angular 2 and the other for Spring Boot. After that we will go back and forth between front-end and back-end to build the nuts and bolts of the project.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Features in this course:</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li><strong class=\"redactor-inline-converted\">Angular 2 </strong>- most recent front-end framework</li><li><strong class=\"redactor-inline-converted\">Spring Boot </strong>- develop app first with spring framework</li><li><strong class=\"redactor-inline-converted\">Spring Boot Data</strong> - interact with database in an efficient manner</li><li><strong class=\"redactor-inline-converted\">Token-based verification</strong> - cookie-based has some drawbacks and the trend is to use token-based verification</li><li><strong class=\"redactor-inline-converted\">REST service</strong> - A modern design approach for full stack</li><li><strong class=\"redactor-inline-converted\">Eclipse</strong> - We will use Eclipse in this course as our IDE for back-end development</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Please Note:<br>1. Angular 2 has updated some of its content on set up the environment. I update the video on it and you can find in the demo lesson. If you want to follow the course exactly, you can use the starter template in the source code I attached. On the other hand, you can also use the latest version of Angular 2, which needs some minor changes.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>2. For source code, you need to run 'npm install' first to install the dependency modules. Then, you can run 'npm start' to start the app. This is based on previous version of Angular 2 and dependency should still work.</p>", 
+    "end_date": null, 
+    "title": "Build A Web App With Spring Boot and Angular 2", 
+    "price": "30.00", 
+    "instructors": "Le Deng", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/842058_eb39.jpg", 
+    "course_url": "https://www.udemy.com/build-a-web-app-with-spring-boot-and-angular-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-07T14:31:14Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>MongoDB is the next-generation database that lets you do things you could never do before. This course on MongoDB Administration and Security provide specific step-by-step instructions for performing common MongoDB setup, maintenance, security and configuration operations.</p><p>In this course on MongoDB Administration and Security, we'll cover these topics:</p><p>MongoDB Sharding Mechanism</p><p>Types of Sharding</p><p>MongoDB Administration tools</p><p>Configuration and Backup in MongoDB</p><p>MongoDB monitoring Tools</p><p>Issues of Security in MongoDB</p><p>This course takes you through the basics and then dives deep into all aspects of managing MongoDB. This course also covers how MongoDB scales out using sharding mechanism.</p>", 
+    "end_date": null, 
+    "title": "MongoDB: Learn Administration and Security in MongoDB", 
+    "price": "25.00", 
+    "instructors": "Digitorious Technologies", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/770410_4756_2.jpg", 
+    "course_url": "https://www.udemy.com/mongodb-learn-administration-sharding-and-security-in-mongodb/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-22T10:26:16Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This is Volume 3 of a 3 part series, <strong class=\"redactor-inline-converted\">Mastering CSS</strong>. We recommend that you view these volumes in sequential order so that you can follow along with our author <strong>Rich Finelli</strong> from start to finish. </p>\n\n\n\n<p>CSS is a deceptively simple presentation language that has significantly developed over the last few years. Frontend developers need to keep style sheets manageable and organized by taking a modular approach to building a website. They can either wrestle with it, or learn how to master it in order to easily apply layouts and styles with precision.</p><p>This web development video course has been designed to help \nyou build your knowledge of CSS and master one of the most valuable \ntools in modern web design.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>We start off with a brief review of the foundations of CSS \nby using a good text editor to automate your authoring and set up a CSS \nbaseline. We then move on to creating a layout with floats and a \nfunctioning menu with dropdowns, taking a modular-organized approach to \nCSS. We'll also go into detail about CSS3 properties such as transforms,\n transitions, and animations. By the end, you'll have an understanding \nof responsive web design, web fonts, icon fonts, and techniques used to \nsupport retina devices; all things a modern frontend web developer must \nknow.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>We deep dive into a lot of details of CSS in this course, \nfrom creating a modern looking ghost button and a big call-to-action \nbutton to the supposedly difficult and scary SVG. Mastering CSS will arm\n you with all the knowledge, tips, and tricks you need to make you stand\n out in the world of developing complex, responsive, feature-rich web \napplications.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>About the Author</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Rich Finelli </strong>is a husband and a \nfather living in Piscataway, NJ, working as a frontend developer. He's \ntruly passionate and excited for all frontend technologies and enjoys \nlearning about web design and development. He also teaches two courses \non CSS at Mercer County Community in NJ, and writes about web design on \nhis blog.</p>", 
+    "end_date": null, 
+    "title": "Mastering CSS-Volume 3", 
+    "price": "20.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/819522_469b_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-css-volume-3/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-12T06:32:52Z"
+}

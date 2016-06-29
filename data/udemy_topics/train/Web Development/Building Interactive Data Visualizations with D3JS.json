@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>D3JS is a JavaScript library that enables data to drive interactive graphical forms and makes complex data analysis easier. Nowadays, big data, data deluge, and analytics are all trending buzzwords, so how does D3JS make sense of all this data? Simply by using visualizations and defining rules for dynamic graphics engines, which allows users to gain rich insights from large and complex datasets.</p><p>Building Interactive Data Visualization with D3JS showcases the D3 JavaScript library built specifically for the use of driving visual elements with data. This video course will walk you through the basics of the library by showing its core components and methodologies. By following along with the examples in this video you'll become proficient at creating dynamic visualizations driven by user interactivity.</p><p>This course starts with the very basics of frontend web development showing the challenges of incorporating dynamic graphics without using D3. Users learn to combine data with visual elements on the page to create informative visualizations. By the end of this section, viewers will be comfortable with using the D3 library to create their own custom concept of data-driven visualizations.</p><p>We'll see how to use real datasets via APIs to create custom visualizations. By leveraging the interactive nature of web programming we'll look at how to incorporate user input to add interactivity to our visualization. We'll start with basic scatter plots and slowly build upon this foundation to create more complicated forms of dynamic data visualizations. Eventually we'll end the video course by walking through the process of creating a completely novel form of visualization merging concepts of both a scatter plot and a geographic map.</p><p>Building Interactive Data Visualization with D3JS provides one with the foundation to continue on their journey of creating novel and highly impactful data visualizations.</p><p><strong>About The Authors</strong><br></p><p><strong>Alex Simoes</strong> is a co-founder of the data visualization company Datawheel. He is a graduate at the MIT Media Lab where he worked to develop data decision making tools using visual techniques to explore big datasets. As part of his Master's thesis he developed The Observatory of Economic Development, a website used to visualize world trade flows with 50 years' worth of data from more than 200 countries and 2000 products.  Alex is focused on using and contributing to open source projects including D3plus, an extension to the D3 library that allows for fast and easy creation of online data visualizations. He is focused on developing novel visualization techniques to aid decision-making in all fields.<br></p><p><strong>Michael Westbay </strong>graduated from San Diego State University with a BS degree in computer science and a minor in Japanese studies. Upon graduation, he moved to Japan to work for a software company, mainly dealing with databases. After 15 years at that company, he started working independently, connecting databases and web technologies.</p><p>Most of what Michael has written has been about Japanese baseball. He started a blog (before blogs were common) in 1995. That eventually led to writing a column for a Japanese baseball magazine for a couple of years. He relied heavily on his own baseball database for the article.</p><p>He was an early adopter of Netscape Navigator 2.0's JavaScript, seeing the potential of dynamic pages early on. Unfortunately, his experience in dealing with IE 4 on a time card system in 1997 soured his opinion on JavaScript for a number of years. He then concentrated on server-side technologies and had a number of articles published in Japanese web and database periodicals.</p><p>As third-party JavaScript frameworks conquered the incompatibilities, Microsoft built their own version of ECMAScript. Michael slowly came back to the dynamic scripting scene. jQuery and its ecosystem of plugins won him back full time, but it doesn't compare to the power and elegance of D3JS. Crossfilter and dcJS look like the next step in his never-ending pursuit of knowledge. This is Michael's second video course about D3JS, following the success of his Rapid D3jscourse.</p>", 
+    "end_date": null, 
+    "title": "Building Interactive Data Visualizations with D3JS", 
+    "price": "40.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/624368_e5e6_2.jpg", 
+    "course_url": "https://www.udemy.com/building-interactive-data-visualizations-with-d3js/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-28T06:14:00Z"
+}

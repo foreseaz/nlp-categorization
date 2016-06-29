@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>In this series, we're going to jump into an introduction to creating a Mech Head in ZBrush. We'll initially use Dynamesh to create the foundational shapes before refining them and creating new polygroups within each subtool. We'll then extrude some of the polygroups to help create the plating on different parts of the mesh before using some alphas to create some smaller details over the model. We'll utilize the IMM brush particularly to add in elements to our Mech Head to finalize details. Lastly, we'll quickly drop the model into KeyShot for our final test renders.</p><p><strong>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</strong></p><p>More about the Instructor:</p><p>Stephen Wells is an expert 3D modeler for characters, props, vehicles, weapons and environments and have created both high and low polygon assets for game productions. He has over 20 years experience in creating a variety of game assets for several different genres (fantasy, sci-fi, combat, superheroes, horror, etc) using 3ds Max, Maya, Photoshop, ZBrush, Mudbox, Topogun, and xNormal. As an enthusiastic instructor, he loves creating video tutorials on a wide variety of subjects to help students better their skillsets.</p>", 
+    "end_date": null, 
+    "title": "Sculpt a Mech Head with ZBrush and Present it in Keyshot", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/491070_4126.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-sculpt-a-mech-head-with-zbrush-and-present-it-in-keyshot/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-01T09:28:40Z"
+}

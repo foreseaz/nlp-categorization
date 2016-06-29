@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Free Trial:</strong> If you are unsure whether or not to get the course, feel free to try it out! All lectures that are free to try should have a \"Preview\" button next to them. Check it out!</p><p><em>Note: This course was made using Unity 5.2. Any version of Unity 5 is compatible with this course. Also, all scripting is 100% done from scratch.</em></p><p><strong>What is the course about?</strong></p><p>This course is all about learning game development using the Unity3D Game Engine. We will be covering topics that go all the way from installing the engine, to making a character move in world, to creating very simple AI.</p><p>C# experience is recommended, <strong>but not required</strong> as I explain absolutely everything about what I'm doing and why I'm doing it. Although this course is mostly programming, I also take the time to go through the interface, set up basic animations in Mecanim (Unity's animation system), and use most of the commonly used windows within the interface. </p><p>There are always multiple ways to do things in game development. Because I want you to keep an open mind as to the possibilities Unity brings you, when I'm doing something that may feel repetitive, I always go about it a different way. This way you will end up getting more familiar with the engine.</p><p><em>Although this course is the perfect foundation to start as a Unity Developer, all learning levels should benefit from this course one way or another because of the different ways in which I approach situations. That being said, this course is meant for beginner level students.</em><br></p><p><strong>What's included in the course?</strong></p><ul><li><em>30 Lectures, 29 videos and 6 hours of content</em></li><li>All art/sound assets</li><li>The finalized version of the Unity Project we are going to be creating</li></ul><p><strong>How is the course structured?</strong></p><p>This course is divided into 3 sections. </p><p>The first section is all about learning your way through the engine. In this section, I show you where to go to install the engine, go through the commonly used windows in the interface, and talk about terminology Unity Developers use on a day-to-day basis.</p><p>The second section is about creating the player's and all the enemies' behaviors in game. There are a total of 3 enemies (robots, laser fences, and security cameras).</p><p>The third section is about finalizing the environment by adding sounds and a few other things that bring the environment to life. In this section, we'll also be making a build of the application for use by the end user.</p><p><strong>What should you expect by the end of the course?</strong></p><p>By the end of the course, you will be armed with the knowledge necessary to feel confident/comfortable when using the engine for your own projects. Learning new things within the engine should be very easy at this point.</p><p><br></p><p><em>If you have any questions or concerns, feel free to contact me and I'll be happy to reply as soon as possible.</em></p><p><em><br></em></p><p><strong>Note: </strong><em></em>All videos where recorded in 1080p. In order to take advantage of this level of quality, make sure you have 1080p as the selected quality in the video player</p>", 
+    "end_date": null, 
+    "title": "Unity3D Made Simple: Master Fundamentals Quickly", 
+    "price": "20.00", 
+    "instructors": "Jose Mayi", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/584556_4b39_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-by-doing-unity3d/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-16T14:44:23Z"
+}

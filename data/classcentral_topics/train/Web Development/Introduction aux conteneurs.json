@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Le cloud computing apporte de nombreuses fonctionnalités au monde de l'informatique, pour l'utilisateur tout comme le développeur. Mais pour ce dernier, il introduit également des problématiques nouvelles, ou exacerbe celles déjà existantes, notamment en matière de durabilité des applications.\r\nCe cours en deux parties vous permettra de découvrir comment, dans un esprit très \"DevOps\", les conteneurs vont vous permettre d'optimiser le cycle de vie d'applications à l'échelle du cloud, en simplifiant la gestion de configuration, le déploiement, et le passage à l'échelle. Après une introduction à la notion de conteneur, nous présentons le fonctionnement de Docker, puis des conteneurs Windows qui seront disponibles dans Windows Server 2016. Ces notions sont illustrées par des démonstrations pratiques, grâce auxquelles vous pourrez saisir tout l'impact des conteneurs sur le développement.\r\nEnvie d'en savoir plus ? Alors rejoignez dès maintenant Stanislas Quastana et Pascal Sauliere, auteurs de ce cours, pour tout comprendre sur les conteneurs !\n\n                                    ", 
+    "end_date": null, 
+    "title": "Introduction aux conteneurs", 
+    "price": 0, 
+    "instructors": "", 
+    "institution_name": [
+        "Microsoft Virtual Academy"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://openclassrooms.com/courses/introduction-aux-conteneurs", 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "OpenClassrooms"
+    ], 
+    "start_date": "2016-04-01T00:00:00Z"
+}

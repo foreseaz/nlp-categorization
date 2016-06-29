@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t        This introductory course has been developed, and is presented by, Innes Borkwood, author of <em style=\"\">Learning Stencyl 3.x Game Development</em> (Packt Publishing, ISBN978-1-84969-596-1), currently the only published Stencyl book available in print and ebook formats.  </p>  <p style=\"\">  \t                     In this course, aimed at absolute beginners, you will learn how to install the free Stencyl game development toolkit, and create your first, simple, video game.  </p>  <p style=\"\">  \t                  This course is designed as an introduction to our more advanced game development course - and you&#039;ll receive a huge discount off the advanced course if you join this one!  </p>  <p style=\"\">  \t                     Everything you need is included with this course, and you can download Stencyl free of charge - no catches!  </p>  <p style=\"\">  \t                     Stencyl runs on Windows, Mac OS X and Linux computers.  </p>  <p style=\"\">  \t                     In this course you will learn how to:  </p>  <ul style=\"\">  \t<li style=\"\">Download and install Stencyl</li>  \t<li style=\"\">Load and test some sample games</li>  \t<li style=\"\">Examine the features of the game that we will create</li>  \t<li style=\"\">Create your own, simple game from scratch with no prior knowledge required</li>  \t<li style=\"\">Consider how to improve your first game</li>  \t<li style=\"\">Receive a <em style=\"\">huge</em> discount off our more advanced course</li>  \t<li style=\"\">... and more!</li>  </ul>  <p style=\"\">  \t                     Games created with Stencyl can be published on the Internet for free. The free version of Stencyl can also be used to create and test games for Apple iOS devices (iPhone / iPad) and Android devices.  </p>", 
+    "end_date": null, 
+    "title": "Create video games with Stencyl - an introduction", 
+    "price": 0, 
+    "instructors": "Innes Borkwood", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/311924_4690_2.jpg", 
+    "course_url": "https://www.udemy.com/create-video-games-with-stencyl-beginners/", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-02T03:58:46Z"
+}

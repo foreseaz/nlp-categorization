@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Packet Tracer is a powerful network simulator that can be utilized in training for Network certifications by allowing students to create networks with an almost unlimited number of devices and to experience troubleshooting without having to buy real Cisco routers or switches. The tool is created by Cisco Systems. The purpose of Packet Tracer is to offer students a tool to learn the principles of networking as well as develop Cisco technology specific skills. However, it is not be used as a replacement for Routers or Switches.<br></p><p>It can be downloaded for free if you have a Netacad account. As Cisco says, the best way to learn about networking is to do it. Hands-on equipment gets students started, but is limited to the number of devices in the lab. Furthermore, Educators use Packet Tracer to demonstrate complex technical concepts and networking systems. Students use Packet Tracer to complete assignments, working on their own or in teams. </p><p>As a network engineer, I used to simulate complex scenarios first on packet tracer and then deploy them on the real equipments. Please notice though, this course will not teach you networking, but rather let teach you how to simulate and apply your networking related knowledge.</p>", 
+    "end_date": null, 
+    "title": "Introduction to Cisco Packet Tracer Network Simulator", 
+    "price": "25.00", 
+    "instructors": "Gabriel Avramescu", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/560328_9db1_5.jpg", 
+    "course_url": "https://www.udemy.com/cisco-packet-tracer-network-simulator/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-21T10:52:55Z"
+}

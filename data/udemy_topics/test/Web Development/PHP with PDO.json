@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course you will learn to perform basic  transactions using PHP Data Objects. You will learn about SQL Injection Attacks and you learn to protect the application from these attacks using Prepared Statements.</p><p>You will learn to perform basic database operations like SELECT , UPDATE , INSERT , DELETE in a secure way using PHP Data Objects in PDO.</p><p><strong>Important Topics which will be covered :</strong></p><ul><li>Prepared Statements</li><li>SQL Injections(Attack and Secure)</li><li>Why to use PDO</li><li>How Prepared Statements work</li><li>Fetch Modes in PDO</li></ul>", 
+    "end_date": null, 
+    "title": "PHP with PDO", 
+    "price": 0, 
+    "instructors": "Danyal Fayyaz", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/798294_cab7_2.jpg", 
+    "course_url": "https://www.udemy.com/perform-secure-database-operations-using-pdo/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-19T21:50:20Z"
+}

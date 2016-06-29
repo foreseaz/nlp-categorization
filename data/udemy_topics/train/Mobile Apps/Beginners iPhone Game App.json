@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Course Description </strong></p><p>Learn how to make your own iPhone game to sell or distribute on the App Store!  <strong>No prior programming experience necessary</strong>.</p><p>Together we will walk through the entire process to create and submit a iOS game from scratch.  This starts with installing Xcode(no additional cost) so that we can build apps.  After building our game together, we will learn how to run ads in the game through Apple's iAd program so that you can easily make advertising revenue if you so choose.  </p><p>We will start with a crash course in coding basics for beginners to Apple's Swift language or beginners to coding altogether.  This will help introduce our coding environment to students, and the coding basics reviewed also translate very well to other languages and software development frameworks.</p><p><strong>This class is for:</strong></p><ul><li><strong>Beginners.</strong>  No coding experience is required.  This course is also ideal for those with coding experience but are unfamiliar with making iPhone apps in the Swift Language, or iOS developers who are new to using SpriteKit for making games.</li><li><strong>Entrepreneurs.</strong>  Have an idea for a game/app but don't want to pay thousands for a demo or first draft?  Build it yourself!</li><li><strong>T</strong><strong>hose who are not afraid to learn.</strong>  This course will get you from 0 to a deployed iPhone game.  If you want a solid starting base, and direction for future learning, this is the course for you!</li></ul><p><strong>Course Requirements:</strong></p><ul><li>Ideally a Mac computer running Mavericks, Yosemite, or El Capitan.  Non-Mac users have options that are not so straight forward, but possible.</li><li>Positive attitude that embraces learning and self-improvement.<span></span></li></ul>", 
+    "end_date": null, 
+    "title": "Beginners iPhone Game App ", 
+    "price": "20.00", 
+    "instructors": "Eric Schulz", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/661472_6329_5.jpg", 
+    "course_url": "https://www.udemy.com/swift-ios-total-beginners-guide-to-making-iphone-games/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-05T20:46:53Z"
+}

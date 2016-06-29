@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \tSD stands for Sales and Distribution. SD is one of the core modules of SAP. This course contains more than 30+ hours of videos demonstrating both the theory and hands-on on how to configure the major areas of SAP SD.  </p>  <p style=\"\">  \tIf you are from a Sales or Customer Service background and you want to enter into the functional consulting world of SAP, this is the module for you.  </p>  <p style=\"\">  \tThe course is structured into 3 parts  </p>  <ul style=\"\">  \t<li style=\"\">Part 1 - We will cover the most commonly used end user transactions - </li>  \t<li style=\"\">Part 2 - Here is where we will be learning about configuring and customizing SD </li>  \t<li style=\"\">Part 3 - We will conclude by learning about some real time scenarios, landscapes and project lifecycles. </li>  </ul>", 
+    "end_date": null, 
+    "title": "SAP SD Training", 
+    "price": "40.00", 
+    "instructors": "Siva Prasad", 
+    "commitment": "31.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/33002_458c_3.jpg", 
+    "course_url": "https://www.udemy.com/sap-sd-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-12-18T13:36:40Z"
+}

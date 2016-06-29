@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Back-end developer</strong>  </p>  <p style=\"\">  \t  Probablemente uno de los perfiles más solicitados por todas las empresas cuyo ámbito sea el desarrollo web. Prácticamente cualquier aplicación, web o sistema que funcione en Internet necesita un desarrollo de back-end.  </p>  <p style=\"\">  \t<strong style=\"\">PHP</strong>  </p>  <p style=\"\">  \t  Uno de los lenguajes más potentes y extendidos para desarrollo de aplicaciones back-end en el servidor. Rápido, completo yen plena evolución, no se puede dudar que formará parte del ecosistema web durante mucho mucho tiempo más.  </p>  <p style=\"\">  \t<strong style=\"\">MySQL</strong>  </p>  <p style=\"\">  \t  El motor de base de datos para web más sencillo y rápido que podemos instalar sin necesidad de grandes recursos, por algo es también el más utilizado en los servidores web.  </p>  <p style=\"\">  \t<strong style=\"\">Durante el curso veremos:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">Introducción a la programación web</li>  \t<li style=\"\">Fundamentos de PHP</li>  \t<li style=\"\">Variables, Tipos de datos y operadores</li>  \t<li style=\"\"><strong style=\"\">Manipulación de cadenas</strong></li>  \t<li style=\"\">Condiciones</li>  \t<li style=\"\">Bucles</li>  \t<li style=\"\">Funciones</li>  \t<li style=\"\">Arrays</li>  \t<li style=\"\"><strong style=\"\">Procesado de Formularios</strong></li>  \t<li style=\"\">Validar el input de usuario</li>  \t<li style=\"\">Manejo de Ficheros y directorios</li>  \t<li style=\"\"><strong style=\"\">Introducción a MySQL</strong></li>  \t<li style=\"\">Lenguaje SQL</li>  \t<li style=\"\">PHP y MySQL</li>  \t<li style=\"\">Crear una aplicación CRUD</li>  \t<li style=\"\">Sesiones y Cookies</li>  \t<li style=\"\">Objetos en PHP. Introducción a la POO</li>  \t<li style=\"\">Introducción a PEAR</li>  \t<li style=\"\">Debug de PHP</li>  \t<li style=\"\">Conceptos Avanzados</li>  \t<li style=\"\"><strong style=\"\">Frameworks para desarrollo PHP</strong></li>  </ul>  <p style=\"\">  \t  Visita también nuestros otros cursos si quieres continuar avanzando en tu formación:  </p>  <p style=\"\">  \t<strong style=\"\">Wordpress a fondo:</strong> <a href=\"https://www.udemy.com/wordpress-a-fondo/\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">https://www.udemy.com/wordpress-a-fondo/</a>  </p>  <p style=\"\">  \t<a href=\"https://www.udemy.com/programacion-web-con-php-y-mysql/\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\"></a>  </p>  <p style=\"\">  \t<strong style=\"\">Fundamentos de Javascript:</strong> <a href=\"https://www.udemy.com/aprende-javascript-desde-cero/\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">https://www.udemy.com/aprende-javascript-desde-cero/</a>  </p>  <p style=\"\">  \t<strong style=\"\">HTML5, CSS3 y Javascript:</strong> <a href=\"https://www.udemy.com/html5-css3-y-javascript/\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">https://www.udemy.com/html5-css3-y-javascript/</a>  </p>  <p style=\"\">  \t<strong style=\"\">Introducción a Google Adwords:</strong> <a href=\"http://cursos.hardcoconut.com/course/seminario-google-adwords/\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">http://cursos.hardcoconut.com/course/seminario-google-adwords/</a>  </p>", 
+    "end_date": null, 
+    "title": "Programacion web con PHP y MySQL", 
+    "price": "20.00", 
+    "instructors": "HardCoconut Formación, Alberto Aldao", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/70060_f992_7.jpg", 
+    "course_url": "https://www.udemy.com/programacion-web-con-php-y-mysql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-07-26T11:21:19Z"
+}

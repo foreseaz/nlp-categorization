@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>What is the course about?This course is all about how to build a web service that is extremely fast. It is based off two primary technologies: Nginx &amp; Varnish Cache. I will show you what the commands are to set one up on a Google could instance.What kind of materials are included?The commands taken will be provide as well as the github to build your on cdn interface. There will also be quizzes and more content in the futureHow long will the course take to complete?Currently the course should take you about 1 hour to watch and do everything. About another hour to set up your own set up on web service on google cloud.How is the course structured?This Course is structure to help taking you from not know how to set up your on web services to being able to set up your own. I will take it step by step to make sure you can repeat the process.Why take this course?Take this course if you want to learn how to set up your own server for you website , internally in your corporation or a new skill. This tech stack can make your response to user&#039;s extremely fast.</p>", 
+    "end_date": null, 
+    "title": "Setup Webserver (Nginx) & a Caching Server(Varnish)", 
+    "price": "20.00", 
+    "instructors": "Jason Humphrey", 
+    "commitment": "34 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/519626_5e9b_4.jpg", 
+    "course_url": "https://www.udemy.com/setupwebservernginxvarnish/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-03T21:43:36Z"
+}

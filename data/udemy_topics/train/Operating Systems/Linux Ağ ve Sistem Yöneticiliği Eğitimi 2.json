@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">Gelişen Bilişim sektöründe her geçen gün linux sistem yöneticileri ihtiyacı daha da artmakta ve önem arz etmektedir. Linux İşletim sistemleri ücretsiz olması nedeniyle daha az maliyet oluşturduğu için sunucu olarak tercih edilmektedir. Linux&#039;un tercih edilme nedenlerinden biri de Üreteceğiniz her hangi bir çözüm için ekstra herhangi bir lisans kısıtlaması ile uğraşmak zorunda kalmazsınız ve çalışan uygulamaların kaynak kodlarını inceleyebilirsiniz.</p><p style=\"\">Linux Yöneticisi olmak için bilinmesi gereken olmazsa olmaz konuları bu kurs içerisinde bulabilirsiniz. Anlartılan Tüm Konular videolarda bizzat uygulanmıştır. Ayrıca bütün konuların ayrıntılı dökümantasyonu mevcuttur. Bu kursu Aldığınıza kurstaki anlatılan konularla ilgili sorularınız cevaplanacaktır.Ayrıca Kursta işlenen konularla ilgili alıştırmalar cevapları ile birlikte eklidir.</p><p style=\"\">Tüm detaylı dökümanların bulunduğu forum sitemizden dökümanları inceleyebilirisiz.</p><p style=\"\">LINUX AĞ VE SİSTEM YÖNETİMİ 2 Kursu ile aşağıdaki konu başlıklarını öğrenebilirsiniz ve sorulara yanıt bulabilirsiniz.</p><ul style=\"\"><li style=\"\">IPTABLES</li></ul><p style=\"\">   İptables ile Linux Sunucunun Güvenlik Duvarı olarak Kullanılması</p><ul style=\"\"><li style=\"\">SSH</li></ul><p style=\"\"> Ssh ile daha güvenli kanallardan iletişim kurulması.</p><p style=\"\">ssh kurulumu,sıkılaştırılması , anahtar ile kimlik denetimi</p><ul style=\"\"><li style=\"\">TCPWRAPPERS</li></ul><p style=\"\"> Linux Sunucunun Daha güvenli hale gelmesi için tcpwrappers kullanımı</p><ul style=\"\"><li style=\"\">DHCP Server</li></ul><p style=\"\">Linux Sunucunun Dhcp Server olarak Kullanılması</p><ul style=\"\"><li style=\"\">DNS Server</li></ul><p style=\"\">Linux Sunucunun Dns Server olarak Kullanılması</p><ul style=\"\"><li style=\"\">POSTFIX &amp; DOVECOT &amp; ROUNDCUBE</li></ul><p style=\"\">Postfix Email sisteminin kurulumu</p><ul style=\"\"><li style=\"\">ZIMBRA EMAIL SISTEMI</li></ul><p style=\"\">Zimbra Email Sistemi Kurulması </p><ul style=\"\"><li style=\"\">APACHE</li></ul><p style=\"\">Apache server kurulumu , konfigurasyonu ve sıkılaştırılması</p><ul style=\"\"><li style=\"\">MYSQL SERVER</li></ul><p style=\"\">Mysql server Kurulumu, optimizasyonu</p><ul style=\"\"><li style=\"\">PHPMYADMIN,WEBMIN,WORDPRESS</li></ul><p style=\"\">Phpmydmin ile mysql yönetmi,Webmin ile sunucu yönetimi ve wordpress içerik yönetim sistminin kurulumu</p><ul style=\"\"><li style=\"\">FTP, NFS, SAMBA</li></ul><p style=\"\">Dosya transfer ve Paylaşımı</p><ul style=\"\"><li style=\"\">OPENLDAP(Dizin Servisleri) &amp; PHPLDAPADMIN</li></ul><div style=\"\">Opendlap Dizin servisi Kurulumu ve Phpldap ile yönetimi</div><ul style=\"\"><li style=\"\">MERKEZİ LOG SUNUCU KURULUMU </li></ul><div style=\"\">Logların Tek bir Merkezi Sunucuda Toplanması ve İmzalanması</div><ul style=\"\"><li style=\"\">SQUID PROXY(VEKİL) SUNUCU KURULUMU</li></ul><div style=\"\">Squid proxy sunucu kurulumu ve konfigurasyonu</div><p style=\"\"><br style=\"\"></p><p style=\"\"><br style=\"\"></p><p style=\"\"><br style=\"\"></p><p style=\"\"><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Linux Ağ ve Sistem Yöneticiliği Eğitimi 2", 
+    "price": "20.00", 
+    "instructors": "OS Information Security", 
+    "commitment": "12.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/450204_b60d_4.jpg", 
+    "course_url": "https://www.udemy.com/linux-ag-ve-sistem-yonetimi-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-18T11:17:24Z"
+}

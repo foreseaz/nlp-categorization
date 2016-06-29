@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>WordPress has revolutionized the way we build websites. No more tedious long coding practices, but rather you can now select or unselect the items you want on your website. The more complex the website, the simpler the codes.</p>\n\n<p>Although creating a website in today’s day and age has become easier, making it unique and different has become even more difficult. If you don’t want your website to become lost in the sea of websites, you will have to make it stand out.\n\n  </p>\n\n<p>WordPress Themes are one way you can do that, the more interactive and interesting your website is, the more attention it will garner. If you have a basic idea of how to code or know how write in PHP, HTML5 and CSS, well then this course can definitely get you started on your road to creating fantastic new themes for your next website.\n\n  </p>\n\n<p>The course will combine your basic knowledge of HTML 5, CSS and PHP and will show you how you use the different APIs and widgets from WordPress to create awesome new themes. The WordPress Themes course will cover functions such as PostLoop, Hook/Actions, Widgets, WP_Query, Theme Customizer API, and WordPress Frameworks such as Bootstrap, Foundation, Ink, Gridism and W3. \n\n  </p>\n\n<p>Not only will you learn the theory behind the technology, but you will also build 10 different themes also with the instructor. He will break down the each theme step by step, and will help you learn how to incorporate the different WordPress functions into your website to make it shine.\n\n  </p>\n\n<p>The 10 different projects will include: Simple Theme, Advance Theme, Photo Gallery, Wordstrap, Ecommerce Theme, Business Theme, Cleancut Theme, WPNews, FourCorners, and Dynamo Theme. \n\n  </p>\n\n<p>The first theme will cover the basic fundamentals such as how to write the syntax and create the file structure. Every theme after that will include more complex design principles and will use the functions mentioned above.\n\n  </p>\n\n<p>No more boring theory based learning, no lectures that drone on. Here’s a comprehensive lecture that will make learning fun again. You will not only learn, but actually have fun while learning. With these themes under your belt, you can become a WordPress theme master in no time!\n\n  </p>\n\n", 
+    "end_date": null, 
+    "title": "Learn To Create WordPress Themes By Building 10 Projects", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "16.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/857162_aa15.jpg", 
+    "course_url": "https://www.udemy.com/learn-to-create-wordpress-themes-by-building-10-projects/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-23T04:49:14Z"
+}

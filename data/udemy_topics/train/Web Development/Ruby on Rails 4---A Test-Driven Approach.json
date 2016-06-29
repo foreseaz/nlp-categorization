@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>*** Revisions with Rails 4.2 and RSpec 3 coming soon ***</p><p>  \t  This course teaches students how to write tests and use those tests to drive the development of Ruby on Rails applications (<strong style=\"\">Test-Driven development</strong> or <strong style=\"\">TDD</strong>). In the process, an electronic commerce (<strong style=\"\">e-commerce</strong>) application in the form of an <strong style=\"\">online bookstore</strong> will be developed to demonstrate many concepts in Rails.  </p>  <p>  \t  This course is for anybody who has <strong style=\"\">played around with Ruby on Rails</strong> but does not know how to do TDD. It is also ideal for people transitioning from other languages/frameworks. If you can write<strong style=\"\"> &quot;Hello World&quot;</strong> in Rails, you can take this course. Students should take this course to learn the valuable skill of TDD and move into the realm of professional software development.  </p>  <p>  \t  Test first development is a valuable skill that is required in the software development field. Even if you don&#039;t intend to become a professional programmer, the knowledge gained will make you a better programmer.  </p>  <p>  \t  Many introductory courses in Rails do not teach TDD. That is unfortunate because TDD is not all that difficult and the earlier one learns it the better. By taking this course, you will be well equipped to develop applications backed by tests.  </p>  <p>  \t  The course is project based and for this reason, students have to get their hands dirty and do all the practice exercises mentioned in the videos. The course covers writing authentication machinery from scratch, basic authorization, sending emails from the application. It also covers how to use secure random tokens to make the application more secure.  </p>  <p>  \t  Email and secure random token are used to craft a password resetting machinery to help users reset their passwords in a secure manner. Students will learn how to integrate credit card processing into their application and charge the customers.  </p>  <p>  \t  Students will also learn how to handle one-to-many and many-to-many relationships and, in the process learn how to handle nested-forms in Rails.  </p>  <p>  \t  Students who take this course will be well equipped to develop rock solid web applications in Rails. The course is over thirteen (13) hours long and it can take between two weeks and a month to complete depending on the student&#039;s learning style.  </p>", 
+    "end_date": null, 
+    "title": "Ruby on Rails 4---A Test-Driven Approach", 
+    "price": "20.00", 
+    "instructors": "Mashrur Hossain, Emmanuel Asante", 
+    "commitment": "19 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/382258_e57f.jpg", 
+    "course_url": "https://www.udemy.com/ruby-on-rails-4-a-test-driven-approach/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-01T17:06:17Z"
+}

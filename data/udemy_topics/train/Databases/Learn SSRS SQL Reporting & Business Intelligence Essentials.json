@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t      This is a fast-paced and in-depth course for Microsoft SQL Server Reporting Services (SSRS) designed to get you building your own great reports in no time.  This course will take you from the bare minimum basics all the way through advanced topics including:  </p>  <ul style=\"\">  \t<li>Tables</li>  \t<li>Matrices</li>  \t<li>Prompts</li>  \t<li>Parameters</li>  \t<li>Charts</li>  \t<li>Drill Throughs</li>  \t<li>Sub Reports</li>  \t<li>Gauges</li>  \t<li>Standard Deviation</li>  </ul>  <p>  \t      This course moves quickly to keep you interested but that doesn&#039;t mean skipping over important concepts or skimming details.  With <strong style=\"\">three hours of videos</strong> this course shows you everything you need to get the job done in the real world.  </p>  <p>  \t      The database we will be using focuses on a fictional consumer electronics store.  This database is simple and easy to understand without a lot of extra fluff.  But you&#039;ll be surprised at how many different types of reports you will be able to create.  </p>  <p>  \t      This course is hands-on.  It includes all the SQL code you need to build your own copy of the database used in the lectures.  It&#039;s OK if you aren&#039;t a SQL pro, the videos go line-by-line through all the queries and stored procedures used in the course.  With SQL code attached in the appropriate lectures, you&#039;ll be able to follow along at home.  </p>  <p>  \t      The course is broken out into 2 main sections:  </p>  <ol style=\"\">  \t<li>Database Setup - Explains the schema of the database, the data, the Stored Procedures, and other general back-end items.</li>  \t<li>SSRS - The main focus of the course, this section covers how to do all the important things to make great reports.  This includes not only making <strong style=\"\">functional</strong> reports, but also <strong style=\"\">useful </strong>reports.</li>  </ol>  <p>  \t      A small amount of SQL knowledge would be beneficial, but not strictly required for the course, as all SQL code is explained in the lectures.  </p>  <p>  \t      You should take this course if you are looking to improve your SSRS skill set and deliver reports that exceed your end-user&#039;s expectations.  </p>", 
+    "end_date": null, 
+    "title": "Learn SSRS SQL Reporting & Business Intelligence Essentials", 
+    "price": "20.00", 
+    "instructors": "William Belisle", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/295981_ddd6_6.jpg", 
+    "course_url": "https://www.udemy.com/exploring-ssrs-creating-great-reports/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-07T21:41:07Z"
+}

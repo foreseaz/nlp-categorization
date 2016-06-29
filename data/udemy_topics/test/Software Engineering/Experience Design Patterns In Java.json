@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Boost your software designs by taking this content-rich and hands on fully featured training course.</strong>  </p>  <p style=\"\">  \t             This course will give you <strong style=\"\">insight</strong> in the more than <strong style=\"\">20+ design patterns</strong> from the book &quot;Design Patterns: Elements of Reusable Object-Oriented Software&quot;, by Gamma, Helm, Johnson and Vlissides, which is considered the reference on the subject.  </p>  <p style=\"\">  \t             For each pattern <strong style=\"\">a clear example</strong> is given to understand the problem the pattern will solve, as well as its advantages and disadvantages. You will be able to <strong style=\"\">practically understand</strong> how the pattern works with the detailed <strong style=\"\">included Java lessons</strong>.  </p>  <p style=\"\">  \t             At the end of this course, you will be able to  </p>  <ul style=\"\">  \t<li style=\"\">Identify common problems in your code</li>  \t<li style=\"\">Apply the correct design pattern</li>  \t<li style=\"\">Talk with colleagues using a common vocabulary (and be a hero)</li>  \t<li style=\"\">Implement a better object oriented solution that is a lot more maintainable and readable</li>  </ul>  <p style=\"\">  \t<strong style=\"\">- All of the video lectures are download-enabled</strong><strong style=\"\">.</strong><br style=\"\">  \t       If you have a slow internet connection, or want to take this course with you on your laptop, smartphone or other portable device, sign up and download all the videos and other course materials now.  </p>  <p style=\"\">  \t<strong style=\"\">Sign up now to get lifetime access to this course. With Udemy&#039;s 30-day money-back guarantee, it&#039;s risk-free.</strong>  </p>", 
+    "end_date": null, 
+    "title": "Experience Design Patterns In Java", 
+    "price": "25.00", 
+    "instructors": "Stijn De Mulder", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/145470_cdaa_6.jpg", 
+    "course_url": "https://www.udemy.com/experience-design-patterns/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-11T08:10:50Z"
+}

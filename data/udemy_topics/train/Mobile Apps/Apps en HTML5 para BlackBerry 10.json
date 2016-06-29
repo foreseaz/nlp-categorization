@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong style=\"\">¿Te pasó que llegaste tarde cuando salió la App Store y la Google Playstore?</strong>  </p><p style=\"\">  \t<strong style=\"\">Que no te pase de nuevo! Sé tú uno de los pioneros en la nueva plataforma BlackBerry 10 que saldrá a la luz muy pronto!</strong>  </p>  <p style=\"\">  \t   Este curso te guiará en el desarrollo de una app completa para BlackBerry 10, paso a paso. La app que desarrollaremos será una app de &quot;Time Tracking&quot; para profesionales independientes que necesitan contabilizar su tiempo.  </p>  <p style=\"\">  \t   El curso sigue la misma metodología que ha convertido a nuestros otros cursos en productos exitosos y <strong style=\"\">muy valorados</strong> por la comunidad de Udemy.  </p>  <p style=\"\">  \t   Algunos temas que incluye el curso:  </p>  <ul style=\"\">  \t<li>Instalación del SDK, el emulador Ripple, y todo lo que necesitas para empezar.</li>  \t<li>Interfaces de usuario profesionales con la librería oficial bbUI js</li>  \t<li>Navegación en tu app con Action Bars.</li>  \t<li>Crea apps sólidas siguiendo el Namespace Pattern.</li>  \t<li>Formularios, DropDowns, ImageList y otros elementos de la GUI.</li>  \t<li>Guarda la información en el teléfono con Local Storage.</li>  \t<li>Prepara tu app para publicarla en el App World.</li>  </ul>", 
+    "end_date": null, 
+    "title": "Apps en HTML5 para BlackBerry 10", 
+    "price": 0, 
+    "instructors": "Pablo Farias Navarro", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/32563_f965_4.jpg", 
+    "course_url": "https://www.udemy.com/apps-de-blackberry-10/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-12-13T19:05:02Z"
+}

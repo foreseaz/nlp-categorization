@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Zurb Foundation is one of the most diffused best performing front-end design frameworks out there.</p><p style=\"\">Dealing with browser compatibility, media queries, style consistency, and effective layouts could be a huge pain today, but Foundation comes to the rescue. With minimal effort, it allows you to create a production ready, responsive website or is a great starting point for a highly customized project.</p><p style=\"\">Building a Responsive Site with Zurb Foundation will show you every major aspect of the framework, as well as general best practices and workflow tips, guiding you through the process of creating a live mock-up for a photography website. Every video will introduce some of Foundation&#039;s features and will use them to enhance the website in order to provide a practical experience with all the topics.</p><p style=\"\">The course begins with an empty folder, where we&#039;ll install the Zurb Foundation framework and will start adding new pages and enhancements to cover all the key aspects of the framework itself.</p><p style=\"\">We begin our journey by explaining why there is a need for a framework, how to set up a modern working environment, and how to scaffold a new project with Zurb Foundation. We&#039;ll then immediately introduce some responsive design key concept as well as the advantages of a mobile-first approach and how Foundation helps us with these scenarios.</p><p style=\"\">As we advance through the course, we&#039;ll introduce all the major aspects of the framework, translating them in working code for our website. We are going to deal with navigation techniques as well as typography, content elements, and forms. As we come to an end, we&#039;ll emphasize how to deal with media elements in a responsive environment, trying out different approaches to effectively show image galleries both on desktop and mobile.</p><p style=\"\">Through the whole course, we&#039;ll witness some general best practices such as using a semantic mark-up using SASS and how to optimize our work for deployment. Finally, we&#039;ll cover some JavaScript elements, showing how Foundation helps us introduce some dynamism on our website with nearly no programming knowledge.</p><p style=\"\">At the end of the course, you will have the skills to create responsive websites starting from scratch by making use of all the Foundation elements</p><p style=\"\"><strong style=\"\">About the Author</strong></p><p style=\"\"><strong style=\"\">Andrea Moretti</strong> is a freelance developer. He has worked on various websites using Zurb Foundation Framework as well as big web application projects where Foundation is used side to side with other technologies. He is an active open source contributor and is actually maintaining Foundation templates for static site generator such as Middleman and Docpad.</p><p style=\"\">He teaches JavaScript and PHP at Fusolab 2.0 in Rome and is an active member of the RomaJS JavaScript user group. He&#039;s passionate about beautiful code, functional programming, syntactic sugar, and sugar-free chocolate.</p><p style=\"\">He is also a photographer and photo assistant, having worked on assignments for the major Italian magazines as well as luxury hotels, art galleries, Italian textile firms, big corporations, and food-related events.</p>", 
+    "end_date": null, 
+    "title": "Building a Responsive Site with Zurb Foundation", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/546582_6843_3.jpg", 
+    "course_url": "https://www.udemy.com/building-a-responsive-site-with-zurb-foundation/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-06T10:59:05Z"
+}

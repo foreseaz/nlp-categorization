@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>The hardest part about databases is that there is a huge mountain of knowledge needed before even beginning to understand how to design and create them.  It doesn't have to be this way.  This course will take you from knowing nothing about databases to being able to decisively design relationships between tables.   Now, if you're a beginner, <strong>you might be asking...\"What are database relationships and why do they matter?\"</strong>  The answer is simple, <strong>every database is built off the fundamentals of database relationships.</strong><br></p>  <p>  \t      If you want to really understand what a database is, how it works, and how to design your very first set of database tables, this course is for you.  </p>  <p>  \t    Every lecture is taught in an easy to follow method using on-screen illustrations, drawings, and examples.   This course will bring you to a level of understanding that will allow you to develop skills quickly and use them at home, in school, and even in the work setting.  These are practical skills.  The skills learned in this course are skills that can help you get a job in IT or Database design.  </p>  <p>  \t    Do you want even better news?  These skills are <strong>easy</strong>.  No more confusion, no more fright, no more being a step behind everybody else in database technology.  Here is just some of the information you will learn in this course:  </p>  <ul>  \t<li>The basics of databases - what they are, how they work, and how they structure data.</li>  \t<li>Data management - How do we keep millions of pieces of information organized and up-to-date?</li>  \t<li>Data structure - How do we organize data so that our database is protected from anomalies?</li>  \t<li>How to structure the three types of relationships between tables - one-to-one, one-to-many, and many-to-many.  Each with practical examples.</li>  </ul>  <p>  \t    I didn't create this course to sell you something that's going to waste your time.  I created this course because I have a passion for databases and I love teaching in a fun way.  <strong>This course is <em>fun</em>, easy to follow, and worth every penny.  </strong><br>  </p>", 
+    "end_date": null, 
+    "title": "Database Relationships", 
+    "price": "20.00", 
+    "instructors": "Caleb Curry", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/373590_19a5_4.jpg", 
+    "course_url": "https://www.udemy.com/database-relationships/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-19T01:25:14Z"
+}

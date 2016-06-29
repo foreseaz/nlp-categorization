@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In Master Google Apps Device Management, you will learn what every Google Apps administrator must know to effectively configure and support Chromebooks, cloud printers, tablets and mobile devices. </p><p>The session begins with quick wins: Chromecast and cloud printing. From there, you will discover the admin console's ability to be a powerful mobile device manager. The strategic issues of disabling, enabling or enforcing policies are discussed along with recommendations for the right approach. From there, you will learn the differences between the sync tools and decide which ones you will activate for your domain.</p><p>Chromebooks have made a major impact on education due to their ease of setup and management. Learn the best practices to deploy and support with over 150 policies. Gain advice on which policies to set depending on the intended use: 1:1, cart or staff. Powerwash, wipe and recover Chromebooks and learn when to deprovision and disable. </p><p>The class is not textbook learning! It's written from the real world perspective from technicians and trainers who manage thousands of Google Apps for Education devices every day.<br></p><p>This session is an excellent additional study guide for becoming certified as a Google Apps administrator.</p>", 
+    "end_date": null, 
+    "title": "Master Google Apps Device Management", 
+    "price": "50.00", 
+    "instructors": "John Meixner", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/612684_b763_3.jpg", 
+    "course_url": "https://www.udemy.com/master-google-apps-device-management/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-15T12:26:39Z"
+}

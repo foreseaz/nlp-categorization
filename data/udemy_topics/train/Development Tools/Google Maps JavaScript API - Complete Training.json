@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>Maps make websites more useful; they can help users find businesses and areas of interest, get directions, or gain insights into new communities. In this course, learn to add interactive maps to your websites with Google Maps JavaScript API v3. Narayan Prusty first shows you how to set up the tools and get an API key. After an introduction to presenting simple maps with the JavaScript, the course describes how to set a map&#039;s initial state, switch between different map types, work with map markers, draw shapes, and work with zoom controls, the My Location button, and Much more. </span>  </p>  <p>  \tTopics include:  </p>  <ul style=\"\">  \t<li>Setting up the developer tools</li>  \t<li>Adding required permissions</li>  \t<li>Getting a Google Maps API key</li>  \t<li>Setting a map&#039;s initial state</li>  \t<li>Geocoding an address</li>  \t<li>Adding map markers</li>  \t<li>Handling marker events</li>  \t<li>Drawing lines, polygons, and circles</li>  \t<li>Adding maps to existing apps</li>  </ul>", 
+    "end_date": null, 
+    "title": "Google Maps JavaScript API - Complete Training", 
+    "price": "20.00", 
+    "instructors": "QScutter Tutorials", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/248026_bed0_2.jpg", 
+    "course_url": "https://www.udemy.com/google-maps-javascript-api-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-22T08:28:14Z"
+}

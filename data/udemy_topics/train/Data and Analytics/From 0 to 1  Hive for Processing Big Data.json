@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">Prerequisites: </strong>Hive requires knowledge of SQL. The course includes and SQL primer at the end. Please do that first if you don't know SQL. You'll need to know Java if you want to follow the sections on custom functions. </p>\n\n<p><strong class=\"redactor-inline-converted\">Taught by</strong> a 4 person team including 2 Stanford-educated, ex-Googlers  and 2 ex-Flipkart Lead Analysts. This team has decades of practical experience in working with large-scale data. <br></p>\n\n\n\n<p><strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\"> Hive is like a<strong class=\"redactor-inline-converted\"> new friend with an old face (SQL). This course is an end-to-end, practical guide to using Hive for Big Data processing. </strong></em></strong></p>\n\n\n\n<p><strong>Let's parse that </strong></p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">A new friend with an old face: </strong>Hive helps you leverage the power of Distributed computing and Hadoop for Analytical processing. It's interface is like an old friend : the very SQL like HiveQL. This course will fill in all the gaps between SQL and what you need to use Hive. </p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">End-to-End: </strong>The course is an end-to-end guide for using Hive:  whether you are analyst who wants to process data  or an Engineer who needs to build custom functionality or optimize performance - everything you'll need is right here. New to SQL? No need to look elsewhere. The course  has a primer on all the basic SQL constructs, . </p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">Practical: </strong>Everything is taught using real-life examples, working queries and code . </p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">What's Covered: </strong></p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Analytical Processing:</strong> Joins, Subqueries, Views, Table Generating Functions, Explode, Lateral View, Windowing and more</p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">Tuning Hive for better functionality: </strong>Partitioning, Bucketing, Join Optimizations, Map Side Joins, Indexes, Writing custom User Defined functions in Java. UDF, UDAF, GenericUDF, GenericUDTF,  Custom functions in Python,  Implementation of MapReduce for Select, Group by and Join</p>\n\n\n\n<p><strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">For SQL Newbies: SQL In Great Depth</em></strong></p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\"></em></strong></p>\n\n<p><strong>Talk to us!</strong></p>\n\n\n\n<ul><li>Mail us about anything - <strong>anything!</strong> - and we will always reply :-)</li></ul>\n\n<p><strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\"><br></em></strong></p>", 
+    "end_date": null, 
+    "title": "From 0 to 1: Hive for Processing Big Data", 
+    "price": "20.00", 
+    "instructors": "Loony Corn", 
+    "commitment": "15 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/857298_e6aa_2.jpg", 
+    "course_url": "https://www.udemy.com/from-0-to-1-hive/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-23T08:38:36Z"
+}

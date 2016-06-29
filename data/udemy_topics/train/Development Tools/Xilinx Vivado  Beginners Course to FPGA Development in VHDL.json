@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\"></strong><br></p><p>Do you want to learn the new Xilinx Development Environment called Vivado Design Suite?  Are you migrating from the old ISE environment to Vivado? Or are you new to FPGA's? This course will teach you all the fundamentals of the Vivado Design Suite in the shortest time so that you can get started developing on FPGA's. </p>\n\n\n\n<p>Now why should you take this course when Xilinx Official Partners already offer training? Most of their course are held bi-annually which means you will have to wait at most 6 months before starting the basic training. Also these courses can cost over thousands of dollars. </p>\n\n\n\n<p>This course is designed to help you design, simulate and implement HDL code in Vivado through practical and easy to understand labs. You will learn all the fundamentals through practice as you follow along with the training. Together we will build a strong foundation in FPGA Development with this training for beginners. This Course will enable you to:</p>\n\n\n\n\n\n\n\n\n\n<ul><li>Build an effective FPGA design.</li><li>Use proper HDL coding techniques</li><li>Make good pin assignments</li><li>Set basic XDC constraints</li><li>Use the Vivado to build, synthesize, implement, and download a design to your FPGA.</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Training Duration:</strong></p>\n\n\n\n\n\n\n\n<p>1 hour<br></p>\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Skills Gained</strong></p>\n\n\n\n\n\n\n\n\n\n<p>After Completing this Training, you will know how to:</p>\n\n\n\n\n\n<ul><li>Design for 7 series+ FPGAs</li><li>Use the Project Manager to start a new project</li><li>Identify the available Vivado IDE design flows (project based)</li><li>Identify file sets such as HDL, XDC and simulation</li><li>Analyze designs by using Schematic viewer, and Hierarchical viewer</li><li>Synthesize and implement a simple HDL design</li><li>Build custom IP cores with the IP Integrator utility</li><li>Build a Block RAM (BRAM) memory module and simulate the IP core</li><li>Create a microblaze processor from scratch with a UART module</li><li>Use the primary Tcl Commands to Generate a Microblaze Processor</li><li>Describe how an FPGA is configured.</li></ul>\n\n\n\n<p><br></p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Skills Gained</strong></p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">This course only costs less than 1% of the Official XIlinx Partner Training Courses</strong> which has similar content. Not only will you save on money but you will save on Time. Similar courses usually run over 2 days. This course, however, you will be able to complete in under an hour, depending on your learning speed. </p>\n\n\n\n\n\n<p>You will receive a verifiable certificate of completion upon finishing the course. We also offer a full Udemy 30 Day Money Back Guarantee if you are not happy with this course, so you can learn with no risk to you.<br></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>See you inside this course.</p>", 
+    "end_date": null, 
+    "title": "Xilinx Vivado: Beginners Course to FPGA Development in VHDL", 
+    "price": "20.00", 
+    "instructors": "Ritesh Kanjee", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/825766_1c69_9.jpg", 
+    "course_url": "https://www.udemy.com/learn-fpga-xilinx-vivado-design-suite-training-in-under-1-hour-vhdl/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-19T06:29:23Z"
+}

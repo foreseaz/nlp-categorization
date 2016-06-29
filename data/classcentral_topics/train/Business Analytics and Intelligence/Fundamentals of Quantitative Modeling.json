@@ -1,0 +1,28 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Business Analytics and Intelligence"
+    ], 
+    "description": "\n\n                    \n                    \n                    How can you put data to work for you? Specifically, how can numbers in a spreadsheet tell us about present and past business activities, and how can we use them to forecast the future? The answer is in building quantitative models, and this course is designed to help you understand the fundamentals of this critical, foundational, business skill. Through a series of short lectures, demonstrations, and assignments, you’ll learn the key ideas  and process of quantitative modeling so that you can begin to create your own models for your own business or enterprise. By the end of this course, you will have seen a variety of practical commonly used quantitative models as well as the building blocks that will allow you to start structuring your own models. These building blocks will be put to use in the other courses in this Specialization.\n\n                                            Syllabus\n                        Module 1: Introduction to ModelsIn this module, you will learn how to define a model, and how models are commonly used. You’ll examine the central steps in the modeling process, the four key mathematical functions used in models, and the essential vocabulary used to describe models. By the end of this module, you’ll be able to identify the four most common types of models, and how and when they should be used. You’ll also be able to define and correctly use the key terms of modeling, giving you not only a foundation for further study, but also the ability to ask questions and participate in conversations about quantitative models.Module 2: Linear Models and OptimizationThis module introduces linear models, the building block for almost all modeling. Through close examination of the common uses together with examples of linear models, you’ll learn how to apply linear models, including cost functions and production functions to your business. The module also includes a presentation of growth and decay processes in discrete time, growth and decay in continuous time, together with their associated present and future value calculations. Classical optimization techniques are discussed. By the end of this module, you’ll be able to identify and understand the key structure of linear models, and suggest when and how to use them to improve outcomes for your business. You’ll also be able to perform present value calculations that are foundational to valuation metrics. In addition, you will understand how you can leverage models for your business, through the use of optimization to really fine tune and optimize your business functions.\n\nModule 3: Probabilistic ModelsThis module explains probabilistic models, which are ways of capturing risk in process. You’ll need to use probabilistic models when you don’t know all of your inputs. You’ll examine how probabilistic models incorporate uncertainty, and how that uncertainty continues through to the outputs of the model. You’ll also discover how propagating uncertainty allows you to determine a range of values for forecasting. You’ll learn the most-widely used models for risk, including regression models, tree-based models, Monte Carlo simulations, and Markov chains, as well as the building blocks of these probabilistic models, such as random variables, probability distributions, Bernoulli random variables, binomial random variables, the empirical rule, and perhaps the most important of all of the statistical distributions, the normal distribution, characterized by mean and standard deviation. By the end of this module, you’ll be able to define a probabilistic model, identify and understand the most commonly used probabilistic models, know the components of those models, and determine the most useful probabilistic models for capturing and exploring risk in your own business.Module 4: Regression ModelsThis module explores regression models, which allow you to start with data and discover an underlying process. Regression models are the key tools in predictive analytics, and are also used when you have to incorporate uncertaintyexplicitly in the underlying data.  You’ll learn more about what regression models are, what they can and cannot do, and the questions regression models can answer. You’ll examine correlation and linear association, methodology to fit the best line to the data, interpretation of regression coefficients, multiple regression, and logistic regression. You’ll also see how logistic regression will allow you to estimate probabilities of success. By the end of this module, you’ll be able to identify regression models and their key components, understand when they are used, and be able to interpret them so that you can discuss your model and convince others that your model makes sense, with the ultimate goal of implementation.\n                                    ", 
+    "end_date": "2016-07-11T00:00:00Z", 
+    "title": "Fundamentals of Quantitative Modeling", 
+    "price": 0, 
+    "instructors": "Richard Waterman", 
+    "institution_name": [
+        "University of Pennsylvania", 
+        "Wharton School of the University of Pennsylvania"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Business & Management"
+    ], 
+    "course_url": "https://www.coursera.org/learn/wharton-quantitative-modeling", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-13T00:00:00Z"
+}

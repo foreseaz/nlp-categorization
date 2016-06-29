@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Katmanlı mimari yapısı genel olarak tüm şirketlerin kullandığı bir yapıdır. Her şirketin kendine göre bir yazılım mimarisi vardır. </p><p style=\"\">Yazılım geliştirmeye başlarken mimariyi size nesne tabanlı programlama ve veritabanı işlemleri ile öğretmeye çalışıyoruz. </p><p style=\"\">Bu kurs ile birlikte Ado .Net ile Sql Server veritabanı kullanarak sorgu işlemleri yapmayı, kayıt işlemlerini yapmayı öğreneceğiz.</p><p style=\"\">Veritabanı işlemlerini Visual studio üzerinde Windows form application uygulaması yaparak anlatmaya çalışacağız. Windows form application hakkında temel anlamda bilgi vermiş olacağız. Böylelikle görsel anlamda bir yazılım yapma kavramı anlaşılmış olacak.</p><p style=\"\">Nihai süreçte bir proje düşünüp bunu yazılıma dökme düşüncesi oluşacak. Sonuç olarak masaüstü uygulama geliştirmeyi size katmanlı mimari ile anlatarak öğretmiş olacağız.</p>", 
+    "end_date": null, 
+    "title": "C# ile Katmanlı Mimari Öğren : Ado .Net ile WinForm", 
+    "price": 0, 
+    "instructors": "Ercan Ayhan", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/522046_0346.jpg", 
+    "course_url": "https://www.udemy.com/1-saatte-c-sharp-ile-katmanli-mimari-ogren/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-06T16:25:23Z"
+}

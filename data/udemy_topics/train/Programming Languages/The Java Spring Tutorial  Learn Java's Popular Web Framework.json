@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t      An introduction to the widely-used Java Spring framework. Discover how to wire together your Java objects using Spring and dependency injection. You'll learn how to set up your system for Spring development, how to use Maven, and how to work with databases using Spring and Hibernate and how to create web applications with Spring MVC. We'll also look at managing user accounts with Spring Security,JDBC, working with web forms, Apache tiles for building modular web pages, aspect-oriented programming (AOP) and using Log4J and JUnit.  </p>", 
+    "end_date": null, 
+    "title": "The Java Spring Tutorial: Learn Java's Popular Web Framework", 
+    "price": "35.00", 
+    "instructors": "John Purcell", 
+    "commitment": "28 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/65830_9629_3.jpg", 
+    "course_url": "https://www.udemy.com/javaspring/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-07-16T09:19:46Z"
+}

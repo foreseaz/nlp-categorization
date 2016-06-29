@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tThis course will teach you how to create G-Code so you can control CNC machines. This is very useful if you are a machinist or want to be a DIY and create what ever you can imagine in your own garage.  You will be given material to teach you the basics and watch tutorials of G-Code applied to real parts. This course will use CNC simulators so you can see what the code you create actually does.  The course will provide you with the materials necessary to turn drawings into the code required to make it a physical part.  </p>", 
+    "end_date": null, 
+    "title": "CNC Programming with G Code for Beginners", 
+    "price": 0, 
+    "instructors": "Brian Apodaca", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/86656_5460_7.jpg", 
+    "course_url": "https://www.udemy.com/cnc-programming-for-beginners/", 
+    "subject_name": [
+        "Other Programming"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-01T09:14:57Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>This is about Rotoscopy in production. How stereo conversions and VFX vendors do roto.</p><p>You'll learn how to avoid issue with roto animation like wobbling in shapes and depth roto.</p><p>Students who complete this course will have knowledge to rotoscope complex shots for VFX and Stereo Conversion.</p><p>You will learn tips and trick that will get your roto to the next level.</p><p>You’ll learn how to work in production environment by organizing your shapes in groups and strong naming convention. And also how to roto native stereo plates those plate shoot with stereo camera. Also see common issues with stereo roto.</p><p>You’ll learn how 2d tracking can help you with moving shots and also planar tracking.</p><p>You’ll also learn roto on native plates and how you can save time by copying one eye animation.</p>", 
+    "end_date": null, 
+    "title": "Art of Rotoscoping ", 
+    "price": "30.00", 
+    "instructors": "Abhimanyu Tanwar", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/674216_57a3_2.jpg", 
+    "course_url": "https://www.udemy.com/art-of-rotoscoping/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-19T08:18:44Z"
+}

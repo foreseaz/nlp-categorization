@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>If You have strong desire to create videogames but you dont know anything about programming and doesn't know where to start</p><p><span></span>then this course will help you and for anyone who wants to build beautiful and attractive videogames</p><p>and become an independent videogame developer and also earn some extra income.</p><p>In this course we cover Unity GameEngine which is Powerful and easy to use compeletly Free Environment</p><p>for design and developing 2D and 3D Games for windows/Mac/iOs/Android and many more platforms</p><p>First we cover introduction to the basics of <strong>Unity Javascript programming concepts</strong> using Animated video and 2D Graphics</p><p>i use animated video and 2d graphics because \" A picture is worth a thousand words \",and most of people understand quickly from</p><p>animated videos instead of plain words and this techniques will really help you if you are new to programming world.</p><p>Next, i explain in detail about unity GameComponents and gameobjects what they are &amp; how exactly they work</p><p>After that we jump on</p><p>1st game project \"<strong>Rock-Paper-Scissor</strong>\" or \"<strong>Ro-Sham-bo</strong>\"</p><p>in which we cover lots of basic concepts of Unity Javascript game programming</p><p>*take player input using different function</p><p>*create win logic and many more</p><p>2nd we create 3D Game \"<strong>Kick Ball In Ring</strong>\"</p><p>its a beautiful 3D game in which you need to shoot Football in Rings,in this project we cover lots of concepts like</p><p>*what is Invoke function &amp; how it work in Unity Javascript?</p><p>*what is Coroutine and how it work in Unity Javascript?</p><p>*save player score using player prefs</p><p>*Basics working of serialization and deserialization in Unity Javascript through Graphics</p><p>*Xml technique to save player scores</p><p>*learn how to create Blast effect using Particle system through scratch</p><p>and many many more</p><p>3rd we create <strong>2D side scrolling game</strong></p><p>*understand 2d game programming</p><p>*what is 2D raycasting?</p><p>*2d projectile fire concepts</p><p>*and many more</p><p>4th we create 2D Top-Down \"<strong>Space-Shooter-Game</strong>\"</p><p>in which we learn</p><p>*what is screen wrap effect</p><p>*how asteroids waves are generated using Invoke function</p><p>*and many many more</p>", 
+    "end_date": null, 
+    "title": "Powerful Unity JavaScript Everything You Need To Know ", 
+    "price": "20.00", 
+    "instructors": "Mrunal Dhurwe", 
+    "commitment": "27.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/462194_1e39_2.jpg", 
+    "course_url": "https://www.udemy.com/unity-javascript-basic-to-advance-project-base-learning/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-29T17:29:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>This course will teach you about DesktopServer and how to use it to set up a web server environment on your Windows PC or Mac so that you can work with WordPress locally.</strong></p><p>This is not a course that teaches you how to do WordPress development or WordPress web design, but it is ideal for anyone that is a WordPress developer or web designer, or even just someone who want to play around and become familiar with WordPress without having the hassle of buying a domain and hosting. </p><p>This course shows you exactly how to quickly and easily create a local environment where you can... </p><ul><li><strong>Do all of your work, without the need for a web hosting environment</strong></li><li>Work with, or learn, WordPress locally</li><li><strong>Work on client sites away from the live environment</strong></li><li>Design, develop, and test in a secure and private environment</li><li><strong>Safely run old versions of WordPress without the risk of getting hacked, infected, or compromised</strong></li><li>Make changes - without the risk of breaking the live site</li><li><strong>Put security in place BEFORE your website online</strong></li></ul><p>In addition, you'll learn how to create template sites, pre-populated with your essential plugins and theme that you can use as a starting point for any new site you build. Just click a button and have the site built for you!</p><p>DesktopServer comes in two versions, free, and paid. This course takes you through how to use <strong>BOTH</strong> the paid and free versions to work with and move your sites between the online hosted environment and the local PC/Mac environment.</p><p> The example site used in the course is a real site that is under development for a client, and the course had been created by someone who has been actively using WordPress since it's very first release in 2003.</p><p>This is the quickest and simplest way to work with WordPress offline that I know of, and is used by numerous WordPress professionals around the world.</p><p>Just click on the blue button that says 'Take this course', and remember, it's entirely risk free!<br></p>", 
+    "end_date": null, 
+    "title": "DesktopServer : Install WordPress Locally  - Work Anywhere!", 
+    "price": "20.00", 
+    "instructors": "Chris O'Connor", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/631472_ef22_3.jpg", 
+    "course_url": "https://www.udemy.com/desktopserver/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-05T16:23:26Z"
+}

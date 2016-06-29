@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p><strong style=\"\"><em style=\"\">R Programming for Simulation and Monte Carlo Methods</em></strong> focuses on using R software to program probabilistic simulations, often called Monte Carlo Simulations. Typical simplified \"real-world\" examples include simulating the probabilities of a baseball player having a 'streak' of twenty sequential season games with 'hits-at-bat' or estimating the likely total number of taxicabs in a strange city when one observes a certain sequence of numbered cabs pass a particular street corner over a 60 minute period. In addition to detailing half a dozen (sometimes amusing) 'real-world' extended example applications, the course also explains in detail how to use existing R functions, and how to write your own R functions, to perform simulated inference estimates, including likelihoods and confidence intervals, and other cases of stochastic simulation. Techniques to use R to generate different characteristics of various families of random variables are explained in detail. The course teaches skills to implement various approaches to simulate continuous and discrete random variable probability distribution functions, parameter estimation, Monte-Carlo Integration, and variance reduction techniques. The course partially utilizes the Comprehensive R Archive Network (CRAN) <strong style=\"\">spuRs </strong>package to demonstrate how to structure and write programs to accomplish mathematical and probabilistic simulations using R statistical software.</p>", 
+    "end_date": null, 
+    "title": "R Programming for Simulation and Monte Carlo Methods", 
+    "price": "20.00", 
+    "instructors": "Geoffrey Hubona, Ph.D.", 
+    "commitment": "11.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/591114_e452.jpg", 
+    "course_url": "https://www.udemy.com/r-programming-for-simulation-and-monte-carlo-methods/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-23T16:16:35Z"
+}

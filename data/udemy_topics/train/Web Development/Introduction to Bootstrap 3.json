@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t    This course is an introduction to Bootstrap 3 new features and how it is different from the Bootstrap 2. The videos covering components are short and to the topic including examples and sample code. All the sample projects are hosted on github and available to you any time. I hope that you can enjoy the great features that Bootstrap 3 has to offer just like I did when I started working with this amazing framework almost a year ago.  </p>", 
+    "end_date": null, 
+    "title": "Introduction to Bootstrap 3", 
+    "price": "20.00", 
+    "instructors": "Amin Meyghani", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/98140_852b_8.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-bootstrap-3/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-27T02:35:58Z"
+}

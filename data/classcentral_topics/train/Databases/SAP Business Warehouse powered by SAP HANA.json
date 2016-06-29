@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Databases"
+    ], 
+    "description": "\n\n                    \n                    \n                    SAP Business Warehouse (BW) continues to serve as a powerful data warehouse to consolidate data, harmonize master data and provide flexible reporting scenarios. Introducing SAP HANA as database underneath SAP BW was a major breakthrough in various core areas for data warehousing. With the combination of a rich data warehousing application and a fast in-memory database, we’ve seen architectural simplification, performance improvements and new modelling experiences.\r\nThe course will introduce the renewed concepts and possibilities when SAP BW is powered by SAP HANA. We’ll introduce the major guiding points and semantics of a data warehouse and demonstrate them in a business scenario, directly in the system. You will learn and experience the latest developments, with SAP BW 7.4 powered by SAP HANA, as well as opportunities for real-time data integration and agile data modelling. We will demonstrate what it means to consume the data via a data warehouse and show you how SAP HANA helps to speed up data analysis. We’ll also introduce the planning capabilities based on SAP BW, which is a unique combination of reporting and planning on the same platform.\r\nThe registration, learning content, final exam, and the Record of Achievement are free of charge.\r\nTarget Audience\r\n\r\nConsultants\r\nImplementation experts\r\nArchitects\r\nDevelopers\r\n\r\nCourse Requirements\r\n\r\nA basic understanding of data warehousing\r\nIt is preferable to have pre-basic SAP BW knowledge.\r\nYou should have already walked through the openSAP course ABAP Development for SAP HANA, since some concepts will be shared and further developed.\r\n\n\n                                            Syllabus\n                        \r\nWeek 1: SAP BW powered by SAP HANA – Intro\r\nWeek 2: Data Integration &amp; Management\r\nWeek 3: Data Consumption &amp; Analysis\r\nWeek 4: Planning &amp; Lifecycle Management\r\nI Like, I Wish: We Love Your Feedback … And Want More\r\nFinal Exam: Good Luck!\r\n\n                                    ", 
+    "end_date": "2016-05-11T00:00:00Z", 
+    "title": "SAP Business Warehouse powered by SAP HANA", 
+    "price": 0, 
+    "instructors": "Marc Hartz", 
+    "institution_name": [], 
+    "commitment": "4-6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://open.sap.com/courses/bwhana1-1", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "openSAP"
+    ], 
+    "start_date": "2016-04-06T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t  Data security is as important as ever, and the industry-wide move to cloud-based infrastructure comes with its own requirements and concerns.  </p>  <p>  \t  Throughout this course, expert author David Miller will teach you how to secure and maintain your IT assets in the cloud. You will start by learning how to secure the infrastructure, including risk assessment and management, sensitive data, and data classification. From there, David will show you how to prepare for cloud use, including web app security, security as a service, and security controls. This video tutorial also teaches you about the cloud services agreement, and what you should consider including in your cloud services agreement. Finally, you will learn how to stay secure in the cloud and maintain your IT assets securely. Once you have completed this computer based training course, you will be fully capable of securing your own IT assets in the cloud.  </p>", 
+    "end_date": null, 
+    "title": "Securing Cloud Services", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/375826_0581_4.jpg", 
+    "course_url": "https://www.udemy.com/securing-cloud-services/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-22T20:47:52Z"
+}

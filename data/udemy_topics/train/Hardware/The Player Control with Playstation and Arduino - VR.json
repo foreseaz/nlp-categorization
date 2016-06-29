@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Virtual reality is technology of future. As a developer if you want to produce something this set is for you. Using the Arduino, we're going to learn to control body movement of Playstation 3 football players</p>\n\n<p><strong>Note: My mother tongue is Turkish that's why i have tried to express this work as far\nas i can in English.</strong><br></p>\n\n\n\n\n\n\n\n\n\n<p><strong><em>Comoponents Required:</em></strong></p>\n\n\n\n\n\n\n\n\n\n\n\n<ul><li><strong>Playstation 3 Joystick (sixaxiss) and Playstation Console</strong></li><li><strong>LSM9DS1 IMU Sensor - Sparkfun</strong></li><li><strong>ADXL335 Accelerometer - Sparkfun</strong></li><li><strong>CD4066 Digital Relay IC</strong></li><li><strong>Arduino Uno/Mega</strong></li><li><strong>Led,Button,Resistor,Breadbord,Band,Bandage,Jumper Wires,Multiple Wires,TV</strong></li></ul>\n\n\n\n\n\n<p>I will teach you step by step how to go about building this project. I will also share the code with you so that you can replicate the project yourself.</p>", 
+    "end_date": null, 
+    "title": "The Player Control with Playstation and Arduino - VR", 
+    "price": "20.00", 
+    "instructors": "Veysel Koparal", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/798288_e8ae_3.jpg", 
+    "course_url": "https://www.udemy.com/virtual-reality-with-arduino/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-19T21:40:52Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t   This course is designed to teach people in a workshop format how to plan and load test a enterprise web application. The objectives of this course is to make you understand the complete load testing life cycle: Creating scripts to simulate real life workflows, Developing multiuser workload scenario, Running tests on production quality hardware, Analyzing results . Working through a series of self paced video tutorials, you will learn to develop a workable strategy for load testing of an enterprise learning management system.  </p>", 
+    "end_date": null, 
+    "title": "Load Testing Using HP LoadRunner 12", 
+    "price": "25.00", 
+    "instructors": "Mentors Net", 
+    "commitment": "11 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/268298_d130_2.jpg", 
+    "course_url": "https://www.udemy.com/loadrunner12/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-24T20:52:35Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Ethical hacking is testing the IT resources for a good cause and for the betterment of technology. This training will establish your understanding of all the fundamental concepts, processes, and procedures.. You will spend time concentrating on each knowledge area, and studying the tools and techniques, inputs, and outputs associated with each knowledge area.</p><p>In the pre-assessment quiz you'll face questions from all sections of this Ethical Hacking training. Test your current knowledge and know your strengths and weaknesses.</p><p>In Introduction to Ethical Hacking, you will be introduced to various concepts on ethical hacking. You will receive an introduction to the basics of Risk Management and Disaster Recovery. As well as an introduction to Penetration Testing.</p><p>You will gain a comprehensive understanding of vulnerability assessment and the tools used in this process. What kind of security measures do you take to protect your facilities, equipment, resources, personnel, and property from damage caused by unauthorized access? In this course, Physical Security, these are questions that we will be answering. Footprinting is the gathering of information related to a particular computer and its users and systems.</p><p>Reconnaissance is an exploration that is conducted to gain information. Network scanning is the scanning of public or private networks to find out which systems are running, their IP addresses, and which services they are running. In Port Scanning, you will learn how ports can be scanned, how a hacker can break into your network through the ports, and the countermeasures you can take to protect your device or network.</p><p>Banner grabbing is a technique used to grab information about computer systems on a network and the services running its open ports. In this course you will be introduced to enumeration and the many different uses it has in computer systems. This course will include demos on the different tools and uses of enumeration. In this course you will be learning the fundamentals of Linux. We will be pairing this course with demos with a more in-depth look into some of the fundamentals and tools of Linux.</p><p>Pentesting is an attack on a system in hopes of finding security weaknesses. In the course Configuring Linux for Pentesting, you will be learning the steps to configure Linux for pentesting and tools used for pentesting on a Linux system. Whenever we login to a computer system, we provide information to identify ourselves. We refer to this as authentication. Ensure that you know everything involved in securing a Windows system against attack. During this course you'll get into Windows passwords — how they're created, how they're stored, and different methods used to crack them.</p><p>You will take a good look at spyware, the activities it performs, different types of spyware, and the countermeasures needed in order to prevent hackers from utilizing these types of techniques against your company. You will also spend time studying different types of keyloggers. There are three different types of keyloggers that we see used in today's environments: hardware, software, and kernel/driver keyloggers. Covering Tracks will be going over various ways that attackers have at their disposal to cover any tracks that may lead to their unwanted eviction, or worse yet, to an audit trail that would lead directly back to them. Trojans and Backdoors is the course where our software is going to be going undercover.</p><p>You will discover what viruses and worms are and how they can infect computers and systems. Sniffers is our course where we take a look at Network Sniffing. Social engineering is the art of extorting employees for information.</p><p>Become familiar with the following concepts: denial-of-service, distributed denial-of-service, and how the denial-of-service and distributed denial-of-service attacks take place. In the course Session Hijacking, you will learn details about session hijacking, well-known techniques employed by aggressors, the steps involved in session hijacking, various types of session hijacking, tools for hijacking sessions, ways you can protect yourselves from session hijacking, and how pentesting can be used to identify vulnerabilities. Hacking Web and Application Servers, is a course that will give you a good idea about vulnerabilities and attacks available for web servers and web applications. In our course our course Advanced Exploitation Techniques, you will learn what advanced exploitation techniques are and how you can use them in your penetration testing.</p>", 
+    "end_date": null, 
+    "title": "Ethical Hacking,Python and Linux Combo course", 
+    "price": "20.00", 
+    "instructors": "Vishal Patel", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/771562_8538_4.jpg", 
+    "course_url": "https://www.udemy.com/ethical-hacking-and-linux-combo-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-23T10:51:51Z"
+}

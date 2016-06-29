@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>\"I knew nothing about Selenium, Eclipse or even Java before I started this course. Now I feel confident I can take what I've learned and practice it in the working environment. Hoping more videos come soon. The teacher is very knowledgable.\" - <em>Peter Kirby</em></strong></p><p>Selenium WebDriver is one of the hottest skills a person can learn today.  If you learn Selenium and this suite of tools you will be key to any team. In learning these skills you can be the person to deliver Continuous Integration to your team.</p><p><strong>Continuous Integration is still not achieved in most companies today, and in this course you will learn the suite of tools that provide just that functionality.</strong> </p><p>Being a tester is one of the most important and rewarding jobs a person can imagine.  Being an Automated Tester is 1 up from that.  Imagine the mundane way that people feel every day running the same exact tests day in and day out from a test manual.  Selenium removes the need for that to ever happen again.  In this course you will learn the skills necessary to make you a key role in any company. We use Udemy as the website you are testing against so we know we are testing against something at a enterprise level.  </p><p>In this course we talk about</p><ol><li>Selenium WebDriver 2.0</li><li>JUnit</li><li>Maven </li><li>FireBug</li><li>FirePath</li></ol><p>And even more tools to help you get to the next level as a tester almost immediately. Having an automated tester changed my life and made releasing my application almost instant.</p><p>Enroll with confidence! Your enrollment is backed by Udemy's 30-day, no-questions-asked, money-back guarantee!</p>", 
+    "end_date": null, 
+    "title": "Selenium Mastery: Apply What You Learn Here Today By RicherU", 
+    "price": "20.00", 
+    "instructors": "Rico Rodriguez", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/487154_aeba_9.jpg", 
+    "course_url": "https://www.udemy.com/selenium-webdriver-20-a-beginners-guide-to-selenium/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-27T02:19:38Z"
+}

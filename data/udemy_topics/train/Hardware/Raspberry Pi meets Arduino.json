@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p> <strong>This is an advanced level course on Arduino.</strong> This course is designed for advanced makers. We’ll help you to get started with the basics of creating circuits with the Arduino and Arduino Mega prototyping board. <strong>We will show how a Raspberry Pi and Arduino can communicate with each other.</strong>  By the end of this course, you would have built Security Systems and Access Control with Arduino using Keypad 4x4 and an Employee entry system using Arduino and RFID sensor.</p>    <p>The prerequisite for this course is a basic understanding of electrical and electronic concepts and ability to download and install software on your computer. Along the way, you will learn about programming, sensors, and communications.</p>    <p>The course split into three parts:<br></p>    <p><strong><u>Project 1:</u></strong> In this project, we will teach you how to communicate a message from the Arduino to the Raspberry Pi and  vice-versa using a USB serial cable.</p>    <p><strong><u>Project 2:</u></strong> In this project, we teach you how to build an employee entry system using Arduino and RFID sensor module. This project is designed to record the employee details, date and time in PLX-DAQ Spreadsheet to monitor the time and date of entry and exit.</p>    <p><strong><u>Project 3:</u></strong> This is a security related project. We’ll show you how to make a keypad combination lock. In the project, keypad security system and access control with Arduino can change the combination without reprogramming the Arduino.</p>  <p>If learning by making sounds like the way to go, then this course is for you!</p><p>RFID tags are used for everything from credit cards and passports to inventory control and door locks. Everyone should know more than a thing or two about them. With this course, you'll be able to learn how to read, \"spoof\" and use RFID in both standard and creative ways. Their ubiquitous nature and how little an average citizen knows about them also makes for great science fair and educational projects.</p><p>To explain RFID, we can use a key and lock analogy. Instead, of the key having a unique pattern, RFID keys hold a series of unique numbers that are read by the lock. It is up to our Arduino sketch to determine what happens when the lock reads the number. The key is the tag, card or another small device we carry around or have in our life. We will be using a passive key, which is an integrated circuit and a small aerial. It uses power from a magnetic field associated with the sensor. <br></p><p>If you are a technology enthusiast and want to learn the cutting-edge technology, then this is the right course for you.</p>    <p>I will teach you step by step how to go about building this project. I will also share the code with you so that you can replicate the project yourself.</p>    <p>At the end of the course, you'll be fully familiarized with Arduino and ready to build your electronic security system. I look forward to you joining this course. It provides the complete source code of the real time project.</p>    <p>What are you waiting for? Enroll now!</p>", 
+    "end_date": null, 
+    "title": "Raspberry Pi meets Arduino", 
+    "price": "20.00", 
+    "instructors": "Venkatesh Varadachari, Kamesh Dkr", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/719262_de62_2.jpg", 
+    "course_url": "https://www.udemy.com/raspberry-pi-meets-arduino/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-07T06:13:18Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<ul style=\"\">  \t<li style=\"\">This course is a step by step tutorial where you will learn how to use yeoman to speed up your three.js workflow.</li>  </ul>  <p style=\"\">  \t After taking this course you will be able to:  </p>  <ul style=\"\">  \t<li style=\"\">Create a Nyancat in WebGl, starting from nothing and</li>  \t<li style=\"\">Get to know Three.js , if you don&rsquo;t know it already and all the cool 3D games you can do with this technology</li>  \t<li style=\"\">Get to know yeoman and it&rsquo;s tools: bower for packaging, grunt for automatic tasks  and yo for Scafolding</li>  \t<li style=\"\">Generate a three.js Boilerplate.</li>  \t<li style=\"\">Install any of the threex extensions and use that in your own games. There are 32 of them as of today. All free for you to use.</li>  \t<li style=\"\">Combine three x and yeoman and understand how they work together</li>  </ul>  <p style=\"\">  \t The idea behind this course is to help you become a creator. You will be able to develop your own WebGL demos. I believe that everybody is capable of creating web 3D. I believe that if you&rsquo;re motivated enough you can learn how to use the elements I will teach during this course to develop your own 3D creation.  </p>  <p style=\"\">  \t Why this course?  </p>  <ul style=\"\">  \t<li style=\"\">I will take you through the demo-making process step by step. We will create a Nyancat together using yeoman, an effort from Google that is worth the time to learn. It will be simple and smooth. It will be fun all while learning real skills and tools to help you develop your own WebGl demos.</li>  \t<li style=\"\">You will learn Three.js, a new leading-edge technology that starts to be hot and deployed worldwide.</li>  \t<li style=\"\">You will see and code practical applications of Three.js extensions on 3D demos and mini-games.</li>  \t<li style=\"\">You will be able to reproduce everything you learn during the course in your own computer. It is easy to learn and easy to use!</li>  </ul>  <p style=\"\">  \t Bonuses:  </p>  <ul style=\"\">  \t<li style=\"\">You will learn to develop a cool WebGl demo in 3D. You can surprise your family, friends and colleagues with your creations.</li>  \t<li style=\"\">It will be fun! I will show you my off-beat demos. Plus, you will be able to use my code and modify it however you want!</li>  \t<li style=\"\">I encourage motivated developers and anybody interested in 3D to to contact me. I would love for you to share your passion, your ideas and your skills. Also, don&rsquo;t hesitate to give me feedback and to tell me what you think of this course. </li>  </ul>", 
+    "end_date": null, 
+    "title": "Yeoman for Three.js", 
+    "price": 0, 
+    "instructors": "Jerome Etienne", 
+    "commitment": "34 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/148342_a013_9.jpg", 
+    "course_url": "https://www.udemy.com/yeoman-for-threejs/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-17T14:10:15Z"
+}

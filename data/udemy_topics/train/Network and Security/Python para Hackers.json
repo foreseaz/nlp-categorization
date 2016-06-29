@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Python é uma das linguagens mais utilizadas no mundo pela sua facilidade, praticidade e recursos.</p>\n\n<p>Nesse curso você irá aprender Python com foco em segurança computacional. O curso possui uma introdução a programação com Python e aborda o módulo scapy que é uma poderosa ferramenta em Python para manipulação de pacotes.</p>\n\n<p>Are you ready?</p>", 
+    "end_date": null, 
+    "title": "Python para Hackers", 
+    "price": "30.00", 
+    "instructors": "Marcos Castro, Weidsom Nascimento", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/863112_b31e_9.jpg", 
+    "course_url": "https://www.udemy.com/python-hackers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-29T20:30:10Z"
+}

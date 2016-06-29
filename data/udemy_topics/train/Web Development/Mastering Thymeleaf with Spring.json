@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Thymeleaf is a highly popular templating engine to use with Spring MVC to produce rich, and dynamic web pages. Unlike other options available for Java and Spring, Thymeleaf has a natural templating language - meaning you can view the templates right in your favorite browser. Try doing that with JSP!</p><p>In this course I will take you step by step in building an ecommerce like web application using Thymeleaf, Spring MVC, and Spring Boot. The focus of the course is on building web content with Thymeleaf. While, Spring MVC and Spring Boot are used, these subjects are not the core focus of the course. </p><p>The course starts off by building a couple simple web pages using HTML5 and Bootstrap CSS. I show you how to convert these HTML5 documents into Thymeleaf templates. We then use the Spring Framework for internationalization and dynamic content. I show you how to use Thymeleaf fragments to produce HTML for common components. We cover how to display Spring MVC validation messages via Thymeleaf. The course concludes with using the Thymeleaf extension for Spring Security to show, or not show, content depending on if the user is logged in.</p>", 
+    "end_date": null, 
+    "title": "Mastering Thymeleaf with Spring", 
+    "price": "20.00", 
+    "instructors": "John Thompson", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/736250_6218_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-thymeleaf-with-spring/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-21T01:35:35Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>額外贈送課程</strong></p><p>除原本13個單元外，新增結合臉書功能單元，敬請支持。</p><p><strong>課程說明</strong></p><p>電腦補習班上萬元的課程，現在低於一千元，本堂課共有13個單元，讓你從完全不會程式語言，到安裝開發App所需的軟體，程式基礎，圖片函數，如何開發第一個音樂鼓App，將你開發的App安裝到實體手機或平板上，不論是Android手機/平板或是iOS(iPhone/iPad)皆可，教導申請App開發者帳號，將App上架，最後還有增加廣告到App、多國語言化，擁有完整連貫的教學，讓你上完這13個單元，就可以讓全世界的人在Google Play或App Store下載你親自開發的App。<br></p><p><strong>怎麼開發跨平台App？</strong><br></p><p>本課程使用Corona SDK軟體，好處是寫好一次程式碼，就可以同時開發出Android和iOS跨平台App，讓你一次在兩個App商店(App Store和Google Play)賺錢，Corona SDK是專門為2D遊戲設計出來的開發軟體，強調易學，開發速度快，免費，最重要的是它非常適合一個人開發App使用。</p><p><strong>適合報名年紀</strong><br></p><p>Bubble Ball遊戲App，是由一位14歲的小男生使用Corona軟體開發，曾經打敗App Store排行榜第一名的Angry Bird，長達兩個星期。</p><p>Dabble則是由84歲老爺爺開發出來的拼字遊戲App。<br></p><p>現在你還覺得年紀很重要嗎?還在擔心開發App只有工程師可以做到嗎?你要擔心的問題是自我成長基金夠不夠報名此課程。<br></p>", 
+    "end_date": null, 
+    "title": "利用Corona SDK開發跨平台手機遊戲App(繁體中文)(幣別:美元)", 
+    "price": "30.00", 
+    "instructors": "Huang Leo", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/758396_85ea_2.jpg", 
+    "course_url": "https://www.udemy.com/coronasdkapp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-10T13:45:34Z"
+}

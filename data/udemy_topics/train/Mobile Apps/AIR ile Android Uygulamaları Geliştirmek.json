@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Bu eğitim içerisinde, Adobe Flash kullanılarak, Android uygulamaları geliştirmenin yolları anlatılmaktadır.</p><p>Adobe Flash ile geliştirdiğiniz mobil uygulamayı tek seferde hem Android hemde iOS için çıktı alabilirsiniz. Bu iki platform için uygulama geliştirmek istediğinizde ciddi bir zaman kazancı sağlayacaktır.</p><p>Eğitim içerisinde 9 bölüm bulunmaktadır.</p><p>1. Bölüm:<br>Genel olarak android ve AIR, android uygulama paket dosyası olan APK,  ve Android SDK hakkında bilgiler içermektedir.</p><p>2. Bölüm:<br>Bu bölümde, AIR runtime bilgisi.  Uygulamanızı test edebilmeniz için gereken Android cihazınızı bilgisayarınıza USB üzerinden bağlama işlemleri. Yeni proje oluşturmak , sertifika işlemleri ve projeniz ile ilgili en temel ayarlar hakkında detaylı bilgiler içermektedir.</p><p>3. Bölüm:<br>Bu bölüm de oryantasyon , ekranlar ve çözünürlükler hakkında bilinmesi gereken bilgileri vermektedir.</p><p>4. Bölüm:<br>Android cihazlardaki fiziksel tuşların kullanımı hakkında bilgiler içermektedir.</p><p>5. Bölüm:<br>Mobil cihazlar için uygulama geliştiriyorsanız bilinmesi gereken dokunma, çoklu dokunma, zoom yapma, taşıma v.b. etkileşim yapılarını bu bölümde ayrıntılı olarak bulabilirsiniz.</p><p>6. Bölüm:<br>Bu bölüm içerisinde, cihazın fiziksel sensörü olan heraket sensörü ile iletişim kurmak, verileri almak ve işlemek için gerekli bilgiler sunulmaktadır.</p><p>7. Bölüm<br>Bu bölüm içerisinde, coğrafi konum bilgisi olan GPS verilerini almak işlemek gibi bilgiler bulunmaktadır.</p><p>8. Bölüm:<br>Mobil cihazlar üzerinde videolar ile nasıl çalışılır konularının cevabını bu bölüm içerisinde bulabilirsiniz. Ayrıca stream video kullanma hakkında da bilgiler edinebilirsiniz.</p><p>9. Bölüm:<br>Bu bölüm içerisinde ses ile ilgili birçok bilgiye ulaşmanız mümkündür. Mikrofona ulaşmak, ses kayıt etmek, kayıtlı sesi çalmak, ses dosyasını kayıt etmek gibi konular bulunmaktadır. Bu bölümde anlatılan konular bir örnek üzerinde sunulmuştur.</p>", 
+    "end_date": null, 
+    "title": "AIR ile Android Uygulamaları Geliştirmek", 
+    "price": "20.00", 
+    "instructors": "Ersin Sengul", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/703676_308b.jpg", 
+    "course_url": "https://www.udemy.com/air-ile-android-uygulamalar-gelistirmek/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-22T09:56:38Z"
+}

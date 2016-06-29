@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<ul style=\"\">  \t<p>  \t\t This course will walk you through the basics of an Oracle Database. The course material is all videos with a duration of just over two hours long. The course is structured in a very easy to follow way and also logical.  \t</p>  \t<p>  \t\t This course is a fast and easy way to know about the basics of an oracle database.  \t</p>  \t<p>  \t\tThis course walks you through some database concepts and includes the following  \t</p>  \t<ul style=\"\">  \t\t<p>  \t\t\t·Data Types and Constraints  \t\t</p>  \t\t<p>  \t\t\t·View and Dual Tables  \t\t</p>  \t\t<p>  \t\t\t·ERD  (Entity Relationship Diagram)  \t\t</p>  \t\t<p>  \t\t\t·SQL  \t\t</p>  \t\t<p>  \t\t\t·Operators  \t\t</p>  \t\t<p>  \t\t\t·SQL SUB Languages  \t\t</p>  \t\t<p>  \t\t\t·Sample Oracle Database Installation  \t\t</p>  \t\t<p>  \t\t\t·Viewing ,limiting and sorting data from an oracle database  \t\t</p>  \t</ul>  </ul>", 
+    "end_date": null, 
+    "title": "Learn Oracle Database:  Become an oracle database administra", 
+    "price": "20.00", 
+    "instructors": "Skill Tree", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/252762_ebfd_4.jpg", 
+    "course_url": "https://www.udemy.com/oracle-easy-to-follow-beginners-guide/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-29T21:58:23Z"
+}

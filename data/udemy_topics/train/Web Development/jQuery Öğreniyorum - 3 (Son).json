@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>JSON Nedir? Ajax Nedir? JSON Nasıl Nasıl Parse Edilir? AJAX arkasındaki teknolojiler nelerdir?  </span><span>jQuery Kodlarını Compress Boyutunu azalmaya </span><span>kadar uzanan gerçek hayat örneklerini bularak kalıcı öğrenmeyi sağlayacak ve hayatınız boyunca sıkıntıya girmeyeceğiniz bir eğitimin üçüncü bölümüdür.</span>  </p>  <p>  \tjQuery eğitimini üç bölüme ayırdım. Bu üç bölümü tamamladığınızda, kendinizde tekrar ederek ve üzerinde çalışarak artık jQuery ile ilgili web geliştirme süreçlerinde herhangi bir sorun yaşamayacaksınız.  </p>", 
+    "end_date": null, 
+    "title": "jQuery Öğreniyorum - 3 (Son)", 
+    "price": "20.00", 
+    "instructors": "Mahmut Can Sözeri", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/268580_9b08_2.jpg", 
+    "course_url": "https://www.udemy.com/sifirdan-profesyonel-jquery-ogreniyorum-3-son-gorsel-egitim-jquery/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-25T11:44:51Z"
+}

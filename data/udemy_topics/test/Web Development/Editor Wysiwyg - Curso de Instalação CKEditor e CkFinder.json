@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t   Neste curso você vai aprender a utilizar, instalar e configurar o Editor CKEditor, um dos melhores e mais completos editores wysiwyg da web.  </p>  <p>  \t   Ensinarei como adicionar o Plugin CkFinder &quot;Demo&quot; porém totalmente funcional em seu CkEditor.  </p>", 
+    "end_date": null, 
+    "title": "Editor Wysiwyg - Curso de Instalação CKEditor e CkFinder ", 
+    "price": "20.00", 
+    "instructors": "Dante Daniel Testa", 
+    "commitment": "36 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/121166_a575_6.jpg", 
+    "course_url": "https://www.udemy.com/ckeditor/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-17T13:50:16Z"
+}

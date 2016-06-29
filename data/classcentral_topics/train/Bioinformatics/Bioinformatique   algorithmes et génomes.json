@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Bioinformatics"
+    ], 
+    "description": "\n\n                    \n                    \n                    Dans ce cours, nous verrons comment l’informatique permet d’interpréter le texte des génomes. Doté d’algorithmes adaptés, mis en œuvre sous forme de programmes efficaces, l’ordinateur produit des prédictions quant à la localisation des milliers de gènes d’un organisme vivant et les fonctions que remplissent les protéines qu’ils codent.\r\nVous n’êtes pas biologiste ? Ce cours vous apportera les connaissances nécessaires à la compréhension des entités et phénomènes biologiques impliqués : cellule, chromosome, ADN, génome, gènes, transcription, traduction, code génétique, protéines, tous ces termes et d’autres encore vous seront expliqués dans ce contexte de l’interprétation des génomes par des moyens informatiques.\r\nVous n’êtes pas informaticien ? Ce cours se veut simultanément une introduction à l’algorithmique sur des séquences de caractères. Recherche de motifs, similarité de séquences, chaînes de Markov, reconstruction d’arbres phylogénétiques. Les algorithmes de base impliqués dans ces démarches seront présentés.\r\nVous n’êtes ni biologiste, ni informaticien ? Ce cours est une opportunité pour aborder conjointement la génomique et l’algorithmique, ou si vous préférez, l’algorithmique et la génomique…\r\nNOUVEAU dans cette session : grâce à un outil dédié (notebooks iPython), vous aurez la possibilité de faire exécuter les algorithmes présentés et d’apprécier ainsi leur pertinence sur des données réelles. Et si vous souhaitez aller encore plus loin, cet outil vous permettra de modifier les programmes écrits en Python qui mettent en œuvre les algorithmes, voire d’en écrire de nouveaux et de les tester.\n\n                                            Syllabus\n                        Semaine 1 : ADN et séquences génomiquesSemaine 2 : Gènes et protéinesSemaine 3 : Prédiction des gènesSemaine 4 : Comparaison de séquencesSemaine 5 : Arbres phylogénétiques\n                                    ", 
+    "end_date": "2016-06-13T00:00:00Z", 
+    "title": "Bioinformatique : algorithmes et génomes", 
+    "price": 0, 
+    "instructors": "Thierry Parmentelat and François Rechenmann", 
+    "institution_name": [
+        "Inria (French Institute for Research in Computer Science and Automation)"
+    ], 
+    "commitment": "2 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.fun-mooc.fr/courses/inria/41003S02/session02/about", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "France Université Numerique"
+    ], 
+    "start_date": "2016-05-09T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p><strong><em>Bayesian Computational Analyses with R</em></strong> is an introductory course on the use and implementation of Bayesian modeling using R software. The Bayesian approach is an alternative to the \"frequentist\" approach where one simply takes a sample of data and makes inferences about the likely parameters of the population. In contrast, the Bayesian approach uses both likelihood functions and a sample of observed data (the 'prior') to estimate the most likely values and distributions for the estimated population parameters (the 'posterior'). The course is useful to anyone who wishes to learn about Bayesian concepts and is suited to both novice and intermediate Bayesian students and Bayesian practitioners. It is both a practical, \"hands-on\" course with many examples using R scripts and software, and is conceptual, as the course explains the Bayesian concepts. All materials, software, R scripts, slides, exercises and solutions are included with the course materials. It is helpful to have some grounding in basic inferential statistics and probability theory. No experience with R is necessary, although it is also helpful.</p><p>The course begins with an introductory section (12 video lessons) on using R and R 'scripting.' The introductory section is intended to introduce RStudio and R commands so that even a novice R user will be comfortable using R. Section 2 introduces the Bayesian Rule, with examples of both discrete and beta priors, predictive priors, and beta posteriors in Bayesian estimation. Section 3 explains and demonstrates the use of Bayesian estimation for single parameter models, for example, when one wishes to estimate the most likely value of a mean OR of a standard deviation (but not both). Section 4 explains and demonstrates the use of \"conjugate mixtures.\" These are single-parameter models where the functional form of the prior and post are similar (for example, both normally distributed). But 'mixtures' imply there may be more than one component for the prior or posterior density functions. Mixtures enable the simultaneous test of competing, alternative theories as to which is more likely. Section 5 deals with multi-parameter Bayesian models where one is estimating the likelihood of more than one posterior variable value, for example, both mean AND standard deviation. Section 6 extends the Bayesian discussion by examining the estimation of integrals to estimate a probability. Section 7 covers the application the Bayesian approach to rejection and importance sampling and Section 8 looks at examples of comparing and validating Bayesian models.</p>", 
+    "end_date": null, 
+    "title": "Bayesian Computational Analyses with R", 
+    "price": "20.00", 
+    "instructors": "Geoffrey Hubona, Ph.D.", 
+    "commitment": "11.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/616072_2b5d_5.jpg", 
+    "course_url": "https://www.udemy.com/bayesian-computational-analyses-with-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-18T19:25:20Z"
+}

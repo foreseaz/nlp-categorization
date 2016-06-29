@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>PHP is a server side scripting language which is used to create web applications and dynamic websites, but the procedural PHP is no longer useful in terms of creating highly professional and easy to manage large web applications. Therefore, the OOP (Object Oriented Programming) is now the core part of PHP, and this course is all about learning OOP in PHP. </p><p><strong>PHP OOP Basics Explained </strong></p><p>In the first chapter of this course, you'll learn the very basic concepts of OOP in PHP, this includes all the classes, methods, functions, magic functions and techniques which are frequently used while creating web applications using PHP OOP. </p><p><strong>Projects using PHP OOP </strong></p><p>After learning the basics, in the next chapters, you'll learn creating projects using PHP OOP, the first project will be about creating a registration form, and the last and big project will be the complete Content Management System (CMS) with an Admin Panel. </p><p><strong>Course Materials and Structure </strong></p><p>The content of this course is mostly video lectures, but along with the video lectures, you'll also get the source files which will be attached to each lecture, so you can use them to practice yourself and create the projects. </p>", 
+    "end_date": null, 
+    "title": "PHP OOP & PDO with Projects For Beginners", 
+    "price": "20.00", 
+    "instructors": "Abdul Wali", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/781664_66f0_3.jpg", 
+    "course_url": "https://www.udemy.com/php-oop-web-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-04T00:34:27Z"
+}

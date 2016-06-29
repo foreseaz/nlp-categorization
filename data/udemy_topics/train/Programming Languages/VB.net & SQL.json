@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t <strong style=\"\">Visual Basic &amp; SQL program</strong>  </p>  <p>  \t   Database program storing information of training center  </p>  <ul style=\"\">  \t<li>Internal (Employee &amp; Instructors).</li>  </ul>  <ul style=\"\">  \t<li>All Courses Data.</li>  </ul>  <ul style=\"\">  \t<li>Active Courses with all its information:</li>  </ul>  <p>  \t<em style=\"\">Dates , Duration &amp; Students</em>  </p>  <p>  \t   Administrator can block and unblock students for certain time interval.  </p>  <p>  \t   Each video lecture have its source code.<br style=\"\">  \t   This course will give you solid understanding of using SQL- Server Database with VB.net application.  </p>  <p>  \t - This Course will Take 5 hours For average user.  </p>", 
+    "end_date": null, 
+    "title": "VB.net & SQL", 
+    "price": "25.00", 
+    "instructors": "Mohamed Saad", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/124876_4468_13.jpg", 
+    "course_url": "https://www.udemy.com/arabic-vb-project/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-25T02:06:34Z"
+}

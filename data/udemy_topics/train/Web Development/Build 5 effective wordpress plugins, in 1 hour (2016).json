@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course we will learn wordpress plugin development from scratch. <strong><em>By developing 5 PROFSSIONAL plugins</em></strong> we will cover the most common wordpress conceptions that make you able to create effective plugins and you can use them in the real life applications.</p><p>you will learn the following topics:</p><ul><li>What're <strong><em>filters</em></strong>,<strong><em>actions </em></strong>and how to use them.</li><li>Manipulate with the posts.</li></ul><ul><li>Creating <strong><em>shortcode </em></strong>with <strong><em>the amazon web services.</em></strong></li><li>what's <strong><em>metadata </em></strong>and how to create it implicitly.</li><li><strong><em>Widget </em></strong>creation with the <strong><em>yahoo web services</em></strong> from scratch.</li><li>How to create <strong><em>admin pages</em></strong>,<strong><em>menus </em></strong>and <strong><em>submenus</em></strong>.</li><li>Task scheduling with <strong><em>CRON </em></strong>and display all the <strong><em>CRON </em></strong>task scheduling.</li><li><strong><em>Caching</em></strong> and how to cache.</li><li>HTTP <strong><em>Logging.</em></strong></li></ul><p><strong><em>This course does not require a wordpress experience.</em></strong></p>", 
+    "end_date": null, 
+    "title": "Build 5 effective wordpress plugins, in 1 hour (2016)", 
+    "price": 0, 
+    "instructors": "Ahmed Mamdouh", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/710456_c60d.jpg", 
+    "course_url": "https://www.udemy.com/learn-wordperss-plugins-by-building-5-effective-plugins/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-30T04:48:44Z"
+}

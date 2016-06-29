@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t    Vi-editor is a Linux/UNIX based text editor. For all people working on Linux, Mastering Linux should be on your priority list. <br style=\"\">  \t    90% of the super computers use Linux, Vim is found on all these systems and it becomes essential to master Vi. Any other editors are the derivative of Vi-editor.  </p>  <p>  \t                    This course is intended to achieve a comprehensive learning. With illustrated practical examples.  </p>  <p>  \t                    If you really want to master the Linux editing, This is the course you should be taking.  </p>  <p>  \t    The course will be taught in 8 chapters, Note down all the commands illustrated and you will have your custom cheat by the end of this course.  </p>  <ul style=\"\">  \t<p>  \t\t    ·Getting started  \t</p>  \t<p>  \t\t    ·Learning to customize  \t</p>  \t<p>  \t\t    ·More on editing  \t</p>  \t<p>  \t\t    ·Editing bigger blocks  \t</p>  \t<p>  \t\t    ·Searching in Vi  \t</p>  \t<p>  \t\t    ·Windows and Tabs  \t</p>  \t<p>  \t\t    ·Visual Mode  \t</p>  \t<p>  \t\t    ·Vi For programmers  \t</p>  </ul>", 
+    "end_date": null, 
+    "title": "Vim for Unix and Linux", 
+    "price": "20.00", 
+    "instructors": "E-learning Academy", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/280342_9f83_4.jpg", 
+    "course_url": "https://www.udemy.com/vi-editor-increase-your-productivity-on-linux-and-unix/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-13T18:51:05Z"
+}

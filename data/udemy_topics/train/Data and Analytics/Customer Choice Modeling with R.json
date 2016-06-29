@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\">  \tThe course is about understanding fundamentals of customer choice and enable participants to use R for customer choice modeling.  </p>  <p style=\"\">  \tThe course contains video lectures, power-point slides and handouts in PDF format.  </p>  <p style=\"\">  \tThe course will take approximately 4 hours to complete including study material provided.  </p>  <p style=\"\">  \tThe course starts with a basic introduction (video lecture) to customer choice. Section 2 covers basics of customer choice (powerpoint slides and audio instruction). Section 3 explains fundamentals of Conjoint Analysis (powerpoint slides and audio instruction) with worked example. Section 4 is a hands on session on conducting Conjoint Analysis on R (video). Session 5 explains fundamentals of Multinomial Logit (powerpoint slides and audio instruction) with worked example. Section 6 is a hands on session on conducting Multinomial Logit on R (video). Section 7 is a quick recap of the entire course with key points (powerpoint slides and audio instruction). Additional information and Bibliography is provided along with the course (PDF).  </p>  <p style=\"\">  \tProduct Managers, Customer Relationship Managers, Marketers, Students, Researchers etc. need to understand their customers&#039; choices better to provide them products and services which they prefer. This course sensitizes them to understand and statistically model customer choices and discover insights for better strategic decision making.  </p>", 
+    "end_date": null, 
+    "title": "Customer Choice Modeling with R", 
+    "price": "30.00", 
+    "instructors": "Decision Quotient", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/76050_0be1_5.jpg", 
+    "course_url": "https://www.udemy.com/customer-choice-modeling-with-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-09T05:10:18Z"
+}

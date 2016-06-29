@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Have you ever needed a personal cloud? A Dropbox of yourself? With no storage limits, no privacy issues, with document versioning and sharing, but with no extra cost?</strong><br></p><p>\"Personal cloud is a collection of digital content and services which are accessible from any device. The personal cloud is not a tangible entity. It is a place which gives users the ability to store, synchronize, stream and share content on a relative core, moving from one platform, screen and location to another.\"</p><p>This course is all about. I will teach you in a few simple steps how to create your own personal and secure cloud, at home or at your place of work. The only storage limit is your hard drive, and even so you can extend it easily using network shares or integrate it with already owned commercial clouds. All you need is a spare computer or Raspberry Pi or an Internet connection. You can even build it as a virtual machine on your desktop at home. </p><p>I will teach you to install it the ownCloud software suite, to configure it and manage it. I will explain to you the advantages of ownCloud over Dropbox. Furthermore, I will guide you trough it's functionality and it's interface.</p><p>So let's start building your own personal cloud. Access your data from anywhere, using IOS, Android, Blackberry, Windows, Mac OS or Linux. No special hardware required, it's simple, free and secure!</p>", 
+    "end_date": null, 
+    "title": "Your NAS accessible from Mobile, Desktop and Web - ownCloud", 
+    "price": "25.00", 
+    "instructors": "Gabriel Avramescu", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/629498_2602_5.jpg", 
+    "course_url": "https://www.udemy.com/owncloud4free/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-03T08:52:13Z"
+}

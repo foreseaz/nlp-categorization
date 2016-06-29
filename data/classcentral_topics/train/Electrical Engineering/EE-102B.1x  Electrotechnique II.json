@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Electrical Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course is presented in French, with English subtitles.\n\nCe cours traite des systèmes alternatifs triphasés, piliers de l'alimentation électrique industrielle et de certains types de machines électriques. Les charges triphasées associées, symétriques ou dissymétriques, seront étudiées ainsi que les puissances actives, réactives et apparentes qui en découlent. Des méthodes de compensation de la puissance réactive seront développées.\n\nCe cours traite également des régimes transitoires, induits par les enclenchements, déclenchements ou pannes de circuits sur leur source, qu'elle soit continue ou alternative. L'importance de l'étude des régimes transitoires réside dans le fait qu'ils sont la base du fonctionnement d'appareils que l'on retrouve dans de nombreuses applications modernes comme la distribution d'énergie, les entraînements électriques, la recharge de batteries, les alimentations à découpage ou encore de l'éclairage.\n\n                                    ", 
+    "end_date": "2015-04-30T00:00:00Z", 
+    "title": "EE-102B.1x: Electrotechnique II", 
+    "price": 0, 
+    "instructors": "Paolo Germano and Yves Perriard", 
+    "institution_name": [
+        "École Polytechnique Fédérale de Lausanne"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.edx.org/course/electrotechnique-ii-epflx-ee-102b-1x", 
+    "duration": "10 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2015-02-19T00:00:00Z"
+}

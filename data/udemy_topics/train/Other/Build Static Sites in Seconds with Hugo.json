@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t    If you&#039;re tired of having a slow web site or updating plugins and managing your database instead of writing content, this course is for you.  </p>  <p>  \t    You&#039;ll learn how to use Hugo, a static site generator, to create blazingly fast, static web sites. No more security updates, no MySQL, no PHP, just your content in HTML and CSS.  </p>  <p>  \t    I&#039;ll take you from downloading Hugo to creating or customizing a theme and then deploying your completed site to a standard web server, Amazon S3, Dropbox or Github pages. Learn how to streamline your process even further with time-saving shortcuts.  </p>  <p>  \t    The course consists of 20+ videos taking you step by step through the process of creating a site.  </p>  <p>  \t    Hugo makes the web fun again and after completing this course, you&#039;ll be able to join the fun.  </p>", 
+    "end_date": null, 
+    "title": "Build Static Sites in Seconds with Hugo", 
+    "price": "25.00", 
+    "instructors": "Dan Hersam", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/370884_ea6b.jpg", 
+    "course_url": "https://www.udemy.com/build-static-sites-in-seconds-with-hugo/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-15T18:49:42Z"
+}

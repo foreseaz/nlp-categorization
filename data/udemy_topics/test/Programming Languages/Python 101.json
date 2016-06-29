@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Learn Python Programming Today !</strong><br></p><p><strong>Last update: February  2016.</strong></p><p><strong>Python 101</strong> is a comprehensive course covering all core concepts of Python starting from scratch. It also covers using Python with databases, multi dimensional arrays with NumPy module and Series and DataFrames using Pandas module.<br></p><p>All the lectures are taught with lots of practical examples using iPython notebooks. Course consists of over 110 lectures and 17 hours of video classes. All  sections include downloadable practice code and quizzes. </p><p><strong>The course is constantly updated with new topics.</strong> </p><p>This is a all level course. Good for both fresh programmers and also to experienced programmers working with other languages.</p><p><strong>Here are some important topics of this course:</strong><strong></strong><br></p><ul><li><em>Python and iPython Notebook installation.<br></em></li><li><em>Basics of Python Objects like Strings, Numbers, Booleans, Container Objects, Operators,    Operator precedence and associativity rules.<br></em></li><li><em>Conditionals &amp; Loops.<br></em></li><li><em>String Objects.<br></em></li><li><em>List Objects<br></em></li><li><em>Tuples, Sets and Dictionaries.<br></em></li><li><em>Functions, Iterators and Generators.<br></em></li><li><em>Python Classes &amp; Objects.<br></em></li><li><em>File Handling.<br></em></li><li><em>Modules<br></em></li><li><em>Exceptions Handling.<br></em></li><li><em>Database Programming with Python.<br></em></li><li><em>Regular Expressions.</em></li><li><em>Arrays with NumPy Module<br></em></li><li><em>Series and DataFrames with Pandas module.<br></em></li><li><em>Quick Review.</em></li></ul><p>The Course is available to you forever on Udemy. and you can learn at your own pace. one can easily complete the course in a weeks time, by spending couple of hours a day.<br></p><p>Thank You.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Python 101", 
+    "price": "20.00", 
+    "instructors": "Krishna Yamarthy", 
+    "commitment": "17 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/337128_ce3e_7.jpg", 
+    "course_url": "https://www.udemy.com/kypython-101/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-06T01:57:27Z"
+}

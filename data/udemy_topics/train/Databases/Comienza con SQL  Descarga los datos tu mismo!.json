@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">Comienza con SQL!</strong></p>\n\n<p>En este curso practico, repasaremos a traves de ejemplos y casos especificos como escribir consultas de SQL para bajarnos los datos de una base de datos.</p>\n\n<p>Instalaremos MySQL Server y MySQL Workbench (software gratuito) y la base de datos de prueba <em>Sakila </em>para usar los datos en los ejemplos.</p>\n\n<p><strong class=\"redactor-inline-converted\">¿Que aprenderás en este curso</strong><strong class=\"redactor-inline-converted\">?</strong><br></p>\n\n<p>Aprenderás desde cero a bajarte los datos de una base de datos a través de consultas SQL. También aprenderás a escribir funciones mas especializadas a la hora de bajarte los datos.</p>\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">¿Que es SQL?</strong></p>\n\n\n\n\n\n\n\n<p>SQL significa Standard Query Language y es el idioma estándar que se utiliza para acceder a bases de datos.</p>\n\n\n\n\n\n\n\n<p>Puedes hacer consultas o editar los datos a través de unas simples líneas de código.</p>\n\n\n\n\n\n\n\n\n\n<p><strong>¿A quien le va bien aprender SQL?</strong></p>\n\n\n\n\n\n\n\n\n\n<p>Cualquier persona que trabaje en una empresa que acumule información en una base de datos debería saber escribir consultas en SQL para descargarse el/ella mismo/a los datos.</p><p>Pueden ser personas de Marketing, para ver los datos de las campañas, personas de Finanzas, para ver datos de clientes o pagos o de Ventas para ver datos de ventas. Casi todo el mundo que trabaja en una empresa de hoy en dia puede encontrar beneficio en aprender SQL.</p><p>Si estas buscando trabajo también es útil ya que muchas empresas piden nociones básicas de SQL.</p><p>En este curso aprenderemos diferentes formas de bajarnos los datos nosotros mismos a través del lenguaje SQL. Es uno de los lenguajes mas fácil de aprender y a través de mi experiencia y de mis ejemplos aprenderéis enseguida!<br></p><p>Te invito a ver alguna clase gratis y apuntarte para empezar ya a aprender SQL!</p>", 
+    "end_date": null, 
+    "title": "Comienza con SQL: Descarga los datos tu mismo!", 
+    "price": "20.00", 
+    "instructors": "Sebastian Tunnell Gonzalez", 
+    "commitment": "41 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/849858_ef8c.jpg", 
+    "course_url": "https://www.udemy.com/comienza-con-sql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-15T15:33:57Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course is all about understanding the EIGRP concepts practically. </p>\n\n<p>This course is designed in such a way which will enhance your complete understanding on EIGRP , and which will give you a Approach for your CCIE</p>\n\n<p>After completing this course you will be able to understand the logic behind each and every concepts or commands.</p>\n\n<p>As this course is full of practicals  so its not like i am just putting the commands and you are watching it like a movies , its an interactive course in which i have a long discussion on each and every command ,its effects , its usage and all..</p>\n\n<p>Most important thing i have taken care while designing of this course is , i have not cut short with basic technical details , which mostly been under-looked and you can still configure and implement without messing up with those information , but that is not my way of learning or teaching , you have to be good with basics of any technology </p>\n\n<p>My main motive behind this course is to make you capable enough so that if you go back and read all the concepts of EIGRP you can easily LAB it up on your own creative typologies , you will feel its really a better approach for understating ,which at the same time prepare you for your CCIE LAB as well.</p>", 
+    "end_date": null, 
+    "title": "CCIE v5 Technology Focused Lab : EIGRP ..", 
+    "price": "25.00", 
+    "instructors": "Animesh Khare", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/585728_2957.jpg", 
+    "course_url": "https://www.udemy.com/cciev5-technology-focused-lab-eigrp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-17T19:51:57Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  In this course you will be introduced to all of the HTML tags and elements used in web development and you will develop the skills to create a basic website with images, text, links, forms, tables and etc. This course is the first part of two courses in a web development series, the second one being CSS. HTML is the basic language used in coding a website, whilst CSS is what designs this HTML code and website, helping it appear more appealing to the everyday user. This course teaches through examples and <span>walk-through</span><span>s of all the different tags and elements in HTML. Also if you have any difficulties following along, then you can always download the files yourself and take a second look on the HTML code written in the videos</span>  </p>", 
+    "end_date": null, 
+    "title": "HTML Simplified, Learning Web Development", 
+    "price": "20.00", 
+    "instructors": "Basam Alasaly", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/242554_3d41_5.jpg", 
+    "course_url": "https://www.udemy.com/htmlsimplified/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-13T06:11:10Z"
+}

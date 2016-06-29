@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>This Networking Essentials course provides an introduction to the computer hardware and software skills needed to help meet the growing demand for entry-level information and communication technology (ICT) professionals.</strong> </p><p>The curriculum covers the fundamentals of computer hardware and software as well as advanced concepts such as security and networking.</p><p>In this course you, along with the instructor, will take a look at the following in depth: </p><ul><li>Protocols and the magic of protocols, in particular, TCP/IP. </li><li><span></span>Working with name-resolution.</li><li>IP address allocation.</li><li>Active Directory.</li><li>Troubleshooting. </li></ul><p>Our instructor will make networking concepts easy to understand. His presentation style is easy to follow and your knowledge can be validated with our quizzes at the end of each lesson.</p>", 
+    "end_date": null, 
+    "title": "Networking Essentials", 
+    "price": "30.00", 
+    "instructors": "SONIC - High Quality Training for Over 20 Years", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/456626_ce6d_2.jpg", 
+    "course_url": "https://www.udemy.com/networking-essentials/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-25T10:25:46Z"
+}

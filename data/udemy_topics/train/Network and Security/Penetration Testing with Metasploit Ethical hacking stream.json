@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>From Wikipedia:  The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development. Its best-known sub-project is the open source  Metasploit Framework, a tool for developing and executing exploit code against a remote target machine. Other important sub-projects include the Opcode Database, shellcode archive and related research. The Metasploit Project is well known for its anti-forensic and evasion tools, some of which are built into the Metasploit Framework.</p>  <p>  \t                          95% of Security professionals use distribution like Kali Linux/Backtrack which consists tons of tools that aids pentesters to perform audits and Metasploit Framework is highly sophisticated tool. The course is designed as a complete guide to understand and handle Metasploit Tool efficiently in real time.  </p>  <p>  \t                          This is online certification Course by InSEC-Techs and your doubts related to the subject are solved for ever on discussion board. We provide you material and references to get more understanding and learning this tool.  </p>  <p>  \t                          The course is very well structured, explaining the terminologies , functionality and lab practicals are very well shown as feeding baby a banana.  </p>", 
+    "end_date": null, 
+    "title": "Penetration Testing with Metasploit Ethical hacking stream", 
+    "price": "35.00", 
+    "instructors": "InSEC- Techs", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/313276_08fc_3.jpg", 
+    "course_url": "https://www.udemy.com/penetration-testing-with-metasploit/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-04T11:59:42Z"
+}

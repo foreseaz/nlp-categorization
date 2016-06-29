@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>¿Qué voy a aprender?</strong></p><p>En este curso aprenderemos a usar los diferentes tipos de compras que podemos incluir en las aplicaciones, dando un repaso por el framework StoreKit e implementando items consumibles, no consumibles y por suscripción utilizando swift en iOS 8. También vamos a aprender sobre iAds que nos ofrece otra oportunidad más para generar ingresos.</p><p><strong>iAd Producer, una herramienta oficial que nos permite crear nuestros anuncios para la plataforma iAd</strong> de publicidad que llegó junto con iOS.</p><p>Incrementa los ingresos generados por tu aplicación usando in-app purchases para distribuir productos digitales o items por suscripción desde tu aplicación haciéndola mas entretenida para tus usuarios</p><strong>¿Cuáles son los requisitos?</strong><p>Para seguir este curso paso a paso es necesario que tengas disponible una Mac donde puedas utilizar Xcode, el entorno de Desarrollo para aplicaciones iOS. Además debes tener conocimientos previos del lenguaje de programación swift.</p><strong>¿A quién va dirigido?</strong><p>Este curso está dirigido a las personas que ya tienen experiencia previa en el desarrollo de aplicaciones para iOS y desean comenzar a generar ingresos o distribuir productos digitales desde sus aplicaciones.</p><p><strong>Descarga de Archivos</strong></p><p>Podrás descargar todos los archivos fuentes utilizados en éste curso!</p>", 
+    "end_date": null, 
+    "title": "Aprende a generar compras y anuncios en tus Apps para iOS", 
+    "price": "20.00", 
+    "instructors": "Pixel Web Pro", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/562624_3347.jpg", 
+    "course_url": "https://www.udemy.com/aprende-a-generar-compras-y-anuncios-en-tus-apps-para-ios/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-23T13:43:22Z"
+}

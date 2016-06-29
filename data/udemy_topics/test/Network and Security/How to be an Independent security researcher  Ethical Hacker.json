@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">This Course is about :</strong></p>\n\n<ol><li><em>Ethical Hacker</em></li><li><em>Penetration tester</em></li><li>What is xss?</li><li>Why xss?</li><li>Types of xss?</li><li>What are the different sources of xss?</li><li>Different context of xss?</li><li>What is Sql Injection?</li><li>Different Types of Sql injection.</li></ol>\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Types of xss</strong></p>\n\n\n\n\n\n\n\n<ol><li>Persistent xss (stored xss)</li><li>Non persistent xss  reflected xss</li><li>Dom based xss</li></ol>\n\n\n\n\n\n\n\n<li>We will discuss different xss example according owasp xss.</li><li>Why xss is so important?</li><li>What is internet safety?</li><li>What is network security?</li><strong class=\"redactor-inline-converted\">COURSE REQUIREMENTS:</strong>\n\n<ol><li>Nothing just know to run apps on computer</li><li>HTTP client server Architecture</li><li> Basics of HTML and JS.</li><li> Basics of PHP and ASPnet</li></ol>\n\n\n\n\n\n\n\n<p>If you know about some of these things then it will be more beneficial and will be easy for your understanding this course.</p>\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">WHO SHOULD ATTEND?</strong><br></p>\n\n\n\n\n\n<ol><li><strong>Ethical Hacker</strong></li><li><strong>Penetration tester</strong></li><li>Security Researcher</li><li>Web Developer</li><li>Bug Hunter</li><li>Hard Worker and If you want to make yourself do somethig</li></ol>", 
+    "end_date": null, 
+    "title": "How to be an Independent security researcher /Ethical Hacker", 
+    "price": "50.00", 
+    "instructors": "Zia Ur Rehman", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/434040_355b_3.jpg", 
+    "course_url": "https://www.udemy.com/independent-security-researcher/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-27T12:28:29Z"
+}

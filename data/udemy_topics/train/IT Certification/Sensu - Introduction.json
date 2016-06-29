@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Sensu</strong> is a powerful Next-Generation monitoring framework that is quickly\nreplacing traditional monitoring systems like Zabbix, Icinga, and Nagios.</p>\n<p>But diving into a new monitoring system can be difficult without a guide to\nshow you the way! This course can be your guide to understanding how Sensu\nworks and how to deploy it to your infrastructure.</p>\n<p>This introductory course will teach <em>you</em> the basics of Sensu's architecture\nand how to take advantage of the flexibility it provides to build awesome systems.</p>\n<p><strong>Contents</strong></p>\n<ul>\n<li>In-depth architectural overview</li>\n<li>All videos closed-captioned in English. Hear and See for optimal learning!</li>\n<li>Step-by-step howto instructions on getting Sensu up and running</li>\n<li>Leverage your existing Nagios plugins written in C, Python, or Bash</li>\n<li>Take advantage of the plethora of Open Source Sensu plugins in Ruby!</li>\n<li>Learn about RabbitMQ, Redis, Ruby Gems, Sensu's API, and more</li>\n<li>Use <strong>Uchiwa</strong>, the awesome open source Dashboard for Sensu</li>\n<li>Setup the foundation to build on more intermediate and advanced Sensu topics</li>\n</ul>\n<p>When you are finished with this course you will have setup a <strong>complete</strong>\nmonitoring solution that actually checks things and actually sends email.\nThis is not a theoretical course, it is a practical one that leaves you with\nskills <em>and</em> infrastructure to build upon.</p>\n<p><strong>Let Me Make The Mistakes For You</strong></p>\n<p>It's one thing to read docs and get perfect copy-paste command line examples\nthat work. It is another thing to be in real life watching a real engineer\nfight a live system and try to get it working! I purposely make mistakes\njust to demonstrate what happens when things go wrong. That gives me an\nexcuse to troubleshoot the problem and then solve it. Then, when you encounter\nthat same mistake in your infrastructure, you will know exactly what to do!</p>\n<p><strong>For Dev and Ops Alike</strong></p>\n<p>Sysadmins, Devops Practitioners, Infrastructure engineers, SREs, and simply\ncurious software engineers should take this course to better their craft and\nlearn more about what makes Sensu special. It is <strong>not</strong> your\ngrandfather's monitoring system. It is a modern, scalable, flexible\nmonitoring system with a great API to integrate with your infrastructure.</p>\n<p>Even if you don't end up using Sensu in Production, taking this course will\nstill level-up your monitoring game, by increasing the scope of your DevOps\ntoolbox. So enroll today and check it out!</p>", 
+    "end_date": null, 
+    "title": "Sensu - Introduction", 
+    "price": 0, 
+    "instructors": "Kyle Anderson", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/559028_dc10_4.jpg", 
+    "course_url": "https://www.udemy.com/sensu-introduction/", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-20T00:21:17Z"
+}

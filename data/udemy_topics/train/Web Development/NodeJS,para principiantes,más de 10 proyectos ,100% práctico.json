@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Desarrollar aplicaciones web escalables para miles de usuarios, se incluye vídeo y plantillas de código de aplicaciones listos para hacer pruebas, el material esta presentado modularmente y escalonadamente para que el participante adquiera los conocimiento y habilidades, y las ponga en practica de manera ordenada, rápida y eficiente en la construcción de sus aplicaciones web. Son casi 4 horas de vídeo garantizado, de buen material,muy útil para el desarrollo de sus aplicaciones web. Adicionalmente hemos preparado una sección muy útil para crear aplicaciones web con Base Datos Postgres - Heroku, Nodejs, Express y AngularJs.</p>", 
+    "end_date": null, 
+    "title": "NodeJS,para principiantes,más de 10 proyectos ,100% práctico", 
+    "price": "20.00", 
+    "instructors": "Alex Salomé", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/610380_2558_5.jpg", 
+    "course_url": "https://www.udemy.com/nodejs-para-programadores-principiantes-100-practico/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-13T01:33:30Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Have you ever wanted to build your very own mobile Android application? Already have some working knowledge of the Java programming language? Using the native Android SDK you can bring the Java world and mobile world together.</p><p>This course will teach you how to easily develop native Android applications using Java and the Android SDK. We'll look at what is necessary to configure the Android SDK on your Windows, Linux or Macintosh computer and develop visually pleasing applications with minimal amounts of code and design skills necessary.</p><p>Native Android 101 is designed to be a quickstart for beginners looking to develop mobile applications. This course will put you track for building mobile Android applications using common technologies such as Java, and XML. We'll see everything from designing application views to performing HTTP requests against remote web services. As a course goal, we'll create a fully functional URL shortener using the skills we developed through the span of the course.</p><p>By the end of this course, students should have the skills necessary to build native Android applications on their own.</p>", 
+    "end_date": null, 
+    "title": "Native Android 101: A Quickstart to Building Android Apps", 
+    "price": "25.00", 
+    "instructors": "Nic Raboy", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/662650_573d_3.jpg", 
+    "course_url": "https://www.udemy.com/native-android-101/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-07T02:14:59Z"
+}

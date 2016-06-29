@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Eclipse Debugging Techniques And Tricks is a entirely hands-on and an example based comprehensive course ,which would will guide you to learn and master the essentials of the Java Debugging using the popular Eclipse IDE.<br style=\"\"></p><p><strong style=\"\">Powerful Debugging Skill at Your Fingertips</strong><br style=\"\"></p><p>While working in real life Java projects or learning the language ,debugging is a key aspect which you must learn to handle programming related issues or understand any application flow properly .This course will give you a strong background to easily learn and master the debugging techniques and tricks using Eclipse IDE .</p><p><strong style=\"\">Content and Overview </strong><br style=\"\"></p><p>Entire course is broken down to the following categories:</p><ul style=\"\"><li>Basic debugging features</li><li>Advanced debugging features</li><li>Sample Debugging Problems And Their Solution</li></ul><p><u style=\"\"><strong style=\"\"><br style=\"\"></strong></u></p><p><u style=\"\"><strong style=\"\">The basic debugging features covered:</strong></u><br style=\"\"></p><ul style=\"\"><li>How to place breakpoints and run a program in debug mode</li><li>How to control a program execution during debugging</li><li>Use of Step into selection,Hyperlink navigation and Run to line</li><li>Breakpoints view in details and deactivating breakpoints</li><li>Evaluating expressions using Inspect,Execute and Watch</li><li>Use of Show logical structures</li><li>Changing of variable&#039;s values during debugging</li></ul><p><br style=\"\"></p><p><u style=\"\"><strong style=\"\">The advanced debugging features covered:</strong></u></p><ul style=\"\"><li>Use of display view..scrapbooking your live code!</li><li>Use of detail formatter ...controlling the display of the variables</li><li>Conditional breakpoint and Hit count</li><li>Exception breakpoint and Method breakpoint</li><li>Use of Drop to frame</li><li>Debugging a web application</li><li>Remote Debugging</li></ul><p><br style=\"\"></p><p>The course initially starts with basics of debugging and then slowly moves to the practical aspects of debugging with easy examples.<br style=\"\"></p><p>Once the primary aspects are covered , the basic and advanced debugging features of Eclipse are explained.</p><p>The section <strong style=\"\">Sample Debugging Problems And Their Solution</strong> is about sample problem solving on dummy debugging problem scenarios by applying the debugging skills you have learnt from the course.</p><p>By the end of the Eclipse Debugging Techniques And Tricks, you will master the fundamentals needed to for Debugging java based applications using Eclipse.<br style=\"\"></p><p><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Eclipse Debugging Techniques And Tricks", 
+    "price": "20.00", 
+    "instructors": "Swapan Kumar Dutta", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/417118_3afa_4.jpg", 
+    "course_url": "https://www.udemy.com/eclipse-debugging-techniques-and-tricks/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-09T08:50:14Z"
+}

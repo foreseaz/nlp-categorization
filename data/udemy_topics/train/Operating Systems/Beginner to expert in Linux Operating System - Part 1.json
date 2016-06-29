@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t    This is the first course in the series of many courses which I will be doing on Linux Operating system. There are many OS available but we will see that why we choose Linux.  </p>  <p style=\"\">  \t    Linux uses the GNU General Public License (GPL) which is free. It is free as well as open source, meaning that it gives the freedoms to use, study, share (copy), and modify the software. Linux follows POSIX standards specified by the IEEE for maintaining compatibility between operating systems such as Unix and other variants.  </p>  <p style=\"\">  \t    We will dive deep in Linux in the other detailed courses like:  </p>  <p style=\"\">  \t    1. Shell script - Here, we will learn about shells like sh, bash etc, editors like vi, emacs etc shell commands etc.  </p>  <p style=\"\">  \t    2. Understanding Linux Kernel and writing device drivers.  </p>  <p style=\"\">  \t    3. Real Time Operating Systems (RTOS)  </p>  <p style=\"\">  \t    4. Debugging in Linux - How to debug applications written in Linux using gdb and analyzing core dump.  </p>  <p style=\"\">  \t    5. Embedded system - All about embedded systems  </p>  <p style=\"\">  \t    6. Programming - Programming languages like C and C++ with data structures.  </p>  <p style=\"\">  \t    7. Compilers - gcc and g++ in details  </p>  <p style=\"\">  \t    About this course:  </p>  <p style=\"\">  \t    We will try and learn installing Fedora and ubuntu. But how do you actually get it installed? Here, we&#039;ll show you how to install it on your system.  </p>  <p style=\"\">  \t    This course is designed for the IT professional who wants to quickly get their first Linux machine up and running.  It is 38mins of console screen capture with highlights and voiceover explanation.  </p>  <p style=\"\">  \t    The course assumes some knowledge of computer hardware and operating systems such as files, directories, and disk partitions.  If you&#039;ve been curious about Linux but have been frustrated by the &quot;read the docs and learn&quot; mentality, this course will walk you through installation.  </p>", 
+    "end_date": null, 
+    "title": "Beginner to expert in Linux Operating System - Part 1", 
+    "price": "20.00", 
+    "instructors": "Saurabh Kumar", 
+    "commitment": "36 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/284350_e904_9.jpg", 
+    "course_url": "https://www.udemy.com/becoming-linux-expert-series-install-linux-operating-system/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-20T09:22:19Z"
+}

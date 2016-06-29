@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Physics"
+    ], 
+    "description": "\n\n                    \n                    \n                    This is the last of five modules to introduce concepts and current frontiers of atomic physics and to prepare you for cutting-edge research:\n\n8.421.1x: Resonance\n\n8.421.2x: Atomic structure and atoms in external field\n\n8.421.3x: Atom-Light Interactions 1 -- Matrix elements and quantized field\n\n8.421.4x: Atom-Light interactions 2 --  Line broadening and two-photon transitions\n\n8.421.5x: Coherence\n\nThis fifth module, 8.421.5x, looks at a central theme of atomic physics - coherence. This includes coherence of single atoms for two-level systems and three-level systems, and coherence between atoms, which can result in superradiant behavior.\n\nAt MIT, the content of the five modules makes the first of a two-semester sequence (8.421 and 8.422) for graduate students interested in Atomic, Molecular, and Optical Physics. This sequence is required for Ph.D. students doing research in this field.\n\nIn these modules you will learn about the interaction of radiation with atoms: resonance; absorption, stimulated and spontaneous emission; methods of resonance, dressed atom formalism, masers and lasers, cavity quantum electrodynamics; structure of simple atoms, behavior in very strong fields; fundamental tests: time reversal, parity violations, Bell's inequalities; and experimental methods.\n\nCompleting the two-course sequence allows you to pursue advanced study and research in cold atoms, as well as specialized topics in condensed matter physics.\n\n \n\nFAQ\n\nWho can register for this course?\n\nUnfortunately, learners from Iran, Cuba, Sudan and the Crimea region of Ukraine will not be able to register for this course at the present time. While edX has received a license from the U.S. Office of Foreign Assets Control (OFAC) to offer courses to learners from Iran and Sudan our license does not cover this course.\n\nSeparately, EdX has applied for a license to offer courses to learners in the Crimea region of Ukraine, but we are awaiting a determination from OFAC on that application. We are deeply sorry the U.S. government has determined that we have to block these learners, and we are working diligently to rectify this situation as soon as possible.\n\nCourse image uses graphic by SVG by Indolences. Recoloring and ironing out some glitches done by Rainer Klute. [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons\n\n                                    ", 
+    "end_date": "2016-02-12T00:00:00Z", 
+    "title": "8.421.5x: Atomic and Optical Physics I – Part 5: Coherence", 
+    "price": 0, 
+    "instructors": "Wolfgang Ketterle, David E. Pritchard and Isaac Chuang", 
+    "institution_name": [
+        "Massachusetts Institute of Technology"
+    ], 
+    "commitment": "12 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://www.edx.org/course/atomic-optical-physics-i-part-5-mitx-8-421-5x", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-01-15T00:00:00Z"
+}

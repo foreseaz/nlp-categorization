@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Advanced Game Mechanics in Unity helps users push their Unity knowledge to the next level. In this course, instructor Alan Thorn explores many powerful features in Unity 5, from debugging tools and version control, to 2D sprites and User Interfaces. See how to get started quickly at scripting useful behaviours and functionality for building solid games across many platforms, from endless-runners to shooters.</p><p>Part 1 consolidates scripting knowledge, exploring fundamental scripting tasks in Unity, developing a solid foundation for your games, whatever the genre. In part 2, learn how to build resolution-adapting interfaces for multiple screen-sizes, and see how to integrate 2D and 3D elements in a single scene, using the GUI features and sprite framework. In part 3, explore how to find and diagnose problems in your applications using MonoDevelop Debugging, as well as Visual Debugging. In part 4, learn how to manage team work-flows with Git and version control, allowing many people in a team to exchange and maintain source code easily anywhere in the world. Finally, in Part 5 we explore a range of more advanced scripting tasks: see how to combine particle systems with physics, see how to develop save game states, how to make objects survive across multiple scenes, and how to develop for mobile devices, reading input from the accelerometer.</p><p>Overall, Advanced Game Mechanics in Unity features everything you need to become a powerful game developer quickly and easily - producing immersive games that sell!</p><p><strong>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</strong></p><p>More about the Instructor:</p><p>Alan Thorn is a freelance game developer and author with over 12 years of industry experience. He is the founder of London-based game studio, Wax Lyrical Games, and is the creator of award-winning adventure game Baron Wittard: Nemesis of Ragnarok. He has worked freelance on over 500 projects worldwide including games, simulators, kiosks, and augmented reality software for game studios, museums and theme parks. He has spoken on game development at universities throughout the UK, and is the author of nine books on game development, including Teach Yourself Games Programming, Unity 4 Fundamentals and the highly popular UDK Game Development.</p>", 
+    "end_date": null, 
+    "title": "Learn Advanced Game Mechanics in Unity for Game Development", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/540916_a0f0_2.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-learn-advanced-game-mechanics-in-unity-for-game-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-30T05:11:25Z"
+}

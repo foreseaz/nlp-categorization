@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>MVVM (stands for Model-View-ViewModel) is a well-known architectural pattern in the world of WPF. Most enterprise level WPF applications are MVVM-based.</p>\n\n\n\n<p>Learn deeply the concepts lying behind the MVVM pattern in order to understand what MVVM is in essence and how to pragmatically apply it to a WPF application.\n\n  </p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">Teaching Approach</strong>\n\n  </p>\n\n\n\n\n\n<p>No fluff, no ranting, no beating the air. I esteem your time. The course material is succinct, yet comprehensive. All important concepts are covered. Particularly important topics are covered in-depth. For absolute beginners, I offer my help on Skype absolutely free if requested.\n\n  </p>\n\n\n\n\n\n<p>Take this course and you will be satisfied.\n\n  </p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Build a strong foundation in applying MVVM with this course</strong>\n\n  </p>\n\n\n\n\n\n<p>In the case you’re just familiar with the WPF framework, learning this course will give you a level-up since you’ll be capable of developing professional WPF applications. <strong class=\"redactor-inline-converted\">Applying MVVM intelligently is a “must have” skill for WPF developers.\n\n  </strong></p>\n\n\n\n\n\n<p>If you are an experienced WPF developer, you might be interested in how MVVM frameworks may work under the hood. Throughout the course, we will be building a small MVVM framework similar to Caliburn.Micro.\n\n  </p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Content and Overview</strong>\n\n  </p>\n\n\n\n\n\n<p>This course is primarily aimed at intermediate developers. Experts may also find interesting MVVM tricks provided in this course. If you are a beginner, be sure you’re ready to take this course, since it requires from you a solid C#-background and acquaintance with WPF.\n\n  </p>\n\n\n\n\n\n<p>This course <strong class=\"redactor-inline-converted\">provides solid theoretical base reinforced by tons of practical material.</strong> This course is very practical (except the very first introductory module).\n\n  </p>\n\n\n\n\n\n<p>“MVVM in WPF” is a very wide topic and it’s hardly possible to cover all the related challenges arising while applying MVVM. That’s why <strong class=\"redactor-inline-converted\">this course includes the most important topics understanding of which is a key for successful development</strong>. We will sacrifice some topics which may be interesting for students, but which are hardly connected with MVVM directly. What I’m talking about is, for example, the problem of setting up a full-fledged data access layer. Such topics are omitted.\n\n  </p>\n\n\n\n\n\n<p>The most beneficial aspect of this course is that it gives you the <strong class=\"redactor-inline-converted\">deep understanding of the MVVM pattern</strong>. For example, you’ll see how to pass parameters to ViewModels through constructors, without using a static message bus, or passing parameters by explicitly setting properties of a ViewModel.\n\n  </p>\n\n\n\n\n\n<p>In short, <strong>the course covers the following topics:</strong>\n\n  </p>\n\n\n\n<ul><li>Connecting Views and ViewModels: View-First and ViewModel-First approaches\n\n  </li></ul>\n\n\n\n<ul><li>Design-Time data support\n\n  </li></ul>\n\n\n\n<ul><li>Configuring and using an IoC-container (by the example of Castle.Windsor\n\n  </li></ul>\n\n\n\n<ul><li>Communication channel between Views and ViewModels: commands, attached and blend behaviors, static message bus (EventAggregator)\n\n  </li></ul>\n\n\n\n<ul><li>Navigation: hierarchical UI composition, how to open dialogs, \nincluding modal dialogs, navigating to parameterized ViewModels (pass \nparameters into their constructors)\n\n  </li></ul>\n\n\n\n<ul><li>Models and validation\n\n  </li></ul>\n\n\n\n<ul><li>MVVM toolkits: Caliburn.Micro more closely</li><li>Unit-Testing of ViewModels</li></ul>\n\n\n\n\n\n<p>In the end, we will recap what you have learned and you will try to understand where you have to go further with the intention to master your skills. Here we will have a discussion of different paths you can go on.</p>", 
+    "end_date": null, 
+    "title": "MVVM in WPF Survival Guide From A to Z", 
+    "price": "25.00", 
+    "instructors": "Elias Fofanov", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/845994_2f1c_2.jpg", 
+    "course_url": "https://www.udemy.com/mvvm-in-wpf-survival-guide-from-a-to-z/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-11T11:44:31Z"
+}

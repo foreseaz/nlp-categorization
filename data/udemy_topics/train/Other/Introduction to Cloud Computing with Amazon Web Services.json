@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this Introduction to Cloud Computing with Amazon Web Services training course, expert author Mark Nunnikhoven will teach you about AWS and how to deploy a web application in AWS. This course is designed for the absolute beginner, meaning no experience with Amazon Web Services is required.You will start by learning about AWS specific concepts, then jump into deploying WordPress on AWS. From there, Mark will teach you how to create a strong foundation, including configuring IAM for deployment and setting up CloudTrail. This video tutorial also covers deploying a secure networking configuration, deploying a server, and deploying a relational database. Finally, you will learn how to implement a backup strategy, such as verifying RDS backups, creating an S3 backup, and optimizing S3 costs with Amazon Glacier. Once you have completed this computer based training course, you will be fully capable of building your own web applications in AWS. Working files are included, allowing you to follow along with the author throughout the lessons.</p>", 
+    "end_date": null, 
+    "title": "Introduction to Cloud Computing with Amazon Web Services", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/801370_9049_3.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-cloud-computing-with-amazon-web-services/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-22T22:04:39Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Some Course Reviews from Similar Courses: </strong></p>  <p><strong>\"I've also looked at the database with multiple system monitoring products. But really where do I go from here? and when I find the problem what do I really need to do? Mike really shows you the nitty gritty.\"</strong></p>  <p><strong>\"This was just the course I have been waiting for. Mike's demos and scripts have helped me become a confident tuner. The best thing about this course was that I was able to improve our server performance straightaway.\"</strong></p>  <p><strong>\"I already have a great deal of DBA related experienced in the real world. What this course did for me was help me establish a model, and strategy for database tuning and performance monitoring.\"</strong></p>  <p><strong>Thank you reviewers for your kind feedback.</strong></p>  <p><strong>IMPORTANT:</strong> In Microsoft nomenclature there are <strong>two</strong> portals: Classic Portal and Azure Portal<strong>.</strong> The Classic one is being phased out. This Course is <strong>entirely</strong> based on <strong>Azure Portal</strong>, which is the <strong>newest</strong> version. </p>  <p>Additionally, this course is <strong>NOT</strong> for any of the current Microsoft <strong>Certifications</strong>. </p>  <p>In this course we are going to cover <strong>Azure SQL Database</strong>.  Azure SQL Database is Microsoft’s cloud database service. </p>  <p>Based on SQL Server database technology and built on <strong>Microsoft’s Windows Azure</strong> cloud computing platform, SQL Azure enables organizations to store relational data in the cloud and quickly scale the size of their databases up or down as business needs change. Data is hosted, managed and provisioned in Microsoft data centers.</p>  <p>This course takes a <strong>hands on</strong>, real world approach to <strong>working</strong> with <strong>Azure SQL Databases</strong>.  While there is <strong>some theory</strong> most the course will be focused on working with the <strong>latest version</strong> of Windows Azure. </p>  <p>This course will give <strong>YOU</strong> the <strong>foundation</strong> to become more <strong>comfortable</strong> working inside Windows Azure. </p>  <p>As a SQL Server <strong>Consultant</strong> I can tell you that many of my <strong>customers</strong> are MOVING to <strong>Windows Azure’s</strong> various cloud offerings.</p>  <p>As a matter of fact, <strong>30%</strong> of <strong>Fortune 500</strong> companies use <strong>Azure</strong> at some level. </p>  <p>There are still many <strong>LIMITATIONS</strong> and <strong>nuances</strong> to moving SQL Server Databases to the cloud. We will <strong>discuss</strong> many of these in the <strong>course</strong>.</p>  <p>The code, applications, and TOOLS (<strong>like Management Studio</strong>) you already use today with your <strong>existing databases</strong> can be used with Azure SQL Database. <strong>Windows Azure</strong> patches the database software and backs up your database, storing the backups for a user-defined retention period and enabling point-in-time recovery.</p>  <p><strong>Enroll Now. Let’s Get Started!!!</strong></p>", 
+    "end_date": null, 
+    "title": "Learn How To Become an Azure SQL Database Architect", 
+    "price": "20.00", 
+    "instructors": "Mike West", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/714446_a15c.jpg", 
+    "course_url": "https://www.udemy.com/learn-how-to-become-an-azure-sql-database-architect/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-03T14:56:29Z"
+}

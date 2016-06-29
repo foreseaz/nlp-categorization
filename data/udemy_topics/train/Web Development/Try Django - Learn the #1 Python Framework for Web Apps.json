@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Try Django Tutorial Series </strong>(<span style=\"color: inherit;\">Last Updated: </span><em>Jan - 6-2016)</em><br></p>  <p>  \t          Three project tutorials to help you<strong> launch your </strong><strong>project <em>this month</em>. </strong>Either by collecting early email interest or early payment. This course also teaches you the basics of Django; the <strong>#1 Web Framework written in Python</strong>.  </p>  <p><strong>First Project: </strong>Create a blog with Django 1.9 and Bootstrap version 3</p><p><strong>Second Project: </strong>Create a MVP Landing Page in Django 1.8 and Bootstrap version 3<br></p><p>  \t<strong>Third project: </strong>Create and launch real live social sharing campaign called \"Launch with Code\"  </p>  <p>  \t<strong>Fourth Project</strong>: Create an MVP Landing Page to collect payment with Paypal (or pre-orders) for your products or services.  </p>  <p>  \t<strong>Fifth Project</strong>: Introduction to Django 1.7; We're going to teach you how to build a basic eCommerce app that uses Stripe's payment processing.  </p>  <p>  \t                        The Try Django Tutorial Series is designed to help you get used to using Django in building a basic landing page (also known as splash page or MVP landing page) so you can collect data from potential users. Collecting this data will prove as verification (or validation) that your project is worth building. Furthermore, we also show you how to implement a Paypal Button so you can also accept payments (or pre-payments).  </p>  <p>  \t                        Django is awesome and very simple to get started. Step-by-step tutorials are to help you understand the workflow, get you started doing something real, then it is our goal to have you asking questions... \"Why did I do X?\" or \"How would I do Y?\" These are questions you wouldn't know to ask otherwise. Questions, after all, lead to answers.  </p>  <p>  \t                This is an Ad-Free Version of the Try Django Tutorial Series from our Coding Entrepreneurs Youtube Channel. High Res Video Downloads are also included.  </p>  <p>  \t          Furthermore, we teach you how to launch on a live hosting service called Heroku (we show you were to buy domains as well).  </p>  Over <strong>184,000 students</strong> are currently learning from our courses.", 
+    "end_date": null, 
+    "title": "Try Django - Learn the #1 Python Framework for Web Apps", 
+    "price": "20.00", 
+    "instructors": "Justin Mitchel", 
+    "commitment": "27 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/76052_6800_3.jpg", 
+    "course_url": "https://www.udemy.com/try-django/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-09T05:13:49Z"
+}

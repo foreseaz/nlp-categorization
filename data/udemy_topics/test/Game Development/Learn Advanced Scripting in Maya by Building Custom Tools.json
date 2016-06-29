@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In  Advanced Scripting in Maya, we will use a real-world issue as a teaching case  while developing automation and support an FBX exporter. In the first module for this course we will  discuss some basic philosophies about software design before we start writing  our code. We will then begin our script  by starting on some basic lower level functions and ending with the creation  of our FBX export nodes. From there we  will continue our script by designing all the procedures needed to handle  exporting of rigged characters, setting our animation export settings, and  managing anim layers per animation.</p>\n\n<p>We  will also show how to set our FBX export settings and will end the second  module with writing the actual calls to the FBX exporter using our animation.  Next, we will design our main UI, so all our export code will be easier to  use. We will build a tabbed window so  we can switch between model and animation export, and include such options as  pop-up menus when we right-click for power users. To wrap things up, we will add the functions  needed to make our UI work, we will create procedures that will automatically  populate the UI depending on what is selected, procedures to support our popup  menus, and eventually calling our export code.</p>\n\n<p><strong>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</strong></p>\n\n<p><strong>More about the Instructor:</strong></p>\n\n<p>Chad  Morgan started his career at LucasArts where, as a newbie to the industry, was  fortunate enough to work with some very talented mentors who taught him how to  use Maya. Ever since then, Chad has  been trying to pay it forward by sharing what he has learned, first by giving  lectures at Autodesk Master Classes, then publishing an article in #d world  Magazine, posting tutorials on YouTube, and finally teaming up with  3dmotive. Chad Morgan currently lives  in Lake Forest, CA with his wife Carol and his son Xander.</p>", 
+    "end_date": null, 
+    "title": "Learn Advanced Scripting in Maya by Building Custom Tools", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/790714_fd01.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-learn-advanced-scripting-in-maya-by-building-custom-tools/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-12T16:32:39Z"
+}

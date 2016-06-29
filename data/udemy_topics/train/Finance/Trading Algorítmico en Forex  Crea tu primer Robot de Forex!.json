@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>Aprende a programar en MQL4 y desarrolla, prueba y optimiza tus propios sistemas de trading algorítmico. Este curso no requiere ningún conocimiento previo sobre Programación o Forex, sólo el deseo de aprender y tener éxito.</p>  <p>En la <strong>primera sección</strong> de este curso vamos a instalar MetaTrader 4, abrir una cuenta de demostración gratuita y aprender la teoría esencial detrás del trading algorítmico.</p>  <p>La <strong>segunda sección</strong> se centra en fundamentos de Programación. Incluso si nunca has programado antes, esta parte del curso te guiará de forma rápida. Adicionalmente, MQL4 es un lenguaje de programación basado en C y todo lo que se aprende en esta sección también será aplicable en lenguajes como C / C ++ / C # / Java / etc.</p>  <p>La <strong>tercera sección</strong> presenta el diseño de sistemas de trading y se complementará gradualmente con el conocimiento de programación desarrollado en la sección dos. Aquí aprenderás a cómo abrir tu primera orden de trading a través de un programa creado también por ti y cómo luego podrás modificarla o cerrarla si es necesario.</p>  <p>Finalmente, todo se combina en la <strong>cuarta sección</strong> del curso, donde vamos a construir una estrategia de trading y la convertiremos en un sistema de trading algorítmico holístico. Además, voy a mostrar brevemente cómo probar y optimizar nuestro Robot Forex en el Strategy Tester de MetaTrader 4.</p>  <p>Inscríbete hoy y pon en marcha tu viaje de Trading Algorítmico!</p>  <p>Nos vemos en clase!</p>", 
+    "end_date": null, 
+    "title": "Trading Algorítmico en Forex: Crea tu primer Robot de Forex!", 
+    "price": "20.00", 
+    "instructors": "Kirill Eremenko, Martín Durán - (Kirill's Team)", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/765238_9dd1.jpg", 
+    "course_url": "https://www.udemy.com/aprender-programar-mql4-forex/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-17T09:31:40Z"
+}

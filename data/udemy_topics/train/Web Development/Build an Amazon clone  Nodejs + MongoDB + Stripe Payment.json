@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><br></p><p>Have you ever wondering on how to build your next <strong>Revolutionary</strong> Ecommerce Web application?</p><p>This course will teach you step by step on how to clone an Amazon website with the latest cutting edge technology and that is Node.js</p><p>You will use Javascript on both the backend and frontend of the web application. </p><p><em>Live is too short</em> to depend on someone else, if you are still waiting for that one amazing technical co-founder to help you on building your web app, then I suggest you instead of waiting , its better for you to do it yourself.</p><p>Every code that will be written by me, will be explained in details. So you do not need to worry about not understanding certain algorithm.</p><p>If you are ready to embark on this journey on building an Ecommerce web application, then what are you waiting for? Lets get into it!</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Build an Amazon clone: Nodejs + MongoDB + Stripe Payment", 
+    "price": "20.00", 
+    "instructors": "Arash Yahya", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/713098_322c_2.jpg", 
+    "course_url": "https://www.udemy.com/build-an-amazon-clone-nodejs-stripe-elasticsearch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-02T08:27:49Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>this course is an introduction to how you can use SFML to build 2D games. we will see how to download and install this library with Visual Studio<br></p>\n\n<ul><li>along with 24 lectures you will learn the core module and the graphics module in SFML to learn how to make good graphics and animation inside SFML for your games</li><li>we will begin by learning how to make a simple window and then we wll learn how to fill it with components of your game then we will use the game loop to make your game active. the next step is to discover how to interact with the user by handling events. in the last section we will see how to work with sprites that are so special and helpful</li><li>in this course we will not discover how to work with the audio module and network module because this course is just an introduction but since we have documentation. no worries those modules are simple to learn since we now how SFML works after taking this course</li></ul>", 
+    "end_date": null, 
+    "title": "C++ programming For 2D Games Using SFML", 
+    "price": "20.00", 
+    "instructors": "Lharrach Abdellah", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/780210_066e_2.jpg", 
+    "course_url": "https://www.udemy.com/c-programming-for-2d-games-using-sfml/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-02T18:32:20Z"
+}

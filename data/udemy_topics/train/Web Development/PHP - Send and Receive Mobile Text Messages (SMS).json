@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>On this course you are going to learn to learn to implement a SMS feature to any PHP website or application. </p>\n\n<p>Most web applications are using SMS to verify user identity these days and these feature has become a necessary to any application. </p>\n\n<p>As more people get online these days, more hackers and bad people as well, and they are after user identities. Companies have understood how important is to secured their user data and that's why more features are being implemented all the time.</p>\n\n<p>We more security questions, more recaptcha code, email verifications, and now more phone call verifications than ever before. You as a developer should know how to implement this to your applications. </p>\n\n<p>Come join me in this new adventure and lets get ahed of the game today!</p>", 
+    "end_date": null, 
+    "title": "PHP - Send and Receive Mobile Text Messages (SMS)", 
+    "price": "20.00", 
+    "instructors": "Edwin Diaz", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/863976_c3d7.jpg", 
+    "course_url": "https://www.udemy.com/php-send-and-receive-mobile-text-messages-sms/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-30T19:23:08Z"
+}

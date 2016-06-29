@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Course Development"
+    ], 
+    "description": "\n\n                    \n                                            \n                            PSA: This Course will no longer be available June 30th 2016 onwards\n                            Coursera announced that they will be shutting off their old platform on June 30th. Over  400 courses that are part\n                                of the old stack will be no longer be available. You can find the  complete list here.\n                            \n                            \n\n                            \n                                Read this guide to learn how to download this course before the old platform shuts down. \n\n                                The guide provides two ways to download the courses - Chrome Plugin and Python Script. Depending on which method you use, check the appropriate sections below for further details.\n                            \n                            \n                            \n                                To download this course you need to be enrolled in the course.\n                                                                Unfortunately this course is closed for enrollment to new students. If you hadn't signed up before, you will not be able to download the course.\n                                \n\n                                                            \n\n                            Chrome Plugin\n\n                                                                If you had signed up for this course you will be able to download and save the course materials using the chrome plugin. Click on Go To Class and Log in to your Coursera account to do so.\n                            \n                            Python Script\n                            \n                                                                For the python script to work you will need a class name. Pick one from below:\n                                                                    innovacionrea-001\n                                                                    innovacionrea-002\n                                \n                                \n                                If more than one class name below, pick the last one. If the script fails, pick the one above that and try again. Not all of these class names are guranteed to work.\n\n\n                            \n\n\n\n\n\n\n                        \n                    \n                    El curso cubre la temática de la selección, uso y reúso de recursos educativos abiertos, las posibilidades de repositorios que alojan estos materiales, estrategias de búsqueda e integración en procesos formativos, así como de valorar su medición e impacto en los aprendizajes de los participantes. \n\nEl participante podrá desarrollar competencias digitales y de diseño Instruccional para integrar recursos educativos abiertos (REA) en los ambientes de aprendizaje a través de prácticas educativas abiertas.\n\n                                            Syllabus\n                        I. Movimiento educativo abierto.II. Búsqueda de recursos educativos abiertos.III. Uso de recursos educativos abiertos en procesos formativos.IV. Movilización de recursos educativos abiertos en ambientes de aprendizaje.\n                                    ", 
+    "end_date": "1900-01-01T00:00:00Z", 
+    "title": "Innovación educativa con recursos abiertos", 
+    "price": 0, 
+    "instructors": "María Soledad Ramírez Montoya and José Vladimir  Burgos Aguilar", 
+    "institution_name": [
+        "Tecnológico de Monterrey"
+    ], 
+    "commitment": "4-6 hours", 
+    "subject_name": [
+        "Education & Teaching"
+    ], 
+    "course_url": "https://www.coursera.org/course/innovacionrea", 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2014-09-01T00:00:00Z"
+}

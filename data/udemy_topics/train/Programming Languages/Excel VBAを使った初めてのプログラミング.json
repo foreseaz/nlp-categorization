@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<ul><li>このコースは以下の人を対象としています</li></ul>\n\n<ol><li>プログラミング経験がない人</li><li>過去に挫折をしてしまった人</li><li>自称プログラミングアレルギー</li><li>学んだがよくわからなかった</li><li>etc</li></ol>\n\n<ul><li>プログラミングへのハードルを出来るだけ下げて、受講後にもっと本格的に学びたいと思って頂ける事を目的としています</li><li>利用するプログラミング言語としてExcel VBAとなりますが､ プログラミングに主体をおいているため､Excel独特の機能はあまり使わずに､ピュアなBASICを想定して学習します</li><li>BASIC言語のためアプリ開発や､WEB開発には直接生かせないかも知れませんが､基礎を習得するには向いていると思います</li><li>またここで習得した内容は､Excel VBAの本格的に勉強する人にも役立つかと思います</li><li>なお次のステップとしては､市販の書籍やUdemy内の充実したコンテンツがたくさんありますのでそちらを推奨します</li></ul>", 
+    "end_date": null, 
+    "title": "Excel VBAを使った初めてのプログラミング", 
+    "price": "20.00", 
+    "instructors": "xvax Kenji Ema", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/876794_98b9_4.jpg", 
+    "course_url": "https://www.udemy.com/excel-vba/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-13T14:12:37Z"
+}

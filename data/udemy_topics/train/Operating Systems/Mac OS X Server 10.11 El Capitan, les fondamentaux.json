@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>OS X El Capitan est la nouvelle version du système d’exploitation d’Apple sorti en 2015. OS X El Capitan Server est l’application qui va transformer votre Mac en véritable serveur afin d’intégrer les services réseau classiques et propres au monde Mac : DNS, DHCP, Annuaire centralisé, Profils utilisateurs, Serveur de fichiers, Déploiement, VPN, Web, FTP, Mail, Firewall, Wiki, services collaboratifs, Messagerie, Développement. Cette formation Mac OS X Server 10.11 El Capitan, Les fondamentaux, vous permettra d’acquérir les connaissances théoriques et pratiques nécessaires pour gérer un serveur de Mac OS X 10.11 Server (et version antérieur) dans un système d’information. Durant cette formation Mac OS X Server 10.11 El Capitan, Les fondamentaux, Bastien BLEYZAT va vous apprendre comment obtenir et installer OS X Server, le mettre à jour, le configurer, gérer les comptes utilisateurs, gérer le partage des ressources, le sauvegarder, le restaurer et le sécuriser. A la fin de cette formation Mac OS X Server 10.11 El Capitan, Les fondamentaux, vous serez capable de gérer une PME avec un seul logiciel ! Une 2ème formation Mac OS X Server 10.11 El Capitan qui va implémenter les fonctionnalités avancées est en cours de réalisation.</p>", 
+    "end_date": null, 
+    "title": "Mac OS X Server 10.11 El Capitan, les fondamentaux", 
+    "price": "50.00", 
+    "instructors": "Alphorm Démocratise le savoir IT", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/828540_2815_2.jpg", 
+    "course_url": "https://www.udemy.com/mac-os-x-server-1011-el-capitan-les-fondamentaux/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-21T20:53:30Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>Welcome to my on 2-Stage Least Squares (2SLS). This course is carefully designed for students/researchers who are learning 2SLS for the first time and who are not quantitatively inclined. <br><br>In fact, this course is entirely <u><strong>NON-MATHEMATICAL</strong>!</u> <br><br>This course is perfect for learning the<strong><em> intuition</em></strong> and <em><strong>logic</strong></em> of 2SLS and its corresponding diagnostic tests before formally learning the derivation and mathematics from an econometrics course or textbook. </p><p>Moreover, this course covers the application of 2SLS and its diagnostic tests using two of the most popular econometrics software packages, Stata and EViews. <br><br>At the end of this course, the student will have a clear understanding of why 2SLS is used and how it is implemented, and be able to estimate a 2SLS model using empirical data. <br><br></p>", 
+    "end_date": null, 
+    "title": "Master 2-Stage Least Squares Without Any Mathematics", 
+    "price": "20.00", 
+    "instructors": "Dr David Tan", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/662780_e73e_3.jpg", 
+    "course_url": "https://www.udemy.com/easy-2sls/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-07T06:59:44Z"
+}

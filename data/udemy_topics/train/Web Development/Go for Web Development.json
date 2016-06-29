@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Go is on the rise and showing itself as a powerful option in many software development domains. For web developers seriously considering adopting the language on the server side, Go comes with a very strong and accessible standard library. It makes setting up the architecture for web applications a comfortable experience, and provides a growing ecosystem of tools, libraries, and frameworks that can help you build web applications for delivery on the web.</p><p>Go for Web Development gets you started with web development in the language, opening with the classic \"Hello world\" through building an application with a strongly designed database backend, useful middleware, UI with an intelligent search function, multi-user authentication, and more.</p><p>We'll start off by building a web server with Go’s extensive standard library. You’ll learn the concepts of a single page web application and create a dynamic user interface using templates, manipulate a database, and use powerful encryption algorithms to implement an authentication system. We'll also start to incorporate more functionalities by calling out to external libraries from our database. When we've put everything together, we'll show you how package it all up and deploy it into the wild using Heroku.</p><p><strong>About The Author</strong></p><p><strong>Larry Price</strong> is a software engineer with a passion for exploring the world of programming. He has a wide experience in building softwares with programming languages like go, ruby, javascript, and C++. He fell in love with go  a couple of years ago and has taken every opportunity to utilize it at home and work. <br></p>", 
+    "end_date": null, 
+    "title": "Go for Web Development", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/723908_5463_2.jpg", 
+    "course_url": "https://www.udemy.com/go-for-web-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-11T12:39:06Z"
+}

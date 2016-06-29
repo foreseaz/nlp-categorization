@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>If you want to create an eCommerce website to sell physical or digital products online, this is the course for you.</p><p>We’ll build an actual eCommerce website step by step, from start to finish. You’ll learn how to get your website live on the internet and how to customize it with WordPress. No experience and no coding is required.</p><p>The website we’ll build will have the following features:</p><ul><li>Variable products that can have different colors/sizes</li><li>Limits on available inventory</li><li>Shipping rates automatically applied based on location of customer</li><li>Tax rates automatically applied based on location of customer</li><li>Auto-generated emails to site owner and customer for new orders, invoices, etc.</li><li>Checkout page to gather necessary shipping information</li><li>PayPal payment gateway</li><li>Credit card and debit card payment gateways</li><li>Cart page to edit items added to cart</li><li>Promotional codes</li><li>Customer user accounts</li><li>Product reviews</li><li>Related products on product pages</li><li>‘Follow Us’ widget with social icons and links to profiles for such as Facebook, Twitter, Google Plus, Instagram, etc.</li><li>‘Contact Us’ widget with company contact information</li><li>Custom domain name</li><li>Unlimited bandwidth web hosting</li><li>Responsive web design, so it will look good on any screen size, tablet, or mobile phone</li></ul><p>Don’t have a programming background? No worries, we’ll start from scratch. You’ll learn how to register a domain name, set up web hosting, and install WordPress (in other words, everything you need to get your site live on the internet). Then we’ll start customizing the site with WordPress. You’ll be able to quickly and easily add content and customize the design. All without writing code. </p><p>We’ll be using the WooCommerce plugin and the Storefront theme to create the site. WooCommerce is one of the most widely used tools for creating an eCommerce site, and Storefront is a theme built specifically for WooCommerce.</p><p>We’ve cut out the fluff so that you can get your website online as quickly as possible and start selling products. Now go get started!</p>", 
+    "end_date": null, 
+    "title": "How to Make an Online Store w/ WordPress - eCommerce Website", 
+    "price": 0, 
+    "instructors": "Hoku Ho", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/662390_452b.jpg", 
+    "course_url": "https://www.udemy.com/how-to-make-an-ecommerce-website-from-scratch-wordpress/", 
+    "subject_name": [
+        "E-Commerce"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-06T20:07:43Z"
+}

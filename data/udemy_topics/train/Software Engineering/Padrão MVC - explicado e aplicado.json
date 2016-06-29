@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Neste curso você aprenderá de uma forma simples e rápida o padrão MVC (<em>Model-View-Controller</em>) em apenas 30 minutos!</p>  <p>Uma boa parte dos programadores ainda desenvolvem sistemas de softwares sem seguir quaisquer padrões de projeto. Você verá que o padrão MVC diminui a complexidade no desenvolvimento de aplicações através da separação de interesses, isolando a lógica de negócios da interface gráfica com o usuário.</p>  <p>Muitos frameworks de aplicação comerciais e não comerciais foram criados tendo como base esse modelo como, por exemplo, ASP.NET MVC, Apache Struts, Spring MVC, Cake PHP, entre outros. Portanto é imprescindível que você entenda o padrão MVC antes de começar a trabalhar com qualquer framework que siga este padrão.</p>  <p>Este curso é rápido, prático e objetivo. Comece hoje mesmo!</p>", 
+    "end_date": null, 
+    "title": "Padrão\u000b MVC - explicado e aplicado", 
+    "price": "20.00", 
+    "instructors": "Marco Aurélio Regis", 
+    "commitment": "34 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/757876_4f80_2.jpg", 
+    "course_url": "https://www.udemy.com/padrao-mvc/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-10T01:45:07Z"
+}

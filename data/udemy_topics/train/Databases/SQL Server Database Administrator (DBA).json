@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p> SQL Server لقد غطينا في هذا المساق كل ما يلزمك لادارة قواعد البيانات على .</p>\n\n<p>حيث ستجد في هذا المساق الشرح الكافي لكل ما يلزم في هذا المجال حيث عتمدنا ترتيب مايكروسوفت للمواضيع التي يجب تغطيتها في هذا المجال وتوسعنا في ذلك وكذلك ستجد التطبيق العملي لكل موضوع تمت تغطيته.</p>\n\n<p>من ميزات هذا المساق انه عباره عن تسجيل لدوره حقيقية بحيث يحوي كل النقاشات التي تدور بين المدرب والطلاب والتي تثري الماده بشكل كبير.</p>\n\n\n\n<p>لا يلزمك سوى المعرفة الاساسية في قواعد البيانات و</p>\n\n\n\n<p>T-SQL</p>\n\n\n\n<p>للتحاق في هذا المساق.<strong></strong></p>", 
+    "end_date": null, 
+    "title": "SQL Server Database Administrator (DBA)", 
+    "price": "50.00", 
+    "instructors": "Mohammad Qalalwa, Arresha Studios", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/798022_eb47_2.jpg", 
+    "course_url": "https://www.udemy.com/sql-server-database-administrator-dba/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-19T15:15:24Z"
+}

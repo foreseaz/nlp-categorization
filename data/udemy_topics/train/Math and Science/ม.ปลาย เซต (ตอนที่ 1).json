@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>พื้นฐาน</p>\n\n<ul><li>นิยาม</li><li>สมาชิก</li><li>การเท่ากัน</li><li>เซตที่ต้องรู้</li><li>การเขียนเซต<ul><li>เงื่อนไข</li><li>แจกแจง</li></ul></li><li>ประเภท<ul><li>จำกัด</li><li>อนันต์</li></ul></li></ul>\n\n\n\n\n\n\n\n<p>Operation</p>\n\n\n\n\n\n\n\n<ul><li>ทั่วไป<ul><li>Intersection</li><li>Union</li><li>Difference</li></ul></li><li>สมบัติ<ul><li>กระทำตัวเอง</li><li>กระทำกับ {}</li><li>กระทำกับ U</li><li>กระทำกับ Complement</li><li>A กับ B</li><li>De’morgan</li><li>สลับที่ เปลี่ยนกลุ่ม, เปิดวงเล็บ</li><li>ไม่ตัดออก</li><li>กฎการลบ</li></ul></li></ul>\n\n\n\n\n\n\n\n<p>สูตรพิเศษ</p>\n\n\n\n\n\n\n\n<ul><li>เหมือน / ไม่เหมือน</li><li>กระจายเกย์คิง</li></ul>\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n<p>\"สื่อการสอนทั้งหมดนี้อาจารย์เรียบเรียง, พิมพ์, ถ่ายทำ, ตัดต่อ, ทำเว็บ, App ทั้งหมดด้วยตัวคนเดียว ค่าตอบแทนจากงานนี้ จะใช้พัฒนาความรู้, ช่วยเด็กยากจน, ให้ทุนการศึกษา, เดินทางบรรยายธรรม\"</p>\n\n\n\n\n\n\n\n<p>..................................................โปรดอย่าละเมิดลิขสิทธิ์........................................................</p>", 
+    "end_date": null, 
+    "title": "ม.ปลาย เซต (ตอนที่ 1)", 
+    "price": "20.00", 
+    "instructors": "WeMaths คณิตศาสตร์ชาติไทย มาตรฐานระดับโลก", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/758084_3a3e.jpg", 
+    "course_url": "https://www.udemy.com/m4a01set/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-10T06:26:08Z"
+}

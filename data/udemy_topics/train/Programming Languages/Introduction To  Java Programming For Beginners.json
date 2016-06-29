@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This is a very basic introductory course to the fundamentals of the java programming language to anyone new to the language.</p>  <p>Java is one of the top-five programming languages in the world today. It is a versatile and elegant object –oriented programming language. This means it is class based and treats everything as an object. It has a robust security . Java is the number one development environment for the enterprise. Almost 97%  of all networked enterprise applications runs on Java. OVER 3 mobile devices use it.  </p>  <p>Java Virtual Machine or JVM makes it easy to run java built applications on any platform Most vendors have a version of JVM on their operating system which simplifies the portability of java applications.</p>  <p>Java platform contains classes and other useful APi’s that all java built applications use.This makes it easy to run java on top any operating system hence making it platform independent and providing flexibility of choice for the user to select the operating system to use to run their java applications.</p>      <p>What you will learn in this course includes:</p>  <ul><li>How to download and install Java JDK</li><li>  </li><li>How to setup environment variable path to java</li><li>  </li><li>What is a compiler</li><li>  </li><li>What is a Interpreter</li><li>  </li><li>What isa Variable</li><li>  </li><li>What is Java programming language</li><li>  </li><li>What is Java Virtual Machine</li><li>  </li><li>What is Java platform</li></ul>", 
+    "end_date": null, 
+    "title": "Introduction To  Java Programming For Beginners", 
+    "price": "20.00", 
+    "instructors": "Bluelime Learning Solutions", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/748430_3634_3.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-java-programming-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-01T02:43:25Z"
+}

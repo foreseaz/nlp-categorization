@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">change log:</strong>  </p>  <p style=\"\">  \t<strong style=\"\"></strong>   15-Jul-2014: zoom and pan added so people with phone or smaller screens can see the code.  </p>  <p style=\"\">  \t    _______________________________________________________________________  </p>  <p style=\"\">  \t              Are you tired of using Google and Yahoo all the time whenever you want to look up anything? Then let us try to build our own Search Engine using  PHP and SQL. Obviously there is no way we can make the Google lose the race but we can give a good attempt to create our own search engine.  </p>  <p style=\"\">  \t              Let us learn to come up with our own search engine. It will check the keywords searched by users with the keywords in the database then displaying the results. We will use php language and MySql database services in order to implement this functionality. Hence it is expected that you have a good grasp on the basic concepts of both of these before you move on further. We will complete this tutorial making use of the most basic code and not going through the complex SQL queries. It is assumed that you know the basics of Structured Query Language and PHP.  </p>", 
+    "end_date": null, 
+    "title": "create a search engine for your website!", 
+    "price": "20.00", 
+    "instructors": "Abdulrahman Alshammari", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/261148_e97c.jpg", 
+    "course_url": "https://www.udemy.com/create-a-simple-php-mysql-search-engine/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-14T16:00:37Z"
+}

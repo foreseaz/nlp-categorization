@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">This comprehensive course explores Brackets, the open source code editor by Adobe.</p><p style=\"\">We will go from A to Z with Brackets in this tutorial series, first learning some of the back story behind it, then installing it, and finally becoming acquainted with its many features.</p><p style=\"\">You will learn:</p><p style=\"\">• How to install Brackets on your PC or Mac<br style=\"\">• How to open and save files in Brackets<br style=\"\">•  How to add new Projects to Brackets<br style=\"\">• How to install brackets plugins <br style=\"\">• How to use the brackets live editor<br style=\"\">• How to use Brackets live preview<br style=\"\">• How to take advantage of Quick Docs to rapidly prototype CSS</p><p style=\"\">Brackets has many practical features. This tutorial series will cover everything you need to get fully set up with Brackets. You&#039;ll learn managing files and projects, as well as navigation. You&#039;ll also install powerful plugins using the power of Brackets&#039; growing community.</p><p style=\"\">Brackets&#039; unique features will also be explored in this tutorial. Use live preview to edit your CSS in Brackets and see it update in real time. The live editor will also let you write CSS styles faster than you ever thought possible.<br style=\"\"><br style=\"\"></p><p style=\"\"><br style=\"\"><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Learn Brackets - The Open Source Text Editor", 
+    "price": 0, 
+    "instructors": "Daniel Stern", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/472066_efb9.jpg", 
+    "course_url": "https://www.udemy.com/brackets/", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-09T16:59:21Z"
+}

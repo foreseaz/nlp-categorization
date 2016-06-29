@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Internet of Things"
+    ], 
+    "description": "\n\n                    \n                    \n                    The Raspberry Pi is a small, affordable single-board computer that you will use to design and develop fun and practical IoT devices while learning programming and computer hardware. In addition, you will learn how to set up up the Raspberry Pi environment, get a Linux operating system running, and write and execute some basic Python code on the Raspberry Pi. You will also learn how to use Python-based IDE (integrated development environments) for the Raspberry Pi and how to trace and debug Python code on the device.\n\n                                            Syllabus\n                        Module 1This module describes the basic functionality the Raspberry Pi B+ board. I'll describe how to set up the board, configure it, and use it. An important point differentiating Raspberry Pi from the Arduino platform which we have talked about previously is that Raspberry Pi uses an operating system. I'll describe some of the implications of an operating system on the behavior of the Raspberry Pi as an IoT device.Module 2 The Raspberry Pi is typically installed with a Linux-based operating system, so we present the basics of Linux and its use. We describe some of the main features including navigating the file system and managing processes. We describe the text-based user interface through the shell and we overview the graphic user interface which is the default with the Raspian Linux distribution.Module 3We present the basics of the Python programming language to prepare you for programming on the Raspberry Pi. Many languages can be used but Python is the most convenient for the Raspberry Pi because convenient APIs are provided for basic operations such as controlling the pins. Python is a powerful language with useful features that we will present so that you can use these features to control the Raspberry Pi.\nModule 4In this module we describe how to communicate with devices through the pins of the Raspberry Pi. We examine the RPi.GPIO library which provides Python functions used to access the pins. We discuss how to set up the pins, apply digital voltages, and generate Pulse Width Modulated signals. We also describe the Tkinter Python library and show how it can be used to access pins through a graphic user interface.\n                                    ", 
+    "end_date": "2016-01-11T00:00:00Z", 
+    "title": "The Raspberry Pi Platform and Python Programming for the Raspberry Pi", 
+    "price": 0, 
+    "instructors": "Ian Harris", 
+    "institution_name": [
+        "University of California, Irvine"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/learn/raspberry-pi-platform", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2015-12-14T00:00:00Z"
+}

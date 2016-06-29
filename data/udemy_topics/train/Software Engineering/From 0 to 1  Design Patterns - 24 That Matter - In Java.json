@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<ul><li>Prerequisites: Basic understanding of Java</li><li>Taught by a Stanford-educated, ex-Googler, husband-wife team</li><li>More than 50 real-world examples</li></ul><p><strong><em>This is an intensely practical, deeply thoughtful, and quirky take on 24 Design Patterns that matter.</em></strong> </p><p>Let’s parse that.</p><ul><li>The course is <strong>intensely practical</strong>, bursting with examples - the more important patterns have 3-6 examples each. More than 50 real-world Java examples in total.</li><li>The course is <strong>dee</strong><strong>ply thoughtful</strong>, and it will coax and cajole you into thinking about the irreducible core of an idea - in the context of other patterns, overall programming idioms and evolution in usage.</li><li>The course is also <strong>quirky</strong>. The examples are irreverent. Lots of little touches: repetition, zooming out so we remember the big picture, active learning with plenty of quizzes. There’s also a peppy soundtrack, and art - all shown by studies to improve cognition and recall.</li><li>Lastly, the patterns <strong>matter </strong>because each of these 24 is a canonical solution to recurring problems.</li></ul><p><strong><br></strong></p><p><strong>What's Covered: </strong></p><ul><li>Decorator, Factory, Abstract Factory, Strategy, Singleton, Adapter, Facade, Template, Iterator, MVC, Observer, Command, Composite, Builder, Chain of Responsibility, Memento, Visitor, State, Flyweight, Bridge, Mediator, Prototype, Proxy, Double-Checked Locking and Dependency Injection.</li><li><span></span>The only GoF pattern not covered is the Interpreter pattern, which we felt was too specialized and too far from today’s programming idiom; instead we include an increasingly important non-GoF pattern, Dependency Injection.</li><li><span></span>Examples: Java Filestreams, Reflection, XML specification of UIs, Database handlers, Comparators, Document Auto-summarization, Python Iterator classes, Tables and Charts, Threading, Media players, Lambda functions, Menus, Undo/Redo functionality, Animations, SQL Query Builders, Exception handling, Activity Logging, Immutability of Strings, Remote Method Invocation, Serializable and Cloneable, networking.</li><li>Dependency Inversion, Demeter’s Law, the Open-Closed Principle, loose and tight coupling, the differences between frameworks, libraries and design patterns.</li></ul><p><strong>Talk to us!</strong></p><ul><li>Mail us about anything - anything! -  and we will <strong>always </strong>reply :-)</li></ul>", 
+    "end_date": null, 
+    "title": "From 0 to 1: Design Patterns - 24 That Matter - In Java", 
+    "price": "20.00", 
+    "instructors": "Loony Corn", 
+    "commitment": "11.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/633466_c7a0_3.jpg", 
+    "course_url": "https://www.udemy.com/from-0-to-1-design-patterns/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-07T12:05:34Z"
+}

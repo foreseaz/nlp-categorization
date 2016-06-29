@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>サイバー・セキュリティの現実を知るべき時代です。そこで、実際の<strong>ハッキングテクニック</strong>や<strong>サイバースペースの現状を理解</strong>する事は、サイバーセキュリティ対策を学ぶ上で必要な事柄を理解するのに大変有効です。</p>\n\n<p>本コースでは、技術者も、技術者ではないビジネスパーソンも習得すべき内容を取り扱っています。現在のサイバーセキュリティにかかわる脅威の解説、<strong>攻撃と防御の実際</strong>をご紹介しています。</p>\n\n<p>また、数多くのデモをご紹介するだけでなく、それらの<strong>ハッキングテクニックを手元の環境で再現するための検証環境構築と操作手順</strong>もステップ・バイ・ステップで解説します。</p>\n\n<p>関心のあるすべての方のエントリーとして受講いただきたくビギナーコースとしていますが、<strong>実践にフォーカス</strong>した内容が豊富に含まれています。</p>", 
+    "end_date": null, 
+    "title": "サイバーセキュリティ～ハッキングと防御 ビギナー編", 
+    "price": "50.00", 
+    "instructors": "Hackademy Project, Riotaro OKADA, Yuichi Kuramoto", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/796730_f77d.jpg", 
+    "course_url": "https://www.udemy.com/hack-defence-basic/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-18T07:01:23Z"
+}

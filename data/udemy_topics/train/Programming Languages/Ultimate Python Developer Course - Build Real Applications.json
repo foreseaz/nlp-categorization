@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>NEW COURSE!</strong></p>\n\n\n\n\n\n<p>This is the most comprehensive, yet straight-forward, course for the Python programming language. Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you!</p>\n\n\n\n\n\n\n\n<p>In this Python for Beginners course, Instructor Samarth Paboowal will teach you how to quickly write your first program in Python! You will also learn how to create custom modules and libraries. This comprehensive course covers the basics of Python as well as the more advanced aspects. No other Python training course is this detailed.<br></p>\n\n\n\n\n\n\n\n<p>With <strong>over 60 lectures and more than 5 hours of video</strong> this comprehensive course covers basics of Python and some real world applications of Python.<br></p>\n\n\n\n\n\n\n\n<p>Some applications that we will build in this course are :</p>\n\n\n\n\n\n\n\n<p><strong>1) Handling Images with Python</strong></p>\n\n\n\n\n\n\n\n<p><strong>2) Image Downloader</strong></p>\n\n\n\n\n\n\n\n<p><strong>3) CSV File Downloader</strong></p>\n\n\n\n\n\n\n\n<p><strong>4) A Simple Python Key Logger ( Windows )</strong></p>\n\n\n\n\n\n\n\n<p><strong>5) Reconnaissance Scanner</strong></p>\n\n\n\n\n\n\n\n<p><strong>6) Lottery Number Generator ( GUI Application )</strong></p>\n\n\n\n\n\n\n\n<p><strong>7) Tic Tac Toe Game ( GUI Application )</strong></p>\n\n\n\n\n\n\n\n<p>Create stable and more functional programs today with our Python course.</p>", 
+    "end_date": null, 
+    "title": "Ultimate Python Developer Course - Build Real Applications", 
+    "price": "20.00", 
+    "instructors": "Samarth Paboowal", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/718722_e656_2.jpg", 
+    "course_url": "https://www.udemy.com/ultimate-python-developer-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-06T20:43:32Z"
+}

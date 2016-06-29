@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>PHP is back and is faster and more lightweight than ever. The world \nof web technology is seamlessly evolving, and PHP 7’s simplicity and \nprowess addresses the requirements of current and future web and mobile \napplication development.</p>\n\n<p>Learning PHP 7 demonstrates how to script for the web, providing \neverything from simple PHP commands to advanced data manipulations.</p>\n\n\n\n\n\n\n\n\n\n<p>The course takes a deep dive into basic PHP concepts such as \nvariables, constants, operators, arrays, conditionals, and loops, which \nevery developer needs to master. The course also covers object-oriented \nparadigms and coding standards, which acts as the do’s and don'ts of \nwriting code.</p>\n\n\n\n\n\n\n\n\n\n<p>The core of the course lies in bringing all the newly introduced \nfeatures to fruition. This is done through the creation of a fun social \nweb application where a viewer can post and share pictures including \nfeatures of likes and comments. The use of several controllers in the \napplication provides the viewer with a learning curve to add more \ninteractivity to their own applications. The course also shows you how \nto build an administrative panel with an intuitive menu and create a \ndynamic page to manage the users, photos, and comments in the \napplication.</p>\n\n\n\n\n\n\n\n\n\n<p>Important topics such as creating an API for an RSS feed, deploying \nwith Docker and Amazon AWS, and versioning with Git are a real bonus for\n blooming web developers.</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">About The Author</strong></p>\n\n\n\n\n\n<p><strong>Nicola Pietroluongo</strong> is a software engineer with many years of experience.</p>\n\n\n\n\n\n\n\n<p>His development background covers over a decade of working in a wide \narea of development stack building web applications for big companies \nacross Europe. He is passionate about experimenting new technologies and\n is currently creating and contributing to interesting open source \nprojects.</p>\n\n\n\n\n\n\n\n\n\n<p>Furthermore, he is an article writer for blogs and magazines and a conference speaker. </p>", 
+    "end_date": null, 
+    "title": "Learning PHP 7: From the Basics to Application Development", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/860472_0432_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-php-7/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-26T11:04:55Z"
+}

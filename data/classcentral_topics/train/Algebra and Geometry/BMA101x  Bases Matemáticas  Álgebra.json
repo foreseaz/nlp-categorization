@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Algebra & Geometry"
+    ], 
+    "description": "\n\n                    \n                    \n                    En este curso se recordará lo que es una ecuación con una única incógnita y cómo solucionarla. A partir de ahí se tratarán:\n\nLos sistemas de ecuaciones lineales. Cómo se definen, cómo se clasifican y cómo se resuelven utilizando el método de Gauss\n\tEl concepto de matriz y las operaciones entre matrices\n\tEl cálculo de matrices inversas mediante el método de Gauss y el de los adjuntos\n\tUna introducción a las ecuaciones matriciales\n\tEl determinante de una matriz cuadrada y su cálculo\n\tEl rango de una matriz\n\tLa expresión matricial de un sistema de ecuaciones lineales y la regla de Cramer\n\n\n                                    ", 
+    "end_date": "2017-05-29T00:00:00Z", 
+    "title": "BMA101x: Bases Matemáticas: Álgebra", 
+    "price": 0, 
+    "instructors": "Alicia Herrero Debón", 
+    "institution_name": [
+        "Universitat Politècnica de València"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.edx.org/course/bases-matematicas-algebra-upvalenciax-bma101x-1", 
+    "duration": "53 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-05-23T00:00:00Z"
+}

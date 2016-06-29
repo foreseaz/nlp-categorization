@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em><strong>\"I took this class with impatience and all my expectations were fulfilled. The course is very well organized, the lectures are clear, the explanations are easy to follow and you will put all the advises into action in no time\". Silviu Marisca</strong></em></p>\n\n<p>This course is best for those who are new to web development and struggling to make their web pages more interactive and cool and make their form work like charm.<br></p>\n\n\n\n<p>Course is structured in a very well fashion so that everything you learn is in a sequence that makes you not to confuse. There are a lot cool stuff that we will build from scratch using JavaScript like:</p>\n\n<p>- Creating functionality to restrict user from adding more than 10 characters just like you see on twitter.</p>\n\n<p>- Creating an awesome animated sidebar menu</p>\n\n<p>- Trapping user for unsaved work</p>\n\n<p>- Creating an awesome interactive signup form</p>\n\n<p>- Creating cool toggle effect</p>\n\n<p>- A lot more...</p>\n\n\n\n<p>I also covers everything about basics you need to learn to get started with JavaScript. In less time you will learn a lot</p>\n\n\n\n<p>If you are thinking that why should you take this course, then here's why, now a days nobody likes simple static boring websites, everyone want to have a website which is more interactive, responsive and well developed. This course provides you all the basics about JavaScript that you need to learn make your web pages more awesome and interactive to be more advanced in web development.</p>", 
+    "end_date": null, 
+    "title": "JavaScript for Beginners with easy examples", 
+    "price": "20.00", 
+    "instructors": "Usman Raoof", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/513958_b554_12.jpg", 
+    "course_url": "https://www.udemy.com/javascript-for-dummies-and-newbies/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-28T19:46:51Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Learn about the amazing functionalities of Tableau Server, Online, Public, etc. You will learn about the Tableau server download options, how to download worker nodes to establish secondary server, how to perform a step-by-step installation of server. You will also learn about the various files which ensure that the visualisations are displayed properly by ensuring high server availability through clustering concepts. You will learn about the following in detail:</p>\n\n<ul><li>Learn about the Tableau server installation</li><li>Learn about the Tableau server architecture</li><li>Learn about the key processes on Tableau server</li><li>Learn about the log files pertaining to Tableau server</li><li>Learn about the configuration tabs/sections before/after Tableau installation</li><li>Learn about features of Tableau Public</li><li>Learn about features of Tableau Online</li><li>Learn about exporting Tableau Desktop worksheet, workbooks, etc., in various formats</li></ul>", 
+    "end_date": null, 
+    "title": "Tableau 9.3 Server & Online", 
+    "price": "20.00", 
+    "instructors": "ExcelR Solutions", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/882960_0862_3.jpg", 
+    "course_url": "https://www.udemy.com/tableau-93-server-online/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-20T08:38:27Z"
+}

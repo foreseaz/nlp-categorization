@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this Deploying Docker Containers to Amazon Web Services training course, expert author Ryan Neufeld will teach you how to deploy Docker-centric applications and systems onto Amazon Web Services. This course is designed for users that already have experience with Docker. </p>\n\n<p>You will start by learning how to run a simple application on ECS, including how to create an ECS cluster, define a task for an application, and run the application task inside the cluster. From there, Ryan will teach you how to run a multi-container application on ECS, including how to link applications via ECS tasks, inspect logs for a cluster, and collect logs from a cluster. Finally, this video tutorial will teach you about automating clusters and deployment. </p>\n\n\n\n<p>Once you have completed this computer based training course, you will be fully capable of deploying Docker containers to Amazon Web Services. Working files are included, allowing you to follow along with the author throughout the lessons.</p>", 
+    "end_date": null, 
+    "title": "Deploying Docker Containers to Amazon Web Services", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/820224_da08_3.jpg", 
+    "course_url": "https://www.udemy.com/deploying-docker-containers-to-amazon-web-services/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-12T20:10:21Z"
+}

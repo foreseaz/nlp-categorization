@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>*** Spring Sale: Save 50% off the regular price of the course ***</p><p>In the <strong>PanelView Plus (PVP) Basics</strong> course you'll learn <em>everything</em> you need to know to setup, program, and troubleshooting the <strong>Allen-Bradley </strong><strong>PanelView Plus, Plus 6, and Plus 7</strong> line of HMI's.</p>\n\n<p>You'll start by learning about all the different PanelView Plus models, as well as each unit's unique features and limitations. You'll also learn what networks and communications each model supports, as well as which versions of software and .MER Runtime files are supported on each.</p>\n\n<p>Then you're given a tour of the hardware, including where the communications ports and memory cards slots are located. You'll even learn how to dis-assemble a panel and see where all the replaceable internal components are located, as well as how to install optional communications modules.</p>\n\n<p>From there, you'll learn how to use PanelView Plus Configuration Menu, walking through each of the different menus and settings, and learning how to accomplish key tasks like setting the panel's Ethernet address, copying .MER Runtimes to and from the panel, as well as how to set the default startup application.</p>\n\n<p>Next, you'll learn how to use the PanelView Plus programming software, <strong>FactoryTalk View Studio</strong>, starting with how to get a <strong>FREE</strong> copy to use to follow along!<br></p>\n\n<p>So much is actually covered in the software section that it wasn't possible to list all of it here (see the lesson descriptions for full details,) but you will find the main software topics listed below:<br></p>\n\n<ul><li><strong>How to open, edit, and create applications</strong></li><li><strong>How to correctly setup project settings, and what to consider before changing</strong></li><li><strong>How to setup RSLinx Enterprise Ethernet and Serial communications to:</strong><ul><li><strong></strong>ControlLogix</li><li>CompactLogix</li><li>SLC-500</li><li>MicroLogix</li></ul></li><li><strong>How to create, edit, and use all the different types of HMI Tags</strong></li><li><strong>How to import Tags from RSLogix, and import / export the Tag DB to Excel</strong></li><li><strong>How to create, edit, and test Graphics, Objects, Symbols, and Libraries</strong></li><li><strong>How to directly reference PLC Tags both online and off</strong></li><li><strong>How to test your Graphic Displays, and test your entire Application on your PC</strong></li><li><strong>And much much more! (see lesson descriptions for more details!)</strong></li></ul>\n\n<p>After learning all about creating, editing, and troubleshooting applications, you'll move on to the final steps of making a Runtime file, and then transferring it to the PanelView Plus over a network as well as by using a USB, CF, or SD memory card.</p>\n\n<p>Then in the final lesson you're shown how to properly archive your application so it's safely backup up for future use.</p>\n\n<p>And if you have <strong><em>any questions</em></strong> about anything covered in the course, you're encouraged to post your questions in the course's discussion area as the instructor visits several times each week for the sole purpose of answering student questions.</p>\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "PVP Basics: Learn to use the A-B PanelView Plus HMI!", 
+    "price": "50.00", 
+    "instructors": "Shawn Tierney", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/736020_05f2.jpg", 
+    "course_url": "https://www.udemy.com/pvp-basics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-20T20:41:06Z"
+}

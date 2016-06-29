@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>* This course teaches Unity version 4.x</strong></p><p>  \tIn this course you will explore one of the most powerful game creation tools available, and one that game developers can't live without -- the Game Engine. In this course, we will look at the Unity Game Engine.  </p>  <p>  \tBy the end of this course you will understand what a game engine is, how it works and how you can use game engines to create incredible realistic games. If you're interested in Unity game development, the information in this course is very valuable.  </p>  <p>  \tYou don't need to know a single thing about game development to take this course.  </p>  <p>  \t<strong> So What Is a Game Engine?</strong>  </p>  <p>  \t A game engine is framework which facilitates the kinds of tasks which need to be done when writing a game. So what are the kinds of tasks we want to do? We would probably want to display images on the screen (in game terminology, an image which is displayed on the screen is called a sprite). We may need to draw menus or text on the screen. We might want to organise our sprites so that some are behind others. Often games use realistic physic so objects collide or fall with gravity. A game engine will help us do these things and many more.  </p>", 
+    "end_date": null, 
+    "title": "Unity 3D Game Development  |  3D Engine Fundamentals", 
+    "price": 0, 
+    "instructors": "Stone River eLearning", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/246026_dd5c_3.jpg", 
+    "course_url": "https://www.udemy.com/game-development-3d-engine-fundamentals/", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-18T20:18:13Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">During this course you will firstly learn fundamental concepts and discrepancies of Business Objects products.<br style=\"\">Afterwards you will learn the basics and most-commonly used features of SAP Business Objects Xcelsius.</p><p style=\"\"><br style=\"\">In this course you will :<br style=\"\">-Learn how to develope a dashboard screen and publish to different platforms<br style=\"\">-Learn generally demanded dashboard samples and connection types<br style=\"\">-Learn about real project experiences<br style=\"\">-Notice different data models<br style=\"\">-Learn advanced tips&amp;tricks of dashboard development<br style=\"\">-Design sample dashboards from scratch like a POC (Proof of Concept ) practise<br style=\"\"><br style=\"\">This course focuses on learning through step by step examples and real project experiences</p>", 
+    "end_date": null, 
+    "title": "SAP BI /SAP Business Objects Dashboard Xcelsius", 
+    "price": "30.00", 
+    "instructors": "Esra Ekiz", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/542534_7c13.jpg", 
+    "course_url": "https://www.udemy.com/sap-bi-sap-business-objects-dashboard-xcelsius/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-01T20:34:59Z"
+}

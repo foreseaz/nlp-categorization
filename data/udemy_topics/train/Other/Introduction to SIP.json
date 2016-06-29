@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">Hey there! </strong></p>\n\n<p>Welcome to this<strong class=\"redactor-inline-converted\"> Introduction to SIP</strong> Course! I'm Chris Morin, and I'd like to welcome you to this wild world of SIP!</p>\n\n<p>Working in Telecom, I've noticed that telecom has begun to take over all different departments of IT. There is no longer a separate \"Telecom\" group because <strong class=\"redactor-inline-converted\">Telecom Touches Everything now</strong>. </p>\n\n<p>This course is designed to enhance your skill-set by bringing you up to speed on how SIP works in today's modern telephony infrastructure.</p>\n\n<p><strong class=\"redactor-inline-converted\">Are you a Server Administrator?</strong> Congratulations, modern phone systems now run on top of your servers.</p>\n\n<p><strong class=\"redactor-inline-converted\">Are you a Network Administrator?</strong> Congratulations, modern phone systems now communicate on top of everything else in your environment!</p>\n\n<p><strong class=\"redactor-inline-converted\">Are you a Telecom Engineer?</strong> Congratulations, modern phone systems are moving away from being separate \"boxes\" of technology. We've now got to get along with the neighbors!</p>\n\n<p><strong class=\"redactor-inline-converted\">Are you an IT Manager?</strong> Congratulations, you've identified a trend that the industry is going through - a migration to SIP! For better or for worse you ask? You'll see!</p>\n\n<p>No matter where you come from in the IT world, I can guarantee that SIP is going to touch you in some way, shape, or form in the future. I designed this course to enhance your ability to work with the SIP protocol in your work environment, troubleshoot effectively, and make competent infrastructure decisions surrounding Telecom.</p>\n\n<p><strong class=\"redactor-inline-converted\">This course covers the foundations of SIP</strong>, and should provide you with a working knowledge of the protocol that can be applied in every day work life.</p><p><strong class=\"redactor-inline-converted\">What are you waiting for?</strong> If you don't understand SIP sooner rather than later, you're sure to be blindsided by it. <strong>Let's be proactive, and learn the basics of SIP!</strong></p>", 
+    "end_date": null, 
+    "title": "Introduction to SIP", 
+    "price": "20.00", 
+    "instructors": "Chris Morin", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/869724_5d85_2.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-sip/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-05T22:29:13Z"
+}

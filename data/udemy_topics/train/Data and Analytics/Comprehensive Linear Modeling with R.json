@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p><strong><em>Comprehensive Linear Modeling with R</em></strong> provides a wide overview of numerous contemporary linear and non-linear modeling approaches for the analysis of research data. These include basic, conditional and simultaneous inference techniques; analysis of variance (ANOVA); linear regression; survival analysis; generalized linear models (GLMs); parametric and non-parametric smoothers and generalized additive models (GAMs); longitudinal and mixed-effects, split-plot and other nested model designs. The course showcases the use of R Commander in performing these tasks. R Commander is a popular GUI-based \"front-end\" to the broad range of embedded statistical functionality in R software. R Commander is an 'SPSS-like' GUI that enables the implementation of a large variety of statistical and graphical techniques using both menus and scripts. Please note that the R Commander GUI is written in the RGtk2 R-specific visual language (based on GTK+) which is known to have problems running on a Mac computer.</p><p>The course progresses through dozens of statistical techniques by first explaining the concepts and then demonstrating the use of each with concrete examples based on actual studies and research data. Beginning with a quick overview of different graphical plotting techniques, the course then reviews basic approaches to establish inference and conditional inference, followed by a review of analysis of variance (ANOVA). The course then progresses through linear regression and a section on validating linear models. Then generalized linear modeling (GLM) is explained and demonstrated with numerous examples. Also included are sections explaining and demonstrating linear and non-linear models for survival analysis, smoothers and generalized additive models (GAMs), longitudinal models with and without generalized estimating equations (GEE), mixed-effects, split-plot, and nested designs. Also included are detailed examples and explanations of validating linear models using various graphical displays, as well as comparing alternative models to choose the 'best' model. The course concludes with a section on the special considerations and techniques for establishing simultaneous inference in the linear modeling domain.</p><p>The rather long course aims for complete coverage of linear (and some non-linear) modeling approaches using R and is suitable for beginning, intermediate and advanced R users who seek to refine these skills. These candidates would include graduate students and/or quantitative and/or data-analytic professionals who perform linear (and non-linear) modeling as part of their professional duties.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Comprehensive Linear Modeling with R", 
+    "price": "20.00", 
+    "instructors": "Geoffrey Hubona, Ph.D.", 
+    "commitment": "14.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/690278_f248_6.jpg", 
+    "course_url": "https://www.udemy.com/comprehensive-linear-modeling-with-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-06T12:47:01Z"
+}

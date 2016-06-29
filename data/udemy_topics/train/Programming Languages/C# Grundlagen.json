@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In diesen Tutorials geht es um die Grundlagen der C#-Programmierung. Es werden hierbei die Grundlegenden Eigenschaften der C#-Sprache vorgestellt.</p><p>Es richtet sich an Einsteiger in die Programmierung. Für eine bessere Verständlichkeit werden ausschließlich Videos verwendet. Es wird bei den grundlegendsten Eigenschaften begonnen und baut dann in den folgenden Videos darauf auf.</p>", 
+    "end_date": null, 
+    "title": "C# Grundlagen", 
+    "price": "20.00", 
+    "instructors": "Henning Lange", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/833764_99fe_2.jpg", 
+    "course_url": "https://www.udemy.com/c-grundlagen/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-27T18:48:42Z"
+}

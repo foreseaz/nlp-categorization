@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "  <p>  \t          This  course is designed for Linux system administrators, software developers  and VMware engineers.  </p>  <p>  \t                You want to understand the basic concepts of Openstack for either general knowledge or to fulfill a desire to further yourself in the current hottest technology or to prepare yourself for an upcoming project.  </p>  <p>  \t              At the end of this course you will have a good grounding in the concept of cloud computing as well as OpenStack terms used in the OpenStack world.  </p>  <p>  \t        You will also have learned the answers to the following questions:  </p>  <li style=\"\">What is OpenStack?</li>  <li style=\"\">Why OpenStack?</li>  <li style=\"\">Who uses OpenStack?</li>  <li style=\"\">Where is OpenStack used?</li>        and finally  <li style=\"\">When is OpenStack used?<br style=\"\">  </li>", 
+    "end_date": null, 
+    "title": "Introduction to Openstack, the Cloud Datacenter", 
+    "price": "20.00", 
+    "instructors": "Mohammed Arafa", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/354844_3879_2.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-openstack-the-cloud-datacenter/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-24T00:52:21Z"
+}

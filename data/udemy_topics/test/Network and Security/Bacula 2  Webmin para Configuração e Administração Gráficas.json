@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>O Webmin é a Interface Gráfica mais completa atualmente em termos de configuração do Bacula!</p><p>Este treinamento faz parte da série de vídeo-aulas que te deixarão expert na administração e configuração de backups, utilizando software livre.</p><p>Aprenda a:</p><ul><li>Instalar e configurar o Webmin</li><li>Configurar um novo Servidor do Bacula</li><li>Adicionar clientes, jobs, filesets e agendas de backup, graficamente</li><li>Configurar dispositivos de armazenamento e robôs-de-fitas</li><li>Submeter backups e restores, graficamente</li><li>E mais.</li></ul><div>O Webmin é totalmente customizável em termos de controle de acesso, monitoração de recursos do servidor, mudança de aparência através de temas etc.</div><div>Desenvolvido em Perl, o módulo do Bacula é relativamente simples de ter o código editado e ter outros comandos adicionados. </div>", 
+    "end_date": null, 
+    "title": "Bacula 2: Webmin para Configuração e Administração Gráficas", 
+    "price": "50.00", 
+    "instructors": "Heitor Medrado De Faria", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/586756_e911_2.jpg", 
+    "course_url": "https://www.udemy.com/bacula-2-webmin-interface-grafica/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-18T21:04:03Z"
+}

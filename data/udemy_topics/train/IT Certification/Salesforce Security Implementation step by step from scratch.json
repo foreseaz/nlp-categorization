@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>New content added regularly. </strong></p><p><strong>Don't enroll for the course but for the extra knowledge you will have after taking this Course.</strong><br></p><p>Securing access to your applications, data and logic is a key part of application development and system configuration. This security should not only protect data and logic from unauthorized external access, but also from unauthorized internal access for example by only granting data access to users with the appropriate authorization. Salesforce is built around a robust and flexible security architecture, providing you with a fine degree of control over the users, network, and data. Salesforce use a multi layered approach to protect that key information, constantly monitoring and improving our application, systems, and processes to meet the growing demands and challenges of security. The Salesforce CRM suite of applications include a wide variety of security features and configuration settings.</p><p>This course is about platform security framework, which you can use to offer different access permissions to authenticated users within your organization. This security framework lets you grant security permissions to users or profiles, determine access control over a wide range of components (such as tabs or persistent objects), and configure data sharing, which limits access to individual records. Some of this security framework is administrative (only allow these user profiles access to this application), while some is also relevant to your application architecture (ensure that these records are always visible to managers). </p>", 
+    "end_date": null, 
+    "title": "Salesforce Security Implementation step by step from scratch", 
+    "price": "20.00", 
+    "instructors": "Prateek Singh", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/728236_9885_3.jpg", 
+    "course_url": "https://www.udemy.com/salesforce-security-implementation/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-14T17:31:01Z"
+}

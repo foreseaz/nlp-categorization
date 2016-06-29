@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Get your iPhone apps ready for 3D Touch.</strong></p><p>iPhone 6s and iPhone 6s Plus introduce an entirely new way to interact with your phone. For the first time, iPhone senses how much pressure you apply to the display. In addition to familiar Multi–Touch gestures like Tap, Swipe, and Pinch, you can now add 3D Touch-enabled actions that bring a new dimension of functionality to your apps.</p><p><strong>Quick Actions</strong></p><p>Quick Actions let users do the things they do most often, faster and in fewer steps. Many of these actions can even be done with a single press, right from the Home screen.</p><p><strong>Peek and Pop</strong></p><p>Let your users preview all kinds of content and even act on it — without having to actually open it. Users can then press a little deeper to Pop into content.</p><p>Want to add Quick Actions to your application? If yes this course is for you!</p><p>Want to Implement Peek and Pop functionality in your application? If yes this course is for you!</p><p><strong>What's the course about and how is it structured?</strong></p><p>In this course we will learn to use Quick Actions and Peek and Pop features using Xcode 7, iOS 9 and Swift 2 with a step by step approach. </p><p><strong>The course covers : </strong></p><p>Creation of the applications User Interface. </p><p>Code to add static Shortcut Items. </p><p>Code to add dynamic Shortcut Items. </p><p>Code to navigate to a specific View Controller after you select a Shortcut Item. </p><p>Code to check if divide supports 3D Touch.</p><p>Code to implement Peek feature.</p><p>Code to implement Pop feature.</p><p>Code to add Preview Action Items.</p><p><strong>Materials</strong></p><p><strong>The course consists of :</strong> </p><p>1+ hour of video lectures with code from scratch </p><p>Application files for download </p><p>This course can be completed in a couple of hours. </p><p><strong>Why to follow this course?</strong></p><p>If you want to add the new amazing 3D touch features to your application this course is for you!</p><p>If you want to learn how to create Quick Actions this course is for you!</p><p>If you want to learn how to implement Peek and Pop feature with Preview Quick Items this course is for you! </p><p><strong>Who can follow this course ?</strong></p><p>Anyone with basic knowledge of programming can follow this course. </p><p>This course is developed using  Xcode 7 and Swift 2.</p><p><strong>Copyright © Valsamis Elmaliotis 2015</strong></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Learn to use 3D Touch with Xcode 7 and Swift 2", 
+    "price": "20.00", 
+    "instructors": "Valsamis Elmaliotis", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/642668_f8ae_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-to-use-3d-touch-with-xcode-7-and-swift-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-16T18:14:44Z"
+}

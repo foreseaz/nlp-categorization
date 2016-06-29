@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t   When developing business applications, most people think they need deep experience in programming languages like Objective-C and Java.  </p>  <p style=\"\">  \t   Becoming competent in even one of these languages requires either  </p>  <p style=\"\">  \t 1. 1,000s of hours of work. Then, even if you were to avoid that route, you could  </p>  <p style=\"\">  \t 2. end up spending $10,000+ on a professional developer.  </p>  <p style=\"\">  \t   After taking this course you’ll be able to both build and push live your own Salesforce app.  </p>  <p style=\"\">  \t  I will take you step by step through the process of building a Salesforce application, submitting your application to the security review process, packaging and preparing the application for the AppExchange business app store.  </p>  <p style=\"\">  \t   I look forward to seeing you in the class.  </p>  <p style=\"\">  \t   Thanks,  </p>  <p style=\"\">  \t   Richard Ozols  </p>", 
+    "end_date": null, 
+    "title": "From Idea to Salesforce AppExchange App Store Listing", 
+    "price": "20.00", 
+    "instructors": "Richard Ozols", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/187336_2e05_5.jpg", 
+    "course_url": "https://www.udemy.com/appexchange/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Salesforce"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-23T15:36:48Z"
+}

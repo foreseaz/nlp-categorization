@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">     ¿Siempre quisiste aprender a programar, pero no sabias por donde empezar?</strong>  </p>  <p>  \t     Aprende los Secretos de C Sharp.  </p>  <p>  \t     Este curso empieza desde los temas más básico hasta llegar a dominar este lenguaje completamente paso a paso.  </p>  <p>  \t<em style=\"\"><br style=\"\">  \t</em>  </p>  <p>  \t<em style=\"\">Al terminar el Curso Ud. poseerá además la capacidad para continuar su aprendizaje en tecnologías .Net como Windows Form, Ado.Net, WPF, WF,ASP.NET, WCF .</em>  </p>", 
+    "end_date": null, 
+    "title": "C Sharp desde Iniciante a Profesional", 
+    "price": "20.00", 
+    "instructors": "Ing. Joel Luciano Vega, Ing. Jalp LP", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/227010_36f9_2.jpg", 
+    "course_url": "https://www.udemy.com/c-sharp-desde-iniciante-a-profesional/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-23T02:06:48Z"
+}

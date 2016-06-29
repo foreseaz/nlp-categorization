@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t              Eğer sizi de sıfırdan Wordpress temaları yapmak istiyorsanız, doğru yerdesiniz. İhtiyacınız olan tek şey temel PHP ve HTML bilgisi. Geri kalan herşeyi beraber öğreneceğiz.  </p>  <p style=\"\">  \t            Localhost&#039;a Wordpressi kurduysanız ve nereden başlayacağınızı bilmiyorsanız tek yapmanız gereken bu kursu satın almak.  </p>  <p style=\"\">  \t      Bu kursta Wordpress in temel fonksiyonlarını ve sıfırdan bir temanın kodlanmaya nereden başlanacağını, nasıl kodlanacağı göreceksiniz.  </p>  <p>  \t<strong style=\"\">      Kursta sırasıyla yapılacaklar:  </strong>  </p>  <p>  \t   1. Basit HTML tema tasarlama  </p>  <p>  \t   2. Hazırlanan temayı parçalama  </p>  <p>  \t   3. Parçalanan temayı Wordpress&#039; e uygun hale getirme.  </p>", 
+    "end_date": null, 
+    "title": "Wordpress İle Basit Blog Teması Yapımı", 
+    "price": "20.00", 
+    "instructors": "Özer Gül", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/282604_34bd_4.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-tema-yapimi/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-17T15:31:26Z"
+}

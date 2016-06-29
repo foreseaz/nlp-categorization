@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course is about artificial neural networks. Artificial intelligence and machine learning are getting more and more popular nowadays. In the beginning, other techniques such as Support Vector Machines outperformed neural networks, but in the 21th century neural networks again gain popularity. In spite of the slow training procedure, neural networks can be very powerful. Applications ranges from regression problems to optical character recognition and face detection. In the first part of the course you will learn about the theoretical background of neural networks, later you will learn how to implement them. If you are keen on learning methods, let's get started!<br></p>", 
+    "end_date": null, 
+    "title": "Neural Networks from Scratch in Java", 
+    "price": "20.00", 
+    "instructors": "Holczer Balazs", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/714978_0783_2.jpg", 
+    "course_url": "https://www.udemy.com/neural-networks-from-scratch-in-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-03T23:58:43Z"
+}

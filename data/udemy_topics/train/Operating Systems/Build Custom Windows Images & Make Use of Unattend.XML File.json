@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Doesn't it seem boring to do the most weary task day after day, machine by machine, taking up an hour or more from your time just to make one device ready to be used?</p>\n\n<p>Formatting PCs <strong>\"or installing Windows\"</strong> was (and still) one of the most frustrating tasks that any helpdesk engineer or PC maintenance shop need to do. What I came up with this course is a cool, easy and professional way to make your Windows installation experience as never been before.</p>\n\n<p>This course is a <strong>mix of many features, tools, and ideas</strong> that are combined together to master custom Windows image that works on all desktops &amp; notebooks you have.</p>\n\n<p>We will create a virtual Windows machine (Windows 7, 8.1, or 10) using either Hyper-V or VirtualBox, whatever is convenient for you. Then, we will modify the image, add files to it, <strong>install applications, updates,</strong> and whatever modifications we want. Respectively we will capture that Windows machine using ImageX to extract a WIM file with all these modifications.</p>\n\n<p>Next, we will see how we can use this extracted WIM file to create a bootable Windows image, moving to use an XML file that we can create to automate installing Windows almost <strong>without any user interaction.</strong></p>\n\n<p>Feel like this is too advanced technical course? Don't do! We will explain every single step. <strong>No rocket science in this course, guaranteed!</strong> You will see how to do each step in a very easy and straight forward way.</p>\n\n<p>Why you are still reading here? Save your time that has been squandered doing boring tasks, hit the button <strong>\"Take this course\"</strong> and let's begin!</p>", 
+    "end_date": null, 
+    "title": "Build Custom Windows Images & Make Use of Unattend.XML File", 
+    "price": "20.00", 
+    "instructors": "Omar Dabbas", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/654966_1327_3.jpg", 
+    "course_url": "https://www.udemy.com/custom-windows-image/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-29T21:25:35Z"
+}

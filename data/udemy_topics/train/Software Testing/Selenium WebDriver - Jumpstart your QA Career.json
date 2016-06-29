@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Selenium is a free automation testing tool for web applications. It is able to work with different browsers like Chrome, Firefox, IE, Opera and simulate human like behavior. Selenium is able to interact with all the different elements in a webpage. It can click on them, input text, extract text and much more. By covering all the different functionalities on your website with Selenium tests, you will be able to quickly catch new and reappearing old bugs. This will save your team time and money.</p>  <p><strong>Specially for you</strong>, I have prepared a website where you can play around and practice your skills.</p>  <p>The website has special elements designed specificly for the course and for you to be able to easily work with them and learn.</p>  <p>In this course we will focus on <strong>Graphic User Interface and Functionality Testing</strong> and we will learn how to work with the various selectors that Selenium offers us to use like:</p>    <ul><li>Name selector</li><li>ID Selector</li><li>Class Name selector</li><li>CSS Path selector</li><li>X Path selector</li></ul>        <p>After that we will learn how to work with some special elements like:</p>  <ul><li>Input text boxes</li><li>Check boxes</li><li>Radio buttons</li><li>Drop down menus</li><li>JavaScript Alert boxes</li></ul>          <p>We will also have a few theory lectures in which I will explain when you should use either of these selectors, how to inspect elements and what is an Automation Testing Framework and why do we need to learn how to create one.</p>", 
+    "end_date": null, 
+    "title": "Selenium WebDriver - Jumpstart your QA Career", 
+    "price": 0, 
+    "instructors": "Eng. Tod Vachev", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/776634_c709_2.jpg", 
+    "course_url": "https://www.udemy.com/selenium-qa/", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-28T06:26:49Z"
+}

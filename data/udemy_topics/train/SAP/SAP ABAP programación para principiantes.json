@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>El objetivo general del curso es formar profesionales que conjuguen un exacto conocimiento técnico y creativo aplicado al diseño de Proyectos Empresariales. Este programa de estudios le permite formar como profesional que utiliza el estándar SAP en programación, dominando las técnicas creativas relacionadas con las pantallas de selección del usuario, con el diccionario de datos utilizando Open SQL, con los algoritmos de cálculos y de tablas internas. El curso le da la capacidad de depurar y modularizar los programas utilizando el Workbench ABAP de manera ágil, escalable y productiva. Programador ABAP es una de las profesiones que te proporciona una salida laboral factible y viable que genera oportunidades de trabajo, cada año hay más vacantes y una demanda creciente. El curso le convierte en un programador ABAP, el puesto de trabajo con más salidas profesionales.</p>", 
+    "end_date": null, 
+    "title": "SAP ABAP programación para principiantes", 
+    "price": "20.00", 
+    "instructors": "Logali SAP", 
+    "commitment": "20 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/642210_b20c_5.jpg", 
+    "course_url": "https://www.udemy.com/sap-abap-programacion-para-principiantes/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-16T08:25:06Z"
+}

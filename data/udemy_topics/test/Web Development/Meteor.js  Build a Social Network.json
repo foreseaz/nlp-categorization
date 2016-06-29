@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn how to create a simple social network with Meteor.js.</p>\n\n<p>\n\n</p>\n\n<p>This course is useful to anyone interested in working with Meteor.js, though you should have some familiarity with Meteor already.</p>\n\n<p>While building the application, we will cover:<br>- signing up<br>- searching for users<br>- sending friend requests and accepting them<br>- posting statuses<br>- getting statuses from people we are friends with<br>- liking and commenting on statuses<br>- adding a profile image<br>- creating publicly-accessible profiles and albums</p>\n\n\n\n<p>More specifically, we will:<br>- customize the accounts package for signup and post-signup functionality<br>- work with database schemas<br>- define routes, route groups, restrict access to registered users only<br>- work with multiple layouts<br>- work with MongoDB<br>- work with simple and composite publications to retrieve related data from multiple collections at once<br>- work with images and store them in MongoDB</p>\n\n\n\n<p>I hope to see you in the course.</p>", 
+    "end_date": null, 
+    "title": "Meteor.js: Build a Social Network", 
+    "price": "30.00", 
+    "instructors": "Ciprian Munteanu", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/870130_6711_2.jpg", 
+    "course_url": "https://www.udemy.com/meteorjs-build-a-social-network/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-06T11:24:27Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">We know that Java interviews are hard nut to crack. If you know java but find it difficult to appreciate, or you always end up in surprises with core java questions or if you wonder how a java intrrview really looks like, then this course is for you. </p><p style=\"\">Java Interview Guide -video course, is to prepare you for the initial technical rounds for any Java Interview. This is not a Question-Answer guide or tutorial or a learning material, rather it is a composition of questions and concepts from real interview experiences of the instructor. It is rather a real-walk through to how a typical java interview can be. If you are a person who wants to know how a Java interview looks like, then these videos are for you.!</p><p style=\"\">The course details questions about</p><ul><li>Core java concepts</li><li>Object Oriented Programming (OOP)</li><li>collections</li><li>exception handling</li><li>overloading and overriding</li><li>multithreading</li><li>equals and hashcode() etc. </li></ul><p>and at last some focus on non-java part like servlets, jsp, struts and Spring.</p>", 
+    "end_date": null, 
+    "title": "Java interview guide : Cracking the first round", 
+    "price": "40.00", 
+    "instructors": "Akhilesh Trivedi", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/580144_9505_5.jpg", 
+    "course_url": "https://www.udemy.com/java-interview-guide/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-11T13:56:34Z"
+}

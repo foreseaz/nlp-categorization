@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t                  JIRA is a very flexible issue tracker that can be used for a wide variety of use cases. That flexibility comes with a certain degree of complexity, which makes its administration complicated at times.  </p>  <p>  \t                This Level 1 course is part of a larger series that covers JIRA  Administration in its entirety. Other levels are not included in this course and must be purchased separately.  </p>  <p>  \t              Our goal in separating JIRA Administration training in several &quot;Levels&quot; is to allow you pick and choose the parts you want to learn about.  </p>  <p>  \t<strong>This course is the first step to unlocking JIRA&#039;s full power</strong>  </p>  <p>  \t                This Level 1 course will cover the full set of features of the &quot;System&quot; section of JIRA Administration. We will cover topics such as:  </p>  <ul>  \t<li>Universal JIRA Administration advice acquired through years of experience</li>  \t<li>Global properties that affect the entire instance</li>  \t<li>Advanced settings that will make a big difference</li>  \t<li>How to change JIRA&#039;s look and feel</li>  \t<li>Changing date formats to simplify data exports to Microsoft Excel</li>  \t<li>How to get rid of the JIRA Administrator password prompt once and for all</li>  \t<li>What is auto-watch, why I hate it, and how to disable it</li>  \t<li>How to send detailed support requests to Atlassian</li>  \t<li>Much much more :-)</li>  </ul>  <p>  \t<strong>Configure your JIRA instance according to best practices</strong>  </p>  <p>  \t          This first course covers items that are usually configured only once when you install JIRA or when you are looking to fix something very precise. On the other hand, the items we&#039;ll cover in this course affect the entire JIRA instance, and can therefore have a significant impact on the overall experience.  </p>  <p>  \t          JIRA itself is very easy to install, but you know the old saying: <em>the devils lies in the details</em>. This course is about those details. By the time you are done with the course, you will understand what they are and how you can use them to provide an improved experience to your users.  </p>  <p>  \t<strong>My promise to you</strong>  </p>  <p>  \t            I&#039;ve worked as a professional JIRA consultant for years, developing my knowledge day by day, developing best practices where there aren&#039;t any. My promise to you is that I will share everything I know about JIRA System Configuration in this class. You will get loads of inside information not found in the official documentation, explained with real-word examples.  </p>  <p>  \t<strong>Technical Considerations</strong>  </p>  <p>  \t        This course has been recorded on a standard JIRA 6.3 Server instance running on Windows. If you are working with JIRA Cloud instance, 95% of the contents of this course applies to you. But I do want to mention the remaining 5% only applies to JIRA Server due to the limitations of JIRA Cloud.  </p>", 
+    "end_date": null, 
+    "title": "JIRA Administration Mastery - Level 1 - System Configuration", 
+    "price": "50.00", 
+    "instructors": "Felix Martineau", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/283784_ee13_4.jpg", 
+    "course_url": "https://www.udemy.com/jira-administration-mastery-level-1-system-configuration/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-19T15:29:56Z"
+}

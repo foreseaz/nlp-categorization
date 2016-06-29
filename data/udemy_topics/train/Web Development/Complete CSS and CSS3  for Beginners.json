@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em style=\"\"><strong style=\"\">Note: Introductory Price, Price will hike soon once more content is added, so join now and get the benefit.</strong></em></p><p>In this tutorial you will learn complete CSS from scratch with best examples to understand the concepts better.</p><p>CSS Stands for &quot;Cascading Style Sheet.&quot; Cascading style sheets are used to format the layout of Web pages. They can be used to define text styles, table sizes, and other aspects of Web pages that previously could only be defined in a page&#039;s HTML.</p><p>CSS helps Web developers create a uniform look across several pages of a Web site. Instead of defining the style of each table and each block of text within a page&#039;s HTML, commonly used styles need to be defined only once in a CSS document. Once the style is defined in cascading style sheet, it can be used by any page that references the CSS file. Plus, CSS makes it easy to change styles across several pages at once. For example, a Web developer may want to increase the default text size from 10pt to 12pt for fifty pages of a Web site. If the pages all reference the same style sheet, the text size only needs to be changed on the style sheet and all the pages will show the larger text.</p>", 
+    "end_date": null, 
+    "title": "Complete CSS and CSS3  for Beginners", 
+    "price": "20.00", 
+    "instructors": "DoEdu IT Educations", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/482404_e78b_2.jpg", 
+    "course_url": "https://www.udemy.com/css-learn-css-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-21T18:49:47Z"
+}

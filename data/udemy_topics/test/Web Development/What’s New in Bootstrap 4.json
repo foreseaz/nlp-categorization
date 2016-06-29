@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is designed to take you through all the biggest changes and new features coming in the Bootstrap 4 Alpha release.  There are 20 lectures making up about an 40 minutes of video content that will cover each feature or change through detailed explanation of the subject matter and demoing of its implementation in code samples.  The course is structure to first take you through the major changes you should be aware of, and then introduce you to the newest features being added.  You should take this course if you're interested in keeping up with the latest trends in web development, want to help test and develop one of the most popular responsive frameworks used in web design, or are just curious on what is coming down the pipe for Bootstrap.<br></p>", 
+    "end_date": null, 
+    "title": "What’s New in Bootstrap 4", 
+    "price": "20.00", 
+    "instructors": "Matt Greene", 
+    "commitment": "37 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/598970_ee10.jpg", 
+    "course_url": "https://www.udemy.com/bootstrap4/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-01T03:39:50Z"
+}

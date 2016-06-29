@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \tThis Microsoft Windows Server 2012 Certification (Exam 70-413) training course from Infinite Skills teaches you how to design, implement, and maintain a Windows Server 2012 infrastructure. This course will teach you the skills and knowledge necessary to pass the MS Server 70-413 exam.  </p>  <p style=\"\">  \t<br style=\"\">  \tYou will start by learning how to design and implement a server deployment infrastructure, covering the installation and configuration of Windows Deployment Services. This course will then teach you how to perform server upgrade and migrations, as well as deploy virtual machines using SCVMM. This video tutorial will also teach you how to use advanced file services, implement virtual private networks, deploy DirectAccess, deploy domain name services, and implement IP address management. Other topics that are covered include managing domain and forest infrastructure, implementing active directory sites and delegation, and implementing group policy. <br style=\"\">  \t<br style=\"\">  \tOnce you have completed this computer based training course, you will have the knowledge and skills required to design, implement, and maintain a Windows Server 2012 infrastructure, and be able to apply this knowledge to the MS Server 70-413 Exam.  </p>", 
+    "end_date": null, 
+    "title": "Pass The Windows Server 2012 Certification Exam 70-413 MCSE", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/284478_1c19_5.jpg", 
+    "course_url": "https://www.udemy.com/pass-the-windows-server-2012-certification-exam-70-413-mcse/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-20T14:20:27Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t      Learn fundamental programming concepts while working on small projects such as games, animations and even art projects using a free online visual programming language developed at MIT called Scratch!  </p>  <p style=\"\">  \t     This course is geared toward students ages 7 to adult. It is a step by step guide to creating projects while learning computational and math concepts such as sequences, loops, conditionals, variables, operators,  x/y axis and rotation angles. Teachers and students can both benefit from this curriculum.  </p>", 
+    "end_date": null, 
+    "title": "Learn Scratch Programming While Building Fun Projects", 
+    "price": "20.00", 
+    "instructors": "Victoria Rivett", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/261196_5db1_3.jpg", 
+    "course_url": "https://www.udemy.com/savoyacademycom/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-14T17:05:22Z"
+}

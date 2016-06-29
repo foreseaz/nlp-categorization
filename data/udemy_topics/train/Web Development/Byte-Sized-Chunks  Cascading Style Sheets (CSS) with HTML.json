@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Note: This course is a subset of our much longer course 'Learn By Example: HTML, CSS and Javascript' so please don't sign up for both:-)</strong></p><ul><li>Relatively <strong>few folks formally learn HTML or CSS</strong>, because its quite easy to get stuff done in these technologies in a \"quick-and-dirty way\".</li></ul><ul><li>That \"quick-and-dirty\" way of learning and doing leads to problems over time, because <strong>CSS is actually quite complex</strong>, so it is easy to do things the wrong way</li></ul><ul><li>This course will help, because it has 20 examples. Each is self-contained, has its source code attached, and gets across a simple, specific use-case. <strong>Each example is simple, but not simplistic.</strong></li></ul><p><strong>What's Included:</strong><br></p><ul><li><strong>Basic HTML:</strong> Folks stopped counting HTML as a language worth formally learning sometime in the 90s, but this is only partially justified. It always helps to have strong basics.</li></ul><ul><li><strong>CSS:</strong> Cascading Stylesheets are incredibly powerful, and incredibly hard to use - until you know how they really work. Once you understand inheritance and selection in CSS, it will all make a lot more sense.</li></ul><p><strong>Talk to us!</strong></p><ul><li>Mail us about anything - <strong>anything!</strong> - and we will always reply :-)</li></ul>", 
+    "end_date": null, 
+    "title": "Byte-Sized-Chunks: Cascading Style Sheets (CSS) with HTML", 
+    "price": 0, 
+    "instructors": "Loony Corn", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/783748_00d9_9.jpg", 
+    "course_url": "https://www.udemy.com/css-with-html/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-06T05:28:47Z"
+}

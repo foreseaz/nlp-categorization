@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Chemistry"
+    ], 
+    "description": "\n\n                    \n                    \n                    The Course is divided into two units, namely, Quantum Chemistry: Introduction and Introduction to Molecular Spectroscopy.\n\n                                    ", 
+    "end_date": "2015-08-26T00:00:00Z", 
+    "title": "Chemistry - I", 
+    "price": 0, 
+    "instructors": "Mangala Sunder Krishnan", 
+    "institution_name": [
+        "IIT ( Indian Institute of Technology Madras)"
+    ], 
+    "commitment": "2-3 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://onlinecourses.nptel.ac.in/noc15_cy01/preview", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "NPTEL"
+    ], 
+    "start_date": "2015-07-01T00:00:00Z"
+}

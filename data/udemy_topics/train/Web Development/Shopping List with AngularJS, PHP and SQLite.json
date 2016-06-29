@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t      In this tutorial you will learn how to create a Shopping List - responsive web application which you can access from any device.  </p>  <h5>      You will learn how to: </h5>  <ul>  \t<li>     Create the form to add new items to your shopping list</li>  \t<li>Display all items in the shopping list</li>  \t<li>Mark items as completed</li>  \t<li>Option to print the entire list</li>  \t<li>Option to remove completed items</li>  \t<li>Create responsive layout for your application to access it from your mobile while shopping</li>  \t<li>Write tests for your AngularJs module and all its services and methods</li>  </ul>  <h5>      All this using: </h5>  <ul>  \t<li>AngularJS</li>  \t<li>PHP with PDO</li>  \t<li>SQLite database</li>  \t<li>Zurb Foundation 5</li>  \t<li>Jasmine behavior-driven testing framework</li>  </ul>", 
+    "end_date": null, 
+    "title": "Shopping List with AngularJS, PHP and SQLite", 
+    "price": "50.00", 
+    "instructors": "Sebastian Sulinski", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/91436_5875_2.jpg", 
+    "course_url": "https://www.udemy.com/angularjs-shopping-list/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-12T08:37:06Z"
+}

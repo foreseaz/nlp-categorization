@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>The<strong class=\"redactor-inline-converted\"> Big Data phenomenon</strong> is sweeping across the IT landscape. New technologies are born, new ways of analyzing data are created and new business revenue streams are discovered every day. If you are in the IT field, Big data should already be impacting you in some way. </p>\n\n<p>Building Big Data solutions is<strong class=\"redactor-inline-converted\"> radically different </strong>from how traditional software solutions were built. You cannot take what you learnt in the traditional data solutions world and apply them verbatim to Big Data solutions. You need to understand the <strong class=\"redactor-inline-converted\">unique problem characteristics</strong> that drive Big Data and also become familiar with the unending <strong class=\"redactor-inline-converted\">technology options</strong> available to solve them.</p>\n\n<p>This course will show you how Big Data solutions are built by stitching together big data technologies. It explains the modules in a Big Data pipeline, options available for each module and the <strong class=\"redactor-inline-converted\">Advantages, short comings and use cases</strong> for each option.</p>\n\n<p>This course is<strong class=\"redactor-inline-converted\"> great interview preparation </strong>resource for Big Data ! Any one - fresher or experienced should take this course.</p>\n\n<p>Note: This is a<strong> theory course</strong>. There is no source code/ programming included.</p>", 
+    "end_date": null, 
+    "title": "Architecting Big Data Solutions", 
+    "price": "20.00", 
+    "instructors": "V2 Maestros", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/491482_086a_8.jpg", 
+    "course_url": "https://www.udemy.com/architecting-big-data-solutions/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-01T20:06:52Z"
+}

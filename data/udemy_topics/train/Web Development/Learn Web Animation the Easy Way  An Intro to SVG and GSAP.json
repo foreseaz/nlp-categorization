@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>If you're a front-end developer, UI/UX designer or just a general web animation enthusiast you'll benefit from the techniques taught in this course. We use a project-based approach to introduce you to the SVG graphics format and GreenSock Animation Platform--possibly the most powerful and performant javascript animation library available today.</p><p>While building a complex animated greeting card, you'll learn:</p><p>\t•\tWhy SVG is a hot commodity today</p><p>\t•\tThe benefits of using SVG</p><p>\t•\tAbout SVG shapes and custom tags</p><p>\t•\tHow to include SVG on a web page</p><p>\t•\tHow to organize SVG elements for web animation</p><p>\t•\tWhat the GreenSock Animation Platform is</p><p>\t•\tMake sense of GreenSock's different bundles and which to use</p><p>\t•\tThe GreenSock API and its six basic tweening functions</p><p>\t•\tAll about timelines and how they work in GreenSock</p><p>\t•\tHow to break down the SVG project into scenes</p><p>\t•\tHow to create catchy, impressive animations piece-by-piece </p><p>\t•\tHow to use timelines to organize your entire animation sequences</p><p>\t•\tAnd much more...</p><p>All project files with full source code will be made available to you at each step of the animation process. Learn valuable skills that will benefit you through out your career or open up a whole new world of creative expression if you're a hobbyist or enthusiast.</p>", 
+    "end_date": null, 
+    "title": "Learn Web Animation the Easy Way: An Intro to SVG and GSAP", 
+    "price": "50.00", 
+    "instructors": "Siggy Works", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/628356_31f7_5.jpg", 
+    "course_url": "https://www.udemy.com/learn-web-animation-with-svg-and-gsap/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-01T22:50:37Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Civil & Environmental Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    La vision de la « ville connectée », également qualifiée de « ville numérique » ou encore de « ville intelligente », prévoit que l'ensemble de l'espace urbain sera interconnecté et interagira avec le monde numérique.Ceci ouvre en particulier la voie au développement durable de nos environnements urbains, combiné à une amélioration de la qualité de vie et de la sécurité des citoyens dans le respect de leur vie privée. C'est également l'opportunité de revoir les processus de régulation et de gestion des villes par un engagement accru du citoyen au moyen des réseaux sociaux et des capteurs, physiques ou logiciels, embarqués dans les téléphones intelligents.La notion de « ville intelligente » évolue ainsi rapidement en lien avec les avancées technologiques et va au-delà de l'analyse des données qui a longtemps été considérée comme la composante centrale des technologies des villes dites intelligentes.Ce cours vous propose un tour d'horizon des infrastructures numériques de la ville connectée avec un accent particulier sur les technologies encourageant l'implication citoyenne.Il s’agit d’une introduction aux différents constituants des infrastructures numériques cibles, du réseau aux systèmes logiciels, qui met particulier en avant les défis posés aux nouvelles technologies pour répondre aux exigences de la ville connectée. Par ailleurs, de par son rôle central dans le développement des villes connectées, l’informatique en nuage, ou technologie « cloud », est développée de manière plus détaillée au cours de la 4ème semaine. Des références bibiliographiques sont indiquées pour chacune des semaines, de manière à donner le moyen d’approfondir les aspects techniques des technologies introduites. Par la suite, des MOOC spécialisés pourront également être mis en place sur des éléments technologiques spécifiques suivant l’intérêt suscité par cette introduction.\n\n                                            Syllabus\n                        Semaine 1 : IntroductionSemaine 2 : Infrastructures réseaux des systèmes urbainsSemaine 3 : Infrastructures logicielles des systèmes urbainsSemaine 4 : Gestion des données urbaines dans les nuages informatiquesSemaine 5 : Gestion des données et vie privée du citoyen urbain\n                                    ", 
+    "end_date": "2016-02-29T00:00:00Z", 
+    "title": "Villes intelligentes : défis technologiques et sociétaux", 
+    "price": 0, 
+    "instructors": "Stéphane Grumbach and Nicolas Anciaux", 
+    "institution_name": [
+        "Inria (French Institute for Research in Computer Science and Automation)"
+    ], 
+    "commitment": "2 hours", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.france-universite-numerique-mooc.fr/courses/inria/41009/session01/about", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "France Université Numerique"
+    ], 
+    "start_date": "2016-01-25T00:00:00Z"
+}

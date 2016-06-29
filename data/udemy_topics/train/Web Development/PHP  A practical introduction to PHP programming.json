@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>PHP powers more than <strong style=\"\">80%</strong> of all dynamic web sites on the internet. Learn this popular language and start building even more sites yourself.</p><p><br style=\"\"><span></span></p><p><strong style=\"\">Learn PHP the agile way.</strong></p><ul style=\"\"><li>No installation and complicated set up of development environment. Everything is online and ready to be used.</li><li>Learn just the features used when building real applications, leaving the more &quot;exotic&quot; parts out to understand it faster.</li><li>Actually put your new skills into practice and build a simple application</li></ul><p><br style=\"\"></p><p><strong style=\"\">What is the course all about?</strong><span></span></p><p><span></span>The course is best suited for absolute beginners who will learn how to start with PHP development as fast as possible without the needs of installing web server or PHP itself on local machine.</p><p><br style=\"\"></p><p>There are no technical details and students will not gain deep theoretical knowledge of the language. The course is not a language reference. Its goal is not to make you solve weird programming quizzes but rather show you the techniques used in real world applications.</p><p><br style=\"\"></p><p>By completing this course you&#039;ll get a basic idea about how PHP works. It will give you very gentle introduction to world of programming and will give you just enough new information that is easy to digest and yet still enables you to start your developer journey.</p><p><br style=\"\"></p><p><strong style=\"\">What will you get?</strong><span></span></p><ul style=\"\"><li>Great introduction to PHP programming that puts you on track.</li><li>You&#039;ll learn how to do the most important thing when developing dynamic websites: handle user input</li><li>You get 10 short lessons going straight to the point without any unnecessary technical details</li></ul><p><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "PHP: A practical introduction to PHP programming", 
+    "price": "20.00", 
+    "instructors": "Andrej Farkas", 
+    "commitment": "39 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/473626_f534_2.jpg", 
+    "course_url": "https://www.udemy.com/php-a-practical-introduction-to-php-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-11T16:47:23Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tThank you for visiting to <strong style=\"\">First simple Blog with django</strong>.  </p>  <div style=\"\">  \t<p>  \t\tIn this lesson, you can learn how to create an <strong style=\"\">original blog from scratch</strong>. You can implement some functions to delete or edit into your blog. If you can make original blog by yourself, you can add awesome functions. It means that your original blog has an <strong style=\"\">unlimited potential</strong>. Let&#039;s enjoy this lesson!  \t</p>  \t<p>  \t\tYou can also learn how to create a <strong style=\"\">authentication page</strong> for a webmaster of the blog. Also learn a needed functions (creating and editing and deleting) for your first blog. If you do not have basic knowledge of<strong style=\"\"> Python</strong>, don&#039;t worry ! I&#039;m going to teach you about it in the first section.  \t</p>  \t<p>  \t\t<strong style=\"\">&lt;OUTLINE&gt;</strong>  \t</p>  \t<p>  \t\t<strong style=\"\">&lt;Python&gt;</strong>  \t</p>  \t<ul style=\"\">  \t\t<li><span>What is Python?</span></li>  \t\t<li><span>Print method</span></li>  \t\t<li><span>variable and string</span></li>  \t\t<li><span>while syntax</span></li>  \t\t<li><span>for syntax</span></li>  \t\t<li><span>list</span></li>  \t\t<li><span>conditional judgment with if syntax</span></li>  \t\t<li><span>conditional judgment by strings</span></li>  \t</ul>  \t<p>  \t\t<strong style=\"\">&lt;django&gt;</strong>  \t</p>  \t<ul style=\"\">  \t\t<li><span>creating a project</span></li>  \t\t<li><span>administration page</span></li>  \t\t<li><span>Bootstrap</span></li>  \t\t<li><span>editing title</span></li>  \t\t<li><span>creating an application</span></li>  \t\t<li><span>retrieve a post</span></li>  \t\t<li><span>creating a individual page</span></li>  \t\t<li><span>creating authentication page</span></li>  \t\t<li><span>add links for login and logout</span></li>  \t\t<li><span>creating a form for posting</span></li>  \t\t<li><span>creating a function to post</span></li>  \t\t<li><span>create an editing page</span></li>  \t\t<li><span>creating a function to edit</span></li>  \t\t<li><span>creating a function to delete</span></li>  \t\t<li><span>Font Awesome</span></li>  \t\t<li><span>pagination</span></li>  \t\t<li><span>navigation menu</span></li>  \t\t<li><span>creating an about page</span></li>  \t\t<li><span>add links to go to another page</span></li>  \t\t<li><span>get the amount of letters</span></li>  \t</ul>  </div>", 
+    "end_date": null, 
+    "title": "First simple Blog with django", 
+    "price": "20.00", 
+    "instructors": "Takafumi Kawai", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/229340_34a5_3.jpg", 
+    "course_url": "https://www.udemy.com/first-simple-blog-with-django/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-26T04:39:18Z"
+}

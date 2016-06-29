@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong></strong></p>\n\n<p><strong>*** Course Last Update 08/05/2016 ***</strong><br></p>\n\n\n\n\n\n<p><strong>*** Code using Swift 2.2 for iOS 9 ***</strong></p>\n\n\n\n\n\n<p><strong><br></strong></p>\n\n\n\n\n\n<p><strong>Have you ever imagine yourself as a spy, breaking codes, picking locks?</strong> In this game you will have to crack the secret code to pop the lock, and more you will have to build this game from scratch if you want to play it and learn a lot about Swift, SpriteKit and iOS while doing so.<br></p>\n\n\n\n\n\n\n\n\n\n<p>The game is fun to play and watch others playing, however it is just a fun way for me to teach you all you need to know to be a excellent Swift/iOS developer.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Trougth the course of this course we will learn about:<br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>SpriteKit Framework and its boiled plate code</li><li>Extensions, what is and how to use</li><li>How to encapsulate our code and use private variables, getters and setter and why</li><li>How to refectory your code as you go, what is refectory and why you should always do it</li><li>Loops, different kinds of loops, with one to use for different scenarios and why</li><li>Inheritance, including initializers, convenience, required, overriden how to do it right</li><li>Properties, including property observers and computed properties, what it is and how to use</li><li>Protocols, I know you hear about it before, but do you really understand what it is and how to use?</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>In this course we will cover one topic at the time as we need we will discuss itm examine the options and add to our game to make it more and more awesome</p>", 
+    "end_date": null, 
+    "title": "Build your first mobile game for iPhone Swift/iOS having fun", 
+    "price": "25.00", 
+    "instructors": "Icaro Lavrador", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/804324_d1de_2.jpg", 
+    "course_url": "https://www.udemy.com/how-to-make-iphone-game/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-26T07:30:10Z"
+}

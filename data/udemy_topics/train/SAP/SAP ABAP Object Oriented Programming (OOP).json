@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \tObject Oriented Programming approach has many advantages comparing to other programming approaches . one of them is , more powerful in data management .  </p>  <p>  \tbecause of these advantages , many of programming language implement this programming approach .  </p>  <p>  \tSAP ABAP runtime has supported object oriented programming approach, form a long time ago . so, there are many of SAP features using this programming approach , such as : BADI , Reporting (ALV Grid OOP) , Webdynpro and so on . and of course there will be more of sap features by using this programming approach . so as SAP Developer you have to master this programming approach , if you want to always be on top of sap technologies .  </p>  <p>  \tthis tutorial provide the basic &amp; intermediate level of OOP material in SAP ABAP . one of them is, how to create alv grid OOP . if you have more experience with procedural ALV grid (REUSE_ALV_GRID_DISPLAY ), you will find more advantages if you use this type of ALV . OK , enjoy this tutorial ! .  </p>", 
+    "end_date": null, 
+    "title": "SAP ABAP Object Oriented Programming (OOP)", 
+    "price": "20.00", 
+    "instructors": "Lukman Hakim", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/381952_2922_8.jpg", 
+    "course_url": "https://www.udemy.com/sap-abap-object-oriented-programming-oop/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-01T04:08:23Z"
+}

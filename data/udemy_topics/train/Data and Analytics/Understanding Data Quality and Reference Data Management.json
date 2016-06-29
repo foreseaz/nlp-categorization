@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>The Data Management overview course is a free, high-level course that covers two challenging data related issues that face organizations in the modern day: <br></p><ul><li>Reference Data Management </li><li>Data Quality Management.</li></ul><p>The Reference Data Management overview highlights the key principles and processes for effective reference data management within organizations. The lectures cover Reference Data and Reference Data Management components in order to provide an overall understanding of key concepts and terminologies. The course also provides insight on Reference Data challenges, benefits of a Reference Data Management solution, best practices in implementation, and typical solution architecture.  </p><p>The Data Quality Management overview provides an overall understanding of key Data Quality Management concepts, methodologies  and terminologies including profiling, data quality metrics, and stewardship responsibilities.  Upon completion of this course, students will gain insights into key data quality activities such as, parsing, validation, standardization, cleansing, enrichment, scoring, measurement, and exception management. </p>", 
+    "end_date": null, 
+    "title": "Understanding Data Quality and Reference Data Management", 
+    "price": 0, 
+    "instructors": "Adastra Academy", 
+    "commitment": "40 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/639568_f576_2.jpg", 
+    "course_url": "https://www.udemy.com/data-management-d/", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-13T19:24:35Z"
+}

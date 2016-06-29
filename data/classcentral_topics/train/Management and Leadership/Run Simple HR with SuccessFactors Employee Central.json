@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Management & Leadership"
+    ], 
+    "description": "\n\n                    \n                    \n                    SuccessFactors Employee Central goes beyond basic automation to deliver a suite of applications for your most demanding business priorities. The next-generation Core HR system (HRIS) is designed for the global enterprise workforce and delivered securely via the SuccessFactors cloud, serving more than 27 million users.The openSAP course Run Simple HR with SuccessFactors Employee Central is open to everyone, and is aimed at those interested in learning more about HR in the cloud and how SuccessFactors Employee Central can support your people strategy. The course is ideally suited for existing SAP on-premise customers considering a move to the cloud, but will also be of interest to all HR professionals who want to learn more about SuccessFactors Employee Central.The course will begin with an overview of Employee Central, and will include demos of Core HR for employees, managers, and HR administrators. Demos will include how to affect organizational and position management, as well as how to set up rules and workflows. You’ll learn about Global Payroll and Benefits, and country-based benefits using Employee Central Payroll and the Payroll Control Center. You’ll also learn how to configure deductions and advances, as well as reporting and analytics. Finally, you will learn how to configure Employee Central for absence management and time sheets. The course will end with a recap of Core HR.\n\n                                            Syllabus\n                            •    Week 1: At the Core – Employee Central    •    Week 2: Global Payroll &amp; Benefits    •    Week 3: Time &amp; Attendance    •    Week 4: Final Exam\n                                    ", 
+    "end_date": "2015-12-29T00:00:00Z", 
+    "title": "Run Simple HR with SuccessFactors Employee Central", 
+    "price": 0, 
+    "instructors": "Tim Wassink, Debi Suslow and Steven Babcock", 
+    "institution_name": [], 
+    "commitment": "", 
+    "subject_name": [
+        "Business & Management"
+    ], 
+    "course_url": "https://open.sap.com/courses/sf2", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "openSAP"
+    ], 
+    "start_date": "2015-12-01T00:00:00Z"
+}

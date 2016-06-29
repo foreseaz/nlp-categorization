@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will demonstrate and help you learn some of the technologies that are available within HTML5 and JavaScript</p><p>JavaScript API allows you to access so much information from your web page.  Using new HTML5 elements along side JavaScript can really make amazing experiences for web users.</p><p>Taught by a course instructor with over 15 years of real web development experience. Having created and works on hundreds of websites and web applications, we bring years of experience to you in this course.</p><ul><li>Learn to create JavaScript Drag and Drop</li><li>How to use Event Listeners to create interactive content</li><li>Use web storage local and session storage explained.</li><li>How geolocation works</li><li>How to use web workers</li><li>Drawing paths on Canvas</li><li>Creating animations with canvas</li><li><span></span>And a lot more.</li></ul><p>Top resources, links and source code is included.</p><p>When you are ready lets start learning JavaScript APIs.</p>", 
+    "end_date": null, 
+    "title": "Power up HTML5 with JavaScript", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/791030_05b8_2.jpg", 
+    "course_url": "https://www.udemy.com/power-up-html5-with-javascript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-13T02:13:03Z"
+}

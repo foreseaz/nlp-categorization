@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Angular 2 is a technical and conceptual overhaul of its hugely \npopular predecessor, AngularJS. This means that for developers who have \nbuilt and maintained applications with AngularJS, and need to transition\n projects across to Angular 2, there needs to be an effective plan of \naction. Implementing a migration path for projects has been a major \ntalking point in itself leading up to the release of Angular 2, and a \ncritical concern for developer teams transitioning code across to take \nadvantage of the new framework. </p>\n\n<p>This course demonstrates how to apply an effective migration plan for\n transitioning Angular 1.x projects to Angular 2. Opening with an \nintroduction to the major changes and additions brought by the new \nframework, we quickly scope out a plan to a migrate a sample weather \napplication from its original Angular 1.x code base.</p>\n\n\n\n<p>We then explain how to migrate blocks of code incrementally, as \nopposed to porting code in bulk, and give you a brief introduction to \nTypescript and ECMAScript 6. Throughout we’ll show you how to gradually \ndeprecate $scope, upgrade services, work with the component router, \ntransition forms, and more.</p>\n\n\n\n<p>By completion of this course, you will be rapidly up to speed with \nthe fundamental building blocks of Angular 2 development, and fully \ncapable (and confident) transitioning existing Angular 1.x projects to \nthe new environment, ready to explore everything the new Angular has to \noffer. </p><p><strong class=\"redactor-inline-converted\">About The Author</strong><br></p><p><strong>Alain Chautard </strong>started using Angular in 2011, back when it \nwas a very young technology that wasn’t widely used yet. He has used \nAngular JS on a daily basis since then. He also teaches Angular JS in \nCalifornia, where he is the organizer (and main speaker) of an Angular \nJS meetup group.</p>\n\n<p>Alain is an expert Angular JS consultant at Interstate 21, where he \ndevelops beautiful web applications for clients located all over the \nworld.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Migrating to Angular 2", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/860454_257f_2.jpg", 
+    "course_url": "https://www.udemy.com/migrating-to-angular-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-26T10:35:07Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t                  In this course we’re going to be taking a look at HTML, specifically HTML5. This course assumes you already have your editor environment setup, using Sublime Text or something similar, and you’re ready to start writing some code. The best place to start is writing HTML.  </p>  <p style=\"\">  \t                  HTML defines the content of our page and is usually the first thing that’s loaded by a website in the browser. HTML defines the content, while CSS defines what the content looks like. Finally, Javascript will end that triangle by supplying the interactivity to our applications. We wouldn’t have all three of these things if we didn’t have HTML, so let’s take a look at how we can start writing HTML and building really cool applications and websites.  </p>  <p style=\"\">  \t<strong style=\"\">Course Includes:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">18 videos with over 90 minutes of lectures and explanations.</li>  \t<li style=\"\">3 external resource files.</li>  </ul>  <p style=\"\">  \t<strong style=\"\">What You&#039;ll Learn:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">HTML Terminology</li>  \t<li style=\"\">The HTML Boilerplate</li>  \t<li style=\"\">Identifying HTML Elements</li>  \t<li style=\"\">IDs</li>  \t<li style=\"\">Classes</li>  \t<li style=\"\">Paragraphs</li>  \t<li style=\"\">Headers</li>  \t<li style=\"\">Emphasis</li>  \t<li style=\"\">Strong</li>  \t<li style=\"\">Unordered Lists</li>  \t<li style=\"\">Ordered Lists</li>  \t<li style=\"\">Images</li>  \t<li style=\"\">Anchors</li>  \t<li style=\"\">Architecture Tags</li>  \t<li style=\"\">Layout Elements</li>  \t<li style=\"\">And More!</li>  </ul>  <p style=\"\">  \t<strong style=\"\"></strong>  </p>", 
+    "end_date": null, 
+    "title": "Introduction to HTML", 
+    "price": 0, 
+    "instructors": "RefactorU LLC", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/212624_128c_4.jpg", 
+    "course_url": "https://www.udemy.com/refactoru-intro-html/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-07T22:19:35Z"
+}

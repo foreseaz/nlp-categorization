@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>What do the Apple Watch, Nest thermostat, Amazon Echo, and the Pebble smartwatch have in common?  They’re all “things” in the Internet of Things, a worldwide network of soon-to-be- 40 Billion devices communicating with each other, the cloud and our phones.<br></p>    <p>This course will lead you through the design, development and prototyping of a representative “Thing” and show you how to prepare to launch a crowd funding campaign to finance production.</p>    <p>Starting with an exploration of what is the Internet of Things and what exactly a “Thing” is, students will learn the steps from idea to prototype including:</p>  <ul><li>Selecting a development platform for your hardware</li><li>Selecting the right programming language for your requirements</li><li>Installing development tools and updating firmware</li><li>Building a prototype device using a breadboard and Intel Edison</li><li>Writing firmware</li><li>Connecting to a cloud service</li><li>Building an iOS companion app</li><li>Prepare for real-world production</li><li>Understand how to launch on Kickstarter</li><li>Over 45 lectures and more than 4 hours of content</li><li>Understand the options for developing a “Thing”</li><li>Understand how to build a representative “Thing”</li><li>Learn how to connect to a cloud service from a “Thing”</li><li>Learn how to communicate between an iOS device and a “Thing”</li></ul>                    <p><br></p>", 
+    "end_date": null, 
+    "title": "Building a Thing for the Internet of Things IoT", 
+    "price": "25.00", 
+    "instructors": "Michael Lehman", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/630018_ab1c.jpg", 
+    "course_url": "https://www.udemy.com/building-a-thing-for-the-internet-of-things/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-04T00:47:08Z"
+}

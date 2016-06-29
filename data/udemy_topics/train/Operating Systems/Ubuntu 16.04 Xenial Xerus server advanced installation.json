@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>When you install a new server, your goal is to get a long-lasting, easy-to-manage, stable and secure system. Linux is a great choice for this.</p><p>How easy to manage and secure your server will is based on the installation. You can choose to do a simple and quick one or choose a more difficult way. The later will give you a better server.</p><p>Linux delivers you great technologies like software RAID and Logical Volume Manager (LVM). The first saves your life (and your server and data) when a disk fails. The later lends a hand when you have to balance file system usage between services, Samba shares, etc. And helps you to move your data quickly and with zero downtime later. Yes, you may want this years later... but why not prepare for it? You'll love your decision.</p><p>In this course you learn all required and recommended steps to build a professional base for your Ubuntu Xenial Xerus 16.04 server from a professional teacher with 22 years Linux and 19 years teaching experience.</p><p>All steps are shown on screen and explained so that you will understand what and why you have to do.</p>", 
+    "end_date": null, 
+    "title": "Ubuntu 16.04 Xenial Xerus server advanced installation", 
+    "price": "20.00", 
+    "instructors": "Krisztian Czako", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/783114_cf2e_3.jpg", 
+    "course_url": "https://www.udemy.com/ubuntu-1604-xenial-xerus-server-advanced-installation/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-05T14:42:56Z"
+}

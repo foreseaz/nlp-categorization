@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>El curso está inspirado en el libro 'Git Pro' de Scott Chacon y está estructurado en tres secciones y varios apéndices. Cada sección contiene lecciones teórico-practicas, un video explicativo, un ejercicio de repaso y un test que pretende evaluar los conocimientos adquiridos en cada sección. </p><p>Este curso marcará un antes y un después en tu vida laboral, como me pasó a mi hace algunos años cuando decidí incorporar Git en mis proyectos.</p><p>El curso 'Git: un enfoque práctico', está diseñado para todo tipo de desarrolladores, no tiene requerimientos previos y tiene una duración estimada de una semana a razón de una hora diaria.</p><p>Durante el curso:</p>\n\n\n\n<p>•  Aprenderás todo lo necesario para sentirte cómodo a la hora de utilizar Git en tus proyectos de desarrollo.\n\n  </p>\n\n\n\n<p>•  Descubrirás cómo integran Git los entornos de desarrollo modernos basados en Eclipse, como Spring Tool Suite. \n\n  </p>\n\n\n\n<p>•  En definitiva, profundizarás en el uso de Sistemas de Control de Versiones.</p>", 
+    "end_date": null, 
+    "title": "Git: un enfoque práctico", 
+    "price": "20.00", 
+    "instructors": "Pep Mendez, Srta Cristina Asensio", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/800058_9490_6.jpg", 
+    "course_url": "https://www.udemy.com/git-un-enfoque-practico/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-21T18:59:31Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>\"All in one.I spent 2 days solid studying this course and it is phenomenal. No stone has been left unturned. After going through the full course you will know exactly what you need to do and how to do it. Well done and thank you!\"...<em>Cojtech</em></strong><br></p><p>This course covers complete Login and Registration system in PHP and MYSQL from scratch. </p><p>The main functionalities that you will be learning in this course are: </p><p><strong>1. Making Passwords and database secure.</strong></p><p><strong>2. Validating each and everything.</strong></p><p><strong>3. Giving image a unique name.</strong></p><p><strong>4. \"Remember Me\" Functionality Using cookies.</strong></p><p><strong>5. Change password feature.</strong></p><p><strong>6. Making pages to be available only for registered members. </strong></p><p>First we will make sign up system where user will provide required values and we will process those values and validate them in PHP and after complete validation we will save those values in our MYSQL database that we will create before validation.<br></p><p> We will apply hash to the password so the password will be secure in the database. we will change image name on the fly and give it unique name to make it unique in our system. before image upload we will check if uploaded file is the image or not. The main feature of this system is the \"keep me logged in\" you may have seen that on Facebook. we will use cookies and sessions together to implement this cool feature. After logging user will go to his profile page and will make a logout button to log him/her out. on profile page change password button will be available to change the password if user wants to. More importantly we will protect the pages so that unauthorized user will not be allowed to see pages that are only for signed in users.</p>", 
+    "end_date": null, 
+    "title": "Login and Registration System in PHP and MYSQL step by step", 
+    "price": "20.00", 
+    "instructors": "Usman Raoof", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/552198_6205_3.jpg", 
+    "course_url": "https://www.udemy.com/login-and-registration-system-in-php-and-mysql-step-by-step/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-12T02:05:35Z"
+}

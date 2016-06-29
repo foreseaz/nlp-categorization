@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t    During this course, you will learn to create and execute some basic JavaScript scripts. You will learn about the essentials of JavaScript, such as syntax, functions and the Document Object Model, and understand the uses of flow control such as conditional statements and loops.  </p>  <p style=\"\">  \t    This course will include source code used in each of the lectures, as well as a quiz for each lecture in the course (with a few exceptions) to test what you&#039;ve learned. Please keep in mind that although the source code can be downloaded, it will be preferred that you type down the code as the instructor is typing it.  </p>  <p style=\"\">  \t    Learn JavaScript for the Complete Beginner is structured in 5 sections. The course is split into a getting started section, with some basics and boilerplate sprinkled in, and eventually getting into more complex ideas. Each of the lectures will be split into a theory section, learning new ideas and concepts, and a practical section, where these ideas will be put into practice in actual code. At the end of the lectures, there will be a recap of what was taught in the lecture.  </p>  <p style=\"\">  \t    By the end of this lecture, you will be proficient and confident in using JavaScript for developing basic applications and you will be able to create web applications of your own.  </p>", 
+    "end_date": null, 
+    "title": "Learn JavaScript from Scratch", 
+    "price": "40.00", 
+    "instructors": "Serv the Dev", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/367682_e45b_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-javascript-for-the-complete-beginner/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-10T22:59:21Z"
+}

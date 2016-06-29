@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t For direct low cost personalized online C# training with the instructor of this course, please email your request to peterteach@gmail.com  </p>  <p>  \t       This course starts with downloading and installing the free version of Visual Studio 2013 Express for Desktop Development, and proceeds through all the important aspects and concepts of writing C# code. After installing Visual Studio, we see how to get started writing the simplest of all possible programs, &quot;Hello World&quot;. Then we survey the landscape and look at the documentation on the .NET Framework, the C# Programming Guide, and learn basic C# syntax and keywords. After that we dig into the fundamental elements of expressions, identifiers, data types, and casting. Then before going on further into all the fascinating areas of C# syntax, we take a quick overview of the underlying run time environment, including the CLR, IL, JIT, assemblies, ILDASM, and the GC. From there we go through each major subtopic of C# programming, including control statements, such as decision and looping constructs, exception handling, file IO, object serialization, classes and structs, namespaces, objects, constructors, destructors, and methods, as well as fields, properties, methods and events. At that point we explain the important distinction between value types and reference types, as well as encapsulation and scope of visibility. Next, we explore more advanced topics, such as attributes, method overloading, optional and output parameters, inheritance, interfaces, abstract classes, partial classes, and operator overloading. We then get into functional programming topics, including delegates, events, lambda expressions, and querying data by using LINQ. Then we study generics, extension methods, and the IDisposable interface. Next, we get into even more advanced topics, including dynamic variables, reflection, threading and synchronization, and asynchronous methods. Finally we explore where you will go next in your learning career, including WPF and XAML, Web Sites (ASP.NET Web Forms, ASP.NET MVC, AJAX, jQuery), Web Services (WCF, Web APIs, SOAP, REST), and Cloud Computing (Windows Azure), as well as Windows Store Apps. Additional topics that will be included are security and cryptography, as well as versioning, digital signing, and deploying assemblies.  </p>", 
+    "end_date": null, 
+    "title": "Intro C#", 
+    "price": 0, 
+    "instructors": "Peter Thorsteinson", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/223400_1152_12.jpg", 
+    "course_url": "https://www.udemy.com/intro-c-sharp/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-19T23:46:32Z"
+}

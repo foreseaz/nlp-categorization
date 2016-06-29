@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  Bienvenidos a este curso de Oracle  </p>  <p style=\"\">  \t  Durante estos momentos que pasaremos juntos, solo tengo un objetivo: Que os divertías montando un entorno profesional de alto nivel tecnológico. Montaremos Grid Infrastructure 12c, una base de datos 11GR2 ambos productos se instalaran en modo grafico y silencioso. Todo estos productos suponen la ejecución de diferentes tareas definidas a continuación.  </p>  <p style=\"\">  \t  Os acostumbrareis a usar las palabras:  </p>  <p style=\"\">  \t  Grid Infrastructure, rdbms, ASM, instancia, sqlplus, runInstaller, asmca, asmlibs, dbca  </p>  <p style=\"\">  \t  El curso esta montado con videos que serán la pantalla del profesor. También escuchareis mi voz. Os daré todas las explicaciones y ejemplos pertinentes para la buena asimilación de este curso. En adición, pondré a disposición la &quot;hoja de ruta&quot; que he usado durante todo el curso con todas las querys y comandos de sistema operativo, de esta forma podréis usarla para copiar y pegar en su entorno.  </p>  <p style=\"\">  \t  El curso dura un poco mas de 4h.  </p>  <p style=\"\">  \t  EL curso esta estructura con los siguientes capítulos:  </p>  <p style=\"\">  \t  1 Instalación de un cliente wmware player  </p>  <p style=\"\">  \t  2 Instalación de un sistema operativo preparado para recibir productos Oracle  </p>  <p style=\"\">  \t  3 Creación de discos ASM para la creación posterior de diskgroups  </p>  <p style=\"\">  \t  4 Instalación de los binarios de GI 12c  </p>  <p style=\"\">  \t  5 Instalación de GI 12c modo grafico  </p>  <p style=\"\">  \t  6 Instalación de GI 12c modo silencioso  </p>  <p style=\"\">  \t  7 Instalación de los binarios de Oracle 11GR2 (grafico y silencioso)  </p>  <p style=\"\">  \t  8 Creación de base de datos 11GR2 (grafico y silencioso)  </p>  <p style=\"\">  \t  Con este cuso, tendréis en vuestra mano un entrono muy potente, montado con las formas mas adecuadas (best practice de Oracle) y por un coste realmente insignificante. Podréis simular un entorno productivo en casa con su equipo personal.  </p>", 
+    "end_date": null, 
+    "title": "Grid infrastructure 12 c y Oracle 11gR2", 
+    "price": "20.00", 
+    "instructors": "Luis Diaz", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/293932_bb7f_4.jpg", 
+    "course_url": "https://www.udemy.com/grid-infrastructure-y-rdbms-11gr2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-04T15:25:37Z"
+}

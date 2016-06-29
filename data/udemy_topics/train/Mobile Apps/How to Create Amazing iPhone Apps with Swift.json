@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  Learn how to create and develop a professional iOS application featuring a photo gallery, data display, geolocation and a full-customized design!  </p>  <p style=\"\">  \t<strong style=\"\">ABOUT THIS COURSE</strong>  </p>  <p style=\"\">  \t  We will be building an iOS app from scratch using Swift, Apple&#039;s new development language. I will be guiding you step-by-step to help you understand key mobile development and object-oriented concepts.  </p>  <p style=\"\">  \t  Together, we will be covering the structure, working and coding aspects of iOS development.  </p>  <p style=\"\">  \t<strong style=\"\">YOU WILL BE ABLE TO</strong>  </p>  <li> Display text, images and data on screen</li>  <li> Respond to touch interactions from users</li>  <li> Create a navigation system and transition animations between screens</li>  <li> Integrate map and geolocation features</li>  <li> Personalize and customize the design of your application</li>  <p style=\"\">  \t  Key concepts are explained with illustrations, animations and practical examples you will be following along and trying out in Xcode, Apple&#039;s development software.  </p>  <p style=\"\">  \t  By the end of this course, you will have a secure and practical knowledge of how to build a multi-screen application and you will be able to work with essential functionalities to create content-rich, interactive applications.  </p>  <p style=\"\">  \t  Through 26 comprehensive video sessions, I will be there to guide and help you bring your ideas to life on iPhone and iPad!  </p>", 
+    "end_date": null, 
+    "title": "How to Create Amazing iPhone Apps with Swift", 
+    "price": "20.00", 
+    "instructors": "Sebastien Thomas", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/398414_f4ee_2.jpg", 
+    "course_url": "https://www.udemy.com/building-a-full-featured-ios-8-app-with-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-19T20:40:34Z"
+}

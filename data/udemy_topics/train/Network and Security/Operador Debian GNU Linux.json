@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t  El curso b&aacute;sico y necesario para todo aquel que nunca ha instalado y trabajado en un sistema operativo GNU/Linux. Este curso es simplemente la introducci&oacute;n perfecta a este nuevo mundo.<br style=\"\">  \t<br style=\"\">  \t  En esta serie de videos veremos desde c&oacute;mo descargar e instalar Debian GNU/Linux desde cero, porque &iquest;c&oacute;mo vas a aprender Linux sin saber instalarlo al menos? Aqu&iacute; aprender&aacute;s los fundamentos de instalaci&oacute;n y podr&aacute;s hacerlo paso a paso viendo los videos que el curso ofrece. Luego en esta misma instalaci&oacute;n har&aacute;s el resto del curso con los videos paso a paso.<br style=\"\">  \t<br style=\"\">  \t  Aprender&aacute;s los principios necesarios para iniciarte como usuario de Debian y cualquier otro GNU/Linux. Ver&aacute;s comandos b&aacute;sicos y algunas de las herramientas que este sistema operativo ofrece. Pasar&aacute;s de ser un usuario sin conocimientos de Linux a un usuario Operador de un sistema operativo GNU/Linux.<br style=\"\">  \t<br style=\"\">  \t  El mundo de la inform&aacute;tica evoluciona a pasos enormes y la demanda de usuarios con conocimientos en estos sistemas operativos es enorme. Muchas empresas est&aacute;n optando por implementar sus servicios en estos sistemas operativos as&iacute; que an&iacute;mate que no hay mejor inversi&oacute;n que la educaci&oacute;n.<br style=\"\">  \t<br style=\"\">  \t  Para motivar tu aprendizaje estar&eacute; disponible las primeras 48 horas para guiarte paso a paso y responder a cualquier interrogante que tengas.  </p>", 
+    "end_date": null, 
+    "title": "Operador Debian GNU/Linux", 
+    "price": "20.00", 
+    "instructors": "Ricardo Párraga", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/27041_af80_7.jpg", 
+    "course_url": "https://www.udemy.com/operador-debian-gnu-linux/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-10-18T01:35:43Z"
+}

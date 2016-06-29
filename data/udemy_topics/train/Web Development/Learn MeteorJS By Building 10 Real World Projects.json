@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Applications have significantly changed the way we function, allowing us to simplify even the toughest things in life. So, to simplify the process of building apps, Meteor JS was introduced.\n\n  </p>\n\n<p><strong>What is Meteor JS? </strong>\n\n  </p>\n\n\n\n<p>Meteor JS is an open-source full stack JavaScript app development tool that allows developers to quickly create complex web and mobile apps. The framework, itself has been designed with simplicity and efficiency in mind, making it easy enough for a newbie to learn but powerful enough for even the most experienced developers.\n\n  </p>\n\n\n\n<p>Meteor JS is based on Node JS and is also capable of producing cross-platform (web, Android, iOS) coding. As framework easily pairs up with MongoDB for back-end performance, as it is built on the MEAN stack. It uses Distributed Data Protocol and publish–subscribe pattern to automatically transmit data changes to the clients, without needing the developer to write any synchronization coding.\n\n  </p>\n\n\n\n<p>Meteor JS is simple and easy to understand, and all you need to get started with this amazing framework is an understanding of JavaScript, HTML and CSS.\n\n  </p>\n\n\n\n<p><strong>Meteor JS includes components such as Command Line Tool, Server, Communication Layer, Browser and Cordova. </strong>\n\n  </p>\n\n\n\n<p>There are a few great reasons for using Meteor JS such as:\n\n  </p>\n\n\n\n<ul><li>All apps are built in real-time by default.</li><li>You only need to know how to write in JavaScript, so you don’t have to learn any additional languages</li><li>Great for rapid application development</li><li>Single codebase can be used to develop web as well as mobile apps</li><li>Lightweight libraries that can easily handle HTTP, client interactions and databases.</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n<p>You can learn this and so much more in our Meteor JS tutorial course. However, don’t resort to textbook theory or lengthy boring lectures to learn how Meteor can change your development life. \n\n  </p>\n\n\n\n<p>This course will teach you the theory behind and tech and also how to practically use this framework in this project based course. You will learn how to build 10 amazing projects from scratch using Meteor JS and related technologies. \n\n  </p>\n\n\n\n<p><strong>Project 1 –</strong> My ToDo App – Create a functional To Do app that will teach you how to build the UI and also create and display posts. \n\n  </p>\n\n\n\n<p><strong>Project 2 –</strong> Microposts – Create small mini posts and learn how to create and display these posts\n\n  </p>\n\n\n\n<p><strong>Project 3 –</strong> FAQ Component – Create a FAQ and also how to use the Accordion UI and the Houston Admin Panel\n\n  </p>\n\n\n\n<p><strong>Project 4 –</strong> SpatIt Product Reviews – Create an app where users can log in, pick a category, add a product and allow other users to add reviews and comments.\n\n  </p>\n\n\n\n<p><strong>Project 5 –</strong> Custom Login System – Create a login system from scratch including designing the UI and a Dashboard and control panel.\n\n  </p>\n\n\n\n<p><strong>Project 6 –</strong> Helptickets – Create a support ticket system, where customers can log in and create tickets while staff can reply to the tickets.\n\n  </p>\n\n\n\n<p><strong>Project 7 –</strong> WebPlans – Learn how to build a simple subscription login website, where we can add plans and users can then subscribe to those plans.\n\n  </p>\n\n\n\n<p><strong>Project 8 –</strong> Codefolio – Create a project showcase operation for a designer or photographer. A user will be allowed to log in upload the projects, which will then be displayed in the frontend.\n\n  </p>\n\n\n\n<p><strong>Project 9 –</strong> PhotoStory – Learn a drag and drop application for adding photos for upload. Users will also be allowed to add a title and a short story with the image.\n\n  </p>\n\n\n\n<p><strong>Project 10 –</strong> TechMeetups App – An application where users can search and post tech meetups. \n\n  </p>\n\n\n\n<p>With so much packed in this vast framework, it is no wonder a lot of developers are turning to this technology for all their app development needs. What’s stopping you from integrating this amazing technology in your life?</p>", 
+    "end_date": null, 
+    "title": "Learn MeteorJS By Building 10 Real World Projects", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "15 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/565000_2154.jpg", 
+    "course_url": "https://www.udemy.com/learn-meteorjs-by-building-10-real-world-projects/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-26T09:45:43Z"
+}

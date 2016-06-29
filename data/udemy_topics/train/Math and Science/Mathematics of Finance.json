@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>Learn the basics of the mathematics behind finance. In this course you will learn about compound interest, annuities, and amortization of loans. For more details check out all the lecture titles and descriptions!</p>", 
+    "end_date": null, 
+    "title": "Mathematics of Finance", 
+    "price": "20.00", 
+    "instructors": "Chris Levy", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/451772_f29b_2.jpg", 
+    "course_url": "https://www.udemy.com/mathematics-of-finance/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-19T23:34:57Z"
+}

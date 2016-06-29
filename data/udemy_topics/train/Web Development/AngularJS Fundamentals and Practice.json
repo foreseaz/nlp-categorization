@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t      AngularJS is a JavaScript framework developed by Google. Front end development is now officially revolutionized with the advent of SPAs (Single Page Applications) and it is increasingly looking like AngularJS is going to be the de-facto framework of the future for building SPAs.  </p>  <p style=\"\">  \t      This course will not only teach you to program using AngularJS but also how to<strong style=\"\"> think in AngularJS </strong>and how<strong style=\"\"> </strong>to<strong style=\"\"> architect, design and test a modern web application</strong>.  </p>  <p style=\"\">  \t      This course is divided into 2 parts.  </p>  <ul style=\"\">  \t<li style=\"\">The first part focuses on getting a solid understanding of AngularJS concepts with plenty of working code examples using Plunkr. <br style=\"\">  \t</li>  \t<li style=\"\">The second half creates a comprehensive Web Application (SPA) using these concepts with special focus on Design, Architecture and testing a modern web app.</li>  </ul>  <p style=\"\">  \t      This is a project based course with 2 parts spanning 29 videos and over 300 minutes of content.  </p>  <p style=\"\">  \t      - An approach of understanding AngularJS concepts<br style=\"\">  \t      - Follow-up with many live coding examples <br style=\"\">  \t      - A project that covers various components and aspects of AngularJS<br style=\"\">  \t      - A video dedicated to unit testing using Karma and Jasmine libraries<br style=\"\">  \t      - Examples using third part libraries including<br style=\"\">  \t      - Angular UI Bootstrap<br style=\"\">  \t      - Bootstrap CSS<br style=\"\">  \t      - Angular Local Storage library<br style=\"\">  \t      - Karma<br style=\"\">  \t      - Jasmine  </p>", 
+    "end_date": null, 
+    "title": "AngularJS Fundamentals and Practice", 
+    "price": "40.00", 
+    "instructors": "Sid Azad", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/217184_c40a_3.jpg", 
+    "course_url": "https://www.udemy.com/angularjstut/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-13T11:37:48Z"
+}

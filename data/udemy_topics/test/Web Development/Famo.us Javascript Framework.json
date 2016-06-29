@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t                  In a world of multiple screen sizes and platforms, creating elegant, usable and noticeable user interfaces is becoming increasingly difficult.  Developers have to support not just traditional web users but tablet, mobile and even television based users.  Creating interfaces that support all types of users can be pleasurable and efficient— if you know the Famo.us Javascript Framework.  </p>  <p>  \t            In this fast-paced and fun course LearnToProgram&#039;s Reece Siksay will take you through the features of the Famo.us Javascript framework and show you how to create elegant User Interfaces. Including over four and a half hours of demonstration, you&#039;ll learn what Famo.us has to offer, and how you can take advantage of it.  In this course you won&#039;t sit idly by and watch Reece demo the framework&#039;s features... Nine lab exercises included will have you reinforce your skills and challenge you as you master the Famo.us Framework.  </p>  <p>  \tYou&#039;ll begin with the basics of the Famo.us Javascript framework, installing the necessary libraries.  You&#039;ll then progress through the fundamentals, including surfaces, animations and events.  More advanced content on event handling is also included.  </p>  <p>  \tIf you&#039;re a developer who wants an elegant and powerful solution for design across the device spectrum, Famo.us is what you&#039;re looking for.  You’ll become productive with the Famo.us Javascript framework very quickly, allowing you to create beautiful interfaces in just a few hours.  </p>", 
+    "end_date": null, 
+    "title": "Famo.us Javascript Framework", 
+    "price": "25.00", 
+    "instructors": "LearnToProgram, Inc., Reece Siksay", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/355550_0d63_2.jpg", 
+    "course_url": "https://www.udemy.com/famous-javascript-framework/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-24T20:34:24Z"
+}

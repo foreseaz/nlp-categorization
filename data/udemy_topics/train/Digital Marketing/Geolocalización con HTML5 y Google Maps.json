@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Marketing"
+    ], 
+    "description": "<p>  \t   Con este curso aprenderás a trabajar con la API de Geolocalización de HTML5 en conjunto con la API de Google Maps para insertar en tus páginas, mapas personalizados  totalmente  interactivos.  </p>  <p>  \t<strong style=\"\">Aprenderás</strong>:  </p>  <ul style=\"\">  \t<li>Como detectar la ubicación del usuario e imprimir un mapa en panalla</li>  \t<li>Como insertar un mapa interactivo de Google Maps</li>  \t<li>Como insertar marcadores por coordenadas en el mapa</li>  \t<li>Como insertar marcadores por dirección exacta en el mapa</li>  \t<li>Como personalizar marcadores con iconos</li>  \t<li>Como agregar ventanas emergentes con información a tus marcadores</li>  \t<li>Y mucho  mas...</li>  </ul>", 
+    "end_date": null, 
+    "title": "Geolocalización con HTML5 y Google Maps", 
+    "price": "20.00", 
+    "instructors": "Cristian Carrera", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/100642_896a_8.jpg", 
+    "course_url": "https://www.udemy.com/geolocalizacion-con-html5-y-google-maps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Digital Marketing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-02T20:27:15Z"
+}

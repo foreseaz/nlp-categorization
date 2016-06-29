@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>What's Covered:</strong></p><ul><li><strong>Introductory Python:</strong> Functional language constructs; Python syntax; Lists, dictionaries, functions and function objects; Lambda functions; iterators, exceptions and file-handling</li><li><strong>Database operations: </strong>Just as much database knowledge as you need to do data manipulation in Python</li><li><strong>Auto-generating spreadsheets:</strong> Kill the drudgery of reporting tasks with xlsxwriter; automated reports that combine database operations with spreadsheet auto-generation</li><li><strong>Text processing and NLP:</strong> Python’s powerful tools for text processing - nltk and others. </li><li><strong>Website scraping using Beautiful Soup:</strong> Scrapers for the New York Times and Washington Post</li><li><strong>Machine Learning : </strong>Use sk-learn to apply machine learning techniques like KMeans clustering</li></ul><ul><li><strong>Hundreds of lines of code with hundreds of lines of comments</strong></li></ul><ul><li><strong>Drill #1</strong>: Download a zip file from the National Stock Exchange of India; unzip and process to find the 3 most actively traded securities for the day</li><li><strong>Drill #2:</strong> Store stock-exchange time-series data for 3 years in a database. On-demand, generate a report with a time-series for a given stock ticker</li><li><strong>Drill #3:</strong> Scrape a news article URL and auto-summarize into 3 sentences</li><li><strong>Drill #4</strong>: Scrape newspapers and a blog and apply several machine learning techniques - classification and clustering to these</li></ul><p><strong>Talk to us!</strong></p><p><strong>A Note on the Python versions 2 and 3: </strong><strong></strong>The code-alongs in this class all use Python 2.7. Source code (with copious amounts of comments) is attached as a resource with all the code-alongs. The source code has been provided for both <strong>Python 2 and Python 3</strong> wherever possible.</p><p>Mail us about anything - <strong>anything!</strong> - and we will always reply :-)</p>", 
+    "end_date": null, 
+    "title": "From 0 to 1: Learn Python Programming  - Easy as Pie", 
+    "price": "20.00", 
+    "instructors": "Loony Corn", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/683932_9b61_2.jpg", 
+    "course_url": "https://www.udemy.com/from-0-to-1-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-29T09:22:46Z"
+}

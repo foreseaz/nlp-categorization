@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Data structure is an efficient way of organizing data and keeping the mess out of your system. This course teaches further about these data structures. The most popular data structures in store data category include binary search trees, hash tables, heaps, and graphs. After learning the codes, you will be able to develop your knowledge side by side with your teacher.</p>\n\n<p>This course was primarily made for those with basic knowledge of C++ that want to improve in computer science. </p>\n\n\n\n<p>\n</p>\n\n\n\n<p><strong>What is the working system of this course?</strong></p>\n\n\n\n<p>\n</p>\n\n\n\n<ul>\n<li>Providing the illustration and examples for better understanding</li>\n<li>Easy lectures for beginners with tests after each section</li>\n<li>Complete detailed explanation of data structures </li>\n</ul>\n\n\n\n<p>\n</p>\n\n\n\n<p><strong>What does this course cover?</strong></p>\n\n\n\n<p>\n</p>\n\n\n\n<ul>\n<li>Arrays</li>\n<li>Stacks</li>\n<li>Abstract data type</li>\n<li>Queues</li>\n<li>LinkedList</li>\n<li>Recursion</li>\n<li>Trees and other algorithms</li>\n<li>Hash Tables and Graphs (To be covered soon)</li>\n</ul>\n\n\n\n<p>\n</p>\n\n\n\n<p>After completing the course, you will have enough knowledge to code these data structures on your own and be confident enough to perform your own data structural operations. Its purpose is to facilitate the introduction to programming and exercise the strategies. When designing or using a library, two things are fundamental: time efficiency operations with objects of classes and memory management. The C ++ is a language that tends to be very effective in these areas. This course is crucial in all these categories and will help you learn in the easiest possible way.</p>\n\n\n\n<p>\n</p>\n\n\n\n<p>Knowing the basic techniques used during intermediate generation, optimization and code generation expanding programming techniques is the plot of computer science that you will always come back to.</p>", 
+    "end_date": null, 
+    "title": "Data Structures From Scratch", 
+    "price": "20.00", 
+    "instructors": "SaifAli Kheraj", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/877174_c748_3.jpg", 
+    "course_url": "https://www.udemy.com/data-structures-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-13T20:33:22Z"
+}

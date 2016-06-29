@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Do you like to start with VHDL without pain?</p><p>Here you can watch a complete example about how to implement your first VHDL design on FPGA.</p><p>You will learn step by step how to implement a simple VHDL design on FPGA starting from the architecture definition to the FPGA layout.</p><p>During this course, you will learn how to:</p><ul><li><strong>Define</strong> hardware architecture</li><li><strong>Write</strong> the VHDL code</li><li><strong>Simulate</strong> your VHDL code using Modelsim</li><li><strong>Debug</strong> the VHDL code</li><li><strong>Layout</strong> on FPGA</li><li><strong>Test</strong> the design</li></ul><p>You start to learn how to write a good VHDL/RTL and how to approach the FPGA world.<br></p><p>Happy learning!<br></p><p>Surf-VHDL Team!</p>", 
+    "end_date": null, 
+    "title": "How To Implement Your First VHDL Design on FPGA", 
+    "price": 0, 
+    "instructors": "SURF VHDL", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/798222_1334_2.jpg", 
+    "course_url": "https://www.udemy.com/how-to-implement-your-first-vhdl-design-on-fpga/", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-19T20:11:06Z"
+}

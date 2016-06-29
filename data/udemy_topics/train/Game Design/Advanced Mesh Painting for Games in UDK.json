@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  This tutorial takes an advanced look at UDK&rsquo;s mesh painting features for game art (often called vertex painting). We&rsquo;ll go in-depth on how to create several advanced blending materials such as snow icing over stones, puddles that react to light, and cracked and weathered concrete.  </p>  <hr style=\"\">  <p style=\"\">  \t<u style=\"\"><strong style=\"\">About the Instructor:</strong></u>  </p>  <p style=\"\">  \t Ryan Smith is a Technical Artist at Gearbox Software, who specializes in technical art and visual effects. With over 10 years experience working with the Unreal Engine, he is highly proficient with 3D Studio Max, Photoshop, and Zbrush. His specialties also include Shader Authoring, Visual Effects, Technical Art, MAXScript, and Optimizing Workflows.  </p>", 
+    "end_date": null, 
+    "title": "Advanced Mesh Painting for Games in UDK", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/113148_5f71_5.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-advanced-mesh-painting-for-games-in-udk/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-31T06:22:48Z"
+}

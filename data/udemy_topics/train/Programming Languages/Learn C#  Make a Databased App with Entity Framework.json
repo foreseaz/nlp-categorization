@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tIn this course you will learn how to create a simple <strong style=\"\">C#</strong> application using <strong style=\"\">Microsoft Visual Studio</strong> that creates and connects to an <strong style=\"\">SQL Database</strong> with the <strong style=\"\">Entity Framework</strong>*, with <strong style=\"\">no database development</strong> required!  </p>  <p>  \t           We will use <strong style=\"\">Code First</strong> development principals to define all database tables and columns using <strong style=\"\">only</strong> C# code.  </p>  <p>  \t           All database tables and columns will be generated automatically from the C# code without the need to edit the database directly. As such we will be doing <strong style=\"\">no database development</strong> (except for a section on calling SQL statements directly if you need to).  </p>  <p>  \t <strong style=\"\">All source code is included</strong> as a Microsoft Visual Studio 2013 project so you can get up and running straight away.  </p>  <p>  \t          Thank you for choosing this course and we look forward to viewing your positive reviews and feedback.  </p>  <p>  \t<strong style=\"\">MPire Solutions Pty Ltd</strong>  </p>  <p>  \t           * Note: The <a href=\"http://msdn.microsoft.com/en-us/data/ef.aspx\" class=\"external-link\" target=\"_blank\" rel=\"nofollow\" style=\"\">Entity Framework</a> is Microsofts&#039; newest data access technology, and Code First allows us to create database driven applications using only C# code, with no database development required!  </p>", 
+    "end_date": null, 
+    "title": "Learn C#: Make a Databased App with Entity Framework", 
+    "price": "20.00", 
+    "instructors": "Matt Turner, MPire Training", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/144876_3ce8_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-c-make-a-databased-app-with-entity-framework/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-10T01:32:10Z"
+}

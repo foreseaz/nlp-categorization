@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Did you know that over 46% of email is now read on mobile devices?</strong>  </p>  <p style=\"\">  \t        Designing HTML email can be quite challenging, considering the limited capabilities of many email clients (readers). In contrast, most new email readers supports many of the latest trends in web design. What to do?  </p>  <p style=\"\">  \t        Enter Responsive HTML Email. This course will show you how to design and construct an HTML email design that will render properly in such email readers and Outlook 2003 and Gmail, all the way through modern Android, Apple, and Windows phones. We will also explore online tools and services that will help you test your campaigns. Learn what is possible with HTML email.  </p>  <p style=\"\">  \t<em style=\"\">Running Time: 88 minutes</em>  </p>", 
+    "end_date": null, 
+    "title": "Creating a Responsive HTML Email", 
+    "price": "20.00", 
+    "instructors": "Chris Converse", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/69414_399d_9.jpg", 
+    "course_url": "https://www.udemy.com/creating-responsive-html-email/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-07-25T01:17:10Z"
+}

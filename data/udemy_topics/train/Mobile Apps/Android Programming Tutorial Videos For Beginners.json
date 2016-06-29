@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong style=\"\">Want To Learn How To Build Android Apps The Easy Way?</strong></p><p><strong style=\"\">Want Lessons That Explain Everything In Clear Easy To Understand Terms.</strong></p><p><strong style=\"\">This Course Teaches You Everything You Need.</strong></p><p>In this Android App Programming training course, Infinite Skills teaches you how to use the tools that Google provides in order to create your very own Android Apps. Android has the largest user install base in the world, and with this tutorial you can learn how to create your very own Apps for millions of users worldwide to use!<br style=\"\"><br style=\"\">You will start by installing the Android Developer Tools you will need to create your Apps, and this course shows you how to use those tools to create your very first App. As you proceed through the video tutorial, you will learn how to work with various App components and APIs, access and utilize resources, create your user interface and add animation and graphics to your App. Additionally, the course teaches you about media playback,&nbsp;device camera access, determining location, and using device sensors. You also learn how to store your Apps data using SQLite and internal device storage.<br style=\"\"><br style=\"\">Once you have completed this Android Programming video course, you will understand the tools, and have the skills necessary, to create and submit your very own Android Apps to the Google Play store. Working files are included, allowing you to follow along with the author throughout the lessons.<br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Android Programming Tutorial Videos For Beginners", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/49071_1d81_10.jpg", 
+    "course_url": "https://www.udemy.com/android-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-04-09T10:33:49Z"
+}

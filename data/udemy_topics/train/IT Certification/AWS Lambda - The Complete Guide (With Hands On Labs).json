@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">AWS Lambda is changing the way that we build systems in the cloud. This new compute service in the cloud runs your code in response to events, automatically managing the compute resources for you. This makes it dead simple to create applications that respond quickly to new information.</p><p style=\"\">This is a comprehensive course that will teach you how to write, deploy, scale and manage lambda functions. Armed with this knowledge you&#039;ll be able to architect solutions from tiny composable microservices that scale massively and respond almost in real time.</p><p style=\"\">In this course we&#039;ll take you through the entire Lambda journey. From setting up your local environment, writing your first Lambda function, to deploying interesting and unique lambda functions that will help you massively scale your operations.</p><p style=\"\">The hands on labs will show you how to write Lambda functions that:</p><ul style=\"\"><li>Run when files change in S3 (eg. image thumbnail generation, metadata extraction, indexing etc)</li><li>Run when tables are updated in DynamoDB (eg. analytics/trend detection, auditing, etc)</li><li>Run when kinesis messages are received (eg. notification generation, message filtering, etc)</li></ul><p style=\"\"><br style=\"\"></p><p style=\"\">The first 2 labs are available now, with another 2 labs to follow shortly in the coming weeks. Buying the course now means that you&#039;ll get access to the all labs: now and into the future.</p><p style=\"\">So join us and become a cloud guru today.<br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "AWS Lambda - The Complete Guide (With Hands On Labs)", 
+    "price": "20.00", 
+    "instructors": "Ryan Kroonenburg, Samuel Kroonenburg", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/454648_f4cc_6.jpg", 
+    "course_url": "https://www.udemy.com/aws-lambda/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-23T11:40:05Z"
+}

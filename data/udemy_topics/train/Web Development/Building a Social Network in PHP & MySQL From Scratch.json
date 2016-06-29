@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn how to create a basic, but beautiful <strong style=\"\">Social Networking Website</strong> and Discussion Forum using simple PHP and MySQLi web development techniques.</p><p><strong style=\"\"><em style=\"\">Build Social Networking Website Yourself in PHP! </em></strong></p><p>Social Networking websites are communities where you can share something with the world and people can interact with you. After taking this course, you can create the same thing yourself using simple PHP and MySQLi from scratch. Users can comment, can message and can view other members on this social network.</p><p><strong style=\"\">The Content &amp; Overview </strong></p><p>With over 75 lectures and 15  hours of content, this course is designed to help you in creating a very basic but powerful social networking website from scratch, You are learning from an instructor who is web developer himself. You should know the basics of PHP &amp; MySQLi before joining this course, because we&#039;ll straight start working on the project instead of explaining the basic syntax of PHP. We&#039;ll first create the web development environment on our local computer and after that we&#039;ll start working on the project step by step. At the end of the course, you&#039;ll be able to create a beautiful social networking website yourself.</p><p><strong style=\"\">Below are some of the main features of this social network:</strong></p><ul style=\"\"><li>Sign Up &amp; Sign In Systems </li><li>User Timeline &amp; User Postings </li><li>User Profile and Members Area </li><li>Commenting &amp; Replies </li><li>Sending &amp; Receiving Messages </li><li>Admin Panel</li></ul><p><br style=\"\"></p><p><br style=\"\"></p><p><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Building a Social Network in PHP & MySQL From Scratch", 
+    "price": "50.00", 
+    "instructors": "Abdul Wali", 
+    "commitment": "14 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/431576_ff76_2.jpg", 
+    "course_url": "https://www.udemy.com/social-network-in-php-mysql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-25T02:53:29Z"
+}

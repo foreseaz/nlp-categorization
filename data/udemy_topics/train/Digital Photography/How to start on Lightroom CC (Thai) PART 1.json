@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Photography"
+    ], 
+    "description": "<table>\n<tbody>\n<tr>\n<td>\n<p>LR PART 1</p>\n<p>การจัดการกับข้อมูลภาพโดย  Adobe Light Room</p>\n<p>-LR กับ PS แตกต่างกันอย่างไร<br></p>\n<p>-จบหลังกล้อง หรือ จบหลังคอม (การเลือก File งานให้เหมาะสมกับงาน Raw,TIFF,JPG)</p>\n<p>-การถ่ายภาพ เพื่อ นำมาใช้งาน ใน LR (เผื่อการCropภาพ,การถ่าย Under หรือ Over ,การปรับ WBในกล้อง การเลือกโหมดแสดงภาพ การดู ฮีสโตแกรมภาพ )  เพื่อให้ได้งานคุณภาพสูง</p>\n<p>-โครงสร้าง LR ระบบโมดูล Import –export</p>\n<p>-เปิดโปรแกรม Import (Raw dng )  ย้ายรูปแล้วรูปหาย เครื่องหมายตกใจ (!) รูปอยู่ที่ไหน</p>\n<p>-การจัดการกับภาพง่ายๆ ใส่ธง ดาว สี และกระป๋องสี</p>\n<p>-รูปเหมือนกันตาลาย แก้ปัญหาได้ การเลือกรูปโดยใช้ Survay View และ Compare View</p>\n<p>-การเรียงภาพให้ง่ายต่อการทำงานด้วย Sort</p><p>-ความสำคัญของ Metadata</p>\n<p>-รูปเยอะนัก Stack ซะเลย</p>\n<p>- จัดการ Folder ใน LR</p>\n<p>-เปลี่ยนชื่อรูป</p>\n<p>-จัดของใส่ตะกร้า เวลาใช้งานหยิบง่ายใน Collection </p>\n<p>-ถ่ายสวย แก้น้อย กับ Quick Develop และ การลบภาพ</p>\n<p>-ตัวอย่างการทำภาพ วิวแสงธรรมชาติ โดยใช้  Quick Develop</p>\n<p>-ตัวอย่างการทำภาพ บุคคลแสงธรรมชาติ โดยใช้  Quick Develop</p>\n<p>-ตัวอย่างการทำภาพ บุคคล Studio โดยใช้  Quick Develop</p>\n<p>-ตัวอย่างการทำภาพ สินค้า โดยใช้  Quick Develop</p>\n<p>-Export งาน</p>\n</td>\n<td>\n<p>\n</p>\n</td>\n<td>\n<p>\n</p>\n</td>\n</tr>\n</tbody>\n</table>", 
+    "end_date": null, 
+    "title": "How to start on Lightroom CC (Thai) PART 1", 
+    "price": "20.00", 
+    "instructors": "Instructor Nattavuth Sudtanakit", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/859678_611e_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-lightroom-cc-thai-part-1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Digital Photography"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-25T14:20:59Z"
+}

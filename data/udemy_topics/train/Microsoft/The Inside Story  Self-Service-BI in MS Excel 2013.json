@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>This course is intended for the data analysts and end users who are willing to explore the self-service business intelligence tools in Microsoft Excel 2013. This training is best suited for all business professionals: data analysts, developers, IT professionals, project leads, and project managers.</p>\n\n<p>At the end of the course, participants would learn/use/acquire the following techniques/knowledge:<br></p>\n\n\n\n\n\n<ul><li>Explore and connect to data sources using Power Query</li><li>Using ETL techniques to gather data from multiple sources - Wikipedia, Oracle MySQL DB &amp; others</li><li>Comprehend the Power Pivot user interface</li><li>Extract and transform data using Power Query</li><li>Build a cascading relationship and manage data models</li><li>Build a relationship between tables from different sources</li></ul>\n\n\n\n<p>The course discusses the rationale for self-service BI, and describes how to use Microsoft SQL Server Reporting Services, Microsoft Excel, Microsoft SharePoint Server, and Microsoft Office 365  to create self-service data models and reports. This course is designed for customers who are interested in learning Self-Service BI tools and techniques.</p>", 
+    "end_date": null, 
+    "title": "The Inside Story: Self-Service-BI in MS Excel 2013", 
+    "price": "20.00", 
+    "instructors": "GreyCampus Inc.", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/723736_5220.jpg", 
+    "course_url": "https://www.udemy.com/the-inside-story-self-service-bi-in-ms-excel-2013/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-11T09:41:09Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Course Description</strong><br></p>  <p>  \t                     Remember that time when you had to reinstall Linux?  </p>  <p>  \t                       What about when you crashed your own servers and had to spend more time fixing it?  </p>  <p>  \t                       Or when you had so many VMs running that your apps started running really <em>sloooooowly</em>?  </p>  <p>  \t                     It happens to the best of us.  </p>    <p>  \t<strong>Docker to the Rescue! Build Fast, Contained Applications on Linux</strong>  </p>  <p>  \t                       Docker came to the rescue to fix these problems, and it's been all the rage recently! Amazon supports it on Amazon Web Services, Google is running their search engine inside a Docker container, and even VMWare, who would seem to be a competitor, chose to work with the Docker team to make containerization work with their Virtual Machines.  </p>  <p>  \t                       Through this course, you will learn to use Docker from the point of view of a beginner, even if you are not familiar with virtualization and its benefits. By the end of this course, you will feel comfortable deploying user-facing applications hosted within containers, knowing that they will run more quickly, reliably, and scalably. Most importantly, you will have all the tools you need to confidently expand your own knowledge, and maybe even create your own cloud infrastructure!  </p>  <p>  \t<strong>Topics this course will cover:</strong>  </p>  <ul>  \t<li><strong></strong>Virtualization</li>  \t<li>Differences between traditional VMs and Docker containers</li>  \t<li>When and how to use the Dockerfile</li>  \t<li>Running containers forever</li>  \t<li>When to use aliases (all the time)</li>  \t<li>Getting ready for production</li><li>Container management tools</li><li>Deployment Strategies</li>  </ul>    <p>  \t                    The goal of this course is to provide you with the knowledge to use an effective tool to save time for your users. Consider that even shaving off one second on a website or app with a million page views per month saves a total of (1 000 000 seconds) / (3600 seconds per hour) = 278 hours per month, or a collective 11 days per month! So, <strong>you are wasting your users' time by not being able to deliver fast, reliable applications and websites</strong>.  So, enroll in this course to learn how to accomplish this in a scalable, sustainable way! If you are not satisfied with the knowledge you gain from this course, you can request a full refund within the first 30 days. This is my personal guarantee to you.  </p>", 
+    "end_date": null, 
+    "title": "Using Docker to Implement Effective Linux Virtualization", 
+    "price": "20.00", 
+    "instructors": "Yatit Thakker", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/354078_1acd_2.jpg", 
+    "course_url": "https://www.udemy.com/using-docker-to-implement-effective-linux-virtualization/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-22T21:47:00Z"
+}

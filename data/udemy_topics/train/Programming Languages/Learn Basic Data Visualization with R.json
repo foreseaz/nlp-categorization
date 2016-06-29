@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Data Visualization with R course provides basic as well as advance skills &amp; knowledge required to become a Data visualization Analyst. This course provides you a better vision of Data visualization in order to train you excellently. Participants, at the end of the training, will be technically competent in essential concepts of Analysis such as why Data visualization is important and basic R, Graphical Parameters used in data visualization, various types of graphs such as Line Graph, Scatterplot, Bar plot, Histogram, Organizational chart and a brief introduction of ggplot2 package.</p><p>This course contains lectures as videos along with the hands-on implementation of the concepts, additional assignments are also provided in the last section for your self-practice, working files are provided along with the every lectures.</p>", 
+    "end_date": null, 
+    "title": "Learn Basic Data Visualization with R", 
+    "price": "20.00", 
+    "instructors": "Easylearning guru", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/690940_637e.jpg", 
+    "course_url": "https://www.udemy.com/learn-basic-data-visualization-with-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-07T11:10:44Z"
+}

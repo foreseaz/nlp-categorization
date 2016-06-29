@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Internet of Things"
+    ], 
+    "description": "\n\n                    \n                    \n                    Have you wondered what the future of embedded devices looks like? Have you ever wanted to create your own weather station or design a device to control the lights in your home automatically? All of these questions will be answered in this practical hands-on course. This course introduces Java developers to the world of embedded devices and the Internet of Things (IoT). Embedded controllers are already a part of our lives. Meters read electric and water usage and send the readings to a central office. Electronic thermostats turn on the heat and air conditioning as required. Java Embedded leverages your experience with Java to open the world of the Internet of Things by providing direct access to electronic sensors and mechanical devices.\r\nLearn To\r\nWrite Java Embedded applications that:\r\n\r\nRead input data from switches and drive LED's using the GPIO interface\r\nRead temperature and barometric pressure from an I2C device\r\nRead the device's current location using a GPS UART device\r\nStore and manage data collected\r\nReport data to a client through a variety of communication options\r\n\r\nCourse Project\r\nThe course scenario:You will build a prototype of an embedded device to collect, analyze and share information from a shipping container.The problem:Farmers are placing their fresh crops into a shipping container, and some of those shipments arrive at the distribution center spoiled or damaged. The shipping company has hired you to develop an inexpensive embedded device to collect information from the containers.The goals for the device include:    * Completely stand-alone operation and low-power (Raspberry Pi and Java ME Embedded 8)    * Record the number of times and when the shipping container door is opened (switches)    * Record the temperature in the container at regular intervals (Barometric Pressure/Temperature sensor)    * Record the location of the container at regular intervals (Adafruit GPS Breakout)    * Respond to a request to download the information wirelessly (WiFi module)\r\n \r\nCourse Completion\r\nBased on successfully completing the course quizzes, you will receive a course completion award, suitable for printing and framing!\n\n                                    ", 
+    "end_date": "2014-07-04T00:00:00Z", 
+    "title": "Develop Java Embedded Applications Using a Raspberry Pi", 
+    "price": 0, 
+    "instructors": "Tom McGinn", 
+    "institution_name": [
+        "Oracle"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://apex.oracle.com/pls/apex/f?p=44785:145:0::::P145_EVENT_ID,P145_PREV_PAGE:1841,143", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Independent"
+    ], 
+    "start_date": "2014-05-30T00:00:00Z"
+}

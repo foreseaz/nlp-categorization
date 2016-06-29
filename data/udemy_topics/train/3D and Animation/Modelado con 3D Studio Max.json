@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t      En este curso vamos a aprender los conceptos básicos del 3DStudio max 2013, aprenderemos a manejarnos con el interface, a localizar las herramientas y manejarnos con los visores, a conceptos básicos de funcionamiento del programa. Aprenderemos a crear objetos en el espacio 3D, a desplazarlos y modificarlos y con ellos crear complejas escenas. Exploraremos las posibilidades de creación de nuevas piezas con las anteriormente creadas, crear y aplicarles materiales. Aplicaremos texturas 2D a los modelos que realicemos. Aprenderemos a crear y manejar una malla poligonal editable, base fundamental para el modelado en el 3D studio. Exploraremos los conceptos básicos de la iluminación y el render. Nos acercaremos también al mundo de la animación, donde manejaremos los objetos en el tiempo y crearemos y animaremos cámaras.  </p>  <p>  \t    3D Studio Max es un programa de creación de gráficos y animación 3D desarrollado por Autodesk, en concreto la división Autodesk Media &amp; Entertainment (anteriormente Discreet). Creado inicialmente por el Grupo Yost para Autodesk, salió a la venta por primera vez en 1990 para DOS. 3ds Max, con su arquitectura basada en plugins, es uno de los programas de animación 3D más utilizado, especialmente para la creación de video juegos, anuncios de televisión, en arquitectura o en películas.  </p>  <p>  \t    Este curso es impartido por Jorge Alcalá. Jorge desarrolla su actividad principal como 3D Artist donde ha tenido la oportunidad de trabajar para Virtual Toys, Revistronic o como Lead Artist en Enne Entertainment entre otros. Entre sus competencias destacan Character Modeling, desarrollo de videojuegos, uv mapping o texturing y domina proramas como Zbrush, unity 3D o Photoshop. Ha trabajado también en Luzán 5 como 3D artist.  </p>  <p>  \tEn el curso cubriremos los siguientes temas:  </p>  <ul>  \t<li>Introducción al curso y el entorno de trabajo</li>  \t<li>Herramientas y conceptos básicos del modelado 3D</li>  \t<li>Propiedades de los objetos</li>  \t<li>Punto de pivote de un objeto</li>  \t<li>Shapes</li>  \t<li>Extrusiones y biselado</li>  \t<li>Terrenos, Linkado de objetos y grupos</li>  \t<li>Organización de la escena</li>  \t<li>Boleanas</li>  \t<li>Materiales</li>  \t<li>Iluminación</li>  \t<li>Render</li>  \t<li>Graphite modelling tools</li>  \t<li>Material ID´s</li>  \t<li>Mapeado de objetos mediante el modificador unwrap</li>  \t<li>Animación y Rigging aplicable a objetos y personajes</li>  \t<li>Character Studio</li>  \t<li>Cámaras</li>  \t<li>Profundidad de campo</li>  \t<li>Desenfoque de movimiento</li>  \t<li>Partículas</li>  \t<li>Simulaciones</li>  </ul>", 
+    "end_date": null, 
+    "title": "Modelado con 3D Studio Max", 
+    "price": "20.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/177450_50de.jpg", 
+    "course_url": "https://www.udemy.com/modelado-con-3d-studio-max/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-05T18:48:15Z"
+}

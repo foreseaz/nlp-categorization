@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Don’t all developers want their website to be simple, attractive, interactive, and dynamic at the same time? Coding the front end while keeping these attributes in mind has been a constant struggle for web developers. Facebook and Instagram, the two most popular social networking sites, have bewitched almost one-third of our population. Well, React has been at the heart of it all, as the JavaScript library precisely developed to build user interfaces specifically for large applications which deal with time-changing data.</p><p>Mastering ReactJS will provide you with insights into using JSX with React. It will get you up and running with the React environment, showing you the current best practices as you build an advanced web application.</p><p>You’ll start with setting up a development environment with React and gaining an understanding of the component life cycle, how to use virtual DOM and state machines, and how to implement advanced communication between components. We then focus on building an e-commerce admin system and a list of orders for our application Storekeeper.</p><p>The course will take root in real-world use cases and challenges on how to unit test complex enterprise-grade ReactJS applications faster. It will teach you how to render screens, explore how the router on the server is utilized and fetch data from the server, as well as e-mail authoring, and building an iOS version of our page.</p><p>The course also covers the key optimization points for Storekeeper and explores best practices for debugging. Mastering ReactJS is your go-to guide when building an e-commerce admin application fully equipped with a dashboard, a list of orders, a digest e-mail, and an iOS version.</p><p><strong>About The Author</strong><strong></strong><br></p><p><strong>Simon Højberg </strong>is a Senior UI Engineer. He is the co-author of Developing a React Edge: The JavaScript Library for User Interfaces published by the Bleeding edge Press, co-organizer of the Providence JS Meetup group, and former JavaScript instructor at Startup Institute Boston. Simon’s big passion is developing streamlined user interfaces, but he also has extensive experience developing servers.<br></p>", 
+    "end_date": null, 
+    "title": "Mastering React JS", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/632210_362f_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-reactjs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-06T09:34:24Z"
+}

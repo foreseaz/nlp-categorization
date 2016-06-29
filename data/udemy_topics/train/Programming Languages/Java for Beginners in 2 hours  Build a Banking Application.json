@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is a <strong>total hands-on programming experience</strong> and has <strong>no power-point presentations.</strong> If we do something practically we tend to remember it for a long time. And that is the reason this course has been designed to get the best in you with all practical examples. \n\n  </p>\n\n<p>This course is suitable for students, programmers who are new to Java and want to get a quick understanding of the language and start building applications as early as possible.\n\n  </p>\n\n<p>This course is aimed at teaching <strong>maximum concepts in minimum time</strong>. There may be times when we want to get a grasp of any programming language in very short time. This course is a perfect for such situations as it <strong>requires only 2 hours of your time</strong>. \n\n  </p>\n\n<p>In these 2 hours you are going to learn all the core concepts which are commonly used like variables, data-types, conditional statements, looping statements, operators, methods, arrays and even Object-Oriented programming concepts like class, objects, constructors, inheritance, method overloading, method overriding etc and after all this you will also build a project.\n\n  </p>\n\n<p><strong>The best part of this course is the Project</strong>(Banking Application) at the end as it covers almost all important concepts which have been taught in this course. So this will be a good refresher for students and will give them a concrete understanding of the concepts which they have learned.\n\n  </p>\n\n<p>At the end of this course students will get a clear idea of the Java language fundamentals and Object-Oriented concepts. Students will be able to build stand-alone Java applications confidently and also implement Object-Oriented concepts in their projects.\n\n  </p>\n\n<p>And again guys you get all this in just 2 hours. So lets do some coding. </p>", 
+    "end_date": null, 
+    "title": "Java for Beginners in 2 hours: Build a Banking Application", 
+    "price": "20.00", 
+    "instructors": "Abhay Redkar", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/858882_0b43_4.jpg", 
+    "course_url": "https://www.udemy.com/java-for-beginners-in-2-hours-build-a-banking-application/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-24T18:25:42Z"
+}

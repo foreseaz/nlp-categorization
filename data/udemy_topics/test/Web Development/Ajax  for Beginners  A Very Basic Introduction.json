@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><br></p><p>Ajax, shorthand for Asynchronous JavaScript and XML, is a set of technologies that allows you to create Web applications that don't need to refresh Web pages in the browser.</p>  <p><strong>Who is it for?</strong></p>  <p>This course is for you if you are interested in using Ajax on your web pages to create advanced, dynamic, feature-rich web pages.</p>  <p>AJAX is an important front-end web technology that lets JavaScript communicate with a web server. It lets you load new content without leaving the current page, creating a better, faster experience for your web site's visitors. In this course, you'll learn how AJAX works .As Ajax works with JavaScript you learn about JavaScript variables.functions,operators and data types to help you understand Ajax better. This short AJAX course is hands-on and easy to follow along. The course is video based and will take you from knowing nothing about ajax to understanding Ajax and how it works. You will also at the end of the course understand what API and XMLHttpRequest object do. You may have come across http and https before and if not at the end of this course you will know the differences between them.I have added some JavaScript and jQuery refresher lectures .</p>  <p><strong>What you'll learn</strong></p>  <ul><li>Know about Ajax</li><li>How Ajax works</li><li>Understand HttpRequest Object</li><li>Understand API</li><li>Know difference between HTTP AND HTTPS</li><li>Write Ajax Syntax</li><li>Understand Variables</li><li>Understand Functions</li><li>Understand Data Types</li></ul>    <p>This course should be fun and I look forward to welcoming you .</p>", 
+    "end_date": null, 
+    "title": "Ajax  for Beginners: A Very Basic Introduction", 
+    "price": "20.00", 
+    "instructors": "Bluelime Learning Solutions", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/691760_1c00_2.jpg", 
+    "course_url": "https://www.udemy.com/ajax-for-beginners-a-very-basic-introduction/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-08T05:08:46Z"
+}

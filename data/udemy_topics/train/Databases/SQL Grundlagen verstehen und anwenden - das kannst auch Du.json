@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Digitale Datenbanken sind der Motor unserer Technologie getriebenen Welt. Mit Ihnen kaufen wir Songs oder Tickets, planen Trips und erfahren das Wetter am anderen Ende der Welt.</p><p>SQL wird in höhere Programmiersprachen eingebettet und gehört in die Basis-Qualifikation jedes Programmierers. Die Sprache kann mehr als Daten filtern und deckt alle nötigen Operationen im Leben einer Datenbank ab.</p><p>Entwickle schnell ein solides Verständnis der Sprache und hab noch Spaß dabei. Übungen, die sich im Präsenzunterricht bewährt haben, festigen Wissen und Fertigkeiten. Während des Kurses stehe ich Dir online zur Seite.</p><p><strong>Was steht auf dem Plan?</strong></p><p>Gemeinsam ergründen wir die Konzepte moderner, relationaler Datenbanken, klären Fachbegriffe und lernen anschließend SQL, die Sprache zur Kommunikation mit Datenbanken am Beispiel des populären MySQL-Servers.<br></p><p>In meinen Videos vermittle ich präzise und praxisgerecht das theoretische Rüstzeug, dabei beschränke ich mich auf das Wesentliche. Die Sprache SQL wird zu einem Werkzeug, meine Formulierungen kannst Du am Bildschirm in der MySQL-Workbench mitverfolgen. <br></p><p>Dieser Kurs richtet sich an Menschen, die bisher keine oder wenig Erfahrung im Umgang mit relationalen Datenbanken haben. Das kann der \"interessierte Laie\" sein, der ein wichtiges Instrument unserer Informationsgesellschaft verstehen möchte. Für Fachinformatiker - Anwendungsentwicklung ist SQL geradezu essentiell, um aus höheren Programmiersprachen heraus, mit Datenbanken zu arbeiten. Vielleicht stehst Du gerade in Ausbildung, Studium oder Berufsalltag - SQL ergänzt Dein Fachwissen in jedem Fall. Mehr noch, ein solides Grundwissen über SQL wird in vielen attraktiven Jobangeboten der IT-Branche händeringend nachgefragt.</p>", 
+    "end_date": null, 
+    "title": "SQL Grundlagen verstehen und anwenden - das kannst auch Du", 
+    "price": "25.00", 
+    "instructors": "Olaf Seidler", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/566208_87ef_5.jpg", 
+    "course_url": "https://www.udemy.com/sql-lernen-grundlagen-verstehen-und-anwenden/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-27T15:58:38Z"
+}

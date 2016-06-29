@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this course you are going to learn programming in Matlab in just 30 minutes in a express way education. I am adressing engineering students who are new to Matlab and want a quick but also profound introduction to Matlab in order to be able to code their own programs and routines and solve numerical problems.</p><p>You should know the basics of mathematics. Programming skills are not required. However, it would be an advantage if you would have coded in any programming language once in your life.</p><p><strong>Requirements:</strong></p><ul><li>basic knowledge in mathematics</li><li>basic experience in programming (optional)</li><li>a matlab installation<br></li></ul><p>Starting from basic arithmetic and relational operators we will proceed with creating, manipulating and working with matrices and vectors. You will learn how to write your own functions and how to visualize data in plots.</p><p><strong>Goals:</strong></p><ul><li>performing arithmetic operations </li><li>working with matrices and vectors</li><li>writing functions</li><li>understanding of control structures and looping routines</li><li>visualizing data</li></ul>", 
+    "end_date": null, 
+    "title": "Matlab in 30 Minutes!", 
+    "price": "35.00", 
+    "instructors": "Andrej Lerch", 
+    "commitment": "37 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/776766_31a2_3.jpg", 
+    "course_url": "https://www.udemy.com/matlab-in-30min-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-28T11:24:05Z"
+}

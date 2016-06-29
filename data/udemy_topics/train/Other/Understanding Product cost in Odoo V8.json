@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t  This course is about product cost and how it is used in Odoo.  </p><p>Warning: this has nothing to do with sales and purchase price! It's accounting related.</p>  <p>  \tAs the course demonstrate processes from the creation of the product up to the sales and invoicing, it is suitable for people new to the Odoo system.  </p>  <p>  \t  In the first two sections, you will discover the process of acquiring goods and the economics behind the product cost.  </p>  <p>  \t  In the next sections, we will go together in the system and use the different types of costs in order to see their impact in all aspects.  </p>  <p>  \t  If you are about to implement Odoo, or just are looking into discovering Odoo, or if you are a technical person willing to understand a bit more the product cost, this course is for you.  </p>", 
+    "end_date": null, 
+    "title": "Understanding Product cost in Odoo V8", 
+    "price": "20.00", 
+    "instructors": "Eva Pinter", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/408198_e625_3.jpg", 
+    "course_url": "https://www.udemy.com/understanding-product-cost-in-odoo-v8/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-30T10:55:16Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this Advanced White Hat Hacking And Penetration Testing training course, <a href=\"https://www.infiniteskills.com\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">Infinite Skills</a> takes you beyond the basics of Ethical Hacking and shows you advanced techniques for discovering potential security problems with your websites and networks. This course requires that you already have familiarity with the basics of penetration testing, and assumes that you have already completed the Learning White Hat Hacking And Penetration Testing course from <a href=\"https://www.infiniteskills.com\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">Infinite Skills</a>.<br style=\"\">  <br style=\"\">   The course jumps right into the nitty gritty with a chapter about using Dradis. You will learn about scanning, including stealth scanning, data acquisition using various methods, and advanced ways to utilize Metasploit. In this Ethical Hacking tutorial you also learn how to use Burp Suite to do web testing, what reverse engineering is and how to use it, and finally, Ric covers fuzzing with Peach.<br style=\"\">  <br style=\"\">   Once you have completed this training course on Advanced White Hat Hacking And Penetration Testing, you will have an in-depth understanding of how to test networks and websites for potential exploits for the purpose of securing them. You will also know how to use the tools and software that you will need to perform and analyze this testing.<br style=\"\">  </p>    <p>This White Hat Hacking course follows on from our <a href=\"https://www.udemy.com/whitehat-hacking-and-penetration-testing/\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">Beginners White Hat Hacking Course</a></p>", 
+    "end_date": null, 
+    "title": "Advanced White Hat Hacking & Penetration Testing Tutorial", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/58622_4f35_7.jpg", 
+    "course_url": "https://www.udemy.com/advanced-white-hat-hacking/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-06T16:46:10Z"
+}

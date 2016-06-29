@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>If you are new to Meteor or looking to expand your knowledge, this course comes in a full package. You learn and master Meteor by building a complete eCommerce application.<br></p>\n\n\n\n\n\n\n\n<p>You don't have to worry if you are new in we development because this course will take you to the advance level in step by step and pragmatic way.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>This course not only aims to make you master Meteor BUT also to teach how to build an application that exhibit most features you see in the real world applications.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>By the end of this course, storing your files in the cloud and integrating Paypal payment into your applications will be a piece of cake!!</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>Let's take off and GET STARTED!</p>", 
+    "end_date": null, 
+    "title": "Meteor js - Marketplace Site + Amazon S3 +Paypal Integration", 
+    "price": "20.00", 
+    "instructors": "Behrouz Riahi", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/797516_ce94_3.jpg", 
+    "course_url": "https://www.udemy.com/meteor-ecommerce-site-with-amazon-s3-paypal-integration/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-18T23:26:28Z"
+}

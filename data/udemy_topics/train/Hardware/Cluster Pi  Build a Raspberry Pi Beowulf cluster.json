@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Parallel computing - cheap!</strong><br></p><p>As computer processors approach their limits in both size and speed, it has become apparent that further advances in computational power will require parallel programming, with many processors networked together and attacking large problems in chunks. </p><p>Although supercomputers are far outside of the price range of the normal hobbyist, cheaper minicomputers like the Raspberry Pi can be networked together in the same way to allow hobbyists and experimenters to learn about this powerful form of programming. </p><p><strong>Contents of the course</strong><br></p><p>This course takes you through the process of using some simple hardware and open-source software to construct a parallel-networked cluster, ready to attack larger computational problems. You'll learn:</p><ul><li>The history of supercomputing</li><li>What parallel programming is</li><li>Common software used and how to install it on a Raspberry Pi</li><li>Connecting and testing the final cluster</li></ul><p>It's a great introduction to parallel programming, and after only a few lectures you'll have a working Beowulf cluster, based on the inexpensive Raspberry Pi minicomputer. The lectures are entirely video-based, along with included PDFs, example configuration files, and parts lists. </p><p>When you're done with this course, you'll have a suite of new skills that can easily be applied to clusters constructed from more powerful machines. It's a great, inexpensive intro to parallel computing!<br></p>", 
+    "end_date": null, 
+    "title": "Cluster Pi: Build a Raspberry Pi Beowulf cluster", 
+    "price": "20.00", 
+    "instructors": "Wolf Donat", 
+    "commitment": "41 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/636850_c4f0_2.jpg", 
+    "course_url": "https://www.udemy.com/raspberry-pi-beowulf-cluster/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-10T18:38:35Z"
+}

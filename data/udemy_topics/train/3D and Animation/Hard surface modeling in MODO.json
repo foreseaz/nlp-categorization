@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p><strong>What is this course about?</strong></p><p>Hard surface modeling is a field of 3D modeling suitable for projects related to industrial design, engineering or prototyping. In the middle of the path that goes from pure polygonal modeling (mostly used in the videogame industry or archviz) and solid modeling (purely used in CAD systems for very technical levels) there is the hard surface modeling field, In this modeling style you will get advantage of both worlds: You will have the creative freedom of polygonal modeling and the finesse of solid modeling.</p><p>In terms of building a path in your 3D artist career, hard surface modeling is a key point.</p><p><strong>What do I need to start?</strong></p><p>First of all, the techniques and methods shown in this course are, in a high percentage, applicable to any other 3D modeling software. As a teacher, I always try to keep it simple, use the tools wisely and show the basics that every 3D modeler should know.</p><p>For this course, I used <em>Foundry´s MODO901</em>, so you will need to have that software installed in your computer. It is not strictly limited to the 901 version (you will be able to replicate almost all the procedures even in previous versions) but it is highly recommended to follow it with the latest version, or you will be missing some specific tools.</p><p>Included in the first lesson there is a download link for you to download the sample files in MODO´s native format, and also in OBJ format if you want to use another software. The images used as blueprints and a nice hdri image for the illumination is also included.</p><p><strong>What will I learn?</strong></p><p>This course covers a wide range of modeling methods with the purpose of showing all the techniques available to you to get a good quality model. This means:</p><ul><li>Keeping a good mesh flow</li><li>Working in all quads for a good finished mesh</li><li>Solving typical problems</li><li>Adding interest to the look of your project, be it materials, lightning, modeling details...</li><li>Knowing the tools and how to use them properly</li></ul>", 
+    "end_date": null, 
+    "title": "Hard surface modeling in MODO", 
+    "price": "20.00", 
+    "instructors": "Juan Jimenez", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/672340_bd80_3.jpg", 
+    "course_url": "https://www.udemy.com/hardsurfacemodo/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-17T14:54:17Z"
+}

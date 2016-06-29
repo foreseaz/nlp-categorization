@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>PDO is the best way to access databases in PHP among other web programming languages. PDO is not database specific, so we can use it to connect and control data for a very broad selection of databases. PDO is most  secured and easy way to access any database. </p><p>PDO stands for PHP Data Objects and a little Object Oriented Programming understanding is necessary but not required to follow the course.</p><p>In this course you will learn how to use PDO to Create, read, update, delete data from any database and lots more. </p><p>The best thing about this course is that it goes right to the point and it doesn't waste much time on trivial matters.</p><p>If you are ready to get started learning how to use PDO with PHP, lets go......</p>", 
+    "end_date": null, 
+    "title": "PHP with PDO - ULTIMATE Crash Course", 
+    "price": "20.00", 
+    "instructors": "Edwin Diaz", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/688968_ad4d.jpg", 
+    "course_url": "https://www.udemy.com/php-with-pdo-ultimate-crash-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-04T16:11:12Z"
+}

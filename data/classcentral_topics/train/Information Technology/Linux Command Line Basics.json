@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Information Technology"
+    ], 
+    "description": "\n\n                    \n                    \n                    We have built this course for beginners who have no experience with the Linux system and the command-line interface.\n\nIn this course, you'll learn the basics of the command line interface of a Linux server: the terminal and shell (GNU Bash). This course includes an introduction to files and directories in the Linux filesystem.Why Take This Course?Most servers on the Internet today run on Linux or other Unix-like systems. Installing, configuring, and troubleshooting often relies on the command line interface. This, accordingly, is foundational web knowledge, and in fact many of our intermediate and advanced courses rely on a familiarity with the command-line interface to run servers, work with version control systems and more.\n\n                                            Syllabus\n                        ### Lesson 1: Get Into the Shell  \nIn this lesson, you'll learn about the terminal user interface and how you can interact with a Linux server using shell commands.\n\n### Lesson 2: Shell Commands\nThere are different kinds of shell commands that work with the terminal in different ways. This lesson also covers the use of the Linux manual (manpages) to expand your knowledge of shell commands.\n\n### Lesson 3: The Linux Filesystem\nWorking with files and directories is a big part of using the shell. In this lesson you'll learn basic commands for interacting with the filesystem.\n                                    ", 
+    "end_date": "2015-08-18T00:00:00Z", 
+    "title": "Linux Command Line Basics", 
+    "price": 0, 
+    "instructors": "Karl Krueger", 
+    "institution_name": [], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.udacity.com/course/linux-command-line-basics--ud595?utm_medium=referral&utm_campaign=api", 
+    "duration": "1 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2015-08-11T00:00:00Z"
+}

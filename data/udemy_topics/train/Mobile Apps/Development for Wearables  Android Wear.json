@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<ul style=\"\">  \t<p>  \t\t<strong style=\"\">Android Wear is the next best thing to happen with technology.</strong><span> The seamless integration of a device you can wear with your smartphone opens up a whole new set of possibility for apps. And, this is the right time for you take up development for wearables.</span>  \t</p>  \t<p>  \t\t<strong style=\"\">Don’t assume that if you know android programming then wearables follow the same guidelines</strong> as an app such as 9 essential design principles, suggest &amp; demand architecture, cards based UI, etc. Android wear follows a holistic material design which focusses on performance<strong style=\"\">. It is essential for you to understand all the concepts behind android wear</strong> and then put it into use, and this course will help you do just that.  \t</p>  \t<p>  \t\tLearn the essentials of android wear development covering the following topics –  \t</p>  \t<ol style=\"\">  \t\t<li><span>Basic Design Principles (9 essential design principles)</span></li>  \t\t<li><span>UI patterns (Cards, </span><span>App Icons, Pages, Action Buttons, Action Countdown, etc)</span></li>  \t\t<li><span>Introduction to Android Studio</span></li>  \t\t<li><span>Executing demo apps</span></li>  \t\t<li><span>Creating Wear Notifications</span></li>  \t\t<li><span>Creating an action for the notification</span></li>  \t\t<li><span>Voice message as an action</span></li>  \t\t<li><span>Pre-defined Responses</span></li>  \t\t<li><span>S</span><span>tacked Notification</span></li>  \t\t<li><span>Packaging your android wear app</span></li>  \t\t<li><span>The Fixed Deposit Notification App</span></li>  \t</ol>  </ul>  <p>  \tT  </p>", 
+    "end_date": null, 
+    "title": "Development for Wearables: Android Wear", 
+    "price": "20.00", 
+    "instructors": "Yoda Learning", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/330180_ae66_3.jpg", 
+    "course_url": "https://www.udemy.com/android-wear/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-29T05:51:56Z"
+}

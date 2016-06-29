@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages.</p><p style=\"\">In this course, you&#039;ll take an in depth look at HTML and learn its syntax and semantics. All while focusing on some of the best practices to use when writing and editing HTML. We&#039;ll start by exploring what HTML is and examining its basic syntax. Next, we&#039;ll move on to exploring basic document structure, how to properly section pages and how to use HTML to format page content easily.</p><p style=\"\">After that, we&#039;ll explore HTML5 forms and table. After only a few lessons of this course you will be able to make your own HTML5 web pages with confidence. I can&#039;t wait to show you how easy it is to begin writing HTML code and how quickly that you&#039;re going to be authoring and editing your own HTML pages. Felling excited, so then let&#039;s get started.</p><p style=\"\"><strong style=\"\">Topic Cover</strong></p><ul style=\"\"><li style=\"\">What is HTML ?</li><li style=\"\">Important of HTML</li><li style=\"\">Exploring an HTML document</li><li style=\"\">Formatting content</li><li style=\"\">Displaying images</li><li style=\"\">Using Heading, Paragraph, and div elements</li><li style=\"\">Exploring HTML5 Table and Form elements.</li></ul>", 
+    "end_date": null, 
+    "title": "HTML5 for Beginners", 
+    "price": "20.00", 
+    "instructors": "Somenath Sen", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/594088_da9f_4.jpg", 
+    "course_url": "https://www.udemy.com/html5-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-26T15:05:17Z"
+}

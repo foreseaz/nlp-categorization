@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Learn how to create your own custom real-time shaders in Autodesk Maya using ShaderFX.<span></span></p><p>Work with node based real-time shader authoring environment where all your results are immediately visible in its full glory in the Maya viewport.</p><ul><li>Learn how to create and modify ShaderFX shading networks.</li><li>Learn how to create and work with animated shader effects.</li><li>Follow along and learn good methods to solve common shader authoring challenges.</li></ul><p><br></p><p>The benefit of working with ShaderFX in Maya is that anything you build is directly visible int he viewport. You get tremendous render speed compared to offline rendering. The kind of shaders you author with ShaderFX is exactly the same kind of shaders that modern game engines use. Same concepts and same kind of nodes/functions/operations.<br></p><p>Use your ShaderFX nodes as ways of presenting your portfolio artwork exactly the way you want it to look. Prototype your shader ideas for future game implementations. Gain valuable real-time shader authoring experience. Create previz materials for your movie project.</p><p>The ShaderFX shader authoring environment is also the same environment your create shaders for Autodesks new game engine \"Stingray\".</p><p>Do feel free to ask questions and discuss shader questions within the course community.<br></p><p>You need a version of Autodesk Maya that has ShaderFX available to be able to follow along this course and create your own shaders. That is: Maya 2014LT, Maya 2015 or Maya 2016.</p><p><em></em></p>", 
+    "end_date": null, 
+    "title": "Creating custom real-time shaders using ShaderFX for Maya", 
+    "price": 0, 
+    "instructors": "TGA Digital", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/635750_3476_3.jpg", 
+    "course_url": "https://www.udemy.com/creating-custom-real-time-shaders-using-shaderfx-for-maya/", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-09T10:01:18Z"
+}

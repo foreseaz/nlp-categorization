@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Nosso objetivo é</strong> <strong>facilitar o aprendizado de BIM de forma prática.</strong></p><p>Queremos ensinar os caminhos mais rápidos e as ferramentas mais importantes para utilizar BIM no dia a dia de maneira a obter seus benefícios. Afinal de contas, também já fomos estudantes e sabemos o quanto é difícil achar os caminhos para conseguir não só criar modelos, mas utilizá-los para alguma etapa importante do processo construtivo.</p><p>Nesse curso apresentaremos um workflow prático e bem objetivo para criar um modelo usando o Autodesk Revit que sirva como fonte de informação para que você possa alimentar seu orçamento com quantitativos precisos, planejar seu empreendimento, e de fato explorar as vantagens que o BIM tem pra oferecer. Todo o nosso processo de modelagem é feito exatamente como o empreendimento será construído, levando em conta os conhecimentos de engenharia e construção civil. </p><p>Faremos isso em 5 módulos. Nesse primeiro abordaremos a modelagem arquitetônica e estrutural de um prédio de 4 pavimentos e 16 apartamentos. Assim, você aprenderá os seguintes tópicos:</p><ul><li>Configurações iniciais;</li><li>Criação de arquivo guia;</li><li>Importação/Link de CADs e RVTs;</li><li>Modelagem de pilares, vigas, lajes e escadas;</li><li>Construção de paredes, pisos e tetos;</li><li>Aplicação de revestimentos;</li><li>Modelagem de esquadrias, guarda-corpos e rodapés;</li><li>Criação de soleiras, pingadeiras e peitoris;</li></ul><p>Ao final do curso, você vai ter em mãos o conhecimento para criar modelos extremamente precisos da edificação, com informações úteis para a gestão de um empreendimento. </p>", 
+    "end_date": null, 
+    "title": "BIM na prática - Módulo 1: Modelando arquitetura e estrutura", 
+    "price": "50.00", 
+    "instructors": "Guilherme Pelizza, Matheus Bracht, Alexandre Victor Muller Filho", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/723190_7eb2_3.jpg", 
+    "course_url": "https://www.udemy.com/bimnapratica-modulo1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-10T21:25:26Z"
+}

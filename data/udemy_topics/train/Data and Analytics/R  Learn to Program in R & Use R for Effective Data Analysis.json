@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>  \tThis course is about learning R Tool which is one of the <strong>most popular Analytical Tool</strong> used in the Industry.  </p>  <p>  \t <strong>Why learning R will make a difference / Why this Course ?</strong>  </p>  <p>  \t                 - Professional Relevance :  </p>  <p>  \t                 R is gaining popularity day by day ; companies like Facebook, Google are using R in extensive manner. Demand for the tool is increasing as it is available for free.  </p>  <p>  \t                 -  Put your Resume in spotlight :  </p>  <p>  \t                 In most of the Data Analyst Resume you will find SAS/SPSS and other conventional tools ; by learning R you can add extra points to your Resume.  </p>  <p>  \t                 -  Its easy to Learn R :  </p>  <p>  \t                 R is an opensource language ; it is available for free. Huge R community is adding to the functionality of R daily . All the tutorials/code are easily available.  </p>  <p>  \t <strong>Materials Included :</strong>  </p>  <p>  \t                 - Materials in the form of attachments are included with the session itself ( wherever necessary)  </p>  <p>  \t <strong>Structure of the course : </strong>  </p>  <p>  \t                 The course has 5 sections with 15 lectures. It is designed to introduce you to foundational topics leading to more complex ones as you progress.  </p>  <p>  \t                 Section 1:  Know your R Tool  </p>  <p>  \t                 Section 2: Data Manipulation : Use of Data types and Data structures  </p>  <p>  \t                 Section 3: Data Management : Packages and File import/export  </p>  <p>  \t                 Section 4: Advance Use : Logical operation and Merging in R  </p>  <p>  \t                 Section 5: Text Analytics Project : Learn how to create wordcloud  </p>  <p>  \t <strong>Duration of the course :</strong>  </p>  <p>  \t                 The course has 5 sections with 15 lectures and the overall duration of the course is 2.5 hours.  </p>", 
+    "end_date": null, 
+    "title": "R: Learn to Program in R & Use R for Effective Data Analysis", 
+    "price": "20.00", 
+    "instructors": "ATI - Analytics Training Institute", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/123078_dc67_5.jpg", 
+    "course_url": "https://www.udemy.com/redwoodassociatesr/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-20T19:27:14Z"
+}

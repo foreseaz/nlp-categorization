@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<ul><li>Taught by a team of electrical engineers from Stanford and IIT Madras.</li></ul><p><strong><em><em>An Internet-Of-Things course for everyone - accessible yet serious, to take you from absolute beginner to a solid intermediate level</em> - built around Home Automation using Raspberry Pi.</em><br></strong></p><p>This is a course is for <strong>everyone</strong>. You need not be an electrical engineer, or an engineer at all. We explain all engineering or automation concepts from absolute scratch.</p><p>This is an <strong>Internet-of-Things </strong>course, not merely a Raspberry Pi course. This is important because we think too many courses end up becoming like manuals for the Raspberry Pi, or the Arduino, or some specific hardware device. This course is careful to generalize</p><p>The course takes you to a <strong>solid intermediate level.</strong> The objective is to get you to a point where if you imagine a really cool IoT application, you will be able to independently figure out how to implement it.</p><p>We focus on <strong>Home Automation using Raspberry Pi</strong> for our use-cases. This is so that you can immediately put it to use around the home (turn that music down without getting off the couch!)</p><p>As with all our courses, this one too is <strong><em>quirky</em>.</strong> The examples are irreverent. Lots of little touches: repetition, zooming out so we remember the big picture, active learning with plenty of quizzes. There’s also a peppy soundtrack, and art - all shown by studies to improve cognition and recall.</p><p><strong>What's Covered:</strong></p><p><strong>Internet of Things : </strong>Sensors, Actuators, Microcontrollers, Arduino, Raspberry Pi, Physical Computing, Smart homes</p><p><strong>Raspberry Pi 2 Model B </strong>Components, System on a Chip (SOC) , Input Output Interfaces, SD Card / Secondary Storage, Choice of Operating Systems, RISC/CISC Architectures, x86 vs ARM, Raspbian OS installation, Raspbian tour, Linux Shell commands overview, Installing softwares, Connecting to the Internet</p><p><strong>Physical Computing:</strong> Sensors (Photoresistors, Ultrasonic sensors, motion sensors, temperature and humidity sensors), Relays, LEDs, Push buttons, Basics of circuit design, Ohm's law, RC circuit, GPIO pins, Serial and Parallel interfaces, UART, SPI, I2C, Pulse Width Modulation (PWM), Python (RPi DOT GPIO), WiringPi, Node js (RPi-GPIO)</p><p><strong>Home Automation projects: </strong>Measuring Distance, Measuring Light Intensity, Controlling switches with sensors, Controlling switches over local and external networks <br></p><p><br></p><p>Mail us about anything - anything! - and we will always reply :-)</p>", 
+    "end_date": null, 
+    "title": "From 0 to 1: Raspberry Pi and the Internet of Things", 
+    "price": "20.00", 
+    "instructors": "Loony Corn", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/630952_4bb3_2.jpg", 
+    "course_url": "https://www.udemy.com/from-0-to-1-raspberry-pi/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-05T04:22:15Z"
+}

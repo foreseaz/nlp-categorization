@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>If you are a web designer or developer who <strong>creates single page static site (HTML/CSS) and/or multiple pages static site</strong> but never tried PHP for any reason and willing to know how to take advantage of PHP in your designed static websites then this course is for you.</p>  <p>At the end of this course, you will be able to <strong>convert</strong> <strong>single page website</strong> and/or <strong>multiple pages website</strong> into PHP-based pages and update your website quickly instead of manually doing changes in repeated sections of website. </p><p>You will learn by watching me doing it and explaining the process and procedure, so you can repeat it all yourself and practice it in my given theme files or your own .html websites.</p>", 
+    "end_date": null, 
+    "title": "Convert Static Websites from HTML to PHP for Web Designers", 
+    "price": "20.00", 
+    "instructors": "Zeeshan Arshad", 
+    "commitment": "36 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/667744_2f15.jpg", 
+    "course_url": "https://www.udemy.com/convert-static-websites-from-html-to-php-for-web-designers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-12T11:07:08Z"
+}

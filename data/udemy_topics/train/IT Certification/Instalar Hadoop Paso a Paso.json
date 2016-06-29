@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \tEsta es la primera guía 100% en español para realizar la instalación  completa de Hadoop en una máquina convencional, como puede ser tu  ordenador  </p>  <p style=\"\">  \tVamos a explicarte con todo detalle cómo instalar Hadoop en tu máquina de manera sencilla. Todos los pasos explicados, documentación y enlaces necesarios  </p>  <p style=\"\">  \t  Hadoop se trata de un framework que resulta vital, en el entorno Big Data. Sin embargo, su instalación resulta verdaderamente complicada.  </p>  <p style=\"\">  \t  En curso vamos a guiarte en paso a paso con todo detalle, ayudandonos con un documento que nos servirá de guía y tú puedes descargar.  </p>  <p style=\"\">  \t  Te interesa entrar en el mundo big data y tienes problemas para instalar Hadoop y empezar a manejarlo?? Este es tu curso, Bienvenido!!  </p>", 
+    "end_date": null, 
+    "title": "Instalar Hadoop Paso a Paso", 
+    "price": "50.00", 
+    "instructors": "Jorge Ubero", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/212668_9122_2.jpg", 
+    "course_url": "https://www.udemy.com/instalar-hadoop-bd4s/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-07T23:49:48Z"
+}

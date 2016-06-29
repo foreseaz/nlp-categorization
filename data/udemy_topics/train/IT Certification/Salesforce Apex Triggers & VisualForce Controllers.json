@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Learning Salesforce Apex Triggers is not difficult anymore. I have simplified the logic behind writing a trigger and in Just 1 hour you will understand  Salesforce  Apex Trigger patterns and start writing triggers on your own.</p><p>For anyone wanting to learn <strong>Salesforce programming(Apex Triggers)</strong>, whether an experienced programmer or a beginner, this course is the ideal one.</p><p>This course contains basic &amp; advanced instructions of  Salesforce Programming that covers basic <strong>Apex Triggers, SOQL language, Advanced Apex Triggers, VisualForce Designing with Custom Controller &amp; Custom Controller extensions and apex code usage.</strong></p><p>If Salesforce apex Triggers and VisualForce custom controller training is what you seek, then look no further! Enroll now and begin your journey as <strong>Salesforce Developer &amp; Programmer !</strong> </p>", 
+    "end_date": null, 
+    "title": "Salesforce Apex Triggers & VisualForce Controllers", 
+    "price": "20.00", 
+    "instructors": "Aslam Tayyab", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/565044_fb0b_5.jpg", 
+    "course_url": "https://www.udemy.com/salesforce-apex-triggers-visualforce-controllers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-26T10:47:14Z"
+}

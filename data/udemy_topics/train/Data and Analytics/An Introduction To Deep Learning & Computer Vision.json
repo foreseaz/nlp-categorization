@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p><strong><strong><strong>Note: This course is a subset of our 20+ hour course 'From 0 to 1: Machine Learning &amp; Natural Language Processing' so please don't sign up for both:-)</strong></strong><br></strong></p><p><strong>Deep Learning is one of the hottest buzzwords out there in Machine Learning today - this class will get beyond the hype, and help you understand what it's all about! And along the way, you will write a Python program that recognizes handwritten digits! </strong></p><p><strong>Prerequisites</strong>: No prerequisites, knowledge of some undergraduate level mathematics would help but is not mandatory. Working knowledge of Python would be helpful if you want to run the source code that is provided.</p><p><strong>Taught by</strong> a Stanford-educated, ex-Googler and an IIT, IIM - educated ex-Flipkart lead analyst. This team has decades of practical experience in quant trading, analytics and e-commerce. </p><ul><li><strong>Deep Learning Networks </strong>are the cutting edge solution for the handwritten digit recognition problem and many others in computer vision. These are often large artificial neural networks.</li><li><strong>A quick introduction to Computer Vision</strong>, and one of the most popular starter problems - identifying handwritten digits using the MNIST database. We also talk about feature extraction from images.</li><li><strong>Perceptron Reintroduced:</strong> The perceptron is the simplest of artificial neural networks - it becomes a building block for other complex networks</li></ul><p><strong>Python Activity: Simple Handwriting Recognition</strong></p><ul><li>Train a neural network to classify handwritten digits in Python. First start by downloading and unzipping the MNIST database images to create some training and test datasets.</li><li>Then we build a neural network and specify the training process.</li><li>We now have a trained neural network, feed it some test data and check the accuracy.</li></ul><p><strong>Mail us </strong>about anything, and we will always reply :-)</p>", 
+    "end_date": null, 
+    "title": "An Introduction To Deep Learning & Computer Vision", 
+    "price": "20.00", 
+    "instructors": "Loony Corn", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/783684_ba1b.jpg", 
+    "course_url": "https://www.udemy.com/intro-to-deep-learning/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-06T04:00:45Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">It&#039;s a great time to be a Perl programmer!</strong>  </p>  <p style=\"\">  \t<strong style=\"\"></strong>  </p>  <p style=\"\">  \t          In today’s world, ETL (Extract, Transform and Load data) is a driving force to facilitate development of business intelligence and analytics across information delivery, analysis and integration. Perl can be used with this high level software to create the underlying infrastructure for ETL.  </p>  <ul style=\"\">  \t<p style=\"\">  \t\t          &gt; Use Perl to create database functions that can be combined into one tool to pull data out of one database and place it into another.  \t</p>  \t<p style=\"\">  \t\t          &gt; Perl can define standard metrics, create advanced calculations, analytical functions to enhance data.  \t</p>  \t<p style=\"\">  \t\t          &gt; This self-guided, introductory course provides the foundation for performing the above functions.  \t</p>  </ul>  <p style=\"\">  \t<u style=\"\">LEARN PERL BY EXAMPLE</u>  </p>  <p style=\"\">  \t<em style=\"\">Imagine, design, implement, test, and roll out new features in your role as a Perl Programmer!</em>  </p>  <p style=\"\">  \t          Have you ever wanted to find or extract some information in a huge document without needing to read though it? Do you want to manipulate, reformat, or extract text (or binary data) from a document that is not human readable? Then this course is for you. You can extract, transform and load data into a spreadsheet or a database.  You are only limited by your imagination.  </p>  <p style=\"\">  \t<u style=\"\">Who should take this course:</u>  </p>  <p style=\"\">  \t        This course is for someone who wants to learn a software language from the ground up. The course starts with Perl fundamentals and progresses to an intermediate level. Examples are used to introduce concepts and to stimulate the imagination. The end of the course does introduce some advanced topics.  </p>  <p style=\"\">  \t<u style=\"\">You will learn:</u>  </p>  <ul style=\"\">  \t<p style=\"\">  \t\t          -Perl fundamentals  \t</p>  \t<p style=\"\">  \t\t          -Learning Perl hands-on examples  \t</p>  \t<p style=\"\">  \t\t        -Object Oriented Programming introduction  \t</p>  </ul>  <p style=\"\">  \t<u style=\"\">Included</u>  </p>  <ul style=\"\">  \t<p style=\"\">  \t\t          -Guided examples with results, hands on exercises  \t</p>  \t<p style=\"\">  \t\t          -Video modules  \t</p>  \t<p style=\"\">  \t\t          -Instructions to download Perl, a Perl IDE and Editor  \t</p>  \t<p style=\"\">  \t\t          -How to use Perl module extensions  \t</p>  </ul>  <p style=\"\">  \t<u style=\"\">Requirements</u>  </p>  <ul style=\"\">  \t<p style=\"\">  \t\t          -Desktop, laptop  \t</p>  \t<p style=\"\">  \t\t          -Download Perl (free) to Windows OS  \t</p>  </ul>", 
+    "end_date": null, 
+    "title": "Learning Perl by Example", 
+    "price": "30.00", 
+    "instructors": "Larry Prucha", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/265396_0c5d_5.jpg", 
+    "course_url": "https://www.udemy.com/learning-perl-by-example/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-21T02:13:30Z"
+}

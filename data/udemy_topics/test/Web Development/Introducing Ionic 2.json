@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Hybrid apps are changing the way people build mobile applications. With Ionic 2, hybrid app developers are gifted with not only a fresh, well-built, and powerful platform, but also a tool to enjoy their development experience. Apps can be built in record time, yet remain visually attractive and contain advanced features.</p><p><em>Introducing Ionic 2</em>, will help you discover all the building blocks of an Ionic 2 application. You will learn how to use built-in components, make API calls, and style your app to your liking, so prepare yourself for many hours of fun development with Ionic 2.</p><p>We’ll start by bootstrapping an application, enhancing one cool feature at a time. Each feature will cover one of the essential components of an app: user experience, logic and data, and the user interface. By the end of the course, we will have built an entire awesome iTunes Browser app.</p><p>First, you’ll find out how to add pages and navigate between them, including going back and forth. Once new pages are in place, we’ll focus on grabbing real data from an API via AJAX with and without JSONP. With data and views in place, we’ll focus on improving the user experience and using modals, action sheet, alerts, loaders, and even a fully validated form. We also cover a range of various topics including styling, navigation with parameters, and Angular 2 pipes to filter and transform the way data is presented.</p><p><em>Introducing Ionic 2</em> will take you on the same journey as if you were building a real application, from scratch to a working product. You’ll soon see how this powerful mobile application framework can make your development fast, structured, and at the same time incredibly enjoyable.</p><p><strong>About The Author</strong></p><p><strong>Mathieu Chauvinc</strong> is a Managing Director at Red Ape Solutions and works on keeping the company at the bleeding edge of web technologies. On a daily basis, he leads the tech team of 15 and collaborates with them in building complex single page applications and neat hybrid mobile apps. He has been involved in web technologies for over a decade, from Django to Go, SQL to NoSQL, Mootools to Angular, continuously trying to keep the right balance between the excitement of new frameworks and the stability of proven ones. He always has a special place in his heart for Python and Django.</p><p>He holds a Master’s in Engineering from the German University Karlsruhe and a Master’s in Engineering from the French ENSAM (Paris). Despite having an engineering background, he has always had a passion for knowledge sharing, which follows him to this day, and he regularly conducts corporate or free training on various I.T. topics in his adoptive country of Malaysia. He is also the author of the <em>Introducing AngularJS</em> and <em>Learning JavaScript Promises</em> video courses, published by Packt Publishing.</p>", 
+    "end_date": null, 
+    "title": "Introducing Ionic 2", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/755932_8f50_2.jpg", 
+    "course_url": "https://www.udemy.com/introducing-ionic-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-08T12:25:42Z"
+}

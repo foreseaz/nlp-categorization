@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">Learn Excel&#039;s Lookup and References functions with easy examples. Explore the concepts of reverse lookup and missing data. The <strong style=\"\">Mastering Lookup Functions using Excel 2013</strong> course opens up avenues to crunch data using some of the nifty tools that Excel provides. This course also covers the techniques to handle errors while working with such functions.</p><p style=\"\">Excel offers Lookup functions that help you to work with arrays of data. These are particularly useful when you need to cross reference between different data sets. The lookup functions perform tasks such as providing information about a range, returning the location of a given address or value, or looking up specific values. This course would be very useful to participants across various industries and functional specializations such as MIS, Finance, Marketing, Operations, Human Relations, Information Technology and Administration.</p>", 
+    "end_date": null, 
+    "title": "Mastering Lookup Functions in MS Excel 2013 Training", 
+    "price": "20.00", 
+    "instructors": "GreyCampus Inc.", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/581902_afe7_4.jpg", 
+    "course_url": "https://www.udemy.com/mastering-lookup-functions-in-ms-excel-2013-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-13T06:31:21Z"
+}

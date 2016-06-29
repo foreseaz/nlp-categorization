@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t A lo largo de estos vídeos aprenderemos a crear aplicaciones universales que funcionen tanto en un iPhone como en un iPad aprovechando la mayor parte del código desarrollado en la aplicación. Haciendo un gran hincapié en la adaptación a las diferentes pantallas de los dispositivos del ecosistema de Apple. Xcode ofrece a los desarrolladores todo lo que necesitan para crear grandes aplicaciones para Mac, iPhone y iPad.  </p>  <p>  \tXcode tiene un diseño unificado de interfaz de usuario, codificación, pruebas y depuración de dentro de una sola ventana. El Xcode IDE analiza los detalles de su proyecto para identificar errores tanto en la sintaxis y la lógica y puede incluso ayudar a reparar su código.  </p>  <p>  \tEste curso es impartido por David Matellano, emprendedor, analista y desarrollador apasionado de la tecnología. Licenciado en Ingeniería de Telecomunicaciones por la Universidad Autónoma de Madrid, se ha especializado en el diseño y desarrollo de aplicaciones móviles, habiendo colaborado en diferentes empresas y proyectos con una experiencia de más de tres años.  </p>", 
+    "end_date": null, 
+    "title": "Aplicaciones universales y adaptación de pantallas iOS", 
+    "price": "20.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "31 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/173726_7587_2.jpg", 
+    "course_url": "https://www.udemy.com/aplicaciones-universales-y-adaptacion-de-pantallas-ios/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-27T09:33:57Z"
+}

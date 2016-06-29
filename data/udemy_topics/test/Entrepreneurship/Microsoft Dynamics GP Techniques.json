@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>  \t <em style=\"\">Microsoft Dynamics GP Techniques</em><span> presents a series of step-by-step video guides showing you how to get the most out of Microsoft Dynamics GP. System administrators and end users alike will learn how to leverage its abilities to help make smarter decisions by using some overlooked and little know features; giving them better awareness and control over what’s going on in their business.</span>  </p>  <p>  \t <em style=\"\">Microsoft Dynamics GP Techniques</em> presents a series of clear, concise videos which outline how to get the most out of your system. Starting with logging in and customizing the home page, you will learn how to inquire and report more effectively, how to fix data entry problems, speed up data entry while also reducing data entry errors, improve system maintenance, as well as learn how to install and use the Professional Services Tools Library (PSTL) to copy and alter data.  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t<span><strong style=\"\">Ian Grieve</strong> is a Microsoft Dynamics GP and CRM certified consultant, specializing in the delivery of Microsoft Dynamics GP and CRM projects. He is a senior consultant at Perfect Image Ltd., a Microsoft Partner and VAR in the North East of England. Ian has been working with Microsoft Dynamics GP since 2003. He has dealt with all aspects of the product life cycle from presales, to implementation, to technical and functional training, to post go-live support and subsequent upgrades, and process reviews. Alongside his work with Microsoft Dynamics GP, in recent years he has fulfilled a similar role dealing with Microsoft Dynamics CRM, with special emphasis on project delivery and the training of end users on the management of sales, marketing, and services.</span>  </p>", 
+    "end_date": null, 
+    "title": "Microsoft Dynamics GP Techniques", 
+    "price": "35.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/400968_3576_2.jpg", 
+    "course_url": "https://www.udemy.com/microsoft-dynamics-gp-techniques/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Entrepreneurship"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-22T09:24:01Z"
+}

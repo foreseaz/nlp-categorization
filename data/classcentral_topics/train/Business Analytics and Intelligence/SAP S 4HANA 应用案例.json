@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business Analytics and Intelligence"
+    ], 
+    "description": "\n\n                    \n                    \n                    现今的整个世界，都在数字化进程中。为您的公司准备好向着数字化经济进发，就意味着必须将您的应用核心进行数字化。但是，在对大部分行业数字化转型状态的考量时，技术只是一枚双面硬币的其中一面。另一面则必须是从业务视角出发。\r\n本课程是继2015年推出的两门openSAP课程：《SAP S/4HANA精简课程》和《SAP S/4HANA进阶课程》之后，有关SAP S/4HANA系列的第三门课程，是为更进一步地传递SAP S/4HANA设计理念，及其所带来的业务价值加速的能力。由技术带来的数字化经济所产生的影响是巨大的，虽然技术本身只能作为一种催化剂，是为了实现从根本上来说就不一样的业务结果。我们所选择的应用案例，是为强调和凸显在技术转变背后所隐藏的价值所设计的。\n\n                                            Syllabus\n                        案例1：一人细分市场案例2：实时库存管理案例3：加速的物流需求计划案例4：先进的销售订单履行案例5：任意时候进行财务暂结案例6：提高财务业务绩效案例7：跨组织架构提高人才参与度案例8：跨组织架构驱动HR合规性案例9：实时洞察潜在欺诈模式案例10：洞察协同工作模式\n                                    ", 
+    "end_date": "2016-05-04T00:00:00Z", 
+    "title": "SAP S/4HANA 应用案例", 
+    "price": 0, 
+    "instructors": "Bert Schulze and Sven Denecken", 
+    "institution_name": [], 
+    "commitment": "3 hours", 
+    "subject_name": [
+        "Business & Management"
+    ], 
+    "course_url": "https://open.sap.com/courses/s4h3-cn", 
+    "duration": "3 weeks", 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "openSAP"
+    ], 
+    "start_date": "2016-04-13T00:00:00Z"
+}

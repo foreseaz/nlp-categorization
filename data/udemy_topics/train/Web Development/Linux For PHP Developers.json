@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">In this course, I&#039;ll show you how to configure your windows machine to be your own private web developer platform.</p><p style=\"\">I designed this course with the assumption that you don&#039;t have any experience with Linux or server administration. Therefore, every command and technique will be described and demonstrated in context, so nobody will be left behind.</p><p style=\"\">I will set up a virtual machine with VirtualBox and demonstrate how to install and manage a complete Linux web server running on your windows machine!</p><p style=\"\">We will learn common Linux commands and software useful for debugging and development. Virtual server will be running like any other program in your existing operating system and no dual-booting is needed.</p>", 
+    "end_date": null, 
+    "title": "Linux For PHP Developers", 
+    "price": "20.00", 
+    "instructors": "IO LEARN", 
+    "commitment": "38 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/483360_9e1f_2.jpg", 
+    "course_url": "https://www.udemy.com/linux-for-php-developers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-22T15:31:21Z"
+}

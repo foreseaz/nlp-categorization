@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>SQL Loader is an Oracle Utility that's been around almost as long as the Oracle database itself. It is an efficient and flexible tool that you can use to load large amounts of data into an Oracle database.</p>\n\n<p>In simple terms, SQL Loader reads the data from flat files and inserts the data into one or more database tables.</p>\n\n\n\n<p>If you would like to learn about SQL Loader, you have landed in the right course!!! This course explains the concepts using 21+ Examples, what else can you expect?</p>\n\n<p>Students will be learning the below skills:</p>\n\n<ul><li>Understand the functionality of SQL Loader</li><li>Load data from Fixed Width files, Delimited Data and many    other data format types.</li><li>Selectively loading the data</li><li>Transforming the data during Load</li><li>Direct Path Loads</li><li>Loading Large objects</li><li>Loading Objects and Collections</li><li>Performance tips...</li></ul>", 
+    "end_date": null, 
+    "title": "SQL Loader - Learn in 22 Examples", 
+    "price": "20.00", 
+    "instructors": "Amarnath Reddy", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/811450_7e4c_7.jpg", 
+    "course_url": "https://www.udemy.com/sql-loader/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-03T12:35:34Z"
+}

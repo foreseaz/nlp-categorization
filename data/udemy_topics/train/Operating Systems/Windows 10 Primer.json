@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t<em style=\"\"><strong style=\"\">NOTE: Windows 10 is in its beta distributions so this course is ever-changing with new releases and will be updated multiple times.</strong></em>  </p>  <p>  \t  I love Windows 8.1! It has everything I need EXCEPT ONE THING: Start Menu!  They say Microsoft generates a lovely operating system EVERY OTHER VERSION! And Windows 10 is going to be just that: the best Windows of all. And it is!  </p>  <p>  \t  If you follow me in this crash course you will see the reason:  </p>  <ul style=\"\">  \t<li>There is a new start menu here that has the best of the two worlds! It lists the application in two pages, one start menu pinned applications and the other, applications arranged in folders. This is what we had seen in Windows 7.</li>  \t<li>Apps open as desktop applications! Those of you who used to hate apps now will use them more frequently.</li>  \t<li>In Start menu you can have app view that has tiles that can be re-sized and they are live!</li>  \t<li>You have features such as Task View (although not so impressive) that gives you the option of grouping your open applications.</li>  \t<li>and a lot of other improvements are here.</li>  </ul>  <p>  \t  In this course I will show you:  </p>  <ul style=\"\">  \t<li>how to personalize your desktop and use task view to organize your open applications into groupings</li>  \t<li>how to customize the new windows 10 star menu and of course the shortcut menu that opens with right clicking the start button</li>  \t<li>how to work with file explorer and perform basic and advanced operation on files and folders</li>  \t<li>how to manage users and groups on your system and implement security features to protect your files and folders</li>  \t<li>how to share folders over network and set permissions on them</li>  \t<li>how to change file attributes, encrypt or compress data or encrypt the whole drive</li>  \t<li>how to backup and restore files and folders and check different versions of them</li>  \t<li>and some miscelaneous topics</li>  </ul>  <p>  \t  So stay tuned and follow me!  </p>", 
+    "end_date": null, 
+    "title": "Windows 10 Primer", 
+    "price": 0, 
+    "instructors": "Mohammad Imani", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/330524_26e2_4.jpg", 
+    "course_url": "https://www.udemy.com/windows-10-primer/", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-29T14:11:29Z"
+}

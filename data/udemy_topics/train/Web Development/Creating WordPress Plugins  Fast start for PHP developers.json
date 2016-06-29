@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t     You will get a through grounding in the fundamentals of creating WordPress plugins and be shown some of the not-so-obvious techniques that the master coders use.  </p>  <ul style=\"\">  \t<li style=\"\">If you are a WordPress developer that hasn&#039;t got to grips with the plugin system, this is for you.</li>  \t<li style=\"\">If you are a PHP developer that knows a little WordPress and wants to get in to plugin development, this is for you.</li>  \t<li style=\"\">If you are managing WordPress development and want to understand what it takes to get a plugin developed, this is for you.</li>  </ul>  <p style=\"\">  \t  Delivered by screen casts, you get to see a plugin being built up step by step from scratch with all the source code available for you to download to tinker with it and extend for your own plugin design. The shortcode section is recorded on Mac OS, the followup sections are on a mix of Windows 7 and Mac - development is entirely cross platform as you will see.  </p>  <p style=\"\">  \t  There is not a whole heap of complexity in the actual code base, it&#039;s all clear and straightforward, so you don&#039;t need PhD level PHP. The WordPress admin side isn&#039;t rocket surgery either. Most of the course outlines the structures &amp; how things fit together, so you won&#039;t be bamboozled by complex arcane code that will leave you baffled.  </p>  <p style=\"\">  \t     The best bit is you get access to source code that is tried &amp; tested and can act as the starting point for your own plugin - all free of charge and free to use for open source or commercial projects as you wish.  </p>  <p style=\"\">  \t  In theory you could blast through the shortcode module in just a morning and then refer to the videos as you create your own plugin in the afternoon - imagine, just one day to go from Joe Dev to WordPress Plugin Pro.  </p>  <p style=\"\">  \t    The course leader, Nick McCloud, from <a href=\"http://thewebsitesupportdesk.com/\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">TheWebsiteSupportDesk.com</a> and a few other places, is an entrepreneurial programmer with over 35 years coding experience (pre-internet, pre-Windows, pre-iPod, pre-running water) and 20 years running his own businesses.  </p>  <p style=\"\">  \t    Come on board, cover the materials and ask questions. Questions will create FAQ&#039;s which create more videos! One of the team will pop by a couple of times a week to make sure questions are answered.  </p>", 
+    "end_date": null, 
+    "title": "Creating WordPress Plugins: Fast start for PHP developers", 
+    "price": "20.00", 
+    "instructors": "Nick McCloud", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/111650_e82c_8.jpg", 
+    "course_url": "https://www.udemy.com/creating-wordpress-plugins-fast-start-for-php-developers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-28T10:21:01Z"
+}

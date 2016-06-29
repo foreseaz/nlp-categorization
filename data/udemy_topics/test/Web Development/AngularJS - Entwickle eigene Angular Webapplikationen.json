@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong></strong><span></span><strong>AngularJS komplett:</strong></p><p><strong></strong></p><p>In diesem Kurs lernt ihr alles was ihr benötigt, um Ihre Anwendung in AngularJS zu entwickeln. </p><p>Ich glaube, das Beste ist, wenn ihr bei einem solchen Tutorial nicht nur 1:1 die Beispiele nachprogrammiert. Daher bringe ich euch auch das Konzept bei, welches hinter dem Framework steckt. Natürlich gibt's dazu dann noch umfangreiche Beispiele. </p><p>Dadurch lernt ihr nicht nur den Umgang mit dem Framework, sondern versteht auch, wie es funktioniert. Dies hilft euch bei eurer eigenen Programmierung, da ihr nur dann in der Lage seid, einen Fehler genauer zu untersuchen. <br></p><p>In diesem Kurs werdet ihr lernen:</p><ul><li>Wofür AngularJS entwickelt wurde</li><li>Wie ihr eure eigenen, wiederverwendbaren Elemente (genannt: <strong>directive</strong>) entwickeln könnt</li><li>Wie ihr eure eigenen JavaScript - Anwendungen programmieren könnt</li><li>Wie AngularJS - Routing funktioniert, ihr also mehrere Unterseiten innerhalb eurer AngularJS - Anwendung haben könnt</li></ul><p>Anschließend werdet ihr fit für euer Projekt sein, sei es für euren Job oder eure eigene Startup-Idee.</p>", 
+    "end_date": null, 
+    "title": "AngularJS - Entwickle eigene Angular Webapplikationen", 
+    "price": "25.00", 
+    "instructors": "Jannis Seemann", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/678136_188f_3.jpg", 
+    "course_url": "https://www.udemy.com/lerne-angularjs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-23T12:06:41Z"
+}

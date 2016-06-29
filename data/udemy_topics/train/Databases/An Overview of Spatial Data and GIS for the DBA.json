@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t                    Managing a spatial database, or as some vendors call it, a geodatabase, requires some insight into spatial data, the collection of the data, different datatypes used to store the data, and the ultimate display of the data. This course is meant to give you more common ground with the GIS Professional, to do the best job of managing spatial data as a DBA, and see some differences in how spatial data is managed. The philosophy that is presented is that if you know something about the data, you will do a much better job of managing it as a DBA. So, in the introduction, a few examples are given about how spatial data is created.  </p>  <p style=\"\">  \t        The DBA will have a better understanding why they should have some knowledge of coordinate systems. Some questions are provided to help you pick a coordinate system type to use, or understand why a certain coordinate system is currently being used. Some examples are provided for what different types of coordinate systems are used for in the real world.  </p>  <p style=\"\">  \t        Participants are provided enough information to understand the basics of different types of geometries and datatypes that are used to store the spatial data. An introduction is given into the strategy of spatial data sharing in organizations.  </p>  <p style=\"\">  \t      A section on operational considerations provides several overview lectures of subjects to think about.  </p>  <p style=\"\">  \t      First, a lecture provides insight into how spatial data might be managed by one or all of three scenarios that have been experienced. A high level view of versioned spatial data and editing is then provided to show how ArcSDE operates. Since this class is an overview, only one editing Vendor situation is presented at a high level. The participant is provided some performance considerations that need to be thought about for spatial data operations. Each Vendor’s scenarios might be somewhat different, but these are ones that the instructor has experienced.  </p>  <p style=\"\">  \t      The participant is given a few high level examples of integrated GIS systems, to broaden the thinking of where GIS might fit into your overall operation.  </p>  <p style=\"\">  \t      A lecture was designed to give participants an introduction into adding spatial capability to their database. Several questions are provided to help the DBA hone in on the requirements for the spatial data operations. Each database Vendor has their own specifics for spatial data, but this specific lecture will give the general path to making this happen.  </p>  <p style=\"\">  \t      Participants learn the steps to create a spatially enabled table with a geometry column.  </p>  <ul style=\"\">  \t<li style=\"\">Picking the coordinate system </li>  \t<li style=\"\">Defining the spatial metadata </li>  \t<li style=\"\">Inserting the metadata</li>  \t<li style=\"\">Creating the spatial index</li>  \t<li style=\"\">Inserting the data including the spatial data</li>  \t<li style=\"\">Running the stats</li>  </ul>", 
+    "end_date": null, 
+    "title": "An Overview of Spatial Data and GIS for the DBA", 
+    "price": "25.00", 
+    "instructors": "Gil Scholl", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/300276_8987_4.jpg", 
+    "course_url": "https://www.udemy.com/an-overview-of-spatial-data-and-gis-for-the-dba/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-15T00:37:51Z"
+}

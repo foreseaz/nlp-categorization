@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Electrical Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    Após esse curso você será capaz de esboçar o Lugar Geométrico das Raízes (LGR - Root Locus) do denominador da Função de Transferência em Malha Fechada a partir dos polos e zeros da Função de Transferência em Malha aberta.\nVocê também será capaz de projetar controladores de avanço de fase para atender simultaneamente requisitos de desempenho de amortecimento e de velocidade da resposta. Você também será capaz de projetar controladores de atraso de fase para atender requisitos de erro em regime permanente sem alterar as características de estabilidade e da resposta transitória do sistema. Você verá que os controladores PD e PI podem ser considerados como casos especiais dos controladores de avanço e de atraso de fase e verá também que você pode combinar os dois tipos de controladores em controladores de avanço e atraso de fase ou em controladores PID.\nPor fim você será capaz de modelar o efeito do atraso de transporte em um sistema com realimentação e de contrapor esse efeito projetando um controlador ou fazendo ajustes em um controlador já projetado.\nDesso modo dado um sistema linear e invariante no tempo e requisitos de amortecimento, velocidade e erro em regime permanente você será capaz de projetar um controlador que fará com que o sistema em malha fechada atenda simultaneamente a esses três tipos de requisitos.\nE você aprenderá tudo isso usando o MATLAB, uma ferramenta computacional extremamente útil para a análise, projeto e simulação de sistemas.\n\n                                            Syllabus\n                        Regiões de desempenho e aproximação de segunda ordemNeste módulo fazemos uma breve introdução incluindo uma revisão sobre as fórmulas da resposta ao degrau de um sistema subamortecido.Você aprenderá o que é o Plano-s e como representar requisitos de desempenho no Plano-s e verá também que em alguns casos podemos desprezar a contribuição de alguns polos e zeros na resposta ao degrau.O Lugar Geométrico das RaízesNeste módulo você aprenderá o que é o Lugar Geométrico das Raízes, também conhecido como Root Locus e aprenderá também como esboçar o LGR a partir da função de transferência do sistema em malha aberta.Controlador de avanço de faseNeste módulo você aprenderá a projetar um controlador de avanço de fase, também conhecido como controlador lead, para atender a requisitos de desempenho que não poderiam ser atendidos com um sistema controle proporcional. Você aprenderá também o que é o controlador PD.Controlador de atraso de faseNeste módulo você verá que não pode tentar atender a um requisito de erro em regime permanente simplesmente aumentando o ganho do sistema. Para atender a um requisito de erro em regime sem alterar outras características da resposta do sistema é preciso usar um controlador de atraso de fase. Você também vai aprender o que é um controlador PI.Controladores de avanço e atraso, atraso de transporteNeste módulo você vai aprender a projetar controladores de avanço e atraso de fase, ou lead-lag. Você também verá um projeto de controlador PID e aprenderá como lidar com o atraso de transporte usando um controlador de avanço de fase.\n                                    ", 
+    "end_date": "2016-06-20T00:00:00Z", 
+    "title": "Controle de Sistemas no Plano-s", 
+    "price": 0, 
+    "instructors": "Jackson Paul Matsuura and Rubens Junqueira Magalhães Afonso", 
+    "institution_name": [
+        "Instituto Tecnológico de Aeronáutica"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.coursera.org/learn/controle-s", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-05-16T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Course Description</strong></p>    <p>Learn how to build beautiful mobile friendly landing pages using WordPress, add opt-in forms to get leads on your landing page, embed your videos from Youtube, Vimeo and DailyMotion. </p>    <p>Installing WordPress is easy, but installing WordPress securely is something you need to learn so you can make your website hack proof and prevent any malware injections.</p>    <p><strong>Overview</strong></p><p> This course is suitable for beginner students who want to set up landing pages for any business purpose or personal needs. </p>    <p>We start with registering a domain name, and mastering secure WordPress installation with Wordfence configuration to hack proof your website.</p>  <p>Create beautiful landing pages, integrate forms and embed videos from the top popular video platforms online.</p>    <p>Students who complete this course will be able to create landing pages on a WordPress website and customize them on the fly with integration of customized opt-in forms and videos.</p>    <p><strong>What you’ll learn</strong></p>  <ul><li>Learn to customize the design of the landing pages</li><li>Play with colorful headings, fonts and Rich text editing </li><li>Embed videos from Youtube, Vimeo and DailyMotion </li><li>Install secured WordPress on your hosting site</li><li>Registering a domain name</li></ul>", 
+    "end_date": null, 
+    "title": "Create beautiful landing pages with WordPress", 
+    "price": "20.00", 
+    "instructors": "Huzaifa Ali", 
+    "commitment": "39 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/674166_5154_2.jpg", 
+    "course_url": "https://www.udemy.com/create-beautiful-landing-pages-with-wordpress/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-19T07:08:22Z"
+}

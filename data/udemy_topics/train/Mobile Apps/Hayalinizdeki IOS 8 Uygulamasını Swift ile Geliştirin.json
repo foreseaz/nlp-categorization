@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t                        Apple’ın her yıl düzenlediği ve tüm dünyada merakla beklenen WWDC yine birçok yenilik açıklandı. En dikkat çeken konu ise şüphesiz yeni yazılım Swift &#039;ti.  </p>  <p style=\"\">  \t              Swift’in Python ve Objective-C’den daha fazla hızlı olduğunu ve Syntax’nın sade ve öğrenilmesi kolaydır.  </p>  <p>  \t            Swift programlama dili ile iPhone ve iPad eğitimine çok güçlü sağlam bir temel oluşturmuş olacaksınız.  </p>  <p style=\"\">  \t          Kendi Apple iOS mobil uygulamalarınızı Swift programlama dili sayesinde kolayca hazırlayabileceksiniz!  </p>  <p style=\"\">  \t<strong style=\"\">İçindekiler</strong>  </p>  <ul style=\"\">  \t<li style=\"\">Xcode</li>  </ul>  <ul style=\"\">  \t<li style=\"\">  \t<h5>Swift Programlama Hakkında</h5>  \t</li>  </ul>  <ul style=\"\">  \t<li style=\"\">  \t<h5>Temel İşlemler</h5>  \t</li>  </ul>  <ul style=\"\">  \t<li style=\"\">  \t<h5>Temel Operatörler</h5>  \t</li>  </ul>  <ul style=\"\">  \t<li style=\"\">  \t<h5>String ve Karakter</h5>  \t</li>  </ul>  <ul style=\"\">  \t<li style=\"\">  \t<h5>Koleksiyon Tipi</h5>  \t</li>  </ul>  <ul style=\"\">  \t<li style=\"\">  \t<h5>Kontrol Akışı </h5>  \t</li>  \t<li style=\"\">  \t<h5>Fonksiyonlar</h5>  \t</li>  </ul>  <ul style=\"\">  \t<li style=\"\">  \t<h5>Nesneye Dayalı Programlama</h5>  \t<h5></h5>  \t</li>  </ul>  <ul style=\"\">  </ul>", 
+    "end_date": null, 
+    "title": "Hayalinizdeki IOS 8 Uygulamasını Swift ile Geliştirin", 
+    "price": 0, 
+    "instructors": "Özcan Akkoca", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/343174_5d0d_2.jpg", 
+    "course_url": "https://www.udemy.com/hayalinizdeki-ios-8-uygulamasini-swift-ile-gelistirin/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-13T11:57:47Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Graph databases</strong> are among the fastest growing trends in technology. Helping you effectively manage modern, highly connected data is the key benefit of a <strong style=\"\">OrientDB</strong>. This course will provide you a comprehensive overview of the <strong style=\"\">multiple models</strong> supported by OrientDB, with bigger focus on <strong style=\"\">Graph</strong> and <strong style=\"\">Document</strong> principles as well as walk you through hands on examples of working with the database and it&#039;s API.  </p>", 
+    "end_date": null, 
+    "title": "OrientDB - Getting Started", 
+    "price": 0, 
+    "instructors": "OrientDB Team", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/308072_edc7_4.jpg", 
+    "course_url": "https://www.udemy.com/orientdb-getting-started/", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-26T02:29:09Z"
+}

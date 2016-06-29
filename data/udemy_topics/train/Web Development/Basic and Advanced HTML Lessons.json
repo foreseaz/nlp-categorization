@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tThis is an accelerated course for anyone interested in learning both basic and advanced techniques for creating professional web sites. You might want to create an online business, personal web site or improve an existing web site. This course will show you step-by-step how to build a simple HTML web site from scratch using free text editors. Then, in more advanced topics you will learn faster ways to produce pages that will increase your productivity.  </p>", 
+    "end_date": null, 
+    "title": "Basic and Advanced HTML Lessons", 
+    "price": "20.00", 
+    "instructors": "Jason Moore", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/8203_1ee9_12.jpg", 
+    "course_url": "https://www.udemy.com/learn-html-in-24-hours/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2011-06-20T19:59:32Z"
+}

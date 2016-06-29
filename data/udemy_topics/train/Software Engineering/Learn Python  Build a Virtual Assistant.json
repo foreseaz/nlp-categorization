@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In Learn Python: Build a Virtual Assistant In Python, you will go from beginner to intermediate level the fun way; creating a real-world application! In this course, I will teach you how to create and set up a virtual assistant for your computer. We will learn how to get data from Wikipedia and Wolfram Alpha, as well as create a GUI. After that, I will regularly release new videos on other optional things that you could add to our application.</p><p>This course will help you add something fun to your portfolio and give you good practice for using python. This course is especially good for beginner hobbyists who want to learn how to use various APIs and how to apply them.</p><p>Students who enroll will be able to create a real-world, personalized application for your personal use.</p>", 
+    "end_date": null, 
+    "title": "Learn Python: Build a Virtual Assistant", 
+    "price": 0, 
+    "instructors": "Adam Eubanks", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/808422_6ef1_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-python-build-a-virtual-assistant-in-python/", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-30T18:49:58Z"
+}

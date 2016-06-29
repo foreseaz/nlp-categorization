@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    This tutorial starts with understanding need for hive Architecture and different configuration parameters in Hive. During this course you will learn different aspects of Hive and how it fits as datawarehousing patform on Hadoop. Please subscribe to my Youtube Channel &quot;Hadooparch&quot; for more details.  </p>  <p>  \t    This Course covers Hive, the SQL of Hadoop.(HQL) We will  learn why and How Hive is installed and configured on Hadoop. We will cover the components and architecture of Hive to see how it stores data in table like structures over HDFS data.  Understabd architecture, installation and configuration of Hive. We will install and configure Hive server2 and replace postgresql database with mysql. we will also learn how to install mysql and configure it as Hive Metastore  </p>  <p>  \t    This Course is  full of Hive demonstrations. We&#039;ll cover how to create Databases, understand data types, create external, internal, and partitioned hive tables, bucketing load data from the local filesystem as well as the distributed filesystem (HDFS), setup dynamic partitioning, create views, and manage indexes and how different layers work together on Hive.  </p>  <p>  \t    We will go through different roles in implementing in Real time projects, how projects are set up and permissions, Auditing, Troubleshooting.  </p>  <p>  \t    Finally I will give sample data and queries to work and replicate what has been taught in Videos.  </p>  <p>  \t  This Course has multiple questions to test your understanding. Kindly attempt all of them.  </p>", 
+    "end_date": null, 
+    "title": "Learning Apache Hadoop EcoSystem- Hive", 
+    "price": 0, 
+    "instructors": "Balaji M", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/254180_594f_15.jpg", 
+    "course_url": "https://www.udemy.com/learning-apache-hive/", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-02T02:48:23Z"
+}

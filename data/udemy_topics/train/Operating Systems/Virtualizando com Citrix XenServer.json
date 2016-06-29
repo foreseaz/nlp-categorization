@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t   Com o curso Virtualizando com Citrix XenServer você estará preparado com a base necessária para efetivamente instalar, configurar, administrar e solucionar problemas no Citrix XenServer 6.2. Os alunos também irão aprender como configurar um cluster de proteção com HA e criar e gerenciar vDisks em um ambiente XenServer. Através da utilização de laboratórios práticos, você irá adquirir as habilidades necessárias para configurar o Switch Virtual Distribuído (DVS), incluindo BOND das interfaces de rede que possibilitará alta disponibilidade e balanceamento de carta. Além de aprender a criar e gerenciar máquinas virtuais Windows e Linux e os pools de recursos em que serão colocados.  </p>  <p style=\"\">  \t   Descrição  </p>  <p style=\"\">  \t   Neste curso, você aprenderá as habilidades necessárias para configurar e administrar o XenServer 6.2, XenCenter. Através de laboratórios práticos, você poderá adquirir experiência com:  </p>  <ul style=\"\">  \t<p style=\"\">  \t\t·Introdução ao Citrix XenServer  \t</p>  \t<p style=\"\">  \t\t·Instalando e atualizando o XenServer  \t</p>  \t<p style=\"\">  \t\t·Criando e gerenciando máquinas virtuais  \t</p>  \t<p style=\"\">  \t\t·Criando e utilizando VM Templates  \t</p>  \t<p style=\"\">  \t\t·Exportando e Importando VMs  \t</p>  \t<p style=\"\">  \t\t·Migrando e Convertendo Máquinas virtuais  \t</p>  \t<p style=\"\">  \t\t·Gerenciando Usuários  \t</p>  \t<p style=\"\">  \t\t·XenServer Hosts e Resource Pools  \t</p>  \t<p style=\"\">  \t\t·Networking no XenServer  \t</p>  \t<p style=\"\">  \t\t·Storage no XenServer  \t</p>  \t<p style=\"\">  \t\t·High Availability  \t</p>  \t<p style=\"\">  \t\t·Memória RAM das VMs e do HOST  \t</p>  \t<p style=\"\">  \t\t·Disaster Recovery e Backup  \t</p>  \t<p style=\"\">  \t\t·Monitorando e Gerenciando o XenServer  \t</p>  \t<p style=\"\">  \t\t·Troubleshooting  \t</p>  \t<p style=\"\">  \t\t·Comandos do XenServer - CLI  \t</p>  </ul>", 
+    "end_date": null, 
+    "title": "Virtualizando com Citrix XenServer", 
+    "price": "50.00", 
+    "instructors": "Cleriston Cardoso Cabral", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/229768_41d8_2.jpg", 
+    "course_url": "https://www.udemy.com/xenserver/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-26T13:10:14Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  For years game development was considered one of the most complex tasks a developer could tackle.  What seemed the most trivial of games required months of work-- and years of programming experience.  </p>  <p style=\"\">  \t  Now, imagine being able to develop and publish your own games.  Imagine that game for sale on all of these platforms:  </p>  <ul style=\"\">  \t<li>iOS/Apple App Store</li>  \t<li>Android/ Google Play Store</li>  \t<li>Amazon/ Amazon AppStore for Android</li>  \t<li>Facebook </li>  \t<li>Wii U </li>  \t<li>More...</li>  </ul>  <p style=\"\">  \t  Once you master Construct 2 you&#039;ll be able to develop exciting, sophisticated games in a nearly code-free environment.  Those games will be able to be distributed across the wide network of online app stores and game libraries.  And these are not just your average games...  </p>  <p style=\"\">  \t  With Construct 2 and the what you learn in this course you&#039;ll be able to create 2d games such as platformers, jumpers, wave-based games and much more.  You can include advanced features such as in-app purchases and multi-player options.  You can even borrow game assets included with the platform to get you started.  </p>  <p style=\"\">  \t  With Reece Siksay as your instructor, and LearnToProgram&#039;s new course <strong style=\"\">Construct 2 for Beginners</strong>, you&#039;ll be making entertaining games very quickly.  </p>", 
+    "end_date": null, 
+    "title": "Construct 2 for Beginners", 
+    "price": "20.00", 
+    "instructors": "LearnToProgram, Inc., Reece Siksay", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/404338_5ca7_3.jpg", 
+    "course_url": "https://www.udemy.com/construct-2-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-26T13:11:55Z"
+}

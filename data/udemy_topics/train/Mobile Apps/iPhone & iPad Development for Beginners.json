@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">About the Course</strong>  </p>  <p style=\"\">  \tIn this series of tutorials on iOS app development, I will take the user through the basics of setting up their development environment and creating their first basic iOS application. This includes a general understanding of all sections of the iOS SDK. By the end of this course you&rsquo;ll learn how to make iPhone and iPad apps.  </p>  <p style=\"\">  \tWe will be creating applications for the iPhone and iPad using iOS 5.1. We will also be looking at Storyboards and many of the new features within iOS 5 such as Twitter integration and notification centre.  </p>  <p style=\"\">  \tThis course will cover multiple application builds including the basic &#039;hello world&#039; application, interaction with web services and other features such as Core Data, Location Services and NSUserDefaults.  </p>  <p style=\"\">  \tWe will also cover the differences between iPhone and iPad development. You will learn to adapt to and take advantage of the different screen sizes and how to maximise the opportunity of the larger iPad display.  </p>  <p style=\"\">  \t<strong style=\"\">Requirements</strong>  </p>  <p style=\"\">  \tThis course requires an Apple Macintosh Computer that has Mac OS X Lion installed.  </p>  <p style=\"\">  \tYou will need to have Xcode 4 and the iOS 5 SDK (This will be covered at the beginning)  </p>  <p style=\"\">  \tIf you do not have a Mac and do not wish to buy one, then you can always rent a mac in the link here: <a href=\"http://www.macincloud.com/\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">http://www.macincloud.com/</a>  </p>", 
+    "end_date": null, 
+    "title": "iPhone & iPad Development for Beginners", 
+    "price": "30.00", 
+    "instructors": "Josh Bruce", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/19233_3720_7.jpg", 
+    "course_url": "https://www.udemy.com/iphone-ipad-development-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-06-08T10:43:18Z"
+}

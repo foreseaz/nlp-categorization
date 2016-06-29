@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>In this course we create a simple character in 3D. We quickly and easily apply a rig for easy animation.</p><p><span></span>We begin by setting up some background images to use as a reference.</p>  <p>This course involves modelling the character from a simple plane so we use the mirror modifier to speed the process up.</p>  <p> We quickly get the form of the character and add his hands, form his ears, model some teeth and even model him a pair of simple shoes. We continue by creating some hair and forming eye brows.</p>  <p>When we are happy with how our character looks we move on and add an armature using an add-on within blender. We position the rig and generate control bones for use in animating our character. We briefly look at weight painting and how much influence some bones have over certain parts of the character.</p>  <p>And finally we add some shape keys to control some basic facial movements during animation.</p>", 
+    "end_date": null, 
+    "title": "Create Your Own Character in Blender", 
+    "price": 0, 
+    "instructors": "Thomas Mc Donald", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/783802_be91_8.jpg", 
+    "course_url": "https://www.udemy.com/create-your-own-character/", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-06T07:12:50Z"
+}

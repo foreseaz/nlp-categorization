@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Personal Development"
+    ], 
+    "description": "<p>  \tThis video based Computer Forensics training course from Infinite Skills will teach you how to get started in this industry. Computer Forensics is a broad topic that touches on many different skills, all specific to answering legal or investigative questions in relation to a computer. This course will give you an overview of the skills you will need in order to work in this highly technical field.  </p>  <p>  \t<br>  \tBecause Computer Forensics is a broad field, this course covers a lot of topics, from preparing for an investigation, to ethics, to evidence acquisition, being an expert witness and legal vs. corporate investigations. You will learn about forensic tools and how they are used, such as ProDiscover, FTK, and EnCase. This video tutorial covers wireless network investigations, malware and collecting network evidence. You will also learn about UNIX, Windows, Linux and Mac OS, in order to understand where to look for and recover evidence from.<br>  \t<br>  \tBy the conclusion of this computer based tutorial for Computer Forensics, you will have a clear understanding of what it takes to be a computer forensics investigator, and the tools and techniques available to you to find the evidence you will be looking for.  </p>", 
+    "end_date": null, 
+    "title": "Learning Computer Forensics With Infinite Skills", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "11 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/237148_d4ae_6.jpg", 
+    "course_url": "https://www.udemy.com/learning-computer-forensics-with-infinite-skills/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Career Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-04T13:27:56Z"
+}

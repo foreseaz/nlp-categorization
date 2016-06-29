@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<div><strong>AppleWatchのアプリケーションを作成できるようになりたいならこの講座を学ぶだけでできるようになる！</strong></div><p>充実したコース内容をご紹介します。</p><ol><li>AppleWatch開発の基礎知識</li><li>Watch Object libraryのobjectすべての知識/14個のアプリケーションを作成してobjectの使い方を理解する</li><li>アニメーションの作成方法/画像の保存</li><li>カウンターアプリケーションの作成</li><li>スライダーで華氏と摂氏を返還するアプリケーションの作成</li><li>絵文字入力可能なアプリケーションの作成/フォースタッチ/コンテキストメニュー</li><li>AppleWatchでのMovieの再生</li><li>通知機能を実装したアプリケーションの作成</li><li>iPhoneとWatchでの通信アプリケーション</li><li>Audio機能を持ったWatchアプリケーション</li><li>WatchでiPhoneアプリケーションを遠隔操作できるアプリケーション<em></em></li></ol><p><strong>AppleWatchの画面で扱う「Object」を全て解説！</strong></p><p><strong>しかもサンプルを作ることを目的としたチュートリアル形式だから、何度でも見返して使える。</strong></p><p><span>アプリケーションを作成できるようになることは、決して全ての知識を詰め込むことではありません。</span></p><p><span>「この表現をしたい時はどうだったかな？」と<strong>「知識の引き出し」</strong><span>を充実させることです。</span></span></p><p><span><span>本講座はその「知識の引き出し」を充実させるためのコースです。</span></span></p><p>「<strong>Xcodeの操作に慣れてきた」「iPhoneのアプリケーションを作成できるようになったから、さらにスキルを上げたい」</strong>そう考えるキャリアアップのための講座です。</p><p><strong>「字幕つき」</strong><span>なのでコースの音声を必死に聞き取ってコードを書く必要はありません。<br></span></p><p><span><strong>画面を凝視して動画のXcodeの文字を読む必要はありません</strong>。</span></p><p><span>手順に従ってコードを打つだけで自分の手でAppleWatchのアプリケーションを作成できます。</span></p><p><span><br></span></p><p><span>次のテクニックを学びたいなら迷わずこの講座を選んで</span></p><p><span>AppleWatch開発を始めましょう！</span></p>", 
+    "end_date": null, 
+    "title": "Apple Watchアプリケーション開発講座！スキルアップを目指す初級開発者向け swift 2.0 os1/2", 
+    "price": "20.00", 
+    "instructors": "株式会社リアルタック youth Honda", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/646290_03cf_2.jpg", 
+    "course_url": "https://www.udemy.com/applewatchapp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-21T00:05:15Z"
+}

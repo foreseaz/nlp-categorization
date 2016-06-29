@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t WordPress is famous for its “5 minute” install; but that claim ultimately depends on where your website is hosted.  </p>  <p>  \t Some website hosting plans take care of the preliminary tasks for you – like installing PHP and setting up the MySQL database – but many do not.  </p>  <p>  \t Installing WordPress from Scratch assumes nothing. This course walks you through every step necessary to install WordPress no matter where your new WordPress website is hosted.  </p>  <p>  \t Author and new media expert Deltina Hay walks you through the ten steps necessary to install WordPress properly and securely – allowing you to skip the steps that do not apply to your install:  </p>  <ol style=\"\">  \t<li>Check that your hosting service meets the proper requirements</li>  \t<li>Install PHP and MySQL</li>  \t<li> Install PHPMyAdmin (optional)</li>  \t<li>Create the database and database admin required for WordPress</li>  \t<li> Download and unzip the WordPress software from WordPress.org</li>  \t<li> Populate the WordPress configuration file with your information</li>  \t<li> Establish FTP access to your website server</li>  \t<li> Upload the WordPress files to your server</li>  \t<li> Access the WordPress installation file from your browser</li>  \t<li>Work out any issues and enjoy!</li>  </ol>  <p>  \t <strong style=\"\">This course is a prequel to Deltina&#039;s comprehensive WordPress Fundamentals course to be released soon. Be on the lookout for coupon codes!</strong>  </p>", 
+    "end_date": null, 
+    "title": "How to Install WordPress From Scratch", 
+    "price": 0, 
+    "instructors": "Deltina Hay", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/264790_86ad_2.jpg", 
+    "course_url": "https://www.udemy.com/install-wordpress/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-19T21:10:54Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>São 182 videoaulas de Oracle pl/sql procedures functions triggers Forms Reports</p><p>Este curso de banco de dados Oracle, mostra os conceitos básicos de banco do dados Oracle e do SQL, que permitirá ao aluno realizar consultas e manipular esse fantástico banco de dados. Você verá como admini<span>strar o banco de dados, sendo um início para você ser um DBA Oracle, que nada mais é do que o responsável por manter e gerenciar um banco de dados ou sistemas de bancos de dados.</span><br></p><p>Veja um pouco mais do que você vai aprender nesse curso:</p><p><strong>Começo:</strong></p><p>Você vai aprender a baixar e instalar o Oracle Database Express Edition. Você vai se surpreender com a facilidade de usar um dos melhores bancos de dados do mundo.</p><p><strong>SQL*Plus</strong><strong></strong><br></p><p>Aprenda a usar SQL*Plus para criar tabelas, executar funções SQL, criar procedures, triggers, functions, código pl/sql e muito mais</p><p><strong>PL/SQL:</strong></p><p>É uma linguagem procedura da Oracle, ela é estendida de SQL, e tudo isso você vai aprender nesse curso. Através de PL/SQL você vai aprender:</p><ul><li>criar Blocos</li><li>usar pacotes DBMS</li><li>controle de fluxo IF e CASE</li><li>usar os 3 laços de repetição: while, for e loop</li><li>usar VARIABLE</li><li>usar select e cláusula INTO</li><li>Procedures</li><li>Function</li><li>Parametros</li><li>In</li><li>Out</li><li>Triggers de linha e de instrução</li><li>When</li><li>New</li><li>Old</li><li>Sysdate</li></ul><p><strong>Oracle SQL Developer</strong></p><p>Oracle SQL Developer é uma fantástica ferramenta para você poder gerenciar o banco de dados Oracle. Assim, de maneira muito simples, você poderá criar tabelas, triggers, functions, exportar para html, pdf etc... muito bom mesmo, facilitando demais a sua vida.</p><p><strong>Oracle Forms Developer</strong></p><p>Com ele você poderá criar sistemas completos (com formulários de cadastros, pesquisas, manutenção de banco, relatórios), é uma ferramenta completa.</p><p><strong>E muito mais:</strong></p><ul><li>Tela de Login para acesso ao sistema, e com a parte de usuário e senha para validar o acesso</li><li>Formulário principal com menus e botões para acessos as demais telas</li><li>Máscaras</li><li>Fotos</li><li>Validação de CPF</li><li>Sistema para saída de mercadorias (usando 2 tabelas)</li><li>Relatórios completos</li></ul><p> <br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Oracle pl/sql procedures functions triggers Forms Reports", 
+    "price": "30.00", 
+    "instructors": "Neri Neitzke", 
+    "commitment": "25.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/599520_ec2a_2.jpg", 
+    "course_url": "https://www.udemy.com/oracle-plsql-procedures-functions-triggers-forms-reports/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-01T16:32:30Z"
+}

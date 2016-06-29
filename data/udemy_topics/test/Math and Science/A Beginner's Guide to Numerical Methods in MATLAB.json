@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>This course is about <strong>Numerical Methods</strong> and covers some of the popular methods and approaches being used daily by mathematicians and everyone involved in computation.</p>\n\n<p>This course will teach you about</p>\n\n\n\n\n\n<ul><li>How computers store numbers: what is floating point, what is precision and accuracy.</li><li>The kinds of errors you are likely to encounter when applying numerical methods, and how to minimize them.</li><li>One- and Two-Point iterative methods</li><li>Interpolation and Curve Fitting</li><li>Numerical Differentiation and Integration</li></ul>\n\n\n\n\n\n<p>This course consists of the following materials:</p>\n\n\n\n\n\n<ul><li>Video lectures, covering both the theory as well as demonstrating practical computer applications</li><li>MATLAB files that you can download and run</li><li>Quizzes related to the covered topics</li></ul>", 
+    "end_date": null, 
+    "title": "A Beginner's Guide to Numerical Methods in MATLAB", 
+    "price": "30.00", 
+    "instructors": "Dmitri Nesteruk, Xenia Kuznetsova", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/769454_ad63_2.jpg", 
+    "course_url": "https://www.udemy.com/numerical-methods/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-21T10:48:55Z"
+}

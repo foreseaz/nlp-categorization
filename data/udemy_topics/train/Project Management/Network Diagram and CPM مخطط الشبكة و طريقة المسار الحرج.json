@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>هذه دورة تدريبية قصير تشرح بالتفصيل كل ما يتعلق بمخطط الشبكة و طريقة المسار الحرج</p><p>عند إكمالك الدورة سيكون لديك القدرة على</p><ul><li>فهم ما هي مخططات الشبكة</li><li>القدرة على تطوير مخططات الشبكة</li><li>فهم ما هو المسار الحرج</li><li>فهم ما هو المسار شبه الحرج</li><li>القدرة على حساب طول المسار الحرج</li><li>القدرة على حساب طول المسار شبه الحرج</li><li>فهم ما هو النشاط الحرج</li><li>فهم ما هو النشاط شبه الحرج</li><li>فهم طريقة المسار الحرج</li><li>فهم طريقة المسار شبه الحرج</li><li>القدرة على حساب البداية المبكرة و البداية المتأخرة و النهاية المبكرة و النهاية المتأخرة</li><li>Float القدرة على حساب مقدار ال</li><li>تطبيق العبور الأمامي و العبور العكسي على مخطط الشبكة</li></ul><p><br></p>", 
+    "end_date": null, 
+    "title": "Network Diagram and CPM مخطط الشبكة و طريقة المسار الحرج", 
+    "price": 0, 
+    "instructors": "Fahad Saadah", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/860834_57ce.jpg", 
+    "course_url": "https://www.udemy.com/schedule-network-diagram-and-critical-path-method-arabic/", 
+    "subject_name": [
+        "Project Management"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-26T19:00:12Z"
+}

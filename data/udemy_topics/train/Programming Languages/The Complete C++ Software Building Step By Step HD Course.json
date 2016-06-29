@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>C++ has been favoured by the professional programmers for many years \nbecause of its power and flexibility. Many games have been written in \nC++. Many of the scripting languages modelled on the syntax and style.</p>\n\n<p>Even\n today C++ is a popular language, even still amongst the indie game \nprogrammers. Its flexible enough to create a Windows UI or program a \nUnix TCP server.</p>\n\n\n\n<p>C++ is a challenging language; but in this course\n I take you step by step through the basics. Building you skills and \nthrough many code examples I show you how to build a program and how to \ncreate C++ classes and objects.</p>\n\n\n\n<p>So, don't delay, start learning today and you could be using these basics in your next computer program.</p>\n\n<p>This course is an introduction to the <strong>C++ programming language</strong> for those who are already familiar with C syntax and some basic principles of <strong>object oriented programming</strong>.\n C++ is based on C, but extends the language with features such as \nfunction templates, namespaces, and (of course) classes. We'll spend a \nlot of time in the first hour of the course talking about streams, which\n simplify input and output a great deal.</p>\n\n\n\n<p><strong>Here's a list of what you'll learn:</strong></p>\n\n\n\n<p>- Primitive data types and variables</p>\n\n\n\n<p>- How to create and use namespaces</p>\n\n\n\n<p>- Basic I/O in C++ using streams</p>\n\n\n\n<p>- Using stringstreams: input and output directly from strings</p>\n\n\n\n<p>- File input and output using streams</p>\n\n\n\n<p>- Functions: how they're like C functions, and how they differ</p>\n\n\n\n<p>- Function templates - a look at writing generic code</p>\n\n\n\n<p>- Classes and objects</p>\n\n\n\n<p>- Constructors and destructors</p>\n\n\n\n<p>- Inheritance (Single and Multiple)</p>\n\n\n\n<p>- The idea of friend class members. </p>\n\n\n\n<p>If you've been thinking about learning C++, then this course is a good first step. </p>", 
+    "end_date": null, 
+    "title": "The Complete C++ Software Building Step By Step HD Course", 
+    "price": "50.00", 
+    "instructors": "Scrembo Scrembo, Muhammad Umair Ghufran", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/757346_6cce_2.jpg", 
+    "course_url": "https://www.udemy.com/the-complete-c-software-building-step-by-step-hd-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-09T16:46:54Z"
+}

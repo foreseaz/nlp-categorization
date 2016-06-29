@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Ionic Framework: Jumpstart is an intermediate level course for students, web developers, professionals who have basic to moderate skills in web technologies like HTML, CSS and Javascript and want to create applications for mobile platforms such as Android and iOS. Ionic Framework is easy and always evolving. It is a young technology and growing every moment. In this course, you will learn to create a mobile app that will allow users to chat with each other in real-time.</p><p>To create such an app, all you need is to have basic skills in HTML, CSS and AngularJS. You do not need to learn JAVA or Objective C or Swift. you can create a fully functional, advanced and beautiful Chat Application using just the Web Skills.</p><p>This course will also introduce you to the Facebook Graph API and you will learn how to use Facebook login in your Ionic and Cordova Apps.</p><p>Later in the course we will learn to deploy our server code, which we will write on Cloud9, as cloud based IDE, on Windows Azure Cloud Platform.</p><p>The course contains video content of around 3 hours and 30 minutes. And during this time, you will learn Ionic and a lot of AngularJS. You will learn how to use Angular services and controllers to implement logic in the app. You will also learn how to create multi-page applications in Ionic and navigate between those pages.</p><p>And the best part, your app will work on both Android and iOS devices.</p>", 
+    "end_date": null, 
+    "title": "Ionic Framework: JumpStart", 
+    "price": "20.00", 
+    "instructors": "Samarth Agarwal", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/496586_2531_2.jpg", 
+    "course_url": "https://www.udemy.com/ionic-framework-jumpstart/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-08T09:11:33Z"
+}

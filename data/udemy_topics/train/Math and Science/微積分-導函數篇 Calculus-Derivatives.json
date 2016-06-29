@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>本單元正式進入微分學，最重要的是導函數就代表函數切線的斜率，若函數是時間的函數就代表瞬間的變化率。</p><ul style=\"\"><li>本單元內容包含:</li></ul><ol style=\"\"><li> 導數的定義(Definition of Derivatives)</li><li>多項式之導函數求法((Derivatives of Polynomial Fuctions)</li><li>導函數求法中的進階技巧(Rules of computation)<br style=\"\">       (a) 乘法的微分公式(Product Rule)<br style=\"\">       (b) 除法的微分公式(Quotient Rule) <br style=\"\">       (c) 連鎖率(Chain Rule)</li><li>切線方程式的斜率(The Slope of the Tangent Line)</li><li> 次方的微分公式(Derivatives of Powers)</li><li>隱函數的微分(Implicit Differentiation)</li></ol><ul style=\"\"><li>本課程建議基礎: </li></ul><p>        先要研讀微積分-極限篇後再學習。</p><ul style=\"\"><li>建議完成時間:</li></ul><p>        學習者以二週時間完成</p><ul style=\"\"><li>教材來源</li></ul><p>        源於中華科技大學 微積分一 課程中第五單元導函數與第八單元微分技巧延伸部分</p><ul style=\"\"><li>教材認證</li></ul><p>        內容通過台灣教育部103年度第1梯次數位學習教材認證</p><ul style=\"\"><li>語言</li></ul><p>        全部課程繁體中文講授。</p><ul style=\"\"><li>其他事項</li></ul><p>       本課程僅供學員自修使用，無法取得中華科技大學學分</p>", 
+    "end_date": null, 
+    "title": "微積分-導函數篇 Calculus-Derivatives", 
+    "price": 0, 
+    "instructors": "Lee Bor-Jian", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/470504_702f_2.jpg", 
+    "course_url": "https://www.udemy.com/calculus-derivative/", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-08T04:28:58Z"
+}

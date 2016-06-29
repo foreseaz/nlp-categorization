@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    R is an open source software environment for statistical computing that is rapidly becoming the tool of choice for data analysis in the life sciences and elsewhere. It is developed by a large international community of scientists and programmers and is at the forefront of new developments in statistical computing. Additionally, R is the foundation of Bioconductor, a similar open-source project focussed on the development of bioinformatics analysis tools. Bioconductor rose to prominence when it became the standard environment for the analysis of microarray gene expression data, but it has maintained and extended this position with the advent of new technologies and the integration with different types of ‘omics data. As such, understanding its basic functionality is of benefit to undergraduates, graduates and researchers across diverse fields.\r\nThis short course provides a gentle introduction to the R software and programming environment. It should take you approximately 6-8 hours in total to work through the material. There are five sections: Introduction and basics, Variables and data types, Inbuilt functions, Data frames, Plotting. Materials are taught through pdf documents and videos, with quizzes and assignments provided to test your knowledge. Upon completion of the course you will understand how to manipulate data within R, perform basic data analysis procedures and create plots. This course provides a foundation for more advanced topics and techniques.\r\n \n\n                                    ", 
+    "end_date": null, 
+    "title": "Statistical Computing with R - a gentle introduction", 
+    "price": 0, 
+    "instructors": "Chris Barnes and Max Reuter", 
+    "institution_name": [
+        "University College London"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://extendstore.ucl.ac.uk/product?catalog=UCLXR", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Independent"
+    ], 
+    "start_date": "2015-09-01T00:00:00Z"
+}

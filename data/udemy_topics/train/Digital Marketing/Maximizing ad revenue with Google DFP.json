@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Marketing"
+    ], 
+    "description": "<p style=\"\">  \t  This course is about using the free Google DFP ad server to manage the ads on your web site. Google DFP enables you to use multiple advertiser and yield them against each other to <strong style=\"\">maximize the revenue</strong> that you are generating from your web site audience.  </p>  <p style=\"\">  \t  In the class you will learn the following topics:  </p>  <ul style=\"\">  \t<li style=\"\">Introduction to DFP and overview of interface</li>  \t<li style=\"\">Creating ad units and ad tags</li>  \t<li style=\"\">Examples where to place the tags into your web site</li>  \t<li style=\"\">Creating placements so advertisers can target specific elements of your site through Google AdSense</li>  \t<li style=\"\">Setting up AdSense as a backfill for your ad units</li>  \t<li style=\"\">Creating new orders and advertisers</li>  \t<li style=\"\">Managing existing orders and creatives</li>  \t<li style=\"\">Yield management with different orders and creatives</li>  </ul>  <p style=\"\">  \t  The class is designed as a video class where I show you Google DFP. You will also be provided with the example ad code that I use on the video.  </p>  <p style=\"\">  \t  This class is a good for for you if you are interested in <strong style=\"\">increasing the ad revenues</strong> from your website or want to start using an <strong style=\"\">ad server to manage the ad inventory</strong>. Wether it is a blog or a large online publication does not matter.  </p>", 
+    "end_date": null, 
+    "title": "Maximizing ad revenue with Google DFP", 
+    "price": "25.00", 
+    "instructors": "Benjamin Ronnenberg", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/355128_43c0.jpg", 
+    "course_url": "https://www.udemy.com/maximizing-ad-revenue-with-google-dfp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Digital Marketing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-24T08:59:13Z"
+}

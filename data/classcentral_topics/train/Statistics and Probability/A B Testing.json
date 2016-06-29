@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Statistics & Probability"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course will cover the design and analysis of A/B tests, also known as split tests, which are online experiments used to test potential improvements to a website or mobile application. Two versions of the website are shown to different users - usually the existing website and a potential change. Then, the results are analyzed to determine whether the change is an improvement worth launching. This course will cover how to choose and characterize metrics to evaluate your experiments, how to design an experiment with enough statistical power, how to analyze the results and draw valid conclusions, and how to ensure that the the participants of your experiments are adequately protected.Why Take This Course?A/B testing, or split testing, is used by companies like Google, Microsoft, Amazon, Ebay/Paypal, Netflix, and numerous others to decide which changes are worth launching. By using A/B tests to make decisions, you can base your decisions on actual data, rather than relying on intuition or HiPPO's - the highest paid person's opinion! Designing good A/B tests and drawing valid conclusions can be difficult. You can almost never measure exactly what you want to know (such as whether the users are \"happier\" on one version of the site), so you need to find good proxies. You need sanity checks to make sure your experimental set-up isn't flawed, and you need to use a variety of statistical techniques to make sure the results you're seeing aren't due to chance. This course will walk you through the entire process. At the end, you will be ready to help businesses small or large make crucial decisions that could significantly affect their future!\n\n                                            Syllabus\n                        ### Lesson 1: Overview of A/B Testing\nThis lesson will cover what A/B testing is and what it can be used for. It will also cover an example A/B test from start to finish, including how to decide how long to run the experiment, how to construct a binomial confidence interval for the results, and how to decide whether the change is worth the launch cost.\n\n### Lesson 2: Policy and Ethics for Experiments\nThis lesson will cover how to make sure the participants of your experiments are adequately protected and what questions you should be asking regarding the ethicality of experiments. It will cover four main ethics principles to consider when designing experiments: the risk to the user, the potential benefits, what alternatives users have to participating in the experiment, and the sensitivity of the data being collected.\n\n### Lesson 3: Choosing and Characterizing Metrics\nOne of the most important and time-consuming pieces of designing an A/B test is choosing and validating metrics to use in evaluating your experiment. This lesson will cover techniques for brainstorming metrics, what to do when you can't measure what you want directly, and characteristics you should consider when validating your metrics.\n\n### Lesson 4: Designing an Experiment\nThis lesson will cover how to design an A/B test. This includes how to choose which users will be in your experiment and control group - different online definitions of a \"user\", and what effects different choices will have on your experiment. It will also cover when to  limit your experiment to a subset of your entire user base, how to calculate how many events you will need in order to draw strong conclusions from your results, and how this translates into how long to run the experiment. Finally, the lesson will cover how various design decisions affect the size of your experiment, so you will know which decisions to revisit if you need results more quickly.\n\n### Lesson 5: Analyzing Results\nThis lesson will cover how to analyze the results of your experiments. Step one is always to run some sanity checks so that you can catch problems with your experiment set-up. Then, you will learn how to check conclusions with multiple methods, including a hypothesis test on the effect size and a binomial sign test, if you get results that surprise you. You will also learn how measuring multiple metrics for the same experiment can make analysis difficult, and some techniques for handling multiple metrics. Finally, you will learn about several analysis \"gotchas\", and what to do if you see them, including how Simpson's Paradox can affect A/B tests, and why even statistically significant results might disappear when you launch.\n\n### Final Project: Design and Analyze an A/B Test\nMake design decisions for an A/B test, including which metrics to measure and how long the test should be run. Analyze the results of an A/B test that was run by Udacity and recommend whether or not to launch the change.\n                                    ", 
+    "end_date": "2015-05-28T00:00:00Z", 
+    "title": "A/B Testing", 
+    "price": 0, 
+    "instructors": "Caroline Buckey, Carrie Grimes and Diane Tang", 
+    "institution_name": [
+        "Google"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.udacity.com/course/ab-testing--ud257?utm_medium=referral&utm_campaign=api", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2015-04-30T00:00:00Z"
+}

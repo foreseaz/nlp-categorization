@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>Learn investment portfolio analysis through a practical course with Excel using historical data for back-testing. It explores main concepts from basic to expert level which will help you achieve better grades, review concepts and polish skills for your new finance career or take decisions as DIY investor. All of this while exploring best academic and industry research together with Nobel Prize winners’ wisdom.<br></p>    <p><strong>Become an Investment Portfolio Analysis Expert in this Practical Course with Excel</strong></p>    <ul><li>Compare main asset classes’ returns-risks tradeoffs.</li><li>Evaluate returns-risks relationship among main asset classes and the market.</li><li>Diversify specific risks through portfolios’ asset allocation strategies.</li><li>Hedge portfolios’ market risks by using stock options.</li><li>Calculate maximum historical portfolio leverage and asses returns-risks amplification.</li><li>Estimate portfolios expected returns based on market, technical, fundamental and macroeconomic factors.</li><li>Test market efficiency and deduct investment costs to outperforming portfolios.</li></ul>                <p><strong>Become an Investment Portfolio Analysis Expert and Put Your Knowledge in Practice</strong></p>    <p>Learning investment portfolio analysis is indispensable for finance careers in areas such as asset management, private wealth management, and risk management within institutional investors represented by banks, insurance companies, pension funds, hedge funds, investment advisors, endowments and mutual funds. It is also essential for academic careers in finance or business research. And it is necessary for DIY investors’ portfolio management.</p>    <p>But as learning curve can become steep as complexity grows, this course helps by leading you step by step using historical data for back-testing and achieving greater effectiveness. </p>    <p><strong>Content and Overview</strong></p>    <p>This practical course contains over 40 lectures and more than 7.5 hours of content. It’s designed for all investment portfolio analysis knowledge levels and a basic understanding of Excel is recommended.</p>    <p>At first, you’ll compare main asset classes’ returns-risks tradeoffs with cash, bonds, stocks, commodities, real estate and currencies. Then, you’ll evaluate returns-risks relationship among those main asset classes and each of them with the market.</p>    <p>After that, you’ll diversify specific risks by building portfolios based on naïve, Kelly criterion and Markowitz optimization asset allocation strategies. Next, you’ll value these portfolios’ performance with Jensen’s alpha, Sharpe and Treynor ratios metrics.</p>    <p>Next, you’ll hedge portfolios’ market risks by constructing those using stock options for which prices are calculated through Black and Scholes formula. After that, you’ll calculate maximum historical portfolio leverage and assess how returns and risks are amplified.</p>    <p>Later, you’ll estimate portfolios expected returns based on market, technical, fundamental and macroeconomic factors using capital asset pricing model (CAPM), Fama-French-Carhart factors models and arbitrage pricing theory (APT). </p>    <p>Finally, you’ll test market efficiency in its weak, semi-strong and strong forms together with deducting investment costs when portfolios outperform overall market benchmark.</p>", 
+    "end_date": null, 
+    "title": "Investment Portfolio Analysis with Excel", 
+    "price": "20.00", 
+    "instructors": "Diego Fernandez", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/665866_968e_3.jpg", 
+    "course_url": "https://www.udemy.com/investment-portfolio-analysis-with-excel/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-10T14:49:46Z"
+}

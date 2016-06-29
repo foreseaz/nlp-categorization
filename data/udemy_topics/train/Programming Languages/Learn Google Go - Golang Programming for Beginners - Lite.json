@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course teaches the fundamentals of programming in the <strong class=\"redactor-inline-converted\">Go language</strong>. Go is a language suitable for a wide variety of tasks, from <em class=\"redactor-inline-converted\">systems programming</em> to <em>writing web servers</em>. </p><p>In this course, we’ll learn the syntax of Go, but more importantly, how to “<strong>think in Go</strong>.” While many tasks can be performed in the same ways as they are done in other programming languages, there is usually a more streamlined solution offered by Go, and that’s what we’re here to learn. </p><p>I hope you join me for this exciting look into one of the most powerful and elegant languages there is!</p>", 
+    "end_date": null, 
+    "title": "Learn Google Go - Golang Programming for Beginners - Lite", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "40 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/817050_9fb7_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-google-go-golang-programming-for-beginners-lite/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-09T08:47:18Z"
+}

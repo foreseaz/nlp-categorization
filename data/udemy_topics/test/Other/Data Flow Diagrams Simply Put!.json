@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Learn about <strong style=\"\">Data Flow Diagrams (DFDs)</strong>, <strong style=\"\">Context-level DFDs</strong>, and <strong style=\"\">Rigorous Physical Process Models (RPPM)</strong>, what they are, why they are important, and who can use them. </p><p>Getting from someone&#039;s explanations of how they do their job to usable and accurate workflow descriptions can be a daunting proposition. The course uses a concrete business scenario to present a simple, easy-to-learn approach for creating these diagrams from an interview with a Subject Matter Expert (SME). You will learn how to create a Rigorous Physical Process Model, evolve it to a Context-Level Data Flow Diagram, and explode the context-level process(es) and data to reveal the nitty-gritty detail (individual process specifications and detailed data specifications) that developers need.</p><p><em style=\"\">The course answers the following questions:</em></p><ul style=\"\"><li>What is a Data Flow Diagram (DFD)?</li><li>What is a Rigorous Physical Process Model?</li><li>What is a Context-Level DFD?</li><li>Why should I use Data Flow Diagrams?</li><li>What symbols can I use on each type of diagram?</li><li>How can I drill down into a process?</li><li>How can I show internal processes and flows that produce the results?</li><li>What does balancing a Data Flow Diagram mean and what is the business value?</li><li>What is the most efficient approach to balancing a DFD?</li><li>What business value do process specifications offer?</li><li>How can I express detailed specifications for processes and data?</li><li>What is “metadata&quot; and why do you need it?</li><li>What does a fully balanced DFD look like?</li><li>What value does a DFD fragment provide?</li></ul><p>Regardless of your job title or role, if you are tasked with communicating a workflow or functional requirements to others, this course will help. It is interactive (includes exercises with instant feedback), instructionally designed (based on modern learning theory), and &quot;intellimated™&quot; (uses animated visuals with an accompanying audio track) to hold your interest and increase retention.</p>", 
+    "end_date": null, 
+    "title": "Data Flow Diagrams Simply Put!", 
+    "price": "20.00", 
+    "instructors": "Tom and Angela Hathaway, Daniel Myers", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/442872_d3d0_7.jpg", 
+    "course_url": "https://www.udemy.com/data-flow-diagrams-simply-put/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-09T16:13:15Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">In this course you will learn to secure a network, weather it&#039;s Enterprise or SOHO.</p><p style=\"\">The course in based on over my 20 years hands on experience in IT, as a security analyst and network engineer. </p><p style=\"\">Learn the 12 most important steps in securing you network, making sure you cover all the basics, but not wasting time on activities that contribute little.<br style=\"\"></p><p style=\"\"><strong style=\"\">Step 1</strong>- Write a Security Policy</p><p style=\"\"><strong style=\"\">Step 2 </strong>- Educate End Users &amp; IT Staff</p><p style=\"\"><strong style=\"\">Step 3 -</strong> Implement Physical Security</p><p style=\"\"><strong style=\"\">Step 4 -</strong> Implement Perimeter Security </p><p style=\"\"><strong style=\"\">Step 5 - </strong>Use Good Password Management </p><p style=\"\"><strong style=\"\">Step 6 </strong>- Eliminate Unnecessary Services </p><p style=\"\"><strong style=\"\">Step 7 </strong>- Implement Good Patch Management</p><p style=\"\"><strong style=\"\">Step 8 </strong>- Implement AntiVirus Measures </p><p style=\"\"><strong style=\"\">Step 9 </strong>- Implement Access Control</p><p style=\"\"><strong style=\"\">Step 10 </strong>- Secure Data in Transit </p><p style=\"\"><strong style=\"\">Step 11 </strong>- IDS &amp; IPS </p><p style=\"\"><strong style=\"\">Step 12 </strong>- Backup Your Data</p><p style=\"\">Following a lecture on each of the steps, I provide 10 Live Demos to reinforce the lectures</p>", 
+    "end_date": null, 
+    "title": "Information Security Primer", 
+    "price": "20.00", 
+    "instructors": "Dave Sirof", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/471054_0c94.jpg", 
+    "course_url": "https://www.udemy.com/information-security-primer/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-08T18:24:52Z"
+}

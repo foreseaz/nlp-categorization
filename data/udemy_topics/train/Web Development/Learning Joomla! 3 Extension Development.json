@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   This video course provides you with a step-by-step tutorial for building a basic component with frontend editing. You will also learn how to build both content and search plugins for your component, how to build a module to display data from your component, and finally how to build a template using Bootstrap CSS.  </p>  <p style=\"\">  \t     The course starts by teaching you how to build a basic, bare bones component for inserting and displaying recipes using the minimum amount of code that is needed for a component.  No component is complete without search and content plugins. You will start off by building standard search and smart search plugins, a content plugin for inserting our component’s data into a content item, and adding code to insert other plugins’ data into our display page. The plugins will make our recipes searchable on the site and will enable the insertion of recipes into content articles.  </p>  <p style=\"\">  \t     You will then move on to build a basic module, add standard field types, and finally add a custom field type when standard fields are not enough. The module will display select recipes from our collection. Finally, you will also learn how to build a template that uses Twitter Bootstrap’s CSS.  </p>  <p style=\"\">  \t     Learning Joomla! 3 Extension Development makes it fast and easy to develop your own custom Joomla! components, plugins, modules, and templates.  </p>  <h4><strong style=\"\">About the Author</strong></h4>  <p style=\"\">  \t<strong style=\"\">Donna Vincent </strong>has been developing websites since 2004, and she has been using the Joomla! platform since 2006. In 2009, she began developing custom Joomla! extensions for her clients. She is also an EDI and barcode programmer. Donna lives and works in the New York City area and enjoys food photography when not building websites.  </p>", 
+    "end_date": null, 
+    "title": "Learning Joomla! 3 Extension Development", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/365716_0fa4_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-joomla-3-extension-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-08T10:16:52Z"
+}

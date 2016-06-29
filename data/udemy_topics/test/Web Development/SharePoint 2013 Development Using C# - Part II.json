@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>SharePoint is a versatile platform for building solutions that address a wide range of business needs. SharePoint is a development platform, upon which powerful and compelling portal applications can be built.</p><p>This course provides developers with a thorough, in-depth guide to the internals of writing code for the SharePoint platform. SharePoint 2013 programming model can be divided into categories like : Managed Client Side Object Model, Java Script Client Object Model, Silverlight Client Side Object Model, REST &amp; OData Interface.</p><p>In this course by development expert Kameswara Sarma Uppuluri, you'll learn essential concepts that you need to know to get started building applications for SharePoint platform such as CSOM,JSOM,SCOM,REST &amp; OData,Custom Actions,Custom Groups,TImer Jobs.. and more. The course provides step-by-step walk-throughs and coding demos that you're encouraged to code along with to enhance the learning process.</p><p>This course is broken down into 16 modules with each module providing source code where applicable so that you can follow along with Kameswara Sarma Uppuluri. Some of the modules can be seen in the below list.</p><ol><li>Working with CSOM</li><li>Working with JSOM</li><li>Working with SCOM</li><li>Working with REST &amp; OData</li><li>Custom Actions</li><li>Custom Groups....</li></ol>", 
+    "end_date": null, 
+    "title": "SharePoint 2013 Development Using C# - Part II", 
+    "price": "35.00", 
+    "instructors": "Kameswara Uppuluri", 
+    "commitment": "11 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/304898_103f.jpg", 
+    "course_url": "https://www.udemy.com/sharepoint2013developmentpart2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-21T18:23:23Z"
+}

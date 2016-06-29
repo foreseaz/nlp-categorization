@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<em style=\"\">Websites and HTML5 apps need to be interactive, dynamic and smooth to the end user.</em>  </p>  <p style=\"\">  \t<strong style=\"\">jQuery</strong> is the world’s most used JavaScript library  to create rich web applications that just feel natural to use. In this  comprehensive course you’ll learn how to use jQuery to work with the <strong style=\"\">DOM</strong>, use events, effects and animations, <strong style=\"\">AJAX</strong>, <strong style=\"\">JSON</strong> and to create interactive <strong style=\"\">AJAX forms</strong>.  </p>  <p style=\"\">  \t<strong style=\"\">This course is 100% jQuery 2.x compliant!</strong>  </p>  <p style=\"\">  \tThis course is taught by <strong style=\"\">Pablo Farias Navarro</strong>, founder of <strong style=\"\">ZENVA</strong>  and web application developer. Pablo has been using jQuery since 2007.  More than 20,000 students are learning how to code with our courses, in  particular our Programming for Entrepreneurs course series. This course  builds on our previous HTML and JavaScript free courses and takes you to  the next step, which is to make your website or HTML5 interactive and  dynamic.  </p>  <p style=\"\">  \tSome of the things you will learn in this course:  </p>  <ul style=\"\">  \t<li style=\"\">When to use jQuery 1.x or 2.x.</li>  \t<li style=\"\"><strong style=\"\">CSS selectors</strong> and <strong style=\"\">DOM traversing</strong> functions in depth to find any element you want.</li>  \t<li style=\"\">DOM manipulation to add or remove custom HTML content anywhere, whenever you decide.</li>  \t<li style=\"\">Working with <strong style=\"\">events</strong> to create interactive sites.</li>  \t<li style=\"\">Listen to changes in select dropdowns and checkboxes.</li>  \t<li style=\"\">jQuery <strong style=\"\">animations</strong> and effects. Slide, fade, show, hide.</li>  \t<li style=\"\"><strong style=\"\">AJAX</strong> to load dynamic HTML from the server.</li>  \t<li style=\"\">Working with <strong style=\"\">JSON</strong> from the server.</li>  \t<li style=\"\">Interactive <strong style=\"\">forms</strong> that display extra fields according to the values of other fields.</li>  \t<li style=\"\">AJAX form submission the easy way.</li>  \t<li style=\"\">Dealing with <strong style=\"\">cache</strong> issues in AJAX requests.</li>  \t<li style=\"\">Learn jQuery in a 2.x compliant manner.</li>  </ul>", 
+    "end_date": null, 
+    "title": "jQuery and AJAX for Beginners - The Definitive Guide", 
+    "price": "20.00", 
+    "instructors": "Pablo Farias Navarro", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/184010_bf3f_3.jpg", 
+    "course_url": "https://www.udemy.com/jquery-premium-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-17T15:43:32Z"
+}

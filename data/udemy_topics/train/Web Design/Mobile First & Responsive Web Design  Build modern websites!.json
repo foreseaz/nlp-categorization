@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">There has <em style=\"\">never</em> been a better time to learn responsive web design and take a mobile first approach.</p><p style=\"\">Smartphone and tablet users no longer accept that they should have a poor web browsing experience because of the device they are using. Catering for mobile users is now essential.</p><p style=\"\">This course teaches you how to put your HTML &amp; CSS skills to great use by creating mobile first and responsive websites, which look great on any device.</p><p style=\"\">This course covers:</p><ul style=\"\"><li>We will go over what responsive design is and why a mobile first approach can be beneficial</li><li>Tools you can use to help your project</li><li>Fluid grids and relative sizes</li><li>The Viewport Meta Tag</li><li>Media queries and breakpoints</li><li>Building a responsive website project from scratch, using a responsive grid</li><li>We will then add jQuery plugins to the project to create a responsive sliding carousel and social sharing buttons</li><li>Dealing with responsive images and the picture element </li><li>How to optimise our images and files</li><li>CSS Flexbox including building our own basic grid</li><li>Using responsive frameworks such as Bootstrap</li></ul><p>This course is beginner friendly but at least a basic HTML &amp; CSS knowledge is required.</p><p>The web is going mobile, make sure your websites are ready!</p>", 
+    "end_date": null, 
+    "title": "Mobile First & Responsive Web Design: Build modern websites!", 
+    "price": "20.00", 
+    "instructors": "Chris Dixon", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/404622_0f10_3.jpg", 
+    "course_url": "https://www.udemy.com/mobile-first-responsive-web-design/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-26T19:07:21Z"
+}

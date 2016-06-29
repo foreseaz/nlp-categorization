@@ -1,0 +1,28 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Finance"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course provides a brief introduction to the fundamentals of finance, emphasizing their application to a wide variety of real-world situations spanning personal finance, corporate decision-making, and financial intermediation. Key concepts and applications include: time value of money, risk-return tradeoff, cost of capital, interest rates, retirement savings, mortgage financing, auto leasing, capital budgeting, asset valuation, discounted cash flow (DCF) analysis, net present value, internal rate of return, hurdle rate, payback period.\n\n                                            Syllabus\n                        Week 1: Time Value of MoneyWelcome to Introduction to Corporate Finance! This first module will introduce you to one of the most important foundational concepts in Finance, the time value of money. Before diving into the Video lectures, I encourage you to take a look at the brief pre-reading for the course. Specifically, have a look at “Big Picture Course Motivation,” for additional motivation and context for the course, “Time Value of Money Overview,” for a motivation and context for our first topic, and “Quiz Problem Answer Input.” This last note is particularly important to avoid confusion with the problem sets. Then, go to the Video Lectures and start learning Finance!  Week 2: Interest RatesIn this module, we wrap up the Time Value of Money topic with a discussion of inflation before moving on to our second topic, Interest Rates, and introducing our third topic, Discounted Cash Flow Analysis. By the end of this module, you should feel comfortable with discounting and compounding arbitrary cash flow streams in order to value different claims and make better financial decisions. Week 3: Discounted Cash Flow AnalysisThis module continues our discussion of discounted cash flow analysis by way of a capital budgeting case. (You might want to download or view the Excel file, “Tablet Case Spreadsheet.xlsx,” that I use in the lectures, but it is not necessary for understanding the material.) By the end of this module, you should feel comfortable valuing claims and making financing decisions in which the timing of the cash flows and compounding of interest is arbitrary (e.g., annual, semi-quarterly, monthly, etc.). Having worked through the problems, you should also be more comfortable with real world financial decision making related to retirement savings, home financing and refinancing, auto leases, and other scenarios. Week 4: Return on InvestmentThis module closes out our discussion of discounted cash flow analysis and caps off the course with a discussion of return on investment. By the end of this module, you should feel comfortable with the notion of free cash flow and the ability to apply a set of forecast drivers to project free cash flows into the future. These are some of the elements of a basic financial model, which we will use to come to a decision about the tablet project and to analyze the assumptions behind our valuation. \n                                    ", 
+    "end_date": "2016-07-18T00:00:00Z", 
+    "title": "Introduction to Corporate Finance", 
+    "price": 0, 
+    "instructors": "Franklin Allen", 
+    "institution_name": [
+        "Wharton School of the University of Pennsylvania", 
+        "University of Pennsylvania"
+    ], 
+    "commitment": "6-8 hours", 
+    "subject_name": [
+        "Business & Management"
+    ], 
+    "course_url": "https://www.coursera.org/learn/wharton-finance", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-20T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \t In this course, we take you through the process of setting up a complex - but visually stimulating - particle system that warps a character in through a teleportation device, as well as an amazing look at &quot;phasing&quot; the character in to view! We&#039;ll look at creating the holographic projections you see in the scene, adding texture and distortion to the sequence, and then wrap up the series with an in-depth look at setting up a basic render and animating the camera and lights so that you can make your very own cut-scenes and cinematics!  </p>  <hr style=\"\">  <p style=\"\">  \t<u style=\"\"><strong style=\"\">About the Instructor:</strong></u>  </p>  <p style=\"\">  \t Bill has worked in the games industry for over 7 years specializing in Realtime VFX. He currently works as a VFX Artist with shipped titles including Injustice: Gods Among Us, Mortal Kombat, Batman: Arkham City Lockdown, Lego Universe, &amp; PAIN. He also is the founder of imbueFX, a site that specializes solely on tutorials in Realtime VFX.  </p>", 
+    "end_date": null, 
+    "title": "Advanced VFX and Cinematics for Games with UDK", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/86626_9707_5.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-advanced-vfx-and-cinematics-for-games-with-udk/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-01T06:38:31Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>You will get a conceptual understanding of various SQL Server database performance issues and learn about different places to check for the performance information along with tuning approach. </p><p>Broadly this course will cover following:</p><p>Understanding SQL Server waits and how to resolve it.</p><p>Tempdb contention issues.</p><p>Learn about database statistics, optimizer and maintenance plan for tables and indexes. </p><p>SQL Tuning techniques.</p><p>Partition in SQL Server.<br></p><p>General guidelines for avoiding performance issues in SQL database.</p>", 
+    "end_date": null, 
+    "title": "SQL Server Performance Tuning", 
+    "price": "20.00", 
+    "instructors": "Amit Arora", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/691324_5f92_3.jpg", 
+    "course_url": "https://www.udemy.com/sql-server-performance-tuning/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-07T19:50:43Z"
+}

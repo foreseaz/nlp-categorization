@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Html, gerçek hayattan örnek ile sizin paylaşıma açık resimlerinizin, yazılarınızın, klasörlerinizin, gibi dosyalarınızın bir amaca göre hazırlanmış web site içerisinde belli bir şekle şemaya getirilerek size gösterildiği tasarımdır. Web tabanlı yazılım geliştirmek ya da sadece web tasarım yapmak için en temel konu htmldir.</p><p style=\"\">Bu kurs ile birlikte html bir web site iskeletinin nasıl oluşturulduğunu öğreneceksiniz. Temel html etiketlerini anlatıp öğretmeye çalışacağız. Dolayısıyla bundan sonra Css e ihtiyaç duyacaksınız. Css kursumuzla beraber kendi web sitenizi tasarlayabilir konuma gelebilirsiniz.</p><p style=\"\">Kurs sonumuzda html kodlarınızı yazıp çalıştırmanız için hazırlanmış html çalıştırma aracını kullanabilirsiniz. Herhangi bir editöre ihtiyaç duymadan kullanabilirsiniz fakat biz html derslerini visual studio ile anlatacağız.</p>", 
+    "end_date": null, 
+    "title": "Bir Saatte Html Öğren", 
+    "price": 0, 
+    "instructors": "Ercan Ayhan", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/522048_4a6f.jpg", 
+    "course_url": "https://www.udemy.com/1-saatte-html-ogren/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-06T16:25:30Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>If you are looking for a course, that will teach you to create <strong style=\"\">JSF application from scratch</strong>, your search will end here.</p><p>Learn the most detailed Tutorial on JEE7 Web Tier, The <strong style=\"\">Java Server Faces (JSF 2.2)</strong>.  If you are a <strong style=\"\">JSP and Servlet Programmer/developer</strong> this course will be a added advantage to your skill.</p><p>JavaServer Faces (JSF 2.2) is a Java specification for building component-based user interfaces for web applications. It was formalized as a standard through the Java Community Process and is part of the Java Platform, Enterprise Edition.</p><p>This course is not only for <strong style=\"\">Professional but also for a novice </strong>who want to tune their JSP and Servlet programming with JSF framework. </p><p>This course is <strong style=\"\">divided into 10 Section </strong>and each section contains <strong style=\"\">theory with step by step practical demonstration on creating JSF application.</strong></p><p>At the end of this course you will be <strong style=\"\">able to create and integrate JSF technology </strong>in your web application, you will have a <strong style=\"\">10+ project in you hand </strong>with <strong style=\"\">PDF reference and complete source code.</strong></p>", 
+    "end_date": null, 
+    "title": "JEE7 - Java Server Faces, The Web Tier", 
+    "price": "20.00", 
+    "instructors": "Girish Shakya", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/582060_53f1.jpg", 
+    "course_url": "https://www.udemy.com/jee7-jsf-webtier-by-girish/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-13T10:48:17Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>Bu kursun amacı eğitim içeriğini / örneğini oluşturan çelik yapıların nasıl modelleneceğini göstermek. Bir örnek üzerinden yola çıkarak konunun net anlaşılmasını sağlamaktır.</p><p>Modelleme esnasında Revit yerel kütüphanesinin efektif olarak kullanılması ve eksik olan çelik elemanların family&#039;lerinin nasıl  modellemesinin öğrenilmesi ve benzer özgün family oluşturma kabiliyetinin kazanılması. Detail item&#039;ların nasıl oluşturulacağının incelenmesi modele nasıl ekleneceğinin ve kullanılacağının gösterilmesi.  Aynı zamanda modelleme sırasında kullanılan komutların ve modelleme yöntemlerinin net anlatılması ile benzer veya özgün modellerin oluşturulması</p><p>Eğitimin örnek üzerinden anlatılması ile gerçek, doğru ve uygulanabilir eğitim sonucu hedeflenmektedir.</p>", 
+    "end_date": null, 
+    "title": "Revit Structure Eğitimi - Çelik yapı - 01", 
+    "price": "50.00", 
+    "instructors": "Erol Pektaş", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/504930_1ac6_9.jpg", 
+    "course_url": "https://www.udemy.com/revit-structure-egitimi-celik-yapi-01/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-18T06:58:26Z"
+}

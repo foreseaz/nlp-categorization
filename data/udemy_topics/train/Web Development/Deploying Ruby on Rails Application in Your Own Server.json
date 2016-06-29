@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>After enrolled this course you will get $10 </strong></p><p>Hi there. My name is Saroar and I will be the instructor for this course </p><p>After take this course you can submit your Rails project to your own server and I had to go through some easy steps to get your Rails app up and running with the best possible conditions. Why you should use your own server. When the time comes to deploy your Ruby on Rails application, you have a lot of options. You could use one of the platform as a service (PaaS) offerings such as Heroku. They do all of the server management and most of the database management. You just have to \"git push heroku master\" to deploy your app. However, there are trade offs. Your app has to work within their infrastructure and it can start to get very costly as you scale up.</p><p>Another option is to deploy your rails app to your own server. This has the huge advantage of you being able to full control your entire environment and also be able to choose the provider and Good news in this course I will add $10 as gift for two months after you just have to create your account on DigitalOcen using my link which i will add my 1st lecture.</p><p>So If you really interested and want you deploy your Rails apps in your own server I will teach you most easiest way and take full control as BOSS than just come to inside and see lots of magic.</p>", 
+    "end_date": null, 
+    "title": "Deploying Ruby on Rails Application in Your Own Server", 
+    "price": "20.00", 
+    "instructors": "Saroar Khandoker", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/470676_9b36_2.jpg", 
+    "course_url": "https://www.udemy.com/deploying-ruby-on-rails-application-in-your-own-server/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-08T09:26:45Z"
+}

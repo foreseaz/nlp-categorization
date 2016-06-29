@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t        In this course you will learn how to effectively create, modify, generate and distribute a complete and functional information delivery system; containing Images, working Hyperlinks, a Table of Contents, an Index and a Glossary.  </p>  <p>  \t        While this course demonstrates using Adobe RoboHelp HTML version 11, the student should be equally successful using earlier versions, such as 7, 8, 9 or 10.  </p>  <p>  \t  Different assets such as projects, an image and a text file are provided to help facilitate the process.  </p>  <p>  \t  There are over three hours of instructional video included that guide you from the ground up. From nothing but an idea to a polished output that you can actually use once finished.  </p>", 
+    "end_date": null, 
+    "title": "Adobe RoboHelp HTML Fundamentals", 
+    "price": "20.00", 
+    "instructors": "Rick Stone", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/392198_620a.jpg", 
+    "course_url": "https://www.udemy.com/adobe-robohelp-html-fundamentals/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-12T16:37:49Z"
+}

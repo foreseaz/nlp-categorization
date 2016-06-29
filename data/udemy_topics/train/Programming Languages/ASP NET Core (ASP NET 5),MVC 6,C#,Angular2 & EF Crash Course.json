@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>* * Last Update 6/27/2016</strong></p>\n\n<p><strong>* * Discounted Price for a Limited Time Only!!!</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Have you ever wanted to learn how to develop and host ASP.NET Web Applications in a cross-platform environment?</strong> Well you have come to the right place.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>ASP.NET Core (Formerly known as ASP.NET 5)</strong> is the new way to develop Cross Platform web applications in ASP.NET and C#. In this course, I will teach you how to build <strong>ASP.NET Core(ASP.NET 5)</strong> Web Applications from the ground up. <strong>We will also examine and demonstrate all of the features of MVC 6, Entity Framework Core, Web Api, AngularJS 2.0 &amp; C#. </strong>After we develop our <strong>ASP.NET Core(ASP.NET 5) </strong>Web App, I will teach you how to deploy your web app to <strong>Microsoft Azure</strong>.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>What is ASP.NET Core (ASP.NET 5)?</strong><br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>ASP.NET Core </strong>is an <strong>open-source </strong>and <strong>cross-platform </strong>application framework used for developing modern cloud based web applications utilizing .NET. </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Why Build Web Applications in ASP.NET Core (ASP.NET 5)?</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>The web stack for ASP.NET is based on a older legacy platform. ASP.NET has a lot of the unused code in the .NET framework. Since ASP.NET 1.0 (Over 15 years old), there's a lot of  legacy code that has to load even when it is not being utilized in your web projects. This can cause performance issues in your web apps. <strong>ASP.NET Core (ASP.NET 5)</strong> solves this issue.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>ASP.NET Core (ASP.NET 5)</strong> is built with the needs of modern Web applications in mind. <strong>ASP.NET Core <strong>(ASP.NET 5)</strong></strong> is built to be cloud-ready by introducing environment-based configuration and by providing built-in dependency injection support.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>ASP.NET Core <strong>(ASP.NET 5)</strong></strong> supports cross-platform development on Windows, Mac and Linux. The ASP.NET Core (ASP.NET 5) stack is open source and encourages community contributions and engagement from developers.</p>", 
+    "end_date": null, 
+    "title": "ASP NET Core (ASP NET 5),MVC 6,C#,Angular2 & EF Crash Course", 
+    "price": "20.00", 
+    "instructors": "Codeit 24/7", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/791802_1623_2.jpg", 
+    "course_url": "https://www.udemy.com/aspnet-core-aspnet-5mvc-6cweb-api-ef-crash-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-13T23:14:35Z"
+}

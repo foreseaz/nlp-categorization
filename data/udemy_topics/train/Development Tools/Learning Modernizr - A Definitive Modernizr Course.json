@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tThis Modernizr training course from Infinite Skills will teach you everything you need to know about this JavaScript library. Modernizr is a JavaScript library that works to detect which HTML5 and CSS3 features your visitor&#039;s browser supports.  </p>  <p>  \t<br style=\"\">  \tYou will start by learning the basics of Modernizr, such as how to add it to a web page and create a custom build of Modernizr. Ben will teach you about Modernizr in CSS and the various Modernizr classes. This video tutorial will also cover Modernizr and JavaScript, including adding custom tests to Modernizr and conditionally running JavaScript.<br style=\"\">  \t<br style=\"\">  \tOnce you have completed this computer based training course, you will be able to use this feature detection library for your own web development projects. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Learning Modernizr - A Definitive Modernizr Course", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/248790_c80e_5.jpg", 
+    "course_url": "https://www.udemy.com/learning-modernizr/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-23T15:42:00Z"
+}

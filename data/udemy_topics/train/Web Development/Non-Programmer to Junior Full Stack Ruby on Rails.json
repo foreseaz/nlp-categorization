@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Welcome to one of the very first courses to teach Full Stack Development. This course is designed to take you from knowing <strong>nothing </strong>to being a <strong>Junior </strong>Full Stack Developer. In this course, you will learn how to develop, deploy, and handle a web application. HTML-HTML5, CSS3, understanding JavaScript, BootStrap, jQuery, Basics of SQL, Ruby 1.9-2.2.3, SASS, Ruby on Rails 4, Git, GitHub, Heroku, and other sectioned courses. I'll go over 70-90% of the syntax of each language, explain what each one does with more Simplified Sense than Technical Jargon, gradually go from simple to hard and then back to simple, and there will be a continual addition of projects where we'll go from designing the website to deploying it to GitHub and Heroku. <strong>THIS IS AN UPDATING COURSE WITH NEW SECTIONS THAT WILL BE ADDED LATER ON(COFFEESCRIPT AND HAML)</strong></p>\n\n<p>Inside of this course you will find</p>\n\n\n\n\n\n\n\n\n\n\n\n<ol><li>Quizzes</li><li>Practice Code Quizzes</li><li>Self-made Games</li><li>Do it yourself projects that are small and easily manageable.</li><li>An Introduction to Computer Science that covers Memory Allocation to Encryption to Web Security</li><li>A mind boggling amount of knowledge</li><li>Each video is encapsulated, which means you can watch a video and not worry about losing your place in the next video.</li></ol>\n\n\n\n\n\n\n\n\n\n\n\n<p>The course is structured to teach you the syntax, test your knowledge of the syntax, and then practice the syntax.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>What this course won't teach you</p>\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>How to run and maintain a server or Operating System since there are too many, and I can't predict which one your job will require.</li><li>How to solve networking problems.</li><li>How to make Desktop Software or engage in Software Development.</li><li>How to deal with people.</li><li>What 42 is.</li><li>This course is designed to provide a rookie level of Full Stack Development. This course is designed to give you 70%-90% of what a Full Stack Developer should know.</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n<p>If you are new to the web development world, this course is likely for you. If you just went through a couple of HTML and CSS courses, this course is likely for you. If you're looking to learn just Ruby and onwards, this course is likely for you. If you're a Senior Full Stack Developer for Ruby on Rails looking to reaffirm your knowledge, this course will most likely not be for you.</p>", 
+    "end_date": null, 
+    "title": "Non-Programmer to Junior Full Stack Ruby on Rails", 
+    "price": "50.00", 
+    "instructors": "Tommy Mertell, Muhammad Uzair Khalid", 
+    "commitment": "21 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/595266_c4d2_2.jpg", 
+    "course_url": "https://www.udemy.com/full-stack-ruby-on-rails/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-27T19:36:57Z"
+}

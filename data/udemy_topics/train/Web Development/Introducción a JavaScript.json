@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  El curso propone una introduccion a JavaScript donde los alumnos aprenderan, sin necesitar conocimientos previos, a crear codigo basico desde un Hola Mundo hasta cosas más avanzadas como la manipulacion de los sitios webs.  </p>  <p>  \t El curso consta de 10 capitulos, en los cuales vemos temas como:  </p>  <ul style=\"\">  \t<li><strong style=\"\"><strong style=\"\"></strong></strong>Variables</li>  \t<li>Condicionales</li>  \t<li>Cajas de dialogo</li>  \t<li>Iteraciones</li>  \t<li>Funciones</li>  \t<li>Arrays</li>  \t<li>Cadenas de caracteres</li>  \t<li>Informacion del usuario</li>  \t<li>Manipulacion del documento HTML<strong style=\"\"><strong style=\"\"></strong></strong></li>  </ul>  <p>  \t Cada capitulo consta de videos, los archivos trabajados en los mismos, laboratorios y su respectiva solucion por separado.  </p>", 
+    "end_date": null, 
+    "title": "Introducción a JavaScript", 
+    "price": "20.00", 
+    "instructors": "Facundo Precentado", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/72876_39f8_6.jpg", 
+    "course_url": "https://www.udemy.com/introduccion-a-javascript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-02T01:40:51Z"
+}

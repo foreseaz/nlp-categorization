@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t What does a killer website, an amazing smartphone app and a futurustic plugin for Google Glass have in common?  </p>  <p style=\"\">  \t <strong style=\"\">                                                   A Back End</strong>  </p>  <p style=\"\">  \t Without a back-end all you are left with is an empty skeleton of a UI. Among other things, a back-end let&#039;s you:  </p>  <ul style=\"\">  \t<li style=\"\">Store data on a database</li>  \t<li style=\"\">Run CPU intensive tasks (such as face recognition)</li>  \t<li style=\"\">Provide a consistent API to read and write data</li>  </ul>  <p style=\"\">  \t Django is a Python-based web framework that provides a vast amount of plumbing to build a web-backend so that you don&#039;t have to do it. This will allow you to focus on building more and better features into your application without worrying about infrastructure and plumbing.  </p>  <p style=\"\">  \t <strong style=\"\">Why this class?</strong>  </p>  <p style=\"\">  \t This is a project based class and will take a practical approach towards learning Django. By the end of the class you will be comfortable with the following:  </p>  <ul style=\"\">  \t<li style=\"\">Setting up and Installing Django</li>  \t<li style=\"\">Interfacing with Databases using Django Models</li>  \t<li style=\"\">Writing basic Django templates</li>  \t<li style=\"\">Writing Django Forms</li>  \t<li style=\"\">Combining the above into a django app</li>  </ul>  <p style=\"\">  \t The <strong style=\"\">final project</strong> will be writing a Personal Notes app. This app will expose you to many basic patterns which will be applicable to a wide variety of Django Apps.  </p>  <p style=\"\">  \t Although this is a beginner class I plan to introduce a few advanced  Django concepts in theory so as to give you an idea of the power of the Django framework.  </p>  <p style=\"\">  \t This will also prepare you for job interviews that may ask you Django related questions.  </p>  <p style=\"\">  \t <strong style=\"\">Why Django?</strong>  </p>  <ul style=\"\">  \t<li style=\"\"><strong style=\"\">Python</strong> - Need I say more? If you love Python, you will love Django</li>  \t<li style=\"\"><strong style=\"\">Community</strong> - Django is supported by an excellent and supportive community. There are numerous Meetups as well as a Django Conference held every year</li>  \t<li style=\"\"><strong style=\"\">Philosophy</strong> - Django is build around the design principles of Loose coupling, DRY, Less Code, Quick Development and Explicit is better than implicit. To learn more about this check out <a href=\"https://docs.djangoproject.com/en/dev/misc/design-philosophies/\" target=\"_blank\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">Django Design Philosophies</a></li>  </ul>  <p style=\"\">  \t <strong style=\"\">Who should take this class</strong>  </p>  <p style=\"\">  \t Anyone who wants to get started with web development and Django as well as get a peek into the more advanced features can take this class. Here are a few categories I can think of:  </p>  <ul style=\"\">  \t<li style=\"\">You love Python and want to develop web apps while using as much Python as you can </li>  \t<li style=\"\">You are trying to learn Django on your own but prefer to speed up the learning process </li>  \t<li style=\"\">You don&#039;t know much about web development but would like to start it right with Django </li>  \t<li style=\"\">You have been practicing web development but would like to learn to use a cool framework like Django to develop more rapidly </li>  \t<li style=\"\">You want to learn a new skill to market yourself better to compete for a job you would love to have</li>  </ul>  <p style=\"\">  \t Whether you fit into one of the above categories or not, I encourage you to enroll for this class. Don&#039;t let a lack of experience with Python or web-frameworks discourage you. The class does not require a lot of experience with Python or web frameworks - a desire to learn will go a much longer way!  </p>", 
+    "end_date": null, 
+    "title": "Building Great Web Back-ends with Django", 
+    "price": "25.00", 
+    "instructors": "Sid Azad", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/113520_a611_3.jpg", 
+    "course_url": "https://www.udemy.com/building-great-web-back-ends-with-django/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-31T20:53:36Z"
+}

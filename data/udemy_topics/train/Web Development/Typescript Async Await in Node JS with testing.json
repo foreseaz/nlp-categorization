@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course would teach you how to have a good mental model doing async programing in node.js leveraging typescript async await EcmaScript 7 (ES7) feauture. </p><p>you would also learn the build blocks of async/await which is Promise</p><p>Unit testing with mocha would be setup. </p><p>This course would teach you how to test rest api. with postman and later automate it with mocha unit test using supertest and an assetion library such as Should.js<br></p><p>Mongoose and mongodb would used and also setup interface for mongoose models in Typescript</p><p>getting acquinted with typescript </p><p>This course is structured in a way that it can get you up to speed with applying Typescript to Node.js. </p><p>you would also learn some Express.js basics and middlewares</p><p>you should take this course if you have started learning node.js or want to bring type safety to your Node.js app with Typescript or you want to learn how to use the beautiful async/await syntax to write more maintable code. this course also makes use of mongoose mongodb. so you would also learn how to use mongoose with typescript </p>", 
+    "end_date": null, 
+    "title": "Typescript Async/Await in Node JS with testing", 
+    "price": "25.00", 
+    "instructors": "Mr Ayerhan Afa", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/752128_6d9f_2.jpg", 
+    "course_url": "https://www.udemy.com/typescript-asyncawait-in-node-js-with-testing/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-04T08:33:05Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Mastering Ansible is a step-by-step journey of learning Ansible for configuration management and orchestration.</p><p>The course is designed as a journey through configuring a realistic application stack from the ground up.  Instead of going page-by-page through the Ansible documentation, topics are ordered to align with the growing complexity of our application as we build it up and refactor it.</p><p>In addition to the core concepts of configuration with Ansible, we spend time on building tools to help us maintain and troubleshoot our application.  The goal is to have a workflow where all of the configuration and troubleshooting is done through ansible playbooks that can be committed to a repository and improved over time.</p><p>The course is divided into 6 sections, starting with initial installation and foundational concepts.  Starting in section 3, we build up a sample application environment layer-by-layer, learning a new concept in each lecture.  After the application is up and running, we refactor our setup in section 4 with an emphasis on modularity and encapsulation.  In section 5, we optimize our code and learn about techniques to reduce the playbook execution time.  The course finishes with a final section on troubleshooting and testing.</p><p>For each lecture, we introduce a new Ansible concept and apply it to our playbooks.  For most lectures, we execute the new concept in the demo environment so you can see what the output should look like.  In the notes of each lecture, you'll find a link to the relevant documentation pages, along with a snapshot of the codebase at the end of that lecture.</p><p>This course was built with Ansible version 1.9.3, applied to a 3-tiered web application environment leveraging NGINX, Apache2, Python, and MySQL on Ubuntu Linux servers.  We do not cover administering Windows servers in this course.</p><p>This course is designed as an introduction to Ansible, but also as a guide for engineers interested in configuration management, orchestration, infrastructure-as-code, and devops principles.</p>", 
+    "end_date": null, 
+    "title": "Mastering Ansible", 
+    "price": "25.00", 
+    "instructors": "Chris Lunsford", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/628796_f0b0_9.jpg", 
+    "course_url": "https://www.udemy.com/mastering-ansible/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-02T13:00:56Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Information Technology"
+    ], 
+    "description": "\n\n                    \n                    \n                    With the SAP HANA platform, you can easily set up high availability (HA) and disaster recovery (DR) operations as part of data center readiness. The platform provides HA/DR capabilities with multiple options to select RTO (recovery time objective) and RPO (recovery point objective) timelines based on planned and unplanned downtimes for your IT landscape.\r\nHigh availability of the SAP HANA platform is achieved by eliminating single points of failure (fault tolerance) and enabling the resumption of system operations after system outage with minimum business loss (fault resilience). The platform provides different levels of defense against redundancies to achieve HA at the hardware, network, and data center layers. It also provides disaster recovery support and fault recovery support mechanisms to enable data centers to resume normal business operations as quickly as possible.\r\nThe course starts with a general overview of SAP HANA platform HA/DR features. It then expands on the different capabilities for high availability and disaster recovery. Demo video links will be provided that showcase the configurations and setup required for operations in a data center environment.\r\nThis is the second course in our SAP HANA Core Knowledge series that provides insight into special features on the SAP HANA platform.\n\n                                            Syllabus\n                        Week 1: HA/DR – Intro, Overview, Setup OptionsWeek 2: HA/DR – SupportWeek 3: Backup &amp; Recovery – SupportWeek 4: Final Exam\n                                    ", 
+    "end_date": "2016-06-01T00:00:00Z", 
+    "title": "High Availability and Disaster Recovery with the SAP HANA Platform", 
+    "price": 0, 
+    "instructors": "Prasad Illapani", 
+    "institution_name": [], 
+    "commitment": "4-6 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://open.sap.com/courses/hshd1", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "openSAP"
+    ], 
+    "start_date": "2016-05-04T00:00:00Z"
+}

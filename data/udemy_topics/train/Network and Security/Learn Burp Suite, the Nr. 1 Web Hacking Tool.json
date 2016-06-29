@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course will help you to master the Burp Suite. If you are doing or wanting to do penetration testing, then it is 100% that you will work with web application. At the moment the Burp Suite is the most important tool for that. What you learn in this course can be immediately used in web application assessments.</p><p><strong>Quickly Master the Most Important Web Hacking/Penetration Testing Tool, the Burp Suite.</strong></p><ul><li>Learn the most important features of the Burp Suite</li><li>Hands-on exercises</li><li>Automate what you can</li><li>Do efficient manual testing</li></ul><p><strong>Content and Overview</strong></p><p><strong></strong>This course focuses on the Burp Suite. It is not a web application hacking course, although you will get to know various web attacks, which you can immediately try out yourself. First you will setup your own test environment with the Owasp WebGoat vulnerable web application and the Burp Suite. Then I will show you how to use the various modules in the tool. These modules can be used in different parts of the penetration test. They help you to easily reuse request or to automate some of your work. We will try out these tool together by attacking the WebGoat. The course if fully hands-on, so that you can do everything yourself as well. After finishing this course you will be able to employ the Burp Suite in your work immediately, whether you do penetration testing or any other web related work.</p>", 
+    "end_date": null, 
+    "title": "Learn Burp Suite, the Nr. 1 Web Hacking Tool", 
+    "price": 0, 
+    "instructors": "Geri Revay", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/690552_9246_6.jpg", 
+    "course_url": "https://www.udemy.com/burp-suite/", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-06T20:38:17Z"
+}

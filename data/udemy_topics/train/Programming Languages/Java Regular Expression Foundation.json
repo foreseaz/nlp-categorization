@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    Regular expression is one of the fundamental skills in programming tasks. It doesn&#039;t matter what kinds of applications you are building, you may have to deal with strings and regular expressions such as finding a sub string, extracting a sub string, validating user&#039;s input format, and replacing sub strings.  </p>  <p>  \t    This course will walk you through all important topics in regular expression from basic to advanced concepts. Also, you will learn how to use regular expression in combination with different methods to manipulate strings in Java. Besides, You also will be able to distinguish the differences among those string-related methods so that you can use them appropriately.  </p>  <p>  \t    Although this course is demonstrated in Java language, you will almost the same regular expression concepts if you apply them in other programming languages as well such as C#, Python, Perl, and JavaScript.  </p>  <p>  \t<strong style=\"\">How to get the most benefits of the course?</strong>  </p>  <p>  \t    To get the most benefits of the course, before starting the first lecture, I would recommend you to take the 30 question quiz first. Don&#039;t worry if you never learned regular expression before or you just have a little bit skills. Just do the quiz, if you don&#039;t know, just guess.  </p>  <p>  \t    After finishing the quiz, don&#039;t worry about the results then, just take all 19 lectures one by one to learn all the fundamentals as well as advanced techniques.  </p>  <p>  \t    After completing 19 lectures, take the quiz again to see if you make a progress. Each question in the quiz also has an explanation for right or wrong reasons for each answer, and I would highly recommend you to read these explanations to revise what you have learned.  </p>  <p>  \t    And I assume students who take this course should already have basic knowledge and skills in Java language.  </p>", 
+    "end_date": null, 
+    "title": "Java Regular Expression Foundation", 
+    "price": "30.00", 
+    "instructors": "Sera Nguyen", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/320928_15f1_4.jpg", 
+    "course_url": "https://www.udemy.com/java-regular-expression-foundation/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-16T15:10:49Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Information Technology"
+    ], 
+    "description": "\n\n                    \n                    \n                    SAP S/4HANA is SAP’s next generation business suite and is the company’s biggest innovation since SAP R/3. SAP S/4HANA was unveiled in New York on February 3, 2015 and openSAP is offering you the opportunity to get an overview of this new SAP offering from March 25.\r\nSAP S/4HANA is fully built on the advanced in-memory platform, SAP HANA and is designed on the most modern design principles with the SAP Fiori® user experience (UX) for mobile devices. It will offer cloud, on-premise and hybrid deployment options to provide maximum choice to customers.\r\nSAP S/4HANA is designed to drive business innovation with simplicity by connecting people, devices and business networks in real time to support the development of new business models. It will also help accelerate the on ramp to Internet of Things and Big Data. The simplified data model allows customers to reimagine their IT, helping to drive lower costs and aiming to help deliver IT efficiency.\r\nThis openSAP course will feature the following speakers:\r\n\r\n\r\nBernd LeukertMember of the Executive Board of SAP, Products &amp; Innovation\r\n\r\n\r\nWieland SchreinerExecutive Vice President &amp; Chief Product Owner S/4HANA\r\n\r\n\r\nMarkus SchwarzSenior Vice President &amp; General Manager of the SAP Business Suite 4 SAP HANA\r\n\r\n\r\nJens KrügerSenior Vice President, Head of LoB Finance &amp; Innovation Center\r\n\r\n\r\nSven DeneckenGlobal Vice President Strategy and Co-Innovation Cloud Solutions at SAP\r\n\r\n\r\n \n\n                                    ", 
+    "end_date": "2015-12-09T00:00:00Z", 
+    "title": "SAP S/4HANA in a Nutshell", 
+    "price": 0, 
+    "instructors": "", 
+    "institution_name": [], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://open.sap.com/courses/s4h1-1", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "openSAP"
+    ], 
+    "start_date": "2015-10-28T00:00:00Z"
+}

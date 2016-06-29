@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">Last updated: 26th May, 2016 with 6 Case Studies, and 46 Problems with Solutions.</strong></p>\n\n<p>Welcome to my brand new course on <strong class=\"redactor-inline-converted\">Data Analysis in Excel with Statistics: Get Meanings of Data</strong>.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>I want to start with a quote from Daniel Egger. He is a professor at Duke University. </p>\n\n<p>He says: “No commercial for-profit company that is in a competitive market can remain profitable or even survive over the next five years without incorporating best practices for business data analytics into their operations.”</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>So learning how to analyze data will be the most valuable expertise in your career in next five years.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Excel will analyze and visualize data easily – this is why Excel is created and this is why Excel is the most popular spreadsheet program in the world. </p>\n\n<p>Microsoft Company has added new data analysis features, functions, and tools in every new version of Excel. </p>\n\n<p>Before going into the course: I want to warn you about something. Excel is a just a tool. To analyze data you will use this tool. But analyzing data requires that you know some basic statistics and probability theories. </p>\n\n<p>Most of the statistics and probability concepts that are necessary to analyze data effectively are covered in your undergraduate level courses. But in this course, at first I have discussed the theory at first, then I have advanced to teach you how to use that theory in business with the help of Excel.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Let’s discuss now what I will cover in this course. It is tough to build a course on data analysis using Excel as so many topics are there to be covered. So I have used the guidelines of Project Management Institute (PMI) to create this course. </p>\n\n<p>The topics I am going to cover in this course are:</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ol><li><strong class=\"redactor-inline-converted\">Overview of Data analysis:</strong> I will start with an overview of the data analysis. I will describe how you will calculate common measures of your data, I will introduce you to the central limit theory and then I will provide my advice for minimizing error in your calculations.</li><li><strong class=\"redactor-inline-converted\">Visualizing Data:</strong> Then I will teach you how to visualize your data using histograms, how to identify relationships among data by creating XY Scatter charts and forecast future results based on Existing data.</li><li><strong class=\"redactor-inline-converted\">Building Hypothesis:</strong> Then I will show you how to formulate a null and alternative hypothesis, how to interpret the results of your analysis and how to use the normal, binomial and Poisson distributions to model your data.</li><li><strong class=\"redactor-inline-converted\">Relationships between data sets:</strong> Finally I will show you how to analyze relationships between data sets using co-variance, how to identify the strength of those relationships through correlation and then I will introduce you to Bayesian analysis.</li><li><strong class=\"redactor-inline-converted\">Case Study: Summarizing Data by Using Histograms</strong></li><li><strong class=\"redactor-inline-converted\">Case Study: Summarizing Data by Using Descriptive Statistics</strong></li><li><strong class=\"redactor-inline-converted\">Case Study: Estimating Straight-line Relationships</strong></li><li><strong class=\"redactor-inline-converted\">Case Study: Modeling Exponential Growth</strong></li><li><strong class=\"redactor-inline-converted\">Case Study: Using Correlations to Summarize Relationships</strong></li><li><strong>Case Study: Using Moving Averages to Understand Time Series</strong></li></ol>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Analyzing Business data is a must need expertise for every employee of a company. Your company will not survive another five years if it does not take seriously business data. And you could be the best employee in your company to direct the business in the smartest way. So keep learning business data analysis with this course.</p>", 
+    "end_date": null, 
+    "title": "Data Analysis in Excel with Statistics: Get Meanings of Data", 
+    "price": "20.00", 
+    "instructors": "Excel Academy", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/700668_09b1.jpg", 
+    "course_url": "https://www.udemy.com/statistical-data-analysis-in-excel/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-18T11:12:40Z"
+}

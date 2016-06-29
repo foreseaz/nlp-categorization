@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t         El curso, que es el primero de una serie de cursos sobre MongoDB, nos permite realizar una primera toma de contacto con MongoDB, base de datos orientada al documento. Vamos a ver:  </p>  <ul style=\"\">  \t<li style=\"\">qué es MongoDB y qué tiene que ver con NoSQL o Big Data</li>  \t<li style=\"\">qué le diferencia de otras bases de datos</li>  \t<li style=\"\"> cómo lo instalamos en un equipo</li>  \t<li style=\"\">cómo podemos trabajar con la información que almacenamos en él</li>  </ul>  <p style=\"\">  \t   Al finalizar el curso serás capaz de recuperar información almacenada en MongoDB, utilizando todo tipo de condiciones. Además, aprenderás a manipular dicha información, modificando o eliminando la que ya existe, o introduciendo nueva.  </p>  <p style=\"\">  \t         El curso consta de una serie de lecciones en formato vídeo, que constan tanto de contenidos teóricos cómo prácticos. La longitud de los vídeos suele ser inferior a los diez minutos, aunque en ocasiones alguno de ellos se acerca a los quince minutos.  </p>  <p style=\"\">  \t Veremos cómo replicar en vuestros equipos los ejemplos incluidos en los vídeos, para que hagáis con vuestras propias manos las operaciones que os muestro. Para ello veremos cómo realizar una instalación de MongoDB.  </p>  <p style=\"\">  \t   Cada cierto número de lecciones se incluye un grupo de preguntas para comprobar el grado de compresión de los temas tratados. En ocasiones, se incluye algún ejercicio práctico entre las preguntas, que requiere la descarga de algún archivo y el manejo de un servidor MongoDB. También se incluyen diversos ejemplos de código NodeJS, para ver cómo se trabaja con MongoDB desde una aplicación.  </p>  <p style=\"\">  \t         El curso puede ser completado en unas tres semanas, una para cada una de las secciones principales, dedicando unas 8 - 12 horas a la semana. En todo caso, elige el ritmo que más se adapte a tu disponibilidad.  </p>", 
+    "end_date": null, 
+    "title": "Primeros pasos en MongoDB", 
+    "price": "20.00", 
+    "instructors": "José Antonio Sánchez Ortiz", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/206360_eb9d_5.jpg", 
+    "course_url": "https://www.udemy.com/primeros-pasos-en-mongodb/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-28T07:24:14Z"
+}

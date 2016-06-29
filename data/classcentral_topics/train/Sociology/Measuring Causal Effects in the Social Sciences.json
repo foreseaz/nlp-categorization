@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Sociology"
+    ], 
+    "description": "\n\n                    \n                    \n                    How can we know if the differences in wages between men and women are caused by discrimination or differences in background characteristics? In this PhD-level course we look at causal effects as opposed to spurious relationships. We will discuss how they can be identified in the social sciences using quantitative data, and describe how this can help us understand social mechanisms.\n\n                                            Syllabus\n                        The Nature of Causal Effects and How to Measure ThemWelcome to the first week of the course! Thıs week we are looking at the nature of causal effects and how to measure them. The Multivariate Regression Model and Mediating FactorsThis second module introduces you multivariate regression model and the concept of mediating factors.Randomized Controlled TrialsIn this third week of the course we are having a closer look at causality and the randomzied controlled trial.Instrumental VariablesThe fourth week of the course we will go through the concept of instrumental variables.Difference in DifferenceThe final module of the course deals with the difference in difference. We hope you enjoyed the course and have learned something that you can use in your future work and research. \n                                    ", 
+    "end_date": "2016-07-25T00:00:00Z", 
+    "title": "Measuring Causal Effects in the Social Sciences", 
+    "price": 0, 
+    "instructors": "Anders Holm", 
+    "institution_name": [
+        "University of Copenhagen"
+    ], 
+    "commitment": "3-5 hours", 
+    "subject_name": [
+        "Social Sciences"
+    ], 
+    "course_url": "https://www.coursera.org/learn/causal-effects", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-20T00:00:00Z"
+}

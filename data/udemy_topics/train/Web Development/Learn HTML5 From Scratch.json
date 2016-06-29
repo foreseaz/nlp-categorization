@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>If you are thinking of becoming a web developer or just curious about how to build websites HTML is the</p><p>language you will need to start with. Every website on the planet has been built structurally using HTML.<br>A website is built using a variety of technologies such as HTML which is used to create the structure ;then you have<br>CSS or cascading style sheets which is used to style or make the website presentable;The third language you need is known as Javascript which<br>is responsible for the interactivity( This means the actions a visitor performs on a website e.g clicking on a button or completing a form) on the website .<br>The good thing about HTML is that it is relatively easy to learn and in this course you will learn by doing which is the best way to  gain <br>understanding about HTML.</p>\n\n<p>This is what you will learn in this course:<br>What is HTML<br>What is an Element and how to create one<br>What is a nested Element and how to create one<br>How to create a basic HTML document structure<br>How to create a HTML document <br>How to add an image to a website<br>How to create and use attributes<br>How to create an ordered list<br>How to create unordered list<br>How to create links<br>How to create paragraphs <br>How to create headings<br>How to use comments </p>\n\n<p>This course is video based and less than 2hours long. By the end of this course you will be able to build a simple one page website<br>with what you have learnt.</p>\n\n<p>I look forward to seeing you on the course.</p>\n\n<p>Thank you</p>", 
+    "end_date": null, 
+    "title": "Learn HTML5 From Scratch", 
+    "price": "20.00", 
+    "instructors": "247 Learning", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/813232_be45_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-html-from-scratch-with-lots-of-examples/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-05T07:05:27Z"
+}

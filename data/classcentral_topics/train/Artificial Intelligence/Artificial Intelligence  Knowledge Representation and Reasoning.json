@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Artificial Intelligence"
+    ], 
+    "description": "\n\n                    \n                    \n                    An intelligent agent needs to be able to solve problems in its world. The ability to create representations of the domain of interest and reason with these representations is a key to intelligence. In this course we explore a variety of representation formalisms and the associated algorithms for reasoning. We start with a simple language of propositions, and move on to first order logic, and then to representations for reasoning about action, change, situations, and about other agents in incomplete information situations. This course is a companion to the course “Artificial Intelligence: Search Methods for Problem Solving” that was offered recently and the lectures for which are available online. \n\n                                            Syllabus\n                        Week 1 Introduction, Propositional Logic, Proof Systems\r\nWeek 2 Tableau Method, Resolution Method, First Order Logic (FOL) \r\nWeek 3 FOL Semantics, Unification, Forward Chaining with the Rete Algorithm \r\nWeek 4 Rete example, Reification, Event Calculus, Conceptual Dependency (CD) Theory \r\nWeek 5 Conceptual Dependency Theory, Mapping from Natural Language, Goal Trees \r\nWeek 6 Logic Programming with Prolog, Resolution Refutation in FOL \r\nWeek 7 SLD Resolution, Frames, Scripts \r\nWeek 8 Goals and Plans, Description Logic (DL), Structure Matching \r\nWeek 9 Classification in DL, A-Box Reasoning, Extensions of DL, ALC \r\nWeek 10 Inheritance Networks, Default Reasoning, Circumscription \r\nWeek 11 Event Calculus, Default Extensions, Epistemic Reasoning \n                                    ", 
+    "end_date": "2016-04-11T00:00:00Z", 
+    "title": "Artificial Intelligence: Knowledge Representation and Reasoning", 
+    "price": 0, 
+    "instructors": "Deepak Khemani", 
+    "institution_name": [
+        "IIT ( Indian Institute of Technology Madras)"
+    ], 
+    "commitment": "3-4 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://onlinecourses.nptel.ac.in/noc16_cs02", 
+    "duration": "12 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "NPTEL"
+    ], 
+    "start_date": "2016-01-18T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Este curso foi criado como um módulo de uma formação completa para desenvolvedores <strong>Java EE 6</strong> da Especializa Treinamentos.</p><p><strong>Realize o curso, entregue o projeto final e receba um Certificado Oficial da Especializa Treinamentos com equivalência de 30 horas.</strong></p><p>Abrange conceitos aprofundados de programação corporativa em Java, iniciando com um nivelamento em JPA (Java Persistence API) para quem não conhece esta especificação, passando pelos fundamentos do <strong>JSF</strong> como ciclo de vida, validadores e conversores até aprofundamentos em managed e backing beans, client behaviors, Ajax nativo e a especificação Bean Validation.</p>", 
+    "end_date": null, 
+    "title": "JSF - Java Server Faces 2.0", 
+    "price": "30.00", 
+    "instructors": "Jose Berardo", 
+    "commitment": "18 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/30894_bcaf_3.jpg", 
+    "course_url": "https://www.udemy.com/jsf-java-server-faces-20/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-11-29T14:15:14Z"
+}

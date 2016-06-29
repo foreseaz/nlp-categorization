@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    In the Build Your Own iOS App capstone you will expand your repertoire of additional features and more advanced functions that may be implemented within the iOS environment. You will refine your development skill set and will apply your accumulated skills over the entire specialization series in an applied application development capstone project. This particular course is project based and structured around you building a high quality app as a capstone to the specialization.\n\n                                            Syllabus\n                        Welcome to Build Your Own iOS AppIntroduction and course roadmap.Facetracker LibraryGet the face detector library running and understand its notation/connectionsObject Animation (Basic)Create a simple animation of an object based on the position of the faceAnimation Series (Complex)Create a series of animations based on the face location and associate these with a certain lookFinal App SubmissionCreate a final app with the ability to take a photo and share the result. Final peer assessment.\n                                    ", 
+    "end_date": "2016-08-01T00:00:00Z", 
+    "title": "Build Your Own iOS App", 
+    "price": 0, 
+    "instructors": "Parham Aarabi", 
+    "institution_name": [
+        "University of Toronto"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.coursera.org/learn/build-app", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-07-04T00:00:00Z"
+}

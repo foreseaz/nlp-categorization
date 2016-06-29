@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t      Werbung im Internet kann ein nervenaufreibendes Thema sein. Natürlich ist jedem Nutzer klar, dass die Werbung entsprechende Inhalte mitfinanziert. Trotzdem wird oftmals so übertrieben, dass der eigentliche Inhalt darunter verschwindet. Teilweise wird sogar absichtlich irreführende Werbung geschaltet um z.B. die Nutzer zu kostenpflichtigen Einkäufe zu verleiten.  </p>  <p>  \t      Während ein Adblock Filter auf einem Computer in Ihrem Webbrowser (z.B. Firefox oder Google Chrome) noch recht einfach installiert werden kann, ist das z.B. auf Ihrem Mobiltelefon, auf Ihrem Tablet oder Ihrem Smart-TV i.d.R. nicht möglich. Haben Sie mehrere Computer und Laptops in einem Haushalt, wird die Pflege mittels Addons ebenfalls aufwendig.  </p>  <p>  \t      Hier hilft ein zentraler Rechner, auf den alle anderen Geräte im Netzwerk zugreifen und der die nervige Werbung für alle Geräte filtert.  </p>  <p>  \t      Anstatt einen teuren Desktop-PC für diesen Dienst abzustellen, ist es sinnvoller den günstigen Minicomputer Raspberry Pi diese Aufgabe erledigen lassen.  </p>  <p>  \t      In diesem Videokurs erfahren Sie, wie Sie den Squid3 Proxy auf dem Raspberry Pi installieren und konfigurieren können. Ebenso wird SquidGuard installiert, welcher angewiesen wird die Werbung zu filtern. Als Mustererkennung für Werbung wird auf die beliebte Easylist zurück gegriffen.  </p>  <p>  \t      Da der Raspberry Pi unter Linux läuft, können Sie diesen Kurs auch als Anleitung nutzen, um auf einem beliebigen Linux-Rechner einen Adblock-Proxy zu installieren. Haben Sie z.B. einen alten PC, den Sie nicht mehr brauchen. Installieren Sie einfach ein Linux auf den PC und den entsprechenden Adblock-Proxy nach dieser Anleitung.  </p>  <p>  \t      Dieser Kurs ist eine Erweitung des kostenlosen Grundkurses für den Raspberry Pi. Insoweit sollten Sie diesen Kurs vorher gesehen haben. Zusätzliche Hardware wird für diesen Kurs nicht benötigt. Abschließend wird gezeigt, wie Sie die notwendigen Einstellungen unter Windows, Linux und Android 4+ vornehmen können.  </p>  <p>  \t      Starten Sie jetzt und erweitern Sie Ihr eigenes Netzwerk um die einfache Möglichkeit eines eigenen Adblock Proxy. Dies ist nur eine von vielen Anwendungen Ihres Raspberry Pi.  </p>", 
+    "end_date": null, 
+    "title": "Raspberry Pi: Adblock Proxy", 
+    "price": "20.00", 
+    "instructors": "Andreas Sprecher", 
+    "commitment": "41 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/321892_760f_10.jpg", 
+    "course_url": "https://www.udemy.com/raspberry-pi-adblock-proxy/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-18T02:52:46Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Reviews : </strong><em>85% Reviews are 5 Star or 4 Star. (25 Mar 2016)</em></p>\n\n<p>\"Excellent overview of all the technologies packed in java enterprise edition. It is for all who wants to startup Java EE training.\"</p>\n\n<p><em>\"Very useful in deciding which way you want to go when learning Java EE. </em></p>\n\n<p><em>Special thanks for mentioning which technologies are popular, which are gaining popularity and which are loosing popularity!\"</em></p>\n\n<p><em>\"I would strongly recommend this course to any one who would like to get a </em><em>quick overview of Java EE related technologies. The instructor did a </em><em>really good job in providing quality information with in a short span of </em><em>time.\"</em></p>\n\n<p><em>\"Great course. Really liked the presentation and the choice of topics covered.\"</em></p>\n\n<p>List of Jargons used in Java EE is Endless - JPA, JDBC, ORM, JNDI, EJB, JTA, DTO, VO, JAXB, JAX-RS, JAX-WS, AOP, Dependency Injection, Model 1 Architecture, Model 2 Architecture, Front Controller, Composite View, Intercepting Filter, Facade, Service Locator to name a few.</p>\n\n<p>For a beginner, Java EE can be overwhelming. Objective of the course is to give a Big Picture of the Java EE. You will understand the Jargon, Specifications, Patterns used in Java EE. You will understand the basic architecture of a Java EE Application.</p>\n\n\n\n<p>You will understand the evolution of Java EE Application Architecture:</p>\n\n\n\n<ul><li>Model 1 Architecture</li><li>Model 2 or MVC Architecture</li><li>Modified MVC Architecture using Front Controller</li></ul>\n\n\n\n<p><br></p>\n\n\n\n<p>You will get an overview of Patterns used in the Java EE World - Grouped by the layer they are used in:</p>\n\n\n\n<ul><li>Front Controller</li><li>View Helper</li><li>Composite View</li><li>Context Object</li><li>Intercepting Filter</li><li>Domain Model</li><li>Facade</li><li>DTO/VO</li><li>DAO - Data Access Object</li><li>Service Activator</li></ul>\n\n\n\n<p>You will also be introduced to terminologies like JPA, JDBC, ORM, JNDI, EJB, JTA, DTO, VO, JAXB, JAX-RS, JAX-WS, AOP and Dependency Injection.</p>\n\n\n\n<p>Get ready for a Roller Coaster Ride with Java EE.</p>", 
+    "end_date": null, 
+    "title": "Java EE Made Easy - Patterns, Architecture and Frameworks", 
+    "price": "25.00", 
+    "instructors": "in28Minutes Official", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/740726_9635_2.jpg", 
+    "course_url": "https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-25T08:14:59Z"
+}

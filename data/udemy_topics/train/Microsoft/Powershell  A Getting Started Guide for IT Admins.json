@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Automation techniques and scripting skills are no longer optional for a systems administrator; they are a necessity!</strong>  Powershell is the scripting language that&rsquo;s behind this requirement.  Since Microsoft has released the Powershell language it only continues to pick up steam and be implemented across dozens of platforms.  Powershell is now not only a scripting language like VBscript it&rsquo;s a fully featured management framework that you can&rsquo;t afford not to utilize.  </p>  <p style=\"\">  \tThis course will take your position to the next level if you&rsquo;re a:  </p>  <ul style=\"\">  \t<li style=\"\">Sharepoint Administrator</li>  \t<li style=\"\">Active Directory Administrator</li>  \t<li style=\"\">PC Technician</li>  \t<li style=\"\">Helpdesk Operator</li>  \t<li style=\"\">SAN Administrator</li>  \t<li style=\"\">VMware Administrator</li>  \t<li style=\"\">Amazon AWS Administrator</li>  \t<li style=\"\">..and many more IT positions!</li>  </ul>  <p style=\"\">  \tDon&rsquo;t get looked over for that promotion or new job.  Learn Powershell today to keep up with the ever-changing IT culture and to help make your job so much easier through automation.  </p>", 
+    "end_date": null, 
+    "title": "Powershell: A Getting Started Guide for IT Admins", 
+    "price": "20.00", 
+    "instructors": "Adam Bertram", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/99274_00da_8.jpg", 
+    "course_url": "https://www.udemy.com/powershellbeginner/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-30T01:57:06Z"
+}

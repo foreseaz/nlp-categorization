@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course/tutorial is designed to teach beginners how to program in C as well as teaching students who are familiar with languages like Java, Ruby or Python. The course includes lessons on the fundamentals of programming. The course includes the basics of C and  advanced topics like structures and pointers.<br></p><p>With an unique approach of using Puzzles (more than 100 puzzles) to reinforce complex topics, this course covers<br></p><ul><li>Functions - Understand C programming using system defined and user defined functions</li><li>Pointers - Understand Pointers - The easiest and most misunderstood concept in C</li><li>Control Flow - Learn all about concepts such as iteration and conditional statements</li><li>Structures - Get better at organizing your data</li></ul><p>Every topic is explained with examples which will help you to understand them better.</p>", 
+    "end_date": null, 
+    "title": "C Tutorial for Beginners", 
+    "price": "25.00", 
+    "instructors": "in28Minutes Official", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/691932_18db.jpg", 
+    "course_url": "https://www.udemy.com/c-tutorial-for-beginners-with-puzzles/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-08T10:47:12Z"
+}

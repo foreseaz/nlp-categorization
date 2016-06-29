@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>How much is not understanding JavaScript arrays costing you every day?</p><p>After many years of anticipation, Daniel Stern, aka the Code Whisperer, has finally released the <strong>MOST COMPREHENSIVE course on JavaScript Arrays</strong> known to the developer at this time.<br></p><p>This is the ONLY course designed to FULLY appraise you of EVERYTHING array-related in JavaScript!</p><p>Before this course is over, you'll learn....</p><ul><li>How to create, edit, delete and access array elements</li><li>How to filter, map, reduce and sort arrays</li><li>How to use D3.js and Lodash.js</li><li>So much more</li></ul><p>I've spared no expense to create the MAXIMUM number of quizzes and coding exercises possible! It is literally impossible not to understand JavaScript arrays after watching the videos and completing the exercises. Add to this the handouts included in EVERY CHAPTER and you have a recipe for learning of epic proportions.<br></p><p>This course includes EIGHT action-packed chapters including...</p><ul><li>All About Arrays</li><li>Iterating Over Arrays</li><li>Working with D3 and Lodash</li><li>Working with the Spread and Rest Operator</li><li>Sorting Arrays</li><li>And more!</li></ul><p>If you want to take your JavaScript arrays, or just coding in general, to the next level, this is the course for YOU!</p><p>Why hesitate? If you're not 100% satisfied, just return the course for the money-back guarantee. You have literally 0 risk and huge benefits to gain.</p><ul><li>Never manually write maps or filters again</li><li>Swiftly process data in Angular or MongoDB</li><li>Impress coworkers and hiring managers with your indepth knowledge of JS Arrays</li></ul><p>I can personally say that this is one of the most exciting courses I've ever created. I'm confident anyone who takes this course will see a huge improvement in their day-to-day coding.</p>", 
+    "end_date": null, 
+    "title": "Ultimate JavaScript Arrays", 
+    "price": "30.00", 
+    "instructors": "Daniel Stern", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/887504_b598.jpg", 
+    "course_url": "https://www.udemy.com/js-arrays/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-24T19:52:54Z"
+}

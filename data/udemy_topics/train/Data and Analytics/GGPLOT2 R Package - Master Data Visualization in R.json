@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>This course will help you create meaningful, elegant and powerful data visualizations. The course is based on the concept of grammar of graphics which is considered as a paradigm shift in the world of data analytics. GGPLOT2 package is built on this concept and that's why it is essential to master ggplot2 to experience the power of R. <br>At the end of this course you will be able to use ggplot functions to create complex graps by creating layers of aesthetics, geometry and data. You will also be able to customize your graph scales, coordinate systems, legend, background themes etc. <br>You will also learn to create Facet visualizations, Heatmaps, Time series graphs, bar plots, histograms, area plots, textplots, boxplots, ribbon diagrams, segments, rectange diagrams, jitter plots, smooth lines, violin plots to name a few. <br>This course is quite intensive with 51 lectures. This course is going to be constantly updated with new lectures on real life case studies, new tips and tricks, ggplot2 package updates, news, cheatsheets, FAQ's etc. So, JOIN me for an awesome journey to exploring the power of R ggplot2 for creating mind-blowing visualizations with granular control over your graphs!</p>", 
+    "end_date": null, 
+    "title": "GGPLOT2 R Package - Master Data Visualization in R", 
+    "price": "20.00", 
+    "instructors": "Anil Ugle", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/830636_73ec_3.jpg", 
+    "course_url": "https://www.udemy.com/ggplot2-r-package-master-data-visualization-using-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-24T14:36:00Z"
+}

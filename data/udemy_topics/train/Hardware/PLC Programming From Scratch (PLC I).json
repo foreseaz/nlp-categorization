@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t  This course is designed to equip the novice with no prior PLC programming experience with the basic tools necessary to create a complete PLC program using ladder logic common to most current platforms.  </p>  <p style=\"\">  \t  Using the Rockwell software RSLogix 500 and FactoryTalk View Studio, we will be covering such topics as general controls, digital and analog IO, ladder logic programming, alarm / notification handling, HMI, emulation, best practices and more.  </p>  <p style=\"\">  \t  In the end, we will go through an entire, working PLC program and HMI line by line to solidify comprehension of the learning objectives.  </p>", 
+    "end_date": null, 
+    "title": "PLC Programming From Scratch (PLC I)", 
+    "price": "50.00", 
+    "instructors": "Paul Lynn", 
+    "commitment": "21 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/118042_251a_11.jpg", 
+    "course_url": "https://www.udemy.com/plc-programming-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-11T06:17:58Z"
+}

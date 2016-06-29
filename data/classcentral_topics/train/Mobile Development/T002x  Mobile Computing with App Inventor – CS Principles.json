@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Learn to use the open development tool, App Inventor, to program on Android devices. You will learn how to design and build mobile apps -- apps that are aware of their location, send and receive text messages, and give advice and directions. The only limit on the types of apps you will learn to build is your own imagination!\n\nHowever, computer science is not just about coding and building apps. We will also learn some of  the fundamental principles of computer science. We'll learn about the potential and the limitations of computing and coding. We'll learn how the Internet works and about the positive and negative aspects of computing in today's society, and much more!\n\nFor these broader computing concepts we will work within an emerging curricular framework -- the Computer Science Principles (CSP). The CSP framework is being developed by leading computer science educators from around the country under the auspices of the College Board and with funding support of the National Science Foundation.\n\nIn addition to programming and CSP the course is project-based and emphasizes writing, communication, and creativity. Multiple-choice questions, in the style that students can expect to encounter on the AP exam, will also be a key component of this course.\n\n                                    ", 
+    "end_date": "2015-11-30T00:00:00Z", 
+    "title": "T002x: Mobile Computing with App Inventor – CS Principles", 
+    "price": 0, 
+    "instructors": "Ralph A. Morelli", 
+    "institution_name": [
+        "The University of Warwick"
+    ], 
+    "commitment": "8 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.edx.org/course/mobile-computing-app-inventor-cs-trinityx-t002x", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2015-10-19T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">    Actualiza tus conocimientos y mejora tu productividad como desarrollador incorporando Angular.Js en tus proyectos. Esta librería apoyada por Google es el framework de frontend más utilizado en Silicon Valley!  </strong>  </p>  <p style=\"\">  \t                                        En este curso aprenderás desde cero cómo usar <strong style=\"\">Angular.JS</strong> de manera que puedas crear aplicaciones web más amigables para el usuario, <strong style=\"\">Single-Page Applications</strong> (SPA) que es la nueva forma de trabajar, y sitios web interactivos.  </p>  <p style=\"\">  \t                                        El formador del curso es <strong style=\"\">Pablo Farías Navarro</strong>, fundador de <strong style=\"\">ZENVA</strong> e instructor Best-Seller de Udemy, con <strong style=\"\">más de 50.000 alumnos</strong> de todo el mundo y <strong style=\"\">cientos de calificaciones positivas</strong> (4 y 5 estrellas).  </p>  <p style=\"\">  \t                                        En este curso aprenderás:  </p>  <ul style=\"\">  \t<li style=\"\">Cómo utilizar Angular desde cero para ahorrar tiempo, mejorar tu productividad y entregar a tus usuarios una mejor experiencia.</li>  \t<li style=\"\">Crearemos una SPA desde cero.</li>  \t<li style=\"\">Cómo conectar tu SPA a la nube, de forma totalmente agnóstica.</li>  \t<li style=\"\">Obtén acceso al código fuente de la SPA y ejemplos en tu navegador al final de cada lección.</li>  \t<li style=\"\">Aprende la arquitectura de una SPA: controladores, módulos, servicios, vistas y rutas.</li>  \t<li style=\"\">Aprende a crear rutas de URL con Angular.JS</li>  \t<li style=\"\">Utilizaremos Angular 1.3.2</li>  \t<li style=\"\">Además, utilizaremos otras librerías como Bootstrap y UnderscoreJS en el proyecto, para que las empieces también a utlilizar en tus proyectos.</li>  </ul>  <p style=\"\">  \t<strong style=\"\">Aumenta tu productividad y valoración en el mercado laboral utilizando Angular.JS en tus proyectos existentes y en tus nuevos proyectos. Te espero en el curso :)</strong>  </p>", 
+    "end_date": null, 
+    "title": "Angular.js Desde Cero, Aprende Creando una APP Web", 
+    "price": "30.00", 
+    "instructors": "Pablo Farias Navarro", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/342056_a771.jpg", 
+    "course_url": "https://www.udemy.com/curso-angularjs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-12T04:34:34Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Swift 2.0 Quickly is designed to cover the features introduced in new version of the Swift language. Swift 2.0 is a major leap forward from its predecessor Swift 1.0. It is recommended that students have familiarity with the iOS framework and the Swift language before taking this course. </p><p>Swift 2.0 Quickly is not a comprehensive course on Swift language but only covers the new features in Swift 2.0 version. The course is designed to be short and concise and can be watched in under 2 hours. </p><p>Swift is the Apple's preferred language of choice and now more and more companies are utilizing the power and simplicity of the Swift language in their applications. Swift 2.0 Quickly will get you one step closer to making your next big app! </p>", 
+    "end_date": null, 
+    "title": "Swift 2.0 Quickly", 
+    "price": "45.00", 
+    "instructors": "Mohammad Azam", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/679388_6cad_2.jpg", 
+    "course_url": "https://www.udemy.com/swift-2-quickly/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-24T12:26:20Z"
+}

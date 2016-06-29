@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>Html5&#039;in gelişmesi ve mobil cihazlarda desteğin artması üzerine, web animasyon programları hızla gelişmektedir. Flash player, mobil cihazlarda uzun zamandır bulunmuyor. Bu açığı html5 ile web animasyon programları kapatmaktadır.</span>  </p>  <p>  \tBu eğitim içerisinde, html5,css3 ve javascript tabanlı web animasyonu yapabilen Adobe Edge Animate&#039;i kullanmayı öğreneceksiniz.  </p>  <ul>  \t<li><span>Egde Animate&#039;e mükemmel bir başlangıç yapacaksınız.</span></li>  \t<li><span>Çizim araçları, filtreler, transform araçlarını öğreneceksiniz.</span></li>  \t<li><span>Timeline kullanımı, css efektlerini, ease ve path animasyon yapısını öğreneceksiniz.</span></li>  \t<li><span>Etkileşim için olay yapısını ve kullanmayı öğreneceksiniz.</span></li>  \t<li><span>En güçlü özelliklerinden olan sembol yapısı, avantajları ve kullanımını öğreneceksiniz.</span></li>  \t<li><span>Timeline kontrolü için javascript yazmayı öğreneceksiniz.</span></li>  </ul>", 
+    "end_date": null, 
+    "title": "Edge Animate Başlarken", 
+    "price": "20.00", 
+    "instructors": "Ersin Sengul", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/373926_55ea_2.jpg", 
+    "course_url": "https://www.udemy.com/edge-animate-baslarken/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-19T13:51:04Z"
+}

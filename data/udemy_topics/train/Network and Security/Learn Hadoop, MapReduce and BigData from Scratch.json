@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t Modern companies estimate that only 12% of their accumulated data is analyzed, and IT professionals who are able to work with the remaining data are becoming increasingly valuable to companies. Big data talent requests are also up 40% in the past year. <br style=\"\">  \t<br style=\"\">  \t Simply put, there is too much data and not enough professionals to manage and analyze it. This course aims to close the gap by covering MapReduce and its most popular implementation: Apache Hadoop. We will also cover Hadoop ecosystems and the practical concepts involved in handling very large data sets. <br style=\"\">  </p>  <p style=\"\">  \t <strong style=\"\"> Learn and Master the Most Popular Big Data Technologies in this Comprehensive Course. </strong><br style=\"\">  </p>  <ul style=\"\">  \t<li style=\"\">Apache Hadoop and MapReduce on Amazon EMR</li>  \t<li style=\"\">Hadoop Distributed File System vs. Google File System</li>  \t<li style=\"\">Data Types, Readers, Writers and Splitters</li>  \t<li style=\"\">Data Mining and Filtering</li>  \t<li style=\"\">Shell Comments and HDFS</li>  \t<li style=\"\">Cloudera, Hortonworks and Apache Bigtop Virtual Machines</li>  </ul>  <p style=\"\">  \t <strong style=\"\"> Mastering Big Data for IT Professionals World Wide </strong><br style=\"\">  \t Broken down, Hadoop is an implementation of the MapReduce Algorithm and the MapReduce Algorithm is used in Big Data to scale computations. The MapReduce algorithms load a block of data into RAM, perform some calculations, load the next block, and then keep going until all of the data has been processed from unstructured data into structured data.  </p>  <p style=\"\">  \t IT managers and Big Data professionals who know how to program in Java, are familiar with Linux, have access to an Amazon EMR account, and have Oracle Virtualbox or VMware working will be able to access the key lessons and concepts in this course and learn to write Hadoop jobs and MapReduce programs.  </p>  <p style=\"\">  \t This course is perfect for any data-focused IT job that seeks to learn new ways to work with large amounts of data.  </p>  <p style=\"\">  \t <strong style=\"\"> Contents and Overview </strong><br style=\"\">  \t In over 16 hours of content including 74 lectures, this course covers necessary Big Data terminology and the use of Hadoop and MapReduce.  </p>  <p style=\"\">  \t This course covers the importance of Big Data, how to setup Node Hadoop pseudo clusters, work with the architecture of clusters, run multi-node clusters on Amazons EMR, work with distributed file systems and operations including running Hadoop on HortonWorks Sandbox and Cloudera.  </p>  <p style=\"\">  \t Students will also learn advanced Hadoop development, MapReduce concepts, using MapReduce with Hive and Pig, and know the Hadoop ecosystem among other important lessons.  </p>  <p style=\"\">  \t Upon completion students will be literate in Big Data terminology, understand how Hadoop can be used to overcome challenging Big Data scenarios, be able to analyze and implement MapReduce workflow, and be able to use virtual machines for code and development testing and configuring jobs.  </p>", 
+    "end_date": null, 
+    "title": "Learn Hadoop, MapReduce and BigData from Scratch ", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "17 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/221732_dd08_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-hadoop-mapreduce-and-bigdata-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-18T05:14:06Z"
+}

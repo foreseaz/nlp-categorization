@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \tIl corso, di <strong>più di 4 ore di videotutorial</strong>, è rivolto a chi ha una conoscenza di base dell'interfaccia e degli strumenti di <strong>Blender 3D e Cycles</strong> e desidera approfondire le tecniche realizzando, nel mentre, un progetto pratico; si tratta quindi di un vero e proprio <strong>workshop di modellazione e rendering</strong>, in quanto verranno mostrate varie tecniche e trucchetti che potranno essere riutilizzati in altri contesti.  </p><p>Verranno mostrate alcune tecniche di <strong>modellazione hard surface</strong> per realizzare i vari elementi della cucina, partendo in alcuni casi da immagini di riferimento o misure precise; tecniche di <strong>uv unwrapping</strong> e <strong>texturing </strong>sulle superfici delle mesh, utilizzando vari ombreggiatori (incluso il nuovo <strong>Anisotropic </strong>di Cycles) per realizzare i materiali degli oggetti.<br></p>", 
+    "end_date": null, 
+    "title": "Modellare e renderizzare una cucina in Blender 3D e Cycles", 
+    "price": "20.00", 
+    "instructors": "Francesco Milanese", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/351838_3133_2.jpg", 
+    "course_url": "https://www.udemy.com/modellare-e-renderizzare-una-cucina-in-blender-3d-e-cycles/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-20T12:24:12Z"
+}

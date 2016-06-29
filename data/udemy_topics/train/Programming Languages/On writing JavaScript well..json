@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  It&#039;s one thing to create code, it&#039;s another to create code that&#039;s aesthetically pleasing. And pleasing not just in visual appreciation but also the how the design of the code contributes toward the purpose of creating value for users. With thoughtful consideration, it&#039;s possible to decompose the notion of beauty, or good versus bad code, into a set of characteristics that can be used to evaluate alternative styles of code. Code itself is like art, it&#039;s subjective. With the right context and a mutual appreciation of consistency, you can create beautiful code.  </p>  <p style=\"\">  \t  Words can&#039;t describe what I can show, watch the free introduction (below) to understand more about what you&#039;ll take away from this course.</p>", 
+    "end_date": null, 
+    "title": "On writing JavaScript well.", 
+    "price": "20.00", 
+    "instructors": "Wes Higbee", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/392272_dcc8_3.jpg", 
+    "course_url": "https://www.udemy.com/javascript-aesthetics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-12T17:57:42Z"
+}

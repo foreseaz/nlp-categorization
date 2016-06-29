@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>All course examples are coded and tested under PHP5. </strong></p><p><strong>We GUARANTEE all course example codes will work perfectly under PHP5.</strong></p><p><br></p><p>This course is developed by OnlyKiosk and belongs to the black belt level.</p><p>In this course, you will learn four graphic techniques and build four apps that can be installed onto your dynamic website immediately.</p><ol><li>The four techniques are:</li><li>how to create a verification code,</li><li>how to add watermark to a picture,</li><li>how to crop a picture and how to scale down a picture to make a thumbnail.</li></ol><p>The goal of this course is to <strong>enable you</strong> to code the four apps <strong>all by yourself</strong>.</p><p>You will learn what kind of functions you will need and how to use those functions.</p><p>You will also learn how to design those apps and most importantly, how to <strong>code the four apps by yourself</strong>.</p><p>This course is <strong>more than</strong> a demonstration of how to create those four apps, our goal is to enable you to create those four apps all by yourself so that <strong>you can create the app that fits your demand the best.</strong></p>", 
+    "end_date": null, 
+    "title": "PHP Graphic Techniques: CAPTCHA/ Create a verification code", 
+    "price": 0, 
+    "instructors": "OnlyKiosk Tech", 
+    "commitment": "43 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/639848_1a70.jpg", 
+    "course_url": "https://www.udemy.com/php-graphic-techniques-captcha-watermark-crop-thumbnail/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-14T00:14:13Z"
+}

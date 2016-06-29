@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t La programación orientada a objetos te permitirá llevar a PHP a su máxima capacidad, y hacer proyectos enormes y fáciles de mantener. En este curso aprenderás desde los conceptos básicos de la programación orientada a objetos hasta realizar una aplicación completa desarrollada bajo este paradigma. revisaremos puntos muy importantes como clase, función constructora, instancia, getters y setter.  </p>  <p style=\"\">  \tTambién haremos una función para conectarnos a una base de datos, en este caso a MySQL, pero sería muy sencillo que se cambiara a otro tipo de bases, como Sqlite.  </p>  <p style=\"\">  \tEn la siguiente sección escribiremos una clase par administrar las sesiones y hacer una conocida página como &quot;Login&quot; y manejar las variables de sesión en cada una de las páginas.  </p>  <p style=\"\">  \tEn la sección final realizaremos un sistema sencillo completamente desarrollado con programación orientada a objetos, para repasar todos los conceptos del curso.  </p>", 
+    "end_date": null, 
+    "title": "Introducción a la programación orientada a objetos con PHP", 
+    "price": "20.00", 
+    "instructors": "Francisco Javier Arce Anguiano", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/225170_e177_3.jpg", 
+    "course_url": "https://www.udemy.com/programacion-orientada-a-objetos-con-php-sin-dolor/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-21T14:05:30Z"
+}

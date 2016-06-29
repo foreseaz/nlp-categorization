@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    In this course, instructor Alan Thorn gives a comprehensive introduction to Blender for Game Artists.  Here, Alan will show you how to get up and running in Blender for creating animated in-game models even if you're a complete newbie! In the earlier volumes, you will be learning a range of topics that include: Blender (and 3d software) basics, primitive creation, 3D space coordinates, loading in reference material, and basic mesh manipulation.  </p>  <p>  \t  By the end of the course, you'll start to feel like a game-art pro as you begin to learn and understand the concepts of UV unwrapping for textures, asset rigging for animation, animation creation, mesh exporting, and game integration as you add your asset to Unity! If you've ever wanted to learn 3d from the ground up with a completely free software, this course is for you!  </p>  <p>  \t    <strong>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</strong>  </p>  <hr>  <p>  \t<u><strong>More about the Instructor:</strong></u>  </p>  <p>  \t    Alan Thorn is a freelance game developer and author with over 12 years of industry experience. He is the founder of London-based game studio, Wax Lyrical Games, and is the creator of award-winning adventure game Baron Wittard: Nemesis of Ragnarok. He has worked freelance on over 500 projects worldwide including games, simulators, kiosks, and augmented reality software for game studios, museums and theme parks. He has spoken on game development at universities throughout the UK, and is the author of nine books on game development, including Teach Yourself Games Programming, Unity 4 Fundamentals and the highly popular UDK Game Development.  </p>", 
+    "end_date": null, 
+    "title": "Intro to 3d Modeling Using Blender", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/349078_c9e2.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-intro-to-3d-modeling-using-blender/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-18T04:35:22Z"
+}

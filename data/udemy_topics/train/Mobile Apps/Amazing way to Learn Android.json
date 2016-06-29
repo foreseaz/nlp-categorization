@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Welcome to Android application development!</p><p>This class teaches you how to build your first Android app. You&#039;ll learn how to create an Android project and run a debuggable version of the app. You&#039;ll also learn some fundamentals of Android app design, including how to build a simple user interface and handle user input.</p><p>Although most of this training class expects that you&#039;re using Android Studio, some procedures include alternative instructions for using the SDK tools from the command line instead.</p><p>This class uses a tutorial format to create a small Android app that teaches you some fundamental concepts about Android development, so it&#039;s important that you follow each step.</p><p><strong style=\"\">What will I learn:</strong></p><ul style=\"\"><li>Installing the SDK</li><li>Intelligent code editor</li><li>Creating an Android Project</li><li>Running Your App</li><li>Building a Simple User Interface</li><li>Action Bar</li><li>Activity Lifecycle</li><li>Interacting with Other Apps</li><li>and much more...</li></ul><p><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Amazing way to Learn Android", 
+    "price": "20.00", 
+    "instructors": "New Boston Academy", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/482158_07b6.jpg", 
+    "course_url": "https://www.udemy.com/androiddev/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-21T14:04:11Z"
+}

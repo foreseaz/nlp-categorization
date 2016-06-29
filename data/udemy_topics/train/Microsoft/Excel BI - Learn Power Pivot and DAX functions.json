@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>Power Pivot is an Excel add-in, available in Excel 2010 and certain versions of Excel 2013. You can use Power Pivot, with its own DAX functions to perform powerful data analysis and create sophisticated data models. With Power Pivot, you can mash up large volumes of data from various sources, perform information analysis rapidly, and share insights easily.</p><p><strong style=\"\">LEARN HOW SET UP POWERPIVOT REPORTS AND CHARTS AND MASTER DAX FUNCTIONS USED TO PERFORM POWERFUL CALCULATIONS AND ANSLYSIS.</strong></p><p>MICROSOFT&#039;S EXCEL, WHICH INCLUDES POWER PIVOT, IS NOW PART OF A BI SYSTEM. IF YOU WANT TO IMPROVE YOUR EXCEL SKILLS FAR BEYOND THE BASIC LEVEL THEN THIS COURSE IS FOR YOU</p><p><strong style=\"\">CONTENTS AND OVERVIEW</strong></p><p>In section one of this course we will start at the very basics and learn how to set up and import data to Power Pivot. In this section you will find sample data to download, so you can practice along.</p><p>Section two and three will cover the basic elements of Power Pivot such as tables, table relationships, calculated columns slicers and measures.</p><p>Once we are working well with these basic&#039;s we are going to power things up using DAX functions. DAX functions such as the Calculate function and filter and distinct will give you greater debt to your analysis.</p><p>Finally we will look in detail at the Time intelligence functions Power Pivot has to offer.</p><p><strong style=\"\">Who Should Attend?</strong></p><p>This course is suited to those with an interest in Excel, Data Analyst&#039;s, Data Mining, BI, Reporting and Pivot tables and is well suited for Accountants, Auditors, Internal Auditors, Business Analysts, Finance staff, Banking staff, Management and those involved with Compliance and Risk assessment and BI.</p><p>• This course is meant for those involved in the Analysis of Data, Finance &amp; Accounting and Reporting roles.</p><p>• This course is not a traditional functions and formulas based course but instead this course covers Excels Add in Power Pivot and is own function language DAX</p><p>• This course is suited to those with an interest in Excel, Fraud and Audit and is well suited for Accountants, Auditors, Internal Auditors, Business Analysts, Finance staff, Banking staff, Management and those involved with Compliance and Risk assessment and BI.</p><p>• This course is for you if you are looking to learn advanced Excels functions.</p><p>• This course is not for you if you are new to Excel.</p>", 
+    "end_date": null, 
+    "title": "Excel BI - Learn Power Pivot and DAX functions", 
+    "price": "30.00", 
+    "instructors": "Paula Guilfoyle", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/56032_1918_10.jpg", 
+    "course_url": "https://www.udemy.com/power-pivot-for-the-excel-user/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-05-23T15:42:23Z"
+}

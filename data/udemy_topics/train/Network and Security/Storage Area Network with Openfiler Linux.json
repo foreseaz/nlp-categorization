@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this course we will talk about storage concepts and we will learn <strong>step by step</strong> how to build a free <strong>ISCSI Storage Area Network </strong>with<strong> openfiler</strong>.    </p><p>  \t  By the end of this course you'll have a good knowledge about <strong>Storage Area Network</strong> and you will be able to implement the <strong>ISCSI Storage Area Network </strong>in a lot of projects.  </p>  <p>  \t                                          You need no prior knowledge to benefit from this course. You will be guided step by step using a logical and systematic approach.  </p>  <p>  \t                                          Here is what you will learn by taking <strong>Storage Area Network with Openfiler Linux</strong></p>  <ul>  \t<li>Introduction about storage technologies </li><li>Storage Area Network Vs Network Attached Storage</li>  \t<li> How to install<strong> Openfiler Linux system</strong></li>  \t<li>Discover <strong>features,menus and functions</strong> of each button in the <strong>management page</strong></li>  \t<li>How to <strong>configure storage devices</strong> </li>  \t<li>How to <strong>create LUN and assign it to host</strong> </li>  \t<li><strong>ISCSI concept </strong>( ISCSI-Target &amp; Initiator ) </li>  \t<li>Basic <strong>concept of LVM</strong> </li>  \t<li><strong>Backup &amp; Restore</strong> system configurations </li>  \t<li><strong>Demo from scratch to build ISCSI Storage Area Network</strong><strong></strong></li>  \t<li>How to add more <strong>protection </strong>layer by using <strong>RAID</strong> </li>  </ul>  <p>  \t<strong>watch to understand &amp; apply excersies to learn  \t</strong>  </p>", 
+    "end_date": null, 
+    "title": "Storage Area Network with Openfiler Linux ", 
+    "price": "20.00", 
+    "instructors": "Muhamad Elkenany", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/302312_ff7b_5.jpg", 
+    "course_url": "https://www.udemy.com/build-your-own-san-storage/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-17T19:08:13Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Hello there!, thanks for stopping by. This course is about DotNetNuke development (DNN website development). In this course, you will learn in details how to create a DNN Module and how to create a Data Access Layer (DAL) to save and retrieve data. Also, you will learn how to add Web API to your site so you can allow data exchange. Also, creating Scheduled Tasks inside the DNN so you can create a recurring tasks.</p>\n\n<p>This course will have captions so you can understand the talking well. Also, if you want a translation for your language please let me know and I will try to provide a decent one.</p>", 
+    "end_date": null, 
+    "title": "DotNetNuke Development Made Easy For ASP.NET Developers!", 
+    "price": "20.00", 
+    "instructors": "Amr Swalha", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/763610_e8dd_2.jpg", 
+    "course_url": "https://www.udemy.com/dotnetnuke-development-made-easy/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-15T21:16:14Z"
+}

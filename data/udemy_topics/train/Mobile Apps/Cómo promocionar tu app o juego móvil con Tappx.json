@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>En este curso aprenderemos a integrar Tappx para iOS con Swift. </p>\n\n\n\n\n\n<p><strong>¿Qué es Tappx?</strong></p>\n\n\n\n\n\n<p>Tappx es una gran comunidad de desarrolladores y publishers de apps de todo el mundo. En ella, sus miembros intercambian anuncios para promocionar de forma gratuita su app. Gracias a su plataforma, se pueden obtener instalaciones de más de 10.000 desarrolladores de apps de más de 130 países en todas las categorias: juegos, fotos, estilo de vida, productividad... </p>\n\n<ul><li>Consigue instalaciones para tu app y disminuye tus costes de adqusición.</li><li>Promociona tu app en países específicos</li><li>100 % Fill Rate nunca te quedarás sin inventario.</li></ul>\n<p><br></p><p>En este curso aprenderemos a:<br></p>\n\n\n\n<ul>\n<li>Registrarnos en el portal de Tappx y a incluir su SDK</li>\n<li>Hacer un puente entre el SDK en Objective-C y nuestra app en Swift</li><li>Solucionar problemas comunes de configuracion como el App Transport Security o los Linker Flags</li><li>Configurar un simple banner o interstitial en la app</li><li>Configurar campos opcionales como recargar la publicidad</li><li>Y todo ello en menos de una hora!</li>\n</ul><p>Si tienes alguna duda, el foro estará a tu disposición y yo mismo resolveré los problemas que puedan salirte. Además, tienes 30 días de garantía de devolución, por tanto si no te gusta el curso, Udemy te devolverá el 100% de tu dinero.</p><p>¿A qué esperas? ¡Nos vemos en clase!</p>", 
+    "end_date": null, 
+    "title": "Cómo promocionar tu app o juego móvil con Tappx", 
+    "price": "20.00", 
+    "instructors": "D. Juan Gabriel Gomila Salas", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/879926_6a21_2.jpg", 
+    "course_url": "https://www.udemy.com/tappx-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-16T11:49:51Z"
+}

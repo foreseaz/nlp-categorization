@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   Welcome to the <em style=\"\">MyAppTemplates</em> complete guide to setting up a Parse backend and integrating it into an Android Chat app template, similar to What&#039;s App or Viber.  </p>  <p style=\"\">  \t   This is a short 7 lesson overview course, for beginner-intermediate developers with some experience with Java programming and Eclipse IDE.  </p>  <p style=\"\">  \t   Each lesson is between 5-15 minutes long, starting with an overview of Parse and the existing code on the Android Chat template provided.  It&#039;s not a &#039;start-from-scratch&#039; course, it is for people who have an app template already (we provide a free one!) and who would like to add a simple backend API to it.  </p>  <p style=\"\">  \t   In the course we&#039;ll be setting up a free Parse account, creating the backend classes for our Chat app in Parse, and then integrating the Parse API into our Android Eclipse app template.  </p>  <p style=\"\">  \t   It&#039;s 7 short lessons, and at the end you should have a simple Android Chat app up and running.  </p>", 
+    "end_date": null, 
+    "title": "Integrating Parse into an Android Chat app template", 
+    "price": 0, 
+    "instructors": "My App Templates", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/302688_7bb3_2.jpg", 
+    "course_url": "https://www.udemy.com/integrating-parse-into-an-android-chat-app-template/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-18T05:08:50Z"
+}

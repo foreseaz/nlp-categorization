@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t      Android 5.0, also known as Lollipop, brings many new features and capabilities to Android powered mobile devices.    \t  \t       Lollipop has a more polished design, improved performance, and a TON of new features.   \t  \t<em style=\"\">In fact, with this release, in many ways Google has caught up and far exceeded the Apple&#039;s iOS 8 mobile platform.</em>   \t  \t<strong style=\"\">The most visible change</strong> is the <strong style=\"\">new user interface</strong> and <strong style=\"\">Material theme</strong>, but there have been significant changes to -  </p>  <ul style=\"\">  \t<li style=\"\">notifications </li>  \t<li style=\"\">media </li>  \t<li style=\"\">3D graphics capabilities </li>  \t<li style=\"\">the storage system </li>  \t<li style=\"\">wireless connectivity </li>  </ul>  <p style=\"\">  \t      ... and a ton of more APIs (over 5000 new APIs have been introduced!)  </p>  <p style=\"\">  \t  \t      With the new <strong style=\"\">Material design style</strong> and user interface  updates, developers can take advantage of shadows on views and control  their height (z-level), and use drawable animations and activity  transition effects to give the user a more active experience.    \t  \t<strong style=\"\">XML vector graphics</strong> can now be drawn directly into drawables, and UI controls can be fully customized to suit your needs.    \t  \t       Lollipop also now supports the <strong style=\"\">Khronos OpenGL-ES 3.1 standard</strong>, allowing 3D graphics developers to take full advantage of that toolset.    \t  \t       There is also an Android <strong style=\"\">extension pack for OpenGL-ES</strong> that guarantees fragment shader support, and adds geometry shaders and tessellation.    \t  \t       The <strong style=\"\">new camera APIs</strong> can be used to detect devices and  their capabilities, selecting among them from within your app. There are  over 60 capabilities for cameras defined in the API, which allows for  very fine-grained selection of the proper camera for every need.    \t  \t       Lollipop also adds the <strong style=\"\">MediaSession and MediaController class</strong> for better control of media playback and simplified media browsing.    \t  \t<strong style=\"\">Apps can now scan</strong> and select among all available networks, and devices can now function as Bluetooth peripherals.    \t  \t       There are also expanded capabilities for <strong style=\"\">near field communication (NFC)</strong>.   \t  \t       All that said, with Android Lollipop, developers have many more choices and powerful capabilities at their fingertips!  </p>  <p style=\"\">  \t<strong style=\"\">What You Will Learn</strong>  </p>    <p style=\"\">  \t      This course is an update to EDUMobile&#039;s Android Development course, but can also be used by working developers to get a quick  overview of the new APIs in Android Lollipop.    \t  \t       You get - approximately 5 hours of High Quality Video Training, Source Code, Workbooks and Exercises taught over 5 Sequential Units.  </p>  <p style=\"\">  \t<strong style=\"\">[Section 1]</strong> Gives a small overview of the course with introduction.  </p>  <p style=\"\">  \t<strong style=\"\">[Section 2]</strong> Presents some of  the important features of the new Material theme and user interface.  We&#039;ll look at two new controls that help organize and display lists of  data, as well.    </p>  <p style=\"\">  \t<strong style=\"\">[Section 3] </strong>Covers the improvements in media playback as well as an introduction to the new camera APIs.    </p>  <p style=\"\">The material in the course is presented at a very high level by  necessity, and will help you get started with the essential concepts you  need to know in the Android Lollipop 5.0 </p><p style=\"\">  \t  \t       If you&#039;re a mobile developer, and you&#039;ve wondered what this new Google Lollipop tastes like - this is a perfect start!  </p>", 
+    "end_date": null, 
+    "title": "Android 5.0 Lollipop - Essential Training", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/365664_e91b_4.jpg", 
+    "course_url": "https://www.udemy.com/android-50-lollipop-essential-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-08T07:55:13Z"
+}

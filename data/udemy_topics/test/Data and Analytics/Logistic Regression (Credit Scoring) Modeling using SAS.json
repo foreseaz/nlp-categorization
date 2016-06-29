@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\">  \t <strong style=\"\"><span style=\" color:red;\"> What is this course all about?</span></strong>  </p>  <p style=\"\">  \t     This course is all about credit scoring / logistic regression model building using SAS. It explains  </p>  <p style=\"\">  \t     There course promises to explain concepts in a crystal clear manner. It goes through the practical issue faced by analyst. Some of the discussion item would be  </p>  <ul style=\"\">  \t<li style=\"\">How to clarify objective and ensure data sufficiency?</li>  \t<li style=\"\">How do you decide the performance window?</li>  \t<li style=\"\">How do you perform data treatment</li>  \t<li style=\"\">How to go for variable selection? How to deal with numeric variables and character variables?</li>  \t<li style=\"\">How do you treat multi collinerity scientifically?</li>  \t<li style=\"\">How do you understand the strength of your model?</li>  \t<li style=\"\">How do you validate your model?</li>  \t<li style=\"\">How do you interpret SAS output and develop next SAS code accordingly?</li>  \t<li style=\"\">Step by step workout - model development on an example data set</li>  </ul>  <p style=\"\">  \t <strong style=\"\"><span style=\" color:red;\">What kind of material is included?</span></strong>  </p>  <p style=\"\">  \t     It consists of video recording of screen (audio visual screen capture), pdf of presentations, Excel data for workout, word document containing code and Excel document containing step by step model development workout details  </p>  <p style=\"\">  \t <strong style=\"\"><span style=\" color:red;\">How long the course will take to complete?</span></strong>  </p>  <p style=\"\">  \t     Approximately 30 hours  </p>  <p style=\"\">  \t <strong style=\"\"><span style=\" color:red;\">How is the course structured?</span></strong>  </p>  <p style=\"\">  \t     It has seven sections, which step by step explains model development  </p>  <p style=\"\">  \t<span style=\" color:red;\"><strong style=\"\">     Why Take this course? </strong></span>  </p>  <p style=\"\">  \t     The course is more intended towards students / analytics professionals to  </p>  <ul style=\"\">  \t<li style=\"\">Get crystal clear understanding</li>  \t<li style=\"\">Get jobs in this kind of work by clearing interview with confidence</li>  \t<li style=\"\">Be successful at their statistical or analytical profession due to the quality output they produce</li>  </ul>", 
+    "end_date": null, 
+    "title": "Logistic Regression (Credit Scoring) Modeling using SAS", 
+    "price": "50.00", 
+    "instructors": "Gopal Prasad Malakar", 
+    "commitment": "16 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/215104_bb3d_5.jpg", 
+    "course_url": "https://www.udemy.com/logistic-regression-credit-scoring-modelling-using-sas/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-11T01:47:52Z"
+}

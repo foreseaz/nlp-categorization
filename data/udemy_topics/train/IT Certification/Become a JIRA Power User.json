@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t                   JIRA is an awesome issue tracker that can be used to achieve visibility on a wide variety of items. This course covers everything JIRA has to offer for regular users. By the time you are done with this course, you will have become a JIRA Power User.  </p>  <p>  \t                   I&#039;ve been giving this training course for years to people ranging from people who had never used JIRA before to people with several years of JIRA experience, and everyone learned a great deal.  </p>  <p>  \t<strong>What&#039;s a JIRA Power User?</strong>  </p>  <p>  \t                   You become a JIRA Power User when you know exactly what you can get out JIRA and how to get it as fast as possible. You understand how the tool works and you know how to leverage its strengths and how to go around its weaknesses.  </p>  <p>  \t                   But ultimately, for me a JIRA Power User is someone who knows how to <u>Create Awesome Dashboards</u> by knowing how <u>Leverage Search Filters</u>. They <u>Use Keyboard Shortcuts</u> to navigate very quickly in JIRA.  </p>  <p>  \t<strong><strong>First Things First</strong></strong>  </p>  <p>  \t       Of course, before you can fly, you have to learn how to run, and also you have to learn how to walk. Let me be guide your guide as we&#039;ll start by a nice <u>Introduction to JIRA</u> as we&#039;ll lay the foundation to your future awesome. We&#039;ll look at the core concepts of JIRA: Project and Issues, and understand exactly the relationship between the two. Then we&#039;ll see <u>How to Create a JIRA Issue</u>, which will lead us to the <u>JIRA Issue Interface Deep-dive</u> where we&#039;ll look at the Issue interface and see every issue action available. This section also includes easy to use <u>Patterns for Creating Amazing Comments for JIRA Issues</u>, comments that include links, mention other users, and even embed images.  </p>  <p>  \t     JIRA is all about Projects and Issues, sure, but there&#039;s another important piece to the puzzle. I&#039;m about <u>JIRA Workflows</u>. Of course we&#039;ll talk about workflows and see exactly what your role is as a JIRA User.  </p>  <p>  \t      Now you know how to walk. Nice job...so far.  </p>  <p>  \t<strong>Time to go pro on JIRA</strong>  </p>  <p>  \t     Once you understand the basics, we&#039;ll be ready to get serious. We&#039;ll learn <u>How to Use the JIRA Search Engine</u>. Actually, I&#039;m short-selling this... We&#039;ll learn <u>How to Use All Three JIRA Search Engines</u>. Oh yes, JIRA has no less than three search engines and you will learn to get most out of each one.  </p>  <p>  \t     Searching is obviously very important, but let&#039;s not forget the actual search results. In JIRA, those results are displayed in the Issue Navigator and you will learn <u>How to Customize the JIRA Issue Navigator</u>. I&#039;m talking about customizing columns, exporting results to Excel, and <u>How to Update Several JIRA Issues at Once</u>.  </p>  <p>  \t<strong> JIRA Dashboards, Serious Business</strong>  </p>  <p>  \t   This is the part where you&#039;ll put all the skills you&#039;ve recently acquired to good use. You&#039;ll learn How to <u>Create Awesome JIRA Dashboards</u> to display the information relevant for you and your teams.  </p>  <p>  \t<strong>My promise to you</strong>  </p>  <p>  \t   I&#039;ve worked as a professional JIRA consultant for years, developing my knowledge day by day, going back to the JIRA documentation as each new version came out. My promise to you is that I will share everything I know about using JIRA in this class. I will leave no stone unturned.  </p>  <p>  \t<strong>Technical Considerations</strong>  </p>  <p>  \t   This course has been recorded on a standard JIRA 6.3 Server instance. It is a &quot;Vanilla&quot; instance, meaning there are no extra plugins installed. Everything we cover is available to non-administrator JIRA Users.  </p>  <p>  \t<strong>This course is not for you if</strong>  </p>  <ul>  \t<li><span>You&#039;re looking to learn how to create JIRA workflows and setup screens</span></li>  \t<li><span>You&#039;re looking to learn how to use JIRA Agile or another JIRA plugin</span></li>  </ul>", 
+    "end_date": null, 
+    "title": "Become a JIRA Power User", 
+    "price": "50.00", 
+    "instructors": "Felix Martineau", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/351226_9735.jpg", 
+    "course_url": "https://www.udemy.com/become-a-jira-power-user/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-19T20:10:10Z"
+}

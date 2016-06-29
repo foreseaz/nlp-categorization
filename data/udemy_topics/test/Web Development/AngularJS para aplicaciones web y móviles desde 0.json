@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    AngularJS se ha convertido en el framework javascript más potente y usado para aplicaciones web y móviles que dependen fuertemente en el frontend. Hoy en día, conocer AngularJS es obligatorio para un programador web y móvil Senior.  </p>  <p>  \t      En este curso aprenderás:  </p>  <ul style=\"\">  \t<li>Introducción de AngularJS dentro de los frameworks javascript mvc del mercado</li>  \t<li>Controladores</li>  \t<li>Directivas</li>  \t<li>Filtros</li>  \t<li>Servicios</li>  \t<li>Enrutamiento</li>  \t<li>Introducción al desarrollo de aplicaciones móviles con AngularJS</li>  </ul>  <p>  \t      Este curso está dirigido a estudiantes y profesionales que desean aprender desde 0 como dominar este framework tan potente.  </p>  <p>  \tLeer la documentación de Angular desde la página web es bastante intimidante, puede llevarte días e incluso semanas entender el framework.  Este curso está organizado y preparado para que aprender Angular sea tan sencillo que al terminarlo, tengas la noción de que es muy fácil.<span> Verás lo rápido que es poner en marcha tu primera Single Page Application. Te convertirás en un amante de Angular como yo.</span>  </p>  <p>  \t      Enfoque del curso:  </p>  <ul style=\"\">  \t<li>Contenido estructurado desde la visión de un Freelance en activo</li>  \t<li>Al final del curso tendrás las herramientas necesarias para programar en AngularJS</li>  \t<li>Aporte personal del formador con ejemplos prácticos del mundo real</li>  </ul>", 
+    "end_date": null, 
+    "title": "AngularJS para aplicaciones web y móviles desde 0", 
+    "price": "20.00", 
+    "instructors": "Alejandro Rangel", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/327430_9aa3_4.jpg", 
+    "course_url": "https://www.udemy.com/angularjs-para-aplicaciones-web-y-moviles-desde-0/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-26T07:01:44Z"
+}

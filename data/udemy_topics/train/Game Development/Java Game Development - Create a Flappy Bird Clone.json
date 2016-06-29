@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>If you know anything about Java, you’ll know that it can be used in an almost endless number of ways. One of the most popular uses is for game development. Since gaming is a billion dollar industry and rising, there are plenty of exciting employment opportunities to be found. To get one of those coveted jobs however, you need to have the broadest skill set possible. A comprehensive understanding of Java game development is an excellent place to start.</p>  <p><strong>Learn the World’s Most Popular Programming Language</strong></p>  <ul><li>Learn Java and game development by creating a Flappy Bird clone</li><li>Customise your game and build a framework for other games</li><li>Improve your knowledge of object oriented programming</li><li>Grasp the most important concepts of game programming</li></ul>        <p><strong>Become a Java Script Expert</strong></p>  <p>The best way to learn a practical skill is by doing, and that’s exactly how this course works. You will focus on creating a clone of the popular Flappy Bird game, and along the way you’ll pick up everything you need to know about Java game development. </p>  <p>You’ll learn valuable concepts of games programming like effective game loops, loading resources onto your game, creating and customising windows, interfaces, games engines, and input handlers. Having completed the 28 lectures and 2 hours of content, you won’t just have developed a Flappy Bird game; you’ll have developed a solid framework that can be used for any 2D game. </p>  <p>This course has been designed with intermediate programmers in mind. You will need to be familiar with the Java programming language and comfortable with object oriented programming. If you are a complete beginner, we recommend starting off with one of our beginner level Java, game development or programming courses first. </p>  <p><strong>Tools Used</strong></p>  <p><strong>Netbeans IDE:</strong> Netbeans is a free, open source Integrated Development Environment written completely in Java and intended for development solely in Java (although it does support other languages such as PHP, C++ and HTML5). It is a cross platform IDE that runs on Windows, Mac, Linux and Solaris and has a worldwide community of users and developers. It allows users to quickly and easily develop all manner of desktop, mobile and web applications.</p>", 
+    "end_date": null, 
+    "title": "Java Game Development - Create a Flappy Bird Clone", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/635992_a278_2.jpg", 
+    "course_url": "https://www.udemy.com/java-game-development-create-a-flappy-bird-clone/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-09T16:57:58Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">HTML5 is a core technology markup language of the Internet used for structuring and presenting content for the World Wide Web. As of October 2014 <sup style=\"\">[</sup><sup style=\"\">update</sup><sup style=\"\">]</sup> this is the final and complete fifth revision of the HTML standard of the World Wide Web Consortium (W3C). The previous version, HTML 4, was standardised in 1997.</p><p style=\"\">In this tutorial you are going to learn all the basic fundamentals of html,</p><p style=\"\">In this tutorial you are going to learn:</p><ul style=\"\"><li style=\"\">Basic Tags to start</li><li style=\"\">Attributes</li><li style=\"\">Formatting Techniques</li><li style=\"\">Meta data</li><li style=\"\">Images</li><li style=\"\">Table Tags</li><li style=\"\">Working with Lists</li><li style=\"\">Different Links</li><li style=\"\">Blocks</li><li style=\"\">Frames and iFrames</li><li style=\"\">Working with color and fonts</li><li style=\"\">Building up Forms</li><li style=\"\">Marquee tags for scroll properties</li><li style=\"\">Embed tags for video and audio</li></ul><div style=\"\">All the topics are explained with practical example to understand the concepts better.</div><div style=\"\">No need to have prior knowledge on html or any programming knowledge. This course starts from the very basic explaining you everything about html and starts from how to install the text editor to coding using basic tags then move on to the advanced topics in html.<br style=\"\"></div>", 
+    "end_date": null, 
+    "title": "HTML5 : Complete HTML for beginners", 
+    "price": "20.00", 
+    "instructors": "DoEdu IT Educations", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/482834_4bd7_2.jpg", 
+    "course_url": "https://www.udemy.com/html-complete-html-course-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-22T03:30:22Z"
+}

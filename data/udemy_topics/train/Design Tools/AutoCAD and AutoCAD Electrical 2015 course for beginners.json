@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>This course can be taken, by students that had already AutoCAD or AutoCAD electrical with previous versions or the 2016 edition.</p><p>At the end of this course, you will be able to draw maps for all facilities, make electrical wiring for each map, and design an electrical panel that controls all the electrical installments of a facility. This course is dedicated for absolute beginners in any AutoCAD software.</p><p>You can subscribe to this course, so you can in the future, design your own house, and make all the installments for it.</p><p>We will start first with the basics, including work space environment, the quick access toolbar, project manager, status bar, object snaps, snaps and grids, working with infer constraints and orthogonal mode.</p><p>Then we will start with the basic drawings, like lines, polylines, circles, arcs, offset, chamfer, hatching and many other commands like mirror, scale, fillet, editing splines and arrays. We will learn about adding layers and how to manage them for printing purposes. In the next sections we will start with the electrical wiring and panels.</p>", 
+    "end_date": null, 
+    "title": "AutoCAD and AutoCAD Electrical 2015 course for beginners", 
+    "price": "20.00", 
+    "instructors": "Eng Ali Mehdy", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/670184_5fea_4.jpg", 
+    "course_url": "https://www.udemy.com/autocad-and-autocad-electrical-2015-course-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Design Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-15T07:16:37Z"
+}

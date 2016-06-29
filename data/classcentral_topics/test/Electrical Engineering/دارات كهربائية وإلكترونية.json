@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Electrical Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    \r\nيقدم مساق \" دارات كهربائية والكترونية\" مفهوم الهندسة ضمن سياق الدارات التجريدي المفعم. وتشمل الموضوعات التي يتم تناولها: عناصر وشبكات المقاومة؛ المصادر المستقلة وغير المستقلة؛ المفاتيح والترانزستورات MOS؛ التجريد الرقمي؛ مكبرات الصوت؛ عناصر تخزين الطاقة؛ ديناميكيات الشبكات من النظامين الأول والثاني؛ تصميم في مجالات الوقت والتردد؛ والتناظرية والدوائر الرقمية والتطبيقات. التصميم وتمارين المختبر هي أيضا مكونات هامة في هذا المساق.\r\n\r\n\n\n                                    ", 
+    "end_date": "2015-05-04T00:00:00Z", 
+    "title": "دارات كهربائية وإلكترونية", 
+    "price": 0, 
+    "instructors": "Anant Agarwal and Ayman Faza", 
+    "institution_name": [
+        "Massachusetts Institute of Technology"
+    ], 
+    "commitment": "12 hours", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.edraak.org/courses/course-v1:QRF+6002x+2015/about", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Edraak"
+    ], 
+    "start_date": "2015-03-09T00:00:00Z"
+}

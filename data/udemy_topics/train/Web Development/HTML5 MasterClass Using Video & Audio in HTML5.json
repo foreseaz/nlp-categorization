@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t This HTML5 Audio and Video training course from Infinite Skills teaches you the ins and outs of HTML5 video and audio. This course is designed for users that already have a basic understanding of HTML5.  </p>  <p style=\"\">  \t <br style=\"\">  \t You will start by learning how to embed media into your webpages using the latest HTML5 methods, as well as how to make use of a multitude of fallback formats, ensuring that your audio and video will work in a variety of scenarios and devices. This video tutorial will also teach you additional options for handling your media, including adding subtitles and captions, mobile playback with responsive video, and using video embed builders. Finally, you will learn how to encode your files to ensure reliable playback on a variety of devices.<br style=\"\">  \t <br style=\"\">  \t Once you have completed this computer based training course, you will be fully capable of incorporating media on your website using HTML5. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "HTML5 MasterClass Using Video & Audio in HTML5", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/198742_1aa7_5.jpg", 
+    "course_url": "https://www.udemy.com/html5-masterclass-using-video-audio-in-html5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-14T13:56:51Z"
+}

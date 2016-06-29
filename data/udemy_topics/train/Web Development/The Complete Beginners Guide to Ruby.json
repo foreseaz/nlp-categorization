@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is for you if…</p>  <ul><li>You have been putting off learning to program because it seems intimidating.</li><li>You have tried to learn to program before, but stopped because you didn’t know where to proceed after the tutorial.</li><li>You have built a Ruby on Rails app through another tutorial, but have no idea what the code is doing.</li><li>You are an entrepreneur or aspiring entrepreneur and you want to build an MVP, but don’t know where to get started to learn to program.</li></ul>          <p>How I go about presenting the information:</p>  <ul><li>Quick explanations of concepts with code walkthroughs. A lot of courses go into mundane drawn out explanations that are unnecessary and lose the student, I do the opposite, get straight to the point and show you how it works, then move on. You can revisit or rewind for refreshers and not have to worry about where in the 20 minute video that one piece of context was discussed.</li></ul>", 
+    "end_date": null, 
+    "title": "The Complete Beginners Guide to Ruby", 
+    "price": "20.00", 
+    "instructors": "Jack Burum", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/746146_b732_2.jpg", 
+    "course_url": "https://www.udemy.com/the-complete-ruby-developer/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-29T18:42:16Z"
+}

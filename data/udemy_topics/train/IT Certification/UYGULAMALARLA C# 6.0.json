@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>UYGULAMALARLA C# 6.0 </strong><br>Bu sette, C# .NET’in son sürümü olan 6.0 sürümü Visual Studio 2015 programı kullanılarak yenilikleri ile birlikte anlatılmıştır. C#.NET’in temel özelliklerinden başlanarak orta seviyelere kadar birçok özellik uygulamalarla işlenmiştir. Bu özellikler içerisinde C# .NET’in daha önceki sürümlerinden gelen özellikler olduğu gibi, 6.0 sürümü ile gelen yenilikler de yer almaktadır. <br>Videolarda konu sıralaması, programcılık mantığının doğru yöntemlerle gelişimine katkıda bulunacak şekilde hazırlanmıştır. Videolar, tamamı denenip çalıştırılmış olan örneklerle desteklenerek okuyucuların konuları daha iyi kavraması sağlanmaya çalışılmıştır. Videolu anlatımlarda, öğrencilerin edindikleri birikimlerini, uygulamaya dökebilecekleri proje örneklerine yer verilmiştir. </p>\n\n<p>• .NET Geliştirme Ortamı <br>• Konsol Ekranı <br>• Sabitler ve Değişkenler <br>• Kullanıcı Tanımlı Veri Tipleri <br>• Struct Oluşturmak <br>• Enum Oluşturmak <br>• Boxing ve Unboxing <br>• Operatörler <br>• Kontrol Yapıları <br>• Döngüler <br>• Diziler ve Koleksiyonlar <br>• Hata Denetimi <br>• Formlar Ve Kontroller <br>• Diyalog Pencereleri <br>• String İşlemleri <br>• Tarih – Zaman Metotları <br>• StringBuilder Sınıfı <br>• Tarih - Zaman Metotları <br>• Regular Expressions <br>• Dictionary Initializer <br>• Setup Hazırlama <br>• System.Drawing Sınıfı <br>• Yazdırma İşlemleri <br>• Metotlar <br>• Genişletme Metotları (Extension Methods) <br>• Class (Sınıf) Yapısı <br>• User Control Hazırlama <br>• Registry İşlemleri <br>• Word ve Excel Programlarını Kullanma <br>• İşletim Sistemi Kaynaklarına Erişim <br>• WMI (Windows Management Instrumentation) Sınıfı <br>• Dosya ve Klasör İşlemleri <br>• Veritabanı İşlemleri <br>• Sorgular <br>• LINQ <br>• Threading <br>• Paralel Programlama <br>• Matematiksel Metotlar <br>• Resource Dosyaları <br>•Auto Property Initializer </p>", 
+    "end_date": null, 
+    "title": "UYGULAMALARLA C# 6.0", 
+    "price": "20.00", 
+    "instructors": "Burak Ramazan", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/771742_3f0f.jpg", 
+    "course_url": "https://www.udemy.com/uygulama/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-23T14:44:40Z"
+}

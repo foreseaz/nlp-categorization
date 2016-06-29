@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Este curso tem como objetivo capacitar o aluno a entender a diferença entre Container X Virtualização, prós e contras dessas tecnologias, iniciar seu aprendizado em Docker, implementar Docker (infraestrutura de container) em seu dia a dia.</p><p>E mais ... </p><p>Integração com outros sistemas, topicos avançados e tudo que você procura saber sobre Docker.</p>", 
+    "end_date": null, 
+    "title": "Docker: Compreendendo e utilizando !", 
+    "price": "25.00", 
+    "instructors": "Leandro Augusto Bucardi", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/659250_8209.jpg", 
+    "course_url": "https://www.udemy.com/docker-compreendendo-e-utilizando/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-03T19:08:47Z"
+}

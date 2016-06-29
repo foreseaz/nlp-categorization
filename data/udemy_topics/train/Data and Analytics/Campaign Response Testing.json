@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\">Response based campaigns are sales or marketing campaigns where specific offers or advertisements are shown and we need to measure response rates per group. In this business problem we are choosing ad-copy and price points and are trying to pick the best combination. This is a traditional statistical problem and is often organized into what are called &quot;A/B tests.&quot; However, more and more business professionals are required to directly plan and manage these sales and marketing campaigns without statistical or technical assistance.</p><p style=\"\">This course will teach you how to plan and manage a response based marketing campaign. Learn:</p><ul style=\"\"><li style=\"\">What an A/B test is</li><li style=\"\">How to pick campaign sizes</li><li style=\"\">How expensive certainty can be</li></ul><p style=\"\">The method we are teaching is based on Bayesian statistical inference, so is a bit different than the more traditionally taught methods (t-tests, p-values). The advantage is the a number of natural business questions (such as how much money is at risk) are easier to encode in the Bayesian framework.</p><p style=\"\">The course is unfortunately a very technical topic. To mitigate this we have wrapped the complete method in an interactive worksheet that we are sharing freely. The idea is: you supply the wisdom and judgement, the worksheet can perform all of the messy calculations.</p><p style=\"\">The course structure is as follows:</p><ul style=\"\"><li style=\"\">Introduction to the course (free lecture)</li><li style=\"\">Primer on the statistical terms needed for the course</li><li style=\"\">Working with the worksheet</li><li style=\"\">Review of the formal methods behind the worksheet</li><li style=\"\">(optional) pointers to the code running the worksheet</li></ul> <p style=\"\">The methods taught in this course should greatly improve your ability to plan and manage sales and marketing campaigns. You should be able to judge if this is the course for you from the free lecture.</p><p style=\"\">The course largely describes a free Shiny app that performs campaign calculations for you.  The app has a planning sheet and an evaluation sheet.</p><p style=\"\">The purpose of the planning sheet is to use the user inputs (prior bounds on conversion rate and conversion value) to estimate an acceptable absolute error in campaign value. This acceptable error rate is used to campaign sizes that ensure the campaign chosen has a good probability of being close to the best choice in terms of relative error. A good way to use this is to enter two different rates you wish to be able to distinguish between on the planning sheet.</p><p style=\"\">The evaluation sheet shows the posterior distribution of the (unknown and unobserved) true values of the campaigns conditioned on the observations the user has input.</p>", 
+    "end_date": null, 
+    "title": "Campaign Response Testing", 
+    "price": 0, 
+    "instructors": "John Mount", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/467362_fdea_6.jpg", 
+    "course_url": "https://www.udemy.com/campaign-response-testing/", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-04T13:59:33Z"
+}

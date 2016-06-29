@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p> <strong style=\"\">Save time by avoiding common JavaScript mistakes</strong><br style=\"\"> <br style=\"\"> JavaScript is easy and popular. But JavaScript also lets you make costly mistakes! This course is <strong style=\"\">tailored for beginner JavaScript developers</strong> who want to avoid errors even seasoned developers make! If you take this course, you will avoid bugs that would take hours or even days to catch.<br style=\"\"> <br style=\"\"> <strong style=\"\">Write robust code like a pro</strong><br style=\"\"> <br style=\"\"> This course covers over 20 JavaScript gotchas. Some are common and easy. But others are ignored even by professional JavaScript developers.<br style=\"\"> <br style=\"\"> For each mistake, you will go through a straightforward, comprehensive and fun explanation of the problem and the solution. Each JavaScript gotcha presentation contains:<br style=\"\"> <br style=\"\"> * Clear example of the error<br style=\"\"> * Live demo of the problem and the solution<br style=\"\"> * Prescriptive guidance<br style=\"\"> * Downloadable code samples and reference material<br style=\"\"> <br style=\"\"> It&#039;s time to write robust JavaScript code and do it the right way. <strong style=\"\">Let&#039;s get started!</strong> </p>", 
+    "end_date": null, 
+    "title": "JavaScript Gotchas and Common Mistakes", 
+    "price": "20.00", 
+    "instructors": "Pierre Nallet", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/441954_601e_2.jpg", 
+    "course_url": "https://www.udemy.com/javascript-gotchas-and-common-mistakes/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-08T15:17:09Z"
+}

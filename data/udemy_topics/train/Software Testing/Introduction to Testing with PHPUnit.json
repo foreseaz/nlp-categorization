@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Writing tests for modern PHP code can be intimidating for those who have never done so before, and this course is intended to remove the mystery from writing tests. We'll explore how to write tests for every part of your code -- from models, to views, to controllers, and every single line of code in your application. We'll start with very simple tests, and gradually move into more complex strategies. Initially, we will write unit tests, where we test our code at a granular level. Next we move into integration testing, we we ensure that each piece of our code interacts with other components properly. Then we look at functional testing, where we automate the process of testing the end-user's experience. </p><p>The course is structured so that all students download the same codebase, and we go through the entire process from start to finish. The source code is available on a GitHub repository, and is tagged so that you have ready access to the source code as it exists for a particular lecture.</p>", 
+    "end_date": null, 
+    "title": "Introduction to Testing with PHPUnit", 
+    "price": "20.00", 
+    "instructors": "Trevor Sawler", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/599614_9d3e_2.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-testing-with-phpunit/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-01T18:31:52Z"
+}

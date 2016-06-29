@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"></p><p style=\"\">In this training course, expert an expert author &nbsp;teaches you how to take full advantage of the new HTML5 API&#039;s for JavaScript. The tutorial assumes that you already have a basic working knowledge of JavaScript programming, HTML, CSS and general web concepts.</p><p style=\"\">You will start off with a general introduction to browser APIs, and what they are. You will explore the Document Object Module (DOM) and how to access it with JavaScript. Craig then teaches you how to handle browser events and about the event object, dealing with form events, working with timers and animation, and introduces you to Ajax. Once you have a firm grasp on those concepts, you cover HTML5 APIs for audio and video, canvas, SVG, geolocation, and file handling. You will finish off with lessons on persistance storage, and advanced debugging tools and techniques.</p><p style=\"\">By the conclusion of this JavaScript HTML5 API programming tutorial, you will have an in-depth grasp of how to access and manipulate your web projects using JavaScript. Working files are included to allow you to work alongside the author using the same files that references throughout the training course.</p><p style=\"\"></p>  ", 
+    "end_date": null, 
+    "title": "HTML5 APIs For JavaScript - A Course For Web Developers ", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/30911_5ec2_7.jpg", 
+    "course_url": "https://www.udemy.com/html5-apis-for-javascript-a-course-for-web-developers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-11-29T17:41:24Z"
+}

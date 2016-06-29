@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t  This course could be useful for anyone who wants to install Oracle E-Business Suite in a Oracle Virtualbox VM on their Laptops or Desktops, for their personal learning.  </p>  <p>  \t  It will be useful to anyone who have not installed Oracle E-Business Suite previously, or people having some exposure to Oracle technologies but want to learn Oracle E-Business Suite.  </p>  <p>  \tWe will be using the following environment for installation:  </p>  <p>  \t+ Host Machine (Operating System) = Windows 7  </p>  <p>  \t+ Guest Virtual Machine (Operating System) = Oracle Linux 5.7  </p>  <p>  \t+ VM Platform = Oracle Virtualbox  </p>  <p>  \t+ Oracle E-Business Suite Release = First install Release 12.2.0 and then upgrade to Release 12.2.4  </p>  <p>  \t+ Both Database Node and Application Node will be installed using two linux users, but within one server hardware  </p>", 
+    "end_date": null, 
+    "title": "Introduction to Oracle Applications DBA", 
+    "price": "20.00", 
+    "instructors": "Kabeer Khan", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/239878_3982_3.jpg", 
+    "course_url": "https://www.udemy.com/oracle-applications-dba/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-09T07:26:28Z"
+}

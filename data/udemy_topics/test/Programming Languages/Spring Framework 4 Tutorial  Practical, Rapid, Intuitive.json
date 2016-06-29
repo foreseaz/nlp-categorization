@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em>IMPORTANT: You're recommended to first go through my <strong>Spring Framework 4 And Dependency Injection For Beginners</strong> FREE tutorial.</em></p><p>If you are new to Spring Framework, or you know Spring 3 but are new to Spring 4, then this tutorial will get you up and running with <em class=\"redactor-inline-converted\">developing neat and maintainable real world applications using the latest Spring projects in the right ways</em>, in a <strong class=\"redactor-inline-converted\">practical, rapid and intuitive</strong> manner. </p>\n\n<p>Instead of learning in a traditional way, feature-by-feature, here we will take a problem-solution approach. We will go deep in the commonly useful things, and touch upon the less common things in a brief manner, leaving up to you to find out more on your own, when needed. I think this is the fastest and intuitive way to learn any vast and practical subject like Spring.</p>\n\n<p>We will be developing a demo application in the course, which will be a production grade user module having features like <em class=\"redactor-inline-converted\">signup, login, email verification, forgot password, show profile and edit profile</em>, which could be reused in your projects, saving hours of your effort and letting you jump to coding your business functionality quickly.</p>\n\n<p>We will use the latest releases from Spring, like <em class=\"redactor-inline-converted\">Spring Framework 4, Spring Boot, Spring Data, Java configuration</em>, which have radically changed the way Spring applications are written. We will see how to write neat and maintainable code using these effectively, in the correct manner.</p>\n\n<p>The content of this course is well designed, packed with carefully chosen topics useful for developing real-life applications. Have a look at the content of the course below to get an idea about what all we shall be covering. Before enrolling for the course, you might also like to watch the preview videos below. And of course, if you are still in doubt whether this course would be useful to you, you can give it a try, with the Udemy's one-month money back guarantee with you.</p>\n\n<p>For taking this course, you should already know Java, have knowledge of web development using Java, and should know JSP, JSTL and EL.</p>\n\n<p>So, enroll now and utilize full power of Spring in your next project!<br></p>\n\n<p><em class=\"redactor-inline-converted\">DISCLAIMER (March 26, 2015): I keep getting lots of excellent reviews and appreciations for this course. But you will find below that I just got a review saying that the course coverage and explanation is not sufficient to learn Spring. So, let me clarify that Spring is too vast to learn in a single course. Whereas this course would be excellent for getting up and running fast, later when needed you will need to refer to the reference material or take more advanced courses for mastering specific subjects.</em><br></p>", 
+    "end_date": null, 
+    "title": "Spring Framework 4 Tutorial: Practical, Rapid, Intuitive", 
+    "price": "25.00", 
+    "instructors": "Sanjay Patel", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/207042_e7a2_15.jpg", 
+    "course_url": "https://www.udemy.com/spring-framework-4/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-29T05:09:56Z"
+}

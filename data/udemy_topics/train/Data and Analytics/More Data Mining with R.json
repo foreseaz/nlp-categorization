@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\"><em style=\"\"><strong style=\"\"><em style=\"\">More Data Mining with R</em></strong> presents a comprehensive overview of a myriad of contemporary data mining techniques. <em style=\"\"><strong style=\"\">More Data Mining with R</strong> </em>is the logical follow-on course to the preceding Udemy course <em style=\"\"><strong style=\"\">More Data Mining with R: Go from Beginner to Advanced</strong> although it is not necessary to take these courses in sequential order. Both courses examine and explain a number of data mining methods and techniques, using concrete data mining modeling examples, extended case studies, and real data sets. Whereas the preceding <em style=\"\"><strong style=\"\">More Data Mining with R: Go from Beginner to Advanced</strong> </em>course</em> focuses on: (1) linear, logistic and local polynomial regression; (2) decision, classification and regression trees (CART); (3) random forests; and (4) cluster analysis techniques, this course, <strong style=\"\"><em style=\"\">More Data Mining with R</em></strong> presents detailed instruction and plentiful &quot;hands-on&quot; examples about: (1) association analysis (or market basket analysis) and creating, mining and interpreting association rules using several case examples; (2) network analysis, including the versatile iGraph visualization capabilities, as well as social network data mining analysis cases (marriage and power; friendship links); (3) text mining using Twitter data and word clouds; (4) text and string manipulation, including the use of &#039;regular expressions&#039;; (5) time series data mining and analysis, including an extended case study forecasting house price indices in Canberra, Australia.</em></p>", 
+    "end_date": null, 
+    "title": "More Data Mining with R", 
+    "price": "20.00", 
+    "instructors": "Geoffrey Hubona, Ph.D.", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/586534_56fa_2.jpg", 
+    "course_url": "https://www.udemy.com/more-data-mining-with-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-18T16:17:08Z"
+}

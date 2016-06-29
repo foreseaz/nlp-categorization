@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>The number of smartphone users is increasing every single day, and as\n more and more of them are looking for new and interesting ways to \nimprove their lives through mobile applications, the need for a language\n that will deploy on all platforms has become a necessity. This is where\n Swift 2 steps in, a beautifully crafted and evolving language released \nby Apple and used across iOS, WatchOS, tvOS, and MacOS native \napplications. Swift brings additional functionality and stability to \nyour applications, allowing you to create new and exciting ideas with \nease. </p>\n\n<p>This step-by-step guide will help you craft beautiful, \nwell-structured, and stable applications and help you bring innovation \nto life. As soon as we begin, we'll take a look at what it takes to \nintegrate third-party libraries into our project using CocoaPods, see \nwhat the pros and cons are, and get to know how we can set our criteria \non suitable libraries.</p>\n\n\n\n\n\n\n\n<p>Throughout the course, we will delve deep into topics such as \nanimation on views and layers, powering strongly data driven and \nlocation-driven applications using CoreData and MapKit, integrating our \napplication with WatchOS, and sharing code and data between each \napplication. Finally, we will test our application using Unit Tests and \nUI Tests, then walk through the process of submitting it to the App \nStore.</p>\n\n\n\n\n\n\n\n<p>This course truly covers a vast range of topics, providing a hands-on\n guide throughout each subject area, and ensuring you have the right \ntools and knowledge to create an advanced-level application. By the end \nof this course, you will be able to develop iOS applications using Swift\n 2 and work with some of the more advanced developer frameworks.</p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">About The Author</strong></p>\n\n\n\n<p><strong>Paul Napier</strong> is an iOS and Android developer working at one of\n the largest television networks in Australia. His development \nbackground covers over a decade working through a wide area of the \ndevelopment stack. Though his passion lies in all things mobile and in \nworking to encourage great project structure, code cleanliness, and the \ndevelopment processes.</p>\n\n\n\n\n\n<p>He holds a degree in Russian and Business Studies from the University\n of Leeds, and his background includes sales, iOS, tvOS and Android \ndevelopment, as well as business analysis and social network \nengineering. </p>", 
+    "end_date": null, 
+    "title": "Advanced Swift 2 Application Development", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/861322_4078_2.jpg", 
+    "course_url": "https://www.udemy.com/advanced-swift-2-application-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-27T10:49:57Z"
+}

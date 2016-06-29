@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \t  If you have been building responsive websites and you&#039;re ready to take your skills to the next level, then this course is for you. This is the third course in this series on Responsive Web Design by Paul Cheney and covers the following topics.  </p>  <ul style=\"\">  \t<li style=\"\">Using a CSS preprocessor to build a webpage. </li>  \t<li style=\"\">Using PHP include() so that you can build a multiple page website and take advantage of reusable code. </li>  \t<li style=\"\">Using a CSS frameworks and how to build a page using Foundation 5. </li>  \t<li style=\"\">Using jQuery Mobile and a PHP redirect for handheld devices.</li>  </ul>", 
+    "end_date": null, 
+    "title": "Responsive Web Design with HTML5 and CSS3 - Advanced", 
+    "price": "20.00", 
+    "instructors": "Paul Cheney", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/213252_1bd6_3.jpg", 
+    "course_url": "https://www.udemy.com/responsive-web-design-with-html5-and-css3-advanced/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-08T16:51:19Z"
+}

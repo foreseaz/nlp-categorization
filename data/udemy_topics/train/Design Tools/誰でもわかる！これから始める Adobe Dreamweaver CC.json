@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>サイトの定義やドキュメントの新規作成から、基本的なマークアップの方法や、画像、リンクの設定方法について学習します。コードビューを用いたHTMLの効率的な編集について学びます。Webページのビジュアルをデザインするために不可欠なCSSの作成方法を、Dreamweaverの各種の機能を用いて解説します。多様なデバイスで閲覧できるように、レスポンシブWebページの作成方法を学びます。可変グリッドレイアウトやCSSデザイナーを使った効率的なページ制作の方法を学びます。</p><p>さらに、映像内と同じファイルが演習ファイルとして付属しているので、実際のアプリケーションで復習を行うことが出来ます。</p>", 
+    "end_date": null, 
+    "title": "誰でもわかる！これから始める Adobe Dreamweaver CC", 
+    "price": "20.00", 
+    "instructors": "アテイン 株式会社", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/572094_46a3.jpg", 
+    "course_url": "https://www.udemy.com/attain-adobe-dreamweaver-cc/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Design Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-03T04:23:12Z"
+}

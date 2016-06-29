@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Learn Construct 2: Creating an RPG in HTML5!</strong><br></p><p>==================================================================</p><p><strong>What is the course about?</strong></p><p>++++++++++++++++++++++++++++</p><p>This course is about learning the core principles of making an RPG game with Construct 2. Making an RPG is broad but with these lectures you will find it is easier than you think. The disclaimer I have is this: Come into this course with a plan. If you want to just learn the principles that is absolutely fine. By the end you will have a completed RPG engine. But, if you want to make your own RPG then plan out your game. Use these principles and ideas and expand on them and this course will be worth twice what you paid!</p><p>=======================</p><p><strong>What material is included?</strong></p><p>=======================</p><p>In the beginning of the course you have access to all of the assets used (art, animations) so you can make the same game along with me. In the download you will find the .capx we create at the end of the lecture! Note: There is no sound because I wanted this to just focus on the principles of the game. </p><p>++++++++++++++++++++++++++++</p><p><strong>What does this course include?</strong></p><p>++++++++++++++++++++++++++++</p><ul><li><em><strong>Intuitive Player Movement!</strong></em></li><li><em><strong>Interact-able hotbar with attacks and abilites!</strong></em></li><li><em><strong>Static NPC story arc Chat!</strong></em></li><li><em><strong>Real time user data!</strong></em></li><li><em>Melee Attack!</em></li><li><em>Configurable projectile attack</em></li><li><em>Healing ability</em></li><li><em>Dynamic Camera</em></li><li><em>Enemy AI using Line of Sight</em></li><li><em>Enemy movement</em></li><li><em></em><em>Player health and death</em></li><li><em>End game</em></li><li><em>Random enemy spawning</em></li><li><strong><em>Pushing the limits of Construct Free but great for C2 Personal</em></strong></li><li><em><strong>All assets are free to use for commercial use.</strong></em></li></ul><em>+++++++++++++++++++++++++++</em><p><em>=======================</em></p><p><strong>Why take this course?</strong></p><p>=======================</p><p>This course is geared to those who have always wanted to know what it takes to make an RPG. I will tell you right now, it's a lot of work. But I guarantee this course will jump start any effort you put into making a complete \"RPG\" game. </p><p>++++++++++++++++++++++++++++</p><p><strong>Is this course right for me?</strong></p><p>++++++++++++++++++++++++++++</p><p>If you have never programmed before this course this might be a bit over your head. Even with Construct 2, you still need to learn the basics! If you have programmed before this course will be perfect for you to follow along!</p><p>=======================</p><p><strong>How is this course structured?</strong></p><p>++++++++++++++++++++++++++++</p><p>I structure all of my courses differently each time. However, this course is a broken down version of how to make a finish RPG. Since RPGS are all different, it's the skeletal structure one might need to actually move forward and finish their game! All of my courses and lectures are taught in a way where there is no fluff, just straight dive into the code and program. Learn the craft while using the tool.</p><p>I hope to see you in the lectures!</p><p><strong>Your future instructor,</strong></p><p><strong> Jeremy</strong></p>", 
+    "end_date": null, 
+    "title": "Learn Construct 2: Creating an RPG in HTML5!", 
+    "price": "20.00", 
+    "instructors": "Jeremy Alexander", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/556958_81eb_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-construct-2-creating-an-rpg-in-html5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-17T05:26:05Z"
+}

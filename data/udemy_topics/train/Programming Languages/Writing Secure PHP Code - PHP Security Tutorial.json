@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tThis PHP Security training video from Infinite Skills teaches you about the primary security considerations that can affect a PHP website, and how you can take preventative measures. This course is designed for users that already have a working knowledge of PHP and MySQL, and who develop PHP-based websites that contain sensitive or financial information.  </p>  <p>  \t<br>  \tYou will start by learning about the most common forms of attack and what the consequences can be when your website is not protected. You will then move into learning about the filtering and validation functions in PHP, and why you should use them. Doug will teach you how you can protect your website against common website vulnerabilities and how to protect file uploads. Finally, this video tutorial will teach you how to protect against SQL injection attacks, and covers topics such as database escaping, using prepared statements, and protecting a MySQL database.<br>  \t<br>  \tBy the completion of this video based training course, you will have the knowledge required to ensure your website is secure against attacks and free of vulnerabilities. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Writing Secure PHP Code - PHP Security Tutorial", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/107142_f816_9.jpg", 
+    "course_url": "https://www.udemy.com/writing-secure-php-code/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-17T14:14:54Z"
+}

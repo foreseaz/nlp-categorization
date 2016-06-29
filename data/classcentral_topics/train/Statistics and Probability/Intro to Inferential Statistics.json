@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Statistics & Probability"
+    ], 
+    "description": "\n\n                    \n                    \n                    Inferential statistics allows us to draw conclusions from data that might not be immediately obvious. This course focuses on enhancing your ability to develop hypotheses and use common tests such as t-tests, ANOVA tests, and regression to validate your claims.Why Take This Course?This course will guide you through some of the basic tools of inferential statistics. \n \nThis course will cover:\n\n- estimating parameters of a population using sample statistics\n- hypothesis testing and confidence intervals\n- t-tests and ANOVA\n- correlation and regression\n- chi-squared test\n\n                                            Syllabus\n                        Inferential Statistics is a continuation of the material covered in [Descriptive Statistics](https://www.udacity.com/course/ud827), and so lesson numbers follow from that course:\n\n### Lesson 8: Estimation\nYou will learn how to estimate population parameters from sample statistics using confidence intervals and estimating the effect of a treatment.\n### Lesson 9: Hypothesis Testing \nYou will learn how to use critical values to make decisions on whether or not a treatment has changed the value of a population parameter.\n### Lesson 10,11: t-tests\nYou will learn how to test the effect of a treatment or compare the difference in means for two groups when we have small sample sizes.\n### Lesson 12,13: ANOVA\nYou will learn how to test whether or not there are differences between three or more groups.\n### Lesson 14: Correlation\nYou will learn how to describe and test the strength of a relationship between two variables.\n### Lesson 15: Regression \nYou will learn how to describe the way in which changes in one variable are related to changes in a second variable.\n### Lesson 16: Chi-squared Tests\nYou will learn how to compare and test frequencies for categorical data. \n### Final Project \nYou will use the methods you have learned in this course to perform an analysis on a dataset and report your findings. You will describe the data, calculate statistics, perform inference, and make conclusions.\n                                    ", 
+    "end_date": "2014-09-12T00:00:00Z", 
+    "title": "Intro to Inferential Statistics", 
+    "price": 0, 
+    "instructors": "Katie Kormanik, Ronald Rogers and Sean Laraway", 
+    "institution_name": [
+        "San Jose State University"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.udacity.com/course/intro-to-inferential-statistics--ud201?utm_medium=referral&utm_campaign=api", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2014-07-18T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Bienvenido al curso de Angular 2, vas a <strong class=\"redactor-inline-converted\">aprender paso a paso como desarrollar aplicaciones web font-end</strong> con la nueva versión de este framework de Google.</p>\n\n<p>Angular 2 se va a convertir el <strong class=\"redactor-inline-converted\">framework para JavaScript estándar</strong>. Es uno de los frameworks <strong class=\"redactor-inline-converted\">más populares </strong>para desarrollar aplicaciones modernas y escalables en el lado del cliente. Si quieres ser <strong class=\"redactor-inline-converted\">desarrollador front-end o full-stack</strong>, o incluso si ya te dedicas al desarrollo web, <strong class=\"redactor-inline-converted\">es casi obligatorio aprender Angular 2</strong>.</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Angular 2 ha dado un salto de calidad</strong> con respecto a la versión anterior (AngularJS). Ahora utilizaremos <strong class=\"redactor-inline-converted\">TypeScript</strong> para definir nuestras clases, propiedades y métodos, el código es mucho más limpio y se han eliminado cosas como el Scope y muchas directivas que no tenían mucho sentido, en definitiva e<strong class=\"redactor-inline-converted\">s un framework completamente nuevo</strong>.</p>\n\n\n\n\n\n<p>Al finalizar el curso <strong>serás capaz de desarrollar tus propias aplicaciones web SPA</strong> (Single Page Apps) con Angular y modificar otras que ya estén programadas con este framework.</p>\n\n\n\n\n\n<p>Este es el único curso de Angular 2 en Español que existe hasta la fecha y está diseñado para que <strong class=\"redactor-inline-converted\">aprendas a desarrollar webapps en el cliente para el mundo real mediante ejemplos prácticos, paso a paso y de forma fácil </strong>para <strong class=\"redactor-inline-converted\">que no te quedes con dudas</strong>.</p>\n\n\n\n\n\n<p>Se tratan<strong class=\"redactor-inline-converted\"> desde los aspectos más básicos y sencillos hasta los más avanzados</strong>, por tanto no es necesario que sepas nada de AngularJS para aprender a usarlo, aunque si que necesitarás saber JavaScript y HTML para aprovechar al 100% este curso.</p>\n\n\n\n\n\n<p>Durante las <strong class=\"redactor-inline-converted\">más de 5 horas y media del curso verás muchísimos ejemplos prácticos.</strong> Iremos usando cada una de las partes fundamentales del framework y haremos un ejemplo en cada una de ellas.</p>\n\n\n\n\n\n<p>Además en uno de los capítulos del curso <strong class=\"redactor-inline-converted\">desarrollaremos una aplicación web SPA completa desde cero,</strong> para unir todas las piezas del puzzle.</p>\n\n\n\n\n\n<p>Crearemos una aplicación web de gestión de restaurantes, en la cual podremos crear, editar y eliminar restaurantes, subir imágenes al servidor con Angular y una sección que elegirá un restaurante al azar.</p>\n\n\n\n\n\n<p>Abordaremos el desarrollo de esta aplicación partiendo desde cero, desde la<strong class=\"redactor-inline-converted\"> creación de los componentes necesarios</strong>, uso de rutas y servicios, <strong class=\"redactor-inline-converted\">consumo de servicios REST (mediante un API Rest programada en PHP) con el componente HTTP de Angular 2</strong>, hasta la creación y validación de formularios, entre otras cosas.</p>\n\n\n\n\n\n<p>Si quieres <strong class=\"redactor-inline-converted\">aprender Angular 2 sin dolor</strong>, practicando <strong class=\"redactor-inline-converted\">poco a poco</strong>, subir de nivel en el desarrollo frontend con JavaScript y <strong class=\"redactor-inline-converted\">aumentar tus oportunidades laborales</strong> ¡Este es tu curso!</p>\n\n\n\n\n\n<p>Échale un vistazo al currículo del curso para ver todos temas que aprenderás.</p>\n\n\n\n\n\n<p>Únete al curso y <strong class=\"redactor-inline-converted\">sube de nivel</strong>: ¡¡ Aprende <strong class=\"redactor-inline-converted\">Angular 2 </strong>!!</p>", 
+    "end_date": null, 
+    "title": "Curso de Angular 2 en Español - Crea webapps desde cero", 
+    "price": "50.00", 
+    "instructors": "Víctor Robles", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/707908_13d1_3.jpg", 
+    "course_url": "https://www.udemy.com/curso-de-angular-2-en-espanol-crea-webapps-desde-cero/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-27T19:51:41Z"
+}

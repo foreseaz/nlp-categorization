@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \tTomando como ejemplo una escultura clásica (la Venus de Milo), en este curso explicaremos varias formas de presentar nuestra pieza.  </p>  <ul>  \t<li>En primer lugar, dentro del propio ZBrush, veremos cómo exportar imágenes fijas, un vídeo tipo turntable y un rénder en varios pases para componer posteriormente en Photoshop. </li>  \t<li>Después, usando el programa 3ds Max, llevaremos a cabo un rénder fotorrealista con el motor V-Ray </li>  \t<li>Finalmente haremos la postproducción en Photoshop. </li>  </ul>  <p>  \tZbrush es un software de modelado 3d , escultura y pintura digital que constituye un nuevo paradigma dentro del ámbito de la creación de imágenes de síntesis gracias al original planteamiento de su proceso creativo .  </p>  <p>  \t Este curso es impartido por Mario Huete, escultor digital especializado en modelado orgánico. Su formación artística comenzó en los campos del dibujo, la pintura y la escultura tradicionales, lo que compagino posteriormente con su trabajo como profesor de Historia e Historia del Arte. Con la ayuda de esta experiencia y el apoyo de las nuevas tecnologías, hace algunos años comenzó a interesarse por el arte digital, tanto en 2D como en 3D, y con el tiempo ha llegado a especializarse en modelado orgánico.  </p>  <p>  \tEn este curso cubriremos los siguientes temas:  </p>  <ul>  \t<li>Preparación de elementos</li>  \t<li>Texturizado del modelo</li>  \t<li>Exportación como video</li>  \t<li>Render en Zbrush. </li>  \t<li>Exportación a 3Ds Max</li>  \t<li>Render en 3Ds Max con Vray</li>  \t<li>Postproducción en Photoshop</li>  </ul>", 
+    "end_date": null, 
+    "title": "Técnicas de presentación y render en ZBrush y 3Ds Max", 
+    "price": "25.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/184254_61f4.jpg", 
+    "course_url": "https://www.udemy.com/tecnicas-de-presentacion-y-render-en-zbrush-y-3ds-max/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-17T22:15:04Z"
+}

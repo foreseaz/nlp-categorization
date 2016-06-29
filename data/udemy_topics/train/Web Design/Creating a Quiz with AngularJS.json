@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Learn to create an engaging, animated, and interactive web experience using AngularJS. In this course, we'll harness the power AngularJS to create, score, and share results from an interactive quiz.</p><p>Quizzes are an effective way to engage users, promote brand awareness, and create a fun, interactive, learning experience on your web site.</p><p>While building this project, you'll learn to create a JSON file, design and style a web layout, create animated transitions, add develop interactive components that will engage, and test your user's knowledge, of any given subject matter.</p><p>This course will show you a step-by-step approach for creating an interactive web project that includes:</p><ul><li>Creating a web layout with HTML and CSS</li><li>Understanding the Model-View-Controller (MVC) construct</li><li>Defining an HTML document as an AngularJS App</li><li>Creating and accessing data in JSON format</li><li>Adding interactivity with Angular Directives</li><li>Creating animations with CSS</li><li>Calculating a user's score</li><li>Creating custom Twitter and email links</li></ul><p>The class files include all graphics, a copy of AngularJS, HTML and CSS documents, and a copy of the final project, which can be used to gauge your progress throughout the course. </p><p><i>Running Time: 2:55 (175 minutes)</i></p>", 
+    "end_date": null, 
+    "title": "Creating a Quiz with AngularJS", 
+    "price": "20.00", 
+    "instructors": "Chris Converse", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/532936_08aa_2.jpg", 
+    "course_url": "https://www.udemy.com/creating-a-quiz-with-angularjs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-20T15:27:48Z"
+}

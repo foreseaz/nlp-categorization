@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tThis Corona SDK 2014 training course from Infinite Skills will teach you the fundamentals of creating an app with the popular App Development SDK Corona. This course is designed for the absolute beginner, meaning no prior app development experience is required.  </p>  <p style=\"\">  \t<br style=\"\">  \tYou will start by learning how to create visual assets, including creating images and text and grouping and animating visual assets. You will then learn how to incorporate user interaction and display lists of data with tables. The course will show you how to create and remove scenes, pass data between scenes, and switch scenes. This video tutorial also covers handling application data, such as creating and saving a preferences module, reading and writing data to the preferences module, and implementing custom application preferences. Finally, you will learn how to configure an application, including device and feature detection and building the app for a device. <br style=\"\">  \t<br style=\"\">  \tBy the completion of this computer based training course, you will be able to successfully create your own mobile applications using the Corona software development kit. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "iOS App Development With Corona SDK - Mobile Apps Made Easy", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/251710_3145_5.jpg", 
+    "course_url": "https://www.udemy.com/ios-app-development-with-corona-sdk-mobile-apps-made-easy/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-27T17:50:49Z"
+}

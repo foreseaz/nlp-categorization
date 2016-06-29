@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tThis SQL training course from Infinite Skills teaches you how to use SQL to manage data that is held in relational databases. This training course is designed for beginners who have no previous experience with SQL of any kind.  </p>  <p>  \t<br style=\"\">  \tYou will start by learning how to use SQL (Structured Query Language) to select and filter data from a database, including sorting the data, filtering date columns, and working with null or empty values. The course then teaches you about common SQL functions, such as text manipulation, and how to group and summarize. This video tutorial also covers topics such as joining tables, data modification, and creating new tables and views. Finally, you will learn about the powerful subquery, and the main variances in SQL between database types.<br style=\"\">  \t<br style=\"\">  \tOnce you have completed this computer based training course, you will have a fundamental knowledge of what SQL is and how you can apply it to different database types. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "A Beginners Guide To SQL. Master SQL Quickly", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/191738_210c_6.jpg", 
+    "course_url": "https://www.udemy.com/beginners-guide-to-sql-master-sql-quickly/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-31T15:22:30Z"
+}

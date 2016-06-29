@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>FileMaker Pro: módulo básico...</p><p><br></p><p>... é um curso \"mão na massa\" que demonstra a família de produtos FileMaker e a utilização básica do FileMaker Pro. Com exercícios práticos o aluno descobre em poucas horas os primeiros passos para se tornar um desenvolvedor de sucesso. Durante o início ao fim do treinamento os alunos vão desenvolver uma aplicação básica de banco de dados e descobrir que soluções poderosas podem sim ser construídas com idéias simples e elegantes!</p>", 
+    "end_date": null, 
+    "title": "FileMaker Pro: módulo básico", 
+    "price": 0, 
+    "instructors": "Rodrigo Ávila Ferreira", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/748138_287f_2.jpg", 
+    "course_url": "https://www.udemy.com/filemaker-pro-modulo-basico-desenvolvimento-banco-dados/", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-31T20:04:06Z"
+}

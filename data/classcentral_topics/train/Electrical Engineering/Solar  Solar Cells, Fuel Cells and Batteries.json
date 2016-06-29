@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Electrical Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    \r\nThis course focuses on the operating principles and applications of emerging technological solutions to the energy demands of the world. We will begin with discussing the scale of global energy usage and requirements for possible solutions. Basic physics and chemistry of solar cells, fuel cells, and batteries will be discussed in quantitative detail. We will explore performance issues, including economics, from the ideal device to the installed system. Finally, we will end with the promise of materials research for providing next generation solutions.\r\n\r\nPREREQUISITES\r\nPrerequisites for this class include basic high school/freshman physics, chemistry, math and calculus.\r\n\n\n                                    ", 
+    "end_date": "2013-12-23T00:00:00Z", 
+    "title": "Solar: Solar Cells, Fuel Cells and Batteries", 
+    "price": 0, 
+    "instructors": "Bruce Clemens", 
+    "institution_name": [
+        "Stanford University"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://class.stanford.edu/courses/Engineering/Solar/Fall2013/about", 
+    "duration": "13 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Stanford OpenEdx"
+    ], 
+    "start_date": "2013-09-23T00:00:00Z"
+}

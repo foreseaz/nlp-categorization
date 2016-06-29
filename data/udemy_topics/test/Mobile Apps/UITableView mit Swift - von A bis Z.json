@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Swift ist nicht mehr aufzuhalten. Spätestens mit dem Update zur Version 2 sind durch die neue Fehlerbehandlung essentielle Verbesserungen hinzugekommen. Es gibt kaum noch ein Projekt, was aktuell mit Objective-C begonnen wird. Du musst als Entwickler lernen, wie die einzelnen Elemente mit Swift genutzt werden können. Und genau da setzt dieser Kurs an. Du lernst die <strong>UITableView mit Swift - von A bis Z</strong> kennen. Alle wichtigen Features werden am praktischen Beispiel im Einsatz gezeigt.</p><p>Der Kurs richtet sich an alle iOS-Entwickler. Einsteiger lernen die UITableView und den UITableViewController mit Swift zu nutzen. Auch erfahrene Entwickler finden Beispiele für das ein oder andere weniger gut dokumentierte Feature. Auch Umsteiger, die aus der Objective-C Programmierung kommen, können mit dem Crashkurs durchstarten und erste Grundlagen lernen. Das Training ist bewusst mit kurzen und prägnanten Lektionen gestaltet. So kann es später optimal auch als Referenz eingesetzt werden.</p><p>Inhaltlich gibt es eine kurze Einführung in die Theorie hinter den Tabellen. Dann geht es zielgerichtet in die Praxis. Du lernst die wichtigsten Features der UITableView an einem praktischen Beispiel kennen. Wir bauen einen UITableViewController nach, um auch ihn genau zu verstehen. Das Beispiel ist sehr bewusst gewählt und gleichermaßen für Einsteiger, zur späteren Referenz und als Quelle für Codeschnipsel bei der Entwicklung eigener Apps gedacht. In der App verwendest Du statische Zellen, bindest eine dynamische TableView mit den UITableViewDataSource und -Delegate Protokollen an und erzeugst eigene UITableViewCells.</p><p>In der App nutzt Du Sektionen, setzt die entsprechenden Header, lernst die möglichen AccessoryType Arten kennen und erleichterst Dir die Arbeit mit einem UITableViewController. Im weiteren Verlauf lernst Du eigene EditActions für Tabellenzeilen zu erstellen, lernst Daten aus einer TableView zu löschen und die Inhalte neu zu laden. Auch Themen wie der Tabellenindex, die UISearchBar und Pull to Refresh werden behandelt.</p><p>Mit diesem Kurs lernst Du die UITableView genau kennen, lernst sie mit Swift zu verwenden und implementierst ein umfangreiches Beispiel. </p>", 
+    "end_date": null, 
+    "title": "UITableView mit Swift - von A bis Z", 
+    "price": "20.00", 
+    "instructors": "Jan Brinkmann", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/670618_04d3_3.jpg", 
+    "course_url": "https://www.udemy.com/uitableview-mit-swift-von-a-bis-z/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-15T20:52:51Z"
+}

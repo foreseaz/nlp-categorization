@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Welcome!</strong></p><p>This is an introduction to the Python programming language. This course relies on the learner having some previous programming experience to effectively use the concepts explained in the course. With Python, you can deliver code faster and integrate systems more effectively than most other languages.  In this course you will be introduced to the Python programming language and what it can do for you. </p><p><em>Prerequisites: </em>Previous programming experience is suggested. This is a fast paced course and we'll throw a lot at you. If you're a programming newbie and not just a Python newbie, you may be in over your head. </p><p><strong>Section 1:</strong> In the pre-assessment quiz you'll face questions from all sections of this Python training. Test your current knowledge and know your strengths and weaknesses.</p><p><strong>Section 2-4:</strong> The student will learn how you can make the best use of Python to meet your programming needs. They will be learning how to install Python, configure and customize Python, and how to terminate a program in Python. As well as explaining the different data types and structures that are used in Python.</p><p><strong>Section 5-7:</strong> Python programs can be decomposed into modules, statements, expressions, and objects, as well as allows you to keep blocks of code in a file and use them as a module. The student will also be introduced to concepts on standard input, output, and error.</p><p><strong>Section 8-10: </strong>The student will be learning about how exception handling is carried out in Python, take an in-depth look at doctest module and unittest module and its various tools, and give you an in-depth look at standard library, built-in functions, and string and text handling.</p><p><strong>Section 11-13: </strong>The student will be introducing the student to the functions, modules, and operations involved in runtime services and language services, cover programming interfaces in Python, and explain about modules that are used for processing various kinds of operations in files and directories. </p><p><strong>Section 14-16: </strong>The student will be introduced to library modules that enable threads and concurrency in Python, given an overview of some of the operating system services, and cover how Python offers modules for different processes to communicate.</p><p><strong>Section 17-19:</strong> The student will be learning about Internet protocols and how they are used to communicate across a set of interconnected networks and computers, cover methods, Internet protocols, and the technology used to combine Python with a web server to create dynamic content, and covers Python modules such as HTML, XML, DOM and SAX, and Expat.</p><p><strong>Section 20:</strong> Final Exam</p>", 
+    "end_date": null, 
+    "title": "Learn Python Programming Lanaguage", 
+    "price": "20.00", 
+    "instructors": "LearnSmart LLC", 
+    "commitment": "15.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/489532_b79f_2.jpg", 
+    "course_url": "https://www.udemy.com/python-programming-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-29T15:12:23Z"
+}

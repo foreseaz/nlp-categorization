@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will be a project based course that will have a final product, a website, while each lecture touches on a new feature of the Laravel technology. We will build a basic blog website where you will learn how routing works, how database is integrated, forms, authentication, security and much more. All you need is a computer with an internet connection, at least to download the proper files at the beginning. You will get the most out of the course by reading the Laravel documentation, which goes into more details then I can go through in a video lecture due to time constraint. But I will cover the most important things. You will also benefit by taking the information I teach and try to apply it to your own custom website. Start small and if structured correctly, you will be able to keep adding more to your application easily. This is called scalability. </p>", 
+    "end_date": null, 
+    "title": "Laravel 5.1 for Beginners", 
+    "price": "20.00", 
+    "instructors": "Michel McAlexander", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/614850_6f9a_2.jpg", 
+    "course_url": "https://www.udemy.com/laravel-51-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-17T14:32:43Z"
+}

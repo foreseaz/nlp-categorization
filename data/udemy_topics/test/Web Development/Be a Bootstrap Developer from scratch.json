@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\">What is Bootstrap?</strong></p><p style=\"\">Bootstrap is a free and open-source collection of tools for creating websites and web applications. It contains HTML- andCSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. It aims to ease the development of dynamic websites and web applications.</p><p style=\"\">Bootstrap is a front end framework, that is, an interface for the user, unlike the server-side code which resides on the &quot;back end&quot; or server.</p><p style=\"\">As of June 2015, it was the most-starred project on GitHub, with over 81,000 stars and more than 32,000 forks</p><p style=\"\"><strong style=\"\">Why one should focus on learning Bootstrap?</strong></p><p style=\"\">Present world web interface is getting more oriented toward mobile and tablet view compatibility. Designing a separate website for just mobile user was a past technology. Now we want to have one website that can respond to various view ports and can adjust according to that. Bootstrap is one such answer to all questions.</p><p style=\"\"><strong style=\"\">What will be the learning procedure?</strong></p><p style=\"\">Learning procedure in this course is very simple. We will first things in our hand until you say the words, “Yes, that was easy”. We will first introduce you with bits of bootstrap, mostly its classes. Every button, link, nav bar and related thing will be covered and we will do all the code writing part. But make sure you also write what we write in video. Once everything is done, then we will move to simple projects. After that shovel will be given to you. Yes, it may be daunting but just keep faith in us. You just have to modify the project given to you. Ultimately, it is out duty to make sure that you able to write at least a responsive web page in bootstrap.</p><p style=\"\"><strong style=\"\">When can I start?</strong></p><p style=\"\"> As soon as you are ready to learn a new skill, get out of your comfort zone and take this course. There is no end date and start date.</p>", 
+    "end_date": null, 
+    "title": "Be a Bootstrap Developer from scratch", 
+    "price": "20.00", 
+    "instructors": "Igneus Technologies", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/537008_00c8_3.jpg", 
+    "course_url": "https://www.udemy.com/be-a-bootstrap-developer-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-25T10:37:19Z"
+}

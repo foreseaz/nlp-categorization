@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t<strong style=\"\">To BI managers and BI developers:</strong> You&#039;ve implemented an organizational Analysis Service model. Congratulations! Now you need to choose a tool for interactive data analytics and train your users. As you know, there is a proliferation of Business Intelligence tools on the market and each claims to solve your challenges. But the chances are that you already have what you need – Microsoft Excel. And, as far as the documentation goes, who has time to document all Excel BI features and demo them to users? I designed this class to help you empower your users and get them excited about BI with Excel.  </p>  <p>  \t<p>  \t\t<strong style=\"\">To business users:</strong> If your organization have Analysis Services Multidimensional cubes or Tabular models and you want to gain valuable insights from them, then this course is for you. Designed as a step-by-step tour, this course teaches you how to become a data analyst and unlock the hidden power of data. You&#039;ll learn how to apply the Excel desktop BI capabilities to create versatile reports and dashboards for historical and trend analysis. You&#039;ll learn also how to share your BI artifacts across the organization by publishing them to SharePoint. &quot;I never knew Excel can do this&quot; is the most common feedback we hear from our students.<br style=\"\">  \t</p>  \t<p>  \t\t<p>  \t\t\t<p>  \t\t\t\t<p>  \t\t\t\t\t<p>  \t\t\t\t\t\t<p>  \t\t\t\t\t\t\t<p>  \t\t\t\t\t\t\t\t<p>  \t\t\t\t\t\t\t\t\t<em style=\"\">              The course includes 5.5 hours of recorded content. For best visual experience, turn on the HD option in the video controller because the hosting site doesn&#039;t support this by default.</em>  \t\t\t\t\t\t\t\t</p>", 
+    "end_date": null, 
+    "title": "Applied Excel and Analysis Services", 
+    "price": "50.00", 
+    "instructors": "Teo Lachev", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/286110_e92b_4.jpg", 
+    "course_url": "https://www.udemy.com/applied-excel-and-ssas/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-22T19:11:23Z"
+}

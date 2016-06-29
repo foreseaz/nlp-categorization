@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \tThis Oracle 11g video based training course from Infinite Skills will teach  you the basics of operating an Oracle Database server and environment. You will also discover the basics of how to manage and develop for an Oracle Database, and administer one.  </p>  <p>  \t<br>  \tThis tutorial is designed for the beginner. This training will teach you the basics of what it means to administer an Oracle Database. Throughout the training, you will be able to better understand the path you can continue on from here, whether that is to become a DBA, developer or administrator of Oracle Databases. You will learn about processes and architectural concepts of a database. This video training also covers topics such as storage, data modelling, basic SQL, database tasks, and how all of these apply specifically to Oracle Databases.<br>  \t<br>  \tBy the completion of this video tutorial, you will have a fundamental understanding of how an Oracle Database server and environment function, as well as how database concepts apply specifically to an Oracle Database. Working files are included to assist you as you work through this computer software training course.  </p>", 
+    "end_date": null, 
+    "title": "Learn Oracle 11g  - A Comprehensive Training Course", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/81310_2b9a_11.jpg", 
+    "course_url": "https://www.udemy.com/oracle-11g-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-20T17:28:12Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t      This course is meant for non-developers who are interested in learning how to create database-driven web applications and browser-based mobile apps.  There is no coding involved, so you do not need to have prior software programming knowledge or experience.  <strong style=\"\">This course is great for anyone with some technical acumen</strong> who wants to learn how to build applications which contain <strong style=\"\">data capture forms, statistical reports and workflows</strong>. When you&#039;re done with this course you&#039;ll have a better understanding of how<strong style=\"\"> Database tables </strong>function, and how you can build your own <strong style=\"\">web application without writing any code!</strong> Building applications with Caspio is a breeze; so much so, that most applications, regardless of their size, can be built within an hour. The Membership application that we built for this course, with detailed explanations, took literally 25 minutes to build. Once you get a good grasp on how the platform works, you&#039;ll be able to build this exact application in 10 minutes or less. Good luck and have fun with the build. </p>", 
+    "end_date": null, 
+    "title": "Learn How To Build a Web Application Without Coding", 
+    "price": 0, 
+    "instructors": "Ned Pajic", 
+    "commitment": "32 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/336938_f4b2_5.jpg", 
+    "course_url": "https://www.udemy.com/learn-how-to-build-a-web-application-without-coding/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-05T21:41:18Z"
+}

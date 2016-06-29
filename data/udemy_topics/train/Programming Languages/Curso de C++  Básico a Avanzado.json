@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>El curso se enfocará en aprender los conceptos básicos y avanzados de C++ con <strong>Programación Modular</strong> . Un curso totalmente enfocado a estudiantes universitarios o principantes que deseen aprender programación con C++.</p><p>El modalidad de enseñanza del curso es totalmente <strong>teórico/práctico</strong> donde se explicará detalladamente cada uno de los temas y se desarrollarán programas a modo de práctica para poder reforzar los conocimientos adquiridos.</p><p>El curso también cuenta con un taller para poder unificar todo lo aprendido hasta el momento, y se desarrollará paso a paso una agenda.</p>", 
+    "end_date": null, 
+    "title": "Curso de C++: Básico a Avanzado", 
+    "price": 0, 
+    "instructors": "Gianmarco Tantaruna", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/763172_d61c_4.jpg", 
+    "course_url": "https://www.udemy.com/curso-de-cpp-basico-a-avanzado/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-15T13:40:08Z"
+}

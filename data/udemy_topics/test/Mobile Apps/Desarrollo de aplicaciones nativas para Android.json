@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tEl curso <strong>“Android básico”</strong> tiene como objetivo la <strong>creación de aplicaciones android con funcionalidad básica</strong>, comienza desde la explicación de android, su estructura, entorno de desarrollo y los conceptos naturales de android, después continuamos con la interacción de elementos y concluimos con la publicación de tu App.  </p>  <p>  \t<br>  \t <strong>Las lecciones cuentan cada una con su video </strong>en donde se explica a detalle lo que necesitamos para iniciarnos en el mundo de desarrollo android.  </p>  <p>  \tEste curso se hizo para ayudar a una persona con conocimientos basicos en programación, desarrollo, HTML, paradigmas de programacion.<strong> Espero que valoren este curso</strong> ya que se hizo un gran esfuerzo para crearlo. Espero que si les gusta lo <strong>califiquen, recomienden y compartan.</strong>  </p>", 
+    "end_date": null, 
+    "title": "Desarrollo de aplicaciones nativas para Android", 
+    "price": "20.00", 
+    "instructors": "José Luján", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/279042_97b3_2.jpg", 
+    "course_url": "https://www.udemy.com/android-basico/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-11T21:46:24Z"
+}

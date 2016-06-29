@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t <strong style=\"\"></strong><strong style=\"\">Home I/O</strong> is an educational software which simulates <strong style=\"\">a smart house</strong> and allows you to <strong style=\"\">learn and improve your skills in home automation</strong>, heat transfer, energy efficiency and much more.  </p>  <p>  \t            It can be as simple as controlling any of the available devices, like a <strong style=\"\">motorized garage door </strong>or <strong style=\"\">a thermostat</strong>, or as sophisticated as setting up a network to enable centralized control of the entire home.<br style=\"\">  \t<br style=\"\">  \t <strong style=\"\"> What this course includes?</strong><br style=\"\">  \t <strong style=\"\"></strong>  </p>  <ul style=\"\">  \t<li>High Quality Video Tutorials which will explains &quot;<strong style=\"\">How to use Soft PLC Logics to control Home I/O Environment</strong>&quot;?</li>  \t<li>Digital &amp; Analog Signal Manipulation</li>  \t<li><strong style=\"\">Latching </strong>&amp; <strong style=\"\">Unlatching</strong> Operation</li>  \t<li>Study of <strong style=\"\">Motion Detection, Security Lock &amp; Intruder Alert</strong> by Soft PLC Logics</li>  \t<li>Soft PLC Fundamental Logics-<strong style=\"\"> NO, NC, SR, RS, TON, TOFF, CTU, CTD, CTUD, ASSIGN, Real Time Control</strong></li>  \t<li>Supported <strong style=\"\">Manuals</strong> &amp; <strong style=\"\">Documents</strong></li>  </ul>  <p>  \t<strong style=\"\">What Home I/O Consist?</strong>  </p>  <strong style=\"\">174 Controllable Devices</strong>  <p>  \t        More than <strong style=\"\">400 I/O points</strong>. Interact with all the <strong style=\"\">lighting, heating, motorized, intrusion security and domestic safety devices</strong> in one of the three available Modes: <strong style=\"\">Wired</strong>, <strong style=\"\">Console </strong>and <strong style=\"\">External</strong>.  </p>  <strong style=\"\">Home Automation Console</strong>  <p>  \t        Practice centralized control of the house by creating specific scenarios in the Console Mode for different situations like <strong style=\"\">Vacations, Security &amp; Monitoring</strong> or <strong style=\"\">Energy Management.</strong>  </p>  <strong style=\"\">Connect External Technologies</strong>  <p>  \t        Use <strong style=\"\">Connect I/O</strong> to get unlimited possibilities by accessing and controlling Home I/O through external technologies, like <strong style=\"\">PLC, microcontrollers</strong>, etc.  </p>  <strong style=\"\">Heat Transfer</strong>  <p>  \t        A simplified model was created to enable a real time representation of how heat transfers between different bodies. It&#039;s advised to use the faster than real time mode to observe these phenomena since they are typically slow. The existing coloured Minimap allows you to see how temperature changes inside every room.  </p>  <strong style=\"\">Analyse And Learn About Energy Efficiency</strong>  <p>  \t        Alter all the parameters of the house and learn about energy efficiency by observing and analysing the consumption of energy or cost per hour, day, week and month.  </p>", 
+    "end_date": null, 
+    "title": "HOME I/O- Bringing Home Automation", 
+    "price": "20.00", 
+    "instructors": "Mr Rajvir Singh", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/190930_af34_4.jpg", 
+    "course_url": "https://www.udemy.com/bringing-home-automation/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-29T17:29:21Z"
+}

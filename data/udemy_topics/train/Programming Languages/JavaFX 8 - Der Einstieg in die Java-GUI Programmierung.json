@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In diesem Kurs lernst du die Grundlagen der GUI Entwicklung in JavaFX kennen. Er ist sowohl für komplette GUI Neulinge, als auch für Swing/SWT Umsteiger geeignet.</p><p>JavaFX wird u.a. von Oracle momentan stark weiterentwickelt. Das bedeutet, dass du schon jetzt in das Gebiet einsteigen kannst und damit einen großen Vorteil gegenüber anderen hast, die sich noch mit veralteten Technologien herumschlagen. Investiere jetzt in deine Zukunft!</p><p><strong style=\"\">Der vorliegende Kurs beinhaltet:</strong></p><ul style=\"\"><li>Einführung in die GUI Entwicklung an sich</li><li>Grundlagen der Properties, die mächtige neue Datentypen von JavaFX sind</li><li>Alle GUI Elemente (Nodes und Panes) von JavaFX8u40 werden vorgestellt!</li><li>Ansprechende Diagramme können mit JavaFX erstellt werden. Wie dies funktioniert, wird ebenfalls gezeigt.</li><li>Der SceneBuilder ist ein einfaches Tool mit dem komplexe GUIs innerhalb von Minuten zusammengeklickt werden können. Eine Einführung darin erhältst du hier!</li><li>Um GUIs noch weiter aufzupeppen, kann in JavaFX die bekannte Stylesheet-Sprache CSS verwendet werden. Auch das wird dir hier gezeigt!</li><li>Eine erfolgreiche GUI Entwicklung setzt voraus, dass die grafische Benutzeroberfläche niemals hängen bleibt, das frustet sonst den User unnötig. Einige Taktiken, wie dies funktioniert, werden vorgestellt.</li></ul><p><strong style=\"\">Aber damit nicht genug!</strong></p><p>Dir fehlt etwas im Kurs? Schreib mir einfach hier auf Udemy oder per Mail (jakob.schaal@hotmail.com), wenn sich genug Leute für ein Thema, welches mit JavaFX zu tun hat, interessieren, dann werden neue Episoden aufgenommen und hochgeladen.</p><p><strong style=\"\">Und was, wenn mir der Kurs dann doch nicht gefällt?</strong></p><p>Das glaube ich nicht. Und wenn doch, gibt es auf Udemy eine 30-tägige Geld-Zurück-Garantie! Sollte dir der Kurs wirklich nicht gefallen, dann mach bitte davon Gebrauch. Also, riskiers ruhig! Du hast nichts zu verlieren, investierst aber in deine eigene Zukunft!</p>", 
+    "end_date": null, 
+    "title": "JavaFX 8 - Der Einstieg in die Java-GUI Programmierung", 
+    "price": "30.00", 
+    "instructors": "Jakob Schaal", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/495990_0668_6.jpg", 
+    "course_url": "https://www.udemy.com/javafx-gui/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-07T14:59:41Z"
+}

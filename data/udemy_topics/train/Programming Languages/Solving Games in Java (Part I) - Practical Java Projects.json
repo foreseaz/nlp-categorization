@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t                        You know Java basics, maybe even took a data structures course and wonder how your knowledge could be used in practice? Looking for a coding project to hone your skills? Want to outplay or baffle your friends with a program that plays better than them? Join these series to build game solvers, game AI and Flash game bot! From scratch!  </p>  <p>  \t<em>                Solving Games in Java</em> course series are targeted for demonstration of practical usage of searching techniques like depth-first search, breadth-first search, A* search, IDA* search, minimax search, alpha-beta pruning. Basic understanding of recursion and Java data structures (list, array, queue) is recommended.  </p>  <p>  \t                      Course series (released as different courses, some might still be unreleased):  </p>  <ul>  \t<li><strong>Part I: Boggle solver (3 different solutions, primary focus is DFS)</strong></li>  \t<li>Part II: N-puzzle solver (4 different solutions: DFS, BFS, A*, IDA*)</li>  \t<li>Part III: Connect Four (4 different AI players: random, Monte Carlo, minimax, alpha-beta pruning)</li>  \t<li>Part IV: Diamond Dash (we will build a bot to beat this Facebook game)</li>  </ul>  <p>  \t              By the end of each course you will build a working solution (or even multiple solutions) which you could continue to work on, update, modify, experiment!  </p>", 
+    "end_date": null, 
+    "title": "Solving Games in Java (Part I) - Practical Java Projects", 
+    "price": "30.00", 
+    "instructors": "Konstantin Saveljev", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/281448_abaf_2.jpg", 
+    "course_url": "https://www.udemy.com/solving-games-in-java-part-i/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-15T12:16:06Z"
+}

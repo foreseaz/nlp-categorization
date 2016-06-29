@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Learn how to master various web technologies to create mobile apps that run on all of the major platforms - Android, iOS and Windows Phone - within this great course. Throughout this course you will learn to create, test, debug, and publish your apps, as we cover a variety of web technologies and app development frameworks including:  </p>  <ul style=\"\">  \t<li style=\"\">JQuery</li>  \t<li style=\"\">Javascript</li>  \t<li style=\"\">CSS</li>  \t<li style=\"\">HTML5</li>  \t<li style=\"\">PhoneGap</li>  \t<li style=\"\">Intel XDK</li>  \t<li style=\"\">AppMobi API</li>  </ul>  <p>  \t<strong style=\"\">Build Apps that Can Reach the World</strong>  </p>  <p>  \t  Web technologies provide a big advantage in terms of portability and you will be able to reach multiple platforms using single code base. In this quick, step-by-step tutorial you will learn to use various APIs and integrate them in your apps.  </p>  <p>  \t<strong style=\"\">Content and Overview </strong>  </p>  <p>  \t  Through this course of 33 lectures and 7+ hours of content, you’ll learn all of the web technology fundamentals and establish a strong knowledge of mobile app development and API integration to make your apps even more robust. By the end of this course, you will be able to produce quality apps that you’ll be able to release across multiple platforms, including the App Store, Google Play Store, and Windows Phone Store.  </p>", 
+    "end_date": null, 
+    "title": "Learn to Build Mobile Apps from Scratch", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/109540_5acd_9.jpg", 
+    "course_url": "https://www.udemy.com/learn-to-build-mobile-apps-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-23T10:24:54Z"
+}

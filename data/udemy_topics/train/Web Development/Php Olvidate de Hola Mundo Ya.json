@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Olvídate de los Hola Mundo Ya. En este curso crearemos un proyecto real donde vamos a plantear requerimientos, analizar y determinar que acciones lógicas tomar, crearemos módulos para capturar, leer y subir imágenes a un servidor, con el lenguaje de programación PHP, incrementaremos nuestra lógica de programación, realizaremos pruebas en nuestro servidor local y en nuestro servidor real, veremos como funciona y se comporta PHP en un entorno de desarrollo y producción. La curva de aprendizaje es sencilla, estés en el sistema operativo que estés, puedes instalar PHP y empezar a programar.</p><p>Entendemos que es incomodo aprender y aprender, sin explotar lo aprendido, por eso nos olvidaremos del hola mundo ya.</p>\n\n<p>PHP es uno de los lenguajes más populares y compatibles para la web, crear un proyecto con éste lenguaje te asegura una aceptación dado que está presente en la mayoría de los servidores públicos de Internet. Es muy fácil subir tu proyecto a la nube y que tus clientes hagan las pruebas y valicaciones necesarias.</p>\n\n<p>PHP es la evolución lógica en el aprendizaje de todo desarrollador web.</p>\n\n<p>Te esperamos!</p>\n\n<p>Recuerda que cuentas con 30 días de garantía.</p>", 
+    "end_date": null, 
+    "title": "Php Olvidate de Hola Mundo Ya", 
+    "price": 0, 
+    "instructors": "George Perez", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/844408_9868_2.jpg", 
+    "course_url": "https://www.udemy.com/php-olvidate-de-hola-mundo-ya/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-10T00:51:59Z"
+}

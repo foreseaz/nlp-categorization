@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>This course is for people who want to learn Apache Subversion SVN and how to setup a complete development environment. </strong></p><p><strong>Learn Subversion 1.9x on a Windows, Mac, or Linux machine.</strong></p><p><strong>Covers the new features introduced in 1.8.x and 1.9.x versions.</strong></p><ul><li><strong>Download, Install, and Configure Subversion with Apache 2.2.x Web Server.<br></strong></li><li><strong>Create a Tutorial Repository for practice and YOUR repository using best practices.<br></strong></li><li><strong>Practice with sample files how to import, create, modify, delete, and view files.<br></strong></li><li><strong>Learn how to probe the repository and identify when changes were made.<br></strong></li><li><strong>Build and configure your Subversion development environment using Perl and Python.<br></strong></li><li><strong>Learn all about Hooks. Program scripts that execute when a user runs a specific command.<br></strong></li><li><strong>Learn how to attach properties to files (both Revision and Non-Revision).<br></strong></li><li><strong>Learn how parallel development is done through branching and merging.<br></strong></li></ul><p><strong>One course that covers Windows, Mac, and Linux.</strong></p><p><strong><em><br></em></strong></p><p><strong><em>I provide quality SVN training on how to use the tool by:</em></strong></p><ul><li><strong>Showing you what commands to use as you add content into the repository.</strong></li><li><strong>I provide you with Perl/Python scripts that you can use that will help you develop a workflow to store and identify content.</strong></li><li><strong>I provide you with the knowledge you need to understand the concepts of parallel development through branching and merging.</strong></li><li><strong>I show the quintessential branching and merging patterns you need in order to use it for your development.</strong></li><li><strong>I provide a real working coding example of how to take code and add a new feature to the code using the branching and merging techniques.</strong></li></ul><p><strong><em><br></em></strong></p><p><strong><em>Here's what you learn about the tools:</em></strong></p><ul><li><strong>How to setup the Subversion source code repository system using Apache 2.X server as the backbone to access the repository.</strong></li><li><strong>You learn the basic and advanced commands, including how to use the import command to populate files in the Repository.</strong></li><li><strong>You learn the best-practices on how to setup a repository of your own separate from the one we use to learn with.</strong></li><li><strong>You learn how to build Perl and Python from source code we download for Linux/Mac.</strong></li><li><strong>You learn how to integrate a graphical Diff/Merge tool that is free on the internet to enhance the usability of Subversion.</strong></li></ul><p><strong>Join me in the next lecture in this quality SVN Course!</strong><br></p>", 
+    "end_date": null, 
+    "title": "Comprehensive Subversion", 
+    "price": "20.00", 
+    "instructors": "William Oliver", 
+    "commitment": "14.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/560340_a73e_3.jpg", 
+    "course_url": "https://www.udemy.com/comprehensive-subversion/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-21T11:05:35Z"
+}

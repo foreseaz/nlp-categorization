@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  This course will be sure to excite the web developers of tomorrow and extend their knowledge of transforming into the 3D space! You can create some of the most engaging experiences by using 3D in the latest browsers. This course will also demonstrate implementing CSS 3D safely for older browsers.  </p>  <p style=\"\">  \t  Another advantage is hybrid apps for desktop and mobile devices, which means you can use CSS 3D in certain apps!  </p>", 
+    "end_date": null, 
+    "title": "CSS 3D", 
+    "price": "25.00", 
+    "instructors": "Lawrence Turton", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/278601_c731_5.jpg", 
+    "course_url": "https://www.udemy.com/cartoonsmart-css-3d/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-11T09:02:25Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Theoretical Computer Science"
+    ], 
+    "description": "\n\n                    \n                    \n                    点击上方绿色按钮报名。\n本课程的 教学内容包括：形式语言与自动机理论、可计算性理论、计算复杂性理论等三个部分。这些内容分别回答下列问题：（1）有哪些计算装置？它们的能力如何？ （2）什么是计算？哪些问题是（不）可计算的？（3）什么是有效计算？哪些问题是（不）可有效计算的？通过这门课程的学习，学生将了解计算理论的基础知 识，掌握有效计算的概念。\n本课程的教学方式包括教学录像片段（每段录像8-20分钟，内含1-2个测验问题），教学录像之外的书面作业，以及（必须参加的）期末考试。\n本课程课程的总长度为8周，每周教学录像长度大约120分钟。需要的预备知识是离散数学（集合论、数理逻辑、图论等）的基本概念。\n\n本课程需要哪些资源才能进行学习？\n\n答：一台联网的电脑，纸和笔，以及最重要的好奇心。\n\n本课程最有趣的内容是什么？\n\n答：本课程将告诉你计算机不可能做到的一些事情。\n\n本课程需要什么先修课程？\n\n答：离散数学的基础知识，包括集合、关系、函数、逻辑、图等。\n\n\n\n                                    ", 
+    "end_date": "2015-12-21T00:00:00Z", 
+    "title": "04830260x: 理论计算机科学基础 | Introduction to Theoretical Computer Science", 
+    "price": 0, 
+    "instructors": "Liu Tian", 
+    "institution_name": [
+        "Peking University"
+    ], 
+    "commitment": "3 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/li-lun-ji-suan-ji-ke-xue-ji-chu-pekingx-04830260x-0", 
+    "duration": "13 weeks", 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2015-09-21T00:00:00Z"
+}

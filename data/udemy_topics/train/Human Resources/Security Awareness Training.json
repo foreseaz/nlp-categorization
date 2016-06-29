@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\">Security Awareness Training is a course that everyone can benefit from. This course will discuss security and privacy in regards to our personal devices, the passwords we use, phishing attacks and suspicious URLs, social engineering, data leakage, and some general tips for staying safe online. </p><p style=\"\">This course is offered at a basic level and it is not a technical course. Anyone who wants more information on security and privacy will benefit from taking this course. The course is taught mostly through video and there are quizzes at the end of each section. The video portion of the course is just under 2 hours and the whole course should take around 3 hours to complete. This course is constantly being updated with new material being added all the time. </p>", 
+    "end_date": null, 
+    "title": "Security Awareness Training", 
+    "price": "20.00", 
+    "instructors": "Michael Biocchi", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/536482_9403_5.jpg", 
+    "course_url": "https://www.udemy.com/security-awareness-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Human Resources"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-24T19:26:51Z"
+}

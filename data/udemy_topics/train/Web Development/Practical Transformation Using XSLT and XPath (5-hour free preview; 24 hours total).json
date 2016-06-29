@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>&quot;Practical Transformation Using XSLT and XPath&quot; is over 24 hours of instructor lecture, with hands-on exercises and solutions, of an intensive five-day training class.  The introduction/overview is free, the first two modules are free, the introduction of every other module is free, one additional lecture is free and the annexes are free: a total of 311 minutes of free preview content!</p> <p>This class overviews the entire scope of the Extensible Stylesheet Language Transformations (XSLT) 1.0 <a target=\"_blank\" title=\"http://www.w3.org/TR/xslt\" href=\"http://www.w3.org/TR/xslt\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">http://www.w3.org/TR/xslt</a>, XSLT 2.0 <a target=\"_blank\" title=\"http://www.w3.org/TR/xslt20\" href=\"http://www.w3.org/TR/xslt20\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">http://www.w3.org/TR/xslt20</a>, the XML Path Language (XPath) 1.0 <a target=\"_blank\" title=\"http://www.w3.org/TR/xpath\" href=\"http://www.w3.org/TR/xpath\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">http://www.w3.org/TR/xpath</a> and XPath 2.0 <a target=\"_blank\" title=\"http://www.w3.org/TR/xpath20\" href=\"http://www.w3.org/TR/xpath20\" class=\"external-link\" rel=\"nofollow noreferrer\" style=\"\">http://www.w3.org/TR/xpath20</a> W3C Recommendations, used for transforming structured information (e.g. XML to XML, XML to HTML, XML to XSL-FO, XML to text, etc.). The objectives of the course are to understand the role and utility of the Recommendations, to overview all the constructs of the Recommendations (this five-day delivery covers every element, every attribute, and every function), to design and develop XSLT scripts, and to efficiently navigate the available documentation and resources. The relationship of XSLT to XSL is explained, though details of XSL Formatting Object semantics are not included.</p> <p></p>", 
+    "end_date": null, 
+    "title": "Practical Transformation Using XSLT and XPath (5-hour free preview; 24 hours total)", 
+    "price": "50.00", 
+    "instructors": "G. Ken Holman", 
+    "commitment": "24 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/10620_db53_8.jpg", 
+    "course_url": "https://www.udemy.com/practical-transformation-using-xslt-and-xpath/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2011-10-25T05:00:58Z"
+}

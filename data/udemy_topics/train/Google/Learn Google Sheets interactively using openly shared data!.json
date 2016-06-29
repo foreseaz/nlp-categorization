@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p><strong>Save time at your job and build marketable skills by mastering Google Sheets. This course takes you from beginner level to intermediate/advanced (think industry analyst level). You'll learn how to:</strong><br></p>\n\n<ul><li>Create, name, share sheets</li><li>Format sheets, best practices</li><li>Conditional formatting</li><li>Filter and sort data</li><li>Use TEXT functions to clean/manipulate data<ul><li>CONCATENATE, LEFT, RIGHT, MID, SUBSTITUTE</li></ul></li><li>Use basic math functions, including<ul><li>SUM</li><li>AVERAGE</li><li>COUNT</li><li>MIN</li><li>MAX</li><li>ROUND</li></ul></li><li>More advanced math functions<ul><li>SUMIFS</li><li>COUNTIFS</li><li>AVERAGEIFS</li></ul></li><li>Create and customize charts</li><li>Pivot tables</li><li>Lookups<ul><li>VLOOKUP, INDEX/MATCH</li></ul></li><li>Use logical functions such as IF, OR, AND</li><li>Use INDIRECT and pair with INDEX/MATCH</li><li>Link data together from multiple spreadsheets using IMPORTRANGE</li></ul>\n\n\n\n<p>This course will give you you everything you need to know about Google Spreadsheets, an increasingly important tool and rapidly growing in the enterprise sector.</p>\n\n<p>Additionally, <strong>this course will provide you with the example sheets covered, so you can follow along! How fun :)</strong></p>", 
+    "end_date": null, 
+    "title": "Learn Google Sheets interactively using openly shared data!", 
+    "price": "20.00", 
+    "instructors": "Erik Rood", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/798444_750c_2.jpg", 
+    "course_url": "https://www.udemy.com/master-google-sheets/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Google"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-20T01:13:25Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t What are HTML5 and CSS3, and why are people so excited about them? In  this workshop, the first of a three-part series, an expert author introduces you to these emerging technologies and why they are  going to change the world of web development. You’ll learn how to work  with new HTML5 features like semantic tags, the selector API, new form  input controls, improved accessibility, and more. You’ll also get up to  speed on the basics of CSS3, from creating drop shadows and rounded  corners to working with transforms, selectors, and web fonts.<br style=\"\">  \t <br style=\"\">  \t In this workshop you’ll be introduced to the fundamentals of web  development with HTM5 and CSS3. The contents of this course include:<br style=\"\">  \t <br style=\"\">  \t <strong style=\"\">Introduction to HTML5</strong><br style=\"\">  \t This chapter gives an overview of the purpose and scope of HTML5 and CSS3, and summarizes the key features.<br style=\"\">  \t <br style=\"\">  \t <strong style=\"\">Creating HTML Content</strong> <br style=\"\">  \t In  this chapter you’ll learn how to structure an HTML document using  semantic tags and how to locate content quickly by using the HTML5  Selector API.<br style=\"\">  \t <br style=\"\">  \t <strong style=\"\">Development Tools and Debugging</strong><br style=\"\">  \t This  chapter explores popular HTML5 IDEs and browser developer tools, and  shows how to use Modernizr to test for HTML5 feature support.<br style=\"\">  \t <br style=\"\">  \t <strong style=\"\">Forms Input</strong><br style=\"\">  \t This chapter explores the new form controls in HTML5 and also demonstrates how to use the new File Handling API.<br style=\"\">  \t <br style=\"\">  \t <strong style=\"\">Accessibility</strong><br style=\"\">  \t This chapter explains how to use the accessibility features in HTML5, which aid assistive technologies such as screen readers.<br style=\"\">  \t <br style=\"\">  \t <strong style=\"\">Using CSS3 Effectively</strong><br style=\"\">  \t This  chapter explores the new features in CSS3, which can be used alongside  HTML5 to define the presentation layout for web pages.<br style=\"\">  \t <br style=\"\">  \t The  lessons are wrapped in a feature-rich interface that lets you jump to  any topic and bookmark individual sections for later review. Full-Screen  mode provides a hi-def, immersive experience, and Watch-and-Work mode  shrinks the video into a small window so you can play the videos  alongside your application. Also included are exercise files that give  you an easy way to try out the techniques you learn.  </p>", 
+    "end_date": null, 
+    "title": "Learn Html5 & CSS3 from scratch", 
+    "price": 0, 
+    "instructors": "Skill Pass", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/269006_5c95_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-html5-css3-from-scratch/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-26T07:10:50Z"
+}

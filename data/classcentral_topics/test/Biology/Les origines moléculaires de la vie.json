@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Biology"
+    ], 
+    "description": "\n\n                    \n                    \n                    La compréhension du “vivant” est un sujet passionnant : qu’est-ce qui caractérise la vie d’un organisme ? Quels mécanismes biologiques en garantissent l’évolution?\r\nPour répondre à ces questions, nous vous proposons tout d’abord un voyage au coeur des cellules, nous remontrons ainsi le temps jusqu’à isoler l’ancêtre cellulaire de tous les êtres vivants: LUCA (Last Universal Common Ancestor).\r\nNous nous plongerons ensuite dans le fonctionnement intime des cellules, où nous observerons l’usine chimique qui est à l’oeuvre grâce aux molécules biologiques : ADN, protéines, lipides et ARN. Vous pourrez explorer la structure et la dynamique des protéines avec le jeu de découverte scientifique Foldit.\r\nNous étudierons ensuite l’hypothèse du monde ARN, qui propose une description du monde du vivant avant l’apparition de la première cellule. Pour l’expérimenter nous vous proposons de réaliser une simulation interactive d’ARN avec le logiciel UnityMol.\n\n                                    ", 
+    "end_date": "2016-04-20T00:00:00Z", 
+    "title": "Les origines moléculaires de la vie", 
+    "price": 0, 
+    "instructors": "Marc Baaden, Samuela Pasquali and Antoine Taly", 
+    "institution_name": [
+        "Paris Diderot University"
+    ], 
+    "commitment": "3 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://www.france-universite-numerique-mooc.fr/courses/parisdiderot/56004/session01/about", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "France Université Numerique"
+    ], 
+    "start_date": "2016-03-16T00:00:00Z"
+}

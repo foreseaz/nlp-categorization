@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this class I will show you how to build a complete program using ASP .NET MVC in less than one hour using the latest tools from Microsoft. Our sample program will be a web based \"to do\" list that we will build with ASP .NET MCV 5 and the Entity Framework. First I will show you how to quickly build a database for our sample program using SQL Server Express 2014. Next I will show you how to utilize tools from within Visual Studio 2015 Community Edition (Free Download) to quickly build a fully functioning program. I will also show you how you can then customize this code to meet more demanding requirements. </p>", 
+    "end_date": null, 
+    "title": "Create an ASP .NET MVC Application in an Hour", 
+    "price": "20.00", 
+    "instructors": "Destin Learning", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/842736_cab0_5.jpg", 
+    "course_url": "https://www.udemy.com/create-an-asp-net-mvc-application-in-an-hour/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-08T13:05:33Z"
+}

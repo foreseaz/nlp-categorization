@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Blackberry 10 Development: Learn by making native apps</strong> is the most complete Blackberry 10 course on Udemy. Starting from scratch, you will learn how to make stunning apps for this platform.  </p>  <p>  \t    You will be introduce to programming 3 languages: QML, C++ and Javascript  </p>  <p>  \t    Looking for a course to start Blackberry Development, you will be pleased with what this course has to offer.  </p>  <p>  \t    The Curriculum includes:  </p>  <ul style=\"\">  \t<li style=\"\">Blackberry ID creation</li>  \t<li style=\"\">Environment setup</li>  \t<li style=\"\">Momentic IDE</li>  \t<li style=\"\">QML</li>  \t<li style=\"\">Javascript in QML</li>  \t<li style=\"\">Buttons, Text, Images</li>  \t<li style=\"\">Layouts and views</li>  \t<li style=\"\">Navigation</li>  \t<li style=\"\">C++ and QML integration</li>  \t<li style=\"\">Data storage and persistence</li>  \t<li style=\"\">Audio, video and camera</li>  \t<li style=\"\">Sensors</li>  \t<li style=\"\">Localization</li>  \t<li style=\"\">App submission</li>  </ul>  <p>  \t    We will start with the basics. Setting up you environment, device and simulator and building a simple app.  </p>  <p>  \t    We will then move to learning QML and see how Javascript is integrated. We will cover the UI elements such as buttons, text, etc.  </p>  <p>  \t    Then we will see the navigation in an Blackberry app before going to the heavy stuff, namely C++ integration.  </p>  <p>  \t    We will progress to more advanced features such as data storage, audio &amp; video and device sensors.  </p>  <p>  \t    You will get plenty of knowledge from this course. Come on and join!  </p>", 
+    "end_date": null, 
+    "title": "Blackberry 10 Native Development using Cascades", 
+    "price": "20.00", 
+    "instructors": "Davenson Lombard", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/384774_8984_2.jpg", 
+    "course_url": "https://www.udemy.com/blackberry-10-native-development-using-cascades/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-04T10:21:55Z"
+}

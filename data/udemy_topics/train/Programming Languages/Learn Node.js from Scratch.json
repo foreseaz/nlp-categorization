@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tNode.js is a powerful tool for controlling web servers, building applications, and creating event-driven programming. And it brings JavaScript—a language familiar to all web developers—into an environment independent of web browsers. Learn all about Node.js and start creating JavaScript applications in this course. We show how to install Node.js on Mac, Windows, and Linux and dives deep into its modules and Express framework for app development. Learn how to unit test your code, start sessions on web servers, stream data, and create simple command-line tools.  </p>  <p>  \t  Topics include:  </p>  <ul style=\"\">  \t<li>Why use Node.js?</li>  \t<li>Installing Node.js</li>  \t<li>Understanding the event loop</li>  \t<li>Initializing Node.js projects</li>  \t<li>Creating modules with getters and setters</li>  \t<li>Starting Express applications</li>  \t<li>Testing your code</li>  \t<li>Working with sessions and databases</li>  \t<li>Building command-line tools</li>  \t<li>Emitting events and attaching listeners</li>  \t<li>Controlling readable streams</li>  </ul>", 
+    "end_date": null, 
+    "title": "Learn Node.js from Scratch", 
+    "price": "20.00", 
+    "instructors": "QScutter Tutorials", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/183602_7e51_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-nodejs-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-17T06:32:20Z"
+}

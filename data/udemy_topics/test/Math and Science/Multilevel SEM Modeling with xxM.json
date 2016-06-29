@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p><strong><em>Multilevel modeling</em></strong> is a term alternately used to describe <em>hierarchical linear models</em>, <em>nested models</em>, <em>mixed-effects models</em>, <em>random-effects models</em>, and <em>split-plot designs</em>. They are statistical models for estimating parameters that vary at more than one level and which may contain both observed and latent variables at any level. They are generalizations of linear models, particularly <em>linear regression</em>, although they may be extended to non-linear models.</p><p><strong>xxM</strong> is an R package which can estimate multilevel SEM models characterized by complex level-dependent data structures containing both observed and latent variables. The package was developed at the University of Houston by a collaborative team headed by Dr. Paras Mehta. <strong>xxM</strong> implements a modeling framework called <strong><em>n-Level Structural Equation Modeling </em></strong>(NL-SEM) which allows the specification of models with any number of levels. Because observed and latent variables are allowed at all levels, a conventional SEM model may be specified for each level and across any levels. Also, the random-effects of observed variables are allowed both within and across levels. Mehta claims that <strong>xxM </strong>is the only software tool in the world that is capable of estimating the effects of both observed and latent variables in a SEM nomological network across an unlimited number of levels.</p><p>Some of the complex dependent data structures that can be effectively modeled and estimated with <strong>xxM</strong><strong> </strong>include:</p><p>⦁          Hierarchically nested data (e.g. students, classrooms, schools)</p><p>⦁          Longitudinal data (long or wide)</p><p>⦁          Longitudinal data with switching classification (e.g. students changing classrooms)</p><p>⦁          Cross-classified data (e.g. students nested within primary and secondary schools)</p><p>⦁          Partial nesting (e.g. underperforming students in a classroom receive tutoring)</p><p>Model specification with <strong>xxM </strong>uses a “LEGO-like building block” approach for model construction. With an understanding of these basic building blocks, very complex multilevel models may be constructed by repeating the same key building steps.</p><p>This six-session <strong><em>Multilevel SEM Modeling with xxM</em></strong> course is an overview and tutorial of how to perform these key basic building block steps using <strong>xxM</strong>. To convey a practical understanding of implementing the core model specification and construction concepts of <strong>xxM</strong>, seven complete illustrative examples are detailed over the six class sessions. One who completes this course will then be able to construct more complex multilevel models tied to their own research projects. The seven complete examples detailed in the course begin with: (1) a streamlined two-level bivariate random-intercepts model; and (2) a two-level random-slopes model. Then a (3) multilevel confirmatory factor analysis (CFA) and a (4) random-slopes multilevel CFA are detailed, followed by random-slopes (5) 'wide' and (6) 'long' latent growth curve model examples. Finally, a (7) three-level hierarchical model containing both observed and latent variables is fully demonstrated. All of the necessary software, data, manuals, slides and course materials to productively specify and estimate all seven of the course model examples are provided and included in 'resources' folders associated with the video lessons.</p>", 
+    "end_date": null, 
+    "title": "Multilevel SEM Modeling with xxM", 
+    "price": "20.00", 
+    "instructors": "Geoffrey Hubona, Ph.D.", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/605362_339f_7.jpg", 
+    "course_url": "https://www.udemy.com/multilevel-sem-modeling-with-xxm/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-08T00:40:17Z"
+}

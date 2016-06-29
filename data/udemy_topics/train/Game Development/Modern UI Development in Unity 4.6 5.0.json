@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Create a FULL, UI DRIVEN GAME using Unity 4.6, or the latest version, Unity 5.0! Start out by learning the core concepts of the new UI system. Unity&#039;s new UI system gives you the flexibility and WYSIWYG (what you see is what you get) experience to create quickly! You will take what you learned about the UI system and apply it to your game, digging even deeper into advanced features of the system. You&#039;ll also see how to put together a solid, event driven architecture that powers your game, all from the UI. Nothing will be left out: you will get the experience of building a production-ready application. Section 2 really brings everything together into a wider context, showing that if we work <em style=\"\">with</em> the UI, we are given all of the power and flexibility we&#039;ve been promised by Unity Technologies!</p>", 
+    "end_date": null, 
+    "title": "Modern UI Development in Unity 4.6/5.0", 
+    "price": "20.00", 
+    "instructors": "3D BUZZ Programming and Digital Art training", 
+    "commitment": "13.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/481566_4783_3.jpg", 
+    "course_url": "https://www.udemy.com/modern-ui-development-in-unity-46-or-50/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-20T21:22:27Z"
+}

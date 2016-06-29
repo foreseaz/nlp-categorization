@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this course you are going to learn how to simulate various flow configurations in the Computational Fluid Dynamics software OpenFOAM. This includes the simulation of laminar and turbulent, stationary and transient flows. Furthermore, you are going to see how to work with multiphase flows. We will cover how to choose correct initial and boundary conditions for the calculation. Moreover I will explain how to define a spatial domain and mesh it with a structured or unstructured grid. You are going to learn how to edit runtime controls and how to run a job including how to check convergence of the solution and visualize it graphically.\n\n  \n\n</p>", 
+    "end_date": null, 
+    "title": "A Beginner's Guide to simulating with OpenFOAM", 
+    "price": "30.00", 
+    "instructors": "Andrej Lerch", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/828872_ecac_2.jpg", 
+    "course_url": "https://www.udemy.com/openfoam-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-22T05:59:47Z"
+}

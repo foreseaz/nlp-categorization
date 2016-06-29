@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>O curso de JavaScript Expert - Completo e passo a passo tem por objetivo principal ensinar todos os passos necessários que um iniciante na linguagem javascript precisa para dominar esta linguagem de programação que está crescendo bastante neste últimos tempos. Nela você terá todos os conhecimentos exigidos pelo mercado, do mais elementar ao mais avançados.<br></p>\n\n<p>Uma das grandes características marcantes deste curso é que mesmo que o seu nível de conhecimento seja zero, ainda assim conseguirá compreender e se desenvolver como programador javascript, pois da maneira como é ministrado o curso você terá todas as aulas passo a passo, explicado de forma detalhada, com uma linguagem simples, clara e objetiva. Em todo o instante você será apresentado a conteúdos que de fato contribuirão no seu aprendizado, sem rodeios, sem conteúdos inúteis e acima de tudo muita prática, pois a junção da teoria e prática é sempre o melhor caminho para fixar o conhecimento.</p>\n\n\n\n\n\n\n\n<p>Se você é um designer e sempre que precisa de uma interação para os seus sites pesquisa na internet e não consegue entender os código baixados, após este curso você não só conseguirá, como terá condições de fazer seus próprios códigos. pois a linguagem utilizada neste curso é muito passo a passo e qualquer pessoa, com qualquer nível de conhecimento conseguirá entender.</p>\n\n\n\n\n\n<p> O curso JavaScript Expert dar a você um roteiro de estudo e o conduz neste roteiro ensinando e solidificando cada assunto de forma que ao final o seu conhecimento será bastante profundo e concreto, tendo toda a base que você precisa para seguir na sua carreira de programador JavaScript.<br></p>\n\n\n\n<p>O Curso é dividido em quatro partes:</p>\n\n\n\n<p>Parte 01 - JavaScript como linguagem de programação - aqui você aprenderá os conceitos gerais da linguagem javaScript como:<br></p>\n\n\n\n<ul><li>Variáveis</li><li>Tipos de Dados</li><li>Operadores</li><li>Estruturas de controle</li><li>Estruturas de repetição</li><li>Eventos</li><li>Funções</li><li>Objetos</li><li>Arrays</li><li>Objeto Date</li><li>Objeto String</li><li>Objeto Number, </li><li>Expressões Regulares, etc</li></ul>\n\n\n\n\n\n\n\n<p>Parte 02 - Exercícios para ensinar você a pensar como programador - Neste ponto você irá praticar o que aprendeu, resolveremos vários exercícios aplicando a metodologia em que primeiro se explica todo o raciocínio da questão, fazendo você pensar e depois se resolve a questão propriamente dito.</p>\n\n\n\n<p>Parte 03 - JavaScript para manipulação dos elementos da página - Nesta ponto você aprenderá de forma detalhada tudo que precisar manipular todos os elementos de uma página web, Ensinaremos a trabalhar tanto com o BOM quanto o DOM e veremos em detalhes as interfaces, metódos e propriedade dos elementos, como:</p>\n\n\n\n<ul><li>Janelas (window)</li><li>URL</li><li>Navegador</li><li>Formulários</li><li>Listas</li><li>Tabelas</li><li>Interface node</li><li>Eventos, etc.</li></ul>\n\n<p>Parte 04 - Exercícios finais - Neste ponto iremos resolver vários exercícios com exemplos práticos do dia a dia para praticar tudo o que foi aprendido, todos os exercícios resolvidos passo a passo.</p>\n\n\n\n\n\n<p><em></em></p>", 
+    "end_date": null, 
+    "title": "JavaScript Experts - Completo e passo a passo", 
+    "price": "45.00", 
+    "instructors": "Manoel Jailton Nascimento", 
+    "commitment": "17.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/792644_1911_2.jpg", 
+    "course_url": "https://www.udemy.com/curso-de-javascript-completo-e-passo-a-passo/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-14T17:48:08Z"
+}

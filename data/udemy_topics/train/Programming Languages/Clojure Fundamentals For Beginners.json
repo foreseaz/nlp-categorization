@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>There are three types of programmers – those who write small programs, those who write big programs and those who write small programs that do big things. The last type of programmers are often considered as experts.\n\n  </p>\n\n<p>Although, originally programs required hours of long coding to do even the smallest of computation, today one line programs can do so much more than the n number of lines required. The need to break away from the tedious long and complex coding is what resulted in the creation of functional programming languages. \n\n  </p>\n\n\n\n<p>Functional programming languages depend on mathematical functions to compute problems and the results of a code are dependent on the arguments put into the function rather than the statements. \n\n  </p>\n\n\n\n<p><strong>This is where Clojure, a functional programming language comes into the picture.</strong>\n\n  </p>\n\n\n\n<p>Clojure is a functional programming language that is a dialect of Lisp Programming language. The language was designed for Java Virtual Machines (JVMs), Common Language Runtime and JavaScript engines. It uses a programming approach that allows you to write much of the application code as a series of pure functions and is immutable.\n\n  </p>\n\n\n\n<p>Clojure has a macro system and treats code as data, a term that means programming structure of the language is similar to the language’s syntax. The language was created by Rich Hickey because he wanted a language that was a LISP-based functional programming language that was designed for concurrency and was symbiotic with an established platform. So, he created the powerful Clojure programming language!\n\n  </p>\n\n\n\n<p><strong>And we created a course to help users learn this powerful functional language.</strong>\n\n  </p>\n\n\n\n<p>Our Clojure tutorial is a complete course that is designed to teach you not only the conceptual and fundamentals of Clojure but to also help you understand the design behind the language. It will cover all ins and outs of Clojure, including the basics.\n\n  </p>\n\n\n\n<p>Once we understand the basics, we will delve further into the language by dissecting small blocks of Clojure code to understand how it functions. Additionally, we will also go into detail about the various features of Clojure such as abstractions, data structures, forms, macros, symbols, functions, vector types, sequences, lists, etc.\n\n  </p>\n\n\n\n<p>So, what are you waiting for? Click enroll and let’s start writing small programs that do bigger things!!</p>", 
+    "end_date": null, 
+    "title": "Clojure Fundamentals For Beginners", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/814190_c848.jpg", 
+    "course_url": "https://www.udemy.com/clojure-fundamentals-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-06T06:21:22Z"
+}

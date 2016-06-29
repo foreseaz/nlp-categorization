@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">Course UP TO DATE as of April 2016! </strong></p><p><em><strong>Latest Change : English subtitles are added for all the videos .</strong> </em></p>\n\n<p>More than 400+ students have already taken this course with  More than 30+ happy reviews .</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>Have you ever tried to learn about ARM Cortex M3/M4 Processor by reading a book or technical manuals and found stuck ? . Have you  ended up seeing bits and pieces all over the map but could not able tie it all together to have a big picture ? </p>\n\n\n\n\n\n\n\n\n\n\n\n<p>This course is for <strong class=\"redactor-inline-converted\">Embedded Engineers/Students</strong><strong class=\"redactor-inline-converted\"> like you</strong> who want to learn and Program ARM Cortex M3/M4  based controllers by digging deep into its <strong class=\"redactor-inline-converted\">internals and programming aspects.</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>Don't worry if you are new to ARM based controller. In this course, you'll see everything you needed to quickly get started with Programming Cortex M3/M4 based controller. The lab session covers various programming assignments which helps you to remember the concepts better. </p>\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Listen !! Its not Mandatory to have a Hardware !</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>Many people ask me which hardware to buy, i would like to mention that<br>if you buy new hardware for every new course then the problem never ends. The biggest objective of this course to understand the core internal details with register level programming and to share generic ideas to handle interrupts and peripherals so that you  can confident enough to handle any development board based on any microcontroller. </p>\n\n\n\n<p> You will get a full coverage of ARM Cortex M3/M4 processor with full hands on lab sessions. Once you complete the course, <strong class=\"redactor-inline-converted\">I assure you that you will be confident to handle any microcontroller in terms of writing firmware, Memory maps, handling interrupts,Nested Vector interrupt controller(NVIC) , Writing IRQ handlers, handling system exceptions and many more.</strong> I even walk you through<strong class=\"redactor-inline-converted\"> reference manuals and datasheets</strong> to understand things better. </p>\n\n\n\n\n\n\n\n\n\n\n\n<p>For the lab STM32F4xx based Discovery board is used. But the Course is designed such a way  that it can be applied to any Microcontroller based on ARM Cortex M3/M4.<strong class=\"redactor-inline-converted\">  So, need not to buy any special hardware for this course</strong>. if you already have some other development board i would suggest you keep using that. You can download the source code and play with your own hardware.</p>\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Save time and have fun !</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>Watching lectures, Programming assignments and lots of animations will save hours off your self-study time, and will give you the confidence to look at embedded processors  from a different perspective. So, learn something new this year and boost your momentum at  work .</p>\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">My promise !</strong><br>I am confident that this course will save you many, many hours of studying/experimenting/googling  time to learn about this processor. I will personally answer your questions about this material, either privately or in a group discussion.  If you are in any way not satisfied, for any reason, you can get a full refund from Udemy within 30 days. No questions asked. But I am confident you won't need to. <strong class=\"redactor-inline-converted\">I stand behind this course 100% and am committed to helping you . </strong></p>\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Embedded Systems Programming on ARM Cortex-M3/M4", 
+    "price": "30.00", 
+    "instructors": "Kiran Nayak", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/692956_8f85.jpg", 
+    "course_url": "https://www.udemy.com/embedded-system-programming-on-arm-cortex-m3m4/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-09T12:42:08Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Get to learn the hottest container technology to build ship and run your distributed applications. <strong>Docker</strong> is one of the fastest growing virtualization technology company and is already handling IT infrastructure of numerous companies both big and small. This is of the coolest tools for developers in recent years and you must use it to learn its power and ease.  Docker allows quick app creation by assembling of components and allows the app access from multiple sources making it easy to produce and test.  </p><p>If you are a developer you must try out this powerful open source solution for your development needs. Our course is designed to provide a comprehensive training on this technology. You will start with basic concepts behind the container technology and will follow it up with basic installation and set up procedure. You will then learn about Images and containers and will be introduced to Docker Workflow. Docker files and web app development with docker will come next and we will wrap up the course with in depth training on Docker security. </p><p>If you want to learn this amazing new technology then this course is just what the doctor ordered. Learn and start building your apps on Docker  </p>", 
+    "end_date": null, 
+    "title": "Learn App Development with Docker", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/520022_003f_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-app-development-with-docker/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-04T07:52:33Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<h4 style=\"\">    Bienvenue à introduction à <strong style=\"\">Bootstrap 3</strong>.  </h4>  <hr style=\"\">  <h4 style=\"\">  \t<strong style=\"\"><em style=\"\">      Ce tutoriel gratuit vous permettra de découvrir le framework CSS pour le déploiement de sites Internet responsives  </em></strong>  </h4>  <p style=\"\">  \t<strong style=\"\">         Twitter Bootstrap</strong> est un ensemble de code HTML et classes CSS pré-définies pour permettre le développement facile et rapide de sites et applications web, adaptées a toutes tailles d&#039;écran (responsive web design).  </p>  <p style=\"\">  \t                Le <strong style=\"\">framework Bootstrap</strong> inclut des éléments prêts à l&#039;emploi, comme des formulaires, des boutons, des outils de navigation et autres éléments interactifs, ainsi que des extensions Javascript très simples d&#039;utilisation.  </p>  <p style=\"\">  \t<strong style=\"\">        Voici les notions qui seront abordées dans ce tutoriel Bootstrap d&#039;introduction :  </strong>  </p>  <ul style=\"\">  \t<li style=\"\">Une introduction au <em style=\"\">framework</em> Bootstrap.</li>  \t<li style=\"\">Un guide d&#039;installation des fichiers sources.</li>  \t<li style=\"\">Une brève introduction au système de grille</li>  \t<li style=\"\">Un tour de quelques classes et composants CSS </li>  </ul>  <p style=\"\">  \t<strong style=\"\">Au programme de ce cours, vous verrez:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">Comment utiliser les classes, composants et extensions javascripts avec des exemples à l&#039;appui.</li>  \t<li style=\"\">Nous verrons une démonstration de développement de page web en seulement quelques étapes.</li>  </ul>  <p style=\"\">  \t<strong style=\"\">  Outils:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">Il est recommandé d&#039;utiliser un navigateur web moderne comme Chrome ou Firefox.</li>  \t<li style=\"\">Nous utiliserons l&#039;application en ligne CodePen pour les démonstrations en vidéo.</li>  </ul>  <p style=\"\">  \t<strong style=\"\">Pré-requis:</strong>  </p>  <ul style=\"\">  \t<li style=\"\"> HTML</li>  \t<li style=\"\">CSS</li>  \t<li style=\"\">Javascript</li>  </ul>  <p style=\"\">  \t<strong style=\"\">Ce cours est spécialement conçu:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">pour les premiers utilisateurs de Bootstrap</li>  \t<li style=\"\">Concepteurs de page web </li>  \t<li style=\"\">Graphistes</li>  </ul>  <p style=\"\">  \t<strong style=\"\"><em style=\"\">Rejoignez ce cours pour démarrer Bootstrap et apprendre à developper rapidement des pages web responsive </em></strong>  </p>", 
+    "end_date": null, 
+    "title": "Introduction à Bootstrap | Rapide & Facile", 
+    "price": "20.00", 
+    "instructors": "Sandy Ludosky", 
+    "commitment": "31 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/365392_0f98.jpg", 
+    "course_url": "https://www.udemy.com/introduction-a-bootstrap-rapide-facile/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-07T22:40:48Z"
+}

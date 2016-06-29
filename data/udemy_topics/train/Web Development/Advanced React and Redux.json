@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>NOTE: Knowledge of React + Redux is 100% required!</strong> If you are familiar with reducers and action creators you will be fine.<br></p><p>This is the tutorial you've been looking for to take your React and Redux skills to the next level.</p><p><strong>Authentication with Express/Mongo?  </strong>Yes!  <strong>Middleware/Higher Order Components? </strong>We got it.  <strong>Testing with Mocha/Chai?</strong>  It's here!</p><p>This course wastes no time diving right into interesting topics, and teaches you the core knowledge you need to deeply understand and build React components and structure applications with Redux.<br></p><p>Mastering React and Redux can get you a position in web development or help you build that personal project you've been dreaming of. It's a skill that will put you more in demand in the modern web development industry, especially with the release of Redux and ReactNative.</p><p>There are dozens of great tutorials online for React and Redux, but none of them teach the challenging, core features of these two fantastic libraries.  I created this course to push you beyond \"just getting started.\"</p><ul><li>Learn how to thoroughly test React and Redux code, including tests for action creators and reducers</li><li>Get familiar with Higher Order Components.  Don't know what they are?  No problem, you have been using them without even knowing it!</li><li>Rewrite a popular Redux Middleware from scratch to handle asynchronous actions</li><li>Become a master of the trickiest topic in Javascript: authentication.  You will write a server with enterprise-grade authentication from scratch that can scale to hundreds of thousands of users.  No shortcuts, no dummy data.</li></ul><p>I have built the course that I would have wanted to take when I was learning React and Redux.  A course that explains the concepts and how they're implemented in the best order for you to learn and deeply understand them.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Advanced React and Redux", 
+    "price": "25.00", 
+    "instructors": "Stephen Grider", 
+    "commitment": "12 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/781532_8b4d_6.jpg", 
+    "course_url": "https://www.udemy.com/react-redux-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-03T21:45:13Z"
+}

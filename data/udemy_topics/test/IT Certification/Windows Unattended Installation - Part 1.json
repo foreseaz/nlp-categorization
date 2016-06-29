@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \tThis mini-course is the first of a series of courses that will help you master Windows Server different editions.  </p>  <p>  \tIn this course I start with extracting a Windows image from an installation media and customizing that image. Then I create an answer file for the image and change some settings on that answer file.  </p>  <p>  \tFor this customization I use different tools. I mount the image using DISM and work with that like a simple folder. I use SYSPREP to prepare a customized windows installation for capturing and then I use IMAGEX to capture the image.  </p>  <p>  \tI can add more components to this image and create templates for different roles in my company and finally add this image to a deployment environment such as Windows Deployment Server.  </p>  <p>  \tTo boot into WDS server I need a boot image. I show you how to create this boot image and test it.  </p>  <p>  \tIn the next part of this course I will show you more tools to achieve these goals so stay tuned!  </p>", 
+    "end_date": null, 
+    "title": "Windows Unattended Installation - Part 1", 
+    "price": 0, 
+    "instructors": "Mohammad Imani", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/260384_b387_3.jpg", 
+    "course_url": "https://www.udemy.com/windows-unattended-installation-part-1/", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-13T03:46:43Z"
+}

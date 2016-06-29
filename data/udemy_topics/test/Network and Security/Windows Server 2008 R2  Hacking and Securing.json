@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \tWindows Server 2008 R2: hacking and securing training is dedicated for those who manage Server systems and IT infrastructure: IT administrators, IT managers or project managers. <br style=\"\">  \t<br style=\"\">  \t The course includes topics discussed from the point of view of the administrator and shows you step by step what to do to protect the Windows Server against possible attacks and loss of important data.  </p>  <ul style=\"\">  \t<li style=\"\">You will learn how to implement and manage security policies.</li>  \t<li style=\"\">You will customize security policies for your specific requirements.</li>  \t<li style=\"\">You will see how to create your own GPO.</li>  \t<li style=\"\">You will get to know how to automate the deployment of security policies.</li>  \t<li style=\"\">You will learn how to create the certificate templates which will improve your daily work with Windows Server 2008 R2.</li>  \t<li style=\"\">You will discover a number of MMC plug-ins to help you properly configure the Windows Server.</li>  \t<li style=\"\">You will see how to avoid the mistakes when using standard setup wizards.</li>  \t<li style=\"\">You will learn what are the differences in the methods of authentication and why some of them can be dangerous.</li>  \t<li style=\"\">You will get to know the methods of data encryption.</li>  \t<li style=\"\">You will learn the effect of confirming the identity of users and computers.</li>  \t<li style=\"\">You will discover how to monitor the security level of the system.</li>  \t<li style=\"\">You&#039;ll find out what CAs are.</li>  \t<li style=\"\">You will learn how to manage certificates and how to process requests to issue such certificates.</li>  \t<li style=\"\">You will get to know the Administrative Templates.</li>  \t<li style=\"\">You will see how to analyze the software installed on Windows Server, and how to study its effect on security level.</li>  \t<li style=\"\">You will learn the tools to analyze installed applications.</li>  </ul>", 
+    "end_date": null, 
+    "title": "Windows Server 2008 R2: Hacking and Securing", 
+    "price": "20.00", 
+    "instructors": "IT Security Academy, Hacking School", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/326384_0fff_2.jpg", 
+    "course_url": "https://www.udemy.com/windows-server-2008-r2-hacking-and-securing/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-24T13:25:14Z"
+}

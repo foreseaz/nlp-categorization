@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Strategic Management"
+    ], 
+    "description": "\n\n                    \n                    \n                    With SAP Cloud for Customer, companies can unlock value and drive success more safely and inexpensively than ever. The openSAP course Experience SAP Cloud for Customer provides SAP customers and partners with the necessary know-how to get on board safely and quickly. The course offers an initial overview of SAP’s overall Customer Engagement &amp; Commerce strategy (CEC), and how the comprehensive solution portfolio is going to shape CEC as a new software category in the market.\r\nSpecific examples then illustrate the possibilities and procedures for implementing SAP Cloud for Customer - from the functional diversity of the overall solution (supported by many “day in a life” demos), to integration into the existing IT landscape, and on to individual development.\r\n\"Our practice-oriented event is particularly interesting for large companies who want to reposition themselves in the business of sales, service, marketing and social media,\" explain Simon Dechent and Sven Feurer from Cloud for Customer Product Management at SAP.\r\nThe content of this course was originally created and delivered via classroom training to SAP partners. Due to the popularity of this course, you can now access the content via openSAP.\n\n                                            Syllabus\n                        \r\nWeek 1: Strategy &amp; Functional Overview\r\nWeek 2: Functional Overview &amp; Integration\r\nWeek 3: Architecture &amp; Extensibility\r\nWeek 4: Final Exam\r\n\n                                    ", 
+    "end_date": "2015-10-07T00:00:00Z", 
+    "title": "Experience SAP Cloud for Customer", 
+    "price": 0, 
+    "instructors": "Sven Feurer, Simon Dechent and Alexander Schroeter", 
+    "institution_name": [], 
+    "commitment": "4-6 hours", 
+    "subject_name": [
+        "Business & Management"
+    ], 
+    "course_url": "https://open.sap.com/courses/c4c1", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "openSAP"
+    ], 
+    "start_date": "2015-09-09T00:00:00Z"
+}

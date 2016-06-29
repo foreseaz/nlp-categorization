@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t <span>This video course teaches you how to develop a complete web application using the PrimeFaces framework. The application shapes a virtual photo gallery, which is designed to cover a wide range of PrimeFaces features.</span>  </p>  <p>  \t This video course has a simple structure. We start with an overview of PrimeFaces and then continue with the development of a complete web application. The application development starts by setting up a PrimeFaces theme and adding a page layout. We continue by adding the necessary PrimeFaces components (DataTable, Upload, Galleria, and so on). Once the components are in place, we focus on the server-side where we &quot;give life&quot; to these components. At the end, we perform some application tests and pull some final conclusions.  </p>  <p>  \t Rapid PrimeFaces is ready to take you into the PrimeFaces world where, as a JSF developer, you will find the perfect development environment for JSF-based applications.  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t<span><strong style=\"\">Anghel Leonard </strong>is a senior Java developer with many years of experience in Java SE, Java EE, and related frameworks. He has written and published a significant number of articles about Java technologies as well as tips and tricks for many programming-dedicated websites. In addition, he has reviewed several books, JavaOne articles, and top-rated dissertations about Java. He has written two books about XML and Java (one for beginners and one for advanced developers) for Albastra, a Romanian publisher; four books for Packt Publishing, Jboss Tools 3 Developer Guide, JSF 2.0 Cookbook, JSF 2.0 Cookbook LITE, and Mastering JavaServer Faces 2.2; and two books for APress, Pro Java 7 NIO 2 and Pro Hibernate and MongoDB. Currently, he is developing web applications using the latest Java technologies on the market such as WebServices, JMS, EJB, CDI, Spring, JSF (PrimeFaces, OmniFaces and RichFaces frameworks), Struts, Vaadin, Hibernate, and so on.</span>  </p>", 
+    "end_date": null, 
+    "title": "Rapid PrimeFaces", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/424692_aeb7_2.jpg", 
+    "course_url": "https://www.udemy.com/rapid-primefaces/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-17T08:01:25Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">A 15 hour PHP &amp; MySQL Training Course Taught By A Zend Certified PHP Trainer, This PHP with MySQL Essential Training Teaches You All You Need To Know. </strong>  </p>  <p>  \tIn this PHP / MySQL training title from InfiniteSkills, you will learn <strong style=\"\">PHP</strong> and <strong style=\"\">MySQL</strong> and its fundamentals. These two platforms have been virtually inseparable for many years, and major groundbreaking websites such as WordPress, Wikipedia, and Facebook use PHP and MySQL technologies.<br style=\"\">  \t <br style=\"\">  \t This PHP with MySQL Essential Training is designed for the beginner; no previous programming or database experience is required. Your training begins with the absolute basics, covering topics such as creating variables, working with data types and outputting them to a web page. You will learn how to work with arrays, how to use loops and control structures such as for each, while and if. You will learn about functions and creating classes for object-oriented programming. You will master interacting with MySQL and using SQL functions to store and retrieve data. Doug also provides in-depth lessons on how PHP and MySQL can be used to send email, work with date and time functions, use cookies and sessions, building web forms, and much more.<br style=\"\">  \t <br style=\"\">  \t Throughout this <strong style=\"\">PHP with MySQL Essential Training</strong> course you will complete labs that re-enforce the concepts you have learnt. Once you have completed this video tutorial you will be well versed in the fundamentals of creating web applications using PHP and MySQL. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>  <p>  \t</p>  &lt;/p&gt;", 
+    "end_date": null, 
+    "title": "PHP & MySQL - Learn The Easy Way. Master PHP & MySQL Quickly", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "15.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/32649_2b8f_7.jpg", 
+    "course_url": "https://www.udemy.com/learning-php-and-mysql-development-the-easy-way/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-12-14T13:46:59Z"
+}

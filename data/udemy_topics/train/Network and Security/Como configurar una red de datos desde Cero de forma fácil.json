@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Este curso trata del paso a paso de como <strong class=\"redactor-inline-converted\">configurar</strong> una red de datos desde Cero de forma fácil. Se trataran aspectos físicos (<strong class=\"redactor-inline-converted\">teóricos</strong>) y lógicos para la configuración de una red de datos.</p>\n\n<p>Con este curso en poco tiempo conseguirás configurar su red por medio de un emulador de red, llamado Cisco Packet Tracer.</p>\n\n\n\n\n\n<p>La estructura de este curso está pensada para un fácil entendimiento del funcionamiento lógico de una red de datos, donde aquellas dudas que surjan, podrán ser consultadas y respondías a la brevedad por mi persona.</p>\n\n\n\n\n\n\n\n<p>Al final del curso realizaremos un proyecto de una red con la ayuda del<strong> emulador de redes</strong>. Usaremos tanto equipos de comunicaciones, dispositivos finales y servidores <em><strong class=\"redactor-inline-converted\">simulados</strong></em> por un potente emulador de red que permitirá a los estudiantes experimentar con el comportamiento de una red de área local (LAN)  </p>\n\n\n\n\n\n\n\n<p>Sin duda alguna, este curso le guiará paso a paso por el mundo de las redes, podrás contar con un conocimiento sin igual, que te permitirá avanzar en su aprendizaje, en su trabajo y en su negocio, No te lo puedes perder!</p>", 
+    "end_date": null, 
+    "title": "Como configurar una red de datos desde Cero de forma fácil", 
+    "price": "20.00", 
+    "instructors": "Manuel Sepulveda", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/606620_5d66.jpg", 
+    "course_url": "https://www.udemy.com/como-configurar-una-red-de-datos-desde-cero-de-forma-facil/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-09T03:04:23Z"
+}

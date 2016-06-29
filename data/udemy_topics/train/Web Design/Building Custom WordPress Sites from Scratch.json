@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<h5>A Verifiable Certificate of Completion is presented to all students who undertake this course.</h5>  <p>WordPress offers more flexibility for creating personal and professional sites than any other content management system on the market. Now, in this multi-part WordPress training course from InfiniteSkills, you&#039;ll learn everything you need to know to create a completely custom site from the ground up, from design, to installation and everyday management.</p>  <p>This highly informative course goes starts with the planning stages, helping you make key decisions and establish a professional wireframe in Adobe Illustrator, before moving through Photoshop for graphic design and onto WordPress itself for installation, configuration and customization with plugins and content. In 114 lessons, you will learn how to design, build and manage a professional web presence, using the latest technologies at your disposal. No other WordPress tutorial series offers such an extensive guide to website creation!</p>", 
+    "end_date": null, 
+    "title": "Building Custom WordPress Sites from Scratch", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/12855_2815_7.jpg", 
+    "course_url": "https://www.udemy.com/building-custom-wordpress-sites-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-01-19T18:03:17Z"
+}

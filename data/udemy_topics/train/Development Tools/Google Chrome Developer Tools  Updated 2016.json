@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Web development and the tools developers use are changing all the time. As more development is done with a mobile-first mindset, your development tools must change too.</p><p><strong>Learn browser-based tools that make your websites look better, load faster, and perform efficiently across ALL devices.</strong> </p><ul><li>Debug and alter HTML and CSS directly in the browser</li><li>Work with Chrome’s V8 JavaScript engine in the console to build awesome web apps</li><li>Emulate mobile devices and tablets to truly test responsive page designs</li><li>Access HTML5 LocalStorage and other persistent data stores</li><li>Analyze network usage for your site and get faster</li><li>Bonus content on SEO with Google Keyword Planner, mobile speed with Google PageSpeed Insights, and free fonts with Google Font API</li></ul><p><strong>Stay Up-to-Date or Get Ahead with the Google Chrome Development Tools</strong> </p><p>Learning how to use the Google Chrome Development Tools will help you take your web design and development skills to the next level. Whether you focus on shaving pixels on the front end, or crave speed and efficiency in loading and download speed, this course will show you how to maximize the awesome tools that ship free with any Chrome browser.</p><p><strong>Content and Overview</strong> </p><p>This course is intended for people with all levels of exposure to HTML, CSS, and JavaScript. You will get the most out of this course if you know some HTML &amp; CSS, have written some JavaScript or jQuery, or have hosted your own website or application.</p><p>The course content consists of video lectures that demonstrate how to use different parts of the Google Chrome Development Tools using real world examples of working pages and applications. Over 10 lectures and 1 hour of content, you will learn how to take apart web pages to make them better and more efficient. The videos in this course were updated in 2016 to reflect the latest technologies available in the Google Chrome Development Tools.</p>", 
+    "end_date": null, 
+    "title": "Google Chrome Developer Tools: Updated 2016", 
+    "price": "20.00", 
+    "instructors": "Jeff Everhart", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/722516_cdf7.jpg", 
+    "course_url": "https://www.udemy.com/google-chrome-development-tools-updated-2016/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-10T06:30:27Z"
+}

@@ -1,0 +1,82 @@
+{
+    "Education and Teaching": [
+        "K12", 
+        "Higher Education", 
+        "Course Development", 
+        "Online Education", 
+        "Test Prep", 
+        "STEM", 
+        "Teacher Development"
+    ], 
+    "Business and Management": [
+        "Finance", 
+        "Marketing", 
+        "Management and Leadership", 
+        "Entrepreneurship", 
+        "Business Analytics and Intelligence", 
+        "Strategic Management", 
+        "Industry Specific"
+    ], 
+    "Humanities": [
+        "Literature", 
+        "Philosophy", 
+        "Grammar and Writing", 
+        "Religion", 
+        "Language and Culture", 
+        "History"
+    ], 
+    "Science": [
+        "Biology", 
+        "Chemistry", 
+        "Physics", 
+        "Astronomy", 
+        "Environmental Science"
+    ], 
+    "Programming": [
+        "Databases", 
+        "Web Development", 
+        "Mobile Development"
+    ], 
+    "Health and Medicine": [
+        "Public and Global Health", 
+        "Nutrition and Wellness", 
+        "Disease and Disorders"
+    ], 
+    "Engineering": [
+        "Electrical Engineering", 
+        "Civil and Environmental Engineering"
+    ], 
+    "Art and Design": [
+        "Design and Creativity", 
+        "Visual Arts", 
+        "Digital Media and Video Games", 
+        "Film and Theatre", 
+        "Music"
+    ], 
+    "Computer Science": [
+        "Data Science and Big Data", 
+        "Artificial Intelligence", 
+        "Bioinformatics", 
+        "Internet of Things", 
+        "Information Technology", 
+        "Theoretical Computer Science"
+    ], 
+    "Mathematics": [
+        "Statistics and Probability", 
+        "Foundations of Mathematics", 
+        "Algebra and Geometry", 
+        "Calculus and Mathematical Analysis"
+    ], 
+    "Social Sciences": [
+        "Anthropology", 
+        "Economics", 
+        "Sociology", 
+        "Law", 
+        "Psychology"
+    ], 
+    "Personal Development": [
+        "Self Improvement", 
+        "Communication Skills", 
+        "Career Development"
+    ]
+}

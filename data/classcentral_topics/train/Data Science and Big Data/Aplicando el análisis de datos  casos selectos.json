@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    En este curso integrarás lo aprendido en los cursos que componen esta especialidad. A partir de la resolución de casos en diferentes industrias representativas, utilizarás el módulo de ensamble en Watson Analytics a efecto de conjuntar la información que obtengas en la  exploración y las predicciones realizadas con tus datos. El producto final es un informe de negocio con dashboards e infográficos interactivos que explicarán el problema de negocio en estos casos selectos.\n\nAgradecemos a Fundación Televisa por su participación en la producción de este curso; con lo cual colabora a inspirar y desarrollar el potencial de las personas, a través de su compromiso con la educación y la cultura.\n\n                                            Syllabus\n                        Análisis de datos en el sector salud: Identificando como mejorar la atención La atención a la salud se ha vuelto más compleja en función a factores socio-demográficos, económicos y biológicos. Hay una creciente necesidad por mejores servicios de salud, que además de ser eficaces operen de manera eficientes. En este módulo exploraremos algunas aplicaciones del análisis de datos al análisis, planeación y diseño de servicios de salud.Generando valor para el consumidor: Aplicaciones de análisis de datos en ventas al detalle (Retail).Dentro de los diversos sectores de la economía, el comercio al detalle (también conocido con el término anglosajón retail) es uno de los más dinámicos debido a la extensa competencia que hay en él, así como la rápida evolución del comportamiento del consumidor. En este módulo identificaremos las aplicaciones de análisis de datos que permiten encontrar formas más eficientes para planificar y operar esta industria con el fin de lograr resultados óptimos.Generando mejores rendimientos: Utilizando análisis de datos para mejores decisiones financierasLas finanzas son fundamentales para el funcionamiento de nuestro mundo y por tanto demandan una eficiente gestión de los recursos, la complejidad de las decisiones relacionadas con ésta, vuelve indispensable contar con herramientas que nos permitan contar con una alta eficacia y eficiencia al tomarlas. En este módulo exploraremos algunas de las ventajas de emplear el análisis de datos orientado a fenómenos económicos y financieros y cómo podemos sacar ventaja de la información disponible.Mejores decisiones en la cadena de suministro mediante análisis de datosLa gestión de la cadena de suministro es una función vital en las organizaciones. Su operación eficaz es indispensable para cumplir expectativas de servicio de los clientes y consumidores, y conducirla de manera eficiente permite que los beneficios puedan maximizarse. En este módulo conoceremos algunas de las aplicaciones del análisis de datos en los procesos fundamentales de la cadena de suministro, tales como planeación de la demanda, gestión de proveedores y distribución de productos.\n                                    ", 
+    "end_date": "2016-07-11T00:00:00Z", 
+    "title": "Aplicando el análisis de datos: casos selectos ", 
+    "price": 0, 
+    "instructors": "José Antonio Espín Brito", 
+    "institution_name": [
+        "Tecnológico de Monterrey"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/learn/analisis-de-datos-aplicaciones", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-13T00:00:00Z"
+}

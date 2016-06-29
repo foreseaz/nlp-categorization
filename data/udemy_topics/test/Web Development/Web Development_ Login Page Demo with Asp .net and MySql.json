@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">In this course we are going to design a login page and then give a functionality of signing in an old user, redirecting a new user to signup page, forgot password option etc. This is fairly complex application. I recommend only those students to take this course who have a little bit knowledge about asp .net and mysql. However, don&#039;t worry, you can always enroll in the other courses I have offered on udemy to get started. </p><p style=\"\">This is how we move through the course: </p><ul style=\"\"><li style=\"\">1. We design the login page</li> <li style=\"\">2. We add the sign in functionality</li> <li style=\"\">3. We store the new users into the database</li> <li style=\"\">4. Give users the forgot password option</li></ul><p style=\"\">You should enroll in this course if you want a quick way to connect mysql with your asp .net application.</p>", 
+    "end_date": null, 
+    "title": "Web Development_ Login Page Demo with Asp .net and MySql", 
+    "price": 0, 
+    "instructors": "Programmer Prem Kumar", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/603548_ba76_2.jpg", 
+    "course_url": "https://www.udemy.com/login-asp-mysql/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-05T22:05:16Z"
+}

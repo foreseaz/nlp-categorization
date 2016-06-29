@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>※このコースはベネッセコーポレーションと株式会社SharewisのサービスACTが提携し、配信しております。<br style=\"\"></p><p style=\"\">※本コースは「Python, django, Bootstrapで作るランディングページ開発講座 【まとめパック】」よりMacターミナル部分を抜粋してご提供しておりますのでご注意ください。</p><p style=\"\">Pythonの基礎、djangoまで学んで実際ランディングページの作成までやってみたいという方は【まとめパック】のご受講をお勧めします。</p><p><strong style=\"\">Macのターミナル使いこなせてますか？</strong></p><p>使いこなそう！はじめてのMacターミナル入門講座は、Macでターミナルを使ったことがない初学者の方が、ターミナルの基本操作を理解し、Web開発の基本知識を身につけられるカリキュラムになっています。</p><p><strong style=\"\">このコースで学べること</strong></p><p><strong style=\"\"></strong>Macのターミナルの基本的な操作を学ぶことができます。「ターミナルをさわるのははじめて」という方も安心できる内容です。<br style=\"\"></p><p><br style=\"\"></p><p><strong style=\"\">カリキュラムの詳細</strong></p><p><span></span>1. ターミナルとは？ターミナルの場所や簡単な設定について勉強します。</p><p>2. lsとcdコマンドについてディレクトリ内のファイル等を見るlsコマンドとディレクトリを移動するcdコマンドついてに勉強します。</p><p>3. mkdirコマンドディレクトリを作成するmkdirコマンドについて勉強します。</p><p>4. mvコマンドファイルやディレクトリを移動させるmvコマンドについて勉強します。</p><p>5. touchとrm・rmdirコマンド<br style=\"\">ファイルを作成するtouchコマンドとファイルやディレクトリを削除するrm・rmdirコマンドについて勉強します。<br style=\"\"></p><p><br style=\"\"></p><p><strong style=\"\">購入者特典</strong></p><p>こちらのコースの受講者の方に「Python入門」のコースを一部公開しています。</p><p>Macのターミナルの使い方を学んだ後に、プログラミング言語Pythonについても学んでみましょう！</p>", 
+    "end_date": null, 
+    "title": "Python, django, Bootstrapで作るランディングページ開発講座 【Vol1. Macターミナル編】", 
+    "price": "20.00", 
+    "instructors": "ACT （アクト）, Benesse Corporation", 
+    "commitment": "38 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/476744_b8ce_2.jpg", 
+    "course_url": "https://www.udemy.com/python-django-bootstrap-vol1-mac/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Graphic Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-15T04:56:38Z"
+}

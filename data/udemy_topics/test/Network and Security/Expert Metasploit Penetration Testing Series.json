@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Expert Metasploit Penetration Testing\" is a complete guide for beginners as well as security professionals who are willing to master the most popular and buzzing framework for pen-testing. The video series will guide you through numerous techniques using real time demonstrations to sharpen your skills and give you a clear understanding of the complete framework. The video series also explains ad-on tools, such as nmap, Armitage, and so on, that can further add more skill sets in your techniques for penetration testing. Overall the video series covers every nook and corner of Metasploit.</p><p>The \"Expert Metasploit Penetration Testing\" video series starts with the information-gathering phase and advances to complex topics that include the exploitation of targets using remote and client-side attacks, using meterpreter, pivoting, auxiliary modules, and much more. The final section of the series covers Armitage, a GUI-based tool, built over the Metasploit framework.</p><p>The video series starts with scanning for vulnerabilities in the target/network, building standalone payloads using msfencode, exploiting operating systems and then moves ahead with client-side exploitation techniques, the Auxiliary module, and so on. In the post-exploitation phase, it covers persistence, the meterpreter, and pivoting. The final section deals with Armitage and explains how it can be used to leverage the powers of Metasploit over a GUI interface.</p><p>\"Expert Metasploit Penetration Testing\" is a quick and comprehensive guide for people who are willing to learn by doing.</p><p>\"Expert Metasploit Penetration Testing\" is a complete guide for beginners as well as security professionals who are willing to master the most popular and buzzing framework for pen-testing. The video series will guide you through numerous techniques using real-time demonstrations to sharpen your skills and give you a clear understanding of the complete framework. The video series also explains add-on tools, such as nmap, Armitage, and so on, that can add more penetration testing techniques to your skillset. Overall, the video series covers every aspect of Metasploit.</p>", 
+    "end_date": null, 
+    "title": "Expert Metasploit Penetration Testing Series", 
+    "price": "20.00", 
+    "instructors": "Abhinav singh", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/698050_f493_3.jpg", 
+    "course_url": "https://www.udemy.com/expert-metasploit-penetration-testing-series/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-15T11:02:36Z"
+}

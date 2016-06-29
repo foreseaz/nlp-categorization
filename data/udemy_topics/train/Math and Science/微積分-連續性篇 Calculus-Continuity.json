@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>● 函數的連續性在微分學中是非常重要的條件，一個函數可微分的前提就是函數必須要在實數中具有連續的性質，學習微分除了極限外，函數的連續性也是絕對的先修單元。內容包括<br style=\"\"></p><p>   1. 連續函數的判斷(Definition of Continuous Functions):<br style=\"\">簡單的說，一實數函數在定義域對應的圖形若沒有&quot;洞&quot;或沒有&quot;跳點&quot;稱為連續函數。<br style=\"\">   A real value function is continuous if, roughly speaking, the graph is a single unbroken<br style=\"\">  curve with no &quot;holes&quot; or &quot;jumps&quot;.<br style=\"\"></p><p>2. 中間值定理(The Intermediate Value Theorem):<br style=\"\">假設 <em style=\"\">f</em> 是在閉區間 [<em style=\"\">a</em>, <em style=\"\">b</em>] 上連續的函數。如果 <em style=\"\">L</em> 是任意在 <em style=\"\">f</em> (<em style=\"\">a</em>) 和 <em style=\"\">f</em> (<em style=\"\">b</em>) 之間的實數， 則至少會有一個在開區間 (<em style=\"\">a</em>, <em style=\"\">b</em>) 的數 <em style=\"\">c</em>，使得 <em style=\"\">f</em> (<em style=\"\">c</em>) = <em style=\"\">L</em>。<br style=\"\">If a continuous function <em style=\"\">f</em> with an interval [<em style=\"\">a</em>, <em style=\"\">b</em>] as its domain takes values <em style=\"\">f</em>(<em style=\"\">a</em>) and <em style=\"\">f</em>(<em style=\"\">b</em>) at each end of the interval, then it also takes any value between <em style=\"\">f</em>(<em style=\"\">a</em>) and <em style=\"\">f</em>(<em style=\"\">b</em>) at some point within the interval.</p><p>3. 勘根定理(Bolzano&#039;s Theorem) :<br style=\"\">假設 <em style=\"\">f</em> 是連續的函數。如果 <em style=\"\">f</em> (<em style=\"\">a</em>) 和 <em style=\"\">f</em> (<em style=\"\">b</em>) 之值異號， 則在(<em style=\"\">a</em> , <em style=\"\">b</em>)之間存在一實數<em style=\"\"> c</em> ，使得 <em style=\"\">f</em> (<em style=\"\">c</em>) = 0，也就是至少有一根。<br style=\"\">If a continuous function has values of opposite sign inside an interval, then it hasat least  a root in that interval.</p><p>4.漸近線(Asymptotes):<br style=\"\">漸近線可以傳達函數圖形在數值接近無限大時的狀況，學習漸近線的求法可以對我們繪製函數圖形有很大的幫助。<br style=\"\">Asymptotes convey information about the behavior of curves in the large, and determining the asymptotes of a function is an important step in sketching its graph<br style=\"\"></p><p><strong style=\"\">● 本課程建議基礎</strong><br style=\"\">先要研讀微積分-極限篇後再學習。</p><p><strong style=\"\">●建議完成時間</strong></p><p>　學習者以二週時間完成</p><p><strong style=\"\">●教材來源</strong></p><p>　源於中華科技大學 微積分一 課程中第三單元連續性與第四單元漸近線部分</p><p><strong style=\"\">●教材認證</strong></p><p>　內容通過台灣教育部103年度第1梯次數位學習教材認證</p><p><strong style=\"\">●語言</strong></p><p>　全部課程繁體中文講授。</p><p><strong style=\"\">●其他事項</strong></p><p>　本課程僅供學員自修使用，無法取得中華科技大學學分</p>", 
+    "end_date": null, 
+    "title": "微積分-連續性篇 Calculus-Continuity", 
+    "price": 0, 
+    "instructors": "Lee Bor-Jian", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/469490_ee79_2.jpg", 
+    "course_url": "https://www.udemy.com/calculus-continuity/", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-07T01:17:18Z"
+}

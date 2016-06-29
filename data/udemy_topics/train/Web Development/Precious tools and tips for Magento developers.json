@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this fast course I'll talk about a sort of tools that help me on day-to-day Magento development, and will share some precious hints for developing.<br></p>\n\n<p>We'll see some tools and hints for (and not limited to): </p>\n\n\n\n\n\n<ul><li>Create modules</li><li>Methods and autocomplete classes feature</li><li>Compare template phtml files in an easier way</li><li>Inspect the processed Layout XML</li><li>Export and import large databases</li><li>Debug PHP code</li><li>and much more...</li></ul>\n\n\n\n\n\n<p>With the tools and tips for magento development, you'll be able to develop modules, debug layout xml, export and import large databases in Magento, much faster than you do now.<br></p>\n\n<p>This course uses Magento 1.9.2.3 but is valid for any 1.x versions.<br></p>", 
+    "end_date": null, 
+    "title": "Precious tools and tips for Magento developers", 
+    "price": "20.00", 
+    "instructors": "Ricardo Martins", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/749586_14d4_3.jpg", 
+    "course_url": "https://www.udemy.com/magento-development-tools-and-tips/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-02T01:36:42Z"
+}

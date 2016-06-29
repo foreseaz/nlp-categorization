@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Cansado(a) de se debater com o Magento, perdido nos seus arquivos XML's, e sua estrutura de pastas? <br></p>\n\n<p>Este curso é destinado a desenvolvedores e profissionais web que buscam um <strong>curso de desenvolvimento para Magento</strong> online. Nesta versão do curso falaremos do desenvolvimento básico,  criação de temas e de como customizar visualmente uma loja Magento seguindo as melhores práticas e recomendações da Magento Inc.</p>\n\n<p>A abordagem de tópicos é extremamente semelhante ao Certification Study Guide, o guia oficial da Magento para certificação Front End developer.</p>\n\n<p>Aprender a desenvolver temas e entender melhor como customizar uma loja, é o primeiro passo para se tornar um desenvolvedor Magento.<br></p>\n\n<p>Entre outros assuntos, ao final deste curso você terá conhecimento sobre:</p>\n\n<ul><li>Estrutura básica de pastas do Magento</li><li>Criação de temas e pacotes</li><li>Alterar visualmente qualquer elemento do site da forma correta, mantendo a plataforma apta a ser atualizada sem riscos ou surpresas desagradáveis</li><li>i de temas e pacotes</li><li>Entendimento sobre Layout XML e como podemos fazer (quase) tudo com eles</li><li>Tipos de blocos do Magento</li><li>Adicionar e remover elementos de qualquer página através com os XMLs de nossos temas ou via painel</li><li>Diversas formas de traduzir termos na nossa loja</li></ul>\n\n<p><br></p>\n\n<p>Além de obter conhecimento sobre a plataforma, este curso também é um complemento para aqueles que buscam tirar a <em>certificação Magento FrontEnd Developer 1.x</em>, oferecendo dicas preciosas para o exame.</p>\n\n<p><strong>Você poderá assistir às aulas quantas vezes quiser</strong>, por tempo indeterminado, pelo site, ou aplicativos oferecidos pelo Udemy sem precisar de conexão com a internet.<br></p>\n\n<p>O curso utiliza <strong>Magento 1.9.2.1</strong>.</p>", 
+    "end_date": null, 
+    "title": "Torne-se um desenvolvedor Magento - Certificação Front End", 
+    "price": "40.00", 
+    "instructors": "Ricardo Martins", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/613912_8e1c.jpg", 
+    "course_url": "https://www.udemy.com/curso-magento-desenvolvimento/", 
+    "currency": "USD", 
+    "subject_name": [
+        "E-Commerce"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-16T16:57:48Z"
+}

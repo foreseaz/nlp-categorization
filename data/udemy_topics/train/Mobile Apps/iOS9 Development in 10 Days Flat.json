@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course teaches the fundamentals of developing iOS applications using <strong>version 2</strong> of the Swift programming language. </p><p>The course is in <strong>10 units</strong>: the first six cover the Swift language itself; the last four concentrate on the core view controller architecture of an iOS app. </p><p>At the end of the course, you’ll be able to write iOS applications that use tables, hierarchical and tabbed navigation, and understand the principles behind developing any  iOS application. </p><p>The course will be complimented with shorter sessions on the various extension frameworks at a later date, including SpriteKit, SceneKit, HealthKit, WatchKit, etc.<br><br><strong>Topics include:</strong></p><p>- Introduction to working with Xcode<br>- Data types, optionals, and tuples<br>- Collection types: arrays, sets, and dictionaries<br>- If statements and loops<br>- functions and closures<br>- Enumerations<br>- Classes and structures<br>- Stored and computed properties<br>- Inheritance in Swift<br>- Introduction to iOS<br>- Model - View - Controller and its role in iOS programming<br>- Delegation<br>- Navigation controllers and segues<br>- Tab bar controllers<br>- Table view controllers<br>- Using various cell sty les<br>- Using headers and footers<br>- Grouping vs. plain table styles<br>- Indexing a table view<br>- A case study: NoteTaker: Showing the full development of an app from start to finish in seven lessons.</p><p>I hope you join me as we explore this course together.<br></p>", 
+    "end_date": null, 
+    "title": "iOS9 Development in 10 Days Flat", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/794600_37ef_5.jpg", 
+    "course_url": "https://www.udemy.com/getting-started-with-ios9-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-16T10:36:36Z"
+}

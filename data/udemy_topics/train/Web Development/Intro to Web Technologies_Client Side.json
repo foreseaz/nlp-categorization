@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will give you a quick glimpse of different web technologies that are being used today. You will learn HTML, CSS, JAVASCRIPT, JQUERY, JQUERY UI, MYSQL in this course. If you are are getting started with web development then I highly recommend you to enroll in this course because I teach you with examples in this course. Once you have finished the course, you will be able to writing HTML pages with CSS styling and use javascript to handle button events. </p><p>In short this is what you learn:</p><ul><li>1. Creating a database with MYSQL</li> <li>2. Creating a webpage with HTML</li></ul><p>However, be aware that this is not an in-depth tutorial. Course's main motive is to get your started with web development.</p>", 
+    "end_date": null, 
+    "title": "Intro to Web Technologies_Client Side", 
+    "price": 0, 
+    "instructors": "Programmer Prem Kumar", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/603558_5036_2.jpg", 
+    "course_url": "https://www.udemy.com/intro-to-web-technologies/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-05T22:10:15Z"
+}

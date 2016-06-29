@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this Course you will learn JavaScript from Basic fundamentals to advanced topics, Each topic is covered with examples to understand the concepts better.<br></p><p><strong>What Exactly Is JavaScript?:</strong></p><p>JavaScript is a programming language used to make web pages interactive. It runs on your visitor's computer and doesn't require constant downloads from your website. JavaScript is often used to create polls, validation and quizzes.</p><p>JavaScript was originally developed in 10 days in May 1995 by Brendan Eich, while he was working for Netscape Communications Corporation. Indeed, while competing with Microsoft for user adoption of web technologies and platforms, Netscape considered their client-server offering a distributed OS with a portable version of Sun Microsystems' Java providing an environment in which applets could be run.[citation needed] Because Java was a competitor of C++ and aimed at professional programmers, Netscape also wanted a lightweight interpreted language that would complement Java by appealing to nonprofessional programmers, like Microsoft's Visual Basic.<br></p><p><strong>What you will learn in this course?:</strong></p><ul><li>Basic fundamentals from scratch (covers everything from scratch)</li><li>JavaScript Objects</li><li>JavaScript Error Handling</li><li>validations</li><li>Debugging</li><li>Multimedia</li><li>Image map</li><li>Animation</li></ul><p>And many more with examples replicating real time scenarios..</p><p>Additional Topics will be added regularly</p>", 
+    "end_date": null, 
+    "title": "JavaScript 101", 
+    "price": "20.00", 
+    "instructors": "DoEdu IT Educations", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/495484_385c_3.jpg", 
+    "course_url": "https://www.udemy.com/javascript-from-basic-fundamentals-to-advanced/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-06T22:26:20Z"
+}

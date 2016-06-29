@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>So you want to make a social network? This course teaches you everything you need to know about building <strong>step-by-step</strong> a Twitter clone using Swift iOS and the Firebase backend service.<br></p><p>We will be using Firebase as our backend for our application and the positive side of that is that we are able to upload and save data in our application. Unlike Parse and other services where you have to constantly keep refreshing and loading the data. Firebase helps you build a very efficient social network with seamless networking integration.</p><p><strong>At the end of this course:</strong></p><ul><li><strong>Using Firebase as your Swift iOS app backend</strong></li><li><strong>Dealing with JSON files</strong></li><li><strong>Create a Twitter like app</strong></li><li><strong>Understand and be able to create REALTIME mobile apps</strong></li></ul><p>We will cover very simple topics such as user sign up, login, data transferring, data querying and much more. At the end we will build a full featured Twitter clone.</p><p>If you know the basics of Swift iOS Development thats awesome! If not, don't worry, with the purchase of this course, you get access to all videos and are able to watch and learn at your own pace.</p><ul><p><strong>Certificate of Completion</strong></p><p>All Students who complete this course will receive a Free digital certificate of completion from Udemy.</p><p><strong>Money Back Guaranteed </strong></p><p>If in any way you are not satisfied with my course, feel free to request a refund!</p></ul>", 
+    "end_date": null, 
+    "title": "Build Realtime Social iOS Apps With Firebase and Swift iOS 9", 
+    "price": "25.00", 
+    "instructors": "Stefan DeClerck", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/557414_db84_3.jpg", 
+    "course_url": "https://www.udemy.com/firebases/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-17T18:36:15Z"
+}

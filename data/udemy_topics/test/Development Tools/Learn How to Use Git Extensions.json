@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Take your configuration management to the next level with this Git Extensions course which  takes you through all the way from installation to releasing the first version of your solution.</p><p>If you plan to implement version control, have consistent release management, and improve configuration management, yet you want to stay away from command-line and want to use a powerful GUI, then this course is your solution.<span></span></p><p><span>Tge course explains how to apply Git's renowned commands using the intuitive and comprehensive graphical client</span> Git Extensions.<br></p><p>The topics are broken down carefully to ensure clear delivery and logical sequencing, and are presented completely in a hands-on approach.</p><p>At the end of the course, there is a short quiz for you to complete.</p><span></span>", 
+    "end_date": null, 
+    "title": "Learn How to Use Git Extensions", 
+    "price": "20.00", 
+    "instructors": "Zaher Reda", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/627210_ac19.jpg", 
+    "course_url": "https://www.udemy.com/learn-how-to-use-git-extensions/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-30T17:13:19Z"
+}

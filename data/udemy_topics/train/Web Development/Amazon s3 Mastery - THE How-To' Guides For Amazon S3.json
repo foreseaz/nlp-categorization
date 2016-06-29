@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Master the basics of properly setting up &amp; securing your Amazon s3 account. Forget having to spend days researching outdated YouTube videos or going through nearly impossible to understand documents from the Amazon AWS <em>'Help'</em> section.</p><p>Learn how simple it is to host your website on s3. Stream your s3 hosted videos without worrying about someone stealing them. Plus Much More!</p><p><strong>Stop Struggling and Start SUCCEEDING with Amazon s3</strong></p><p>In this course you will learn the basics of setting up your Amazon AWS account the right way. </p><ul><li>*How To Use FREE 3rd Party Tools To Manage Your Amazon s3 Files - Mac or PC</li><li>*Discover What A Bucket Policy Is &amp; How To Put It To Use</li><li>*Prevent Your Download Files From Getting Passed Around</li><li>*Prevent People From Stealing Your Bandwidth (Hotlinking)</li><li>*Fully Understand The Costs Related To Having An Amazon s3 Account</li></ul><p>Amazon s3, is or should be an important tool in your online business toolbox. The problem is the enormous learning curve you need to deal with in order to get any of the basic benefits like increasing site speed &amp; security while decreasing the bandwidth costs.</p><p>My name is Steve Dougherty and I've been an s3 user since 2008. Over the years I've had many headaches due to the difficulty of locating answers to the many questions I had about my Amazon AWS s3 account.</p><p>I eventually came up with the solutions, &amp; in most cases I developed shortcuts along the way.</p><p><strong>I've taught 100's of people how to master the basics of Amazon s3.</strong></p><p>The first Amazon s3 training course I created was back in 2009, shortly after I began mastering it myself. Over the years, Amazon s3 has changed and I've developed even more tips &amp; shortcuts to help cut that learning curve down to almost nothing.</p><p>As a result, you will not have to deal with the trial &amp; error nor the headaches that I had to struggle with.</p><p><strong>These 30+ lectures are 2015 fresh.</strong></p><p>I take pride in the quality of your training. So you will Not Hear Any <em>'UM-BUTS' OR 'BUT-UMS'</em> in these videos. Part of my goal with your training is quality content and enjoyable delivery. <br></p><p><strong>It doesn't matter how great the content is if you can't stand the audio.</strong></p><p>This course is a series of over-the-shoulder style video screen captures that detail everything from introducing you to Amazon AWS &amp; Amazon s3 and signing up for your free first year of AWS &amp; Amazon s3, to securely hosting your website and streaming your videos from Amazon s3.</p><p>You'll discover tricks like how to create time expiring URLs using FREE 3rd party tools that are shown to you step-by-step with no techie stone left unturned.</p><p>Upon completion of this course you'll be able to easily navigate through the otherwise confusing AWS management console. You'll know why and how to create additional users &amp; groups and assign specific permissions (policies) to each of them.</p>", 
+    "end_date": null, 
+    "title": "Amazon s3 Mastery - THE How-To' Guides For Amazon S3", 
+    "price": "20.00", 
+    "instructors": "Steve Dougherty", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/446736_d40f.jpg", 
+    "course_url": "https://www.udemy.com/amazon-s3-mastery/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-13T18:30:28Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \t In this course on creating a custom weapon in UDK, Justin Harrison takes us through the pipeline of setting up a completely unique tesla weapon for use inside the game! We&#039;ll cover the rigging and exporting process from Maya, setting up the actor classes, as well as adding up our own custom FX and attaching them! If you&#039;ve ever wanted to bring in a custom weapon for your mod or game type, this course is for you!  </p>  <hr style=\"\">  <p style=\"\">  \t <u style=\"\"><strong style=\"\">About the Instructor:</strong></u>  </p>  <p style=\"\">  \t Justin Harrison is a Character and Technical Animator with more than 7 years experience in the game development industry. Currently, he is working for Molten Games in Del Mar, CA on an unannounced title. Previously he has worked for for both Activision and Sony on titles such as The Bourne Conspiracy, Ghostbusters: The Game, as well as Transformers: War for Cybertron to name a few. Justin holds a BFA in Digital Art and Animation from the College for Creative Studies, and has a generalist skill set that ranges from artistic modeling and asset creation, to motion capture and keyframe animation, to technical rigging and character setup..  </p>", 
+    "end_date": null, 
+    "title": "Adding Custom Weapons to UDK", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/83756_3d92_4.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-adding-custom-weapons-to-udk/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-26T01:37:44Z"
+}

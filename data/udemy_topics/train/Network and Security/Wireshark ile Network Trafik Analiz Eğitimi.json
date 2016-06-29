@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t  Wireshark ile Network Analiz Eğitimi, temel anlamda TCP/IP yapısını anlama,network trafiğini kolay ve anlaşılır bir şekilde analiz etme ve problemlere çözüm bulmayı kolaylaştıran bir eğitimdir.  </p>  <p style=\"\">  \t  Bu eğitim serisinde derslerin önce teorik yapısı ardından da gerçek veriler üzerinden analiz süreci anlatılıyor.  </p>  <p style=\"\">  \t  Wireshark ile Network Analiz Eğitimi;TCP/IP yapısını temelden öğrenmek isteyenler,network trafiğinin problemlerini kolayca çözmek isteyenler,güvenlik açıklarını analiz edenler için çok güzel bir eğitim serisidir.  </p>", 
+    "end_date": null, 
+    "title": "Wireshark ile Network Trafik Analiz Eğitimi", 
+    "price": "20.00", 
+    "instructors": "Rıdvan Erbaş", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/344230_ef2f_7.jpg", 
+    "course_url": "https://www.udemy.com/wireshark-ile-network-trafik-analiz-egitimi/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-14T16:00:17Z"
+}

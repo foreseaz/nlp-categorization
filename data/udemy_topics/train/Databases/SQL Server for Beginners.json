@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p class=\"MsoNormal\">  </p>  <p>  \t This short course helps a beginner to understand how SQL Server works and to write basic SQL queries. You will learn about the different editions of SQL server and how to install your own licensed copy for free or at a very low cost. Partway through the course, there will be downloadable labs to follow with the lessons so you gain confidence with your new skill. When you do the steps along with the lessons you can expect this course to take between 2 and 5 hours.  </p>", 
+    "end_date": null, 
+    "title": "SQL Server for Beginners", 
+    "price": 0, 
+    "instructors": "Rick A. Morelan", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/98440_8fa5_8.jpg", 
+    "course_url": "https://www.udemy.com/sql-server-for-beginners/", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-27T17:02:14Z"
+}

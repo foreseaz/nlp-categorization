@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Hi!</p><p>This course is about data structures and algorithms. We are going to implement the problems in Python, but I try to do it as generic as possible: so the core of the algorithms can be used in C++ or Java. The course takes approximately 4 hours to complete. I highly recommend typing out these data structures and algorithms several times on your own in order to get a good grasp of it.</p><p>In the first part of the course we are going to learn about basic data structures such as linked lists, heaps and some advanced ones such as ternary search trees. The second part will be about graph algorithms. We will try to optimize each data structure as much as possible.</p><p>In each chapter I am going to talk about the theoretical background of each algorithm or data structure, then we are going to write the code step by step in LiClipse, Python.</p><p>Most of the advanced algorithms relies heavily on these topics so it is definitely worth understanding the basics. These principles can be used in several fields: in investment banking, artificial intelligence or electronic trading algorithms on the stock market. Research institutes use Python as a programming language in the main: there are a lot of library available for the public from machine learning to complex networks.</p>", 
+    "end_date": null, 
+    "title": "Algorithms and Data Structures in Python", 
+    "price": "30.00", 
+    "instructors": "Holczer Balazs", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/469292_6c3e_5.jpg", 
+    "course_url": "https://www.udemy.com/algorithms-and-data-structures-in-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-06T20:51:53Z"
+}

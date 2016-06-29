@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tThis video course provides you with hands-on exercises that walk you through programming with CRYENGINE using C++ and Lua. Everything is presented with visual learners in mind, so you not only see what is happening on screen but also participate in creating your own code through step-by-step instructions.  </p>  <p>  \tIn this video course, we start out by getting ready for the CryENGINE code by setting up our Visual Studio. Next we learn the correlation between editor-spawned entities and those spawned through C++. We then set out to create our very own entity in C++, in particular, a Proximity Mine entity. Further on, we will add Lua functionality to our newly created entity.  </p>  <p>  \tFurther into the course, we turn our attention to the Flowgraph editor where we create some advanced AI behaviors and then proceed to test them out. Lastly, we will create our very own “Mine Listener” Flowgraph node that will be used to listen for mines being placed by a target entity.  </p>  <p>  \tCRYENGINE Game Programming Essentials is an amazing and exciting video course that will capture the interest of all aspiring game programmers. The activities you perform in this course are fun, practical, and tackle real-word game programming problems with ease. This video course will help you greatly in your endeavors to become a game programmer.  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t<span><strong style=\"\">Richard</strong> is a hardworking, very intelligent software engineer with a passion to teach and help others. He has captured the attention of over 250,000 people through his YouTube channel in his efforts to educate beginners in the field of game development using CryENGINE technology. He also has an extensive IT background, working in the computer/software diagnosis/repair fields for the past 6 years. Lately, he has been heavily involved in C++ game and middle-ware development and has opened his own indie game studio “Hawk Eye Games” where he plans to create compelling 2D and 3D video games for all ages, in genres ranging from platform games all the way to RPGs.</span>  </p>", 
+    "end_date": null, 
+    "title": "CryENGINE SDK Game Programming Essentials ", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/365742_1c41_2.jpg", 
+    "course_url": "https://www.udemy.com/cryengine-sdk-game-programming-essentials/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-08T11:10:53Z"
+}

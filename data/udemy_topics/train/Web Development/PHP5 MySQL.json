@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Aujourd'hui, PHP domine largement les langages serveur avec plus de 80% de part de marché. Vous avez décidé d'apprendre ce langage ? Vous vous trouvez au bon endroit ! Cette formation va vous apprendre tout ce que vous devez savoir pour développer facilement votre code côté serveur et interroger des bases de données via MySQL. La formation que vous êtes sur le point de suivre est issue de plusieurs années de pratique et d'enseignement. </p>\n\n\n\n<p>Voici quelques-uns des sujets traités : transmission de données, cookies, sessions, manipulation de fichiers, POO, services Web, phpMyAdmin, console MySQL, administration des utilisateurs, PDO, manipulation de bases de données et de tables, expressions régulières, architecture MVC, etc., etc.  Tous les sujets sont expliqués en détail et de façon progressive. Tout au long de la formation, de nombreux exercices vous permettent de vérifier vos connaissances.</p>\n\n\n\n<p>Si vous avez des bases de HTML et de CSS, tant mieux. Dans le cas contraire, les premiers cours vous les apporteront afin que vous puissiez vous consacrer sereinement au code serveur.</p><p>De très nombreux exercices corrigés vous permettent de tester vos connaissances tout au long de la formation.</p><p>Cette formation est régulièrement présentée en entreprise sous l'intitulé \"PHP5 MySQL - Les fondamentaux\".<br></p>", 
+    "end_date": null, 
+    "title": "PHP5 MySQL", 
+    "price": "35.00", 
+    "instructors": "Michel Martin", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/800892_0861.jpg", 
+    "course_url": "https://www.udemy.com/php5-mysql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-22T13:36:49Z"
+}

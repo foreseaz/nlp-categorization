@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Cloud Computing</strong> has changed the way we look at and understand all our IT infrastructure. Don&#039;t be left behind, learn the latest technology today.<br style=\"\">  </p>  <p style=\"\">  \t<em style=\"\">Microsoft Azure</em> (formerly Windows Azure) is a cloud computing platform and infrastructure, created by Microsoft. It is the biggest competitor for Amazon and Google in this area.  </p>  <p style=\"\">  \t<strong style=\"\">This course is the fastest, most affortable and smartest way to get you started with the Microsoft Azure Platform and Services in the Cloud.  </strong>  </p>  <p style=\"\">  \t                                                You will learn how to create your first website and server on the platform in a few simple steps. No long and boring lectures - we go straight to the point. We start from scratch and I talk you through all steps that you have to take to start your journey with Microsoft Azure.  </p>  <ul style=\"\">  \t<li style=\"\">Introduction to Cloud Computing</li>  \t<li style=\"\">Creating an account in Microsoft Azure</li>  \t<li style=\"\">Dashboard overview</li>  \t<li style=\"\">Your website in the cloud!</li>  \t<li style=\"\">How to add your own domain in Azure</li>  \t<li style=\"\">Deploy Windows Server 2012 easily</li>  \t<li style=\"\">Models explained: SAAS, PAAS and IAAS</li>  \t<li style=\"\">Overview of more advanced features (e.g. VPN, storage)</li>  </ul>  <p style=\"\">  \t                                                                                                                                                The course is perfect for anyone seeking  to learn how to start with Azure and create a website or deploy a server in the cloud.  </p>  <p style=\"\">  \t                                                Join now!  </p>", 
+    "end_date": null, 
+    "title": "Microsoft Azure - Cloud Computing made simple", 
+    "price": "20.00", 
+    "instructors": "Marious Kuriata", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/383534_f14e_4.jpg", 
+    "course_url": "https://www.udemy.com/microsoft-azure-cloud-computing-deploy-in-under-5-minutes/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-02T23:03:02Z"
+}

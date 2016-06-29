@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course covers all you need to get started with building Web applications with Ruby on Rails. It takes you from basic material on the best practices that are embedded into the Rails framework, through to advanced material on developing real time applications with Rails.</p><p>The course contains screen casts and practical examples. We show you how to get coding right away using Nitrous - a cloud based development environment. So there is no need to spend time on the tedious business of installing tools on your own machine.</p><p>I am not a full-time teacher. My courses are informed by extensive real-world application development both in industry and academia. So I teach you what works in practice, and by following this course you will benefit from my 35 years' experience in a wide range of software engineering projects.</p>", 
+    "end_date": null, 
+    "title": "Getting Started with Ruby on Rails", 
+    "price": "20.00", 
+    "instructors": "Paul Krause", 
+    "commitment": "16 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/11305_58be_8.jpg", 
+    "course_url": "https://www.udemy.com/getting-started-with-ruby-on-rails/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2011-11-22T05:49:03Z"
+}

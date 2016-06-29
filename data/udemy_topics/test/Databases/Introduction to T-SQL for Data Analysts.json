@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t                This course teaches students the core Transact SQL (T-SQL) skills and tasks that Data Analysts need to perform, such as how to connect to databases, define data extracts, query, &amp; format data.  This is a crash course, and in just over 1 hour, students will build a strong foundation knowledge of T-SQL.  </p>  <p style=\"\">  \t         This course is different from most other T-SQL courses, in that it focuses on skills required by data analysts. It avoids other tasks such as defining user permissions, building indexing, and designing databases that database administrators and designers focus on.  </p>  <p style=\"\">  \t       Because this course is tailored  towards students wanting to develop data analyst skills, it is very compressed and in 60 minutes students will develop an understanding of 30 of the core T-SQL tasks data analysts perform.  </p>  <p style=\"\">  \t       The course, and supporting material is designed to enable students to follow along in real-time with the instructor. The course consists of 6 lectures, and assumes no prior understanding or experience with Microsoft SQL Server or writing code.  </p>  <p style=\"\">  \t     The T-SQL code provided with the course works with Microsoft SQL Server 2008, 2008 R2, SQL 2012, and SQL 2014. It will also work with all editions of SQL Server.  How to obtain either a free, or low cost copy of Microsoft SQL Server is discussed in the course.  </p>", 
+    "end_date": null, 
+    "title": "Introduction to T-SQL for Data Analysts", 
+    "price": "20.00", 
+    "instructors": "Steve Fox", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/198554_134b_4.jpg", 
+    "course_url": "https://www.udemy.com/t-sql-for-data-analysts/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-14T04:21:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>El mundo de las aplicaciones es realmente fascinante y con la llegada del Apple Watch se abren nuevas puertas para todos aquellos que tienen ideas innovadoras. Siendo el dispositivo más personal hasta la fecha, <strong>las aplicaciones del Apple Watch van a convertirse en una parte fundamental de nuestro día a día</strong>y muchos desarrolladores ya están adaptando sus apps para que podamos acceder directamente desde nuestra muñeca.</p><p>Si siempre habéis querido hacer realidad vuestra idea o tenéis entre manos la app del siglo pero os faltan conocimientos para llevarlo a cabo, estáis de enhorabuena, pues hoy os traemos un curso para todos aquellos que quieran <strong>iniciarse en el desarrollo de aplicaciones para el Apple Watch</strong></p><p><strong>¿Qué voy a aprender?</strong></p><p><strong></strong>A lo largo de este curso vamos a construir un par de aplicaciones bastante simples a nivel de interfaz que nos permitirán conocer el valor actual del Bitcoin, inicialmente construiremos una aplicación para el iPhone aprendiendo a construir interfaces, programar la lógica de la aplicación y realizar solicitudes de red, luego aprovecharemos esta base de código para construir una aplicación para el Apple Watch.</p><p><strong>¿Cuáles son los requisitos?</strong></p><p><strong></strong>Para completar este curso es necesario poseer una Mac con la capacidad de instalar Xcode en su versión 6.2 o más reciente. Para mayor facilidad es deseable tener conocimientos básicos de cómo crear aplicaciones con swift y como realizar solicitudes de red, sin embargo el curso puede ser completado con facilidad por aquellos que se están iniciando en el desarrollo de aplicaciones para iOS.</p><p> <strong>¿A quién va dirigido? </strong></p><p>Este curso esta construido de manera especial para las personas que desean conocer como funciona el nuevo framework Watchkit que será utilizado en la construcción de aplicaciones para el Apple Watch y quieren aprender a manejar las herramientas y obtener los conocimientos necesarios para comenzar a construir sus propias aplicaciones para este dispositivo.</p><p><strong>Descarga de Archivos</strong></p><p>Podrás descargar todos los archivos fuentes utilizados en éste curso.</p><p></p>", 
+    "end_date": null, 
+    "title": "Aprende a desarrollar una aplicación para Apple Watch", 
+    "price": "50.00", 
+    "instructors": "Pixel Web Pro", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/562604_180f.jpg", 
+    "course_url": "https://www.udemy.com/aprende-a-desarrollar-una-aplicacion-para-apple-watch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-23T13:06:07Z"
+}

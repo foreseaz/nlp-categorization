@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>The Basics of Xcode 7 Auto Layout and Constraints.  Hope you find these lessons helpful.  There is noting as frustrating as having a wonderful App, working fantastic with code but with bad Layouts and Conflicting Constraints.</p><p>Coding is one part of the App development and then there is the graphics and layout needs.  Constraints and Layout gets talked about like a stepchild and it takes so much time to read about it that I decided to make a quick tutorial and hope you like it.</p><p>I will be working on a more detailed Layout and Constraint Lecture if requested.  Any and all kinds of feedback will be taken to hart and I will work on improving my style and my information to better serve the students.</p><p>Regards,</p><p>Elizabeth</p>", 
+    "end_date": null, 
+    "title": "Xcode 7 Auto Layout and Constraints", 
+    "price": "20.00", 
+    "instructors": "Elizabeth Piek", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/660442_7244_9.jpg", 
+    "course_url": "https://www.udemy.com/xcode-auto-layout-and-constraints/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-04T21:27:21Z"
+}

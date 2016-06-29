@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Learn Linux and System Administration basics in a practical, project-based course designed to get you *using* new skills as soon as you learn them.</p><p>By the time you finish, this course will have taken you from 'Linux beginner' to the skill level of 'Junior Sysadmin,' and you'll have a production-grade WordPress hosting platform that you can use to host any number of WordPress sites for friends, family, and clients.</p><p>Other courses focus on slow memorization of theory, which doesn't always produce the best results. This one throws you into the mix from the word \"go.\" Even if you've never installed Linux before, you'll be installing and configuring software from the command line, managing system services, working with a remote server, hardening security, scheduling backups and testing your disaster recovery plan, performing basic scripting and automation, and setting up monitoring for your infrastructure.</p><p>While you're doing this, you'll get a slow drip of theory, giving you just enough background to hang your new practical knowledge on and ensuring that you know what's going on underneath the covers.</p><p>Over the course of a few afternoons, you'll have completed a serious (and seriously useful) project, understand the basics of Linux and system administration, and be comfortable on the Linux terminal; ready to take on larger and more complicated projects or build on the foundation of your WordPress hosting platform.</p>", 
+    "end_date": null, 
+    "title": "Hands-on Linux: Self-Hosted WordPress for Linux Beginners", 
+    "price": "45.00", 
+    "instructors": "David Cohen", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/776744_0127_3.jpg", 
+    "course_url": "https://www.udemy.com/hands-on-linux-self-hosted-wordpress-for-linux-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-28T09:59:22Z"
+}

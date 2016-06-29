@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>If your phone were WordPress then <strong>Wordpress Plugins are the apps</strong>! <em>And of course, we all know that it's really the apps that make our phones great.</em> Basically, if you take this course you'll <strong>become a WordPress app developer!</strong></p><p>This course takes you <strong>from plugin idea to the final product</strong>. By the end of the course you will have a working email list building plugin (like <em>MailChimp</em>) and the skills to create, customize and <strong>sell your WordPress plugins online!<br><br>NOTE: </strong><em>During this course I teach you how to dramatically speed up development by leveraging two existing plugins designed specifically for WordPress plugin development: Custom Post Types UI and Advanced Custom Fields. However, your completed plugin DOES NOT REQUIRE THESE PLUGINS TO BE INSTALLED in order to work and I teach this in the course. Custom Post Types UI is a shortcut to generating the PHP code for WordPress's built in register_post_type() function. Later in the course we include this PHP in our own file and no longer need CPTUI. Advanced Custom Fields is a library of functions that makes it easier to create custom fields and save post meta data. Additional lectures are coming to this course soon teaching the manual way of doing this as well. </em><br><br></p>", 
+    "end_date": null, 
+    "title": "Ultimate WordPress Plugin Course", 
+    "price": "30.00", 
+    "instructors": "Code College, Joel Funk", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/576694_f5e4_8.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-plugin-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-07T16:48:31Z"
+}

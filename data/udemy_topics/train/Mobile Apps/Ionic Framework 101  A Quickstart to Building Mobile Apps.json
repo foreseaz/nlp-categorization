@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will teach you how to develop web-hybrid mobile applications for Android and iOS using Ionic Framework.  We'll look at what is necessary to configure Ionic Framework on your Windows, Linux or Macintosh computer and develop visually pleasing applications with minimal amounts of code and design skills necessary.</p><p>Ionic Framework 101 is designed to be a quickstart for beginners looking to develop mobile applications.  As a course goal, we'll create a fully functional URL shortener using the skills we developed through the span of the course.</p>", 
+    "end_date": null, 
+    "title": "Ionic Framework 101: A Quickstart to Building Mobile Apps", 
+    "price": "25.00", 
+    "instructors": "Nic Raboy", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/613174_f347_4.jpg", 
+    "course_url": "https://www.udemy.com/ionic-framework-101-quickstart/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-15T22:19:37Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design & Creativity"
+    ], 
+    "description": "\n\n                    \n                    \n                    There is nothing more powerful than an idea whose time has come. This course is designed to help you materialize your game-changing idea and transform it into a product that you can build a business around. Product Design blends theory and practice to teach you product validation, UI/UX practices, Google’s Design Sprint and the process for setting and tracking actionable metrics.\n\nThis course is part of our Tech Entrepreneur Nanodegree Program, click [here to learn more](https://www.udacity.com/course/tech-entrepreneur-nanodegree--nd007).Why Take This Course?Over the years, Silicon Valley startups have developed a series of frameworks and best practices for product design. Through startup case studies and interviews with industry experts, we want to bring you the best of Silicon Valley with lessons you can apply to influence the design of your mobile or web app.\n\nBy the end of the course, you will know how to perform a Google Design Sprint (developed at Google Ventures and exclusively taught in this course) to design, prototype and test your ideas. You will also learn to design low fidelity  mockups for your product and capture appropriate metrics.\n\n                                            Syllabus\n                        ###Lesson 1: Ideation &amp; Validation\nLife's too short to build products no one wants. This lesson will help you develop, validate and refine your ideas to ensure you’re building for a product/market fit. Through case studies and interviews with founders, product experts, and investors, you will learn how to efficiently conduct user research and build an entrepreneurial mindset.\n\n###Lesson 2: UI/UX\nThey say good design shrinks the gap between what a product does and why it exists. This lesson takes you beyond visual style to understand material design, building for accessibility, user flows and personas. You’ll hear about how startups make design decisions and learn from senior designers at Google on how they use design to emphasize the purpose of their products.\nBy the end of the lesson, you will analyze the user experience of another product and start documenting a user flow for your own product.\n\n###Lesson 3: Design Sprint\n\nCreated by Google Ventures, the Design Sprint Process is widely used by teams seeking to design, prototype, and test their ideas with customers. In this lesson, Google’s leading Design Sprint Master will help you go through all the steps required to validate your ideas and build mockups of your product. You will also get a first-hand look at how design sprints happen at Udacity and how you can design &amp; conduct your own. \n\n###Lesson 4: Key Metrics \n\nIn the final lesson, you will learn to identify common metrics for websites and apps relating to traffic, customer satisfaction, and engagement. You will learn tools that can be used to monitor metrics and examples from startups on what metrics not to measure. \n\nAt the end of the lesson, you will identify actionable metrics that will work best for your own product.\n                                    ", 
+    "end_date": "2015-07-22T00:00:00Z", 
+    "title": "Product Design", 
+    "price": 0, 
+    "instructors": "Chris Saden and Amir Shevat", 
+    "institution_name": [
+        "Google"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Art & Design"
+    ], 
+    "course_url": "https://www.udacity.com/course/product-design--ud509?utm_medium=referral&utm_campaign=api", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2015-05-27T00:00:00Z"
+}

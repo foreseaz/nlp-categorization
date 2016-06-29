@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will teach you how to create an HTML 5 2d game from scratch that will run on all platforms and devices that have a web browser.  What this means is that HTML games are cross platform. The huge advantage of creating your games in HTML 5 is that you can use completely free tools to create the games. Also you only have to write the code once and use it on any device or platform with a web browser.</p>\n\n<p>To have a better understanding of this course you are expected to have a basic working knowledge of Html, Css and JavaScript. I will be including some refreshers as a guide.\n\n  </p>\n\n<p>In this course our project will be to create a complete 2d HTML game that can be played on any device or platform.  We will be rendering our game inside HTML 5 canvas element of which you get some basic training on what is a canvas and how to create one and also draw on it.\n\n  </p>\n\n\n\n<p>What you’ll learn in this course:\n\n  </p>\n\n<ul><li>What is a canvas?</li><li>HTML Refresher quick course</li><li>CSS Refresher quick course</li><li>JAVASCRIPT   Refresher quick course</li><li>Understanding Co-ordinates</li><li>How to draw graphics</li><li>Create a complete 2d HTML Game</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>After completing this course you will have enough creative skills to create your own games and web apps using HTML 5.\n\n  </p>\n\n\n\n<p>Thank you and welcome to the course.</p>", 
+    "end_date": null, 
+    "title": "Learn HTML 5 Game Development : Build  A Complete 2D Game", 
+    "price": "20.00", 
+    "instructors": "Skill Tree", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/77348_9366_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-html-5-game-development-build-a-complete-2d-game/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-12T05:27:43Z"
+}

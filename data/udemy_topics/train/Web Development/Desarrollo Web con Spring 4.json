@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em><strong></strong></em></p>Este curso es una guía integral para aprender desarrollo web Spring Framework. En el primer módulo se aborda la definición de Spring, como configurarlo en el IDE Eclipse y conceptos básicos de Spring. Posteriormente se crea una pequeña aplicación Spring para comprender el manejo de Bases de Datos MySQL con Spring JDBC. A continuación se muestra como realizar una aplicación web con Spring MVC. En módulos posteriores se aborda como implementar el framework de persistencia Hibernate dentro del aplicativo web. Al final obtedrás un conocimiento sólido y completo en el desarrollo web con estas poderosas herramientas.Este curso está totalmente en español con referencias actuales y todos los códigos disponibles para su descarga.", 
+    "end_date": null, 
+    "title": "Desarrollo Web con Spring 4", 
+    "price": "20.00", 
+    "instructors": "Abraham Ramirez", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/376402_9ecf_11.jpg", 
+    "course_url": "https://www.udemy.com/desarrollo-web-con-spring/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-23T17:16:46Z"
+}

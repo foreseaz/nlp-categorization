@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t <span>This video will guide you through the daunting world of setting up, customizing, and running your own online store with the world&#039;s #1 eCommerce platform. It covers everything from installation to configuration, customization and managing every aspect of your store&#039;s frontend and the customer&#039;s experience.</span>  </p>  <p>  \t    Beginning with the very basics of installation, we’ll cover everything you&#039;ll need to get your web store up and running. Getting Started with Magento will cover everything you need to know; from populating your store with products to creating custom product types, and the addition of simple or complex product types. You’ll also learn how to configure your store to accept payment, process taxes, and handle shipping. In addition to managing your products, this course will also show you how to modify and add pages, and change their layout and theme.  </p>  <p>  \t Once you’ve completed this course, your web store will be fully functional and ready for business online.  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t<span><strong style=\"\">Scott Tolinski</strong> graduated from the University of Michigan’s Performing Arts Technology Program, and is currently the senior frontend developer for Q LTD in Ann Arbor, MI. He has worked actively in the fields of web creation and production for over 10 years. In 2012, Scott Tolinski created Level Up Tuts, providing free web development tutorials on Youtube. A breakdancer, hip hop expert, founder of a competitive Bboy dance crew, and lover of all things kung fu, Scott is inspired by a glass of fine wine or a steaming hot cup of green tea.</span>  </p>", 
+    "end_date": null, 
+    "title": "Getting Started with Magento", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/352748_721b_2.jpg", 
+    "course_url": "https://www.udemy.com/getting-started-with-magento/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-21T08:08:45Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Coders are in high demand in virtually all industries nowadays – a trend that is only set to continue in future years. For that very reason, finding employment as a programmer is increasingly competitive. Adding Erlang to your list of programming languages is a fantastic way to stand out from the growing crowd of job-seeking coders. It's a unique language that has its own specialised niche, so having it in your arsenal is definitive proof that you're a pro.  \n\n  </p>\n\n<p> <strong>Expand your knowledge of programming languages</strong></p>\n\n\n\n<ul><li><strong> </strong> Understand what Erlang is and where it came from</li><li>   Write your own small Erlang programs</li><li>Add an esoteric language to your repertoire</li><li> Gain a new, unique perspective of coding</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p> <strong>Write your own Erlang Program</strong></p>\n\n\n\n<p><strong> </strong>This Erlang for beginners online course offers an extensive introduction to the world of Erland. Designed with complete beginners in mind, it features 30 lectures and 2.5 hours of content that will teach you all of the Erlang basics (and more besides).</p>\n\n\n\n<p> You'll learn about the origins of Erlang, what makes it so different to other languages, and work your way up to building small, compiled programs with this rare language. The emphasis is on hands-on, practical experience, so be prepared to dive straight in at the deep end.</p>\n\n\n\n<p> Beginning with installation, features and syntax, you'll quickly get to grips with creating functions with Erlang, conditional flow and looping and working with process IDs. Then it's into the core of Erlang; lists, recursions, comprehensions, pattern matching, types and type conversions, exception handling, records and more. If it sounds complicated, don't worry; our expert tutor will guide you every step of the way.</p>\n\n\n\n<p> By the end of the course, you'll know how to build basic programs with Erlang and will have a solid foundation of knowledge to build on. If you're an aspiring programmer of any kind or even an experienced one looking for a new challenge, then this course is for you.    </p>\n\n\n\n<p> <strong>Tools Used</strong></p>\n\n\n\n<p> Erlang is a functional programming language originally developed by Ericsson to build software for its telecommunications products. It's completely different to most other programming languages out there, and is in fact more like an operating system than anything else. It can be used for a variety of tasks including monitoring systems and distributing databases, among others. </p>", 
+    "end_date": null, 
+    "title": "Erlang Programming for Beginners", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/800110_f712_2.jpg", 
+    "course_url": "https://www.udemy.com/erlang-programming-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-21T19:36:24Z"
+}

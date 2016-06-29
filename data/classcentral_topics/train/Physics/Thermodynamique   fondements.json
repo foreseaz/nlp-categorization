@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Physics"
+    ], 
+    "description": "\n\n                    \n                    \n                    Ce cours vous apportera une compréhension des concepts fondamentaux de la thermodynamique du point de vue de la physique, de la chimie et de l’ingénierie. Il est scindé un deux MOOCs. Dans la première partie, le Professeur J.-Ph. Ansermet de l’EPFL et son collaborateur le Dr. Sylvain Bréchet ont rassemblé en quatre leçons tous les principes fondamentaux de la thermodynamique.  La deuxième partie du MOOC illustre l’approche thermodynamique par une série d’applications présentées par des spécialistes provenant de diverses institutions partenaires du réseau RESCIF. \n\nL’objectif du cours est la compréhension et la capacité de mise en application des concepts fondamentaux de la thermodynamique. Après la présentation du premier et deuxième principe de la thermodynamique, l’exposé abordera les questions d’irréversibilité ainsi que les potentiels thermodynamiques. \n\nAprès l’établissement de ces bases conceptuelles, leurs applications à l’ingénierie tels que les transferts thermiques, la calorimétrie et les transitions de phases, seront traitées. Ensuite le point de vue de la chimie sera présenté pour aborder la conversion de l’énergie chimique en électricité. Finalement, des sujets plus avancés seront abordés, à savoir les cycles thermodynamiques, les machines thermiques, les concepts de thermodynamique adaptés au milieu continu et finalement les processus de transports.\n\nLe professeur J.-Ph. Ansermet qui est l’instigateur de ce cours s’est entouré d’experts et de spécialistes des différents domaines d’application enseignant la thermodynamique dans diverses institutions partenaires du réseau RESCIF, c’est à dire  le Professeur Michael Grätzel et  le docteur Sylvain Brechet de l’EPFL,  les Professeurs Paul Ekam, Théophile Mband, Marthe Boyomo et André Talla de l’ENSP de Yaoundé, le professeur Miltiadis Papalexandris de UCL à Louvain, le Professeur Etienne Robert du Polytechnique de Montréal,  les Professeurs Marwan Brouche et Chantal Maatouk de l’Université St-Joseph de Beyrouth.\n\n                                            Syllabus\n                        Présentation générale et leçon sur le premier principeBienvenue à ce MOOC de thermodynamique. Cette formation de base en thermodynamique est présentée en deux parties. La première partie où vous êtes maintenant pose les fondements de la thermodynamique. La deuxième partie présente des applications. Dans le premier chapitre, le professeur Paul Ekam de l'Institut Polytechnique de Yaoundé au Cameroun définit ce qu'est un système thermodynamique. Le docteur Sylvain Bréchet de l’École Polytechnique Fédérale de Lausanne en Suisse présente le premier principe de la thermodynamique et montre comment le cadre conceptuel de la thermodynamique généralise celui de la mécanique. Il définit en particulier les notions de travail et de chaleur.Deuxième principeLe docteur Sylvain Bréchet de l’École Polytechnique Fédérale de Lausanne en Suisse présente le deuxième principe de la thermodynamique qui permet de distinguer des processus réversibles et irréversibles par rapport à leur symétrie par renversement du temps. Il examine ensuite l'application des principes de la thermodynamique au cas d'un système simple. Le professeur Paul Ekam de l'Institut Polytechnique de Yaoundé au Cameroun introduit les notions d'équation d'état et de diagramme d'état.IrréversibilitéLe docteur Sylvain Bréchet de l’École Polytechnique Fédérale de Lausanne en Suisse aborde la thermodynamique d'un système isolé constitué de deux sous-systèmes simples. Il déduit les conditions d'équilibre ainsi que les lois phénoménologiques de Fourier et de Fick qui décrivent le transport de chaleur et de matière.Potentiels thermodynamiquesLe docteur Sylvain Bréchet de l’École Polytechnique Fédérale de Lausanne en Suisse établit les relations fondamentales de la thermodynamique, à savoir la relation de Gibbs, la relation d'Euler et la relation Gibbs-Duhem. Il définit la transformation mathématique de Legendre. A l'aide de cette transformation, il définit les potentiels thermodynamiques et leurs différentielles. En se basant sur le théorème de Schwarz, il établit les relations de Maxwell entre les dérivées premières des fonctions d'état. \n                                    ", 
+    "end_date": "2016-07-04T00:00:00Z", 
+    "title": "Thermodynamique : fondements", 
+    "price": 0, 
+    "instructors": "Jean-Philippe Ansermet, Paul-Salomon Ngohe-Ekam and Sylvain Bréchet", 
+    "institution_name": [
+        "École Polytechnique Fédérale de Lausanne"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://www.coursera.org/learn/thermo-base", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-06T00:00:00Z"
+}

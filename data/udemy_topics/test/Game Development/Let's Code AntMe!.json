@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Dieser Kurs setzt auf die Standard Tutorials von AntMe! auf und erlaubt den unterhaltsamen Einstieg in die Ameisen-Programmierung. Schon schnell werden deine Ameisen in der Lage sein Sachen zu machen, die du mit den normalen Tutorials nicht beigebracht bekommst.</p><p>Ganz nebenher und auf spielerische Weise lernst du auch noch was über die Enticklungsumgebung Visual Studio und die tollen Funktionen und Fallstricke von C#.</p>", 
+    "end_date": null, 
+    "title": "Let's Code AntMe!", 
+    "price": 0, 
+    "instructors": "Tom Wendel", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/742606_e117_4.jpg", 
+    "course_url": "https://www.udemy.com/lets-code-antme/", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-26T19:27:18Z"
+}

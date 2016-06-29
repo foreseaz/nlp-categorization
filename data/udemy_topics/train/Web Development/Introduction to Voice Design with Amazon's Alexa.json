@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>The Internet of Things is growing fast, and developers have\nthe potential to unlock the potential of IoT for the connected home and beyond.\nThis course is designed to provide developers with an introduction to IoT and\nvoice-first user experiences, using Amazon’s Alexa platform as an example.\nWe’ll give you an overview of Amazon Echo, the device that TechCrunch says\n“proves the viability of voice-based home computing.” Then you’ll meet Alexa,\nthe voice service that powers Amazon Echo, and learn how third-party developers\ncan add new capabilities, called skills, to Alexa. We will discuss the Alexa\nSkills Kit and explain how to create a voice app using AWS Lambda. Finally,\nwe’ll help you understand the differences between building mobile applications\nand voice experiences and provide best practices for voice design.</p>", 
+    "end_date": null, 
+    "title": "Introduction to Voice Design with Amazon's Alexa", 
+    "price": 0, 
+    "instructors": "Amazon Alexa", 
+    "commitment": "41 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/730542_e3ad.jpg", 
+    "course_url": "https://www.udemy.com/amazonalexa/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-17T01:17:59Z"
+}

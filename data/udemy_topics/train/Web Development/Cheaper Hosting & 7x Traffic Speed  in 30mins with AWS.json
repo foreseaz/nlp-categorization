@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tIn today&#039;s modern web many organizations and individual developers need static websites relying on HTML, CSS and Javascript. Nevertheless, websites delivering static content need to scale and grant high availability, and low latency, as visitors and content <span style=\"\">increase </span><span style=\"\">over time.</span>  </p>  <p style=\"\">  \t      In this course you&#039;ll easily learn how in a few simple steps you can  set up your static websites or web apps on the Cloud using Amazon S3 to store the files, Amazon CloudFront for content delivery, Route 53 to associate a custom domain name to your websites, and Amazon Glacier to set up an automatic backup strategy for your website&#039;s files on S3. It&#039;s an effective and low-cost solution that avoids the burden of configuring an EC2 instance with a web server for a task that is very simple.  </p>", 
+    "end_date": null, 
+    "title": "Cheaper Hosting & 7x Traffic Speed  in 30mins with AWS", 
+    "price": "20.00", 
+    "instructors": "Front End Developer Kevin Ventura", 
+    "commitment": "35 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/384390_f996_2.jpg", 
+    "course_url": "https://www.udemy.com/aws-front-end-architecture-for-cheap-hosting-and-10x-traffic-speed/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-03T22:03:45Z"
+}

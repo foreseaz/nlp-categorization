@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>* This course teaches Unity version 4.x</strong></p><p>In the ever changing world of game development, there are hundreds of game engines, and new versions of each one are released on a regular basis. Unity 3D is not only one of the most versatile, but one of the most widely used engines out there. By learning to create a Unity 3D game, you will be able to apply your skills and knowledge to a whole host of other programs too.<strong></strong></p><p><strong>Create multi-level, fun games for multiple platforms</strong></p><ul><li>Create a multi-level sci-fi puzzle game from scratch</li><li>Learn the fundamentals of Unity 3D game development and C# programming</li><li>Master professional game design practices</li><li>Compile a game for any device or platform</li></ul><p><strong>Course Overview</strong></p><p>With over 23 lectures and 3 hours of content, this course will take you through the process of building a multi-level Unity 3D game from scratch, complete with a hero protagonist who overcomes various obstacles to move up through the levels. </p><p>You will learn the basics of core modular game asset creation, level design, C# game scripting, menu creation, scene linking, and finally compiling your game. By increasing the complexity of the puzzles and elements of each level, your game will not only become more fun as it progresses, but you'll learn more about game development too through challenging yourself and learning to engage your audience.</p><p>You'll not only master the basics, but the finer details too, including sound effects, testing for bugs, menu scripting, and of course modelling and texturing. While most suited to those with some experience of Unity 3D and game development, complete beginners will also be more than capable of completing this course too. <strong></strong></p><p><strong>About Unity 3D</strong></p><p>Unity 3D is a game engine used to create multiplatform 3D and 2D games for desktops, consoles, mobile devices and websites. Combining high end technology and tools with intuitive and customisable settings, it runs on almost every platform you can think of and is constantly developed and improved by its community of developers. As well as creating games, it also provides features such as ads, analytics, cloud building and multiplayer networking. </p>", 
+    "end_date": null, 
+    "title": "Create a 3D Game with Unity 3D", 
+    "price": 0, 
+    "instructors": "Stone River eLearning", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/305588_e572_3.jpg", 
+    "course_url": "https://www.udemy.com/create-a-3d-game-with-unity-3d/", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-22T19:21:22Z"
+}

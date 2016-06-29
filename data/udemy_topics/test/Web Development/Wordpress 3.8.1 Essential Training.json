@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   WordPress powers millions of blogs and websites. Learn how to create your own with this powerful publishing platform. We will help you get the most out of the self-hosted version of WordPress and create feature-rich blogs and websites. We also will explain how to create and publish posts and pages; customize your site with themes, widgets, and custom menus; and extend WordPress even further with plugins. What&#039;s more, we also will show you how to get more readers with social media sharing and comments, and adjust the settings that keep your site safe and secure.  </p>  <p style=\"\">  \t   Topics include:  </p>  <ul style=\"\">  \t<li style=\"\">What is WordPress?</li>  \t<li style=\"\">Installing and running WordPress</li>  \t<li style=\"\">Publishing posts and pages</li>  \t<li style=\"\">Using page templates</li>  \t<li style=\"\">Inserting images, video, and other media</li>  \t<li style=\"\">Editing posts</li>  \t<li style=\"\">Changing themes</li>  \t<li style=\"\">Installing plugins</li>  \t<li style=\"\">Adding other users</li>  \t<li style=\"\">Securing your WordPress site</li>  </ul>", 
+    "end_date": null, 
+    "title": "Wordpress 3.8.1 Essential Training", 
+    "price": "20.00", 
+    "instructors": "andy christi", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/151254_1a32_4.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-381-essential-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-23T09:09:25Z"
+}

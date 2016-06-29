@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t During this Learn Java Programming for Beginners course, you’ll discover the essentials of the Java programming language.  </p>  <p>  \t Learn Java Programming for Beginners is a comprehensive course that helps new Java programmers to discover the power of Java. We start with the basics of the language (syntax, variables, data types), and then explore the Java Runtime Environment, the Java Development Kit (JDK), becoming familiar with Java SE libraries, and understanding development environment options.  </p>  <p>  \t Your professional trainer will cover the basics of object-oriented programming (OOP) concepts, the importance of inheritance, and the power of multithreaded Java.  </p>  <p>  \t Along the way, he’ll provide details regarding best practices when programming in Java, including controlling the flow of execution and predefined data streams for console-based applications.  </p>  <p>  \t By the end of the Java Programming for Beginners course, you will master the fundamentals needed to program in Java.  </p>  <p>  \t This course includes:  </p>  <ul style=\"\">  \t<li>Demo files</li>  \t<li>An optional quiz to test what you’ve learned</li>  \t<li>Certificate of completion</li>  </ul>", 
+    "end_date": null, 
+    "title": "Java Programming for Beginners: Discover the Essentials", 
+    "price": "20.00", 
+    "instructors": "Simon Sez IT", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/237308_5234_2.jpg", 
+    "course_url": "https://www.udemy.com/java-programming-for-beginners-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-04T18:36:28Z"
+}

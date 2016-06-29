@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This is the How to Build a Minecraft Server course..</p><p>This course is designed for:</p><p> All skill levels</p><ul><li>Learners who would like to know what it takes and how to install, manage, and maintain a Minecraft Server of their own in Windows or Linux operating systems.</li><li>Learners with children and concerns for their safety when playing Minecraft.</li></ul> <p>This course introduces users to the steps necessary to download, install, configure, run, and manage their own Minecraft server. After reviewing server operating system and hardware requirements and even a how to for creating a VMware virtualized option (in case suitable spare hardware doesn't exist), students will be guided with a step by step approach detailing:</p><ul><li>how to download</li><li>how to install Minecraft server</li><li>how to install Java (required to run Minecraft server)</li><li>how to configure Minecraft server</li><li>how to start and stop the Minecraft server</li><li>how to connect the Minecraft game clients to the server</li><li>how to use the Minecraft server console with some of the more common console management commands for Minecraft server</li></ul><p>Students will also be provided with some additional advanced Minecraft server topics like:</p><ul><li>creating startup scripts</li><li>taking backups of Minecraft files and worlds</li><li>steps to upgrade your Minecraft software</li><li>how to work with worlds (think of worlds as maps)</li><li>opening up your network to allow external players from outside of your house</li><li>things to consider when deciding to leave your Minecraft server up full time including recommendations to keep the Minecraft server more secure</li><li>basic troubleshooting for your Minecraft server</li></ul><p>Each lecture provides you with step by step process and commands (where applicable) to complete the installation and management of your Minecraft server.</p><p>If you view this course from end to end, it will take you over 4 hours to complete across more than 30 lectures. If you intended to build your Minecraft server by following along, it could add another 1-2 hours to completing this course depending on your skill level.</p><p>This course has been designed so that you can follow along step by step installing your own Minecraft server in Windows or Linux operating systems.</p><p>You should take this course if you have a desire to download, install, operate, and manage your own Minecraft server in Windows or Linux operating systems (sorry, Windows Server and Mac operating systems are not provided in this course, though Windows concepts for installing, managing, and running Java as well as setting a static IP should be the same or very similar to the configurations necessary in a Windows server environment). Parents concerned about letting their children play on public Minecraft servers where anyone can play, and use inappropriate language, bully, stalk, or otherwise unnecessarily harass or follow your children will also benefit from this class by learning to build a Minecraft server they can control to help keep their kids safe.</p><p>Don't forget, the software to run your own Minecraft server is free of charge.  You don't have to pay to download or run your own Minecraft server.</p>", 
+    "end_date": null, 
+    "title": "How to Build a Minecraft Server", 
+    "price": "40.00", 
+    "instructors": "Dean Barnes", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/604566_5b11_2.jpg", 
+    "course_url": "https://www.udemy.com/how-to-build-a-minecraft-server/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-07T06:14:35Z"
+}

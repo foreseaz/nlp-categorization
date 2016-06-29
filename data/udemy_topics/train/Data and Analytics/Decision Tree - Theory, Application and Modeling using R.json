@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>  \t<strong style=\"\"><span style=\" color:red;\">What is this course?</span></strong>  </p>  <p>  \t              Decision Tree Model building is one of the most applied technique in analytics vertical. The decision tree model is quick to develop and easy to understand. The technique is simple to learn. A number of business scenarios in lending business / telecom / automobile etc. require decision tree model building.  </p>  <p>  \t              This course ensures that student get understanding of  </p>  <ul style=\"\">  \t<li>what is the decision tree</li>  \t<li>where do you apply decision tree</li>  \t<li>what benefit it brings</li>  \t<li>what are various algorithm behind decision tree</li>  \t<li>what are the steps to develop decision tree in R</li>  \t<li>how to interpret the decision tree output of R</li>  </ul>  <p>  \t<strong style=\"\"><span style=\" color:red;\">Course Tags</span></strong>  </p>  <ul style=\"\">  \t<li>Decision Tree</li>  \t<li>CHAID</li>  \t<li>CART</li>  \t<li>Objective segmentation</li>  \t<li>Predictive analytics</li>  \t<li>ID3</li>  \t<li>GINI</li>  </ul>  <p>  \t<span style=\" color:red;\"><strong style=\"\">Material in this course</strong></span>  </p>  <ul style=\"\">  \t<li>the videos are in HD format</li>  \t<li>the presentation used to create video are available to download in PDF format</li>  \t<li>the excel files used is available to download</li>  \t<li>the R program used is also available to download</li>  </ul>  <p>  \t<strong style=\"\"><span style=\" color:red;\">How long the course should take?</span></strong>  </p>  <p>  \t            It should take approximately 8 hours to internalize the concepts and become comfortable with the decision tree modeling using R  </p>  <p>  \t            The structure of the course  </p>  <p>  \t          Section 1 – motivation and basic understanding  </p>  <ul style=\"\">  \t<li>Understand the business scenario, where decision tree for categorical outcome is required</li>  \t<li>See a sample decision tree – output</li>  \t<li>Understand the gains obtained from the decision tree</li>  \t<li>Understand how it is different from logistic regression based scoring</li>  </ul>  <p>  \t          Section 2 – practical (for categorical output)  </p>  <ul style=\"\">  \t<li>Install R - process</li>  \t<li>Install R studio - process</li>  \t<li>Little understanding of R studio /Package / library</li>  \t<li>Develop a decision tree in R</li>  \t<li>Delve into the output</li>  </ul>  <p>  \t          Section 3 – Algorithm behind decision tree  </p>  <ul style=\"\">  \t<li>GINI Index of a node</li>  \t<li>GINI Index of a split</li>  \t<li>Variable and split point selection procedure</li>  \t<li>Implementing CART</li>  \t<li>Decision tree development and validation in data mining scenario</li>  \t<li>Auto pruning technique</li>  \t<li>Understand R procedure for auto pruning</li>  \t<li>Understand difference between CHAID and CART</li>  \t<li>Understand the CART for numeric outcome</li>  \t<li>Interpret the R-square meaning associated with CART</li>  </ul>  <p>  \t          Section 4 – Other algorithm for decision tree  </p>  <ul style=\"\">  \t<li>ID3</li>  \t<li>Entropy of a node</li>  \t<li>Entropy of a split</li>  \t<li>Random Forest Method</li>  </ul>  <p>  \t<strong style=\"\"><span style=\" color:red;\">Why take this course?</span></strong>  </p>  <p>  \t        Take this course to  </p>  <ul style=\"\">  \t<li>Become crystal clear with decision tree modeling</li>  \t<li>Become comfortable with decision tree development using R</li>  \t<li>Hands on with R package output</li>  \t<li>Understand the practical usage of decision tree</li>  </ul>", 
+    "end_date": null, 
+    "title": "Decision Tree - Theory, Application and Modeling using R", 
+    "price": "40.00", 
+    "instructors": "Gopal Prasad Malakar", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/367468_f78f_5.jpg", 
+    "course_url": "https://www.udemy.com/decision-tree-theory-application-and-modeling-using-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-10T18:01:11Z"
+}

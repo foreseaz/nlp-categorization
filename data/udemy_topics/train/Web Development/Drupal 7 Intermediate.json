@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This class follows immediately on from the beginner class and takes your Drupal skills to a higher level. &nbsp;You&#039;ll learn how to master fields, Views and Panels to create sophisticated Drupal sites.</p>  <p>The course includes a course project, where we replicate the most famous Drupal site in the world, WhiteHouse.gov</p>  <p>This is the same material that we have used to teach businesses, universities, and government organizations, such as MIT, Stanford, NY Transit Authority, and Houston Public Library.</p>  <p>We hope you enjoy the course!</p>", 
+    "end_date": null, 
+    "title": "Drupal 7 Intermediate", 
+    "price": "35.00", 
+    "instructors": "OSTraining LLC", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/19387_9133_5.jpg", 
+    "course_url": "https://www.udemy.com/drupal-7-intermediate/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-06-11T21:43:56Z"
+}

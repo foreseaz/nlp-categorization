@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Physics"
+    ], 
+    "description": "\n\n                    \n                    \n                    Este curso provee al estudiante con conceptos y herramientas matemáticas para modelar problemas en física, que al aplicar podrá enfrentar con éxito los cursos de física universitarios.\n\nAsí pues, la filosofía de este curso consiste en cubrir temas conceptuales relativos a la Física y desarrollar tu capacidad de aprender y aplicarlos en tu vida profesional.\n\nEl curso se aborda en dos fases a través de las cuales el alumno:\n\n- Aprenderá a aplicar el cálculo diferencial e integral para interpretar y modelar la cinemática de una partícula en una dimensión,\n- Aprenderá el manejo de cantidades físicas vectoriales en forma gráfica y analítica en dos y tres dimensiones.\n\n                                            Syllabus\n                        Introducción al movimientoEn estas sesiones daremos inicio al curso y hablaremos de conceptos importantes referentes a la cinemática y cómo es que estos se usan en la física. Te invitamos a revisar cuidadosamente el contenido de este módulo, realizar todas las actividades y a participar en los foros de discusión.  Velocidad instantánea y derivadasEn esta semana hablaremos de conceptos importantes referentes a la velocidad instantánea, las derivadas y cómo se usan en la física. Te invitamos a revisar cuidadosamente el contenido de esta semana, realizar todas las actividades y a participar en los foros de discusión.Teorema del valor promedio e integralesEn este módulo nos enfocamos en la operación inversa de la derivada para calcular desplazamiento a partir de una función de velocidad; a dicha operación se le conoce como la integral definida y justificaremos su uso a partir de teorema del valor promedio. También usaremos la integral indefinida para obtener la función de posición a partir de una función de velocidad y una condición para la posición.Interpretación de gráficasEn este módulo usaremos todos los conceptos vistos hasta el momento para dibujar el bosquejo o identificar la gráfica de velocidad de una partícula dada su gráfica de posición y vice versa.Introducción a vectoresEn este módulo estudiaremos los conceptos básicos de la representación gráfica de vectores así como de operaciones de suma, resta y multiplicación.Vectores en el plano cartesianoEn este capítulo introducimos el concepto de vector unitario y componentes rectangulares de un vector, así como las operaciones básicas con vectores cuando están expresados en coordenadas rectangulares.Vectores en el espacioEn este módulo extendemos los conceptos de vectores en el plano cartesiano al espacio en tres dimensiones,  y se presentan los cosenos directores de un vector en coordenadas cartesianas.Producto puntoEn este módulo estudiamos el producto punto (o escalar) entre vectores y su interpretación gráfica, así como algunas aplicaciones en la física.Producto cruzEn este módulo estudiamos el producto cruz (o producto vectorial)  y su interpretación gráfica, así como algunas aplicaciones en la física.\n                                    ", 
+    "end_date": "2016-08-08T00:00:00Z", 
+    "title": "Conceptos y Herramientas para la Física Universitaria", 
+    "price": 0, 
+    "instructors": "Genaro Zavala Enríquez, Rodolfo Fernández de Lara Hadad and José Rodrigo  Salmón Folgueras", 
+    "institution_name": [
+        "Tecnológico de Monterrey"
+    ], 
+    "commitment": "4-5 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://www.coursera.org/learn/fisica-universitaria", 
+    "duration": "9 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-06T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>This course aims at exploring the Automation techniques of Microsoft Access using Macro Builder and VBA. Understanding the development environment would be one of the prime takeaways, along with some easy demonstration of applications build through Macro Builder. As we know that automation is very important in every platform,this course helps to learn the automation techniques in Microsoft Access. From Microsoft Access, you can work with objects supplied by another component aswell. </p><p>By the end of the course, participants would learn/use/acquire the following techniques/knowledge:<br></p><ul><li>Introduction to Macros as an Automation Platform</li><li>Developing Simple Macros using Macro Builder</li><li>Intro to VBA and VBE</li><li>Restrictions of Macro Builder</li><li>Writing simple programs using Code Builder<strong></strong></li></ul>", 
+    "end_date": null, 
+    "title": "Automation Skills in Access - Unleashed", 
+    "price": "20.00", 
+    "instructors": "GreyCampus Inc.", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/725136_e26b_2.jpg", 
+    "course_url": "https://www.udemy.com/automation-skills-in-access-unleashed/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-12T05:48:48Z"
+}

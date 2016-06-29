@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Test Prep"
+    ], 
+    "description": "<p>  \t  Prepare for and ace the AP Computer Science exam!  </p>  <p>  \t  Learn the basic concepts and functions of the Java programming language to create your own computer programs!  </p>  <p>  \t  Learn more about computer science with a course with 115 lectures and over 10.5 hours of content FOR <strong style=\"\">FREE</strong>!  </p>  <ul style=\"\">  \t<li style=\"\">Java Development Kit Installation</li>  \t<li style=\"\">Types and Operators</li>  \t<li style=\"\">Methods and Wrapper Classes</li>  \t<li style=\"\">Object-Oriented Programming (OOP), Classes, and Objects</li>  \t<li style=\"\">Loops and Conditionals</li>  \t<li style=\"\">Inheritance and Polymorphism</li>  \t<li style=\"\">Recursion and Sorting/Searching Algorithms</li>  </ul>  <p>  \t<strong style=\"\">Content Overview </strong><br style=\"\">  \t  Suitable for beginning programmers, through this course of 115 lectures and over 10.5 hours of content, you’ll learn all of the Java fundamentals and establish a strong understanding of the concept behind object-oriented programming (OOP). Each chapter  consists of exercises, putting your new learned skills into practical use immediately.  </p>  <p>  \t  Starting with the installation of the Java Development Kit, this course will take you through Java variable types, operators, and how to use them. By creating classes and objects, you’ll a establish a strong understanding of OOP.  </p>  <p>  \t  With these basics mastered, the course will take you through program flow control by teaching you how to use for loops, while loops, and conditional if-else statements to add complexity and functionality to your programs.  </p>  <p>  \t  Students completing the course will have the knowledge to create functional and useful Java programs.  </p>  <p>  \t  Complete with working files and code samples, you’ll be able to work alongside the author as you work through each concept, and will receive a verifiable certificate of completion upon finishing the course.  </p>", 
+    "end_date": null, 
+    "title": "Decoding AP Computer Science A", 
+    "price": 0, 
+    "instructors": "Moksh Jawa", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/367364_b548_2.jpg", 
+    "course_url": "https://www.udemy.com/decoding-ap-computer-science-a/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-10T15:15:28Z"
+}

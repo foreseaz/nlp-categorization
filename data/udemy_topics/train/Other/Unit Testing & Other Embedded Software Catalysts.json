@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>  \t              Welcome to Dr. Surly's School for Mad Scientists!  </strong></p>  <p>  \t          Unit Testing and Test Driven Development help smart, capable developers like you create robust, reliable, and maintainable software. Apply these skills to embedded and system software, <em>even in C</em>, to improve your architecture and quality. Sleep soundly at night.</p><p>Can't decide? Need something more? tdd@throwtheswitch.org or 616-334-0169  </p>  <p>  \t<strong>Learn how to apply Unit Testing to <em>your</em> Embedded and System C Software</strong>  </p>  <ul>  \t<li>Develop in C using Test Driven Development. <strong><em>W</em></strong><strong><em>rite real tests on your first day</em></strong>.</li>  \t<li>Learn concepts from Agile, XP, Scrum, and Lean practices for producing well designed, high quality, scope-managed, and self-documented code.</li>  \t<li>Utilize free open source tools like Unity and CMock in real-world scenarios. <em><strong>No toy examples.</strong></em></li>  </ul>  <p>  \t<strong>Powerful Tools for your Development Toolbox</strong>  </p>  <p>  \t          You will learn skills that have become staples in higher level languages but are sadly underutilized in the C space. In particular, you will learn to write unit tests in the uniquely challenging world of embedded and system software.  </p>  <p>  \t<strong>Overview</strong>  </p>  <p>  \t          In this <em>project-driven</em> course you will:  </p>  <ul>  \t<li>Follow us through <em>real-world</em> code examples</li>  \t<li>Learn the big idea philosophies for process and design</li>  \t<li>Apply your new skills to working code</li><li>Connect with our supportive community </li>  </ul>    <p>  \t              This course includes:  </p>  <ul>  \t<li>0x1D (29) Code-centered lectures </li>  \t<li>0x05 (5) Development projects </li>  \t<li>0x12 (18) Helpful resource-packed supplemental primers, guides, and how-to's</li>  \t<li>Links, quizzes, helpful hints, and more</li></ul><p><strong>We Are Adding More Material Soon</strong></p><ol><li>Next up, a full end-to-end project using interaction-based testing with mocks</li><li>Then, a guide to assembling test builds for just about any environment</li></ol>  <p>  \t<strong>Join us on our mission to improve the quality of embedded software while taking over the world!  </strong>  </p>", 
+    "end_date": null, 
+    "title": "Unit Testing & Other Embedded Software Catalysts", 
+    "price": "50.00", 
+    "instructors": "Mark VanderVoord, Mike Karlesky", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/250094_ce26_2.jpg", 
+    "course_url": "https://www.udemy.com/unit-testing-and-other-embedded-software-catalysts/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-25T13:04:39Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Welcome to <strong>Create Simple GUI Applications</strong> where we're going to use Python and Qt to do just that.</p><p>If you want to learn to build GUI applications with Python the learning curve is pretty steep. There is a lot you need to know just to get something to work.<br></p><p>Many tutorials offer only screen casts and miss the simple concepts that actually matter. Like writing any code, successfully programming PyQt GUI applications is all about thinking in the right way. In this course I give you the real useful basics that you need to get building PyQt applications as quickly as possible. I include <strong>explanations</strong>, <strong>diagrams</strong>, <strong>walk-throughs</strong> and <strong>code</strong> to make sure you know what you're doing every step of the way.</p><p>By the end of the first <strong>8 minute</strong> lesson you will have a running <strong>Qt application</strong> - ready to customise as you like. <strong>So, lets get started!</strong></p>", 
+    "end_date": null, 
+    "title": "Create Simple GUI Applications with Python and Qt", 
+    "price": "20.00", 
+    "instructors": "Martin Fitzpatrick", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/522076_eb46_2.jpg", 
+    "course_url": "https://www.udemy.com/create-simple-gui-applications-with-python-and-qt/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-06T17:11:09Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">This course is all about the Cisco WAAS(Wide Area Application Services)</p><p style=\"\">The course is designed in a such a way that after taking this you will be able to understand its need in the Network , its multiple way of deployments and its architecture.</p><p style=\"\">Most important thing i have taken care while designing of this course is , i have not cut short with basic technical details , which mostly been under-looked and you can still configure and implement without messing up with those information , but that is not my way of learning or teaching , you have to be good with basics of any technology .</p><p style=\"\">While i was struggling with my previous organisation&#039;s  WAAS deployment , i have searched a lot in internet but i wouldn&#039;t able to find a single blog or videos on this , which can explain this end to end , every time i ends up with bits and pieces of information , so this course really provide you a very systematic way of learning this technology end to end.</p><p style=\"\">Today every network is running over the WAN , So you should be using or should use a WAN optimization and this course is all about that....</p>", 
+    "end_date": null, 
+    "title": "Cisco WAAS (wide area application services)....", 
+    "price": "35.00", 
+    "instructors": "Animesh Khare", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/470144_7c32_3.jpg", 
+    "course_url": "https://www.udemy.com/cisco_waas_wide_area_application_services/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-07T19:29:59Z"
+}

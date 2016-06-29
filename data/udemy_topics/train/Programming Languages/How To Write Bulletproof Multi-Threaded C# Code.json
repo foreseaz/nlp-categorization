@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\"></strong><strong style=\"\">Updated on August 7, 2015</strong>. Added a new lecture on Thread Rendezvous.</p><p style=\"\"><strong style=\"\">BEST COURSE CHOICE for beginners and intermediate C# developers who want to learn how to write unbreakable multi-threaded code, and take their programming skills to the next level.</strong></p><p style=\"\">Do you know how to write robust multi-threaded C# code that does not crash?</p><p style=\"\">Yeah, I thought I did too. In 2005 I built an RFID-enabled supermarket shelf and wrote some multi-threaded C# code to ping the antennas and automatically detect groceries fitted with an RFID tag.  </p><p style=\"\">The result? The program was very unstable and crashed many times. My client did eventually manage to perform a successful demo, but it required a lot of reboots. </p><p style=\"\">Why was my code so unstable? Because I had forgotten to put critical sections around some of the variables that were shared between threads. </p><p style=\"\">Writing multi-threaded code is <strong style=\"\">hard</strong>. The sobering truth is that, unless you know exactly what you&#039;re doing, your code is pretty much guaranteed to <strong style=\"\">crash</strong> in production. </p><p style=\"\"><strong style=\"\">Don&#039;t let this happen to you!</strong></p><p style=\"\">It doesn&#039;t have to be like this. If you have a good understanding of multi-threaded programming and follow a few simple industry best practices, you can write robust code that can take a beating. </p><p style=\"\">I wrote a multi-threaded conversion utility a few months ago, that successfully migrated 100,000 documents from SharePoint 2010 to SharePoint 2013. The program worked flawlessly the first time, because I implemented all of the best practices for writing asynchronous C# code. </p><p style=\"\">Sound good?</p><p style=\"\"><strong style=\"\">In this course I am going to share these practices with you. </strong></p><p style=\"\">In a series of short lectures I will cover many multi-threading topics. I will show you all of the problems you can expect in asynchronous code, like race conditions, deadlocks, livelocks and synchronisation issues. I&#039;ll show you quick and easy strategies to resolve these problems.</p><p style=\"\">By the end of this course you will be able to write robust multi-threaded C# code that can take a beating. </p><p style=\"\"><strong style=\"\">Why should you take this course?</strong></p><p style=\"\">You should take this course if you are a beginner or intermediate C# developer and want to take your skills to the next level. Asynchronous programming might sound complicated, but all of my lectures are very easy to follow, and I explain all topics with clear code and many instructive diagrams. You&#039;ll have no trouble following along.</p><p style=\"\">Or maybe you&#039;re working on a critical section of code in a multi-threaded C# project, and need to make sure your code is rock-solid in production? The tips and tricks in this course will help you immensely.</p><p style=\"\">Or maybe you&#039;re preparing for a C# related job interview? This course will give you an excellent foundation to answer any threading-related questions they might throw at you.</p><p style=\"\"><strong style=\"\">30 day money-back guarantee</strong></p><p style=\"\"><em style=\"\">This course comes with an unconditional, Udemy backed, 30-day money-back guarantee. If you are dissatisfied with the course for any reason, simply request a refund and get your full purchase amount back, no questions asked.</em></p><p style=\"\"><strong style=\"\">Act now</strong></p><p style=\"\">This course today contains over 3 hours of video content and I am adding new material every month. Enrol now to benefit from the current price and get free lifelong access to all future materials.</p><p style=\"\"><strong style=\"\">Enrol now!</strong></p>", 
+    "end_date": null, 
+    "title": "How To Write Bulletproof Multi-Threaded C# Code", 
+    "price": "40.00", 
+    "instructors": "Mark Farragher", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/476792_d555_3.jpg", 
+    "course_url": "https://www.udemy.com/how-to-write-multi-threaded-csharp-code/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-15T06:07:50Z"
+}

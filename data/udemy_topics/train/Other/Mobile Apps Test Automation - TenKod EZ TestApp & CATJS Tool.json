@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>TenKod EZ TestApp</strong> provides mobile developers and testers with a comprehensive set of frameworks and tools for writing and carrying out automated tests. </p><p>EZ Test App does NOT require any application instrumentation or device jail breaking / rooting. The Platforms runs on Windows and Mac OS. Android is supported on Windows and Mac, iOS is supported on Mac OS. </p><p>EZ TestApp Test Projects are Continuous Integration and Continuous Delivery ready. </p><p>TenKod course is organised in below sub-topics:-</p><ol><li>TenKod EZ TestApp - Tool Overview, Features</li><li>Mobile App Test Automation Step-by-Step Demonstration</li><li>TenKod EZ TestApp CI (Jenkins) Integration</li></ol><p><strong>CATJS </strong>is an open source automation framework for web &amp; mobile-web applications testing supports iOS, Android and any HTML5 Browser.</p><p>CATJS course is organised in below sub-topics:-</p><ol><li>CATJS Tool - Introduction &amp; Installation</li><li>CATJS - Web | Mobile-Web Testing – Creating Test (Demo)</li><li>CATJS - Test Execution &amp; Reporting</li></ol>", 
+    "end_date": null, 
+    "title": "Mobile Apps Test Automation - TenKod EZ TestApp & CATJS Tool", 
+    "price": "20.00", 
+    "instructors": "e VideoTuition", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/776392_c2dd_6.jpg", 
+    "course_url": "https://www.udemy.com/mobile-apps-test-automation-tenkod-ez-testapp-catjs-tool/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-27T22:36:37Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course you will learn how to build a RESTful web service with ASP.NET Web API 2 and integrate it into an ASP.NET web application. You will use Visual Studio 2015 Community Edition, which is completely free. Whether you are new to web services or already have built a web service with the first release of Web API or any other framework doesn't matter, you will build your new service from the ground up. What you already should have is a little experience in C#. Having some knowledge in JQuery and building web applications in general might help, but is not absolutely necessary.</p>\n\n<p>By the end of this course, you will be able to build a RESTful web service with Web API 2 by yourself, make GET, POST, PUT and DELETE HTTP Requests with JQuery and AJAX and use the new Attribute Routing of Web API 2 to control your REST web service design by creating custom URIs. You will also get a sneak peak at Entity Framework Code First migrations and learn how to save your data persistently in a database.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>The only tools we will use in this course are Visual Studio 2015 Community Edition and Google Chrome. Both are available for download for free.</p>\n\n\n\n<p>All source codes and exercise solutions of this course are also available for download, of course.</p>", 
+    "end_date": null, 
+    "title": "ASP.NET Web API 2 Hands-On", 
+    "price": 0, 
+    "instructors": "Patrick God", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/876544_6900_3.jpg", 
+    "course_url": "https://www.udemy.com/aspnet-web-api-2-hands-on/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-13T07:37:50Z"
+}

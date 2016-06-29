@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Why Take this Class?</strong>  </p>  <p>  \t                                          This course is the one I wish I had when I first taught myself to code.  </p>  <p>  \t                                          I spent a year wading through coding exercises, programming books, and online tutorials. Similar to traditional education, I thought I had to learn everything from the ground up—first master the basics of HTML, then pick a programming language, then learn to build simple functionalities, then develop more advanced features.  </p>  <p>  \t                                          But really, I just wanted to know how to build a website that does “___________” (fill in the blank with your own million dollar idea).  When I finally finished building my first website, I realized I had been learning it all wrong <em style=\"\">for my purpose.</em>  </p>  <p>  \t                                          So if your goal is to master a programming language and become the ultimate software engineer, this may not be the course for you.  </p>  <p>  \t                                          If, however, you’re looking for an effective way to rapidly implement your ideas on the web, you’re in the right place.  Read on.  </p>  <p>  \t <br style=\"\">  \t<strong style=\"\">What You’ll be Learning</strong>  </p>  <p>  \t                                          This course will take you through building an online marketplace similar to Etsy. You will learn to develop functionalities common to many websites including:  </p>  <ul style=\"\">  \t<li>Upload product listings complete with prices, descriptions, and images</li>  \t<li>Create user accounts and login to see personalized dashboards</li>  \t<li>Implement powerful design features with CSS</li>  \t<li>Accept credit card payments and initiate transfers to third-party bank accounts</li>  \t<li>Secure your sensitive account data </li>  \t<li>Deploy your website live</li>  </ul>  <p>  \t               Along the way, we&#039;ll learn to use the latest versions of popular technologies. We’ll be working with Ruby on Rails, as well as front-end tools like Twitter Bootstrap and CSS. We’ll touch upon databases with SQLite; APIs with Stripe;  and even hosting platforms such as GitHub, Heroku, and Dropbox. The skills you’ll have learned will be valuable for building any idea.  </p>  <br style=\"\"><br style=\"\">  <p>  \t <strong style=\"\">About BaseRails</strong>  </p>  <p>  \t <a href=\"https://www.baserails.com\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\">BaseRails</a> is a video learning platform that teaches Ruby on Rails and other technologies through building real world projects. Our collection of project-based courses walk you through coding robust applications like Etsy and Yelp while covering the most relevant programming topics, APIs, and tools used by developers.  </p>  <p>  \t Whether you&#039;re learning to code to become a web developer, or just looking to prototype your MVP, we believe working on projects is the most effective way to learn. Instead of being taught theory, you’ll learn by building working applications. You understand the big picture concepts before filling in the details. You learn to build apps the way developers do — one feature at a time. <br style=\"\">  \t <br style=\"\">  \t Most people feel demotivated when they take traditional programming classes, but with BaseRails, you’ll make rapid progress on your projects so you always stay engaged. Along the way, you learn in-demand tech skills through practice and solving problems with available resources, not through brute memorization.<br style=\"\">  \t <br style=\"\">  \t With a growing community of students who love our practical approach, we aim to become the leader of online, project-based learning for every subject.  </p>  <p>  \t Enroll on <a href=\"http://www.baserails.com\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\">baserails.com</a> for a free account.  </p>", 
+    "end_date": null, 
+    "title": "Ruby on Rails: Training and Skills to Build Web Applications", 
+    "price": "45.00", 
+    "instructors": "Alex Yang", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/134144_3d48_6.jpg", 
+    "course_url": "https://www.udemy.com/the-startups-guide-to-web-development-with-ruby-on-rails/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-16T03:03:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>The overall focus of this course is to teach the user proper Visual Basic programming techniques along with an understanding of Excel’s object structure. Other topics in this course include; proper variable declaration, control structure use, looping, and Userform creation. The final section deals with the debugging tools included in the Microsoft VBA editor and methods on how to effectively use them. <br></p><p><br></p><p><br></p><p><br></p>  ", 
+    "end_date": null, 
+    "title": "Excel 2010 VBA", 
+    "price": "40.00", 
+    "instructors": "CompuWorks Trainers", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/50213_3f3c_7.jpg", 
+    "course_url": "https://www.udemy.com/cwexcel-2010-vba/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-04-17T14:35:48Z"
+}

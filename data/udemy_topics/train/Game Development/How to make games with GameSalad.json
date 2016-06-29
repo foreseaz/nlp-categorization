@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will cover how to make games in the GameSalad creator. The information you learn will enable you to make any kind of game you want to in the future. I will include all art and sound I use in the tutorials so you can follow along and make the games yourself. This course will go at a pace that beginners can follow but also advanced users will not get bored with. The lessons go in order of difficulty so nothing big will be thrown at you if your not ready for it. </p><p>This Course is worth your time to take because,</p><ul style=\"\"><li>The skills you learn will last you for your whole life.</li><li>You will be able to fluently make games you want, not just the ones we make together.</li><li>There is no coding knowledge required!</li></ul>", 
+    "end_date": null, 
+    "title": "How to make games with GameSalad", 
+    "price": "20.00", 
+    "instructors": "Nate Shultz", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/516580_f70f_3.jpg", 
+    "course_url": "https://www.udemy.com/gamesalad-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-01T02:34:56Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">This Udemy tutorial gives you the opportunity to learn KiCad in a fast visual fashion.</strong>  </p>  <p style=\"\">  \t  During these video tutorials I will teach you how to set up your project and design a printed circuit board.  </p>  <p style=\"\">  \t <br style=\"\">  \t<strong style=\"\">The biggest reason to use KiCad as your PCB design tool is: </strong>  </p>  <ul style=\"\">  \t<li style=\"\">KiCad has no restrictions on how big your physical printed cicuit bord can be. </li>  \t<li style=\"\">KiCad is free and perfect to use within the maker community.</li>  \t<li style=\"\">KiCad is open source.</li>  \t<li style=\"\">KiCad has no complex and expensive licensees associated with it.</li>  </ul>", 
+    "end_date": null, 
+    "title": "Learn KiCad. Printed Circuit Board Design.", 
+    "price": 0, 
+    "instructors": "Niklas Wennerstrand", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/214818_2705_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-kicad-printed-circuit-board-design/", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-10T16:38:46Z"
+}

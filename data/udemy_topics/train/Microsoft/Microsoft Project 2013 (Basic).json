@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">This course is an introductory course in our series on Microsoft Project (MS-Project) software, a project management software offered by Microsoft to assist project managers in planning, defining tasks, assigning resources, tracking progress, managing the budget, and analyzing workloads. This course gives an excellent overview of the MS-Project software and covers the basics of creating tasks and assigning these tasks to the resources. It provides a solid foundation for the more comprehensive course on Microsoft Project offered by iAthena consisting of 16 modules that provide in-depth information on project planning and management. The advanced course also includes 2 examples of project plan creation.</p>", 
+    "end_date": null, 
+    "title": "Microsoft Project 2013 (Basic)", 
+    "price": "30.00", 
+    "instructors": "iAthena a Navitus Education Venture", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/500704_0c04_2.jpg", 
+    "course_url": "https://www.udemy.com/microsoft-project-2013-basic-free/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-13T05:12:31Z"
+}

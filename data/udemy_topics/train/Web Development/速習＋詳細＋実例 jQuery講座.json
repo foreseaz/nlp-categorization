@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>　このコースは、jQuery公式のAPIドキュメントの知識を網羅しています。セレクタを使ったDOM要素の操作から、イベント、エフェクト、Ajax、Deferredまでの、基礎知識から実際の利用までをカバーしています。</p>\n\n<p>　このコースを習得すれば、次のような事ができるようになります。</p>\n\n\n\n\n\n\n\n\n\n<p>- WebページのDOM要素の操作。</p>\n\n\n\n\n\n\n\n\n\n<p>- イベントやエフェクトの登録と活用。</p>\n\n\n\n\n\n\n\n\n\n<p>- Ajax、Deferredといった、通信や非同期処理の扱い。</p>\n\n\n\n\n\n\n\n\n\n<p>- 実際のアプリケーションの作成を通した、jQueryの活用。</p>\n\n\n\n\n\n\n\n\n\n<p>　コースで紹介されるコードは、サンプルコードとして、全てダウンロードすることができます。</p>\n\n\n\n\n\n\n\n\n\n<p>‥‥‥‥‥‥‥‥‥‥</p>\n\n\n\n\n\n\n\n<p>　このコースを学んだ人は、3段階の講座で、jQueryを徹底的に深く使いこなせるようになります。</p>\n\n\n\n\n\n\n\n\n\n<p>　まずは「速習jQuery」で、jQueryの概要を学びます。</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>　次に「詳細jQuery」で、APIドキュメントに沿った内容を詳細に学びます。</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>　最後に「実例jQuery」で、jQueryを利用したプログラムを書けるようになります。</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>‥‥‥‥‥‥‥‥‥‥</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>　このコースは、以下のように進みます。</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>● イントロダクション</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>・開発環境の準備を行います</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>● 速習jQuery</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>・基本編（jQueryとは何か？から、セレクタの利用までを紹介）<br>・API編（イベント、要素の操作、横断、要素の作成、要素の追加、エフェクトを紹介）<br>・上級編（Ajax、Deferred、プラグインの利用を紹介）</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>● 詳細jQuery</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p> ・jQuery<br> ・セレクタ（基本、位置、種類と状態）<br> ・横断（兄弟親子、その他）<br> ・イベント（基本、キー＆マウス、汎用操作、eventオブジェクト）<br> ・属性操作<br> ・CSS<br> ・縦横サイズ<br> ・Data<br> ・操作<br> ・エフェクト（シンプル、上級）<br> ・Ajax<br> ・Deferred<br> ・Utilities</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>● 実例jQuery</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p> ・ブックマークレット<br> ・Webページ上のアプリケーション</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>‥‥‥‥‥‥‥‥‥‥</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>　jQueryは、Webページ作成でよく利用されるJavaScriptのAPIです。このシンプルでパワフルなAPIを使いこなせるようになり、Web開発のスキルをアップしましょう！</p>", 
+    "end_date": null, 
+    "title": "速習＋詳細＋実例 jQuery講座", 
+    "price": "35.00", 
+    "instructors": "柳井 政和", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/805720_9ccb_2.jpg", 
+    "course_url": "https://www.udemy.com/jquery-kouza/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-28T00:15:59Z"
+}

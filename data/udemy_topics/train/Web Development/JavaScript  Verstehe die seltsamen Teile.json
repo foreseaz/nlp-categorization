@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Javascript ist die Sprache die moderne Entwickler kennen und beherrschen müssen. Javascript wirklich gut zu können garantiert dir einen Job und wird dir helfen qualitativ hochwertige Web und Server Anwendungen zu schreiben.</p><p><br></p><p><em>HINWEIS: Dieser Kurs beinhaltet Informationen über ECMAScript 6 (ES6), die nächste Version von Javascript!</em></p><p><br></p><p>In diesem Kurs wirst du ein tiefes Verständnis von Javascript erhalten, <strong>lernen wie Javascript unter der Haube funktioniert</strong>, du wirst lernen wie man bekannten Problemen von Javascript aus dem Weg geht und <strong>wie du deine Fähigkeiten im Debuggen drastisch verbesserst</strong>. Du wirst die Teile zu schätzen lernen die andere, teilweiße auch Professionelle Coder, seltsam und manchmal sogar Schleierhaft finden. Du wirst die Schönheit der Sprache kennen lernen.</p><p><br></p><p>Dieser Kurs beinhaltet Fortgeschrittene Themen wie: <strong>Objekte und Object Literals, Function Expressions, Prototypenvererbung, Funktionale Programmierung, Scope Chains, Function Constructors (zusätzlich neue ES6 features), immediatly invoked function expressions (IIFEs), call, apply, bind und vieles mehr.</strong></p><p><br></p><p>Wie schauen uns den Quellcode von bekannten Frameworks wie jQuery und Underscore an um zu lernen wie man anderen Code versteht und sich Teile dessen Borgen kann.</p><p><br></p><p>Zum Schluss wirst du noch lernen wie du deine eigene Javascript Library bauen kannst.</p><p><br></p><p>Was du in diesem Kurs lernen wirst, <strong>wird dich zu einem besseren Javascript Entwickler machen und deine Fähigkeiten in AngularJS, NodeJS, jQuery, React, Ember, MongoDB und vielen weiteren Technologien unterstützen.</strong></p><p><br></p><p>Lerne Javascript zu lieben und wie man damit gut coden kann.</p><p><br></p><p><em>Hinweis: Der gesamte Sourcecode dieses Kurses und jeder Episode steht zum Download bereit.</em><br></p>", 
+    "end_date": null, 
+    "title": "JavaScript: Verstehe die seltsamen Teile", 
+    "price": "30.00", 
+    "instructors": "Jakob Schaal, Anthony Alicea", 
+    "commitment": "11 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/672274_cd11_2.jpg", 
+    "course_url": "https://www.udemy.com/javascript-verstehe-die-seltsamen-teile/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-17T13:02:15Z"
+}

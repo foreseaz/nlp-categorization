@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>LoadRunner is a performance testing automation tool. Very widely used in industry, it support web based application &amp; also support almost all commonly used protocols.<br></p><p>This course is specially designed for Software Testing professionals, This will take students from basic level to advance in decent pace videos.<br></p><p>Here we will cover basic to advance concepts of LoadRunner &amp; performance testing also we have covered many interview question which are asked in interviews<br></p><p>After going through the course you can easily measure performance of any web based application / Service and can crack performance testing related interviews.<br></p><p>This course is designed to teach people in a workshop format how to plan and load test a enterprise web application. The objectives of this course is to make you understand the complete load testing life cycle: Creating scripts to simulate real life workflows, Analyzing results . Working through a series of self paced video tutorials, you will learn to develop a workable strategy for load testing of an enterprise learning management system.</p>", 
+    "end_date": null, 
+    "title": "Complete Performance testing package- LoadRunner & Jmeter", 
+    "price": "20.00", 
+    "instructors": "Nitin Tyagi, Testing World", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/774036_7fdb_2.jpg", 
+    "course_url": "https://www.udemy.com/loadrunner/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-25T15:08:44Z"
+}

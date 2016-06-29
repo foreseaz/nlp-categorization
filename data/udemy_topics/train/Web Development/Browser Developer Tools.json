@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  Learn how you can make use of browser development tools to make web pages better.  </p>  <p style=\"\">  \t  This  course tells you everything that you as a web-developer or web-designer  needs to know when it comes to debugging your JavaScript or  style-sheets using developer tools for browsers  </p>  <p style=\"\">  \tLearn how you can dynamically change HTML and apply style-sheets to your web-pages and then save the same back to your source files all directly from the browser.  </p>  <p style=\"\">  \tYou will also learn how you can read minified scripts<br style=\"\">  </p>  <p style=\"\">  \t  This course also covers various other important topics like managing memory, optimizing page load time of web pages.  </p>  <p style=\"\">  \tAll lectures are recorded in HD quality video which ensures that you will not miss a thing.  </p>  <p style=\"\">  \tSo lets start learning now..  </p>", 
+    "end_date": null, 
+    "title": "Browser Developer Tools", 
+    "price": "20.00", 
+    "instructors": "SkillBakery Studio", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/404114_6cc6_2.jpg", 
+    "course_url": "https://www.udemy.com/browser-developer-tools/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-26T05:49:08Z"
+}

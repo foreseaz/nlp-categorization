@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t  This course is a quick introduction to SharePoint Online (SharePoint 2013). I spend about an hour walking through some of the most common features that you would use in a team site.  </p>  <p style=\"\">  \t  In the course, I create a team site for a fictitious branch under HR, the recruiting team. First we create two custom lists: Job Positions and Job Candidates. Next, we create a document library and show how we can use SharePoint to enable collaboration on status reports. Then we create a document library for policy documents, a library that requires approval before documents can be seen by everyone. After that we create a task list to assign work to teammates, and a shared calendar to keep track of the interview schedule. Finally, I cover permissions/sharing in SharePoint.  </p>  <p style=\"\">  \t  In most of the sections, I show how sometimes interfacing with SharePoint is best done from another Microsoft Office application--you don&#039;t have to be in a web browser on the SharePoint home page to take advantage of the collaboration features.  </p>  <p style=\"\">  \t  Why take this course? Because you want to learn better and more modern ways to collaborate in the office. If you&#039;re sending around email attachments at work to get things done, then you might want to take a look.  </p>", 
+    "end_date": null, 
+    "title": "Microsoft SharePoint Online Team Site Tutorial", 
+    "price": "20.00", 
+    "instructors": "Timmy Douglas", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/370456_6819.jpg", 
+    "course_url": "https://www.udemy.com/sharepoint-online-intro/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-15T04:03:17Z"
+}

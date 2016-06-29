@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Environmental Science"
+    ], 
+    "description": "\n\n                    \n                    \n                    We are always using experiments to improve our lives, our community, and our work. Are you doing it efficiently? Or are you (incorrectly) changing one thing at a time and hoping for the best? \n\nIn this course, you will learn how to plan efficient experiments - testing with many variables. Our goal is to find the best results using only a few experiments. A key part of the course is how to optimize a system.\n\nWe use simple tools: starting with fast hand calculations, then we show how to use FREE software. \n\nThe course comes with slides, transcripts of all lectures, subtitles (English &amp; Spanish; some Chinese and French), videos, audio files, source code, and a free textbook. You get to keep all of it, all freely downloadable.\n\nThis course is for anyone working in a company, or wanting to make changes to their life, their community, their neighbourhood. You don't need to be a statistician or scientist! There's something for everyone in here.\n⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯\nWhat have prior students said about this course?\n\n\"This definitely is one of the most fruitful courses I have participated at Coursera, considering the takeaways and implementations! And so far I finished 12 [courses].\"\n\n\"Excelente curso, flexible y con suficiente material didáctico fácilmente digerible y cómodo. No importa si se tiene pocas bases matemáticas o estadísticas, el curso proporciona casi toda explicación necesaria para un entendimiento alto.\"\n\n\"... definitely one of the best in terms of immediately applicable content, presentation and delivery of the course content and materials ...\" \n\n\"Interesting and developing both analytical and creative thinking. The lecturer took care to bring lots of real live examples which are fun to analyze.\" 20 February 2016.\n\n\"... love your style of presentation, and the examples you took from everyday life to explain things. It is very difficult to make such a mathematical course accessible and comprehensible to this wide a variety of people!\"\n⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯\n\n                                            Syllabus\n                        IntroductionWe perform experiments all the time, so let's learn some terminology that we will use throughout the course. We show plenty of examples, and see how to analyze an experiment. We end by pointing out: \"how not to run an experiment\".Analysis of experiments by handThe focus is on manual calculations. Why? Because you have to understand the most basic building blocks of efficient experiments. We look at systems with 2 and 3 variables (factors). Don't worry; the computer will do the work in the next module.Using computer software to analyze experimentsNow we use free software to do the work for us. You can even run the software through a website (without installing anything special). We look at systems with 2, 3 and 4 factors. Most importantly we focus on the software interpretation.Getting more information, with fewer experimentsThis is where the course gets tough and rough, but real. The quiz at the end if a tough one, so take it several times to be sure you have mastered the material - that's all that matters - understanding. We want to do as few experiments as possible, while still learning the most we can. We show how to do **practical** experiments that practitioners use everyday. We learn about important safeguards to ensure that we are not mislead by Mother Nature.Response surface methods (RSM) to optimize any systemThis is the goal we've been working towards: how to optimize any system. We start gently. We optimize a system with 1 factor and we also show why optimizing one factor at a time is misleading. We spend several videos to show how to optimize a system with 2 variables.Wrap-up and future directionsWe close up the course and point out the next steps you might follow to extend what you have learned here.\n                                    ", 
+    "end_date": "2016-07-18T00:00:00Z", 
+    "title": "Experimentation for Improvement", 
+    "price": 0, 
+    "instructors": "Kevin Dunn", 
+    "institution_name": [
+        "McMaster University"
+    ], 
+    "commitment": "3-4 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://www.coursera.org/learn/experimentation", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-06T00:00:00Z"
+}

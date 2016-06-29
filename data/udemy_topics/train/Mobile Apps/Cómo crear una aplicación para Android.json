@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Aprende los fundamentos para desarrollar aplicaciones Android con este curso introductorio para principiantes. Aquí aprenderás cosas como:</p>  <ul><li>Instalar el Android Studio</li><li>Instalar nuestro emulador</li><li>Crear vistas en el layout editor de Android Studio.</li><li>Darle funcionalidad a tus vistas a través de código java</li><li>Personalizar tu aplicación para que se diferencie de las demás.</li></ul>          <p><strong>El poder de Android en la palma de tu mano.</strong></p>  <p>Android es el sistema operativo más popular del mundo. Google estima que hay un total de <strong>1.4 billones de usuarios activos</strong> de Android alrededor del mundo y este número sigue aumentando. Por lo tanto aprender a desarrollar aplicaciones para Android abre las puertas a un sinfín de posibilidades. </p>  <p>Además al ser un sistema operativo tan popular los trabajos para desarrolladores Android abundan en casi cualquier parte del mundo, tanto remotos como presenciales.</p>    <p><strong>Contenido y resumen</strong></p>  <p>Enfocado a principiantes, este curso de aproximadamente hora y media de longitud te proporcionara los conocimientos básicos para crear y personalizar vistas, darles funcionalidad por medio de código, ponerle un icono a tu aplicación y más.</p>  <p>En la primera parte del curso instalamos todo lo que necesitaremos para desarrollar. Incluyendo el Java Development Kit, Android Studio y nuestro emulador.</p>  <p>En la segunda parte los guiare en la creación de la pantalla de nuestra aplicación donde agregaremos un botón y nuestras text views y las personalizaremos para que tengan un aspecto agradable.</p>  <p>Después le daremos funcionalidad a nuestra aplicación ligando nuestros botones y text views a código java y veremos dos formas de hacer que nuestro botón reacción a los toques del usuario. Además veremos lo que son y cómo generar números pseudo aleatorios en java para generar citas famosas al azar. </p>  <p>Entonces procederemos a mejorar nuestro código para que sea más fácil de entender y reutilizar. Esto lo haremos separando las responsabilidades en varias clases diferentes.</p>  <p>Por último le daremos los toques finales a nuestra aplicación, donde le pondremos su icono y arreglaremos problemas en el layout.</p>    <p>¿Qué obtendré de este curso?</p>  <ul><li><strong>Cerca de dos horas de contenido.</strong></li><li><strong>La programación de una aplicación de Android completamente desde 0.</strong></li><li><strong>Asesoramiento constante, donde el instructor estará al pendiente de las dudas y/o comentarios que son comunes al aprender una nueva plataforma.</strong></li><li><strong>Aprendizaje activo por medio de quizzes y retos extra.</strong></li></ul>          <p>¿Qué necesitare para tomar este curso?</p>  <ul><li>Conocimientos básicos de programación.</li><li>Una computadora capaz de correr Android Studio.</li></ul>", 
+    "end_date": null, 
+    "title": "Cómo crear una aplicación para Android", 
+    "price": 0, 
+    "instructors": "Aldo Olivares, Juan Villalvazo", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/714904_89c0_2.jpg", 
+    "course_url": "https://www.udemy.com/como-crear-una-aplicacion-para-android/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-03T22:40:20Z"
+}

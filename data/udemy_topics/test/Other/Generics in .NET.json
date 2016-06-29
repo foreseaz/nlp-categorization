@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this Generics in .NET training course, expert author Joe Wirtley will teach you how to use generics in .NET to eliminate code duplication and enforce static typing. This course is designed for users that already have a basic working knowledge of C#. </p>\n\n<p>You will start by learning the generic basics, including generic methods, classes, and interfaces. From there, Joe will teach you about generics in the framework, generics and arrays, and delegate types. This video tutorial will also cover constraints and real world examples, such as XML serialization and modal dialog initialization. Finally, you will learn about some other topics including generics and enumerations, generic terminology, and covariance. </p>\n\n\n\n<p>Once you have completed this computer based training course, you will have learned the necessary concepts required for using generics in .NET. </p>", 
+    "end_date": null, 
+    "title": "Generics in .NET", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/851138_41c3_2.jpg", 
+    "course_url": "https://www.udemy.com/generics-in-net/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-16T19:50:48Z"
+}

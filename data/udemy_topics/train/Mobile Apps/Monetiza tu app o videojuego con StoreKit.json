@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Ya sabes crear apps. Nuestros curso de de Desarrollo de Apps para iOS con Swift y con Objective-C te enseñaros a crear apps fantásticas y videojuegos espectaculares para iPhone e iPad en Swift, el nuevo lenguaje de programación de Apple utilizado para desarrollar para iOS. Es hora de aprender a monetizar y a hacer dinero con tus apps y videojuegos utilizando StoreKit, el framework básico para In App Purchases de Apple. Con este curso aprenderás todo lo necesario para crear tus compras integradas y reutilizarlos en todas tus apps y proyectos.</p><p>Al finalizar el curso, serás capaz de reproducir y entender la gran mayoría de funcionalidades para monetizar las apps más populares de iOS y profundizar en ellas para hacer tus propios modelos de negocio según las necesidades de tus proyectos. </p><p>Sin duda, la práctica a través de la construcción es una muy buena forma de aprender, por eso durante el curso, los estudiantes realizarán desde cero las clases IAPHelper, y RageProducts cubriendo todos los aspectos esenciales del desarrollo de la monetización para apps y juegos de iOS. Cada app que realices podrá incorporar estos conocimientos  y dispondrás del <strong>código fuente </strong>del instructor para acceder a él, contrastarlo con el tuyo y mejorarlo.</p><p><strong>Qué vas a aprender en este curso</strong></p><ul><li><strong>Swift 2</strong>: Aprende el lenguaje nativo de desarrollo de apps para iOS y Mac.</li><li><strong>Xcode</strong>: Aprende a manejarte por su interfaz y todos los trucos necesarios para maximizar tu tiempo.</li><li><strong>Cocoa y UIKit:</strong> Conoce a fondo los frameworks básicos de desarrollo de apps, tanto a nivel lógico, funcional como a nivel visual.</li><li><strong>iOS9 y XCode 7</strong>: Utiliza la última tecnología disponible de la mano de Apple.</li><li><strong>Diseño de interfaces</strong>: todos los elementos de la vista necesarios para configurar tu app: UIButton, UILabel, UITextField, UIPickerView, UISlider, UIViewController...</li><li><strong>Uso de StoreKit, el framework de Apple para las compras integradas e In App Purchases</strong>. Conoce a fondo todos los modelos de negocio existentes en las apps y aprende a aplicarlos positivamente. Cubriremos aspectos tan importantes como la restauración de compras, o la anulación de transacciones en curso.</li><li><strong>30 días con 100% garantía de devolución</strong>: si no quedas satisfecho, tienes 30 días para reclamar la devolución de tu pago sin ningún problema.</li></ul><p><strong>Las opiniones de los estudiantes de los cursos de Juan Gabriel Gomila hablan por si solas - 5 estrellas de valoración</strong><br></p><ul><li><em><strong>Raziel Tovar - Excelente curso! </strong></em>Me parece que Juan sabe como explicar de forma muy sencilla lo que antes me parecía muy complejo. Lo recomiendo bastante!</li><li><em><strong>María del Mar Cardona - Lo que yo buscaba! </strong></em>Un curso fabuloso, especialmente para mí que aunque sé algo de java me hacía mucha ilusión adentrarme en la programación para iOS que sin duda es muy atractiva! Lo recomiendo al 100% a toda la gente que quiera aprender a hacer apps.</li><li><strong><em><strong>Miguel Ángel Ferri - E</strong>xcelente curso para empezar a desarrollar tu app desde cero </em></strong>Tengo muchos años de experiencia en el desarrollo de juegos y aplicaciones web y escritorio, elegí este curso para introducirme en el desarrollo de aplicaciones para IOS y me ha parecido muy bien explicado, con un lenguaje fácil y comprensible para cualquier persona. En definitiva 100% recomendable para toda aquella persona, con o sin experiencia, que quiera empezar a desarrollar para IOS.</li></ul><p><strong>Apúntate ahora </strong>y únete a más de 2.000 alumnos en este Curso de Desarrollo de Apps con modelos de monetización.</p>", 
+    "end_date": null, 
+    "title": "Monetiza tu app o videojuego con StoreKit", 
+    "price": "30.00", 
+    "instructors": "D. Juan Gabriel Gomila Salas", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/785404_8ac2_2.jpg", 
+    "course_url": "https://www.udemy.com/monetiza-tu-app-o-videojuego-con-storekit/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-07T21:06:04Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn how to build a robust API for your projects using the actively developed and frequently contributed to API framework, Apigility. This course is designed to jumpstart your API development and clear up many of the potentially confusing parts on how to get started using Apigility.</p>\n\n<p>At the end of this course you will have a working API that provides user registration, forgotten password resets, and email notifications. You will gain some working experience with Doctrine ORM and oauth2. Finally, you'll be confident that your API's backing logic will reliably perform how you expect it to because your domain models will be unit tested.</p>", 
+    "end_date": null, 
+    "title": "Learn real world API design in PHP using Apigility", 
+    "price": "30.00", 
+    "instructors": "Jack Peterson", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/500248_10ac_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-real-world-api-design-in-php-using-apigility/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-12T18:07:54Z"
+}

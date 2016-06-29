@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Durante este curso vamos a aprender los conceptos y componentes que os permitirán trabajar con un entorno de BigData y Hadoop y montar un cluster con esta tecnología</p><p><strong>¡¡¡Puedes descargar una máquina virtual ya preparada para empezar a montar Hadoop¡¡¡</strong></p><p>- Aprenderás los conceptos básicos de esta tecnología<br></p>\n\n\n\n\n\n<p>- Verás como descargar e instalar Hadoop  manualmente </p>\n\n<p>- También aprenderás a instalar y configurar Hadoop con ambari</p>\n\n\n\n\n\n<p>- Trabajarás con HDFS para entender la gestión de ficheros en Hadoop</p>\n\n\n\n\n\n<p>- Instalarás y configuraras Map Reduce y YARN</p>\n\n\n\n\n\n<p>En resumen, este curso te capacitará para poder empezar a desarrollar esta infraestructura en tu entorno laboral.<br></p>\n\n\n\n\n\n<p>El curso será sobre todo práctico, de forma que aprendas de forma amena, divertida y también productiva</p>\n\n\n\n\n\n<p>Espero lo disfrutes¡¡¡¡¡</p>\n\n\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Monta un cluster Hadoop Big Data desde cero", 
+    "price": "30.00", 
+    "instructors": "Apasoft Formación", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/713160_cca2_2.jpg", 
+    "course_url": "https://www.udemy.com/monta-un-cluster-hadoop-big-data-desde-cero/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-02T10:41:27Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>【PHP7, Laravel 5.2.31対応】</strong></p><p>この講座は</p><ul><li>PHPの最新バージョン（PHP7）の基本知識を学べます。</li><li>具体的なWebアプリケーションを作るチュートリアルでフレームワーク開発の概念をマスターできます。</li><li>HTML5やスタイルシート、JavaScript、Bootstrapなども同時に学べます。</li></ul>\n\n<p><br></p><p>レクチャーでは、プログラミング初学者がつまづきやすい環境構築をWindows, Mac (OS X）のそれぞれについて、操作録画をまじえて、ステップ・バイ・ステップで解説しますので、確実に学習を進められます。また、Linux環境でも学習を進められます。</p>\n\n<p>集中的に学習すると、土日で１つのアプリケーション開発を体験できますので、</p>\n\n<ul><li>短期間にPHP7の基礎を学びたい方</li><li>Webアプリケーション開発を体験してみたい方</li><li>書籍やオンラインでの学習で環境構築がうまくいかなくて困っている方</li></ul>\n\n<p>などに最適です。</p>\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "【プログラミング初心者でもOK】 PHP 7 入門講座", 
+    "price": "45.00", 
+    "instructors": "井上 博樹 (Hiroki Inoue)", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/730916_0c2a_2.jpg", 
+    "course_url": "https://www.udemy.com/php7study/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-17T09:08:29Z"
+}

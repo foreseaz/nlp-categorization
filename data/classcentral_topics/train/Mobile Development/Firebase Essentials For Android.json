@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    In this course, you’ll learn how to use Firebase. Firebase is a cloud backend, and one of the leading choices for Backend as a Service. It enables you to quickly get synchronized data up and running for multi-user apps. This is important because nearly every mobile app these days requires authentication and real-time data updates.  \n\nWe’ll begin by showing you how easy it is to read and write almost any data to Firebase. After that, we’ll teach you how to allow users to login and have data associated with them. We’ll then cover how to write queries and filters for your data. You’ll discover how to take advantage of Firebase's offline capabilities, and master efficient database design for lightning-fast data retrieval. Lastly, you’ll learn how to use Firebase’s Security and Rules language to secure and add permissions to your data. \n\nBy the end of this course you will have an Android application that can store and share data between different users in real time as well as authenticate and authorize those users.Why Take This Course?If you are an Android developer and your app needs any of the following features:\n\n- Online data storage\n- Real-time synchronization between many users\n- Authentication for Email/Password as well as OAuth providers\n- Data permissions and security\n- Offline access to data\n\nThis is the course for you!\n\nFirebase is a gentle but very powerful introduction to storing and managing data. With just a few lines of code, you can read and write almost any data you could dream up from your own custom Firebase backend. \n\nFurthermore, Firebase has a generous free plan that lets you start making hosted apps with multiple users immediately.\n\n                                            Syllabus\n                        ### Lesson 1\nIn this lesson you'll set up Firebase and read and write your first data. \n\n**Topics include:**\n\n* Course Description and Prerequisites\n* Getting Setup With Firebase\n* Writing your first Firebase Data\n* How Data Works in Firebase\n* Reading your first Firebase Data\n* Plain Old Java Objects in Firebase\n* When to Choose Firebase as part of your stack\n\n### Lesson 2\nIn this lesson you'll learn all the ins and outs of reading and writing data, including displaying lists of data that are synced with your Firebase database. \n\n**Topics include:**\n\n* Writing\n* Reading\n* Debugging\n* Lists in Firebase and FirebaseUI\n* Best Practices for Reading and Writing Data\n\n###Lesson 3\nIn this lesson you'll how to create user accounts using both the an email and password login flow, as well as Google login. You’ll then use this user data to display different information to the user depending on who they are signed in as. \n\n**Topics include:**\n\n* Creating and Logging in Users via Email and Password\n* Logging in Users with Google\n* Logging out Users\n* How to Store App Specific User Data\n* How to Use User Data \n* Basic Login Security and Resetting User Passwords\n\n###Lesson 4 (COMING SOON)\nIn this lesson you'll learn how to structure your database schema for lightning fast queries and sorting. You’ll use your new data structure to implement sharing functionality. You’ll also learn about Firebase’s filtering and sorting capabilities by adding sorting and basic autocomplete to ShoppingList++. \n\n**Topics include:**\n \n* Sorting in Firebase with orderBy\n* How and why to de-normalize data\n* Dealing with Many to Many relationships in Firebase\n* Using IndexOn and OrderByValue for faster searches\n* Range, Start At, End At and Limit queries\n* Basic Searching in Firebase\n\n### Lesson 5 (COMING SOON)\nIn this lesson you'll learn about how Firebase deals with offline access and how to secure your data using Firebase’s built in security and permission rules. \n\n**Topics include:**\n \n* Firebase Offline Access\n* Security Rules\n* Expression in Security Rules\n* Authentication Checking in Security Rules\n* Data Validation in Firebase\n                                    ", 
+    "end_date": "2016-01-26T00:00:00Z", 
+    "title": "Firebase Essentials For Android", 
+    "price": 0, 
+    "instructors": "Lyla Fujiwara and JP Souchak", 
+    "institution_name": [
+        "Google"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.udacity.com/course/firebase-essentials-for-android--ud009?utm_medium=referral&utm_campaign=api", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2015-12-01T00:00:00Z"
+}

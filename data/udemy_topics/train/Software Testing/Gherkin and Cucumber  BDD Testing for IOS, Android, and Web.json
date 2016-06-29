@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is designed to get you up to speed as quickly as possible using gherkin and cucumber for behavior driven development (BDD). This course starts at the ground level and build your proficiency in using command-line tools to automate your iOS, android, and website testing. All of the materials needed are free and open source.  you should come into this course with one of the following:</p><ol style=\"\"><li style=\"\">Windows XP or Above</li><li style=\"\">OSX 10.7 and Above</li><li style=\"\">Linux (Debian or Ubuntu)</li></ol><p>This course is starting at a beginners level with no experience needed. Other courses will be more advance and require previous lessons to fully comprehend and combine together.</p>", 
+    "end_date": null, 
+    "title": "Gherkin and Cucumber: BDD Testing for IOS, Android, and Web", 
+    "price": "20.00", 
+    "instructors": "Shannon Atkinson", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/491200_622a_8.jpg", 
+    "course_url": "https://www.udemy.com/gherkin-and-cucumber-bdd-testing-for-apps-and-websites/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-01T14:34:41Z"
+}

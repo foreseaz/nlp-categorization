@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">This course provides SharePoint Developers / SharePoint administrators, with a thorough, in-depth guide to Configure SharePoint 2013 platform for Developing and Deploying Apps.</p><p style=\"\">In this course by development expert Kameswara Sarma Uppuluri, you&#039;ll learn essential concepts that you need to know to get started Configuring SharePoint 2013 In-Premises server for Developing and Deploying SharePoint Apps.</p><p style=\"\">This course provides step-by-step walk-throughs and demos that you&#039;re encouraged to configure along with to enhance the learning process.</p><p style=\"\">By the end of this course, you will get to know how to :</p><p style=\"\">1)Configure DNS manager for SharePoint Apps</p><p style=\"\">2)Create App-Domains </p><p style=\"\">3)Configure various essential SharePoint 2013 Management Services</p><p style=\"\">4)Grant adequate permissions to active directory users.</p>", 
+    "end_date": null, 
+    "title": "Configuring SharePoint 2013 Server for Apps Development", 
+    "price": "20.00", 
+    "instructors": "Kameswara Uppuluri", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/544282_222b_2.jpg", 
+    "course_url": "https://www.udemy.com/configuringsharepoint2013server/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-03T18:14:52Z"
+}

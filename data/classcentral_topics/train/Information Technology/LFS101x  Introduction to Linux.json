@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Information Technology"
+    ], 
+    "description": "\n\n                    \n                    \n                    Develop a good working knowledge of Linux using both the graphical interface and command line, covering the major Linux distribution families.\n\nLinux powers 94% of the world’s supercomputers, most of the servers powering the Internet, the majority of financial trades worldwide and a billion Android devices. In short, Linux is everywhere. It appears in many different architectures, from mainframes to server to desktop to mobile and on a staggeringly wide variety of hardware.\n\nMoreover, 97 percent of hiring managers reported that they will prioritize hiring Linux talent relative to other skills areas in the next six months, and 44 percent of hiring managers saying they’re more likely to hire a candidate with Linux certification.\n\nThis course explores the various tools and techniques commonly used by Linux system administrators and end users to achieve their day-to-day work in a Linux environment. It is designed for experienced computer users who have limited or no previous exposure to Linux, whether they are working in an individual or Enterprise environment.\n\nUpon completion of this training you should have a good working knowledge of Linux, from both a graphical and command line perspective, allowing you to easily navigate through any of the major Linux distributions. You will be able to continue your progress as either a user, system administrator or developer using the acquired skill set.\n\nJoin the 250,000+ students who are already enrolled in this course and start your Linux journey.\n\n                                    ", 
+    "end_date": "2016-08-05T00:00:00Z", 
+    "title": "LFS101x: Introduction to Linux", 
+    "price": 0, 
+    "instructors": "Jerry Cooperstein PhD", 
+    "institution_name": [
+        "Linux Foundation"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0", 
+    "duration": "105 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2014-08-01T00:00:00Z"
+}

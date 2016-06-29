@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>You have probably already heard about Kendo UI and the extensive range of widgets it comes with; but there&#039;s more to Kendo UI than just widgets. Kendo UI has a full featured framework, and when you put it all together, you can run your application using Kendo UI MVVM, Kendo UI widgets, and the Telerik backend for your data storage.</p><p>With Mastering Kendo UI, you will be taken on a journey through building a fully functioning blog application with Kendo UI.</p><p>You start off by installing a toolbox full of awesome functionality including Kendo UI, Bootstrap, and Telerik&#039;s backend services. Next, you will build a Content Editor by using the MVVM (Model-View-View-Model) architecture to control the widgets. You will then move on to creating a Blog Editor along with a Post Editor and then create and validate a form. You will also see how to troubleshoot some common issues that developers face every day. The video series doesn&#039;t stop here, but you will also learn how to do more with cleaner and more concise code using the Kendo UI library, jQuery, and Telerik&#039;s Everlive. Once you are done with the application, you will jump into some more advanced topics and look into Layouts, Views, and Routing.</p><p>At the end of these 120 minutes, you will have a strong foothold on the important aspects of Kendo UI and will be able to build your own apps with confidence.</p><p><strong style=\"\">About the Author</strong></p><p><strong style=\"\">Chuck Catron</strong> is a software developer who got started way back when Visual Basic 5 was cool. Before becoming a programmer, Chuck was in the Navy for 6 years as a Fire Control Technician working on a missile system. Chuck has been learning JavaScript, JQuery, and Kendo UI for the last 4 years. Chuck started his web development career in 2003 and has always strived to be learning and closer to the edge than the corner. Chuck is a husband, dad, step-dad, and dog dude.</p>", 
+    "end_date": null, 
+    "title": "Mastering Kendo UI", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/524982_858d_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-kendo-ui/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-10T09:40:08Z"
+}

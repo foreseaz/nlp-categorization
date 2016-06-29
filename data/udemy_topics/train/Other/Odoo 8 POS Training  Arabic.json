@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\"><em style=\"\">What is the course about?</em></strong></p><p style=\"\">This Course explains Odoo (formerly Openerp) Functional concepts.</p><p style=\"\">Odoo is a modern ERP system released under AGPL license, and it offers HR, CRM, Project Management, Sales, Purchases, Inventory Management, Accounting, .....</p><p style=\"\">This Course explains Odoo (formerly Openerp) Functional concepts, and let you understand the concept of many work areas and how you can apply these concept using Odoo (Ex: CRM, Sales, Accounting, Marketing, HR...etc).</p><p style=\"\"><em style=\"\"><strong style=\"\">Who should be the audience target?why?</strong></em></p><p style=\"\">This course are designed to start with the high level concept and ending with detailed levels, by other words it covers Odoo warehouse functionality from A-Z by more than 90%, So it target who wants to be Odoo administrators, ERP Functional Consultant, and who wants to apply Odoo for his own business, So it covers all Levels:-</p><ul style=\"\"><li style=\"\">High Level.</li><li style=\"\">Intermediate Level.</li><li style=\"\">Advanced Level.</li></ul><p style=\"\"><em style=\"\"><strong style=\"\">What kind of materials are included?</strong></em></p><p style=\"\">The course is presenting as videos which will learn you step-by-step how you can apply and implement Odoo.</p><p style=\"\"><em style=\"\"><strong style=\"\">How is the course structured?</strong></em></p><p style=\"\">The course structure depends on functional area</p>", 
+    "end_date": null, 
+    "title": "Odoo 8 POS Training \"Arabic\"", 
+    "price": "40.00", 
+    "instructors": "Ahmed Elsaka", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/454102_3399_3.jpg", 
+    "course_url": "https://www.udemy.com/odoo-pos/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-22T19:45:27Z"
+}

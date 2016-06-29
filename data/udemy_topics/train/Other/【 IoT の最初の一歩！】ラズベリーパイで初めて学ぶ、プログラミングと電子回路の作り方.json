@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>手のひらサイズのコンピュータ、ラズベリーパイが世界で注目を集めています。ここ数年の間に飛躍的に性能が向上し、安価で手に入れられるコンピュータが登場したことにより、プログラミングによるハードウェアの制御を学習する目的はもちろん、実際にロボットにラズベリーパイを搭載することでスマートフォンから制御するなどの目的に使えるようになったためです。IoT（もののインターネット）と呼ばれるこれらの技術は今後ますます注目を集めていくことでしょう。この講座ではのような時代に生きるお子様の興味を育てるために、簡単なプログラムを使ってラズベリーパイを制御する電子工作に取り組みます。また、そのためには、部品の購入やOSのインストール、日本語環境など保護者の方の準備・協力が必要ですが、その方法も映像で詳しく解説しています。この講座を見れば、機械やコンピュータに詳しくない保護者の方でも、親子で電子工作に取り組むことができるようになります。</p><p>キーワード：IoT，Raspberry Pi，ラズパイ，スクラッチ，ハードウェア</p>", 
+    "end_date": null, 
+    "title": "【 IoT の最初の一歩！】ラズベリーパイで初めて学ぶ、プログラミングと電子回路の作り方", 
+    "price": "20.00", 
+    "instructors": "Double Bind, Benesse Corporation", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/580678_4e55.jpg", 
+    "course_url": "https://www.udemy.com/iot_rasp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-12T00:17:13Z"
+}

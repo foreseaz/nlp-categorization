@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Have you ever wonder how to create a Chrome extension that can override your new tab behaviour like loading a random image like <strong>Shutterstock Tab</strong> extension?</p><p>Great! You've landed to the right course. Inside this course, I'll show and guide you how to create a new tab override Chrome extension that will load a random image every time you open a new tab in your Chrome browser.</p><p>We're also going to fetch a quote from a quote API server and put it at the middle of the new tab image.</p><p>You <strong>don't need</strong> to know advanced programming languages like <strong>PHP, Ruby or Java</strong> to built that. If you already know <strong>HTML, CSS, JS</strong> and some jQuery, it's more than enough for you.</p><p>If you don't know jQuery, that's okay. We just small amount of jQuery inside this course and I'm going to explain what I'm actually doing inside the code.<br></p><p>See you inside the course!</p>", 
+    "end_date": null, 
+    "title": "Create A New Tab Override Chrome Extension", 
+    "price": "20.00", 
+    "instructors": "Zulhilmi Zainudin", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/713184_6e05_3.jpg", 
+    "course_url": "https://www.udemy.com/create-a-new-tab-override-chrome-extension/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-02T11:14:14Z"
+}

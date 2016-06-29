@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "This course explains the essentials of TIBCO ActiveMatrix BPM applications, automated business processes which are developed to allow companies to manage their procedures and the workforce that executes them.     You&#039;ll learn about ActiveMatrix BPM application development, deployment and execution and you&#039;ll be provided an opportunity to develop a complete business process using Business Studio development environment.     The course is divided into 4 sections.  After the general introduction in this section, their is an explanation of the exercises and a demonstration on how to download and install TIBCO Business Studio. SECTION 2 explains ActiveMatrix BPM application development. SECTION 3 focuses upon ActiveMatrix BPM application deployment and execution. SECTION 4 provides additional topics relevant the the overall subject.     The entire course contains approximately 90 minutes of video. Throughout it you&#039;ll be directed to use TIBCO Business Studio to perform application development steps presented in selected video demonstrations. Be sure to explore the supplementary material references and files found within several lectures throughout the course.", 
+    "end_date": null, 
+    "title": "TIBCO ActiveMatrix BPM Essentials", 
+    "price": "20.00", 
+    "instructors": "Instructor TIBCO Education", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/57346_0fb0_11.jpg", 
+    "course_url": "https://www.udemy.com/tibco-activematrix-bpm-essentials/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-05-30T18:48:00Z"
+}

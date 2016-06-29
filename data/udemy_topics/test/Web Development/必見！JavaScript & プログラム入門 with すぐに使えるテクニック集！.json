@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>この「必見！JavaScript &amp; プログラム入門 with すぐに使えるテクニック集！」はJavaScriptの入門用の講座です。</p><p>JavaScriptとはプログラミング言語の一種であり、Webブラウザ上で実行できます。実は普段からインターネットを見ているときにも、裏側ではJavaScriptが黙々と動いている場合が多々あり、身近な言語だと言えます。JavaScriptは機能的に他のプログラム言語に劣ることのない充実した言語ですので、JavaScriptを身につけておけば他のプログラム言語を学ぶ際にも、大いに役立つことが期待され、プログラムの入門講座としても最適です。</p>\n\n<p>この講座を通して、JavaScriptで何ができるのか、プログラムとは何か、そして学んだ次の日からすぐに使える以下のテクニックなどが学べます。</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>・idを付与してgetElementByIdにて取得→あらゆる場面で登場する汎用性の高いスキル<br>・文字の大きさや色を変えたり、背景色を変える→入力フォームなどでユーザーの注意を促すのによく使われているテクニック<br>・セレクトボックスで要素を選択したらJavaScriptを起動→検索条件の選択画面などを作るときに便利<br>・複数の要素を一度に取得し、全件を操作する→大きめのプログラムを書くには不可欠なアイテム</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>これらは、特に実用度が高いテクニックでもあり、プログラマーを目指す方やWebシステム業界で仕事をする方には必須アイテムなので、必ずマスター出来るようにコースを構成しています。</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>各レクチャーの時間は平均すると４、５分で、長くても８分以内に収まっており、テンポよく受講できます。</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>またダウンロード可能な教材でサンプルを参考にしながら、実際のコードも書きながら学びます。サンプルがあることで、つまづくことなく確実にスキルが身に付きます。</p>", 
+    "end_date": null, 
+    "title": "必見！JavaScript & プログラム入門 with すぐに使えるテクニック集！", 
+    "price": "40.00", 
+    "instructors": "Blacksmith DoubleCircle", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/805366_8b9f_2.jpg", 
+    "course_url": "https://www.udemy.com/javascript-nyumon/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-27T14:07:22Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Ready for more SQL practice?</p>\n\n<p>\"20 Queries - SUBQUERIES\" is the next step in your journey to master SQL.</p>\n\n<p>Our first two courses, \"HANDS-ON SQL\" and \"10 Queries\" covered basic SQL statements, with a brief introduction into advanced topics like joins and subqueries. Then we worked on getting you comfortable with complex joins in our \"20 Queries - JOINS\" course.</p>\n\n<p>Now it's time to do the same with subqueries!</p>\n\n<p>Like in \"20 Queries - JOINS\", this course is a set of 20 practice challenges, ranging from very simple to advanced-level subqueries. You'll learn how to use subqueries in the SELECT clause, to use them to create derived tables, to use them with aggregates, and much more!</p>\n\n<p>There are two parts to this course - the videos, and the actual hands-on practice. The Udemy course only gets you access to the video overview of each query challenge - to actually try your hand at the query challenges, you need to sign up on our website (this is free, we show you how to do it in the first lecture). Once you finish a challenge (or if you get stuck), check back on the Udemy videos to see how we did it.</p>\n\n<p>This is an intermediate level course for people who already have a basic understanding of how SQL works. Now don't let that scare you away if you are a gung-ho beginner - just know that if that is you, you are going to have to learn quick and be willing to search terms if you don't recognize them.</p>", 
+    "end_date": null, 
+    "title": "20 Queries - SUBQUERIES", 
+    "price": "20.00", 
+    "instructors": "Taylor Chiu", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/771996_2fda_2.jpg", 
+    "course_url": "https://www.udemy.com/20-queries-subqueries/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-23T18:28:34Z"
+}

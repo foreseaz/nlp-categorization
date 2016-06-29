@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  En este curso vamos a ver cómo mejorar aspectos de nuestras páginas web mediante varios ejemplos prácticos.  </p>  <ul style=\"\">  \t<li>Veremos como introducir en una página web datos procedentes de un documento XML, mediante la herramienta de Dreamweaver &quot;Conjunto de datos de Spry&quot;. </li>  \t<li>Aprendemos a diseñar los elementos de un formulario mediante CSS y cómo maquetarlo sin usar tablas, solo mediante órdenes CSS. </li>  \t<li>También vamos a ver cómo utilizar cualquier tipo de fuente en nuestra web mediante la regla CSS3 @fontface. </li>  \t<li>Otra opción que vamos a explorar es como subir un video a los servidores de Youtube e incrustar en nuestras páginas web el código necesario para visualizar el video, así cómo también hacer que aparezcan nuestras redes sociales Facebook y Twitter dentro de nuestras páginas web. </li>  \t<li>Otra opción que vamos a ver es cómo incorporar dentro de un documento HTML información desde otro documento HTML, mediante iframes y mediante Server Side Includes (shtml). </li>  \t<li>También veremos cómo instalar XAMPP, que nos va a instalar todo lo necesario para montar un servidor Apache con PHP y una base de datos mySql, y cómo configurar Adobe Dreamweaver para poder utilizarlo. </li>  \t<li>También configuraremos Dreamweaver para trabajar con páginas dinámicas en PHP, gestionar bases de datos mySql, establecer la conexión, y mostrar, insertar, actualizar o eliminar los datos. Otros elementos que aprenderemos a insertar en nuestras páginas web son audio HTML5 (ogg y mp3) y vídeo HTML5 (ogv, mp4 y webm). </li>  \t<li>También aprenderemos a realizar el diseño y la funcionalidad de un menú con CSS y como realizar menús desplegables con CSS, o cómo hacer una plantilla en Dreamweaver y a partir de ella ir generando el conjunto de páginas web de un sitio. </li>  \t<li>Otro ejercicio que realizaremos sera montar rápidamente la maqueta de un diseño web mediante dos métodos: por diseño fijo mediante 960 grid system y por diseño fluido mediante Unsemantic. </li>  \t<li>También exploraremos las opciones que harán que nuestra web sea relevante para los motores de búsqueda de internet; como controlar que los datos introducidos en un formulario son correctos antes de enviarlo; a detectar el tipo y ancho de dispositivo mediante CSS y hacer que nuestra página se adapte perfectamente a todos los formatos</li>  \t<li>Veremos como crear animaciones en elementos de una web y a realizar transiciones entre ellos. </li>  \t<li>También nos iniciaremos en la librería JQuery, perteneciente a Javascript, y en concreto en los tipos de selectores que ofrece, así como en la creación de una web con dos supuestos de scroll, uno horizontal y otro vertical, con un movimiento suave. </li>  \t<li>Otro aspecto que veremos sera la modificación de propiedades CSS en función del tipo de navegador mediante 3 métodos: Hacks CSS, Conditionals comments de Internet Explorer y CSS Browser Selector.</li>  </ul>  <p>  \tEste curso es impartido por Javier Mateo, programador y diseñador web con una amplia experiencia en D4 Imagen y Comunicación, Dinamic Multimedia, Ibersaf Multimedia, etc. También cuenta con una extensa trayectoria profesional en diferentes instituciones formativas y escuelas. También incluye una sección impartida por Eduardo Fierro.  </p>", 
+    "end_date": null, 
+    "title": "Mejora y completa las funciones de tu página web", 
+    "price": "20.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/188678_77a5_3.jpg", 
+    "course_url": "https://www.udemy.com/mejora-y-completa-las-funciones-de-tu-pagina-web/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-25T19:39:29Z"
+}

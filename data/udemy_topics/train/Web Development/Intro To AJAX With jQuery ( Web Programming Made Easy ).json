@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  This Introduction to AJAX With jQuery training course from Infinite Skills welcomes you to the world of programming using AJAX and jQuery. This course is intended for the absolute beginner, meaning no prior knowledge or experience with AJAX is required to take full advantage of this tutorial.  </p>  <p>  \t<br>  \t  You will start by learning how to use jQuery to change a webpage. From there, you will learn how to load external content into a page element. Walter teaches you how to send data and get information back from the server so you can update your page. He will also show you how to dynamically update your page so that it can support tagging, search, and other features. This video based training course will also teach you basic form validation with jQuery, how to handle potential errors when submitting data, and how to build a search form.<br>  \t<br>  \t  Once you have completed this training tutorial, you will be fully capable of programming your website using jQuery. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Intro To AJAX With jQuery ( Web Programming Made Easy )", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/100114_41e2_9.jpg", 
+    "course_url": "https://www.udemy.com/intro-to-ajax-with-jquery/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-01T18:10:56Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t  Border Gateway Protocol (BGP) is the routing technology that enables the largest and most sophisticated network in the world today - the Internet.  </p>  <p style=\"\">  \t  BGP is also one of the critical underlying foundations of new-world technologies such as Multiprotocol Label Switching (MPLS).  </p>  <p style=\"\">  \ttrained by expert dual CCIE certified with 10 + years of training and working experience in production networks.  </p>  <p style=\"\">  \t  This must-have advanced routing course covers the theory of BGP, configuration of BGP on Cisco IOS routers, detailed troubleshooting information and hands-on exercises that provide students with the skills needed to configure and troubleshoot BGP networks in customer environments.  </p>  <p style=\"\">  \t  Different service solutions in the curriculum cover BGP network design issues and usage rules for various BGP features.  </p>  <p style=\"\">  \t  Upon successful completion of this course, students will be prepared to design and implement efficient, optimal, and trouble free BGP networks.  </p>", 
+    "end_date": null, 
+    "title": "Mastering BGP in Depth on Cisco Routers", 
+    "price": "25.00", 
+    "instructors": "Sikandar Shaik", 
+    "commitment": "14 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/164400_de47_7.jpg", 
+    "course_url": "https://www.udemy.com/mastering-bgp-in-depth-on-cisco-routers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-14T17:54:47Z"
+}

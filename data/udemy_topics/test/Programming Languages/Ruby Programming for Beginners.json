@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tLearn Ruby today!<br style=\"\">  \t<br style=\"\">  \tRuby is famous for being easy to learn but most users only scratch the surface of what it can do. While a typical Ruby tutorial or book focuses on Ruby&#039;s trendier features this course reveals the secret inner workings of one of the world&#039;s most popular programming<br style=\"\">  \tlanguages. It helps you learn Ruby in one of the easiest ways possible through 10 simple steps that will have you writing clear maintainable code in no time. Rather than bog you down with a lot of theory this course takes a hands-on approach and focuses on helping you learn Ruby so that you&#039;reproductive on day one. <br style=\"\">  \t<br style=\"\">  \tWhether you&#039;re new to programming or just new to Ruby this Ruby tutorial is your guide to rapid real-world software development withthis unique and elegant language. <br style=\"\">  \t<br style=\"\">  \t   Who uses Ruby?<br style=\"\">  \t<br style=\"\">  \tRuby is an incredibly powerful and highly scalable object-oriented language. Leading technology companies &amp; startups around the world use Ruby or the Ruby on Rails framework to power their websites &amp; web applications. They include: <br style=\"\">  \t  * Amazon<br style=\"\">  \t  * Twitter<br style=\"\">  \t  * Electronic Arts<br style=\"\">  \t  * Yahoo<br style=\"\">  \t  * New York Times<br style=\"\">  \t  * 37 Signals  </p>  <p style=\"\">  \t* And many many more...  </p>", 
+    "end_date": null, 
+    "title": "Ruby Programming for Beginners", 
+    "price": "30.00", 
+    "instructors": "Huw Collingbourne", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/8082_e627_11.jpg", 
+    "course_url": "https://www.udemy.com/learn-ruby-programming-in-ten-easy-steps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2011-06-14T16:09:14Z"
+}

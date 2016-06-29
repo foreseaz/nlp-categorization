@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">Zigbee </strong>is a popular wireless communication protocol standard ideal for sensor based networks. This course provides an exposure to Zigbee standard and teaches how you can design a product based on Zigbee, covering the a real life example of Smart Energy Meter. </p>\n\n<p>The <strong class=\"redactor-inline-converted\">Product certification</strong> section teaches you some very important guidelines for laying out your own PCB, which applies to all the wireless technologies PCB boards. </p>\n\n<p>Although there is a lot of data on Zigbee on web, but sometimes to much of it also confuses, hence have only discussed the <strong class=\"redactor-inline-converted\">most relevant, important and needed one for designing a product on Zigbee.</strong></p>\n\n<p>It is the first tutorial of the series and <strong>will be followed by Bluetooth Low Energy and 6LowPAN.</strong> Stay tuned.<br></p>", 
+    "end_date": null, 
+    "title": "Internet of things and everything: A Workshop on ZIGBEE", 
+    "price": "20.00", 
+    "instructors": "Asheesh Misra", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/839010_1741_6.jpg", 
+    "course_url": "https://www.udemy.com/internet-of-things-and-everything-a-workshop-on-zigbee/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-04T02:03:30Z"
+}

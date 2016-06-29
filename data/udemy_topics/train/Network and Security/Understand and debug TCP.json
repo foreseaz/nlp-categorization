@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">Why is TCP relevant?</strong></p><p>Most of the data today is transferred using TCP. In order to understand and solve problems in connectivity you need to understand TCP.</p><p><strong class=\"redactor-inline-converted\">The course will explain: </strong></p>\n\n<ul><li>how a TCP session is <strong class=\"redactor-inline-converted\">started </strong>and <strong class=\"redactor-inline-converted\">terminated</strong></li><li>how data is <strong class=\"redactor-inline-converted\">transferred</strong><ul><li>determine segment size</li><li>ramp up throughput</li><li>acknowledge all the packets</li></ul></li><li>what impacts TCP <strong class=\"redactor-inline-converted\">performance</strong></li><li>relevant things required for the <strong class=\"redactor-inline-converted\">analysis</strong></li><li>typical <strong>issues </strong>of TCP connections<ul><li>wrong MSS</li><li>adjusted MSS</li><li>no window scaling</li><li>no SACK</li></ul></li></ul>\n\n\n\n\n\n<p>The course will use trace files to explain the things as you see them in real world and the files are available for download.</p>\n\n\n\n<p>Understanding TCP is crucial as the majority of data is transferred with TCP. The performance of the transmission is impacted by many TCP details and performance analysis and optimization requires a good background on TCP. Finding and fixing issues will also not be possible without understanding the protocol. After this course you will be able to find faults, check options and understand the performance.</p>\n\n<p>This is a self-paced course, you are free to learn whenever you have time. If you complete the course you will get a certificate.</p>\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Understand and debug TCP", 
+    "price": "30.00", 
+    "instructors": "Regula Gönner", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/846800_6930_4.jpg", 
+    "course_url": "https://www.udemy.com/understand-tcp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-12T05:55:06Z"
+}

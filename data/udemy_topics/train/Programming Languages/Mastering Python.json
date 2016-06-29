@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">This course takes you on a journey from the basics of operating in a Python development environment through to advanced topics and master-level techniques. It presents you with a guide to Python and its standard library, focusing on language and library elements that are particularly useful for tool authors and system programmers.</p><p style=\"\">We start off with the basics to set up a functioning environment, creating packages, and running them on the command line. Through our journey, we&#039;ll highlight the major aspects of managing our Python development environment, handling parallel computation, and mastering asynchronous I/O for improved performance of our system. Finally, we&#039;ll learn the secrets of metaprogramming and unit testing in Python arming you with the perfect skillset to be a Python expert.</p><p style=\"\">Mastering Python will get you up to speed in everything from basic programming practices to high-end tools and techniques that will help you set apart as a successful Python programmer.</p><p style=\"\"><strong style=\"\">About the Author</strong></p><p style=\"\"> <strong style=\"\">Daniel Arbuckle</strong> holds a doctorate in Computer Science, and works as a Python programming consultant.</p>", 
+    "end_date": null, 
+    "title": "Mastering Python", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/507888_17b7_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-21T07:34:05Z"
+}

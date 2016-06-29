@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this course you will learn how to create a configuration for seamless interoperability between a Polycom IP phone and an Asterisk based PBX. Since building an Asterisk server is only half of the phone system you need to ensure the physical phone endpoints are configured correctly. The phones are what all the end users interact with daily and gives them the tool to communicate with internal and external users.</p><ul><li>You will learn how to configure Polycom IP phones</li><li>I will show you the different Polycom IP phone models to choose from</li><li>In the course resources for each lesson you will get copies of the config files I demonstrate</li><li>It should only take you a couple hours to get a working configuration file for your PBX</li><li>If you plan on using Polycom phone you need to take this course and learn how to configure them using the different methods</li></ul><p>My courses are always structured in an easy to follow format giving you a little bit of knowledge at a time to implement then building on top of that knowledge as the course progresses. I give you real world examples and show you how to do fuctions that are commonly asked for of phone systems.</p>", 
+    "end_date": null, 
+    "title": "Asterisk Administrators Guide to VoIP Polycom IP SIP Phones", 
+    "price": "20.00", 
+    "instructors": "Jon Manning", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/635302_43af_2.jpg", 
+    "course_url": "https://www.udemy.com/asterisk-administrators-guide-to-voip-polycom-vvx-ip-sip-phones/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-08T21:48:44Z"
+}

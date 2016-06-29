@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Crear aplicaciones y juegos en iOS se ha convertido en una\nexcelente opción de emprendimiento e ingresos adicionales, por eso este curso\nofrece los conceptos teórico prácticos necesarios para crear juegos básicos en\nSwift 2 la última versión publicada y\nSprite Kit como FrameWork de juegos.</p><p>No es necesario saber\nprogramar o tener conocimientos de Swift o Sprite Kit ya que en este curso\ntrabajamos temas como Swift, xCode, Sprite Kit, variables, ciclos, generar\nnúmeros aleatorios, control de flujo,  SKSpriteNode para\nagregar objetos al escenario de juego, SKLabelNode\npara agregar etiquetas y botones, crear fondo y agregar efectos de sonido\ny animaciones básicas; con los cuales adquirimos las herramientas\nnecesarias para crear nuestro primer juego y verlo correr en dispositivos iOS (iPhone\ny iPad). En general el curso cuenta con 23 clases grabadas, textos y recursos\nde código fuente que serán de ayuda a la hora de crear tu propio juego. </p><p>El curso además de la\nconstante actualización y asesoría en la creación de sus proyectos cuenta\ncon la garantía de devolución de dinero si no estas a gusto o crees que no vale\ntu inversión, así que vale la pena que te motives a crear tu primer juego</p><p><span></span></p><p><span></span></p>", 
+    "end_date": null, 
+    "title": "Aprende Swift y SpriteKit con el juego piedra papel o tijera", 
+    "price": "20.00", 
+    "instructors": "Juan Carlos Salazar Mesa", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/706970_ddaf_2.jpg", 
+    "course_url": "https://www.udemy.com/aprende-swift-y-spritekit-con-el-juego-piedra-papel-o-tijera/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-26T14:08:37Z"
+}

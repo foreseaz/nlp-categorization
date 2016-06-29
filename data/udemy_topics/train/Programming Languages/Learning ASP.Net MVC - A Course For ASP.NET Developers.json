@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<span style=\"\">Discover all about the model, view and controller (MVC) framework in this course from Infinite Skills. Join us as we help you take your basic general working knowledge of ASP.Net to the next level.</span>  </p>  <p style=\"\">  \tWithin this course we’ll take you through the basics and beyond, ultimately leaving you with sufficient proficiency in ASP.Net. Some of the topics that we’ll be covering within this course includes:  </p>  <ul style=\"\">  \t<li style=\"\">Basics of MVC: Views, Controllers, Styling, and Validation</li>  \t<li style=\"\">MVC Technologies: LINQ, razor and data, shared layouts</li>  \t<li style=\"\">E-Commerce Application, Filtering and Grouping, Creating a Shopping Cart</li>  \t<li style=\"\">Security: Authorizing Pages, Supporting Mobile Browsers</li>  </ul>  <p style=\"\">  \t<strong style=\"\">Become a Great ASP.Net Developer</strong>  </p>  <p style=\"\">  \tOnce you have completed this training course, you will be fully capable of using the MVC framework to create your own web applications  </p>  <p style=\"\">  \t<strong style=\"\">Content and Overview</strong>  </p>  <p style=\"\">  \tSuitable for both those starting off with ASP.Net and those who are more proficient, this 50 lecture, 4+ hour course will enable you to learn ASP.Net directly from a professional developer.  </p>  <p style=\"\">  \tComplete with working files and code samples, you’ll be able to follow along with the author throughout the lessons, and will receive a verifiable certificate of completion upon finishing the course.  </p>", 
+    "end_date": null, 
+    "title": "Learning ASP.Net MVC - A Course For ASP.NET Developers", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/296628_42fa_5.jpg", 
+    "course_url": "https://www.udemy.com/learning-aspnet-mvc-a-course-for-aspnet-developers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-08T21:47:06Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t            This course will teach you the basics of native iOS (iPhone) App Development  using Apple&#039;s Xcode development environment.  By the end of the course, <strong style=\"\">you will have created your first iPhone application</strong>.  </p>  <p style=\"\">  \t<strong style=\"\"></strong>  </p>  <p style=\"\">  \t<strong style=\"\">You will need a Mac computer</strong> with the following requirements to participate in this course:  </p>  <p style=\"\">  \t    - Mac with OS X 10.8.4+ <br style=\"\">  \t    - XCode 5+ installed  </p>  <h5 style=\"\">                Don&#039;t have a Mac? You can rent one for ~$12/week from macincloud(dot)com</h5>  <p style=\"\">  \t<strong style=\"\"></strong>  </p>", 
+    "end_date": null, 
+    "title": "Develop Your First iPhone App Today!", 
+    "price": "25.00", 
+    "instructors": "Awesome Inc", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/162284_00f3_3.jpg", 
+    "course_url": "https://www.udemy.com/iphone-app-crash-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-11T20:35:46Z"
+}

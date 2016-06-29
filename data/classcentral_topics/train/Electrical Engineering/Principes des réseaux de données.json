@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Electrical Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    Dans le monde numérique et connecté dans lequel nous vivons chacun, à titre professionnel ou personnel, utilise divers équipements pour naviguer sur le Web, communiquer sur les réseaux sociaux tels que Facebook, acheter en ligne, regarder des films sur Internet, jouer à distance ou simplement téléphoner. Ce cours vous propose d’apprendre à connaitre les technologies réseaux qui permettent ces objets et ces services.\r\nLe cours vous explique le fonctionnement des réseaux de données tels qu'Internet, les réseaux téléphoniques qui permettent la communication et l'accès à l'information. Le cours décrit le vocabulaire, les concepts et les mécanismes communs à l'ensemble des réseaux informatiques. Il expose comment s'organise un réseau mondial, comment fonctionnent ses composants, ainsi que l'importance des standards et des protocoles. Les étudiants à l’issu du cours seront capables d'évaluer les avantages et les contraintes qui découlent du fonctionnement de ces réseaux et leurs répercussions sur les services.\r\nDans tous les secteurs économiques et industriels, l'activité des entreprises repose sur un ensemble de services connectés. Le besoin en ingénieurs capables de concevoir, développer, exploiter, mettre en œuvre, maintenir ou sécuriser ces réseaux ne cesse donc de croître.\r\nCe cours ouvre la porte à un large éventail de métiers variés et bien rémunérés auxquels forment les écoles de l'Institut Mines-Télécom.\n\n                                    ", 
+    "end_date": "2015-11-12T00:00:00Z", 
+    "title": "Principes des réseaux de données", 
+    "price": 0, 
+    "instructors": "Laurent Toutain and Pierre Rolin", 
+    "institution_name": [
+        "Institut Mines-Télécom"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.france-universite-numerique-mooc.fr/courses/MinesTelecom/04003S04/session04/about", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "France Université Numerique"
+    ], 
+    "start_date": "2015-09-17T00:00:00Z"
+}

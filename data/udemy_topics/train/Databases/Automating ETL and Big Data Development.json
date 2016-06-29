@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t      This course covers a guide to automating ETL through automation techniques, intended for business owners, freelancers or employees seeking to jump ahead of the competition and seeking to minimize data disasters. With the demand for ETL developers increasing (per the Bureau of Labor Statistics and the opportunity to become a data provider (for business owners or freelancers), I highlight methods and architecture to minimize the work that must be done for ETL, so that you can spend more time working on enhancing skills.  </p>\n\n<p>  \tI offer a ton of free content on my YouTube channel, and suggest students to become familiar with the basics of SQL Server and MongoDB, covered at the below, free playlists:  </p>\n\n\n\n\n\n<ul>  \t<li>SQL In Six Minutes (YouTube)</li>  \t<li>The MongoDB 103 (YouTube)</li>  </ul>\n\n\n\n\n\n<p>  \tThis course covers:  </p>\n\n\n\n\n\n<ul>  \t<li>Understanding the extract process and constructing architecture to automate it.</li>  \t<li>Understanding the load process, when change is necessary with loading, and how to automate it.</li>  \t<li>Understanding different issues we may face in transform, how to minimize re-facing them with re-usable solutions.</li>  \t<li>Understanding advanced techniques in ETL, the theory behind these, and applications with them.</li>  \t<li>Understanding the basic logic, functions, operators and advanced use of PowerShell so beginners and mid-level developers can advance quickly with it.</li>  \t<li>Completing a large assignment that will have you import over 200K of records.</li>  \t<li>Reviewing case studies of applied ETL techniques, especially useful for freelancers adding credibility to their business.</li></ul>\n\n\n\n\n\n<p>  \t      To provide maximum learning for students wanting to master ETL skills, whether for business opportunity or employment, the course provides the following types of material:  </p>\n\n\n\n\n\n<ul>  \t<li>Focused video lectures with demonstrations of ETL processes in action, the code/script used to make the process occur, and no distracting facial or background movements.</li>  \t<li>Mp3s recorded independently from the video covering similar and also new content because students are unable to \"see what's happening\" - additional learning material.</li>  \t<li>Dynamic syllabus with extra content, such as links to articles and videos to enhance and increase your learning, as well as links to specific recruiters in desperate need for ETL developers (students wanting to become employees) and ways to uncover possible data providing opportunities for business owners.</li>  \t<li>Scripts/code that are used in the video lectures, as well as additional tools that students can learn as they construct their own ETL architecture.</li>  \t<li>Course material that we use in the course, such as files we import during the series.</li>  </ul>\n\n\n\n\n\n<p>  \t      Understanding, manipulating and transforming data will only become more important in the future.  Those who can master this through automation will have an advantage over all their competition because when we see the results of our measurement, only then can we make the appropriate changes; this course shows you how to automate those steps.  </p>", 
+    "end_date": null, 
+    "title": "Automating ETL and Big Data Development", 
+    "price": "50.00", 
+    "instructors": "Tim Smith", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/186860_2224_3.jpg", 
+    "course_url": "https://www.udemy.com/automatingetl/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-22T09:31:47Z"
+}

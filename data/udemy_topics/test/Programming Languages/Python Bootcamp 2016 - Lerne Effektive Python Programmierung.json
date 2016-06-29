@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Info für Ungeduldige: Schon nach 15 Minuten hast du dein erstes Python - Programm geschrieben!</strong></p><p>Dieser Kurs ist der <strong>perfekte</strong> Anfängerkurs für Python 3, und Python ist die perfekte Programmiersprache für Programmieranfänger. Sie ist einfach aufgebaut, aber gleichzeitig unglaublich mächtig und wird daher für unzählige Anwendungszwecke verwendet: Internet-of-Things, Webserver, wissenschaftliches Rechnen, numerisches Programmieren, usw.<strong></strong></p><p>Du fängst zuerst ganz einfach bei einem \"Hallo Welt\" an, und lernst anschließend Schritt für Schritt alle wichtigen Konzepte von Python kennen:<br></p><ul><li>Einfache Programme</li><li>Listen</li><li>List Comprehensions</li><li>Unterschied zwischen Strings, Integern und Floats</li><li>Funktionen</li><li>Lambda Funktionen</li><li>Objektorientierung</li><li>Abfangen von Fehlern</li><li>...</li></ul><p>Du fängst wirklich sofort an, Python zu lernen. Dadurch steigst du sofort in die Programmiersprache ein und sammelst wertvolle Praxiserfahrung. </p><p>Später installieren wir auch noch Python bei euch lokal, sodass ihr auch ohne Internet eure Programme weiter programmieren könnt.</p>", 
+    "end_date": null, 
+    "title": "Python Bootcamp 2016 - Lerne Effektive Python Programmierung", 
+    "price": "25.00", 
+    "instructors": "Jannis Seemann", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/719552_9864_2.jpg", 
+    "course_url": "https://www.udemy.com/python-kurs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-07T13:46:10Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\">What is this course about? </strong>This course is a primer for using Stripe with PHP. It creates examples of using the Stripe provided Javascript based checkout forms for accepting bank cards. Then it covers the PHP processing of the charge of those cards. You use the Stripe dashboard to follow the charges to a payment to your account.</p><p style=\"\"><strong style=\"\">Visual Step by Step eBooks Included!</strong> Often following along by video is not convenient. So every video in this course includes a page by a PDF eBook you can also use. The eBooks are full sized visuals you see in the videos.</p><p style=\"\"><strong style=\"\">Who might find this course useful? </strong>This course is for those who are new to Stripe and prefer not to use documentation to learn. Keep in mind that Stripe provides many examples and documentation a competent PHP programmer could follow. So if you are that type of person, consider looking at that option before enrolling in this course. However if you want a laid back deep dive into the basics, this could be helpful to intermediate and higher level skilled developers.</p><p style=\"\"><strong style=\"\">Are you ready to take this course?</strong> Students for this course are new to intermediate in their PHP, Javascript, JQuery, CSS and HTML skills. You are familiar with these technologies and have had some experience. This course will stay on the light side of their use but at the same time provide production quality solutions you can use in simple applications.</p><p style=\"\"><strong style=\"\">Why take this course? </strong>Ecommerce is an essential skill for all web developers using PHP. Often the hurdle of where to start is high for newcomers to eCommerce. Stripe is a well known platform and is being add into PHP sites everyday. Stripe is great place to start and this course can be a great ice breaker for you to learn more on your own or take additional courses I am offering on Stripe. This course is also a good experience for combining HTML, CSS, Javascript, JQuery and PHP for a solution.</p><p style=\"\"><strong style=\"\">What do you need to take the course?</strong> You need access to a web site with PHP 5.3.3 or later. You can use a local host web site for the course. You need Stripe testing account and steps for doing this are covered in the course.</p>", 
+    "end_date": null, 
+    "title": "Learn Stripe PHP: Make Checkout Webpages", 
+    "price": "30.00", 
+    "instructors": "Lon Hosford", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/535130_80bc_8.jpg", 
+    "course_url": "https://www.udemy.com/learn-stripe-php-making-checkout-pages/", 
+    "currency": "USD", 
+    "subject_name": [
+        "E-Commerce"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-23T14:10:09Z"
+}

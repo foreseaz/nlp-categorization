@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course is about getting started with learning on test automation using Selenium. We will do a quick recap on what is a typical software test flow, like starting from requirements, testcase design, test execution, manual testing, writing automated test script, running automated test scripts. We will try to delve into what, why and how of test automation. In the light of all this we will look into how Selenium comes as a solution in solving some of the problems faced in testing. We will have introductory experience of Selenium IDE, WebDriver and Grid. Finally we will look into path to be taken going forward.</p>", 
+    "end_date": null, 
+    "title": "Getting Started With Test Automation Using Selenium", 
+    "price": 0, 
+    "instructors": "Ganesh Sahai", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/597944_cd61_2.jpg", 
+    "course_url": "https://www.udemy.com/getting-started-with-test-automation-using-selenium/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-31T05:39:52Z"
+}

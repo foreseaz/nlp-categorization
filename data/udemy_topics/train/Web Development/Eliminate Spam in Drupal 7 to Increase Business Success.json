@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t      Opening up your Drupal 7 website to commenting, group creation and all those other interactive goodies is the quickest and surest long term way of building customers online. However, with all of the &quot;ham&quot; (good content), comes along the &quot;spam&quot;.  </p>  <p>  \t      Spam is an ever increasing problem on the internet, especially with content management systems such as Drupal 7. Spam on websites drives away customers. It is that simple. Not only that, it steals away your time to deal with it.  </p>  <p>  \t      This course will show you best practices, settings and modules to not only fight spam on your drupal site, but also reduce spam users from even signing up.  </p>  <p>  \t          We use techniques learned from managing and developing educational community sites and online stores in drupal 7 with over 500,000 registered users. This combined with a decade of experience in the field, gives us a real world understanding of how to fight spam and manage sites.  </p>  <p>  \t        In order to reduce spam we need to:  </p>  <ul style=\"\">  \t<li>Stop spam bots and spam users from signing up</li>  \t<li>Manage and protect our comments and contents</li>  \t<li>Root out spam users and stop them from returning</li>  </ul>  <p>  \t    By using best practices, settings and modules in Drupal 7 we make stopping and managing spam a breeze, so you can focus on what is really important, your customers and content creation.  </p>", 
+    "end_date": null, 
+    "title": "Eliminate Spam in Drupal 7 to Increase Business Success", 
+    "price": "20.00", 
+    "instructors": "Eric Vander Wal", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/395746_9a44_3.jpg", 
+    "course_url": "https://www.udemy.com/stopspam/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-16T13:51:48Z"
+}

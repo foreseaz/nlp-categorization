@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Course last updated on 23rd January 2016. I have added a new Section 15 from which you can master the XSLT Basics.Enjoy!</p><p>---------------------------------------------------------------------------------------------------------------------------</p><p>This course is primarily targeted at students needing to understand the syntax and concepts behind XML and XML Schemas. This course is also for anyone who want to learn how to use XML Schemas to define the structure of XML languages and how to validate XML documents against XML schemas.</p><p>XML has become a widely used standard for storing and exchanging information on the internet. Knowing how to work with XML has become a core skill that every developer needs to have. In this course, we'll start off by learning about what XML is and does, and some of its advantages.</p><p>At the end of this course, students will be able to write well-formed XML documents, validate and enforce business rules using XML schemas</p><p><strong>Learn and master the XML and XML Schema technologies in this comprehensive course.</strong></p><ul>\n<li>Understand what,why and when to use XML</li>\n<li>Work on a XML Use-case and master the various concepts and syntax of XML Components.</li>\n<li>Demystify the topics of XML Schema Definition</li>\n<li>Work on a Use-case and create a XML Schema File</li>\n<li>Learn using the inbuilt,simple and schema types</li>\n<li>Validate the XML documents using the schema</li>\n<li>All in easy steps</li>\n</ul><p><strong>Mastering XML and XML Schema Definition for Professionals:</strong></p><p>XML was designed to store and transport data.A Schema validates a XML document and acts as a contract between two parties using XML.</p><p>Any developer or analyst at any level can access the key lessons and concepts in this course and learn to write xml and xml schema documents.</p><p><strong>Contents and Overview:</strong></p><p>In over 2 hours of lectures this course covers necessary XML and its validation using XML Schema.</p><p>This course covers the importance of  XML , the Well-Formedness rules ,how validation works and how to use XML Schema Definition to validate a XML.</p><p>Up on completion you will be able to create XML Documents , create and use XML Schema files and also import and include schemas in other schemas.</p>", 
+    "end_date": null, 
+    "title": "XML and XML Schema Definition in Easy Steps", 
+    "price": "20.00", 
+    "instructors": "Bharath Thippireddy", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/548078_53c8_3.jpg", 
+    "course_url": "https://www.udemy.com/xml-and-xml-schema-definition-in-easy-steps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-07T16:33:08Z"
+}

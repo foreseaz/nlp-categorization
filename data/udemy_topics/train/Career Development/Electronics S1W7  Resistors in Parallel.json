@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Personal Development"
+    ], 
+    "description": "<p>During this course, the student will learn and apply the principles, laws and formulas that will lead to the solution of problems in parallelresistive circuits. By the end of this course, you will:</p><p>- Be able to state why the total resistance in any parallel resistance circuit is always smaller than the value of the smallest resistor in the circuit.</p><p>- Learn and demonstrate the use of the Parallel Resistance Formula to determine the resistance of parallel circuits.</p><p>- Apply the Product Over the Sum method to accurately determine the total resistance of any two parallel resistors.</p><p>- Learn and apply Kirchhoff's Current Law and the Current Divider Formula to determine the current flow in different branches of a parallel circuit.</p><p>- Learn how to correctly use the bar-bar symbol (||) to correctly write the formula for any parallel resistance circuit.</p><p>- State and apply the formula that will allow you to determine the total resistance of any number of resistors that have the same value.</p><p>- Solve seven parallel resistance problems presented by the instructor, using all of the rules and formulas you have learned to this point. The instructor will give you a detailed solution to each of the problems.</p><p>- Demonstrate that you can compute the total power in a circuit, and the individual power for each component.</p><p><strong>Summary of Series and Parallel Circuits</strong>The course concludes with a thorough review of all of the formulas and laws of series and parallel resistance that you have learned so far.</p><p>This course presumes some knowledge of series resistive problems. These topics were covered in the prerequisite course: \"Electronics S1W5:Resistors in Series\". If you did not complete this course, you should be familiar with Ohm's Law and Kirchhoff's Voltage Law, so that you can solve series resistive circuits.</p><p>This course is composed of fourteen videos with a total rumnning time of about 2.5 hours. Most videos run for 8 to 13 minutes, and each teaches one or more of the concepts shown in the bullet points above.</p><p>If you are headed for a career in electronics, or want to become a serious electronics hobbyist, or just want to know how electronics works, then this is a course for you. </p>", 
+    "end_date": null, 
+    "title": "Electronics S1W7: Resistors in Parallel", 
+    "price": "25.00", 
+    "instructors": "Richard Vannoy", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/566888_04f1_4.jpg", 
+    "course_url": "https://www.udemy.com/electronics-week-07/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Career Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-28T04:44:56Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Günümüzde mobil teknolojiler, iş yaşamı ve günlük hayatta her an karşımıza çıkan bir yapıya büründü. Bu da kullanıcı kitlesinin her an bilgiye ulaşabileceği mobil cihazlar sayesinde mobil platformlara bağımlılığı arttırdı. Artık bir çok büyük ölçekli şirket yapılarını hem web üzerinde hemde mobil üzerinde hizmet verecek şekilde planlamak da, bunun ile birlikte bilişim sektörün de mobil uygulama geliştiricilere olan talep de giderek arttı.</p><p style=\"\">Günümüzde oldukça popüler olan MIT lisanslı <strong style=\"\">JQuery Mobile</strong> kütüphanesini kullanarak mobil sayfalar tasarlayacak, bu sayfalar arasındaki veri iletişimini kurgulayacaksınız. Mobil data işlemleri, foto galeri oluşturma, RSS çekme gibi bir çok konuyu kurs içerisinde bulabilirsiniz.</p><p style=\"\"><strong style=\"\">JQuery Mobile</strong> <strong style=\"\">derslerimizi Yakın Kampüs eğitmenlerinden Mert ALPTEKİN anlatıyor.</strong></p><p style=\"\">Eğitimimize <strong style=\"\">JQuery Mobile</strong> kurulumu ile başlayacağız. Daha sonra mobil sayfalardaki ikon, buton ve liste elemanları tanıtıyor olacağız. Form kullanımları, login işlemler, data operasyonları gibi bölümlerle devam eden kursumuzu son olarak markete çıktı alınacak halde uygulamayı çıkarıp sonlandıracağız.</p>", 
+    "end_date": null, 
+    "title": "JQuery Mobile ile Mobil Uygulamalarınızı Geliştirin", 
+    "price": "20.00", 
+    "instructors": "Yakın Kampüs", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/522066_400e.jpg", 
+    "course_url": "https://www.udemy.com/jquery-mobile-ile-mobil-uygulamalarnz-gelistirin/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-06T16:50:16Z"
+}

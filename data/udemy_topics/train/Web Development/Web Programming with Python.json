@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<h5 style=\"\">A Verifiable Certificate of Completion is presented to all students who undertake this course.</h5>  <p style=\"\">This Web Programming  with Python course takes you through a hands-on guide to object-oriented python web programming, working with  multiple types of servers, databases and web frameworks. All that is required  to get started is a very basic background knowledge of Python, as instructor  Mike McMillan begins these Python web programming tutorials with two chapters of review and  then goes step by step through the necessary concepts at every stage of  development. You&#039;ll get a detailed primer on database programming with Python,  installing an SQLite server and performing routine data selections and  operations; you&#039;ll learn how to interact with FTP and email services using  native Python code; see how to process web form data via Python; and learn how  to interact with web database applications and utilize XML. Finally, the Python web programming course ends with a  chapter on configuring and working with Django, a modern web framework that  allows you to create and manage complex database-driven websites. There&#039;s not a  better course for taking Python concepts and applying them to real world  projects.</p><p style=\"\"><strong style=\"\">What You Will Learn</strong><strong style=\"\">:</strong></p><p style=\"\">- How to use Python  object-oriented programming techniques within web-based projects, from online  databases to complete websites.</p><p style=\"\">- How to install and  configure basic web-based databases using Python code.</p><p style=\"\">- The essentials of  XML and how it can be used in conjunction with Python projects.</p><p style=\"\">- How to implement  and work with Django to manage full database-driven websites.</p><p style=\"\"><strong style=\"\">Who Should I Take This </strong><strong style=\"\">Python  web programming </strong><strong style=\"\">Course</strong><strong style=\"\">:</strong></p><p style=\"\">- Anyone with a  basic background knowledge of Python and object-oriented programming (OOC) who  wants to see how the language can be used for web-specific projects.</p><p style=\"\">- Anyone who wants a  better understanding of SQLite, XML, and online database standards.</p><p style=\"\">- Anyone looking to  increase their knowledge of the Python programming language and its practical  application.</p><p style=\"\"><strong style=\"\">What People Are Saying about this</strong><strong style=\"\"> Python web programming course</strong><strong style=\"\">:</strong></p><p style=\"\">&quot;Honestly I  thought my Python knowledge would be a little too rusty, but everything was  presented very clearly and the review really helped.&quot;</p><p style=\"\"><em style=\"\">-V. Vargas</em></p><p style=\"\">&quot;Had another  python course before this from another teacher but it was pretty thin on  projects...this is awesome because it got me to use my coding skills right  away...thanks.&quot;</p><p style=\"\"><em style=\"\">-Gene Tredwell</em></p><p style=\"\">&quot;The Django  documentation I found online was a little confusing, and not really complete; Mike  is quite thorough, making it easy to get started.&quot;</p><p style=\"\">                                                      </p><p style=\"\"><em style=\"\">-Markos Psilakis</em></p>  ", 
+    "end_date": null, 
+    "title": "Web Programming with Python", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/16646_dfea_9.jpg", 
+    "course_url": "https://www.udemy.com/web-programming-with-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-04-20T16:48:18Z"
+}

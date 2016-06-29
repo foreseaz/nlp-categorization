@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Electrical Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    Con este curso podrás conocer que son y que proporcionan las redes de difracción sobre fibra en telecomunicaciones y sensores. Podrás entender el funcionamiento de forma intuitiva en incluso detallada para las redes de difracción más comunes.\n\nEl curso requiere conocimientos básicos de propagación de ondas y de tratamiento de sañeles así como de mátemáticas en todos los casos a un nivel equivalente a los primeros cursos de un grado técnico. Si bien el curso trata de ser auntocontenido y descriptivo sin entrar en desarrollos complejos de forma que pueda ser aprovechado por el máximo espectro posible de alumnado.\n\nUnidades:\n\nFundamentos de redes de difracción I.\n\tFundamentos de redes de difracción II.\n\tAnálisis y diseño de redes de difracción en fibra.\n\tAplicaciones en telecomunicaciones.\nAplicaciones en sensores.\n\n                                    ", 
+    "end_date": "2017-05-29T00:00:00Z", 
+    "title": "RDO301x: Redes de difracción en comunicaciones ópticas", 
+    "price": 0, 
+    "instructors": "Daniel Pastor  Abellán and Salvador Sales  Maicas", 
+    "institution_name": [
+        "Universitat Politècnica de València"
+    ], 
+    "commitment": "3 hours", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.edx.org/course/redes-de-difraccion-en-comunicaciones-upvalenciax-rdo301x-0", 
+    "duration": "53 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-05-23T00:00:00Z"
+}

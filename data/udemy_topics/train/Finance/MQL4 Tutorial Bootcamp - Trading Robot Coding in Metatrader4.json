@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\">Especially in automated forex trading one question comes up very often: What if?</p> <p style=\"\">What if one could find a system that would be trading dependable and automated? What if one could reveal a working trade logic without future prediction?</p> <p style=\"\">The one thing that I am most excited about in MQL4 is the opportunity to do a backtest again and again - with the exact same historical data - changing one little thing in the settings each time.</p> <p style=\"\">That makes it possible to find out if and what changes in a short time span. And you can make the right adjustments in your system afterwards.</p> <p style=\"\">Let&#039;s assume for example we would train our automated trading system to close a trade when the profit is equal or higher than $2.</p> <p style=\"\">How would it change or improve the end result on a yearly basis if we change that take profit goal to $5? </p> <p style=\"\">What would happen if we chose 50 Cent instead of $2? Would we have the same profits in a shorter time span or would we only achieve 25 percent in the same time?</p> <p style=\"\">What takes months in real live can be calculated in MQL4 within minutes.</p> <p style=\"\">There is a saying, time is money and in this case both is true, because we can save lots of time to get those insights and that will save us lots of money in the long run.</p> <p style=\"\">Discretionary traders do not have this advantage. They have to trade many years to get the same insights that an MQL4 system can spit out within an afternoon.</p> <p style=\"\">A lot of ordinary traders might not trust automated trading systems, but every successful trader must admit that one fact is true: Nothing can replace own experience!</p> <p style=\"\">And that is true for lots of other areas. In our daily life we value people with lots of experience in their field.</p> <p style=\"\">Nobody wants a doctor to perform a surgery if he never did one before. We want an expert!</p> <p style=\"\">And we are willingly paying good money for experts, that can achieve good results and save us time due to their experience.</p> <p style=\"\">So why should one willingly give up the biggest advantage in trading - the chance to gain valuable trading experience in a fraction of the time needed otherwise?</p> <p style=\"\">Yes, it takes some time to learn MQL4. But that is also true for reading and writing. Or driving.</p> <p style=\"\">If you start today, it might take you a year before you know it. But how much time is going to pass while you don&#039;t learn it? Probably exact the same time span, don&#039;t you think?</p> <p style=\"\">There is another fact that no successful trader will argue about: A profitable trading system needs reproducible rules and disciplined execution.</p> <p style=\"\">And what is the core part of a rule? It is following a logic law, a formular that is checked and reviewed by a trader again and again. </p> <p style=\"\">And every trader does it with computer calculated bars on computer calculated charts and he might use computer calculated indicators anyway - to check them manually. Why not letting the computer do this last part.</p> <p style=\"\">So MQL4 is only the last missing puzzle piece you need if you want the valuable answer to the question: What if?</p><p style=\"\"></p><p style=\"\"></p><p style=\"\"></p>", 
+    "end_date": null, 
+    "title": "MQL4 Tutorial Bootcamp - Trading Robot Coding in Metatrader4", 
+    "price": "30.00", 
+    "instructors": "Raimund Bauer", 
+    "commitment": "43 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/542028_f42e_6.jpg", 
+    "course_url": "https://www.udemy.com/mql4-tutorial-bootcamp-trading-robot-coding-in-metatrader4/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-01T08:58:36Z"
+}

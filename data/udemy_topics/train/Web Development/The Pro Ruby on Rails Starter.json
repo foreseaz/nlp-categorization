@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    The Pro Ruby on Rails Starter Course provides a simple introduction to Web Applications Development using the Rails framework. This course is for students who have no experience in programming at all and is an optional pre-course to &quot;The Professional Ruby on Rails Developer&quot; course here on Udemy.  </p>  <p>  \t    Why Ruby on Rails? Since its introduction, Ruby on Rails has rapidly become one of the most powerful tools for building web applications for startups and existing software houses. Some of the top sites using Ruby on Rails are Basecamp, Twitter, Shopify, Github, LivingSocial, Groupon, Hulu, Airbnb, Yellow Pages and much more.  </p>  <p>  \t    This course provides a simple introduction to Rails by utilizing lectures, homework and building a Todo web app as the main project. Then there will be a demonstration of using scaffold generators and bootstrap to quickly build a second Todo app. There will be references to free resources available on the internet to supplement the course materials.  </p>  <p>  \t    Some features of this course are:  </p>  <p>  \t    - Rails 4 using cloud-based Integrated Development Environment  </p>  <p>  \t    - Rails MVC structure - Models, Views, Controllers  </p>  <p>  \t    - Model-backed forms  </p>  <p>  \t    - Migrations  </p>  <p>  \t    - and much more!  </p>", 
+    "end_date": null, 
+    "title": "The Pro Ruby on Rails Starter", 
+    "price": "20.00", 
+    "instructors": "Mashrur Hossain", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/436210_b319.jpg", 
+    "course_url": "https://www.udemy.com/pro-rubyonrails-starter/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-02T05:00:59Z"
+}

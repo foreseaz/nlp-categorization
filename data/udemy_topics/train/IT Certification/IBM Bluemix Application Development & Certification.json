@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<ul><li><strong>Interested in taking your IT career to the next level? </strong></li><li><strong>Want to use cloud technology &amp; micro services for your next application? </strong></li><li><strong>Curious to learn how to develop cloud applications?</strong></li><li><strong>Planning to take the IBM Cloud Developer Certification?</strong></li></ul><p>If answer to any of these questions is a YES, read on:</p><p>Adoption of cloud technologies is growing at a very rapid pace. IT professionals cannot ignore this trend and<em> MUST learn how to develop cloud native applications using the best practices<strong> (12 factor apps) </strong>&amp; cloud design patterns</em>. Bluemix cloud platform is built on open source technologies such as <strong>Cloud Foundry,</strong> Openstack, <strong>Docker</strong> containers. As a result by learning Bluemix Cloud platform IT professionals will gain knowledge of cloud technologies that they can apply to a number of other cloud platforms that support these open source standards/technologies.</p><p>This course teaches the students everything they need to know about developing, hosting and managing cloud applications on the IBM Bluemix PaaS platform. <strong>Student will be able create a live Bluemix application in Java/NodeJS within hours of starting this course</strong>. Building PaaS/Docker based applications will provide the student the foundational knowledge for implementing micro services based applications. <br></p><p>Course is organized with the IBM Cloud Application Developer Certification (C5050-285) in mind but goes into the details so that the students can apply the knowledge to their cloud applications. There are over 50 lectures; <strong>every lecture has a set of questions in the form of a quiz. The quiz questions have a format similar to the actual test questions. There are <em>36 Quiz </em>with <em>over 300 questions</em> to get you ready for the exam. </strong> Just taking the course and clearing the quizzes will prepare the student to sit for the certification test and clear the exam. 95% of the course is in the form of videos that shows you how to use Bluemix Console, Services dashboards, Cloud Foundry tools, Docker tools, Eclipse IDE, Eclipse tools. </p><p><strong>Typical duration for the completion of this course is roughly 3 weeks with at least 2 hours/day spent on the course material and trying out the features on your own.</strong><br></p>", 
+    "end_date": null, 
+    "title": "IBM Bluemix Application Development & Certification", 
+    "price": "20.00", 
+    "instructors": "Rajeev Sakhuja", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/653262_81ac_4.jpg", 
+    "course_url": "https://www.udemy.com/ibm-bluemix/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-28T09:54:46Z"
+}

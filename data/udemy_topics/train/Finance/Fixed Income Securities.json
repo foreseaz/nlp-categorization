@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>  \t       This course will introduce you to the market for fixed income securities, provide you with a lot of details on the characteristics of fixed income securities in general, as well as discuss specific characteristics of specific sectors of the fixed income market - insurers, investors, and a wide variety of concepts relating to the analysis and validation of those securities.  </p>  <p>  \t      This course consists of 24 lectures classified within three sections:  </p>  <ul style=\"\">  \t<li>Introduction to Fixed Income Securities</li>  \t<li>Bond Contract Features and Investment Characteristics</li>  \t<li>Types of Fixed Income Securities</li>  </ul>  <p>  \t      The following types of fixed income securities are introduced and discussed:  </p>  <ul style=\"\">  \t<li>Government Securities</li>  \t<li>US Treasury Securities</li>  \t<li>Corporate Fixed Income Securities</li>  \t<li>Convertible Securities</li>  \t<li>Structured Securities</li>  \t<li>Mortgage Backed Securities</li>  \t<li>Asset Backed Securities</li>  \t<li>Credit Card and Auto Loan Asset Backed Securities</li>  \t<li>Collateralized Debt Obligations</li>  \t<li>Agency Securities &amp; Regional/Local Government Debt Securities</li>  </ul>", 
+    "end_date": null, 
+    "title": "Fixed Income Securities", 
+    "price": "50.00", 
+    "instructors": "Paul Siegel", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/178776_8f61_4.jpg", 
+    "course_url": "https://www.udemy.com/fixed-income-securities/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-07T22:00:05Z"
+}

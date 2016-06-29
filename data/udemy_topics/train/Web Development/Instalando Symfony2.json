@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Actualización 2016:</strong> re-grabado para Symfony 2.8 LTS y listo para Symfony 3.0<br></p><p>Con este curso aprenderás cómo preparar tu entorno de desarrollo en Mac, Linux o Windows para Symfony de forma sencilla.<br></p>  <p>  \t Aprenderás a:  </p>  <p>  \t - Instalar PHP  </p>  <p>  \t - Configurar los estándares de desarrollo de Symfony</p>  <p>- Crear un proyecto<br></p>  <p>  \t - Configurar el IDE PhpStorm para Symfony</p>  <p>  \t - Iniciar el servidor web para empezar a desarrollar</p>", 
+    "end_date": null, 
+    "title": "Instalando Symfony2", 
+    "price": 0, 
+    "instructors": "David Morales", 
+    "commitment": "32 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/165556_c764_2.jpg", 
+    "course_url": "https://www.udemy.com/instalando-symfony2/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-17T09:56:01Z"
+}

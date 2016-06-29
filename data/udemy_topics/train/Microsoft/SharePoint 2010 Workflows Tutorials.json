@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t This course is designed for SharePoint administrators who needs to create SharePoint Workflows to automate business process. This course assumes you are familiar with SharePoint navigation and you have access to a SharePoint site and permissions to create workflows.  </p>  <p style=\"\">  \t      This SharePoint online training video series offers 1.5 hours of training material, with step-by-step visual instruction helping viewers retain what they have learned. The visual instructions are easy to follow and the mouse clicking was highlighted with circles.  </p>  <p style=\"\">  \t    You will learn how to use SharePoint designer to customize task notifications, create a task for user, and collect data from a user. You will know how to create approval workflows with one or more approvers. The approver(s) can either approve, reject the document, or request changes to the document.You will also be able to use InfoPath Designer to design electronic forms for users to fill out and submit the form into a SharePoint form library. Once the form is saved into the library, it will trigger an approval workflow. The approver will receive an customized email notification where they can click the link to view the InfoPath form, and click the link to approve or reject the request form.  </p>  <p style=\"\">  \t   View other courses and promotions: www.SharePointLearning.net.au <a href=\"http://www.SharePointLearning.net.au\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\"></a>  </p>", 
+    "end_date": null, 
+    "title": "SharePoint 2010 Workflows Tutorials", 
+    "price": "35.00", 
+    "instructors": "Lin Zhang", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/209314_2dd2_7.jpg", 
+    "course_url": "https://www.udemy.com/sharepoint-2010-workflows-video-tutorials-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-02T11:52:43Z"
+}

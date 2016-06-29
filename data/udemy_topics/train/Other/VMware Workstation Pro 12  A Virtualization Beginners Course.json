@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Learn how to install and properly configure VMware Workstation 12 Pro so that you can then create, configure and properly manage Virtual Machines. Virtual Machines based on Linux or Windows can be used in a wide array of environments, from building a home lab, testing, QA, software development, educational environments or business environments. There is no limit to the use-cases for Virtual Machines. They are an efficient and easy-to-manage medium that can run on one single physical machine. <br></p>\n\n<p><strong class=\"redactor-inline-converted\">Users of All Levels, Get Ready to Dive Into the World of Virtualization:</strong></p>\n\n\n\n<ul><li>Install and Understand VMware Workstation 12 Pro as a Platform.</li><li>Create, Delete and Clone Virtual Machines Quickly and Easily.</li><li>Convert Physical Machines to Virtual Machines</li><li>Configure Preferences, Hardware and Settings to Your Needs</li><li>Create and Manage Snapshots and Networking</li><li>Create Backups of VM's and Consider Best Practices</li></ul>\n\n\n\n<p><strong class=\"redactor-inline-converted\">Learn Virtualization, One of the Hottest and In-Demand Technologies Right Now:</strong><br></p>\n\n\n\n<ul><li>Virtual Machines Have Many Benefits:<ul><li>Increase Productivity (Less Time Spent Waiting for Environment to be Ready)</li></ul></li><ul><li>Lower Operating Costs (Power Consumption, Hardware Cost)</li><li>Make Testing and Learning Easy</li><li>Flexibility of Multiple Operating Systems in One Environment</li><li>Infinite Scalability and Expansion Opportunities.</li></ul></ul>\n\n\n\n<p><strong>Increase Your Employment Prospects:</strong></p>\n\n\n\n<ul><li>Most Small, Medium and Large Businesses I.T. Departments Are Already Virtualized</li><li>Employers Seek Talented and Knowledgeable I.T. Staff to Manage Virtual Environment</li><li>Creating a \"Home Lab\" Will Allow You to Remain Ahead of the Competition</li><li>You Will be Able to Learn Other Technologies More Efficiently</li></ul>\n\n\n\n\n\n\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "VMware Workstation Pro 12: A Virtualization Beginners Course", 
+    "price": "20.00", 
+    "instructors": "Asif Badar", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/831826_790b_2.jpg", 
+    "course_url": "https://www.udemy.com/vmware-workstation-pro-12/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-25T22:50:49Z"
+}

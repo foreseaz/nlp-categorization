@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>I've taken all the experience I've gained building apps and teaching new people how to build apps, and broke it down into just a handful of video lessons. This is the material I wish I had when I was first starting out.</p><p>Most people think that you need to be a genius to make an app. Well, I'm here to show you that that is absolutely false. This course is for everyone that has been interested in taking their first steps into iOS development. You'll learn the most modern techniques, and use Apple's new programming language, Swift.</p><p><strong>THE RIGHT AMOUNT OF INFORMATION</strong></p><p>Over 250 minutes of content. No one wants to be overwhelmed with material that they'll never get through. So, these videos are intentionally kept concise. There's no fluff or filler, just the information you need to know to start building apps. And each one comes with the same Xcode project files used during the lesson.</p><p><strong>THE PERFECT TRAINER</strong></p><p>I've ran my own app business, been the lead iOS engineer for many companies, and worked on award winning apps. My most recent app appeared in a keynote slide at the 2015 Apple Worldwide Developer Conference. Needless to say, you're in good hands.</p><p><strong>YOU'LL GET</strong></p><p>* 12 video lessons</p><p>* All project files used during the lessons</p>", 
+    "end_date": null, 
+    "title": "Learn how to make iOS apps. No coding experience required.", 
+    "price": "20.00", 
+    "instructors": "Adam Johnson", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/588974_415b_2.jpg", 
+    "course_url": "https://www.udemy.com/iosappcourse/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-21T01:01:57Z"
+}

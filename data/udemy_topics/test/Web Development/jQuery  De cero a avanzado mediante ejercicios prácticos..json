@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>El contenido del curso es robusto, y no sólo se enfoca en lo básico, vamos de la mano desde crear un pequeño evento, hasta crear cosas como plugins, slideshows, notificaciones, consumos de apis externas y mucho más!</p><p>He invertido muchas horas creando este curso, hay tareas, ejercicios y mucho material útil que te servirá para cualquier proyecto web que tengas.</p><p>Si no estas seguro, hay varias clases habilitadas de forma gratuita para que puedan ver la calidad del mismo.</p>", 
+    "end_date": null, 
+    "title": "jQuery: De cero a avanzado mediante ejercicios prácticos.", 
+    "price": "25.00", 
+    "instructors": "Fernando Herrera", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/452264_a199_2.jpg", 
+    "course_url": "https://www.udemy.com/jquery-de-cero-a-avanzado-mediante-ejercicios-practicos/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-20T15:13:35Z"
+}

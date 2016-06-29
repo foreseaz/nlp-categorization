@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">June 2016 Update: *** Four new videos added! ***</strong>\n</p>\n\n<p><em> - Over thirty minutes of new video lessons added!!! -</em></p>\n\n<p>I'm very happy to announce I've just added four new videos to the course, including an updated look at the MicroLogix 1000 hardware, a new video tour of the MicroLogix 1100, and a appendix video detailing all the parts used in the \"budget minded\" PLC test stand used in the course!</p>\n\n<p>--------------------------------------------------------------------------------------------------------------<br></p><p><strong class=\"redactor-inline-converted\">May 2016 Update: *** NEW PLC BASICS SECOND EDITION NOW LIVE!!! ***</strong><br></p>\n\n<p><em class=\"redactor-inline-converted\"> - Now with more examples, programs, and troubleshooting! -</em></p>\n\n\n\n\n\n\n\n\n\n<p>Nearly every single lesson of our 4.5 star rated \"first edition\" with students in over 45 countries has been re-recorded with higher quality audio and video for this new Second Edition!</p>\n\n\n\n\n\n\n\n\n\n<p>--------------------------------------------------------------------------------------------------------------</p>\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">In PLC Basics you'll learn everything you need to know to get started using and programming PLCs! </strong></p>\n\n\n\n\n\n<p>And you'll learn it from a <em class=\"redactor-inline-converted\">professional PLC programmer</em> with over <em class=\"redactor-inline-converted\">twenty five years</em> of real world PLC programming and troubleshooting experience.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>PLC Basics starts with an introduction for new users that covers what a PLCs is, where they are used, what styles and types they come in, what input and output devices are commonly wired to them, and where you can find free manuals and documentation for them.</p>\n\n\n\n\n\n\n\n\n\n<p>Next, for those students who've been out of school for a number of years, a refresher is provided that covers common numeral systems, types of numbers, units of information, and data types used with PLCs so all students will feel comfortable discussing Bits, Bytes, and Words, as well as Singed Integer and Floating Point Data Types.<br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>From there, <em class=\"redactor-inline-converted\">key concepts PLC programmers have to know</em> are introduced, including what components make up a PLC ladder logic program, as well as how those programs are scanned and solved by the PLC's processor. </p>\n\n\n\n\n\n\n\n\n\n<p>The instructor even demonstrates how students (in most countries) can freely download the three PLC programs used in this course right from Rockwell Automation! Perfect for anyone who want to follow along using a Windows 7 or XP compatible PC!</p>\n\n\n\n\n\n\n\n\n\n<p>Then for the majority of the course you'll learn to write, download, and test over a dozen PLC programs, all based on real world examples! </p>\n\n\n\n\n\n<p>In them, you'll learn how to use Bit, One Shot, Latch, Timer, Counter, Math, Compare, and File instructions with both the free PLC Emulator, as well as with Allen-Bradley PLCs using serial and Ethernet communications.<br></p>\n\n\n\n\n\n\n\n\n\n<p>And if you're not completely satisfied, and don't feel you can give PLC Basics a <em class=\"redactor-inline-converted\">full five stars</em> for meeting it's claim of being able to teach you how to use and program PLCs, you are encouraged to return it for a full refund using <em class=\"redactor-inline-converted\">Udemy's 30 day no questions asked guarantee!</em></p>\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">So what are you waiting for? </strong></p>\n\n\n\n\n\n<p>You no longer have to hope someone will take you under their wing, or that the boss will spend thousands of dollars to send you off to factory training!</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">With PLC Basics, you can learn how to use and program PLCs today!</strong></p>", 
+    "end_date": null, 
+    "title": "PLC Basics: Everything You Need To Know To Get Started!", 
+    "price": "50.00", 
+    "instructors": "Shawn Tierney", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/474314_01f7_4.jpg", 
+    "course_url": "https://www.udemy.com/plc-basics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-12T19:22:16Z"
+}

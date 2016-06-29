@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Digital Media & Video Games"
+    ], 
+    "description": "\n\n                    \n                    \n                    ¡Hola!\n \n¡Bienvenidos a Diseño de videojuegos: una introducción! El diseño de videojuegos es el arte de aplicar conceptos de diseño para crear la interacción entre jugadores. Es un ejercicio mental que requiere varios conocimientos en diferentes campos y la habilidad de comunicar qué es lo que se quiere lograr.\n \nEste curso hace parte del Programa desarrollo y diseño de videojuegos, de la Universidad de lo Andes, Colombia. En este ambiente de aprendizaje los estudiantes aprenderán las bases del diseño de videojuegos, aplicarán estas al diseño de juegos de acción y de plataformas en 2D y prepararán una especificación funcional en un documento de 10 puntos y no más de 10 páginas. Al final deben presentar un prototipo funcional en Unity del juego.\n \nSe recomienda que los participantes hayan tomado parte en el curso de \"Desarrollo de videojuegos en Unity: una Introducción\", pues para el desarrollo de los prototipos deberán tener conocimientos de programación en este motor de desarrollo de ambientes lúdicos y bajo control del usuario.\n\n                                            Syllabus\n                        ¡Bienvenido al curso introductorio de Diseño de Videojuegos!En este módulo inicial definirás de una manera general: ¿qué constituye un videojuego?. Estudiarás de dónde viene este tipo de juegos y qué tipo de personas están involucradas en su desarrollo. Empezarás a ver, analizar y dimensionar para quienes están dirigidos estos sistemas interactivos.Fundamentos de diseñoEn este módulo verás cómo se construye un juego, desde 0. Entenderás cómo se construyen las reglas que rigen los juegos y cómo funcionan las mecánicas que nacen de las reglas. Fundamentos de juegos de acción Durante este módulo te enfocarás en los juegos de acción, para lo cual analizarás cómo funcionan y cuáles son las características más importantes de este tipo de juegos. Fundamentos de juegos de plataformas en 2D\nDurante este módulo te enfocarás  en el diseño de un tipo de videojuego específico denominado  juego de plataforma en 2D. A lo largo del módulo analizarás cómo funciona y cuál es  la característica más importante, de este tipo de juego.\n\n                                    ", 
+    "end_date": "2016-07-11T00:00:00Z", 
+    "title": "Diseño de Videojuegos: Una introducción", 
+    "price": 0, 
+    "instructors": "Gabriel Vasco", 
+    "institution_name": [
+        "Universidad de los Andes"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Art & Design"
+    ], 
+    "course_url": "https://www.coursera.org/learn/diseno-videojuegos-intro", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-13T00:00:00Z"
+}

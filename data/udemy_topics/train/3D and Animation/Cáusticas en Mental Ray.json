@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t  En este curso vamos a ver como crear materiales que simulen el cristal en Mental Ray. Además vamos a configurar las luces, la escena y el render para crear fotones que se distribuyan a lo largo de la escena y se refracten creando un efecto denominado cáusticas.  </p>  <p>  \t 3dsMax es un programa de creación de gráficos y animación 3D desarrollado por Autodesk, en concreto la división Autodesk Media &amp; Entertainment (anteriormente Discreet). Creado inicialmente por el Grupo Yost para Autodesk, salió a la venta por primera vez en 1990 para DOS. 3ds Max, con su arquitectura basada en plugins, es uno de los programas de animación 3D más utilizado, especialmente para la creación de video juegos, anuncios de televisión, en arquitectura o en películas.  </p>  <p>  \t  Este curso es impartido por Dario González, artista apasionado por el dibujo, la animación, los efectos especiales y los videojuegos. Licenciado en Bellas Artes por la universidad Complutense de Madrid en el año 2009.  </p>  <p>  \t En este curso cubriremos los siguientes puntos:  </p>  <ul>  \t<li>Creación de escena y elementos</li>  \t<li>Iluminación</li>  \t<li>Creación y modificación de los materiales</li>  \t<li>Configuración del efecto de cáusticas</li>  \t<li>Aplicación de cáusticas a una superficie de agua</li>  </ul>", 
+    "end_date": null, 
+    "title": "Cáusticas en Mental Ray", 
+    "price": "20.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/184242_f249.jpg", 
+    "course_url": "https://www.udemy.com/causticas-en-mental-ray/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-17T21:55:08Z"
+}

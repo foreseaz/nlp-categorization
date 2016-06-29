@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course we will use Construct 2 (free version is ok) to create the first level of a platform game similar to Super Mario Bros. &nbsp;Platform games are a great way to get your feet wet in the world of game development.</p><p>I create the game used in the course from scratch once, and then recreate again while recording and explaining exactly what I am doing.</p><p>You will learn by watching the videos and following along at your own pace, pausing when needed. &nbsp;I try to pause at key spots to give you a chance to get a good look and understanding of what I am teaching. &nbsp;</p><p>If you are a beginner to Construct 2 or game design in general, this is a great class for you.</p><p>Source Code, Graphics, and Sound files are all included.</p>  ", 
+    "end_date": null, 
+    "title": "Platform Game Creation With Construct 2 (HTML5)", 
+    "price": "40.00", 
+    "instructors": "Ed Farias", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/57748_f17e_4.jpg", 
+    "course_url": "https://www.udemy.com/platform-game-creation-with-construct-2-html5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-02T04:38:29Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong>Core Java Programming 101</strong>  </p>  <p>  \tJava is arguably the single most important technology out there. Your adventure starts here. Core Java Programming is an excellent introduction in to the world of Java programming. The instructor will take you through the basics of Java syntax and the complexities of Object Oriented Programming. This course is a stand-alone course, however it would be a huge aid to the online student who is taking a self-directed course, an individual who is trying to learn how to program.  </p>  <p>  \t   At the end of this course, you will be well versed with how to program in Java from the very basic level to an intermediate level of programming. This course will take you through the Feature and Overview, Exception Handling in Java, Threading in Java, Collection Framework, File I/O in Java, Java Applets, Abstract Window Toolkit in Java, Event Handling in Java, Layout Managers in Java, Swing in Java, Socket Programming in Java.  </p>", 
+    "end_date": null, 
+    "title": "Core Java Programming", 
+    "price": "20.00", 
+    "instructors": "Parallel Branch Inc", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/169530_ad8a_3.jpg", 
+    "course_url": "https://www.udemy.com/core-java-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-21T08:52:01Z"
+}

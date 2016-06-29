@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t    This beginning course will walk the learner through the basics of Selenium-WebDriver test automation in the Java programming language.  </p>  <p style=\"\">  \t    This includes common WebDriver commands, WebDriverWait and AJAX elements, invoke browsers in parallel using FirefoxDriver, ChromeDriver, SafariDriver, and InternetExplorerDriver. Analyze web pages to model and create Page Objects, and use the Page Factory. Use locator strategies to identify WebElements by ID, Name, CSS Selectors and XPath.  </p>  <p style=\"\">  \t    Explore the JUnit and TestNG unit test frameworks for UI test scripts, test suites, parameters, execution, and reporting. ANT and Maven project management, builds, and command line execution.  </p>  <p style=\"\">  \t    This course includes 3.5 hours of instructional videos and 25 pages of instructional procedures including complete project code.  </p>", 
+    "end_date": null, 
+    "title": "Beginning Selenium WebDriver and Java Training", 
+    "price": "25.00", 
+    "instructors": "Martin Lienhard", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/204258_66f6_3.jpg", 
+    "course_url": "https://www.udemy.com/beginning-webdriver-and-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-24T02:26:56Z"
+}

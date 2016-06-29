@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Citrix XenDesktop 7.6 course provides\nstudents with the skills required to successfully deploy a complete Citrix\nhosted application and desktop virtualization solution in a Windows Server 2012\nR2 environment. Throughout this course, students will learn how to configure an\nenvironment that includes the Different Citrix XenDesktop 7.6 components which required in a XenApp/ XenDesktop 7.6 implementation, the FMA-based architecture, as well as key use cases.  Upon course completion, students will be able\nto build a XenDesktop 7.6 environment from scratch and test the implementation\nto ensure that all components work as expected and that both internal and\nexternal end users can access XenDesktop resources successfully.</p>", 
+    "end_date": null, 
+    "title": "Citrix XenDesktop 7.6 - Deploying App and Desktop Solutions", 
+    "price": "50.00", 
+    "instructors": "24 Directlearning", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/659202_feb9_5.jpg", 
+    "course_url": "https://www.udemy.com/citrix-xendesktop-76-deploying-app-and-desktop-solutions/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-03T18:24:50Z"
+}

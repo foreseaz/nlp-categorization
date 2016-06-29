@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Bioinformatics"
+    ], 
+    "description": "\n\n                    \n                    \n                    Biologists still cannot read the nucleotides of an entire genome as you would read a book from beginning to end. However, they can read short pieces of DNA. In this course, we will see how graph theory can be used to assemble genomes from these short pieces. We will further learn about brute force algorithms and apply them to sequencing mini-proteins called antibiotics. Finally, you will learn how to apply popular bioinformatics software tools to sequence the genome of a deadly Staphylococcus bacterium.\n\n                                            Syllabus\n                        Week 1How Do We Assemble Genomes? (Part 1/2)Week 2How Do We Assemble Genomes? (Part 2/2)Week 3How Do We Sequence Antibiotics? (Part 1/2)Week 4How Do We Sequence Antibiotics? (Part 2/2)Week 5Bioinformatics Application Challenge!\n                                    ", 
+    "end_date": "2016-07-25T00:00:00Z", 
+    "title": "Genome Sequencing (Bioinformatics II)", 
+    "price": 0, 
+    "instructors": "Pavel  Pevzner and Phillip Compeau", 
+    "institution_name": [
+        "University of California, San Diego "
+    ], 
+    "commitment": "4-10 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/learn/genome-sequencing", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-20T00:00:00Z"
+}

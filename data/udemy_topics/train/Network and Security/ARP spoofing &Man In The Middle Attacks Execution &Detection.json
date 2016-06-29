@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\"><em style=\"\">Notes:</em></p><ul style=\"\"><li style=\"\"><em style=\"\"> All the videos in this course are downloadable.</em></li><li style=\"\"><em style=\"\">This price is only for the 1st 1000 students, the price will go up after that.</em></li></ul><p style=\"\">In this course you will start as a <strong style=\"\">beginner</strong> with no previous knowledge about penetration testing. The course is structured in a way that will take you through the basics of networking and how clients communicate with each other, then we will start talking about how we can exploit this method of communication to carry out a number of powerful attacks.</p><p style=\"\">This course is focuses on the <strong style=\"\">practical</strong> side of wireless penetration testing without neglecting the theory behind each attack, all the attacks explained in this course are launched against real devices in my lap.</p><p style=\"\">The Course is Divided into four main sections:</p><ol style=\"\"><li style=\"\"><em style=\"\">Networks Basics</em>: in this section you will learn how networks work, how devices communicate with each other and how the information is transferred in a wireless networks. You will also learn about basic terminology, what is a channel ? What is MAC address and how to change it ?</li><li style=\"\"><em style=\"\">Information Gathering</em>: In this section you will learn how to map the current network, ie: <strong style=\"\">discover all the connected devices</strong> (clients), not only that but you will also learn how to <strong style=\"\">gather important information</strong> about these clients, such as their MAC address, their IP, Operating system, open ports, programs that are using these ports and maybe even the exact version of the program.</li><li style=\"\"> <em style=\"\">MITM Attacks</em>: in this section you will learn a number of very powerful attacks that you can launch against the network and the connected clients, these attacks will allow you to gain <strong style=\"\">access to any account accessed by any client</strong> connected to your network, read all the traffic used by these clients (<strong style=\"\">images , videos , audio passwords, cookies, urls</strong> ...etc), and <strong style=\"\">gain full access to any client in your network</strong>. </li><li style=\"\">Protection: In this section you will learn how to <strong style=\"\">detect</strong> these attacks and <strong style=\"\">protect</strong> yourself and your network against them.</li></ol><p style=\"\">All the attacks in this course are <strong style=\"\">practical</strong> attacks that work <strong style=\"\">against any device</strong> connected to our network, ie: it does not matter if the device is a phone , tablet laptop ...etc. Each attack is explained in a simple way first so that you understand how it actually works, so first you will learn the theory behind each attack and then you will learn how to carry out the attack using Kali Linux.</p><p style=\"\"><em style=\"\">NOTE: This course is totally a product of Igneus Technologies and No other organization is associated for certification exam for the same. Although, you will receive Course Completion Certification from Udemy, apart from that No OTHER ORGANIZATION IS INVOLVED.</em></p>", 
+    "end_date": null, 
+    "title": "ARP spoofing &Man In The Middle Attacks Execution &Detection", 
+    "price": "20.00", 
+    "instructors": "Zaid Sabih", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/408082_2360_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-practical-attacks-against-network-clients/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-29T22:25:20Z"
+}

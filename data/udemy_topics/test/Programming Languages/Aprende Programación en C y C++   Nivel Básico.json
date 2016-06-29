@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">C++ es un<em style=\"\"> lenguaje de programación</em> diseñado a mediados de los años 1983 por Bjarne Stroustrup. La intención de su creación fue el extender al exitoso lenguaje de programación C. En ese sentido, veremos la resolucion de diversos problemas con diferentes niveles.</p><p style=\"\">En este curso veremos la resolucion de muchos problemas donde tendremos los siguientes niveles: </p><p style=\"\">- <u style=\"\">Problemas Resueltos Nivel 1 - Operadores</u></p><p style=\"\">- <u style=\"\">Problemas Resueltos Nivel 2 - Condicionales</u></p><p style=\"\">- <u style=\"\">Problemas Resueltos Nivel 3 - Ciclos</u></p><p style=\"\">- <u style=\"\">Problemas Resueltos Nivel 4 - Vectores</u></p><p style=\"\">- <u style=\"\">Problemas Resueltos Nivel 5 - Arreglos</u></p><p style=\"\">- <u style=\"\">Problemas Resueltos Nivel 6 - Funciones</u></p><p style=\"\">- <u style=\"\">Problemas Resueltos Nivel 7 - Estructuras</u></p><p style=\"\">- <u style=\"\">Problemas Resueltos Nivel 8 - Punteros</u></p><p style=\"\">Todos los niveles tendran 20 problemas resueltos cada uno, y de esa manera podras tener un mejor aprendizaje, con un entorno muy practico. ((CURSO AUN POR TERMINAR))</p>", 
+    "end_date": null, 
+    "title": "Aprende Programación en C y C++ : Nivel Básico", 
+    "price": "20.00", 
+    "instructors": "Alejandro Miguel Taboada Sanchez", 
+    "commitment": "17.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/484388_ab1c.jpg", 
+    "course_url": "https://www.udemy.com/resolviendo-problemas-con-c/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-23T15:39:24Z"
+}

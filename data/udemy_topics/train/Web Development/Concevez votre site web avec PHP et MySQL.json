@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>Blogs, réseaux sociaux, pages d&#039;accueil personnalisables... Depuis quelques années, les sites web ont gagné en fonctionnalités et sont devenus dans le même temps de plus en plus complexes. </span><span>Aujourd&#039;hui, </span><em>il faut que ça bouge</em><span> ! On s&#039;attend à ce qu&#039;un site soit régulièrement mis à jour : on veut voir des actualités sur la page d&#039;accueil, on veut pouvoir les commenter, discuter sur des forums, bref, participer à la vie du site.</span>  </p>  <p>  \tLe <strong>langage PHP</strong> a justement été conçu pour créer des sites &quot;vivants&quot; (on parle de sites dynamiques). <span>Vous connaissez le HTML et vous avez toujours rêvé de créer, vous aussi, un site web dynamique, avec votre propre blog, vos forums et votre espace membres ?</span>  </p>  <p>  \tC&#039;est votre jour de chance : vous êtes sur un cours pour vrais <strong>débutants</strong> en PHP et MySQL ! Vous vous étonnerez bientôt de ce que vous êtes capable de faire !  </p>", 
+    "end_date": null, 
+    "title": "Concevez votre site web avec PHP et MySQL", 
+    "price": 0, 
+    "instructors": "Mathieu Nebra", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/334044_b1b2.jpg", 
+    "course_url": "https://www.udemy.com/concevez-votre-site-web-avec-php-et-mysql/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-02T13:04:50Z"
+}

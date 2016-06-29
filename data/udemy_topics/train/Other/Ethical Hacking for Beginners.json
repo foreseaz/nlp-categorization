@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t               Learning hacking is very diffucult. Unlike programming or any other thing you have to work really hard to get to know something. Because there are closed communities, not especially friendly to people from \"outside\". A lot of people complained about it before they started the training. Almost everyone experienced rejection and almost everyone did not know how to make the first step. People just want to learn fast and good because of that we offer solid good information for beginners.  </p>  <p>  \t                                     In this video series you will learn various way of hacking. <strong>Our aim is teaching basics</strong> <strong>about Penetration Testing and ethical hacking</strong> in this lessons. Because <strong>basics are very important</strong>. <strong>You can't continue to learn advanced techniques and things without knowing basics of ethical hacking.</strong> After this good basic knowledge you can easily improve yourself and continue to learn without a lot of effort.  </p>  <p>  \t                          We will teach <strong>how to do hacking in real life not just theory</strong>. <strong>We will do a lot of DEMO in this video series to understand topic much better. The topics that we are going to learn;</strong>  </p>  <p>  \t<strong>Kali Linux:</strong>  </p>  <p>  \t                                     You will learn Kali Linux which is specially designed Linux distrubution for Penetration Tester.  </p>  <ul>  \t<li>Installation of Kali Linux OS</li>  \t<li>Basic usage of Linux</li>  </ul>  <p>  \t<strong>Metasploit:</strong>  </p>  <p>  \t                                     You will learn exploiting security vulnerabilities with Metasploit Framework. It is a very popular program amongst Penetration Testers which have a very big exploit collection.  </p>  <ul>  \t<li>Metasploit framework</li>  \t<li>Exploiting a vulnerability with Metasploit framework</li>  \t<li>Client Side Attacks</li>  </ul>  <p>  \t<strong>Trojan:</strong>  </p>  <p>  \t                                  You will learn how can make trojan, how to detect trojan in your systems and how can you hide trojan file from antivirus programs.  </p>  <ul>  \t<li>Making trojan file</li>  \t<li>Creating and managing a botnet</li>  \t<li>Hiding trojan file from antivirus programs</li>  \t<li>Detecting trojans in your systems</li>  </ul>  <p>  \t<strong>Sniffers:</strong>  </p>  <p>  \t                                  In this section you will learn how can you capture network traffic packages, how can you analyze and find usefull information in this packages. You will learn arp poisoning, dns spoof attacks.  </p>  <ul>  \t<li>Capturing network traffics</li>  \t<li>Data mining from captured network traffics</li>  \t<li>Arp poisoning attack</li>  \t<li>Dns spoof attack</li>  </ul>  <p>  \t                         Just try our course. You will not regret. If you don't like it you can take your money back without answering any question.  </p>  <p>  \t<strong>** OUR COURSE HAS SUBTITLES. SO YOU DONT NEED TO AFRAID OF NOT UNDERSTAND THE COURSE ***</strong>  </p><p><strong>** YOU CAN CONTACT ME FOR DISCOUNT COUPONS **</strong></p>", 
+    "end_date": null, 
+    "title": "Ethical Hacking for Beginners", 
+    "price": "50.00", 
+    "instructors": "Gökhan OKUMUŞ", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/252118_c27a_2.jpg", 
+    "course_url": "https://www.udemy.com/ethical-hacking-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-28T17:00:58Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>After getting a good response on this course, I am changing the price to 10$ original was 30$ for a limited time only.</p><p>Hello, In this course we are going to learn a new thing in Android Development. We will create an app using the Android Studio, which is now the official IDE of Android. In this app, we will use a feed from a WordPress blog that will show its recent post and they will be sent to the app. A user will have the option to choose any post he wants to read and he can share it as well. </p><p>There are no special materials, you are going to need for this course. You will only going to need the Android Studio, Java Development Kit (JDK), Android SDK (comes with Android Studio), and Genymotion emulator. All the things are free and can be downloaded easily from their official site. I will teach you how to setup the Android Studio, how to set up the WordPress to show the JSON feed and after that how to setup the Genymotion Emulator to work with Android Studio.<br style=\"\"></p><p>This course is not that big and I have also omitted the materials which are not necessary. You can easily complete this course in a week and if you got any doubt then I will be there to solve it as well.</p><p>You do not need to have a working knowledge of Android for this course. Anyone who is willing to increase their knowledge about Android programming can this course. Making an app like this will be fun and you will also learn some very interesting things out of this course as well.</p><p>You will learn to parse the JSON data, how to handle the errors, how to make alert dialog box, how to use intent and how to use the Webview and process bar. It will going to be a great journey, so click the button and start the course !!</p>", 
+    "end_date": null, 
+    "title": "Android - Create A BlogReader App with Android and WordPress", 
+    "price": "20.00", 
+    "instructors": "Rohit Sharma", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/389678_6523_3.jpg", 
+    "course_url": "https://www.udemy.com/android-create-a-blogreader-app-with-android-and-wordpress/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-09T18:32:11Z"
+}

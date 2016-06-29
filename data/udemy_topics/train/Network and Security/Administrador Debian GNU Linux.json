@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \tAprender&aacute;s los principios necesarios para iniciarte como usuario avanzado en Debian GNU/Linux. Veremos comandos, manipulaci&oacute;n de usuarios, grupos y propiedades del sistema entre otras que son algunos de los temas que aprender&aacute;s en este curso.<br style=\"\">  \t<br style=\"\">  \tPasar&aacute;s de ser un usuario principante de Linux a un usuario con conocimientos medios a quiz&aacute;s uno avanzado en ciertos temas trabajando con herramientas del sistema operativo Debian GNU/Linux.<br style=\"\">  \t<br style=\"\">  \tEl mundo de la inform&aacute;tica evoluciona a pasos enormes y la demanda de usuarios con conocimientos en estos sistemas operativos es bastante. Muchas empresas est&aacute;n optando por implementar sus servicios en estos sistemas operativos as&iacute; que an&iacute;mate que no hay mejor inversi&oacute;n que la educaci&oacute;n.<br style=\"\">  \t<br style=\"\">  \tPara motivar tu aprendizaje estar&eacute; disponible las primeras 48 horas para guiarte paso a paso y responder a cualquier interrogante que tengas.  </p>", 
+    "end_date": null, 
+    "title": "Administrador Debian GNU/Linux", 
+    "price": "20.00", 
+    "instructors": "Ricardo Párraga", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/129038_8df5_6.jpg", 
+    "course_url": "https://www.udemy.com/administrador-debian-gnu-linux/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-04T15:12:06Z"
+}

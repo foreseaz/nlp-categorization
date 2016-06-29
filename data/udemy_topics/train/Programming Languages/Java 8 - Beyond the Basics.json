@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tIf you have a basic understanding of Java but feel ready to start digging deeper, this is the course for you. It&#039;s the perfect followup to our Java 8 beginners tutorial, but also suitable for those who&#039;ve worked through other introductions, as well.  </p>  <p style=\"\">  \tYou will start with a quick review of Java, then jump into learning about object inheritance, interfaces, abstract classes, and polymorphism. From there, Brian will teach you about exceptions and string manipulation, including custom exceptions, checked and unchecked exceptions, and the string tokenizer. This video tutorial also covers topics such as file and binary serialization, database operations using Java and JDBC, basic GUI programming, and generic programming and iteration. You will also learn about additional data structures and concepts, such as the collection interface, working with the vector, working with the queue, and examination of the HashMap. Finally, you will cover multi-threading and networking, lambda programming, and Spring tools.  </p>  <p style=\"\">  \t<span style=\"\">Once you have completed this computer based training course, you will have developed a deeper working knowledge of Java 8 and the Eclipse IDE.</span>  </p>", 
+    "end_date": null, 
+    "title": "Java 8 - Beyond the Basics", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/389522_58b5_4.jpg", 
+    "course_url": "https://www.udemy.com/java-8-beyond-the-basics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-09T14:43:21Z"
+}

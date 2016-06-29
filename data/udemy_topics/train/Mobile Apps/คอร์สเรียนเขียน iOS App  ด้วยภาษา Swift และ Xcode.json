@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>หลักสูตรนี้ เหมาะสำหรับ ผู้เริ่มต้น พัฒนา App บน iOS ด้วย Xcode</strong></p><p>หากคุณกำลังหาคอร์สเรียนที่จะเรียนแบบง่ายๆ สบายๆ สไตล์ง่ายๆไม่เน้นการสอนแบบเข้าใจยากแบบอาจารย์สอน ลักษณะการทำให้ดูได้เห็นผลลัพธ์แบบง่ายๆ พร้อมกับมี workshop ให้ดาวน์โหลดทำตาม คอร์สนี้เหมาะสำหรับคุณครับ เริ่มจาก คุณไม่มีพื้นฐานอะไรเลย จนคุณมี app เล็กๆเป็นของคุณเองตาม workshop ในตัวอย่าง คุณจะเข้าใจถึงการใช้ GUI ต่างๆ และการใช้งานมันแบบง่ายๆไปประยุกต์ในงานของคุณเองพร้อมต่อยอดในอนาคตได้อย่างดี</p><p><strong>เนื้อหาในหลักสูตร</strong><br></p><ol><li>เรียนรู้พื้นฐานของ Mobile App ด้วย Xcode และภาษา Swift</li><li>รู้จักกับการใช้ Xcode IDE และขั้นตอนการใช้งานจริง</li><li>พื้นฐาน ภาษา Swift พร้อมกับเขียนควบคู่ไปกับการใช้งาน GUI</li><li>เข้าใจลักษณะการทำงานของ GUI และนำไปใช้งานจริงได้</li><li>สร้างและเรียนรู้เกี่ยวกับการเก็บข้อมูล ด้วย mysql lite</li><li>การใช้งาน Core Image สร้าง app แนว instagram</li><li>สร้าง App กล้อง และทดสอบผ่าน อุปกรณ์จริงผ่าน iphone</li></ol><p><strong>เวลาที่ใช้ในการเรียน</strong></p>\n\n<ul><li>ไม่เกิน 24 ชม สรุปในกระชับไม่เสียเวลา</li></ul>\n\n<p><strong>ลักษณะการเรียน</strong></p>\n\n<ol><li><strong>ทำความ</strong><strong>เข้าใจ</strong> - อธิบายถึงหลักการข้างต้นทั้งหมดในวิดีโอให้ผู้เรียนทำตาม</li><li><strong>ดูและทำตาม</strong> - ดาวน์โหลดไฟล์ Workshop แล้วทำตามในวิดีโอที่สอน</li></ol><p><br></p>", 
+    "end_date": null, 
+    "title": "คอร์สเรียนเขียน iOS App  ด้วยภาษา Swift และ Xcode", 
+    "price": "20.00", 
+    "instructors": "Thirawut Phetyoi", 
+    "commitment": "13 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/807040_4ae0_2.jpg", 
+    "course_url": "https://www.udemy.com/ios-app-swift-xcode/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-29T08:59:15Z"
+}

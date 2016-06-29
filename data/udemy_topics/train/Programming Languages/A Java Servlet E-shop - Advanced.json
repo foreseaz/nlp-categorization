@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<em style=\"\"><strong style=\"\">&quot;yaebookshop&quot; (aka - yet another e-bookshop)</strong></em>  </p>  <p>  \t           In this series, we shall develop an &quot;<strong style=\"\">e-shop</strong>&quot; based on the Java <strong style=\"\">Servlet Technology</strong>. This e-shop is a typical Internet <em style=\"\">business-to-consumer</em> (B2C) <em style=\"\">3-tier client/server database application</em>,. The course is not meant to be a Java tutorial, and basic knowledge of java is desired. Having said that some java will be thought when we are covering Servlet. Throughout the course, we will be using <strong style=\"\">Apache </strong><strong style=\"\">Tomcat, </strong><strong style=\"\">MySql </strong>Server and <strong style=\"\">Eclipse </strong>IDE.  We will see how to set a <strong style=\"\">Connection Pool</strong> using <strong style=\"\">JNDI Initial Context.</strong>  </p>  <p>  \t        We will also create a basic<strong style=\"\"> Session Management</strong><em style=\"\"><strong style=\"\">(aka &quot;Shopping Cart&quot;), </strong>and much more.</em>  </p>  <p>  \t<strong style=\"\">Note: It would be nice if you can complete my course <em style=\"\">&quot;Java Servlet (e-shop)&quot;, </em>hosted on Udemy - However this is NOT a prerequisite.</strong>  </p>", 
+    "end_date": null, 
+    "title": "A Java Servlet E-shop - Advanced", 
+    "price": "20.00", 
+    "instructors": "Johnny Karkar", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/162434_f481_3.jpg", 
+    "course_url": "https://www.udemy.com/a-java-servlet-e-shop-advanced/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-11T23:26:24Z"
+}

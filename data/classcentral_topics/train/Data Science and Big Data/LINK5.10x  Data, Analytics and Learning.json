@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    Capturing and analyzing data has changed how decisions are made and resources are allocated in businesses, journalism, government, and military and intelligence fields. Through better use of data, leaders are able to plan and enact strategies with greater clarity and confidence. Data drives increased organizational efficiency and a competitive advantage. Simply, analytics provide new insight and actionable intelligence.\n\nIn education, the use of data and analytics to improve learning is referred to as learning analytics. Analytics have not yet made the impact on education that they have made in other fields. That’s starting to change. Software companies, researchers, educators, and university leaders recognize the value of data in improving not only teaching and learning, but the entire education sector. In particular, learning analytics enables universities, schools, and corporate training departments to improve the quality of learning and overall competitiveness. Research communities such as the International Educational Data Mining Society (IEDMS) and the Society for Learning Analytics Research (SoLAR) are developing promising models for improving learner success through predictive analytics, machine learning, recommender systems (content and social), network analysis, tracking the development of concepts through social systems, discourse analysis, and intervention and support strategies. The era of data and analytics in learning is just beginning.\n\nData, Analytics, and Learning provides an introduction to learning analytics and how it is being deployed in various contexts in education, including to support automated intervention, to inform instructors, and to promote scientific discovery. Additionally, we will discuss tools and methods, what skills data scientists need in education, and how to protect student privacy and other rights. The course will provide a broad overview of the field, suitable for a broad audience. Learners will explore the logic of analytics, the basics of finding, cleaning, and using educational data, predictive models, text analysis, and activity graphs and social networks. We will discuss use of analytics in data domains such as log files and text data.  Tableau Software is partnering with University of Texas Arlington to provide analytics software to course participants as well as technical support and guest lectures. Additional software will be introduced and discussed throughout the course.\n\nHow this course works:\n\nThis course will experiment with multiple learning pathways. It has been structured to allow learners to take various pathways through learning content - either in the existing edX format or in a social competency-based and self-directed format. Learners will have access to pathways that support both beginners, and more advanced students, with pointers to additional advanced resources. In addition to interactions within the edX platform, learners will be encouraged to engage in distributed conversations on social media such as blogs and Twitter.\n\n                                    ", 
+    "end_date": "2014-12-15T00:00:00Z", 
+    "title": "LINK5.10x: Data, Analytics and Learning", 
+    "price": 0, 
+    "instructors": "Dragan Gasevic, Carolyn Rosé, Ryan Baker and George Siemens, Ph.D.", 
+    "institution_name": [
+        "University of Texas Arlington"
+    ], 
+    "commitment": "5 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/data-analytics-learning-utarlingtonx-link5-10x", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2014-10-20T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  * This course encountered a code change in late 2014 which made it obsolete. We have re-shot the entire series for 2015, so you can now learn PHP MVC with confidence.  </p>  <p>  \t    In this course you will learn how PHP Model View Controllers (PHP MVC) work and how to create one yourself.  </p>  <p>  \t    Using the open source and well documented PHP MVC Project as a starting point, you will learn how to incorporate Model View Controllers into your development and solidify your skills by building your own MVC based framework.  </p>  <p>  \t<strong style=\"\">What Is Model-View-Control?</strong>  </p>  <p>  \t    The Model-View-Control (MVC) pattern, originally formulated in the late 1970s, is a software architecture pattern built on the basis of keeping the presentation of data separate from the methods that interact with the data. In theory, a well-developed MVC system should allow a front-end developer and a back-end developer to work on the same system without interfering, sharing, or editing files either party is working on.  </p>  <p>  \t    Even though MVC was originally designed for personal computing, it has been adapted and is widely used by web developers due to its emphasis on separation of concerns, and thus indirectly, reusable code. The pattern encourages the development of modular systems, allowing developers to quickly update, add, or even remove functionality.  </p>", 
+    "end_date": null, 
+    "title": "Learn PHP Model View Controller Pattern (PHP MVC)", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/227826_a3b3_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-php-model-view-controller-pattern-php-mvc/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-23T21:08:21Z"
+}

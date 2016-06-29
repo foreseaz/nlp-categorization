@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Overview: </strong>  </p>  <ul style=\"\">  \t<li style=\"\">·Our Video courses: practical screencast-based tutorials that show you how to get the job done. </li>  \t<li style=\"\">3 live practice tests covers all possible questions of ODI 11g certification exam where each test consists of live 71 questions. Each video tutorial section is followed by a quiz to test your skills. </li>  \t<li style=\"\">·Develop the necessary skills for effectively carrying out data integration and transformations in ODI11g interfaces</li>  \t<li style=\"\">·Understand the use of ODI11g development objects with methods and concepts illustrated from real projects</li>  \t<li style=\"\">·Master the key concepts of ODI 11g’s physical and logical architecture and the use of Knowledge Modules and data models</li>  \t<li style=\"\">·<strong style=\"\">It covers complete ODI 11g Developer &amp; Administrator video Tutorials</strong></li>  </ul>  <p style=\"\">  \t<br style=\"\">  \t<strong style=\"\"></strong>  </p>  <p style=\"\">  \t<strong style=\"\">What You will learn:</strong>  </p>  <p style=\"\">  \t      Oracle Data Integrator is a comprehensive data integration platform that covers all data integration requirements: from high-volume, high-performance batch loads, to event-driven integration processes and SOA-enabled data services. Oracle Data Integrator&#039;s Extract, Load, Transform (E-LT) architecture leverages disparate RDBMS engines to process and transform the data - the approach that optimizes performance, scalability and lowers overall solution costs.  </p>  <p style=\"\">  \t      This offering details on how to use Oracle Data Integrator (ODI) 11g to implement high-performance movement and transformation of data among various platforms. It also deals with usage of ODI 11g graphical user interfaces that enable user to access different ODI 11g components and resources that form ODI 11g infrastructure. Using the graphical interfaces, you create and manage ODI 11g repositories, which stores configuration information about the IT infrastructure, the metadata for all applications, projects, models and other ODI artifacts. You also learn how to create the ODI 11g Topology, organize ODI 11gmodels and design ODI 11g interfaces, procedures, packages and other objects.  </p>  <p style=\"\">  \t      Oracle Data Integrator (ODI) 11g is Oracle’s strategic tool covering all your data integration requirements. ODI 11g lets you write custom code easily, extract data from source files, transform data in a staging area, and load this data to your target database. So, if you are a database administrator with an aim to effectively use ODI 11g as a powerful tool for data integration solutions, it’s time you started making the most of it.  </p>  <p style=\"\">  \t<br style=\"\">  \t<strong style=\"\"></strong>  </p>  <p style=\"\">  \t<strong style=\"\">16 key Reasons to buy this course:</strong>  </p>  <p style=\"\">  \t      1. 24/7 Course Access for lifetime  </p>  <p style=\"\">  \t      2. As interactive as Classroom training  </p>  <p style=\"\">  \t      3. Very Cost effective  </p>  <p style=\"\">  \t      4. Advanced way of teaching  </p>  <p style=\"\">  \t      5. In depth explanation of each topic  </p>  <p style=\"\">  \t      6. Contains Hands on sessions  </p>  <p style=\"\">  \t      7. Any New module will be without additional charge  </p>  <p style=\"\">  \t      8. No travel and Hassel  </p>  <p style=\"\">  \t      9. Learn as per your comfort  </p>  <p style=\"\">  \t      10. Real time scenarios Hands on  </p>  <p style=\"\">  \t      11. Practice at Home using Virtual Machine  </p>  <p style=\"\">  \t      12. Free installation of ODI 11g software in your laptop  </p>  <p style=\"\">  \t      13. 100% Support will be provided to practice the Hands on&#039;s  </p>  <p style=\"\">  \t      14. More than 50 videos as on date (08-04-2014).  </p>  <p style=\"\">  \t      New videos will be added every week  </p>  <p style=\"\">  \t      15.Covers complex scenarios to aim ODI 11g certification  </p>  <p style=\"\">  \t      16. Covers most of the scenarios from ODI 11g blogs  </p>", 
+    "end_date": null, 
+    "title": "ODI 11g Hands On Tutorials", 
+    "price": "50.00", 
+    "instructors": "Ramkumar Lanke", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/60311_2c0e_5.jpg", 
+    "course_url": "https://www.udemy.com/odi11gvideos/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-16T02:53:22Z"
+}

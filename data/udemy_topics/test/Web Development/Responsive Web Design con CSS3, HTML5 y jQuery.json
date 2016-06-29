@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tAprenderás lo básico de Responsive Web Design, algunos términos importantes como Mobile First, los principales errores a la hora de desarrollar para móviles, las soluciones más importantes. Así como las herramientas necesarias para Responsive Design modernas y estables.  </p>  <p>  \tComenzaremos el curso con una introducción a media queries de CSS3, pero rápidamente nos moveremos a un caso práctico utilizando las mejores prácticas para Responsive Web Design.  </p>  <p>  \tEl curso esta acompañado con ejemplos para trabajar con Formularios, Tablas, Videos, Slideshow, Lightbox, Menú, etc. Y como desarrollar para dispositivos móviles.  </p>  <p>  \tTerminaremos el curso con una introducción a los Frameworks CSS para desarrollar para móviles como son Foundation y Bootstrap, haremos un ejemplo con ellos para que sepas como implementarlos en tu trabajo diario.  </p>", 
+    "end_date": null, 
+    "title": "Responsive Web Design con CSS3, HTML5 y jQuery ", 
+    "price": "20.00", 
+    "instructors": "Juan Pablo De la torre Valdez", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/280926_9bb9_3.jpg", 
+    "course_url": "https://www.udemy.com/responsive-web-design-con-css3-html5-y-jquery/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-14T13:02:58Z"
+}

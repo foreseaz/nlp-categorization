@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>First of all Congratulations for taking this course! Don't be surprised with the title of the course as it is well beyond what a test engineer uses in a day to day professional life. The course is not complete, i mean it will never be complete as i plan to add additional stuff every now and then to keep you abreast with the changes happening in and around the JUnit and what projects are being developed on top of the JUnit Framework. Never shy away from constructive criticism as that is what will help as food for this course and help make this course more robust. So, with no further delay lets start the journey, am as excited as you are with this course. </p>", 
+    "end_date": null, 
+    "title": "Basics of JUnit Framework", 
+    "price": "20.00", 
+    "instructors": "Khaja Mohammed", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/606602_ea28_3.jpg", 
+    "course_url": "https://www.udemy.com/basics-of-junit-framework/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-09T02:38:53Z"
+}

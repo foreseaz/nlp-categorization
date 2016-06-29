@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    Este curso intenta responder a las nuevas necesidades y demandas que han surgido recientemente en la sociedad actual donde cada vez más la cantidad de datos y variables que rodean a la solución de un problema se incrementa de forma exponencial día a día. El objetivo del curso es proporcionar las bases necesarias para comprender y resolver la problemática de encontrar valores añadidos de los propios datos de un negocio utilizando herramientas dentro del campo del Big Data. Estas bases incluyen conocimientos generales sobre el paradigma Big Data, aspectos de seguridad, privacidad, coste, interfaces y el uso de técnicas de minerías de datos aplicadas al Big Data.\r\n \n\n                                    ", 
+    "end_date": "2016-06-01T00:00:00Z", 
+    "title": "Big Data: el valor añadido de los datos en su negocio", 
+    "price": 0, 
+    "instructors": "Andrés Bueno Crespo and Andrés Muñoz Ortega", 
+    "institution_name": [
+        "Universidad Católica de Murcia"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://miriadax.net/web/big-data-el-valor-anadido-de-los-datos-en-su-negocio", 
+    "duration": "7 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Miríada X"
+    ], 
+    "start_date": "2016-04-13T00:00:00Z"
+}

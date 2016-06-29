@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Forget working with long, boring lines of code! With Django at your command, make the most of your time by building professional grade web applications in minutes. With the help of a suite of useful and time-saving tools, reduce or eliminate the work needed for the most common tasks to create highly functional and flexible apps.</p><p style=\"\">Learning Django Web Development will help you build a solid foundation for constructing your own web applications as quick as it gets.</p><p style=\"\">Start off by installing Django and initializing your project. Analyze Django&#039;s in-built admin interfaces and utilize them to handle your application content. Furthermore, manage the data using generic views and auto-generated forms. With that, create an authentication system for your app by using login forms and finally walk through the process of deploying your application to the web.</p><p style=\"\">Towards the end of the course, you&#039;ll know everything there is to know from creating your app to deploying it with the help of the invaluable features of Django.</p><p style=\"\"><strong style=\"\">About the Author</strong></p><p style=\"\"><strong style=\"\">Matthew Nuzum </strong>has been developing web applications since 1999 and has worked for several start-ups including Canonical, the makers of Ubuntu, as well as Fortune 500 companies. He has a passion for helping others learn new technologies and has written numerous tutorials and help documents as well as running a web-focused user group based in his hometown of Des Moines.</p>", 
+    "end_date": null, 
+    "title": "Learning Django Web Development", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/546636_7569_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-django-web-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-06T12:06:47Z"
+}

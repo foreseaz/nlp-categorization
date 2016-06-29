@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Note: This course is a subset of our much longer course 'Learn By Example: HTML, CSS and Javascript' so please don't sign up for both:-)</strong><br></p><p>Closures and first class functions in Javascript - that's what this course is about.</p><p>This is <strong>not</strong> a course on Javascript frameworks - its about <strong>solid, fundamental Javascript</strong>. You'll be surprised by how much more you can get done on your web pages once you learn this <strong>the right way</strong>.<strong></strong></p><p><strong></strong></p><p><strong>What do we mean by that?</strong></p><ul><li>Relatively <strong>few folks formally learn HTML, CSS or Javascript</strong>, because its quite easy to get stuff done in these technologies in a \"quick-and-dirty way\".</li></ul><ul><li>That \"quick-and-dirty\" way of learning and doing leads to problems over time, because <strong>Javascript and CSS are actually quite complex</strong>, so it is easy to do things the wrong way</li></ul><ul><li>This course will help, because it is entirely based on examples . Each is self-contained, has its source code attached, and gets across a simple, specific use-case. <strong>Each example is simple, but not simplistic.</strong></li></ul><p><strong>What's Included:</strong><br></p><ul><li><strong>Closures</strong> in Javascript are a rather mind-bending concept - functions that \"remember\" how the world looked when they were created.</li></ul><p><strong>Talk to us!</strong></p><ul><li>Mail us about anything - <strong>anything!</strong> - and we will always reply :-)</li></ul>", 
+    "end_date": null, 
+    "title": "Byte-Sized-Chunks: Closures in Javascript", 
+    "price": "20.00", 
+    "instructors": "Loony Corn", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/783746_85e6_9.jpg", 
+    "course_url": "https://www.udemy.com/closures-in-javascript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-06T05:27:26Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t Thank you fro visiting <strong style=\"\">First landing page with django.</strong>  </p>  <p>  \t In this lesson, You can learn <strong style=\"\">how to use Mac </strong><strong style=\"\">terminal</strong>. If you want to create<strong style=\"\"> web site</strong> or <strong style=\"\">web application</strong>, sometimes you have to use terminal. In this lesson, we will teach basic important commands of terminal.  </p>  <p>  \t After you learn basic commands of terminal, let&#039;s try to make your <strong style=\"\">first landing page</strong> with <strong style=\"\">django</strong> and <strong style=\"\">Python</strong>. You can learn about templates and <strong style=\"\">bootstrap</strong>. Moreover, you can learn how to put an image and a button on the landing page. Take it easy!  </p>  <p>  \t <strong style=\"\">&lt;OUTLINE --MAC TERMINAL -- &gt;</strong>  </p>  <ul style=\"\">  \t<li>What is  terminal ?</li>  \t<li>ls and cd command</li>  \t<li>mkdir command</li>  \t<li>mv command</li>  \t<li>touch and rm, rmdir command</li>  </ul>  <p>  \t<span><strong style=\"\">&lt;OUTLINE -- Python -- &gt;</strong></span>  </p>  <ul style=\"\">  \t<li><span>What is Python?</span></li>  \t<li><span>Print method</span></li>  \t<li><span>variable and string</span></li>  \t<li><span>while syntax</span></li>  \t<li><span>for syntax</span></li>  \t<li><span>list</span></li>  \t<li><span>conditional judgment with if syntax</span></li>  \t<li>conditional judgment by strings</li>  </ul>  <p>  \t<span></span>  </p>  <p>  \t <strong style=\"\"></strong><strong style=\"\">&lt;OUTLINE -- create first landing page with django -- &gt;</strong>  </p>  <ul style=\"\">  \t<li>create a project</li>  \t<li>Sublime Text2</li>  \t<li>root settings</li>  \t<li>admin page</li>  \t<li>creating views.py</li>  \t<li>Bootstrap</li>  \t<li>Button and Link</li>  \t<li>Grid system and images</li>  \t<li>h tag</li>  </ul>", 
+    "end_date": null, 
+    "title": "First landing page with django", 
+    "price": "20.00", 
+    "instructors": "Takafumi Kawai", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/225700_b7ec_2.jpg", 
+    "course_url": "https://www.udemy.com/first-landing-page-with-django/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-22T01:03:10Z"
+}

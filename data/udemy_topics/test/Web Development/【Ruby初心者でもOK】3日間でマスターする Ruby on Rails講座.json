@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>このコースはRuby on Railsを短期間にマスターするための講座です。Ruby on Railsは、インスタグラムやAirbnbなど、多くの人気のあるWebサービスの開発・運用に使われています。</p>\n\n<p>この講座で学ぶと、</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li><strong class=\"redactor-inline-converted\">Ruby on Railsの開発環境構築が確実にできます。</strong></li><li>はじめてRubyを学ぶ方でも、<strong class=\"redactor-inline-converted\">Rubyを基礎から学べます</strong>。</li><li>１つめのチュートリアルで<ul><li>Railsの動作の仕組み（データベースとプログラムの連携）を段階的に学べます。</li></ul></li><li>２つめのチュートリアルで<ul><li><strong>コード自動生成（Scaffolfding）機能</strong>による高速開発</li></ul><ul><li>Bootstrapによるモダンなデザインの適用</li></ul><ul><li>アプリケーションの日本語化<br>など実践的スキルを学べます。</li></ul></li><li><strong class=\"redactor-inline-converted\">Rails 4最新版、SQLite3を使用します。</strong></li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>ぜひ、この機会にRuby on Railsをマスターして、アイデアをカタチにしてみませんか？</p>", 
+    "end_date": null, 
+    "title": "【Ruby初心者でもOK】3日間でマスターする Ruby on Rails講座", 
+    "price": "50.00", 
+    "instructors": "井上 博樹 (Hiroki Inoue)", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/720490_4736_3.jpg", 
+    "course_url": "https://www.udemy.com/5daysrails/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-08T07:43:39Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span style=\" color:inherit;\"><strong style=\"\">Get your iPhone app </strong></span><span style=\" color:inherit;\"><strong style=\"\">ready for Apple Watch!</strong></span>  </p>  <p>  \t              Apple Watch represents a new chapter in the relationship people have with technology. Starting early 2015, you will be able to deliver innovative new experiences to your customers on their wrist. Learn how your existing app notifications can easily show up on Apple Watch. And by leveraging WatchKit, you can take your apps even further by extending and enhancing their functionality on Apple Watch.  </p>  <p>  \t            Learn the basics to create an Apple Watch Application  </p>  <p>  \t<strong style=\"\">What&#039;s the course about and how is it structured?</strong>  </p>  <p>  \t            In this course we develop from scratch 2 Apple Watch Application2 using Xcode and Swift with a step by step approach.  </p>  <p>  \t            We will learn the basics:  </p>  <p>  \t            How to create a project, how to add a Table with custom Row, how to create a new Controller and navigate, and how to create a Menu with buttons.  </p>  <p>  \t    How to use Groups in User Interface , how to add button Actions and how to use NSTimer  </p>  <p>  \t<strong style=\"\">The course covers:</strong>  </p>  <p>  \t          Information on how to download Xcode Beta with WatchKit  </p>  <p>  \t          Create a new iPhone application with WatchApp Extension Target  </p>  <p>  \t          Explain how WatchApp Target Extension works  </p>  <p>  \t          Create the User Interface of the Watch App  </p>  <p>  \t          Add a table with custom row  </p>  <p>  \t          Create a new Controller , navigate and pass variables  </p>  <p>  \t          Create a Menu with buttons  </p>  <p>  \t    Also Create a StopWatch application from scratch  </p>  <p>  \t<strong style=\"\">Materials</strong>  </p>  <p>  \t        The course consists of:  </p>  <p>  \t        30+ Minutes video lectures with code from scratch  </p>  <p>  \t        Application files for download  </p>  <p>  \t        This course can be completed in 1-2 hours  </p>  <p>  \t<strong style=\"\">Why to follow this course</strong>  </p>  <p>  \t        Apple Watch will be released in 2015. if you want to start learn the basic to create or update your existing application this course is for you!  </p>  <p>  \t<strong style=\"\">Who can follow this course</strong>  </p>  <p>  \t      Anyone with basic knowledge of iOS programming can follow this course.  </p>  <p>  \t  Copyright © Valsamis Elmaliotis 2014  </p>", 
+    "end_date": null, 
+    "title": "Start with WatchKit SDK and Swift", 
+    "price": "20.00", 
+    "instructors": "Valsamis Elmaliotis", 
+    "commitment": "33 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/351028_54c6.jpg", 
+    "course_url": "https://www.udemy.com/start-with-watchkit-sdk-and-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-19T16:44:05Z"
+}

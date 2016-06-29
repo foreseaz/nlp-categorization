@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>iOS programmers are currently one of the highest paying job profiles, and it is a great time to be an app developer today! Do you have the ideas, but not the skills? Do you want to become one of the highest paying programmers on the coding block? Well, look no further than this course . <br></p>\n\n\n\n\n\n<p>This short and sweet course will get you started on your road to programming in no time. Learn how to build a weather app from scratch, from designing to coding, you’ll learn everything in this course.</p>\n\n\n\n\n\n\n\n<p>You will not only learn how to code the app, but also design the app from scratch in Sketch. From there on, you will then translate that into XCode. This project-based course will teach you how to design, add images, change the background color, write the codes, and so much more. </p>\n\n\n\n\n\n\n\n<p>The course will also go over how to add a gradient background directly in XCode and will also teach you on how to use the OpenWeather API to fetch data directly from weather.org, as well as how to parse a raw JSON to Swift. We will go over parsing by showing you to simplify the process using the SwiftyJSON framework.</p>\n\n\n\n\n\n\n\n<p>We have packed so much in this short project course. Once, you understand these basics, you will be building more complex apps in no time. So, let’s get started on building your very own commercial app.</p>", 
+    "end_date": null, 
+    "title": "Learn To Develop A Complete Weather Application For iOS", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/854748_c521.jpg", 
+    "course_url": "https://www.udemy.com/learn-to-develop-a-complete-weather-application-for-ios/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-20T06:27:50Z"
+}

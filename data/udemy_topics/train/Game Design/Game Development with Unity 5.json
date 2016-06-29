@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Game development is an ever changing, constantly improving, and highly dynamic area to work in. Things are on the move constantly, and if you’re not careful you can get left behind. That’s why it’s important to keep your skills at the top level and to familiarise yourself with the latest tools and programs out there. This course will do just that by getting you up to speed with Unity5, the newest version of one of the industry’s leading development engines. </p><p><strong>Become a Unity 5 Developer</strong></p><ul><li>Build your first functioning game in 60 minutes</li><li>Create more complex games as your skills improve</li><li>Increasing levels of complexity to cater for both beginners and experienced developers</li><li>Grasp game development fundaments in a practical way</li><li>Gain practical skills than can instantly be used in the real world</li></ul><p><strong>Learn the Secrets of Unity 5 Game Development</strong></p><p>Whether you’re completely new to game development or have gained some experience developing games with Unity already, this course is for you. With 85 lectures and 9.5 hours of content, it takes starts off at beginner level and advances up to more complex projects.</p><p>This course goes beyond merely explaining or showing you how everything works; you’ll be shown how, and then you’ll do it for yourself. As you progress through the course  you’ll create three games of increasing complexity; a trivia game to demonstrate programming basics and show you the Unity user interface, followed by a 2D platforming game, and to finish, first person shooter game complete with visual effects and artificial intelligence. </p><p>By creating these games, you’ll learn all about scripting and user interface including questions and answer options, creating different levels, adding audio, freezing game play, building scenes, learning Nav Mesh, character and object movement, and game narrative, among other things.  </p><p>This course emphasises coding and development, and is suitable for anyone who wants to learn to develop games or learn how to code. To start this course, you will need to have Unity installed on your computer; we’ll show you everything else from there. </p><p><strong>About Unity 5</strong></p><p>Unity is a games engine used to create and develop 2D and 3D games and interactive experiences. It is fast becoming the industry standard for creating multiplatform games. Unity5 is the latest version of the tool, and includes a number of advanced powerful features such as a 64-bit editor, frame debuggers, graphics command buffers, and more.</p>", 
+    "end_date": null, 
+    "title": "Game Development with Unity 5", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "12.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/584308_9ec3_2.jpg", 
+    "course_url": "https://www.udemy.com/game-development-with-unity-5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-16T06:26:10Z"
+}

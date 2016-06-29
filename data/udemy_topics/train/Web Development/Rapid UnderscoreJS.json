@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">UnderscoreJS is a library of utility functions for JavaScript that helps to minimize the complexity most users face in building programs, that is, simplifying their JavaScript code. It can be used with any other library or framework and provides many useful methods for this very reason. It works great as an addition to jQuery, AngularJS, BackboneJS, or any other framework you might be using, or you can use it with plain old JavaScript.</p><p style=\"\">Rapid UnderscoreJS is a quick introduction to making the most of the UnderscoreJS library. Using a practical example project it shows you not just how but why you would want to use UnderscoreJS&#039; methods.</p><p style=\"\">We&#039;ll start off by learning what the UnderscoreJS library is and why you would want to use it, and discover how to incorporate UnderscoreJS into an existing Browser or NodeJS-based project. Further, we will dive deeper into the UnderscoreJS concepts that can help us deal with arrays and objects using Underscore&#039;s functions for filtering, grouping, and sorting. We will explore JavaScript&#039;s “this” context to manage binding and see how new functions can easily be made by partially applying the existing functions. We&#039;ll control the running of a function using debounce, throttle, once, and after, and also how this leads to simplifying techniques when building user interfaces and dealing with outside data sources. Finally, we&#039;ll learn Underscore&#039;s HTML templating abilities and chaining and finish up with a brief taste of libraries that extend Underscore.</p><p style=\"\">By the end of this course, you will understand how UnderscoreJS helps you to efficiently develop web applications using a functional approach to JavaScript.</p><p style=\"\"><strong style=\"\"><strong style=\"\">About the Author</strong></strong></p><p style=\"\"><strong style=\"\">Thomas Parslow</strong> is a Brighton-based freelance developer specialising in JavaScript and Python. He has been writing software for over almost two decades and has worked in both IT industry and academia for applications ranging from robotics control and computer vision through to touch surfaces and web applications. Thomas is a co-organizer of the successful learn-to-code workshop Coding For Humans and regularly speaks at technical events.</p>", 
+    "end_date": null, 
+    "title": "Rapid UnderscoreJS", 
+    "price": "20.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/506896_ed90_2.jpg", 
+    "course_url": "https://www.udemy.com/rapid-underscorejs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-20T07:52:23Z"
+}

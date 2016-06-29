@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>The dynamic nature and flexibility of JavaScript and BackboneJs includes many ways of expressing ideas. Such liberty gives way to certain risks that aren't as prominent in strongly typed languages and highly opinionated libraries and frameworks. Learning how to mitigate these risks is a crucial step to writing smarter software, and smarter software makes for happy developers!</p><p>Learning BackboneJs Testing will bootstrap you into a world of JavaScript testing and provide you with fundamental experience in writing tests. By understanding and becoming comfortable in testing BackboneJs applications, you can increase your productivity, code quality, and design skills.</p><p>At the beginning, we'll discuss different testing philosophies and go over some testing basics. After establishing a motivation for and philosophy of testing, we're going to dive right into how we express our tests in Jasmine's BDD syntax. We'll also hone in on how to deal with the DOM and AJAX in our tests.</p><p>Once you learn some syntax and apply it to plain JavaScript and BackboneJs  code, we're going to run into the problem of manual testing practices. We'll discuss and incorporate a tool that will automate our tests and make testing considerably more streamlined using Karma. From there, you'll learn to apply testing techniques and tools such as fixtures and spies. This course will jump-start your automated testing experience and you'll be writing robust tests for everyday objects!</p><p><strong>About The Author</strong></p><p><strong>Jonathan Freeman</strong> is a jazz saxophone player and home cook, and loves to solve problems with code. He wrote his first production application 12 years ago and has been working with BackboneJs in production for the past 3 years. From writing articles for InfoWorld to presenting at conferences and user groups, he loves to teach and jumps at the opportunity to facilitate and observe learning. He's currently interested in complex event processing with rules engines, constraint-based optimization problems, and the fast-moving DevOps ecosystem. He gets to play with all of these technologies and more while at his day job at Spantree Technology Group, a Chicago-based consulting firm. You can find him on twitter at @freethejazz.</p>", 
+    "end_date": null, 
+    "title": "Learning BackboneJS Testing ", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/595672_1939_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-backbonejs-testing/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-28T06:09:27Z"
+}

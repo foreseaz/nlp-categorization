@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \tBootstrap is quickly becoming one of the most widely-used and easily recognizable responsive frameworks for web and device development.  The system is elegant and provides an easy way to rapidly build a solid business presence online without having to worry about managing different applications for each device.  In this course, we’ll examine the tools, components, tips, and tricks that will quickly introduce Bootstrap to you, and will effectively guide you all the way through advanced development.  By the time you complete the course, you will be familiar with all of the essential tools and components you’ll need to start building your own robust Bootstrap templates, and as a result, be able to create one template to use for user interface presentation layers for the web, tablets, and phones!  </p>  <p>  \tThis course is designed for anyone, but here are some roles you might be in where I think you’d really benefit from completing this course:  </p>  <p>  \t·A brand new web developer – The framework will save you hours of layout and styling and handle the Javascript and JQuery for you with components like tabs which would traditionally require in-depth Javascript coding.  </p>  <p>  \t·A seasoned back-end developer who has to do some front-end development, or who is looking to start their own company [any startup would benefit], or the .Net developer who understands that Bootstrap is now built-in to the MVC projects and knowing this system can really enhance your projects  </p>  <p>  \t·A solid web developer who wants to learn about the components and styles in bootstrap so they can build templates for resale online.  </p>  <p>  \tThe course will start you off with an overview of what we’ll cover, so make sure to watch the first couple of videos (they are free for your exploration).  The first section of the course will get us set up for development with some different tools and files we’ll need to start building our templates and projects going forward.  We’ll then progress into a nice overview of the most essential component of the Bootstrap system: the grid.  </p>  <p>  \tOnce the essentials are established, we’ll then move into a thorough examination of the different built-in components, styles, and plugins through the next three sections of the course.  We’ll cover some really great built-in tools, and be able to work with almost all of them without really having to know anything about Javascript or JQuery (of course if you know these, it will allow you to do even more with the pages).  Some of the critical components and plugins we’ll learn include (but are not limited to):  </p>  <p>  \t·Simple Text and Page Copy  </p>  <p>  \t·Lists and Listgroups  </p>  <p>  \t·Tables  </p>  <p>  \t·Contextual Colors and Backgrounds  </p>  <p>  \t·Images, Responsive Images, and Thumbnails  </p>  <p>  \t·Forms and Form Groups  </p>  <p>  \t·Buttons and Button Groups  </p>  <p>  \t·Glyphicons  </p>  <p>  \t·Navbar, Dropdowns, Navs and Tabs  </p>  <p>  \t·Progress Bars  </p>  <p>  \t·Carousel  </p>  <p>  \t·Collapsing Panels (Accordion)  </p>  <p>  \t·Tooltips, Popovers, Modal Dialogs and Affixed sections  </p>  <p>  \t·Scrollspy [very nice for Single Page Applications]  </p>  <p>  \t·Using the Bootstrap Configurator to easily create a custom build  </p>  <p>  \tThe last part of the course will be an advanced study, and will take you to the next level with your Bootstrap development.  The last part of the course provides some very handy tips and tools for automating builds, including getting Node, Grunt, and LiveReload working.  By the end of the advanced section you’ll see how to use mixins with LESS and CSS and automate the build in a way that automatically refreshes your webpage so you can immediately see the changes.  The mixins and styles we’ll examine in the advanced section also give us the tools to add things like rounded corners and shows how to build semantic HTML instead of divs with classes for columns and rows in the grid.  We’ll finish the advanced section with a look at transformations, animations, transitions, gradients, and other CSS goodies that we can leverage to make our pages go from good to stunning.  </p>", 
+    "end_date": null, 
+    "title": "Bootstrap UI Development for Everyone", 
+    "price": "20.00", 
+    "instructors": "Brian Gorman", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/190696_a722_5.jpg", 
+    "course_url": "https://www.udemy.com/bootstrap-for-everyone/", 
+    "currency": "USD", 
+    "subject_name": [
+        "User Experience"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-29T03:00:17Z"
+}

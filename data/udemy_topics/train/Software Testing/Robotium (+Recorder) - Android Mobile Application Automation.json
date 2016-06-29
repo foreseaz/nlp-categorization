@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Robotium is an Android test automation framework for testing native and hybrid android mobile applications against mobile devices or emulators. It makes easy to write powerful and robust automated tests for Android applications. With the help of Robotium, testers can write function, system and user acceptance test scenarios, spanning multiple Android activities.</p><p>In this course, I have covered following sub topics :-</p><ul><li>Android Development Tools (ADT) – Installing Eclipse Plugin</li><li>Android Screen Monitor – Mirroring / Projecting Android Mobile Screen On Computer</li><li>Robotium (&amp; Recorder) – Introduction, Benefits &amp; limitations;</li><li>Eclipse IDE &amp; Android Studio Plugin Android Automation Demo.</li></ul><p></p><p></p><p></p>", 
+    "end_date": null, 
+    "title": "Robotium (+Recorder) - Android Mobile Application Automation", 
+    "price": "20.00", 
+    "instructors": "e VideoTuition", 
+    "commitment": "32 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/616052_9660_5.jpg", 
+    "course_url": "https://www.udemy.com/robotium-recorder-android-mobile-application-automation/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-18T18:52:48Z"
+}

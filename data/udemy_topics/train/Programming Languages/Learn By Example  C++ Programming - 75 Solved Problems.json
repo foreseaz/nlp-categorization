@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Like a gruff uncle, C++ seems intimidating, when its just being helpful. These 75 examples will help you understand that.</strong></p><p><strong>Let's parse that.</strong></p><ul><li><strong>C++ seems intimidating</strong> because all too often, what you see is <strong>not</strong> what you get.</li></ul><ul><li>Usually, that's because <strong>C++ is trying to help you, but you don't realise that.</strong> C++ is incredibly deep, and it sometimes struggles to get you - the programmer - to understand what it's saying</li></ul><ul><li>These 75 examples will help. Each is self-contained, has its source code attached, and gets across a specific C++ use-case. <strong>Each example is simple, but not simplistic.</strong></li></ul><p><strong>What's Included:</strong><br></p><ul><li><strong>Moving to C++ from C:</strong> If you are a C programmer, this section will run through what you need to know in order to move seamlessly to C++.</li></ul><ul><li><strong>Objects, Classes and Object-Oriented Programming:</strong> Access modifiers, classes, objects, the this pointer, new/delete and dynamic memory allocation gotchas</li></ul><ul><li><strong>Operator overloading</strong> is a particularly complicated topic - C++ is virtually alone in the ubiquity of overloaded operators. Make sure this doesn't trip you up. Also go deep into the workings of <strong>const</strong>, <strong>static</strong> and <strong>friend</strong></li></ul><ul><li><strong>Inheritance</strong> in C++ is considerably more complicated than in Java, mostly because of multiple inheritance, and because of the co-existence of both virtual and non-virtual methods. </li></ul><ul><li><strong>Templates</strong> are a classic generic programming technique that were revolutionary when first added to C++. Understand template functions and classes, as well as template specializations. </li></ul><ul><li><strong>STL</strong> - the Standard Template Library - is incredibly powerful. Get a good sense of collections, iterators and algorithms - the major components of the STL</li></ul><ul><li><strong>C++ casts </strong>are quite different than C-casts. Understand const_cast, static_cast and dynamic_cast, as well as Real Time Type Identification (RTTI), and the manner in which explicit conversions can be performed using static_cast</li></ul><ul><li><strong>Exceptions</strong> and exception handling in C++</li></ul><p><strong>Talk to us!</strong></p><ul><li>Mail us about anything - <strong>anything!</strong> - and we will always reply :-)</li></ul><p><strong><br></strong></p>", 
+    "end_date": null, 
+    "title": "Learn By Example: C++ Programming - 75 Solved Problems", 
+    "price": "20.00", 
+    "instructors": "Loony Corn", 
+    "commitment": "16 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/753414_8a8a_3.jpg", 
+    "course_url": "https://www.udemy.com/cplusplus-75-solved-problems/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-05T14:00:24Z"
+}

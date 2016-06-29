@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Music"
+    ], 
+    "description": "<p>Creating an audio mix that is pleasing to listeners is a true art form. The manipulation of the source signals' level, dynamics, and panoramic position, and the addition of effects such as reverb and delay, can have a huge impact on the overall feel of a song.</p><p>The Art of Mixing explores the many creative and technical considerations necessary to mix in today's music production environment, regardless of platform or format. This course teaches the different steps of the mixing process, including equalization, panning, dynamic processing (compressors, gates, expanders, and limiters), reverb and delays, as well as automation techniques and practical examples. The techniques presented apply to any Digital Audio Workstation (DAW), or digital or analog console.</p>", 
+    "end_date": null, 
+    "title": "Basic Mixing Course", 
+    "price": "20.00", 
+    "instructors": "Michael White", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/677698_93af_3.jpg", 
+    "course_url": "https://www.udemy.com/basic-mixing-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Music Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-23T01:22:44Z"
+}

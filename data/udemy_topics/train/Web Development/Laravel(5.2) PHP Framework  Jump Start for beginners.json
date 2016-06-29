@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn the basic concepts and tools that you will need to build fully functional Object Oriented PHP web applications using Laravel framework.(<strong>Over 3000 students have already enrolled to this course,the most popular Laravel course at Udemy</strong>).</p><p><strong>Build a strong foundation in modern agile Object-Oriented PHP programming.</strong></p><ul><li>Set up and configure your local development environment.</li><li>Generate code files effectively and efficiently using Laravel artisan tool.</li><li>Object-Oriented PHP programming with MVC architecture.</li><li>Eloquent ORM.</li><li>Laravel routing.</li><li>Migrations and seedings.</li><li>Laravel Sessions and Requests.</li><li>Blade templating</li></ul><p><strong>A powerful ,highly demanded,highly paid,highly marketable skill at your fingertips.</strong></p><p>As you might already know, Laravel is the most popular PHP framework  today.</p><p>It is free and open source,,very easy to learn,has excellent documentations,has a very friendly community support and most importantly it is fun to code.</p><p>Laravel developers get higher salaries than other PHP developers.</p><p>If you like freelancing, this skill will give you a strong background to get large projects worth over 2000 US dollars as a freelancer web developer.<br></p><p><strong>Content and Overview</strong></p><p>This course is for beginner level web developers and students.</p><p>You will learn all essential Laravel code patterns and establish a strong understanding of the Laravel web application architecture.<br></p><p>Each chapter closes with exercises and links for further readings,putting your new learned skills into practical use  immediately.</p><p>Starting with the setting up and configuration of local development environment,this course will take you through artisan,migrations,seeders,routes,controllers,sessions,requests,blade templates and eloquent models.</p><p>Students completing the course will have the knowledge to create functional and useful dynamic web applications using Laravel PHP framework.</p><p>This course comes with downloadable code samples,you will be able to work alongside the instructor as you work through each concept, and will receive a verifiable certificate of completion upon finishing the course.</p><p><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Laravel(5.2) PHP Framework  Jump Start for beginners", 
+    "price": "20.00", 
+    "instructors": "Anushka Madusanka", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/615084_6774_5.jpg", 
+    "course_url": "https://www.udemy.com/laravel-php-framework-jump-start-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-17T18:35:34Z"
+}

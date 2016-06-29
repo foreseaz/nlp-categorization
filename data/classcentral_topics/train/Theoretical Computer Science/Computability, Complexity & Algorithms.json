@@ -1,0 +1,28 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Theoretical Computer Science"
+    ], 
+    "description": "\n\n                    \n                    \n                    This class is offered as CS6505 at Georgia Tech where it is a part of the [Online Masters Degree (OMS)](http://www.omscs.gatech.edu/). Taking this course here will not earn credit towards the OMS degree.\n\nIn this course, we will ask the big questions, “What is a computer? What are the limits of computation? Are there problems that no computer will ever solve? Are there problems that can’t be solved quickly? What kinds of problems can we solve efficiently and how do we go about developing these algorithms?” Understanding the power and limitations of algorithms helps us develop the tools to make real-world computers smarter, faster and safer.Why Take This Course?You will learn a wealth of tools and techniques that will help you recognize when problems you encounter in the real-world are intractable and when there an efficient solution. This can save you countless hours that otherwise would have been spent on a fruitless endeavor or in re-inventing the wheel.\n\n                                            Syllabus\n                        ### Lesson 1: Computability\n* Languages &amp; Countability\n* Turing Machines\n* The Church-Turing Thesis\n* Universality\n* Undecidability\n\n### Lesson 2: Complexity\n* P and NP\n* NP-Completeness\n* NP-Complete Problems\n* The Golden Ticket\n\n### Lesson 3: Algorithms\n* Dynamic Programming\n* Fast Fourier Transform\n* Maximum Flow\n* Maximum Bipartite Matching\n* Linear Programming\n* Duality\n* Randomized Algorithms\n* Approximation Algorithms\n                                    ", 
+    "end_date": null, 
+    "title": "Computability, Complexity & Algorithms", 
+    "price": 0, 
+    "instructors": "Hariharan Venkateswaran and Lance Fortnow", 
+    "institution_name": [
+        "Georgia Institute of Technology", 
+        "Georgia Tech Online Master of Science in Computer Science"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.udacity.com/course/computability-complexity-algorithms--ud061?utm_medium=referral&utm_campaign=api", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2015-02-25T00:00:00Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    Ce MOOC a pour objectif de donner aux chercheurs, professionnels de la recherche en santé et sciences du vivant et futurs chercheurs français et francophones les éléments nécessaires pour s'adapter à l’évolution des pratiques de recherche en santé (de la gestion à la communication et à la diffusion de ressources scientifiques) et leur permettre de prendre en main les outils numériques associés. Il permettra en outre de saisir certains nouveaux enjeux technologiques, sociaux, juridiques, éthiques tels que le libre accès à la publication scientifique, le partage de données scientifiques ainsi que les changements de méthodologies que le numérique peut introduire dans les pratiques de recherche (data driven research, recherche participative). Aussi, chaque séance fera appel à une diversité d’experts (chercheurs, ingénieurs de recherche, bibliothécaires, médecins, juristes etc.) pour apporter un éclairage sur les enjeux de ces nouveaux usages. Des screencasts proposeront des retours d'expérience de chercheurs et permettront de découvrir ainsi un ensemble d’outils numériques open source utilisés en recherche (logiciel R, Zotero, Github, Python). Les échanges entre participants et intervenants de ce MOOC et les réflexions générées dans ce cadre constitueront une source importante, une matière vive, qui viendra nourrir la pratique. Il sera aussi question pour chaque participant de se questionner sur ses propres pratiques et de construire au fil du MOOC des objectifs concrets pour les faire évoluer.\n\n                                    ", 
+    "end_date": "2015-12-07T00:00:00Z", 
+    "title": "Numérique et recherche en santé et sciences du vivant", 
+    "price": 0, 
+    "instructors": "Célya Gruson-Daniel", 
+    "institution_name": [
+        "Centre Virchow-Villermé"
+    ], 
+    "commitment": "3 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.france-universite-numerique-mooc.fr/courses/VirchowVillerme/06005/session01/about", 
+    "duration": "7 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "France Université Numerique"
+    ], 
+    "start_date": "2015-10-19T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \tThe Intermediate course improves your skills on Power Pivot for Excel, introducing you to the DAX language and important features such as CALCULATE and Time Intelligence functions.  </p>  <p style=\"\">  \tThe course includes 3 hours of video in 19 lectures. You need a minimal experience of Power Pivot, or you should take the Beginner course before this one.  </p>  <p style=\"\">  \tSections included in this course:  </p>  <ul style=\"\">  \t<li style=\"\">DAX Language</li>  \t<li style=\"\">Table Functions and CALCULATE</li>  \t<li style=\"\">Basic Time Intelligence</li>  \t<li style=\"\">Power BI and SharePoint</li>  </ul>  <p style=\"\">  \tAfter this course, we suggest you to take the Power Pivot Workshop Advanced one.  </p>", 
+    "end_date": null, 
+    "title": "Power Pivot Workshop Intermediate", 
+    "price": "50.00", 
+    "instructors": "Marco Russo, Alberto Ferrari", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/251604_1fc8_8.jpg", 
+    "course_url": "https://www.udemy.com/power-pivot-workshop-intermediate/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-27T15:04:14Z"
+}

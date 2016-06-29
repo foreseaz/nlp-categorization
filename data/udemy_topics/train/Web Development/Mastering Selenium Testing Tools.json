@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>We all have felt the need to test whether our applications are performing well across different web browsers, but the sheer tedium involved in learning test scripting languages might have stopped us from doing so. What if Selenium gave us the power to control web browsers and use them to automate web application testing? As an open source test automation toolset, Selenium makes it easier for testers to evaluate web applications without putting in any extra time and effort.</p><p>Mastering Selenium Testing Tools is all about demystifying the Selenium toolset for testing websites. Testing professionals rely on a variety of test automation tools to test web applications effectively. But these tools often fail to test applications when frequent changes and enhancements are made to the code.</p><p>A viewer with a reasonable knowledge and understanding of the core elements of Selenium will learn to verify web applications, control browsers with code, and scale up the testing environment by distributing the execution of web applications on different browsers running on different operating systems.</p><p>The course starts with Selenium IDE, a Firefox plugin that performs a simple record-and-playback of interactions with the browser. A tester aiming for professional output can use WebDriver, an advanced scripting tool that will teach you to locate the elements you need to interact with using their name, id, xPath, or CSS. Testing is all about understanding what behavior is expected. If you don't understand how it should work, how can you verify that it actually works as desired? You will learn to express the desired behavior using an executable specification and a language that your end users can read and validate. This will be done using a well-known framework for Behavior Driven Development (BDD) called Cucumber for Java.</p><p>Selenium is not just a single tool but a suite of software, each catering to the different testing needs of an organization. This course will give you a flying start towards implementing test automation using this free testing tool suite.</p><p><strong>About The Author</strong><strong>s</strong><br></p><p><strong>Ripon Al Wasim</strong> is currently working as a Sr. Software Engineer. He lives in Dhaka, Bangladesh. He has 13+ years of experience in the software industry. He started programming with Visual Basic. But later Ripon started to use Java and became involved in professional Java projects. He is a Sun Certified Java Programmer (SCJP). Ripon enjoys test automation very much, especially the BDD style and technique.<br></p><p><strong>Thomas Sundberg</strong> is an independent consultant based in Stockholm, Sweden. He has a Master's degree in Computer Science from the Royal Institute of Technology, KTH, in Stockholm. Thomas has been working as a developer for more than 25 years. He has taught programming at The Royal Institute of Technology, KTH, one the leading technical universities in Sweden. He has developed an obsession with technical excellence. This translates to software craftsmanship, clean code, and test automation.<br></p><p>He is a frequent speaker at various conferences and developer venues.</p>", 
+    "end_date": null, 
+    "title": "Mastering Selenium Testing Tools ", 
+    "price": "35.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/709400_fbaf_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-selenium-testing-tools/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-29T07:44:55Z"
+}

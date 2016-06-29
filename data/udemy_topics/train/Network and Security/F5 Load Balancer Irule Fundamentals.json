@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t      This course will guide and educate you on how to read and understand complex Irules as well as writing Irules so to meet load balancing needs for your environment. After Completion of these videos, you will:  </p>  <ul style=\"\">  \t<li>Understand what an Irule is</li>  \t<li>Know what tools to use to script an Irule</li>  \t<li>Identify the components of an Irule</li>  \t<li>Troubleshoot with an Irule</li>  \t<li>Read and understand complex Irules</li>  \t<li>Write Irules for different scenarios</li>  </ul>", 
+    "end_date": null, 
+    "title": "F5 Load Balancer Irule Fundamentals", 
+    "price": "50.00", 
+    "instructors": "Tyco Taygo", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/281240_3100_2.jpg", 
+    "course_url": "https://www.udemy.com/f5-load-balancer-irule-fundamentals/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-15T01:50:30Z"
+}

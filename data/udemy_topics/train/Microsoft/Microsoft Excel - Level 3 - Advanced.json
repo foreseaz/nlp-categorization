@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t This course covers the advanced tools in Excel. You’ll learn how to create custom cell formats. You’ll start to learn about Pivot Tables, the slicer tool, Macros and how to record steps to common tasks. You’ll learn how to trace and watch changes with cells and formulae.  </p>", 
+    "end_date": null, 
+    "title": "Microsoft Excel - Level 3 - Advanced", 
+    "price": "20.00", 
+    "instructors": "eLearnExcel", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/93486_3b33_7.jpg", 
+    "course_url": "https://www.udemy.com/microsoft-excel-level-3-advanced/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-17T11:04:00Z"
+}

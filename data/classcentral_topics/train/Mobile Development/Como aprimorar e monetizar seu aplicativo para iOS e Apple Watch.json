@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Bem vindo ao terceiro curso de desenvolvimento de aplicativos para iPhone e iPad.\nQuer fazer mais do que um simples aplicativo? Colocar fotos, videos e músicas em seus aplicativos? Ou quem sabe colocar mapa ou usar o mais novo relógio da Apple (Apple Watch) junto com o seu aplicativo de iPhone? \nSe você respondeu \"sim\" para alguma dessas perguntas ou se deseja aprender os passos para publicar o seu próprio aplicativo, esse é o curso tem as respostas para você!\n\nNeste curso você vai descobrir como colocar diversas funcionalidades no seu aplicativo iPhone ou iPad: colocar photos, músicas, videos, usar mapa, permitir que o aplicativo faça posts no facebook ou twitter e também como fazer um aplicativo do iPhone que conecte com o AppleWatch! Além de tudo, você irá ver passo a passo como publicar e monetizar seu aplicativo uma vez que ele estiver publicado na App Store.\n\nEste curso é composto por várias videoaulas passo a passo, para você que tem pouca experiência com programação, ou já é um programador experiente mas não conhece o Swift ou nunca fez um aplicativo iOS, acompanhar as aulas e evoluir no seu próprio ritmo.\n\nConcluindo esse curso, você será capaz de desenvolver um aplicativo iPhone com funcionalidades avançadas, criar aplicativos para Apple Watch, e também saberá como publicá-lo na App Store!\n\nO que você está esperando? Junte-se a milhares de outros usuários e publique o seu próprio aplicativo!\n\n                                            Syllabus\n                        Bem vindo!E aí pessoal, tudo bem? Sejam bem vindos ao curso “Como aprimorar e monetizar seu aplicativo para iOS e Apple Watch”. Neste curso você conhecerá diversos frameworks que são usados em aplicativos iOS, como integrar seu aplicativo com o AppleWatch e por último como publicar e monetizar seu aplicativo na App Store. No final do curso você será capaz de criar aplicativos avançados, que utilizem diversos frameworks, se conecte com AppleWatch e ainda saberá como publicá-lo na Apple App Store. Bons estudos!Criando aplicativos com framework de fotosE aí pessoal, tudo bem? Neste módulo, você vai conhecer como salvar vetor de dados se seus aplicativos, além de aprender como utilizar os frameworks SafariServices e Photos. Se você tiver alguma dificuldade nas tarefas, peça ajuda no Fórum de Discussões (e se você terminar primeiro que os outros colegas, espero que você passe pelo fórum para ajudá-los também). Assista as videoaulas e pratique. Pause o vídeo sempre que precisar para poder copiar, digitar o código e ver funcionando no seu próprio Mac. Bons estudos!Criando aplicativos com frameworks de audio, vídeo, localização e mapaE aí pessoal, tudo bem? Neste módulo, você vai conhecer como fazer postagens, tocar arquivos de audio e vídeo, utilizar ferramentas de mapa e localização, tudo utilizando frameworks que a Apple disponibiliza para nós desenvolvedores! Se você tiver alguma dificuldade nas tarefas, peça ajuda no Fórum de Discussões (e se você terminar primeiro que os outros colegas, espero que você passe pelo fórum para ajudá-los também). Assista as videoaulas e pratique. Pause o vídeo sempre que precisar para poder copiar, digitar o código e ver funcionando no seu próprio Mac. Bons estudos!Criando aplicativos para o AppleWatchE aí pessoal, tudo bem? Neste módulo, você vai conhecer os principais princípios para desenvolver aplicativos para o famoso AppleWatch, aprendendo também como conectar seu aplicativo do Apple Watch com seu aplicativo de iPhone. Se você tiver alguma dificuldade nas tarefas, peça ajuda no Fórum de Discussões (e se você terminar primeiro que os outros colegas, espero que você passe pelo fórum para ajudá-los também). Assista as videoaulas e pratique. Pause o vídeo sempre que precisar para poder copiar, digitar o código e ver funcionando no seu próprio Mac. Bons estudos!Como monetizar e publicar seu aplicativoE aí pessoal, tudo bem? Neste módulo, você vai conhecer como publicar seus aplicativos na Apple AppStore, além disso, também saberá como deixar seus aplicativos pagos ou gratuitos. Você vai aprender a colocar propagandas internas e compartilhar seu aplicativo para testes antes da publicação. Se você tiver alguma dificuldade nas tarefas, peça ajuda no Fórum de Discussões (e se você terminar primeiro que os outros colegas, espero que você passe pelo fórum para ajudá-los também). Assista as videoaulas e pratique. Pause o vídeo sempre que precisar para poder copiar, digitar o código e ver funcionando no seu próprio Mac. Bons estudos!\n                                    ", 
+    "end_date": "2016-06-27T00:00:00Z", 
+    "title": "Como aprimorar e monetizar seu aplicativo para iOS e Apple Watch", 
+    "price": 0, 
+    "instructors": "Eduardo Galembeck and Danilo Marshall", 
+    "institution_name": [
+        "Universidade Estadual de Campinas"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.coursera.org/learn/ios-avancado", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-05-30T00:00:00Z"
+}

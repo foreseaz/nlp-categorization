@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Bioinformatics"
+    ], 
+    "description": "\n\n                    \n                    \n                    After sequencing genomes, we would like to compare them. We will see that dynamic programming is a powerful algorithmic tool when we compare two genes (i.e., short sequences of DNA) or two proteins. When we \"zoom out\" to compare entire genomes, we will employ combinatorial algorithms.\n\n                                            Syllabus\n                        Week 1 How Do We Compare Biological Sequences? (Part 1/3)Week 2 How Do We Compare Biological Sequences? (Part 2/3)Week 3 How Do We Compare Biological Sequences? (Part 3/3)Week 4Are There Fragile Regions in the Human Genome? (Part 1/2)Week 5Are There Fragile Regions in the Human Genome? (Part 2/2)Week 6Bioinformatics Application Challenge!\n                                    ", 
+    "end_date": "2016-08-01T00:00:00Z", 
+    "title": "Comparing Genes, Proteins, and Genomes (Bioinformatics III)", 
+    "price": 0, 
+    "instructors": "Pavel  Pevzner, Phillip Compeau and Nikolay Vyahhi", 
+    "institution_name": [
+        "University of California, San Diego "
+    ], 
+    "commitment": "4-10 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/learn/comparing-genomes", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-20T00:00:00Z"
+}

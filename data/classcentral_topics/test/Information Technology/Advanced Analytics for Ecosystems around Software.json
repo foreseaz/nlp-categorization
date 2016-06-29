@@ -1,0 +1,25 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Information Technology"
+    ], 
+    "description": "\n\n                    \n                    \n                    In this MOOC, we explore concepts and techniques of advanced analytics for ecosystems around software systems and software development processes. Big data and big data analytics are to become key sources of innovation in industry and society – in this course we discuss, how advanced analytics in the scope of software can be applied to boost effectiveness of software development within their corresponding ecosystems. With \"software analytics\" we refer to recently innovated techniques from software analysis, software mining, software visualization, visual analytics, and predictive analytics that all aim at giving insights into information about complex software systems, their correlated development processes, and their evolution. To this end, all common, traditionally separated information sources in these ecosystems can be gathered, related, and integrated. The ultimate goals include to provide not only software engineers but also all other stakeholders (e.g. IT consultants, IT managers) better instruments to monitor, comprehend, discuss, and steer software development activities such as for vendor benchmarking, team benchmarking, and handling technical debts. In particular, we investigate \"software maps\" as general-purpose, powerful visual analytics instruments.\r\nAs precondition, our interested learners for this course shall have general knowledge about software development, its processes and procedures, and they shall have some experience in IT-systems development or software maintenance.\n\n                                    ", 
+    "end_date": "2016-06-19T00:00:00Z", 
+    "title": "Advanced Analytics for Ecosystems around Software", 
+    "price": 0, 
+    "instructors": "Jürgen Döllner", 
+    "institution_name": [], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://open.hpi.de/courses/softwareanalytics2016", 
+    "duration": "3 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "openHPI"
+    ], 
+    "start_date": "2016-05-29T00:00:00Z"
+}

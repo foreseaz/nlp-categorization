@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>##Last Updated on April 1st,2016 ##</strong><br></p><p>Coding in Apex is similar to Java/C# in lot many ways, yet so different from them in few other ways. But one thing that is common is that the application of proper design patterns to solve the problem irrespective of platform or technological difference. This course covers the advance concepts like Triggers,DML operations,Email Messaging Service,Salesforce Governor Limits. These concepts you will use in Day to Day assignments at work. This course addresses the real time challenges that you face and will definitely help.</p>\n\n<p>This course explains salesforce Triggers, DML operations,Email Messaging Service, Salesforce Governor Limits step by step in most simplest manner.</p>\n\n<p>Whether you're a brand-new or experienced Developer, get the core knowledge you need to get up to speed, perform at your best, and get the most out of Salesforce. This training is a must for application and Salesforce developers who want to create custom Force applications or customize existing Salesforce applications.</p>\n\n<p>Learn the basics fast and easy with these step-by-step tutorials.</p>\n\n<p>Like any software, the best way to learn it is to use it and this course is to be treated as a living and growing one, where new material and corrections would be added regularly.</p>\n\n<p>Note: This course comes with lifetime access and will be updated regularly as per latest release of Salesforce and all future upgrades are free for existing subscribers.</p>", 
+    "end_date": null, 
+    "title": "Salesforce Apex-Triggers,Email Service,Batch Processes", 
+    "price": "20.00", 
+    "instructors": "Deepika Khanna", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/646680_46e7_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-advance-apex/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-21T11:39:05Z"
+}

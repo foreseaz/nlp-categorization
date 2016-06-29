@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t      This is an in depth course about using and programming with SQL Server. It assumes that the student has at least a rudimentary understanding of database concepts and architecture and gets right into the meat of the subject.  </p>  <p style=\"\">  \t      This course will get you up to speed on proper table design, creation, scripting and management as well as executing simple TSQL statements. The course will also provide real world examples of using Stored Procedures to effectively streamline such functions as INSERT, UPDATE and DELETE. The Stored Procedures are completely downloadable!!  </p>", 
+    "end_date": null, 
+    "title": "SQL Server FAST TRACK  for Novices - Tables", 
+    "price": "25.00", 
+    "instructors": "Dave Merton", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/177970_df9f_4.jpg", 
+    "course_url": "https://www.udemy.com/sql-server-fast-track-for-novices-course-101-tables/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-06T17:16:14Z"
+}

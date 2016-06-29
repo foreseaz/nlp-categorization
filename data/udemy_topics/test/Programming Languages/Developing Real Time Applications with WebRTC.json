@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>WebRTC is the central standard for the development of web-based real-time communication applications, delivering the capability of seamlessly integrating peer-to-peer audio and video communication. The WebRTC protocol removes the typical barriers to web-based real-time communication by providing an array of enabling APIs which overcome variances in browser capability and platform, simplifying accessibility for developers, and end users. </p><p>This video course will equip you with the understanding to quickly develop a complete WebRTC application, ready to be integrated into your own web application. If you’re interested in creating a video application with WebRTC , this video delivers a strong example application which you can use, whilst laying the foundation for you to develop more complex instances in the future. </p><p>This courses opens with an introduction to WebRTC, placing it in context of similar technologies in the web environment, before diving into an exploration of key WebRTC APIs. </p><p>After detailing the main API utilities, we’ll examine various signalling approaches before designing two servers, one for serving our example, and another one for providing signalling. At this point, we'll put all the pieces together to create a fully functional, real-time communication application.</p><p>The final section of this video course focuses on debugging and improving WebRTC applications treating other frameworks and developer tools which can be used to this end, with modern techniques employed by experienced developers. </p><p>By the time you complete this video course, you will understand the fundamentals of WebRTC and its array of powerful APIs, with the ability to establish real-time video conferencing functionality over the web, with whoever you want.</p><p><strong>About The Authors</strong><strong></strong><br></p><p><strong>Andrés Estévez</strong> works as Head of Development for Quobis. He has almost ten years of experience on multimedia-based jobs. First, related to consumer electronics and embed devices, and now trying to bring that knowledge back to the basis of WebRTC. <br></p><p><strong>Antón Román Portabales</strong> works as CTO for Quobis. He is involved in development and first industry deployments of WebRTC-based systems and has an active role interacting with vendors, operators, and the rest of the industry to leverage WebRTC to offer new services and solutions. Anton is getting involved in standardization activities at the IETF and participated as a reviewer in the edition of two books about WebRTC.</p><p><strong>Atul Pundhir </strong>has been a full-stack developer for about 8 years. Being a full-stack developer, he has worked on various cutting edge technologies on frontend, backend, and database sites. He has been involved in developing projects in WebRTC since 2012. He holds a master’s degree in computer management.</p><p><strong>Simón Roca </strong>is a Telecom engineer, currently studying, who has been working for Quobis, and learning about WebRTC commercial applications and WebRTC internal operating. He is exposing a WebRTC thesis in May 2015. </p>", 
+    "end_date": null, 
+    "title": "Developing Real Time Applications with WebRTC ", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/632232_ebab_2.jpg", 
+    "course_url": "https://www.udemy.com/developing-real-time-applications-with-webrtc/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-06T10:21:19Z"
+}

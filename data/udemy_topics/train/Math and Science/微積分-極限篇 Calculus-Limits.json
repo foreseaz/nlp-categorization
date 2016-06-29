@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\">● 極限觀念是在學習微積分前必須要具備的基礎，主要介紹下列內容</strong></p><p style=\"\">１．極限的觀念(Concept of Limit): <br style=\"\">當我們要尋找曲線的切線或計算物體的瞬間速率時，導入極限的觀念是進入微積分殿堂的一把鑰匙。</p><p style=\"\">２．極限的求法(Calculating limits using limit Law):<br style=\"\">我們介紹極限的性質並且加入不同類型的極限問題的計算技巧，並介紹無窮極限的簡便算法。</p><p style=\"\">３．極限的嚴格定義(The formal Definition of a Limit):<br style=\"\">使用epsilon-delta 方法介紹極限嚴格的定義，也加入了證明。</p><p style=\"\">４．單邊極限(One-Side Limit):<br style=\"\">極限若要存在的充要條件是左極限與右極限相同，有了單邊極限的定義，我們就更方便解釋極限的存在性，</p><p style=\"\">5.夾擠原理(The Squeeze Theorem):<br style=\"\">夾擠原理是非常值觀的觀念，學習夾擠原理後可以利用此原理證明極限的存在與求值。</p><p style=\"\"><strong style=\"\">● 本課程建議基礎<br style=\"\"></strong>先要研讀微積分-基礎數學篇再學習。</p><p style=\"\"><strong style=\"\">● 本課程包含素材<br style=\"\"></strong>影音錄製課程與解答習題與測驗</p><p style=\"\"><strong style=\"\">● 建議完成時間<br style=\"\"></strong>建議學習者以一週時間完成</p><p style=\"\"><strong style=\"\">●教材來源<br style=\"\"></strong>源於中華科技大學 微積分一 課程中第二單元極限部分</p><p style=\"\"><strong style=\"\">●教材認證<br style=\"\"></strong>內容通過台灣教育部103年度第1梯次數位學習教材認證</p><p style=\"\"><strong style=\"\">●語言<br style=\"\"></strong>全部課程繁體中文講授。</p><p style=\"\"><strong style=\"\">●其他事項<br style=\"\"></strong>本課程僅供學員自修使用，無法取得中華科技大學學分</p>", 
+    "end_date": null, 
+    "title": "微積分-極限篇 Calculus-Limits", 
+    "price": 0, 
+    "instructors": "Lee Bor-Jian", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/465476_b47a_2.jpg", 
+    "course_url": "https://www.udemy.com/calculus-limits/", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-02T02:21:55Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Information Technology"
+    ], 
+    "description": "\n\n                    \n                    \n                    Windows Server administrators must be able to implement Active Directory Domain Services (AD DS). AD DS is the foundation for centralized management of an organization’s users and resources.\n\nThrough videos, discussions, hands-on labs and assessments, you will put in place a secure and scalable AD DS infrastructure for Windows Server users and resources.\n\n                                    ", 
+    "end_date": "2016-05-24T00:00:00Z", 
+    "title": "INF201.51x: Managing Microsoft Windows Server Active Directory Domain Services", 
+    "price": 0, 
+    "instructors": "Cynthia Staley and Brian Svidergol", 
+    "institution_name": [
+        "Microsoft"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/managing-microsoft-windows-server-active-microsoft-inf201-51x", 
+    "duration": "10 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-03-15T00:00:00Z"
+}

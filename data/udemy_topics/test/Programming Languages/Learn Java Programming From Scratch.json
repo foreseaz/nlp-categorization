@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t Java is everywhere and is arguably the single most important technology out there. This course in Java programming is for serious developers. It is not just another java tutorial but aims to provide a relevant, modern and conceptual understanding of Java programming constructs. It aims to teach Java in a manner which will allow the student to write not only the correct Java but optimized, efficient and elegant code. This course starts uniquely with an introduction to the Java Virtual Machine and Java memory model which aims to lay foundation of the Java syntax to follow. It will allow you to understand the concepts behind the syntax.  </p>  <p>  \t This extensive course covered in more than 12 hours of high quality training video will definitely make you a Java Superstar. This course will teach you the following  </p>  <ul>  \t<li>Learn all about Java Virtual machine and Memory management</li>  \t<li>Java Syntax and basic programming specifications</li>  \t<li>Object oriented programming in java</li>  \t<li>Polymorphism and Abstarction in Java</li>  \t<li>Exception Handling and Generics</li>  \t<li>Design patterns and Code Reuse</li>  \t<li>Important Data structures for Java</li>  \t<li>Java Stream and Concurrency</li>  \t<li>Java deployment and Tools</li>  </ul>  <p>  \t You can do almost anything in Java after this course. You will surely be a better programmer and better still a Elegant programmer after this course. So go ahead and be the Java developer you want to be...  </p>", 
+    "end_date": null, 
+    "title": "Learn Java Programming From Scratch", 
+    "price": 0, 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "12.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/187624_bd98_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-java-programming-from-scratch/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-24T06:16:51Z"
+}

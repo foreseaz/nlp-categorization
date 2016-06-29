@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Theoretical Computer Science"
+    ], 
+    "description": "\n\n                    \n                    \n                    Data structures play a central role in computer science and are the cornerstones of efficient algorithms. Knowledge in this area has been at the kernel of related curriculums. This course aims at exploring the principles and methods in the design and implementation of various data structures and providing students with main tools and skills for algorithm design and performance analysis. Topics covered by this course range from fundamental data structures to recent research results. \"Data Structures and Algorithm Design Part II\" is an advanced course extending the materials in \"Part I\". We will cover more powerful and sophisticated data structures &amp; algorithms, including:  splay trees, B-trees, red-black trees, hash tables, priority queues, strings and sorting.\n\n数据结构是计算机科学的关键内容，也是构建高效算法的必要基础。其覆盖的知识，在相关专业的课程体系中始终处于核心位置。本课程旨在围绕各类数据结构的设 计与实现，揭示其中的规律原理与方法技巧；同时针对算法设计及其性能分析，使学生了解并掌握主要的套路与手法。讲授的主题从基础的数据结构，一直延伸至新 近的研究成果。本学期的数据结构（下），是数据结构（上）的延续与拓展，深入讲解高级搜索树、散列表、优先级队列、串匹配、排序等内容。更多介绍详见：http://dsa.cs.tsinghua.edu.cn/~deng/ds/mooc/，或加入本课之后查看FAQ栏目。\n\n                                    ", 
+    "end_date": "2016-06-14T00:00:00Z", 
+    "title": "30240184.2x: Data Structures and Algorithm Design Part II 数据结构与算法设计(下)", 
+    "price": 0, 
+    "instructors": "Junhui Deng", 
+    "institution_name": [
+        "Tsinghua University"
+    ], 
+    "commitment": "5 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/data-structures-algorithm-design-part-ii-tsinghuax-30240184-2x", 
+    "duration": "13 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-03-15T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this course, I'm gonna show you real world solutions to common application using AngularJS. Each section is targeted for beginners while focusing on more advanced concepts.</p><p>We'll cover:</p><ul><li>AngularJS: Modules, Built-in Directives, Controllers, Views, Templates, Services and Custom Directives</li><li>Writing Angular Unit Tests and E2E Tests for Controllers, Directives and Filters. </li><li>Using Node and Bower to manage dependencies. </li><li>Learning How to Build, Deploy and Run Angular Apps</li><li>Creating Custom Filters and Directives </li><li>Configuring Routes, Hashbang URLs and Pretty URLs</li><li>Consuming and Calling RESTful Webservices</li><li>Using Promises and dealing with multiple webservice calls</li><li>Creating Mock Objects In Unit Tests</li><li>Writing Angular Forms With Angular 1.4 </li></ul><p>This course is a helpful but not mandatory Ramp Up Course for \"AngularJS: Write it Like A Pro.\"</p>", 
+    "end_date": null, 
+    "title": "AngularJS Cookbook: Recipes For Common Scenarios", 
+    "price": "20.00", 
+    "instructors": "Michael E. Vargas JR", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/599300_4da7_2.jpg", 
+    "course_url": "https://www.udemy.com/angularjs-cookbook-recipes-for-common-scenarios/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-01T12:32:48Z"
+}

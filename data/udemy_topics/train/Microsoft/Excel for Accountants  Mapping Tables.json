@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t        In this course, author and award-winning instructor Jeff Lenning CPA demonstrates the technique featured in his Journal of Accountancy article <em>The Power of Mapping Tables</em>. If you use Microsoft Excel to generate reports, this course is for you. We discuss the benefits of storing source data in tables, how to use the SUMIFS function to conditionally sum transactions, and how to translate labels with a mapping table.  </p>  <p>  \t  Microsoft introduced tables in Excel 2007, and this feature is a game-changer. If you do not store your data in tables, you are missing out on a simple way to improve the reliability of your workbooks. Converting an ordinary range into a table provides many special benefits, and we&#039;ll discuss these special properties in the course.  </p>  <p>  \t  Also with the roll-out of Excel 2007, Microsoft introduced a new worksheet function: SUMIFS. This too is a game-changer. Performing multiple-condition summing in earlier versions of Excel was challenging, and required clever functions such as SUMPRODUCT or array formulas. For many workbooks, these can be replaced with the SUMIFS function. We&#039;ll discuss the function&#039;s arguments and demonstrate several practical applications.  </p>  <p>  \t  Excel reports often aggregate data. Frequently, the data labels are different than the report labels. For example, the accounting system may export account names, such as Cash or Savings, but the corresponding report labels are financial statement items, such as Cash and Cash Equivalents. When the labels are different, we are prevented from using lookup functions such as VLOOKUP to retrieve values. In this course, we&#039;ll demonstrate the mapping table technique which enables our reports to retrieve values from data tables, even when the labels are different.  </p>  <p>  \t  The course includes practice Excel files, corresponding answers files, and a solutions video. The course is structured by topic, and within each topic, there is a PowerPoint discussion, a lecture video that works through the item in Microsoft Excel 2013 for Windows, and sample exercises for you to work hands-on. If you use Excel to create reports, this course will help you prepare them more quickly.  </p>", 
+    "end_date": null, 
+    "title": "Excel for Accountants: Mapping Tables", 
+    "price": 0, 
+    "instructors": "Jeff Lenning", 
+    "commitment": "31 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/331738_d769_2.jpg", 
+    "course_url": "https://www.udemy.com/excel-for-accountants-mapping-tables/", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-30T14:20:00Z"
+}

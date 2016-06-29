@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong><em>LATEST: Course Updated for Feb 2016</em></strong></p>\n\n<p><em>Now you can get the<strong> \"Master Programmer Certification in OOP\" </strong>from <strong>Eliminate Code Fear</strong> after completing the course. You must email the instructor once you complete the course and pass an online OOP test from their website.</em></p>\n\n<p><em></em></p>\n\n<p><strong>SUPER CHARGE OF YOUR PROGRAMMING CAREER and acquire some seriously </strong><strong>marketable skills</strong><strong>!</strong></p>\n\n<p>  \t  Just because you learned how to use a hammer doesn't mean you are ready to construct a building. Similarly, It's not enough to just understand a programming language. That's just a tool that can be used to develop various programs. The <strong>real craftsmanship is in software DESIGN</strong>.  </p>\n\n<p>  \t  This course is designed to take a junior level programmer with limited knowledge about object orientation to a competent level object oriented software designer! I expect you to understand the basics of loops, methods and conditionals in Java. <strong>You'll be</strong> <strong>completing hands-on HOMEWORK Exercises </strong>through out the course! I have provided <strong>detailed video solutions to the exercises</strong> so that you can check your answers and get step by step instructions of how to tackle the object oriented design assignments.  </p>\n\n<p>  \t    You can find plenty of resources online for solving a programming puzzle  or practicing algorithms. But… when it comes to object oriented design,  admittedly, there is limited material out there for you to practice. So  in this course, we use a<strong> LEARN-BY-DOING</strong>  approach to explore a series of progressively challenging exercises to  discover the 5 core object oriented design PRINCIPLES summarized by an  acronym called SOLID:  </p>\n\n<p>  \t<strong>(S). Single Responsibility  </strong>  </p>\n\n<p>  \t<strong>        (O). Open/Closed  </strong>  </p>\n\n<p>  \t<strong>  (L).  Liskov Substitution  </strong>  </p>\n\n<p>  \t<strong>        (l ). Interface Segregation  </strong>  </p>\n\n<p>  \t<strong>        (D). Dependency Inversion  </strong>  </p>\n\n<p>  \t    During this journey you'll get practice applying some of the most important <strong>DESIGN PATTERNS</strong> that competent developers must have under their belt. There are so many design patterns out there, but we'll be thoroughly covering only the most important ones. Save yourself the time from learning all the design patterns and going on a design frenzy. Focus on the 20% that covers 80% of the scenarios and add miles to your programming efficiency.  </p>\n\n<p>  \t<em><strong>These cover 80% of patterns used out there in professional software development.  </strong></em>  </p>\n\n<p>  \t<strong>1). Strategy Pattern  </strong>  </p>\n\n<p>  \t<strong>        2). Observer Pattern  </strong>  </p>\n\n<p>  \t<strong>        3). Builder pattern  </strong>  </p>\n\n<p>  \t<strong>        4). Factory method pattern  </strong>  </p>\n\n<p>  \t<strong>        5). Template Method Pattern  </strong>  </p>\n\n<p>  \t<strong>6). Singleton Pattern</strong>  </p>\n\n<p>  \t                            The topics can be applied to pretty much any object oriented language.<strong> But, we'll be using Java, so I expect you to be familiar with the basic language constructs such as classes, methods and interfaces. </strong>But don't worry if you don't know about these, I've taken the time to create 6 comprehensive prerequisite lessons on introduction to object orientation. In these lessons, new comers can learn about the basics of object orientation such as:  </p>\n\n<p>  \t<strong><em>1). Classes and objects  </em></strong>  </p>\n\n<p>  \t<strong><em>        2). Inheritance and polymorphism,  </em></strong>  </p>\n\n<p>  \t<strong><em>        3). Interfaces and abstract classes.  </em></strong>  </p>\n\n<p>  \t                            I'm certain that, by practicing the concepts covered, you'll make a substantial leap forward in your programming career. I hope to see you in the coming lessons. </p>\n\n<p>This course is from eliminatecodefear(dot)com. This site offers lectures on practical software development topics to immediately impact your programming skills. Things you can take to your interview and feel confident in your abilities!</p>", 
+    "end_date": null, 
+    "title": "Master Object Oriented Design in Java - Homework + Solutions", 
+    "price": "35.00", 
+    "instructors": "Imtiaz Ahmad", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/359550_ab12_12.jpg", 
+    "course_url": "https://www.udemy.com/mastering-object-oriented-design-in-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-30T03:12:16Z"
+}

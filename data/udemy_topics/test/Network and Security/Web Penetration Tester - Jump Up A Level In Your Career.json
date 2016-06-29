@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Learn now how to build your $120 000/year career as Ethical Hacker! </strong><br></p><p><strong>A job that can be done from home, coffee shop or remote island!</strong></p><p>In order to protect yourself from hackers, you must think as one.<br></p><p>This training is based on a practical approach of day-by-day situations and it contain labs based on real environments. </p><p>The course objective is to help you learn to master the (ethical) hacking techniques and methodology that are used in penetration systems. The course is designed for IT passionate, network and system engineers, security officers. </p><p>Below are the main topics, both theoretical and practical, of this course:</p><ul><li>Core problems (Causes. Defences)</li><li>Web Technologies (HTTP Protocol, Web Functionality, Encoding)</li><li>Mapping (Spidering and Analysing)</li><li>Attacking Authentication (Technologies, Flaws, Fixes, Brute Force)</li><li>Attacking Session Management (State, Tokens, Flaws)</li><li>Attacking Access Controls (Common Vulnerabilities, Attacks)</li><li>Attacking Data Stores (SQL Injection, Bypassing Filters, Escalation)</li><li>Bypassing Client-Side Controls (Browser Interception, HTML interception, Fixes)</li><li>Attacking the server (OS command Injection, Path Traversal, Mail Injection, File Upload)</li><li>Attacking Application Logic</li><li>Cross Site Scripting</li><li>Attacking Users (CSRF, ClickJacking, HTML Injection)</li></ul><p><strong>Demos:</strong></p><ul><li>Spidering, Website Analyser </li><li>Brute-Force</li><li>Session Hijacking via Mann-in-The-Middle</li><li>Get Gmail or Facebook Passwords via SSLStrip</li><li>SQL Injection</li><li>Upload File and Remote Execution</li><li>Cross-Site Scripting (Stored + Reflected, Cookie Stealing, Preventing XSS)</li><li>CSRF (Change password trough CSRF vuln., Preventing CSRF)</li></ul>", 
+    "end_date": null, 
+    "title": "Web Penetration Tester - Jump Up A Level In Your Career", 
+    "price": "25.00", 
+    "instructors": "Gabriel Avramescu", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/509670_9036_9.jpg", 
+    "course_url": "https://www.udemy.com/web-application-ethical-hacking/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-23T16:30:25Z"
+}

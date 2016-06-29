@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">Curso voltado a estudantes ou profissionais que atuam ou pretendem atuar no mercado de trabalho, utilizando o Sistema SAP como sua principal ferramenta de trabalho.</p><p style=\"\">SAP é um Sistema ERP utilizado por várias Empresas no Brasil e no mundo, para Gerenciamento de seus Recursos, passando por diversas áreas, como: Financeira, Comercial, Fiscal, Compras, Produção, entre diversas ouras.</p><p style=\"\">SAP é um Sistema Modular. Cada Módulo representa uma área da Empresa.</p><p style=\"\">O Módulo MM, significa Materials Management, ou Gerenciamento de Materiais, o qual é responsável pelas seguintes Áreas Fundamentais de uma Empresa:</p><ul style=\"\"><li style=\"\">Cadastro de Materiais</li><li style=\"\">Cadastro de Fornecedores</li><li style=\"\">Processos de Cotação / Contratos e Pedidos de Compras de Serviços, Materiais Produtivos ou Não Produtivos</li><li style=\"\">Gestão de Estoques / Inventários</li><li style=\"\">Movimentação interna e externa de Mercadorias</li><li style=\"\">Lançamentos Contábeis e Fiscais para Processos de Entrada (Compra / Aquisição)</li><li style=\"\">Entre outras</li></ul>", 
+    "end_date": null, 
+    "title": "SAP MM - Visão Geral", 
+    "price": 0, 
+    "instructors": "Natan Cavalcanti", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/549492_0bd2.jpg", 
+    "course_url": "https://www.udemy.com/sap-mm-visao-geral/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-08T21:48:04Z"
+}

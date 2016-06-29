@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t  This three hour course is an introduction to the concepts needed by both new users, and site owners and power users, to manage a SharePoint site including:  creating and working with lists, libraries, and site pages; using views and workflows; working with web parts on a page; granting users permission to use a site; and over-riding inherited permissions for lists or libraries.  Materials included are instructional videos, along with downloadable student data files.  </p>", 
+    "end_date": null, 
+    "title": "SharePoint 2013 ", 
+    "price": "40.00", 
+    "instructors": "CompuWorks Trainers", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/376460_3e0f_2.jpg", 
+    "course_url": "https://www.udemy.com/sharepoint-2013-for-power-users/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-23T18:55:10Z"
+}

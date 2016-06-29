@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>Programar parece uma tarefa simples e fácil, mas quando entramos no mercado de trabalho lidamos com vários problemas do dia a dia que afeta diretamente a qualidade de nossos códigos, gerando inúmeros problemas, como bugs, atraso na entrega, dificuldade de manutenção, muito retrabalho, entre outros.</span>  </p>  <p>  \tVisando resolver estes problemas, um grupo de especialistas americanos criaram várias técnicas de desenvolvimento visando os melhores resultados, então criaram o TDD, que é uma metodologia que cuida da qualidade em todo o processo de desenvolvimento.  </p>  <p>  \tO TDD se baseia em um ciclo bem simples de 3 passos, mas junto com esse ciclo vem um conjunto de melhores práticas que compõe toda uma filosofia. Neste curso você irá aprender o TDD e as melhores práticas para obter melhores resultados no seu desenvolvimento.  </p>  <p>  \tO curso é estruturado da seguinte forma:  </p>  <ol style=\"\">  \t<li>Introdução ao tema.</li>  \t<li>Conceitos básicos de qualidade.</li>  \t<li>TDD - exercícios, regras, recomendações, ferramentas, ou seja, toda informação necessária para você praticar o TDD.</li>  \t<li>Padrões e Melhores Práticas.</li>  \t<li>Bônus - Informações extras sobre o TDD no mercado de trabalho e no dia a dia das empresas.</li>  </ol>  <p>  \tComo todo curso do Nardini Academy, o conteúdo é constantemente atualizado e você recebe todo esse conteúdo novo, além de poder tirar dúvidas, sugerir melhorias e contribuir para evolução do conhecimento trocado no curso junto com todos os alunos.  </p>", 
+    "end_date": null, 
+    "title": "TDD Para Programadores Java", 
+    "price": "25.00", 
+    "instructors": "Bruno Nardini", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/365164_c548.jpg", 
+    "course_url": "https://www.udemy.com/tdd-para-bons-programadores-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-07T12:24:59Z"
+}

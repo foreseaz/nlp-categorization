@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Have you ever wanted to have a SAP system of your own? Are you tired of coruses which dwell on theory rather than actual installation of SAP itself? Fret not, this course aims to solve that by providing you with all the necessary knoweledge of installing a SAP IDES, SAP version for demo system, for you to practice any module (FI,MM, HR) so on.</p><p>This course also aims to help professionals who are looking to develop their Basis skills. You will get live recording sessions of installing the software itself.</p><p>Though the course is not very long, if you happen to have some basic knoweledge of servers, especially Windows Servers then this is a very good opportunity for you to improve on those. We are going to be installing on the latest Windows Server version 2012..</p>", 
+    "end_date": null, 
+    "title": "SAP - IDES Installation ECC 6.0 Ehp 6", 
+    "price": "30.00", 
+    "instructors": "Bharath Priya", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/553384_3cd1_3.jpg", 
+    "course_url": "https://www.udemy.com/sap-ides-installation/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-13T14:53:56Z"
+}

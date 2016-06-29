@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p><em></em>The current course takes you through 12 sample questions along with step-by-step solution for each question. It will take about half an hour to finish this course. The topics covered in this course are focused on computing partial derivatives, first and higher order partial derivatives, finding critical points, and determine their types (using second derivative test). By the end of this tutorial, you will be able to compute first and higher order partial derivatives, use Clairaut’s theorem, identify and classify critical points, find maxima and minima and saddle points for functions of several variables. This will provide you with the skill set and confidence that you need for your exam.</p>", 
+    "end_date": null, 
+    "title": "First Year University Calculus: Partial Derivatives, Max/Min", 
+    "price": "20.00", 
+    "instructors": "Straight A Homework", 
+    "commitment": "32 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/727126_2c11.jpg", 
+    "course_url": "https://www.udemy.com/first-year-university-calculus-partial-derivatives-maxmin/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-13T18:29:41Z"
+}

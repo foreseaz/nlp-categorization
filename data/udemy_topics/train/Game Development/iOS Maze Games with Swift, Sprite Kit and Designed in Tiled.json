@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\"><span style=\" color:inherit;\">Classic game concepts. Modern programming.</span></strong>  </p>  <p>  \t  When you think of maze games, you’ll probably think of Pac-Man, which isn’t hard to argue is the most popular game of all time. At that game’s core is a simple hook. Move at high speeds and don’t get caught, which is a fun concept for any player of any age. Even today some of the most popular games don’t rely on much more than a classic hook: something that is easy to play, but impossible to beat. A game like Flappy Bird is a recent testament to that.  </p>  <p>  \t  In this tutorial series, we’ll look at programming a conceptually simple game, but one that can be expanded in a hundred different directions using Apple’s amazingly easy physics engine. You’ll learn the latest in iOS programming technology: Swift and Sprite Kit.  Then for level design, you’ll get two options: create levels within Xcode 6 using the new Scene editor, or take a step outside Xcode and use Tiled, a free level design program which in our opinion, is a tad more refined and speeds up level creation.  </p>  <p>  \t  After this series, you will be a game developer!  Ready to submit your first app for the iPhone, iPad, and possibly even Apple Watch.  Plus using software like Apportable, you can even export your app to Android and a plethora of other devices.  </p>", 
+    "end_date": null, 
+    "title": "iOS Maze Games with Swift, Sprite Kit and Designed in Tiled", 
+    "price": "20.00", 
+    "instructors": "Justin Dike", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/326190_03d5_9.jpg", 
+    "course_url": "https://www.udemy.com/ios-maze-games-with-swift-sprite-kit-and-designed-in-tiled/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-24T05:37:32Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>MASTERING IOS CORE DATA WITH SWIFT </strong></p><p><strong>==============================================</strong></p><p><strong>*****  Created with Xcode 7.2 and Swift 2.1 *****</strong><br></p><p><strong>Published: January 2016</strong></p><p><strong>==============================================</strong></p><p><strong><em>What is Core Data? Why should I know about Core Data?</em></strong><br></p><p>Core Data is one of the most powerful framework that Apple has provided for developer.  \"Core Data is a framework that you use to manage the model layer objects in your application. It provides generalized and automated solutions to common tasks associated with object life cycle and object graph management, including persistence.\" - Source from Apple\".  </p><p>If you are passionate about learning mobile development for iOS and looking to take your iOS development skills to the next level, Core Data framework should be at the top of your list.<br></p>By the time you are done with <strong>Mastering iOS Core Data with Swift</strong> course, you will be ready and very confident to take on any Core Data project coming your way.  On top of that, you will be one step closer to become a well rounded iOS developer.<p><br></p> <strong><em>What's in it for me?</em></strong><p>In this course I will take you on a journey in the world of Core Data. We will cover all the important aspects of Core Data:</p><ul><li>Entity</li><li>Attribute Type</li><li>Relationships</li><li>ManagedObjectContext</li><li>ManagedObject</li><li>PersistenceStore</li><li>PersistenceStoreCoordinator</li><li>Handling JSON data</li><li>Handling plist data</li><li>Predicate</li><li>CompoundPredicate</li><li>Fetching</li><li>Batch Fetching and Update</li><li>Object Deletion</li><li>Asynchronous Fetching</li><li>NSFetchedResultsController</li><li>Aggregate Functions</li><li>Grouping</li><li>Caching</li><li>Performance Tuning and Best Practices</li><li>Data Model Versioning</li><li>Lightweight Migration</li><li>Manual Migration with Model Mapping</li><li>iCloud Synching</li></ul><p>Throughout this course we will look in detail the Core Data framework to provide data storage functionality in iOS applications.  We will start by creating a simple app that is utilizing Core Data framework, building our own Core Data stack and eventually using all different Core Data features into our application. </p><p><strong><em>Perfomance Tuning and Best Practices</em></strong><br></p><p>We will cover the various ways on fetching our data and how to efficiently using Core Data in our app.  Unit testing and performance tuning will be an important part on how we can monitor our app performance in conjunction with Core Data in our application.</p><p>Along with Core Data versioning, migration and iCloud integration, I will take you on developing 5 iOS applications and how we can integrate all of these components into Core Data.</p><p><strong><em>Do at your own pace</em></strong><br></p><p>Lots of students have different methods of learning.  Through out this course I will provide both the starter and final Xcode project solution, so you can either follow along one step at a time or you can jump directly to the final solution.  And by the end of this <strong>Mastering iOS Core Data with Swift </strong>course, you should be comfortable and ready to integrate Core Data framework in your application.<br></p><p><strong><em>Target Audience: </em><span></span></strong>All iOS developer that would like to take their skills to the next level.<br></p><p><strong><em>What are the requirements?</em></strong><br></p><ul><li>A Mac laptop or iMac</li><li>Xcode 7.x</li><li>Some knowledge of Swift development</li></ul>", 
+    "end_date": null, 
+    "title": "Mastering iOS Core Data with Swift ", 
+    "price": "30.00", 
+    "instructors": "Andi Setiyadi", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/694052_a307_8.jpg", 
+    "course_url": "https://www.udemy.com/mastering-ios-core-data-with-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-10T15:22:33Z"
+}

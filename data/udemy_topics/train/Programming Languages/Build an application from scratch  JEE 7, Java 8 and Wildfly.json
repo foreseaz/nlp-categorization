@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This project based course will lead you step-by-step throughout the development of a Java application from the scratch. If you have already felt frustrated by reading a lot of tutorials and not realizing how to put together all these technologies, I guarantee you will not have this feeling here, as we will be coding together a whole application, passing through the project creation, coding, writing unit and integration tests, creating the database, configuring the application server, deploying the application and performing real tests!</p>  <p>This course will cover a lot of Java technologies that will be used in practice while we create our project, including:</p><ul><li>Java EE 7: JPA 2.1, Bean Validation 1.1, JMS 2.0, EJB 3.2, CDI 1.1, JAX-RS 2.0, security.</li><li>Java 8: Lambda expressions, Date and Time API, streams and more.</li><li>Libraries such as Gson, JUnit, Mockito and Hamcrest.</li><li>Arquillian for integration tests.</li><li>Wildfly 8 (former JBoss) as Application Server.</li><li>PostgreSQL for production and HSQLDB/H2 for unit and integration tests.</li><li>Maven.</li><li>Eclipse IDE (this is a Maven project, so you can use other IDE).</li><li>Postman Chrome extension to test all our REST endpoints.</li></ul>  <p><br></p><p>This course is not only about technologies, but also about best practices, such as writing automated tests (both unit and integration) for most of the code, refactoring, OOP (object-oriented programming) and much more.</p>  <p>Who is this course for:</p><ul><li>Honestly, for every Java developer that wants to see how to create a real enterprise application using state-of-the-art technologies and best practices. Seriously! However, if you are beginner in the Java world, you will need to explore more the details of some technologies, as this course in really hands on.</li></ul><br><p>If you are still unsure about enrolling in this course, watch the first free videos so you can get more details about the architecture, technologies and requirements about the project that will be created throughout this course.</p>", 
+    "end_date": null, 
+    "title": "Build an application from scratch: JEE 7, Java 8 and Wildfly", 
+    "price": "20.00", 
+    "instructors": "Luciano Molinari", 
+    "commitment": "15 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/401578_1b4c_3.jpg", 
+    "course_url": "https://www.udemy.com/build-an-application-from-scratch-jee-7-java-8-and-wildfly/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-22T21:34:13Z"
+}

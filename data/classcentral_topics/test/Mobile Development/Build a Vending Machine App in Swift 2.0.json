@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    In this course, you will build a simple app that models a vending machine in the real world. The aim of the course is to understand errors in our code and how we handle situations that are unexpected or incorrect. In addition, we will take a look at how to use stock controls in iOS and understand how views are arranged in an app. Towards the end you should have a good grasp on how to create and respond to your own error conditions and include multiple screens in your app.\r\nWhat you'll learn\r\n\r\n- Error handling\r\n- Multiple views\r\n- UI Controls\r\n\n\n                                            Syllabus\n                        Modeling An Interface \r\nBefore we can actually work on buying items from a vending machine, we need think about the architecture of our app. In this stage we lay the groundwork for our models with a series of protocols and look at how we can make our code safer by using custom types.\r\nLoading Data From a Resource\r\nRather than hard code the data into our app, we’re going to work with an external resource. Part of this approach includes making our objects flexible so that the source of the data doesn’t matter while the rest includes understanding how to convert data from a generic format to our custom types.\r\nUsing the Vending Machine\r\nNow that we have an inventory created from a property list file, let’s add implementations for the rest of the vending machine logic. In this stage we look at how we can display the correct icons, add a stepper to modify the quantity and improve our user interface.\r\nDisplaying Additional Views\r\nWhen building mobile apps we aren't restricted to a single view. In this stage, we're going to take a look at one of the ways we can present additional information using modal views.\r\n \n                                    ", 
+    "end_date": null, 
+    "title": "Build a Vending Machine App in Swift 2.0", 
+    "price": 25.0, 
+    "instructors": "", 
+    "institution_name": [], 
+    "commitment": "2-3 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "http://treehouse.7eer.net/c/259799/289772/3944", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Treehouse"
+    ], 
+    "start_date": "2016-06-07T00:00:00Z"
+}

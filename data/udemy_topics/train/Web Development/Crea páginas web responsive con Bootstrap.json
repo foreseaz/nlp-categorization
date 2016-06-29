@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>¿DE QUÉ SE TRATA EL CURSO?</p>\n\n<p>Hoy todas las páginas web deben ser construidas para ser visualizadas correctamente en cualquier dispositivo, ya sea un móvil, una tablet o un computador. Este curso te va ayudar a crear páginas web que se adapten a cualquier dispositivo. Esta práctica la conocemos como \"Responsive Web design\" (Diseño Web Adaptable) y lo vamos a aprender con un Framework llamado Bootstrap creado por los desarrolladores de Twitter. Este Framework trabaja con HTML5, CSS3 y JavaScript.</p>\n\n<p>¿CÓMO ES EL CURSO?</p>\n\n<p>El curso se divide en varias secciones. En una primera sección aprenderemos a construir el diseño web adaptable desde cero en un programa de diseño como Illustrator. Luego pasaremos a conocer el sistema de columnas que maneja Bootstrap para que cada caja HTML se adapte a cualquier dispositivo. Comenzaremos a crear una maquetación web de acuerdo al diseño preestablecido y finalizaríamos esta sección con la creación del Wireframe, incluyendo los recursos interactivos que trae Bootstrap.</p><p>En la última sección de este curso integraríamos el diseño con cada uno de los gráficos que exportamos de Illustrator.</p>\n\n<p>¿CUÁNTO SE TARDA EN COMPLETAR EL CURSO?</p>\n\n<p>Depende de ti. Estimo que menos de una semana puedes completar el curso, pero dependerá de tu ritmo de trabajo y de tu disponibilidad.</p>\n\n<p>¿CUÁLES SON LOS REQUISITOS?</p>\n\n<p>Descargar el material que se encuentra en los recursos de la clase 1. Tener principios en HTML5 y CSS3, curso gratuito que puede realizar en UDEMY: \"Aprende HTML5 y CSS3 desde cero\".</p>\n\n<p>¿A QUIÉN VA DIRIGIDO ESTE CURSO?</p>\n\n<p>Este curso va dirigido a diseñadores gráficos, desarrolladores web, personas que quieran actualizar su conocimiento en la construcción de sitios web, personas que más adelante quieran crear aplicaciones nativas para dispositivos, personas que que más adelante deseen crear plantillas para Joomla o Wordpress.</p>", 
+    "end_date": null, 
+    "title": "Crea páginas web responsive con Bootstrap", 
+    "price": "20.00", 
+    "instructors": "Docente Juan Fernando Urrego", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/841242_4db3.jpg", 
+    "course_url": "https://www.udemy.com/crea-paginas-web-responsive-con-bootstrap/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-06T12:37:23Z"
+}

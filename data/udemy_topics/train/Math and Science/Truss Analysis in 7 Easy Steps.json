@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p style=\"\"></p><p style=\"\"><p style=\"\">Truss Analysis is one of the most important topics in  Statics, which is the first introductory in structural engineering curriculums.&nbsp; Trusses are structures that are widely used  in civil engineering applications, such as bridges, steel buildings and roof  structures.&nbsp; Trusses also appear in many  mechanical and aerospace structures such as cranes, space structures, offshore  platforms, and so on.&nbsp; </p>  <p style=\"\"><strong style=\"\">What is a Truss?</strong></p>  <p style=\"\">A truss is a structure usually consisting of straight  members that are connected to each other at the two ends of each member.&nbsp; All members of a truss structure are  connected together with pin joints, such that for the purpose of the design of  these structures we assume the joints cannot carry or resist any moments.&nbsp; All external loads acting on a truss are  assumed to be acting only at the joints, and therefore, all members of a truss  are two-force members.</p>  <p style=\"\"><strong style=\"\">Why Must We Learn Truss Analysis?</strong></p>  <p style=\"\">First of all, if we plan to design and build a truss  structure, such as a roof structure for carrying external loads, we need to  find out how much load is carried by each member of the truss.&nbsp; Secondly, in the case of an existing truss  structure, we may need to replace one or a few members.&nbsp; In this case, we need to find the internal  forces carried by those few members within the truss structure.&nbsp; In both instances, the objective is to  figure out and decide whether the members can sustain the forces or not and  what size members and what type of cross sections are required. </p>  <p style=\"\"><strong style=\"\">Types of Truss Analysis</strong></p>  <p style=\"\">There are two major methods of analysis for finding the  internal forces in members of a truss; the Method of Joints, which is typically  used for the case of creating a truss to handle external loads, and the Method  of Sections, which is normally used when dealing modifying the internal members  of an existing truss.&nbsp; Both of these  methods are based on the assumption that when a structure is in equilibrium,  all pieces of the structure are also in equilibrium.&nbsp; </p><p style=\"\"><strong style=\"\">Course Structure</strong></p>  <p style=\"\">In this course, I will present a thorough overview of truss  structures in the context of static analysis of structures.&nbsp; I will provide you with an easy-to-follow, 7-step  process for the Method of Joints and the Method of Sections.&nbsp; Each of the 7 steps are clearly demonstrated  in the presentation and sample problems, which I will walk through.&nbsp;</p>&lt;/p&gt;<p style=\"\"></p>  ", 
+    "end_date": null, 
+    "title": "Truss Analysis in 7 Easy Steps", 
+    "price": "20.00", 
+    "instructors": "Dr Mohammad Noori", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/33162_9744_5.jpg", 
+    "course_url": "https://www.udemy.com/truss-analysis/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-12-20T05:26:44Z"
+}

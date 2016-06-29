@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    \r\nThis project will walk us through creating a social networking web application with features similar to Facebook. Ruby on Rails is a web application framework which makes it easy and quick to build dynamic web sites.\r\n\n\n                                            Syllabus\n                        Getting Started with Rails \r\nThere are many things involved in creating a complicated web application. There are clients, servers, and all of the things in between. This stage walks us through what web applications are and the process of installing Ruby on Rails.\r\nFrontend Development\r\nA large part of creating web applications is designing what the user sees when they view a page. This includes the HTML markup and CSS that styles the pages. This stage introduces views in Ruby on Rails, and how they let us shape the content.\r\nCreating an Authentication System\r\nA common feature of web applications is to allow people to sign up and create an account, and then be able to log in with an email address and password. There are many security concerns that need to be taken into account when implementing such a feature. Fortunately, Ruby on Rails has several pre-built tools to make implementing a login system easy.\r\nCustomizing Forms\r\nForms are an important part of any web application because they are how the user interacts with the app. Creating forms that are easy to use is simple to do with Ruby on Rails when you use the built-in tools and some other popular tools built for Rails.\r\nWriting Tests\r\nAutomated testing is a powerful tool that every developer should master. By writing tests that verify your code works as expected, you can reduce the number of unexpected bugs that make your app fail. Writing these tests also helps ensure you don’t break some other part of your app while building a new feature.\r\nDesigning URLs\r\nRuby on Rails includes powerful tools for customizing and routing URLs. We'll show you how to define which URL will point to which page in our app.\r\nTesting the Whole App\r\nIn addition to testing small, specific functions of the web application, we also need to test that larger use cases are working properly, by writing higher level tests. We use these tests, called integration tests, to make sure common features like logging in and creating an account work for the user.\r\nBuilding the Profile Page\r\nThe profile page is the foundation of our social network application. Each user will have their own profile page with their own custom URL based on their username. This profile page will initially just show the status updates that the user has posted.\r\nDeploying\r\nThe most important step of creating our application is deploying it to the internet. While developing, we run the app locally to test it, but its final home is on the internet. There are many different ways of deploying a web application, but one of the easiest ways is Heroku, which lets you deploy your app for free.\r\n \r\n \n                                    ", 
+    "end_date": null, 
+    "title": "Build a Simple Ruby on Rails Application", 
+    "price": 25.0, 
+    "instructors": "", 
+    "institution_name": [], 
+    "commitment": "8-9 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "http://treehouse.7eer.net/c/259799/289774/3944", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Treehouse"
+    ], 
+    "start_date": "2016-06-07T00:00:00Z"
+}

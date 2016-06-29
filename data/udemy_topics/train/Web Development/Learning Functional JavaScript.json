@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Along with being tried and trusted, functional programming is one of the biggest current trends in programming. Its focus on side-effect free code, unadorned data manipulation and simple structures promote a coding style that reduces bugs, and lifts the level of abstraction to a point where we can achieve more with less code. All topics discussed in the course can be used to various degrees in any code-base – even if your daily work is with a huge object-oriented project, the techniques discussed will certainly be useful.</p><p style=\"\">Learning Functional JavaScript will show you how to build powerful abstractions by combining many small and simple functions, and how to strip your data modeling to the necessities. We start by investigating the power of higher-order functions by diving right into the implementation of the sample application. We then elaborate by partially applying and composing functions before we end up with lazy evaluation to boost our abstraction power and performance.</p><p style=\"\">Right from the start we&#039;ll dive into the implementation of a text-based adventure game. We will also see how function composition is used to solve specific problems in this domain by combining highly generic functions. We learn function programming techniques that help improve asynchronous code used to load the game from disk.</p><p style=\"\">Later we&#039;ll become acquainted with a few other examples as well, as we learn about designing applications around an immutable data structure. And we end our journey with a discussion of recursion and how it relates to lazy data structures, and show examples of using previously discussed techniques on infinite data sets.</p><p style=\"\">At the end of the course, you&#039;ll be proficient with the basic functional programming techniques and will be able to optimize your JavaScript code by applying them. Learning Functional JavaScript teaches you all the basic functional programming techniques and shows you how to apply them to JavaScript, and how they can be used to solve highly practical problems.</p><p style=\"\"><strong style=\"\">About The Author</strong></p><p style=\"\"><strong style=\"\">Christian Johansen</strong> is a passionate programmer working with Oslo-based consultancy Kodemaker. He&#039;s a man with an eclectic background, having worked with everything from Unix systems tuning and ops to various server-side applications and JavaScript heavy frontend development. Christian is the author of Test-Driven JavaScript Development, and he maintains several open-source projects, including the JavaScript test-framework BusterJS and the popular mocking framework SinonJS. Functional programming is a long-standing interest, most recently practiced with Clojure and JavaScript.</p>", 
+    "end_date": null, 
+    "title": "Learning Functional JavaScript", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/574502_6583_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-functional-javascript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-05T11:43:29Z"
+}

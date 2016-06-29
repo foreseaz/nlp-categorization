@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Nutrition & Wellness"
+    ], 
+    "description": "\n\n                    \n                                            \n                            PSA: This Course will no longer be available June 30th 2016 onwards\n                            Coursera announced that they will be shutting off their old platform on June 30th. Over  400 courses that are part\n                                of the old stack will be no longer be available. You can find the  complete list here.\n                            \n                            \n\n                            \n                                Read this guide to learn how to download this course before the old platform shuts down. \n\n                                The guide provides two ways to download the courses - Chrome Plugin and Python Script. Depending on which method you use, check the appropriate sections below for further details.\n                            \n                            \n                            \n                                To download this course you need to be enrolled in the course.\n                                                                    You can enroll for the course here:\n                                    https://www.coursera.org/course/foodsafetytox\n                                                            \n\n                            Chrome Plugin\n\n                                                            You can download the course materials for this course by visiting the following url (you need to be logged in):\n                                                                        https://class.coursera.org/foodsafetytox-001/lecture\n                                \n                            \n                            Python Script\n                            \n                                                                For the python script to work you will need a class name. Pick one from below:\n                                                                    foodsafetytox-001\n                                \n                                \n                                If more than one class name below, pick the last one. If the script fails, pick the one above that and try again. Not all of these class names are guranteed to work.\n\n\n                            \n\n\n\n\n\n\n                        \n                    \n                    「民以食為天！」隨著時代演進，工業與農業快速發展，大部份人類不再需要為了食物短缺的問題傷透腦筋甚至大打出手，吃飽顯然不再是問題時，另一個疑問產生了：「我吃進去的東西到底是什麼？」。人們開始想要知道吃下去的東西安不安全、會不會對人體產生危害？食品安全的問題也就因此誕生。「吃得飽不如吃得巧！」對應這些問題，科學家們發展出了多套嚴謹的毒理機制來評斷食品安全性。而我們將在本課程中介紹這些機制運作的方法和實際應用的例子，希望使同學了解看到擺在架上的食品，其背後許多不為人知的故事，並在面對層出不窮的食安問題時，能具有相當的基本概念，與對這些問題的思考能力。\n\n                                            Syllabus\n                        [第一週]教學主題：食品與毒理學原理學習目標：透過食物特性講解食品安全概念，並以毒理學基本概念鍵結至食品安全，讓學生了解品嚐食物同時也暴露食安風險[第二週]教學主題：食物與環境污染物學習目標：希望學生透過本堂課了解食品中污染物是來自那裡、環境污染物有那些。[第三週]教學主題：食物中天然動植物毒素學習目標：讓學生瞭解天然的食材也潛在著風險，認知安全的使用食材對遠離食物毒素傷害的重要性。[第四週]教學主題：食物烹調產生的毒性物質學習目標：讓學生瞭解食物料理過程中應物理、化學及生物效應，讓食物產生有毒物質的機轉、效應及結果。[第五週]教學主題：食品添加物學習目標：希望學生透過本堂課能夠獲得食品添加物在食物生產、製造、運送、保存上的角色，並了解其潛在安全與毒性上的風險。[第六週]教學主題：卡路里的毒性效應與總結\n\n\n\n\n\n\n\n學習目標：即使是食物只要過量就會對人體造成傷害，讓學生了解過量卡路里帶來的毒性效應，進而思考應該如何透過改善自己的飲食習慣減少卡路里所帶來的毒性，提升生活品質。本週也會在最後為課程做一個總結與進行討論。\n                                    ", 
+    "end_date": "2015-07-28T00:00:00Z", 
+    "title": "食品安全與毒理 (Food Safety & Toxicology)", 
+    "price": 0, 
+    "instructors": "姜至剛  Chih-Kang  Chiang", 
+    "institution_name": [
+        "National Taiwan University"
+    ], 
+    "commitment": "4-5 hours", 
+    "subject_name": [
+        "Health & Medicine"
+    ], 
+    "course_url": "https://www.coursera.org/course/foodsafetytox", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2015-06-16T00:00:00Z"
+}

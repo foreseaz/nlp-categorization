@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course aims to train people, who wants to know distributed computing, the history of the Hadoop, enterprise applications of it and how to integrate Hadoop to your own conventional infrastructure.</p><p>This course includes video demos to show, how an enterprise company can integrate Hadoop to their infrastructure</p><p>Hadoop is a leading and growing technology, that needs to be considered when an enterprise wants to develop their own infrastructure. The first and the most important advantage of Hadoop technology is the ability of making some incredible calculations and processes for very low costs, that appliances can never reach.</p><p>I this course, we will see some integration and implementation processes of Hadoop for an enterprise company.</p><p>There are 10 different quizzes with 82 questions in different subjects and a final exam.</p><p>All the fill-in the blanks questions counts as 2 points and other questions has 1 point value. All the points that you get from the questions will affect your final point with 40% and the final exams weight is 60%. If your grade is larger than 70 you will get a certificate of Hadoop enterprise integration.</p>", 
+    "end_date": null, 
+    "title": "Hadoop Enterprise Integration ", 
+    "price": "20.00", 
+    "instructors": "Melih Koca", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/588262_a72b_4.jpg", 
+    "course_url": "https://www.udemy.com/hadoop-enterprise-integration/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-20T08:55:08Z"
+}

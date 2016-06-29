@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Salve a tutti. Con questo corso vogliamo illustrarvi tutte le tecniche basi per poter gestire un nostro blog o sito usando il CMS Wordpress. Spiegheremo tutta la fase della installazione su server di test locali sia su Mac, Windows e Ubuntu Linux. Imparerete a configurare la piattaforma attraverso il pannello amministrativo, gestendo il sistema dei commenti, le categorie e i media. Imparerete ad installare temi e a personalizzarli e a creare post e categorie. Imposteremo un forum, una newsletter e jun sistema di backup. Inoltre useremo il plugin jet seo pack molto utile per migliorare il sistema SEO del nostro sito. Vedremo come creare le pagine e come mostrarle in home page o come voci di menu. Vedremo anche come creare un form contatti. Inoltre vedremo come si installa in remoto su uno spazio hosting. </p>", 
+    "end_date": null, 
+    "title": "Wordpress 4 dalle basi alle tecniche avanzate", 
+    "price": "20.00", 
+    "instructors": "antonio mercurio", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/479144_f599_3.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-4-dalle-basi-alle-tecniche-avanzate/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-17T16:46:28Z"
+}

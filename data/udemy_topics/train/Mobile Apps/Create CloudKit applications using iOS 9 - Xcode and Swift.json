@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<h4>iCloud for Developers</h4>\n\n<p>Keep your apps connected and up to date across iOS, OS X, and now on the web with CloudKit JS. With free public storage up to 1PB, it's never been easier to build and grow your apps using CloudKit.</p>\n\n\n\n\n\n\n\n\n\n<h4>CloudKit</h4>\n\n\n\n\n\n\n\n\n\n\n\n<p>CloudKit provides authentication, a private and a public database, and structured asset storage services—so you can focus on client-side development.</p>\n\n\n\n\n\n\n\n\n\n<p>Do you want to create amazing Cloud iOS applications?</p>\n\n\n\n\n\n\n\n\n\n<p>Do you want your iOS and OSX applications to be connected and up to date?</p>\n\n\n\n\n\n\n\n\n\n<p>Do you want to save your database on the Cloud?</p>\n\n\n\n\n\n\n\n\n\n<p>If YES, this course is for you!</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>What's the course about and how is it structured?</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>In this course we will learn how to use Apple's CloudKit Service to build applications that save data in the cloud.   </p>\n\n\n\n\n\n\n\n<p>We will use Xcode 7.x , iOS 9 and Swift 2.x ,  with a step by step approach.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>The course covers : </strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Learn:</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>How to connect CloudKit with your iOS application</li><li>How CloudKit Dashboard works.</li><li>How to create Record Types</li><li>How to add records from Dashboard</li><li>How to add records from code</li><li>How to fetch records</li><li>How to update records</li><li>How to delete records</li><li>How to use CKOperations</li><li>How to use References</li><li>How to use Subscriptions</li></ul>\n\n\n\n<p><br></p>\n\n\n\n<p><strong>Materials</strong><br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>The course consists of : </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>2.0+ hours of video lectures with code from scratch </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Xcode files for download </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>This course can be completed in a couple of Days. </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Why to follow this course?</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>If you want to learn how to work with Apple's CloudKit Service or use this code to upgrade your existing application this course is for you! </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Who can follow this course ?</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Anyone with basic knowledge of programming can follow this course.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Copyright © Valsamis Elmaliotis 2016</p>", 
+    "end_date": null, 
+    "title": "Create CloudKit applications using iOS 9 - Xcode and Swift", 
+    "price": "20.00", 
+    "instructors": "Valsamis Elmaliotis", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/860568_8485.jpg", 
+    "course_url": "https://www.udemy.com/create-cloudkit-applications-using-ios-9-xcode-and-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-26T13:29:38Z"
+}

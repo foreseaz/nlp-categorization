@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tDiscover how to use PHP and MySQL, a popular choice for developing powerful web applications!  </p>  <p style=\"\">  \tThese days, you&rsquo;re nowhere without a website, so there&rsquo;s a huge value to web development skills. PHP is one of the most widely-used scripting languages around, and this course will help you master the basics of the language so that you can build your own website, or help refine your company&rsquo;s. Discover the power of PHP as you take your website development skills to the next level.  </p>  <p style=\"\">  \tDuring the 6.5 hour PHP beginner course, discover the fundamental concepts beginner PHP developers need to master. Your professional instructor combines practical lectures that ensure you have a solid grasp of the basics with coding examples that include exercise files so you get real hands-on practice.  </p>  <p style=\"\">  \tFollow along as you learn the PHP syntax, development environment, and other basic concepts. Discover more advanced topics including database storage, object oriented development, using the standard PHP library, and basic SQL language commands.  </p>  <p style=\"\">  \t<strong style=\"\">This course includes exercise example files, certificate of completion, and quiz.</strong>  </p>  <p style=\"\">  \tDuring the 5.5-hour MySQL beginner course, discover the fundamental concepts beginner MySQL administrators need to master. Your professional instructor combines practical lectures that ensure you have a solid grasp of the basics with practical examples that include exercise files so you get real hands on practice.  </p>  <p style=\"\">  \tFollow along as you learn how to install MySQL for the first time. Discover critical concepts for designing a database. Explore how to administrate a MySQL database including limiting access, creating users, database backup and performance monitoring. Then get ready to take your MySQL skills to the next level as you learn SQL for developers, database replication, data encryption and more.  </p>  <p style=\"\">  \t<strong style=\"\">This course includes a certificate of completion, and quiz.</strong>  </p>", 
+    "end_date": null, 
+    "title": "Learn PHP and MySQL for Beginners the Easy Way - 13 Hours", 
+    "price": "30.00", 
+    "instructors": "Simon Sez IT", 
+    "commitment": "12 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/129572_7f0b_6.jpg", 
+    "course_url": "https://www.udemy.com/learn-php-and-mysql-training-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-05T17:06:56Z"
+}

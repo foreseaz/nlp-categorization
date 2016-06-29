@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will teach you the basics of the Unity 3D game engine, assuming absolutely no prior knowledge.</p>\n\n<p>What makes this course unusual is that we will focus on a barebones practical example and actually build a game together. Despite the simplicity of the course, you will create an entire playable game for two players.</p>\n\n\n\n<p>You will also build <strong>everything</strong> for this simple game during the course. There is no copy &amp; paste or importing of prepared assets involved, you will learn every single step that goes into the game. The only thing you need that is not included in the course is the Unity 3D software itself.</p><p>I will be adding close captions to the course (the first three lectures are already done), and the course will be expanded with additional lectures pointing you in the direction of  more advanced topics.<br></p>", 
+    "end_date": null, 
+    "title": "Unity 3D Easy Introduction", 
+    "price": "20.00", 
+    "instructors": "Tom Vogt", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/862244_47cc.jpg", 
+    "course_url": "https://www.udemy.com/unity-3d-easy-introduction/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-28T14:07:52Z"
+}

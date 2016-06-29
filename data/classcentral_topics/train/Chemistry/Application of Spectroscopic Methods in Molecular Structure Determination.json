@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Chemistry"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course introduces the concept of a boundary layer and the physical concepts of boundary layer thickness ( δ ), displacement thickness ( δ * ), momentum thickness ( θ ) and friction drag. It derives Prandtl’s Boundary Layer Equations for laminar boundary layers from the basic Navier-Stokes equations and discusses their exact solutions. It discusses how a laminar boundary layer transitions to turbulence and separates. It also discusses thermal boundary layers. \n\n                                            Syllabus\n                        Week 1: Introduction to spectroscopic methods – Nuclear magnetic resonance spectroscopy (NMR), spin ½ nuclei, 1H and 13C-NMR spectroscopy, FT-NMR method. Chemical shifts, spin spin coupling, spin-spin splitting pattern recognition for structure elucidation, coupling constants.Week 2: 1H NMR spectroscopy, Second order effects in NMR spectrum, AB and AA’BB’, ABC spin systems. Solving simple structure elucidation problems with 1H and 13C NMR spectroscopyWeek 3: Stereochemistry determination using NMR techniques. Study of dynamic processes by NMR spectroscopy – examples from organic and organometallic chemistryWeek 4: Mass Spectrometry – various ionization methods – EI, CI, ESI and MALDI methods, fragmentation patterns of simple organic molecules, Use of HRMS.Week 5: Mass spectrometry – fragmentation patterns of simple organic molecules (continued), solving structure elucidation problems using mass spectrometry.Week 6: Infra-red spectroscopy – basic concepts, experimental methods, functional group analysis and identification using IR spectroscopy, structural effects on vibrational frequencyWeek 7: UV-Vis spectroscopy, electronic transitions in organic molecules, selection rules, application of Beer Lambert law, qualitative and quantitative analysis by UV-Vis spectroscopy.Week 8: Solving structure elucidation problems using multiple spectroscopic data (NMR, MS, IR and UV-Vis).\r\n \n                                    ", 
+    "end_date": "2016-03-14T00:00:00Z", 
+    "title": "Application of Spectroscopic Methods in Molecular Structure Determination", 
+    "price": 0, 
+    "instructors": "S. Sankararaman", 
+    "institution_name": [
+        "IIT ( Indian Institute of Technology Madras)"
+    ], 
+    "commitment": "2-3 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://onlinecourses.nptel.ac.in/noc16_cy02", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "NPTEL"
+    ], 
+    "start_date": "2016-01-18T00:00:00Z"
+}

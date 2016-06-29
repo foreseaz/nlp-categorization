@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Algebra & Geometry"
+    ], 
+    "description": "\n\n                    \n                    \n                    Matrix Algebra underlies many of the current tools for experimental design and the analysis of high-dimensional data. In this introductory data analysis course, we will use matrix algebra to represent the linear models that commonly used to model differences between experimental units. We perform statistical inference on these differences. Throughout the course we will use the R programming language.\n\nGiven the diversity in educational background of our students we have divided the series into seven parts. You can take the entire series or individual courses that interest you. If you are a statistician you should consider skipping the first two or three courses, similarly, if you are biologists you should consider skipping some of the introductory biology lectures. Note that the statistics and programming aspects of the class ramp up in difficulty relatively quickly across the first three courses. By the third course will be teaching advanced statistical concepts such as hierarchical models and by the fourth advanced software engineering skills, such as parallel computing and reproducible research concepts.\n\nThese courses make up 2 XSeries and are self-paced:\n\nPH525.1x: Statistics and R for the Life Sciences\n\nPH525.2x: Introduction to Linear Models and Matrix Algebra\n\nPH525.3x: Statistical Inference and Modeling for High-throughput Experiments\n\nPH525.4x: High-Dimensional Data Analysis\n\nPH525.5x: Introduction to Bioconductor: annotation and analysis of genomes and genomic assays \n\nPH525.6x: High-performance computing for reproducible genomics\n\nPH525.7x: Case studies in functional genomics\n\n\nThis class was supported in part by NIH grant R25GM114818.\n\n\nHarvardX requires individuals who enroll in its courses on edX to abide by the terms of the edX honor code. HarvardX will take appropriate corrective action in response to violations of the edX honor code, which may include dismissal from the HarvardX course; revocation of any certificates received for the HarvardX course; or other remedies as circumstances warrant. No refunds will be issued in the case of corrective action for such violations. Enrollees who are taking HarvardX courses as part of another program will also be governed by the academic policies of those programs.\n\nHarvardX pursues the science of learning. By registering as an online learner in an HX course, you will also participate in research about learning. Read our research statement to learn more.\n\nHarvard University and HarvardX are committed to maintaining a safe and healthy educational and work environment in which no member of the community is excluded from participation in, denied the benefits of, or subjected to discrimination or harassment in our program. All members of the HarvardX community are expected to abide by Harvard policies on nondiscrimination, including sexual harassment, and the edX Terms of Service. If you have any questions or concerns, please contact harvardx@harvard.edu and/or report your experience through the edX contact form.\n\n                                    ", 
+    "end_date": null, 
+    "title": "PH525.2x: Introduction to Linear Models and Matrix Algebra\n", 
+    "price": 0, 
+    "instructors": "Michael Love and Rafael Irizarry", 
+    "institution_name": [
+        "Harvard University"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.edx.org/course/introduction-linear-models-matrix-harvardx-ph525-2x-0", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-05-03T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>BW IP Stands for BW Integrated Planning and is a corporate strategic planning solution in SAP.</p><p>This course contains both the concepts and hands-on, on how to configure the major areas of SAP BW IP. </p><p>If you are SAP Consultant (or) you have SAP exposure, you can learn and apply configuration steps in BW IP till designing of BEx Analyzer with front-end as Excel. This course also give an overview on the links of IP in Unified BPC.</p><p>This course will help you in:</p><p>- system understanding on the configuration steps for BW Integrated Planning</p><p>- Conceptual understanding of strategic planning scenarios in corporates</p><p>- Understanding the overview on the link between IP and unified BPC, </p><p>- engaging on SAP BW Integrated Planning related roles </p><p>The audience may include:</p><li> SAP BW Consultants,</li><li> SAP Consultants in FI,CO,SD,MM , PP and such other modules</li><li> SAP BPC Consultants</li><li> Planning Professionals in SAP</li><li> SAP End-users</li>", 
+    "end_date": null, 
+    "title": "SAP BW IP - Introduction to Integrated Planning", 
+    "price": "50.00", 
+    "instructors": "Srinivasan Seshadri", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/476818_c461_12.jpg", 
+    "course_url": "https://www.udemy.com/sap-bw-ip-integrated-planning-learners-guide/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-15T07:18:43Z"
+}

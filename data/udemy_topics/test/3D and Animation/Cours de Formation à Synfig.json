@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Synfig Studio est une application libre, gratuite et open-source pour Windows, Linux et Mac OSX. A ce jour, il est reconnu comme le plus puissant outil gratuit pour l'animation 2D. Vous voulez créer votre propre film d'animation, une simple carte postale, ou bien une animation pour un jeu ? Vous pouvez utiliser Synfig Studio partout sans aucune limitation - à la maison, au travail ou à l'école.</p><p><strong>Vue d'Ensemble</strong></p><p>Ce cours a été créé pour les personnes qui veulent apprendre à utiliser Synfig Studio en un court laps de temps. Il convient également à ceux qui débutent dans l'apprentissage de l'animation par ordinateur, de même qui pour les artistes confirmés qui voudraient maitriser la technique du découpage avec un logiciel libre, gratuit et open-source.</p><p>Le cours vous guidera depuis les bases de l'interface de l'application jusqu'aux techniques de création d'animation de personnage et de quelques fonctionnalités avancées. Les fichiers d'exemples sont également inclus, donc vous serez en mesure de travailler en même temps que l'instructeur durant le cours. De plus, toutes les lectures du cours sont disponibles au téléchargement et à la visualisation hors-ligne.</p><p>Toutes les leçons incluent des sous-titres dans les langues suivantes: Anglais, Espagnol, Italien.</p><p><strong>Maîtriser l'animation dans Synfig Studio</strong></p><ul><li>Apprenez tous les principes de base de la création d'animation de Synfig Studio.</li><li>Construisez et animez les héros de votre animation.</li><li>Apprenez les bases et les compétences d'animation requises au quotidien, comme l'animation faciale et le cycle de marche.</li></ul><p><strong>Technique d'animation par découpage (sprite)</strong><strong></strong></p><p>Dans ce cours je vous montrerai comment créer une animation construite depuis des images bitmap. Cette approche est appelée technique du \"cutout\" ou \"sprite\". La technique du découpage est connue comme la façon la plus rapide de créer une animation et en même temps c'est la façon la plus simple de l'apprendre. Malgré sa simplicité, la technique du découpage reste très expressive et est utilisée par de nombreux créateurs pour produire des animations excitantes.<span></span></p><p><strong>Note</strong>: Ce cours n'est pas pour vous si vous voulez apprendre la technique de l'animation traditionnelle (image-par-image).</p><p><strong>Prérequis</strong></p><p>Pour cette leçon vous aurez besoin de Synfig Studio version 1.0 ou supérieure.</p><p><strong>Remerciements</strong></p><ul><li>Écrit et enregistré par: Konstantin Dmitriev</li><li>Traduction: Tony (BobSynfig)</li><li>Narration: Tony (BobSynfig)</li></ul>", 
+    "end_date": null, 
+    "title": "Cours de Formation à Synfig", 
+    "price": "20.00", 
+    "instructors": "Anna Orlova, Tony (BobSynfig), Konstantin Dmitriev", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/575226_693e.jpg", 
+    "course_url": "https://www.udemy.com/cours-de-formation-a-synfig/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-06T02:30:35Z"
+}

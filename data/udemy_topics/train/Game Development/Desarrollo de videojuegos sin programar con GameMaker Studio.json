@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong><em>Curso abierto. Actualizado: 30 de Abril de 2016</em></strong></p>\n\n<p>Este curso te enseñará a utilizar GameMaker: Studio, una de las herramientas más famosas entre los desarrolladores independientes y con más proyección en la actualidad.<br></p>\n\n\n\n\n\n<p>Si te encantan los videojuegos y te gustaría hacer los tuyos propios pero no sabes programar, entonces debes empezar por aquí. <strong>Edad recomendada +12 años</strong>.</p>\n\n\n\n\n\n<p>Gracias a los componentes de GameMaker podrás aprender de una forma práctica, enfocándote en comprender la lógica oculta tras los videojuegos, de una forma fácil y divertida, <strong>sin necesidad de escribir miles de líneas de código</strong>.</p>\n\n\n\n\n\n<p>Un curso fruto de <strong>más de 3 meses de planificación</strong> con el objetivo de enseñar poco a poco y de forma gradual las claves del motor GameMaker, utilizando toda mi experiencia de más de 100 horas en cursos gratuitos. Pensado exclusivamente para principiantes, en especial para niños, adolescentes y adultos con almas de niño (como yo) que soñamos con crear nuestros propios videojuegos.</p>\n\n\n\n\n\n<p>¡Porque a crear videojuegos se aprende creando videojuegos!<br></p>", 
+    "end_date": null, 
+    "title": "Desarrollo de videojuegos sin programar con GameMaker Studio", 
+    "price": "20.00", 
+    "instructors": "Hector Costa Guzman", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/777596_46aa_2.jpg", 
+    "course_url": "https://www.udemy.com/vuelvete-un-creador-de-juegos-sin-programar-en-gamemaker/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-29T10:13:48Z"
+}

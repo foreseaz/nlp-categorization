@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>This course is about modelling, rigging and simple animation created in Blender. The key feature is learning how to use Armatures, Bones and Empty Objects to animate a group of Mesh Objects in a mechanical way.<br></p><p>In this course you will learn how to model a Flywheel and Piston System, then add armatures and empty object to rig the model, finishing Part 1 with a simple animated loop. In Part 2 you will build on the skills developed in Part 1 by building, rigging and animating 4 Pistons linked to a crankshaft, again creating a simple animated loop.</p><p>The is nearly 2 hours of video tutorials contained in the course. The terminology is based on key features used in Blender so that things can be easily identified. There are resources attached at the start of both Part 1 and Part 2. These files contain the finished models to be used to gauge how your own work in progressing. There are a number of Quizzes use to reinforce keyboard short-cuts or menus used during the modelling and rigging processes.</p><p>This course is for those learners wishing to further develop their skills in Blender. <br></p>", 
+    "end_date": null, 
+    "title": "Build a Flywheel & Piston in Blender", 
+    "price": "20.00", 
+    "instructors": "George Kingsnorth", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/605772_76fb.jpg", 
+    "course_url": "https://www.udemy.com/build-a-flywheel-piston-in-blender/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-08T11:07:56Z"
+}

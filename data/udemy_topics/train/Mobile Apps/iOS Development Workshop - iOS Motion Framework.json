@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    This iOS Motion Framework training course from Infinite Skills teaches you about the core motion framework, which allows your applications to receive and process motion data from device hardware.  </p>  <p>  \t<br>  \t    You will start by learning about the core motion framework and how to access motion data. Keith will then teach you how to use the gyroscope and accelerometer. Finally, this video tutorial will cover location and direction, such as using the compass, geocoding, and displaying the current location.<br>  \t<br>  \t    By the completion of this computer based training course, you will have developed the knowledge and skills needed to work with the core motion framework when developing your iOS apps. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>  <p>  \t    This course is part of our iOS Development Workshop series, this library of courses have been created to provide real world practical training for iOS developers.</p>", 
+    "end_date": null, 
+    "title": "iOS Development Workshop - iOS Motion Framework", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/180982_4b95_7.jpg", 
+    "course_url": "https://www.udemy.com/ios-development-workshop-ios-motion-framework/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-12T13:30:48Z"
+}

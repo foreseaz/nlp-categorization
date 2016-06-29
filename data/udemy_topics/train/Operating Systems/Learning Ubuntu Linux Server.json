@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course is designed for the IT professional or computer hobbyist who wants to quickly get their first Linux server up and running.&nbsp; It is four hours of console screen capture with highlights, voiceover explanation, and on-screen description of commands and concepts.</p><p>The course assumes some knowledge of computer hardware and operating systems such as files, directories, and disk partitions.&nbsp; If you&#039;ve been curious about Linux but have been frustrated by the &quot;read the docs and learn&quot; mentality, this course will walk you through installation, configuring a web and file server, setting up redundant disks, and a number of other administrative tasks.&nbsp; <br style=\"\"></p><p>The end product will be an Ubuntu Linux installation suitable for home or small office server.<br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Learning Ubuntu Linux Server", 
+    "price": "35.00", 
+    "instructors": "Wes Deviers", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/62747_3769_4.jpg", 
+    "course_url": "https://www.udemy.com/learning-ubuntu-linux-server/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-28T03:40:49Z"
+}

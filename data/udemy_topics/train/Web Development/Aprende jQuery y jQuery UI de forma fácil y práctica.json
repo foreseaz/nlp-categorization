@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>jQuery es uno de los lenguajes de programación más utilizados en el mundo para crear páginas webs dinámicas. Su gran abanico de opciones en cuanto efectos y métodos, la gran cantidad de widgets extra disponibles y el hecho de ser un lenguaje 100% compatible con todos los navegadores, lo convierten en indispensable para diseñadores profesionales de todo el mundo.</p><p><strong style=\"\">Una poderosa herramienta al alcance de tu teclado</strong><br style=\"\"></p><p>En este curso aprenderás a utilizar jQuery de forma sencilla y práctica, usando para ello ejemplos orientados a su aplicación posterior en tus diseños web. Pero además, aprenderás también jQuery UI, un complemento extraordinario de jQuery, con el que descubrirás más recursos para tus creaciones.</p><p>Por último, el curso incluye además un módulo con ocho widgets muy interesantes, en donde aprenderemos a usar este recurso y a construir efectos complejos de animación, galerías de imágenes, sliders, menús dinámicos, cómo insertar mapas de Google personalizados, etc.</p><p><strong style=\"\">¡Bienvenido al mundo de jQuery, en el que tu imaginación será el único límite para tus diseños web!</strong></p><p style=\"\">-------------------------------------------------------------------------------------------------------------<br style=\"\"><strong style=\"\"></strong></p><p style=\"\"><strong style=\"\">Un recorrido completo de aprendizaje</strong><br style=\"\"></p><p style=\"\">Este curso pertenece a una serie de cursos cuyo objetivo es enseñar a crear y diseñar páginas webs de forma fácil, práctica y comprensible para todo el mundo. Está especialmente pensado para quienes nunca han visto nada de este mundo y para facilitar su aprendizaje se divide en tres niveles que componen un itinerario educativo progresivo (del más sencillo al más complejo). La serie completa incluye los siguientes cursos (todos disponibles en Udemy):</p><p>1.- HTML y CSS para no-informáticos</p><p>2.- Aprende jQuery y jQuery UI de forma fácil y práctica</p><p>3.- Añade bases de datos a tus páginas con MYSQL y php (en producción)</p><p style=\"\">Los alumnos apuntados en cualquiera de los cursos podrán solicitarme descuentos para realizar el resto de cursos.<br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Aprende jQuery y jQuery UI de forma fácil y práctica", 
+    "price": "20.00", 
+    "instructors": "Antonio Santos", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/441834_4433_5.jpg", 
+    "course_url": "https://www.udemy.com/aprende-jquery-y-jquery-ui-de-forma-facil-y-practica/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-08T10:18:28Z"
+}

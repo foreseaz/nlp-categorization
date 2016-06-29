@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">A menudo los cursos introductorios de Java fallan al mostrar como usar los recursos aprendidos en problemas complejos.</p><p style=\"\">En este curso <strong style=\"\">no</strong> se explican los conceptos básicos de Java. El estudiante ya debe conocer las bases del lenguaje Java: como crear una clase, que es un constructor, una interface etc. Este curso está pensado para que estudiantes con estos conocimientos básicos puedan ver en acción como los recursos aprendidos sirven para resolver de forma elegante y mantenible problemas lejos de ser triviales.</p><p style=\"\">He utilizado el ejemplo usado en este curso durante muchos años en la formación presencial, y los alumnos siempre me han expresado como les ha servido para comprender los conceptos que en la teoría no quedaban suficientemente claros.</p><p style=\"\">Por todo ello, este curso te va a servir para:</p><ol style=\"\"><li style=\"\">Afianzar los conceptos teóricos mediante un caso práctico</li><li style=\"\">Observar como atacar un problema complejo y realista</li><li style=\"\">Como aplicar los recursos del lenguaje para diseñar un sistema flexible y fácil de mantener</li><li style=\"\">Profundizar en la comprexión, entre otros, de:</li><ol style=\"\"><li style=\"\">Clases, variables y métodos</li><li style=\"\">Estructuras de control y la sentencia break</li><li style=\"\">Colecciones</li><li style=\"\">Clases abstractas y interfaces</li><li style=\"\">Sobre-escritura de métodos</li><li style=\"\">Clases anónimas</li><li style=\"\">Comparadores</li></ol></ol><p style=\"\">El curso usa recursos disponibles el Java 1.7. <strong style=\"\">No</strong> se incluyen los nuevos recursos del Java 8</p><p style=\"\">El curso tiene una sección extra en la que iremos incorporando nuevos ejercicios que os ayuden a entrar en el mundo de la programación en Java. ¡Te esperamos!</p><span style=\"\"></span>", 
+    "end_date": null, 
+    "title": "Java en acción: un caso práctico", 
+    "price": "20.00", 
+    "instructors": "Domingo Sebastian", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/538556_2a9a_4.jpg", 
+    "course_url": "https://www.udemy.com/java-en-accion/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-27T10:41:36Z"
+}

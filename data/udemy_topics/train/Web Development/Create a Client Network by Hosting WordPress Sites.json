@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>So you want to learn how to host your own WordPress sites? You&#039;re in the right place! This course will teach you not only how to host your own sites (to save money), but also how you can make recurring money by hosting client sites.</p><p>Think of this course as a Do-It-Yourself guide to learning proven techniques that will allow you to easily set up a server yourself and make recurring monthly income from hosting websites. Say goodbye to paying a high price for an all-inclusive web hosting company or expensive hosting 1-click add ons.</p><p>Whether you&#039;ve built a VPS server before or you&#039;re looking to offer your clients web hosting, there will be plenty to learn from this course. Each lesson has a worksheet with the links and commands discussed in the corresponding video.</p><p>We&#039;ll cover a lot in this course, from comparing a Virtual Private Server against the commonly used shared hosting, purchasing a VPS, using the command line on both Mac and Windows, installing the server packages you&#039;ll need and configuring them, and also installing the database and then the WordPress files.</p><p>We&#039;ll stress test your new server so you can have the confidence in what you&#039;re building and if you plan on selling hosting plans to clients, you&#039;ll have the confidence behind what you&#039;re offering. You can easily charge $30/mo per client for the value that you&#039;ll be able to offer after taking this course.</p><p>I&#039;ll show you how to host multiple sites on the same server that you&#039;re already getting an incredible deal on, which further increases your profit margin.</p><p>Automation helps build processes that every business needs to succeed, and it also makes a team of 1 feel like so much more. I&#039;ll show you how to set up automated daily back ups of your database and as a bonus, I&#039;ve developed an exclusive command line script that takes everything you&#039;ll learn and automates building a server for you. In about a minute you can go from a fresh server to the standard Hello World! blog post you get with a WordPress installation.</p><p>I look forward to teaching you how you can make money hosting WordPress sites!</p>", 
+    "end_date": null, 
+    "title": "Create a Client Network by Hosting WordPress Sites", 
+    "price": "25.00", 
+    "instructors": "TJ Nevis", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/416738_1024_3.jpg", 
+    "course_url": "https://www.udemy.com/make-recurring-money-by-hosting-wordpress-sites/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-08T20:43:23Z"
+}

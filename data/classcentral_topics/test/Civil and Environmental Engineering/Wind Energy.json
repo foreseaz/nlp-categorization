@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Civil & Environmental Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    How tall is a modern wind turbine and how can it possibly generate power from the wind? This course gives an overview of key aspects in wind energy engineering. Whether you are looking for general insight in this green technology or your ambition is to pursue a career in wind energy engineering, 'Wind Energy' is an excellent starting point. \n\nExperts located in the wind pioneering country of Denmark will take you on a tour through the most fundamental disciplines of wind energy research such as wind measurements and resource assessment, aerodynamics, wind turbine technology, structural mechanics, materials, financial and electrical systems. \n\nYou will gain a rational understanding of wind energy engineering and, through hands-on exercises, you will learn to perform wind energy calculations based on simple models. Working with the different course disciplines will give you a taste of what wind energy engineering is all about. This allows you to identify the most interesting or relevant aspects of wind energy engineering to be pursued in your future studies or in your professional career.\n\nView our video: https://youtu.be/he4UWTGHxrY\n\n                                            Syllabus\n                         About this courseThis module gives you an overview of the course content and learning objectives. You will see the recommended prerequisites for following the course and find out how to earn points towards your course certificate.Introduction to wind energyIn this module, you will learn why there is a need for wind energy and how wind energy projects are planned. When you have completed the module, you will be able to explain why there is a need for wind energy and what an EIA is. You will also know how to get the most out of the course through interaction with other course participants.Wind resourcesIt is all about the wind! In this module you will learn how the wind varies with height and during the day and night. You will find out how the wind power density and the power production can be modeled for an area based on different terrain properties. When you have completed the module, you will be able to apply basic engineering models for wind speed and determine the annual energy production for a wind turbine.Test and measurements‘Test and measurements’ is about different ways to measure the wind and how to to interpret wind observations. When you have completed this module, you will be able to analyse measured wind data and determine the mean wind speed and turbulence.EconomyIn this module you will learn about financial aspects during the entire lifetime of a wind turbine. When you have completed the module, you will be able to perform simple calculations for assessing wind farm projects and for calculating the cost of energy from wind.Wind turbine technologyIt is now time to focus on the wind turbine itself. In this module you will learn about different wind turbine designs including the modern three-bladed turbine. When you have completed the module, you will be able to account for the configuration and energy production of different wind turbine designs.AerodynamicsThis module on ‘Aerodynamics’ will outline the fundamental principle of a wind turbine and you will learn what makes it turn. When you have completed the module, you will be able to carry out calculations of thrust and power for a wind turbine.MaterialsWind turbines are composed of a variety of materials. In order to create stronger and lighter wind turbine components, especially the blades, new types of materials are being invented. When you have completed this module, you will be able to calculate the mass of a turbine blade based on different material’s properties.Structural mechanicsIn this module you will discover which forces act on a wind turbine blade. A blade can be considered as a beam and therefore beam theory is applied. When you have completed the module, you will be able to define boundary conditions and loads on beams and calculate reactions and internal forces.Electrical systemsOne of the biggest challenges in wind energy engineering is to integrate the very variable power production from wind turbines into the electrical system. In this module, you will learn to account for the role of wind energy in the energy supply. When you have completed the module, you will be able to apply a strategy for controlling the rotor speed of a variable speed wind turbine.\n                                    ", 
+    "end_date": "2016-07-25T00:00:00Z", 
+    "title": "Wind Energy", 
+    "price": 0, 
+    "instructors": "Ameya Sathe, Alma Salnaja, Bonnie Ram, Morten Hartvig Hansen, Hilmar Kjartansson Danielsen, Vladimir Fedorov, Sven-Erik Gryning, Torben Krogh Mikkelsen, Merete Badger, Lars Pilgaard Mikkelsen, Tom Cronin, Kim Branner, Henrik Bredmose, Poul Ejnar Sørensen and Niels-Erik Clausen", 
+    "institution_name": [
+        "Technical University of Denmark (DTU)"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.coursera.org/learn/wind-energy", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-20T00:00:00Z"
+}

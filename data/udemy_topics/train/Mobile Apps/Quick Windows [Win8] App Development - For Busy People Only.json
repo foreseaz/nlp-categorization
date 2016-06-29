@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>\r\n\tThis crazy-paced course will teach you to hack together your first Windows 8.1 App.\r\n</p>\r\n<p>\r\n\tBuilding on top of the new beautiful Modern Apps experience, we&#039;ll leverage tons of open source, design tools, mockup tools and run through the process beginning to end.\r\n</p>\r\n<p>\r\n\tWe&#039;ll use:\r\n</p>\r\n<ul>\r\n\t<li>HTML/CSS + Semantic UI for Layouts</li>\r\n\t<li>JavaScript and TypeScript for business logic</li>\r\n\t<li>Handlebars.js for templates</li>\r\n\t<li>jQuery, SuperSlides</li>\r\n\t<li>Visual Studio 2013 and Blend</li>\r\n</ul>\r\n<p>\r\n\tVideo are ~2-3 minutes each, go at a crazy pace (you&#039;ll probably have to pause) and let you get the max out of the time you spend watching those videos.\r\n</p>", 
+    "end_date": null, 
+    "title": "Quick Windows [Win8] App Development - For Busy People Only", 
+    "price": 0, 
+    "instructors": "Ala Shiban", 
+    "commitment": "31 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/116866_c05b_6.jpg", 
+    "course_url": "https://www.udemy.com/quick-win8-app-development-for-busy-people-only/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-08T05:31:55Z"
+}

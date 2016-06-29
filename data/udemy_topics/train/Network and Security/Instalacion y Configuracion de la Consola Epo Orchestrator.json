@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>En este curso aprenderás paso a paso la instalación y configuración de la Consola de Administración  Centralizada <strong>McAfee ePolicy Orchestrator (McAfee ePO)</strong>, la cual simplifica las operaciones de seguridad con flujos de trabajo más eficaces. </p><p>Se trataran aspecto básicos como la definición de la  Consola ePO, validación de  los requisitos de Software y Hardware requeridos para la descarga  y la instalación de la misma; presentación de la consola y configuración donde se realizara:</p><p>- Despliegue del agente el cual se encarga de la comunicación entre la consola y los sistemas gestionados.<br>- Configuración de directivas.<br>- Creación de usuarios.<br>- Consultas e informes.<br>- Creación de tareas.<br>- Descarga e incorporación de paquetes.</p><p>Además de usar este conocimiento para administrar otros productos que permiten mejorar la seguridad.</p>", 
+    "end_date": null, 
+    "title": "Instalacion y Configuracion de la Consola Epo Orchestrator", 
+    "price": "20.00", 
+    "instructors": "SOFTNET SAS Medellin - Colombia", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/763278_9175.jpg", 
+    "course_url": "https://www.udemy.com/instalacion-y-configuracion-de-la-consola-epo-orchestrator/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-15T15:51:04Z"
+}

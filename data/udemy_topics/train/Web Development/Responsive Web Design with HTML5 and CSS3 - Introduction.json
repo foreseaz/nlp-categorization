@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t    This course is about the underpinnings of a responsive web page and the code snippets necessary to make it function properly.  </p>  <p style=\"\">  \t    Although I will be using Adobe Dreamweaver as my code editor, you could use Notepad ++ on Windows or TextWrangler on a Macintosh. Both programs are free to download.  </p>  <p style=\"\">  \t    This course is structured so that each lesson builds on the previous one. There is an example file at the end of each lesson that summarizes what was covered. When appropriate, the lessons will have available a start file so you can follow along.  </p>", 
+    "end_date": null, 
+    "title": "Responsive Web Design with HTML5 and CSS3 - Introduction", 
+    "price": "20.00", 
+    "instructors": "Paul Cheney", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/152244_8cc9_5.jpg", 
+    "course_url": "https://www.udemy.com/responsive-web-design-with-html5-and-css3-introduction/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-24T19:24:49Z"
+}

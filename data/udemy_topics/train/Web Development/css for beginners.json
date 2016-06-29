@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>use code get50 to get 50% discount</p>\n\n<ol><li>Cascading style sheets are the text files that contain one or more rules in the form of property/value pairs for determining how elements in a webpage should be displayed.  \t\t  \t\t\t          the use of css in a web page enables the separation of content from presentation elements ,which includes layout ,color and fonts used in a webpage.</li>  \t\t<li>  \t\t  \t\t\t          You'll learn about basic concepts of style sheet  \t\t  \t\t</li>  \t\t<li>  \t\t  \t\t\t          You'll learn how to work with different type of style sheets to present the elements on the web page  \t\t  \t\t</li>  \t\t<li>  \t\t  \t\t\t          You will be exposed with working of different type of css properties: background properties, text properties, font properties, list properties ,box properties etc.  \t\t  \t\t</li>  \t\t<li>  \t\t  \t\t\t          the best way to do this course is to practise more and more while watching videos . By the end of this course,you can create a beautiful and presentable websites using html and css tools .  \t\t  \t\t</li>  \t</ol>", 
+    "end_date": null, 
+    "title": "css for beginners", 
+    "price": "20.00", 
+    "instructors": "Know Store", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/325114_cfef_2.jpg", 
+    "course_url": "https://www.udemy.com/css-for-beginners2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-22T19:32:22Z"
+}

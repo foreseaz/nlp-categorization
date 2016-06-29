@@ -1,0 +1,25 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    SAP HANA CLOUD PLATFORM を 2012 年に導入し、それに関する OPENSAP コースを 2013 年に導入以来、このプラットフォームは継続的に進化を続け、追加機能が提供されてきました。このコースでは、このプラットフォームに関する最新の知識を提供します。\r\nこのコースでは SAP HANA CLOUD PLATFORM を紹介し、提供される各種サービスの開発者向けの活用方法を示します。JAVA プログラミングの基本スキル、ECLIPSE 開発環境に関する基本知識があると理想的です。\r\nこのコースを受講している場合は、IOT サービス、ゲーミフィケーションサービス、モバイルドキュメントなどの新しく導入されたサービスについて解説しているこのコースの受講をお奨めします。SAP HANA Cloud Platform の機能について、より包括的な視点が得られるようになります。\r\nSAP HANA Cloud Platform は、今日のネットワーク化が進んでいるモバイル、ソーシャル、そしてデータ主導型の世界に適応するように設計された、オープン標準ベースのインメモリー PaaS (Platform-as-a-Service) です。超高速かつ大規模な SAP HANA を活用すると、開発者はインパクトのあるかつ拡張性の高いアプリケーションを短時間で作成できます。\r\nこのクラウドプラットフォームサービスにより、自身のソフトウェアの開発に注力でき、SAP Cloud のエンタープライズ対応のインストール済環境を使用して、自身のアプリケーションを安全かつ信頼できる方法でデプロイおよび実行できます。\r\n登録、学習コンテンツ、および最終試験は無料です。無料の開発者アカウントを使用して、プラットフォームについての実践的な演習を行うことができます。コースの開始時にこのアクセス方法について説明します。\n\n                                            Syllabus\n                        第 1 週：基本第 2 週：セキュリティ第 3 週：コネクティビティ第 4 週：永続性第 5 週：IoT とコラボレーション第 6 週：追加サービス第 7 週：最終試験\n                                    ", 
+    "end_date": "2016-06-28T00:00:00Z", 
+    "title": "SAP HANA CLOUD PLATFORM の重要事項", 
+    "price": 0, 
+    "instructors": "Sven Koolhaas and Rui Nogueira", 
+    "institution_name": [], 
+    "commitment": "4-6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://open.sap.com/courses/hcp1-jp", 
+    "duration": "7 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "openSAP"
+    ], 
+    "start_date": "2016-05-10T00:00:00Z"
+}

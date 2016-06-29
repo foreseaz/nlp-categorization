@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\">This course teaches Android development by example, beginning with very simple applications using only activities, then gradually adding layers of complexity.</strong></p><p style=\"\">Each app in the course is a guided tour of the development process, starting with the basic layouts and finishing up with a working app that you can modify and use as a starting point to develop your own ideas.</p><p style=\"\">Android takes a different approach that app development for other platforms: an Android app is really a loose collection of components that communicate amongst themselves and even with components from other applications.</p><p style=\"\">In this series, you&#039;ll gain insight by watching over Rick&#039;s shoulder as he brings separate components together and assembles them into ten different applications that explore the Android system and how to apply it to real-world problems.</p><p style=\"\">Source code is included, and you may feel free to modify it in any way and use it in your own applications!</p><p style=\"\"><strong style=\"\">Some of the 10 App Projects you will take on are -</strong></p><p style=\"\">- A note taker application</p><p style=\"\">- A single player version of “Pong&quot; :)</p><p style=\"\">- A simple adventure game</p><p style=\"\">- A couple of different types of calculator</p><p style=\"\">- A conversion utility that allows the user to save their own conversions</p><p style=\"\"><em style=\"\">- And, another 5 more exciting apps that will be announced and released every week.</em></p><p style=\"\">Along the way, we&#039;ll make use of Android components such as Activities and Services, and learn best practices and strategies for building successful applications. So click that button, and let&#039;s get started!</p><p style=\"\"><strong style=\"\">You need to sign up now to gain Access to ALL the TEN Apps Training with Source Code that are part of this workshop series.</strong></p>", 
+    "end_date": null, 
+    "title": "Make Android Apps with Source Code - Power Workshop Series", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/551720_0bf9.jpg", 
+    "course_url": "https://www.udemy.com/make-android-apps-with-source-code-power-workshop-series/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-11T11:15:42Z"
+}

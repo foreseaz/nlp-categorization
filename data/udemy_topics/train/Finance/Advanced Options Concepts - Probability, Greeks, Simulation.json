@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<h5>This course covers three advanced Options concepts - Probability, Advanced Options Greeks analysis and Options Simulation</h5><h5><br style=\"\"></h5><h5>SECTION I - DEEP DIVE INTO PROBABILITY ANALYSIS</h5>  <p>While Probability has been mentioned a few times in previous courses, we take a deep dive in this course. Having a finely tuned probabilistic mindset coupled with good analysis is an absolute must in financial markets. This course shows a few different ways of looking at Probability and how investors can create strategies to put Probability on their side.</p>  <p>&nbsp;</p>  <h5>SECTION II - DEEP DIVE INTO THE OPTION GREEKS</h5>  <p>&nbsp;</p>  <p>This course also takes a deep dive into the four Greeks - Delta, Gamma, Theta and Vega. We introduced these concepts in the previous module, but it is time to take their understanding to a new level. The Greeks are the path to putting your strategies on &quot;Auto-pilot&quot;. We explain the subtleties of all the Greeks - very cool stuff, put your Math hat on...&nbsp;</p>  <p>&nbsp;</p>  <h5>What you will master</h5>  <p>&nbsp;</p>  <ul style=\"\">  <li>What is the importance of statistical price modeling in the stock markets</li>  <li>Why is Standard Deviation an important metric</li>  <li>What are the pluses and minuses of statistical modeling</li>  <li>How can we choose strategies using Probability as a signpost</li>  <li>Take your understanding of all the four Greeks to a new level</li>  <li>Master the subtleties of each of the Greeks</li>  <li>Look at option modeling from a mathematical standpoint</li>  </ul>  <p>&nbsp;</p>  <h5>SECTION III - OPTIONS ANALYSIS AND SIMULATION</h5>  <p>&nbsp;A good trade entry based upon Volume / Chart / Technical analysis sets you up for success from the get-go. But before you put a trade on, you need to perform Options analysis and simulation to understand how your position will behave under a diverse set of market conditions. Once you perform this Options analysis, you can immediately spot your weak points and you&#039;re prepared for them. Analysis and Simulation are as important as finding a good trade entry. In this course, we provide a complete roadmap to simulate every possible market condition BEFORE you put the trade on. This kind of analysis may take 30 minutes, but its well worth the time spent.</p>  <p>&nbsp;</p>  <h5>What you will master</h5>  <p>&nbsp;</p>  <ul style=\"\">  <li>How will your position behave for a + / - 5% move in your stock</li>  <li>Options analysis before you put your trade on</li>  <li>Options simulation to know where your profit zone is</li>  <li>What is the impact of Time decay on your position</li>  <li>What will Implied Volatility changes do to your position</li>  <li>Simulating the effects of two variables on your position</li>  <li>Simulating all three variables</li>  <li>Stress testing your trade</li>  </ul>  <p>&nbsp;</p>  <p>&nbsp;</p>  ", 
+    "end_date": null, 
+    "title": "Advanced Options Concepts - Probability, Greeks, Simulation", 
+    "price": "30.00", 
+    "instructors": "Hari Swaminathan", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/42634_f789_10.jpg", 
+    "course_url": "https://www.udemy.com/advanced-options-analysis/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-02-20T21:18:21Z"
+}

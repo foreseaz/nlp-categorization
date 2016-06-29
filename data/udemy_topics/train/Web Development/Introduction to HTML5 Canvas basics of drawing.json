@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn to draw on your webpages using the HTML5 canvas element.  Using JavaScript allows you to create amazing creations right on your web pages.</p><p>The course instructor has over 15 years of industry experience as a web developer.  Having worked on hundreds of projects.  Learn real world skills to enhance what you can do with your web pages.</p><p>This course is perfect for beginners who want to learn more about using some of the really awesome features available in HTML5.   We teach you how to work with canvas and draw on it.</p><p>Step by step coding instruction, everything is included in this course to get you going quickly.</p><p><strong>Learn how to </strong></p><ul><li>Add canvas in HTML</li><li>connect Canvas to JavaScript</li><li>Draw on the canvas</li><li>Height Width of Canvas</li><li>Grid positioning</li><li>Canvas Strokes</li><li>Drawing Paths for custom shapes</li><li>Drawing Arcs and circles</li><li>Color options for drawing</li><li>Working with images</li><li>DOM Document Object Model</li></ul><p><strong>and a whole lot more....</strong></p><p><strong>Source files, top resource links and more are included to get you started quickly.</strong></p>", 
+    "end_date": null, 
+    "title": "Introduction to HTML5 Canvas basics of drawing", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/782192_9916.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-html5-canvas-basics-of-drawing/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-04T15:25:24Z"
+}

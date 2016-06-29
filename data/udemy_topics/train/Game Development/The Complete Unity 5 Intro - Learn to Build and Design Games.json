@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course, instructor Alan Thorn explains everything you need to get started in Unity 5, even if you're completely new to game development. Through clear and concise examples, he will be exploring all of the necessary basics of Unity in a practical context and be covering topics ranging from user interface navigation and viewport controls all the way through some of the more in-depth features such as terrain creation, lighting, materials, particle effects, and animation to name a few. If you're ready to start making games, this course has everything you need!<br></p>\n\n<p><strong>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</strong></p>\n\n\n\n<p>More about the Instructor:</p>\n\n\n\n<p>Alan Thorn is a freelance game developer and author with over 12 years of industry experience. He is the founder of London-based game studio, Wax Lyrical Games, and is the creator of award-winning adventure game Baron Wittard: Nemesis of Ragnarok. He has worked freelance on over 500 projects worldwide including games, simulators, kiosks, and augmented reality software for game studios, museums and theme parks. He has spoken on game development at universities throughout the UK, and is the author of nine books on game development, including Teach Yourself Games Programming, Unity 4 Fundamentals and the highly popular UDK Game Development.</p>", 
+    "end_date": null, 
+    "title": "The Complete Unity 5 Intro - Learn to Build and Design Games", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/441772_b6cf.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-the-complete-unity-5-intro-learn-to-build-and-design-games/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-08T06:41:36Z"
+}

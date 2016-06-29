@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Hello and welcome to this course. This course is intended for any one who want to start learning more about web development and the basics of it. This course will cover the basics of the web development and the parts that you will be dealing with in daily basis. This course will be updated (as much as I can) and I encourage you to join us at the decision in this course to answer your questions and share with us your thoughts on web development.</p>", 
+    "end_date": null, 
+    "title": "HTML, JavaScript and Bootstrap made easy!", 
+    "price": "20.00", 
+    "instructors": "Amr Swalha", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/726140_9791_3.jpg", 
+    "course_url": "https://www.udemy.com/html-javascript-and-bootstrap-made-easy/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-12T22:08:57Z"
+}

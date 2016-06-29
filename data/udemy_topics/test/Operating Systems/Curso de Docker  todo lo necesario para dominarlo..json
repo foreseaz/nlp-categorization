@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Curso para principiantes sobre una tecnología tan popular actualmente como es <strong class=\"redactor-inline-converted\">Docker</strong>. Este curso tiene una parte teórica para explicar qué es <strong>docker</strong>, el porqué es tan popular, cuál es la tecnología que utiliza y lo compararemos con la virtualización estándar.</p><p>A través de videos explicativos, veremos la instalación y los primeros pasos. Todo esto con un método de enseñanza muy didactico.</p><p>El curso tiene 22 clases, de una media de 4-5 minutos cada clase. Al finalizar el curso, hay un test con cerca de 20 preguntas</p><p>Si te has pregunta qué es <strong>docker </strong>o si quieres aprender a utilizar <strong>docker</strong>, éste es el curso adecuado para ti.</p>", 
+    "end_date": null, 
+    "title": "Curso de Docker: todo lo necesario para dominarlo.", 
+    "price": "20.00", 
+    "instructors": "Proyecto Oforte", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/831114_0fd3.jpg", 
+    "course_url": "https://www.udemy.com/curso-de-docker/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-25T07:17:29Z"
+}

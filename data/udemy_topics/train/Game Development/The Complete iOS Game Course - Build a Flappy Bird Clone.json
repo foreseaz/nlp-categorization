@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t We built an immersive game development course that teaches you all of the fundamentals so you can build your own games on iPhones and iPads. We combine videos, notes, collaborative discussion forums, and challenging assignments to have students build real apps. Teaching online is not new to us. Our highly successful Beginner iOS Bootcamp (over 18k students and 5 star review) teaches students the basics of programming iOS apps. We use the same proven pedagogy to teach game development.  </p>  <p>  \t The course will include over 120 hours of content (30 hours of video plus notes and challenges), an active discussion forum where students and teachers answer questions, and multiple fully coded example projects that you can download.  </p>  <p>  \t Topics covered:  </p>  <ul style=\"\">  \t<li>Introduction to Game Development , Sprite Kit , Scenes and Nodes, Coordinates, Game Loop</li>  \t<li>Sprite/Texture Creation, Sprite Theory, Atlas Files</li>  \t<li>Animation, Parallax Scrolling, Character animation</li>  \t<li>Physics Bodies, Physics Properties, Bit Fields, Collisions, Contact Response</li>  \t<li>User Input, Input Handler</li>  \t<li>Character Movement/Physics, State machines, Player Physics, Jump Curve, Double Jump, Boost, etc.</li>  \t<li>Tile Based Game World, Tile Sprites, Tiled + Kobold Kit, Creating and Loading Tiled files</li>  \t<li>Collision Detection, Axis Alined Bounding Box, Collision Bit Masks</li>  \t<li>Obstacles &amp; Enemies, Basic Enemy AI</li>  \t<li>Collectables, Power Ups</li>  \t<li>Effects, Particle Effects</li>  \t<li>Sound, Adding Music, Adding Sound Effects</li>  \t<li>Scoring, HUD, Stats/Progress Tracking, Score Board</li>  \t<li>Game Menus, Saving/Loading Game Progression</li>  </ul>  <p>  \t Reviews from our iOS course  </p>  <p>  \t &quot;I must say that so far, this course is awesome. Having the challenging assignments, daily discussions and feedback from the instructors, has been the missing piece that I have been looking for. I have read a handful of books, watched hours of video &amp; typed in a bunch of tutorials, and finally, having to work through tough assignments and applying what I have been learning, it is all starting to click - Finally!&quot; <em style=\"\">- Mark S.</em>  </p>  <p>  \t “Code Coalition&#039;s discussion board is one of the best resources for a beginning iOS developer. So much help being offered” <em style=\"\">- Omar S.</em>  </p>  <p>  \t “I&#039;ve just completed the iOS101 course, which I thought was a great intro to the XCode environment... I feel it&#039;s been well worth the investment. ” <em style=\"\">- Herdy H.</em>  </p>  <p>  \t &quot;Wow, @CodeCoalition! Moving quickly! Week 2 is so different than week 1...and I like it :) Thnx for the challenge&quot; <em style=\"\">- Melissa B.</em>  </p>  <p>  \t “Just discovered @CodeCoalition! An excellent resource for anyone who wants to make their first iPhone app.”<em style=\"\"> -Novall K.</em>  </p>  <p>  \t “Can&#039;t reiterate it enough how this course is helping me with my iOS dev skills. I think using protocols and delegation is finally becoming second nature. Fingers crossed :-)”<em style=\"\"> -Alex P.</em>  </p>  <p>  \t “I am really loving the class. I have taken classes at Code School &amp; Treehouse and both were missing a key element. The ability to ask questions as you complete a section and get an answer. “ <em style=\"\">-Lisa A.</em>  </p>  <p>  \t “Your training is the best out there so far. I wish I had the time away from regular job to follow along.” <em style=\"\">-Christian S.</em>  </p>  <p>  \t “Im loving this.. I have been through at least 5 books, and many online deals. Yours is super so far. Finally, i can get from start to finish on a lesson without wondering why on &quot;Everything&quot; thank youCant wait to do more.. “<em style=\"\"> -Kevin R.</em>  </p>  <p>  \t Why take this course and how much time does it take to complete?  </p>  <p>  \t iOS game development, and software development as a whole, is a booming career. The demand for new developers at all levels far outweighs the supply. Barrier to entry is not as high as one would think - though passion and hard work are necessary, a degree in computer science or any other technical field is not required.  </p>  <p>  \t We aim to take you from complete beginner to junior game developer in three months. The apps you create in this course can be used on your portfolio so you have something to show when you apply for jobs. Not only that, you can throw your apps on the app store and be the next Flappy Bird!  </p>", 
+    "end_date": null, 
+    "title": "The Complete iOS Game Course - Build a Flappy Bird Clone", 
+    "price": "20.00", 
+    "instructors": "Eliot Arntz, Mr. John Omar, Jed Hastwell", 
+    "commitment": "30.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/180094_7397_2.jpg", 
+    "course_url": "https://www.udemy.com/the-complete-ios-game-course-build-a-flappy-bird-clone/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-10T23:59:31Z"
+}

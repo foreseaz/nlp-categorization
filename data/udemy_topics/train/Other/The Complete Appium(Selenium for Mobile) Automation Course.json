@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>****06/05/2016: Added Video &amp; Screenshot coverage for test runs on iOS &amp; Android****</strong></p>\n\n<p><strong></strong></p>\n\n<p>  \t<strong>Are you planning to start your career in the field of Automation?</strong>  </p>\n\n<p>  \t<strong>Are you QA Engineer and looking to explore the mobile automation world?</strong>  </p>\n\n<p>  \t<strong>Do you want to master Appium(Selenium 3.0) for Android &amp; IOS Platforms</strong>  </p>\n\n<p>  \t<strong>Then this is the ideal course for you!!!</strong>  </p>\n\n<p>  \t                               In this Appium training course, attendees will learn from scratch assuming that you have no experience with automation.  </p>\n\n<ul>  \t<li>Learn Why Appium over other open source mobile automation tools</li>  \t<li>Understanding Appium Architecture </li>  \t<li>Setting up Pre-requisites and Installing Appium on Windows &amp; Mac OS X</li>  \t<li>Working with Built-In Apps on Android Platform(Phone,Clock...)</li>  \t<li>Working with Native Apps on Android &amp; IOS Platforms</li>  \t<li>Working with Mobile Web Browser on Android &amp; IOS Platforms</li>  \t<li>Performing various mobile gestures(Long Press, Multi Touch, Drag &amp; Drop, Swipe)</li>  \t<li>Working with various mobile controls on IOS(Sliders,Switches, PickerWheel....)</li>  \t<li>Identifying mobile elements using Appium Inspector, UIAutomatorViewer</li>  \t<li>Locating elements using- XPath, CSS,Class, Name, Screen Coordinates(x,y),IOSUIAutomation,AndroidUIAutomator</li>  \t<li>Creating Page Factory Model framework for Mobile Apps </li>  \t<li>Creating provisioning profile to test development app on real IOS device</li>  \t<li>Integrating Appium with SauceLabs for distributing tests on the cloud</li>  \t<li>Integrating Appium with Continuous Integration tool- Jenkins</li>  \t<li>Dynamic parametrization of Desired Capabilities through Maven &amp; Jenkins</li>  \t<li>Launch Appium programmatically on Windows &amp; mac</li><li>Record Video and Capture Screenshots for test runs on iOS &amp; Android</li>  </ul>\n\n<p>  \t                               If you still haven't made up your mind attending this course,  </p>\n\n<p>  \t<strong>Check out the free previews to understand more what this course has to offer</strong>  </p>\n\n<p>  \t                               After completing these course you can start writing automation scripts and building mobile frameworks across IOS &amp; Android platforms for Web, Native, Hybrid Apps  </p>\n\n<p>  \t                  Implement Page Factory Approach Framework for Mobile Native Apps by the end of the course  </p>", 
+    "end_date": null, 
+    "title": "The Complete Appium(Selenium for Mobile) Automation Course", 
+    "price": "35.00", 
+    "instructors": "Srikanth Vejendla", 
+    "commitment": "12 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/378298_a6a4_3.jpg", 
+    "course_url": "https://www.udemy.com/mobile-test-automation-using-appium-selenium-30/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-27T01:17:34Z"
+}

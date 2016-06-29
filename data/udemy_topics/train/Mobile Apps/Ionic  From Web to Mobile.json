@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Gartner predict that by 2016<strong> 50% of all mobile applications will be hybrid apps built using technology like Ionic</strong>.<br></p><p>Ionic is a powerful HTML5 SDK that helps you build native-feeling iOS and Android apps using web technologies like HTML, CSS, and Javascript. It's based on Cordova and AngularJS.</p><p>This course is for <strong>existing web developers</strong>, your level of HTML, CSS and JS doesn't matter but you must have some since we won't be covering those topics on this course.</p><p><strong><em>You DO NOT need to know AngularJS.</em></strong> </p><p>We will cover the essential AngularJS topics needed to build Ionic applications in the AngularJS Review section (If you already know AngularJS feel free to skip it)</p><p>Through a series of <strong>7 real-world examples</strong> you will learn the skills needed to build fully functional, cross platform iOS and Android mobile applications in Ionic.</p><p>The course will cover:</p><ul><li>Implement both <strong>Tabbed</strong> and <strong>Side Menu</strong> navigation.</li><li>Interact with the phones <strong>Camera</strong>, <strong>GPS</strong> &amp; play sounds.</li><li>Embed <strong>Google Maps</strong> with markers, popup info windows.</li><li>Login with <strong>Facebook</strong> and add <strong>real-time chat</strong> functionality with Firebase.</li><li>Implement list controls, with re-order, delete, <strong>pull to refresh</strong> and <strong>infinite scroll </strong>functionality.</li></ul><p>The course will also cover the feature of the <strong>Ionic Platform</strong> such as<br></p><ul><li><strong>Ionic Push</strong> - Send cross platform push notifications with just a few lines of code.</li><li><strong>Ionic Deploy</strong> - Update your apps automatically and silently.</li><li><strong>Ionic Analytics</strong> - Easily add deep analytics to your application.</li></ul><p>With the rapid expansion of Javascript into nearly every area of application development. <strong><em>Web Developers are now the most versatile developers in the market</em></strong>, enjoying long-term job stability, growth, and diversity of work.</p><p>Thanks to Ionic, you now can design, build, and deploy robust mobile apps faster than you could with native technologies, all while incurring little to no app performance penalties and sticking to the web technologies you already love working with, namely css, html and javascript.</p><p><strong>Imagine if you were the CTO of a small tech company, who would you rather hire?</strong></p><p>A versatile web/mobile superstack developer.</p><ul><li>In the morning they can fix a bug with the front end of the website.</li><li>In the afternoon they get their hands dirty adding a new feature to the node server side application.</li><li>And then in the evening they work on the companies new mobile application which is launching on iOS and Android in 2 weeks time.</li></ul><p><strong>OR</strong></p><p>A unicorn native app developer, who can only work on iOS <em>or</em> Android.</p><p><strong>Do I even need to say it?</strong></p><p>With Ionic the dream of using web technology to build mobile apps is finally here. It isn't a second-class option, it's the future of mobile app development.</p>", 
+    "end_date": null, 
+    "title": "Ionic: From Web to Mobile", 
+    "price": "30.00", 
+    "instructors": "Asim Hussain", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/486884_4355_3.jpg", 
+    "course_url": "https://www.udemy.com/ionic-from-web-to-mobile/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-26T17:54:36Z"
+}

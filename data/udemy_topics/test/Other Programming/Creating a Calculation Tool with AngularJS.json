@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn to create a useful web tool that calculates and converts results for your users. In this project, you'll help webpage visitors calculate their energy savings from switching to efficient LED and CFL light bulbs. Chris Converse walks through each step in the process: building the main HTML page, creating the form elements, styling the layout with CSS, and performing calculations on the input using JavaScript and AngularJS's data binding elements. Chris also helps you adjust the layout to display better on small screens and mobile devices.<br><br>Using these lessons, and the free exercise files, you can build any kind of calculation tool for your clients, from shipping cost to mortgage payment calculators.</p>", 
+    "end_date": null, 
+    "title": "Creating a Calculation Tool with AngularJS", 
+    "price": "20.00", 
+    "instructors": "Chris Converse", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/713468_9034_3.jpg", 
+    "course_url": "https://www.udemy.com/creating-a-calculation-tool-with-angularjs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other Programming"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-02T17:25:26Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">This is an introductory course for the <strong style=\"\">Ruby programming language</strong>, suitable for anyone who wants to use Ruby for any purpose. Whether you intend to use Ruby for Rails development, at the command line, or for writing GUI applications, this is the place to start. </p><p style=\"\">The course consists of nearly <strong style=\"\">two hours</strong> of training, and teaches Ruby syntax. We only assume that you have some grasp of basic <strong style=\"\">O</strong><strong style=\"\">bject Oriented Programming</strong> (what classes and objects are and how to use them). You will learn:</p><p style=\"\">- How to set up Ruby on your computer (you may already have it!)</p><p style=\"\">- How to create Ruby source code</p><p style=\"\">- Running Ruby interactively at the command prompt</p><p style=\"\">- Variable and constant syntax</p><p style=\"\">- Control structures (loops and if statements)</p><p style=\"\">- Arrays and how to use them</p><p style=\"\">- Hashes</p><p style=\"\">- Ruby method definitions</p><p style=\"\">- Using blocks</p><p style=\"\">- Classes and objects in Ruby</p><p style=\"\">- Attribute specifiers</p><p style=\"\">- Implementing inheritance</p><p style=\"\">- Method access in Ruby</p><p style=\"\">Ruby is is both unique and elegant. This course will get you started with Ruby programming quickly and easily. The course is broken into simple digestible steps. We take a hands-on &quot;learn by doing&quot; approach and our focus is to make you productive right from go!</p><p style=\"\">This course is for newbie programmers or developers who want to get up to speed with the most popular language of the moment.</p><p style=\"\">The course is suitable for anyone who has some programming knowledge, but no knowledge of the Ruby language. Ruby is fun to learn, and a <strong style=\"\">very powerful tool</strong> for any serious programmer. I hope you join us.</p>", 
+    "end_date": null, 
+    "title": "Learn Ruby Programming The Easy Way", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/597256_f790.jpg", 
+    "course_url": "https://www.udemy.com/learn-ruby-programming-the-easy-way/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-30T08:31:35Z"
+}

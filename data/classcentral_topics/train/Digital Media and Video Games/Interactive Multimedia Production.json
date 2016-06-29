@@ -1,0 +1,25 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Digital Media & Video Games"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course familiarizes students with creating instructionally focused interactive media. The tool used in the class currently is Adobe Flash. Topics to be covered include fundamental programming concepts (variables, variable types, code re-use, commenting code, and basic control structures) in addition to the fundamentals of the flash environment (animation or “tweening”, vector graphics, use of sound and video). More advanced programming topics (such as object oriented programming, classes, and inheritance) are touched on but not in depth; think “consumer” of object oriented programming as opposed to a true “producer” of custom classes and object oriented programming code. The course also covers principles of interface design, assessment as it applies to embedded items, and requires the writing of an instructional design document or work plan. None of these topics are covered in depth because we have other courses that accomplish this, but they are discussed in the context of development. Students finishing this course will have at least one completed Flash project for their portfolios demonstrating a strong knowledge of the tool and a good foundation in the ActionScript language as the tool and the language apply to instructional design.\n\n                                    ", 
+    "end_date": "2013-06-07T00:00:00Z", 
+    "title": "Interactive Multimedia Production", 
+    "price": 0, 
+    "instructors": "Andrew Walker, Ph.D.", 
+    "institution_name": [], 
+    "commitment": "", 
+    "subject_name": [
+        "Art & Design"
+    ], 
+    "course_url": "https://www.canvas.net/", 
+    "duration": "18 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Canvas.net"
+    ], 
+    "start_date": "2013-02-01T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \tThis is a beginner and intermediate Microsoft Excel training class that requires no prior knowledge of Excel. The training provided in this class covers MAC and PC. Ideal for students who use a MAC and just as applicable to students who use a PC.  </p>  <p>  \tThe class starts be describing the interface and then explains different functions a user can utilize to perform a variety of analysis.  </p>  <p>  \tThis is a beginner and intermediate level class, no prior excel experience necessary.  </p>  <p>  \tFollowing is a list of topics covered in class:  </p>  <p>  \tLayout  </p>  <ul style=\"\">  \t<li>Standard Toolbar</li>  \t<li>  \t<p>  \t\tFormatting Toolbar  \t</p>  \t</li>  \t<li>  \t<p>  \t\tHome Tab  \t</p>  \t</li>  \t<li>  \t<p>  \t\tLayout Tab  \t</p>  \t</li>  \t<li>  \t<p>  \t\tTables Tab  \t</p>  \t</li>  \t<li>  \t<p>  \t\tCharts Tab  \t</p>  \t</li>  \t<li>  \t<p>  \t\tSmart Art  \t</p>  \t</li>  \t<li>  \t<p>  \t\tFormulas  \t</p>  \t</li>  \t<li>  \t<p>  \t\tData  \t</p>  \t</li>  \t<li>  \t<p>  \t\tReview  \t</p>  \t</li>  </ul>  <p>  \t<strong style=\"\">Functions</strong>  </p>  <ul style=\"\">  \t<li><strong style=\"\"></strong>Sum</li>  \t<li>Average</li>  \t<li>Max</li>  \t<li>Min</li>  \t<li>Count</li>  \t<li>  \t<p>  \t\tVertical and Horizontal Lookup  \t</p>  \t</li>  \t<li>  \t<p>  \t\tVertical and Horizontal Lookup with Index  \t</p>  \t</li>  \t<li>  \t<p>  \t\tSumIf and AverageIf  \t</p>  \t</li>  \t<li>  \t<p>  \t\tThe IF Statement  \t</p>  \t</li>  \t<li>  \t<p>  \t\tNested IF Statement  \t</p>  \t</li>  \t<li>  \t<p>  \t\tVlookup nested inside an if statement  \t</p>  \t</li>  </ul>", 
+    "end_date": null, 
+    "title": "Microsoft Excel Beginner and Intermediate with Certificate", 
+    "price": "20.00", 
+    "instructors": "Startup Saturdays", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/121136_ad02_6.jpg", 
+    "course_url": "https://www.udemy.com/microsoft-excel-beginner-and-intermediate-certificate-class/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-17T11:13:54Z"
+}

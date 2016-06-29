@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p><em><strong>Linear Regression, GLMs and GAMs with R</strong></em> demonstrates how to use R to extend the basic assumptions and constraints of linear regression to specify, model, and interpret the results of generalized linear (GLMs) and generalized additive (GAMs) models. The course demonstrates the estimation of GLMs and GAMs by working through a series of practical examples from the book Generalized Additive Models: An Introduction with R by Simon N. Wood (Chapman &amp; Hall/CRC Texts in Statistical Science, 2006). Linear statistical models have a univariate response modeled as a linear function of predictor variables and a zero mean random error term. The assumption of linearity is a critical (and limiting) characteristic. Generalized linear models (GLMs) relax this assumption of linearity. They permit the expected value of the response variable to be a smoothed (e.g. non-linear) monotonic function of the linear predictors. GLMs also relax the assumption that the response variable is normally distributed by allowing for many distributions (e.g. normal, poisson, binomial, log-linear, etc.). Generalized additive models (GAMs) are extensions of GLMs. GAMs allow for the estimation of regression coefficients that take the form of non-parametric smoothers. Nonparametric smoothers like lowess (locally weighted scatterplot smoothing) fit a smooth curve to data using localized subsets of the data. This course provides an overview of modeling GLMs and GAMs using R. GLMs, and especially GAMs, have evolved into standard statistical methodologies of considerable flexibility. The course addresses recent approaches to modeling, estimating and interpreting GAMs. The focus of the course is on modeling and interpreting GLMs and especially GAMs with R. Use of the freely available R software illustrates the practicalities of linear, generalized linear, and generalized additive models.</p>", 
+    "end_date": null, 
+    "title": "Linear Regression, GLMs and GAMs with R", 
+    "price": "20.00", 
+    "instructors": "Geoffrey Hubona, Ph.D.", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/701416_2a37_6.jpg", 
+    "course_url": "https://www.udemy.com/linear-regression-glms-and-gams-with-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-19T11:27:55Z"
+}

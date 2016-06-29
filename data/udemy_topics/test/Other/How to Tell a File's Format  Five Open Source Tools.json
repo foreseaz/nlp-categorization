@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>You will learn how to use five free, open-source tools to identify the format, version, and profile of document files and obtain their metadata. If you're working in library and archive technology, or if you're a student preparing for this career, the course will give you a strong start in using those tools and understanding their strengths and weaknesses. The five central sections each cover one of these tools:</p><p><strong>file</strong>: A command line tool included in Linux and Unix for simple file identification.</p><p><strong>DROID</strong>: A batch-oriented tool from the UK National Archives, using the PRONOM format registry.</p><p><strong>ExifTool</strong>: A metadata extraction tool that recognizes a broad range of formats.</p><p><strong>JHOVE</strong>: Software developed at the Harvard University Library for careful validation of certain formats. I wrote most of the code for JHOVE.</p><p><strong>Apache Tika</strong>: Content extraction software which can identify many formats.<br></p><p>For each tool, there's a discussion of how to use it followed by an on-screen demonstration of installing and using it, as well as a downloadable PDF summarizing the material.</p><p>You should be comfortable with installing software on your computer. Familiarity with the Unix/Linux command line is strongly recommended. Most, but not all, of the tools described can run on Windows. All will run on a Macintosh or Linux system.<br></p>", 
+    "end_date": null, 
+    "title": "How to Tell a File's Format: Five Open Source Tools", 
+    "price": "25.00", 
+    "instructors": "Gary McGath", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/641390_68ad.jpg", 
+    "course_url": "https://www.udemy.com/file-format-identification-tools/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-15T14:14:20Z"
+}

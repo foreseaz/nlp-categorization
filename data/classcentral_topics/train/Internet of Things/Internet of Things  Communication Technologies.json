@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Internet of Things"
+    ], 
+    "description": "\n\n                    \n                    \n                    Have you wondered how “Things” talk to each other and the cloud? Do you understand the alternatives for conveying latency-sensitive real time data versus reliable signaling data? Building on the skills from the Sensing and Actuation course, we will explore protocols to exchange information between processors. \n\nIn this course, you will learn how VoIP systems like Skype work and implement your own app for voice calls and text messages.  You will start by using the Session Initiation Protocol (SIP) for session management. Next, you will learn how voice codecs such as Adaptive Multi Rate (AMR) are used in 3G networks and use them for voice traffic in your app. \n\nLearning Goals: After completing this course, you will be able to:\n\n1.\tImplement session initiation, management and termination on your DragonBoard™ 410c using SIP.\n2.\tDiscover other users and exchange device capabilities.\n3.\tCompare and contrast narrowband and wideband codecs and experience the voice quality differences between them.\n4.\tImplement and demonstrate VoIP calls using the DragonBoard 410c.\n\n                                            Syllabus\n                        IntroductionWelcome to the Internet of Things! Before diving into this course give us a chance to let you know what it is all about! We will walk you through a module by module outline that will give you highlights on the interesting aspects of the course.Terminology/Cheat Sheet (Beginner)In this course, you will see a lot of new words and acronyms you might not be familiar with. If you feel comfortable with your knowledge of tech terminology, feel free to skip these lessons since they will not affect the overall integrity of the course. If you see something that you want to know a little more about, feel free to watch the video to gain insight on some basic concepts. We do expect you to know the majority of this material before going into the next module, we would recommend going through the lessons as a quick brush up.VOIP in a NutshellThis module will take a high level look at what VoIP is in a nutshell. Essentially, we would like to talk a little more in depth about the key terms you may have seen in module 1. We will also go over a great open source VoIP application called Linphone, and explain a variety of ways you can use this open source code to expand on a VoIP application we will be making later on in the course. We will take a look at SIP and look at some online resources that might help you to understand the inner working of VoIP.CodecsIn this module our esteemed Professor Harinath Garudadri will talk about coders and decoders (Codecs). This will allow us to make better use of the communications in the data plane.We want to look at the motivation behind using Codecs, the different ways to take advantage of redundancies when using codecs and finally the ability to take advantage of different receiver / transmitter combinations. If we are able to understand the way that information is sent and received over the data plane we can create and use the right codecs.Make your own VoIP applicationThe main part of this module will focus on you making your very own VoIP application on the Android operating system. In order to do this, you might have to brush up on some of the materials in Course 2. You will be required to use Android Studio to push the application onto your board. You will need to know how to use Git, adb and possibly fastboot in order to accomplish this. We will provide you with the code for your application, but remember, the code we are giving you is only a template that can be used to build a bigger and better application with a wide variety of functions. Once we have built your application and pushed it to your board, we will sit together and brainstorm everything we have seen in the last few courses and take a look at what we are now capable of building in the IoT market.\n                                    ", 
+    "end_date": "2016-06-27T00:00:00Z", 
+    "title": "Internet of Things: Communication Technologies", 
+    "price": 0, 
+    "instructors": "Ganz Chockalingam and Harinath Garudadri", 
+    "institution_name": [
+        "University of California, San Diego "
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/learn/internet-of-things-communication", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-05-30T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p></p><p><p>This 3-hour cloud computing training course  describes the networking requirements of various cloud services (from  infrastructure Virtualization to software-as-a-service solutions) with focus on  virtual networking technologies needed in multi-tenant  infrastructure-as-a-service (IaaS) environments.</p>    <p>The second half of the cloud computing training course focuses on IaaS networking scalability and helps you select  the most appropriate architecture for your environment based on the number of  physical servers and tenants you envision in your environment.</p>    <p>Take this Cloud Computing Training course  and learn virtual  networking for cloud computing.</p>&lt;/p&gt;<p></p>  ", 
+    "end_date": null, 
+    "title": "Virtual Networking for Cloud Computing", 
+    "price": "35.00", 
+    "instructors": "Ivan Pepelnjak", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/16710_6711_3.jpg", 
+    "course_url": "https://www.udemy.com/virtual-networking-for-cloud-computing/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-04-22T15:07:55Z"
+}

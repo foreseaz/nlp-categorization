@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>Introducción al VBA con Excel 2013 es un curso destinado a facilitar \ndesde cero el aprendizaje de este lenguaje de programación a usuarios \nintermedios y avanzados de Excel. Visual Basic for Applications es la \nsolución perfecta para que Excel no tenga límites a la hora de generar \nplantillas y hojas de cálculo de la máxima calidad y profesionalidad. \nSin necesidad de tener experiencia en la programación, iremos conectando\n tema a tema hasta que seas capaz de escribir rutinas de código \naplicables a tu trabajo cotidiano en Excel.</p><p>Empezando con un capítulo introductorio dedicado a la grabación de \nmacros, el curso avanza con otros apartados dedicados a las normas más \nbásicas de sintaxis del lenguaje. Veremos en qué consiste programar en VBA estudiando para ello objetos, métodos y propiedades en VBA. Posteriormente y para que el alumno \nperciba una utilidad desde el primer momento, se ofrece una batería de \nrutinas de código prácticamente listas para utilizar y que servirán de \napoyo didáctico. En este apartado veremos dos ejemplos de código que no pueden ser grabados por macros, pasando por definir algunas acciones con rangos de celdas, filas y columnas, hojas, libros y Excel. Terminaremos este apartado dando formatos de celda y de número con VBA. El curso termina ofreciendo prácticas sobre conceptos \nalgo más avanzados como gestión de errores, a través de las instrucciones On Error Resume Next y On Error Go To, variables, la estructura de control If... Then.... Else, cuadros de \nmensaje con y sin variable así como los InputBox y estructuras repetitivas o bucles como son For... Next, Do While... Loop y For Each... Next. Por último veremos como asignar botones, formas y eventos a determinadas macros.<br></p>", 
+    "end_date": null, 
+    "title": "Excel VBA:Aumenta tu Productividad Creando Macros Desde Cero", 
+    "price": "20.00", 
+    "instructors": "Manuel Rey Vilar", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/704544_420a_2.jpg", 
+    "course_url": "https://www.udemy.com/excel-2013-vba-basico/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-23T08:45:22Z"
+}

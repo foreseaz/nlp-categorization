@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  This introductory course will discuss the cause, problems and countermeasures for data remanence. Aside from that terms like deletion and undeletion will be incorporated in the course.  The different methods and each advantage and disadvantage of data wiping and data destruction will also be discussed.  </p>", 
+    "end_date": null, 
+    "title": "Data Wiping and Destruction", 
+    "price": "50.00", 
+    "instructors": "The Art Of Service", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/158966_d524_3.jpg", 
+    "course_url": "https://www.udemy.com/data-wiping-and-destruction/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-06T04:30:35Z"
+}

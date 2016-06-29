@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>SAP MM Material Management - Welcome to this training course presentation of the SAP Materials Management - Legacy System Migration Workbench(LSMW).</p><p>The Materials Management functionality is the main component of any SAP implementation. The Materials Management can be described as the train that drives the supply-chain functionality within SAP. It also integrates with other SAP modules as well. Taking this MM course will help you with everything you need to start your career in working with SAP Functional Areas.</p><p>Overview of the course: -</p><ul style=\"\"><li>Basic Concept of LSMW</li><li>Recording Method Usage of LSMW</li><li>Session on Material Master Creation from LSMW Recording Method</li><li>Different Applications on Run Batch Input Session.</li></ul><p>What separates this course from other SAP courses is a focus on clarity and presentation. All lessons are easy to follow and feature a step by step guide to help beginners.</p>", 
+    "end_date": null, 
+    "title": "Learn SAP LSMW Step by Step", 
+    "price": "20.00", 
+    "instructors": "Sumit Jain", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/472588_0cbc_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-sap-lsmw-step-by-step/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-10T07:39:52Z"
+}

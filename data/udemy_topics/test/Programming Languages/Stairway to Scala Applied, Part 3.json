@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Stairway to Scala Applied, part 3 is the final part of this Scala programming language course. The course in its entirety is aimed at giving you a full, day-to-day working knowledge of Scala programming, including some of the most common core library APIs.</p><p>This part starts with a final language feature for Scala (continuing from the other language features covered in parts 1 and 2). Pattern matching, partial functions and case classes are examined, how they can be used together, and how partial functions can help you avoid certain runtime errors by validating input to a function before you call it.</p><p>Following that we look at the Futures api in the core libraries and Actors using the Akka library. Then we delve into the collections API in the core libraries (a very in-depth 2 module examination of the capabilities and performance tradeoffs of the various collection options), and finish up with a look at using Scala on Java projects, using Java libraries from Scala and how to harness build tools (particularly SBT) to build your project and even write custom settings and tasks.</p><p>This course is also a good lead-in to the Stairway to Scala Advanced 3 part course which concentrates on in-depth language features, higher level functional abstractions, common patterns and idioms, type theory and other more advanced Scala concepts that will be particularly helpful for anyone writing their own libraries and APIs in Scala.</p>", 
+    "end_date": null, 
+    "title": "Stairway to Scala Applied, Part 3", 
+    "price": "50.00", 
+    "instructors": "Dick Wall", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/791838_6124_4.jpg", 
+    "course_url": "https://www.udemy.com/stairway-to-scala-applied-part-3/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-14T00:31:56Z"
+}

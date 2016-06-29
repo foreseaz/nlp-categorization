@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>في هذا الكورس التقديمي في إدارة سيرفر قواعد البيانات الخاص بشركة مايكروسفت سنتعرف على تفاصيل السيرفر وكيفية تركيبه وماذا نحتاج من هاردوير وسوفتوير لإعداد وتركيب السيرفر. \n\n  </p>\n\n<p>الكورس عبارة عن تسجيل لدورة حقيقية وهذه تعتبر إضافة للكورس لأن اسئلة الطلاب تؤدي إلى إثراء المادة. \n\n  </p>\n\n\n\n\n\n<p>الكورس عبارة عن تقديم للكورس الآخر في إدارة البيانات حيث أن الكورس الآخر يحتوي على كمية أكبر من العلومات وعلى معلومات متقدمة فينصح بعد الانتهاء من هذا الكورس أخذ كورسنا الآخر في إدارة قواعد البيانات حتى تكون المعلومات عندك متكاملة</p>\n\n\n\n\n\n<p>هذا الكورس يتوقف عند المواضيع التقديمية ولا يدخل في إدارة السيرفر الحقيقية فهذا الموضوع تناولناه في كورسنا الآخر. <br></p>\n\n<p><strong>SQL Server Database Administrator (DBA)</strong><br></p>", 
+    "end_date": null, 
+    "title": "Introduction To SQL Server Database Administration", 
+    "price": 0, 
+    "instructors": "Mohammad Qalalwa, Arresha Studios", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/793488_4345.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-sql-server-database-administration/", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-15T11:18:48Z"
+}

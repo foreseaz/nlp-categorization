@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Moodle es la plataforma gratuita para educación a distancia o eLearning más utilizada en el mundo. Usted podrá construir cursos en línea con o sin fines de lucro. En este curso aprenderá a instalar Moodle en un servidor o en una computadora personal, ya sea Mac o Windows. Crearemos desde un inicio los cursos en sus diferentes modalidades: curso social, de tópicos, semanal o de una sola actividad. Asimismo, daremos de alta alumnos, tanto en forma manual como de un archivo, y los inscribiremos a los cursos. Agruparemos los cursos en categorías para una mejor gestión de nuestra plataforma.</p>\n\n<p>Construiremos los cursos con \"recursos\" que son material que no interactúa con el usuario, como son textos, archivos PDF, vídeos, páginas web, que forman una parte importante en el aprendizaje del estudiante.</p>\n\n<p>También crearemos actividades, en las cuales el alumno tendrá comunicación con la computadora, el profesor u otros compañeros de curso, como son tareas, lecciones, encuestas dirigidas y lecciones.</p>\n\n<p>Elaboraremos un banco de preguntas y revisaremos cada uno de los tipos de preguntas disponibles en Moodle 3.x. Posteriormente crearemos los exámenes o quizes (llamados cuestionarios en algunos países).</p>\n\n<p>Añadiremos actividades sociales a nuestros cursos, como son el chat, el foro, los wikis, glosarios o los talleres (workshop). </p>\n\n<p>En la última sección revisaremos las actividades propias del profesor cuando inicia el curso, como son los reportes de seguimiento, las bitácoras, las calificaciones, crear grupos y agrupamientos. También crearemos actividades condicionales, con las cuales tendremos todas las herramientas para crear poderosos cursos e-learning con Moodle 3.</p>\n\n<p>Este curso no es un curso sobre <strong>diseño instruccional</strong>, ni abordamos los aspectos del administrador, como respaldos o manejo de los crons de la plataforma. Está enfocado a profesores que deseen construir cursos en la plataforma Moodle 3.</p><p>Este curso está dirigido a cualquier persona que deseen crear cursos en línea en la plataforma eLearning más utilizada en el mundo: Moodle.</p>\n\n<p> </p>", 
+    "end_date": null, 
+    "title": "Crea cursos eLearning con Moodle 3 para profesores", 
+    "price": "20.00", 
+    "instructors": "Francisco Javier Arce Anguiano", 
+    "commitment": "14 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/741496_6326_2.jpg", 
+    "course_url": "https://www.udemy.com/crea-plataformas-elearning-con-moodle-3-para-profesores/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-25T21:28:37Z"
+}

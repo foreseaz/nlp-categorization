@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this course you'll learn how to create a simple RESTlike API using Java programming language and Dropwizard, a popular framework to build RESTful APIs and microservices. The course begins with a brief introduction to REST architecture style principles and an overview of an example application to store bookmarks, called DropBookmarks, we'll build throughout the course. </p><p>In the following parts you'll create a Hello World application using Dropwizard, learn how to test the application and use various tools to check the output of restful APIs. Also you'll learn how to connect to a relational database using Hibernate ORM framework, how to use database migrations with Liquibase and how to secure your API using Basic Authentication.</p><p>The course currently consists of 59 lectures and 4 hours of video. After taking this course you'll be able to start developing RESTlike APIs at Level 2 of Richardson Maturity Model and microservices using Java and Dropwizard. Also, some of the topics you'll learn may be useful for development of Web-based Java applications using other frameworks.</p>", 
+    "end_date": null, 
+    "title": "Getting started with Dropwizard", 
+    "price": "20.00", 
+    "instructors": "Dmitry Noranovich", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/581820_dc99_2.jpg", 
+    "course_url": "https://www.udemy.com/getting-started-with-dropwizard/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-13T04:11:00Z"
+}

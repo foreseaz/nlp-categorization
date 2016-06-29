@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Neste curso, procurei explicar as <strong>partes essenciais para se dominar o MaxScript</strong> da forma mais clara e fácil possível.</p><p>Através destas aulas, o aluno vai aprender do zero como começar a utilizar a linguagem, vai entender como se utilizam os recursos básicos do 3dmax como modificadores, materiais, animações.</p><p>Também vamos ter uma breve introdução a <strong>Algoritmos </strong>e <strong>Lógica </strong><strong>de Programação</strong>, para os que nunca programaram nada e ainda não tem familiaridade com códigos.</p><p>Ao longo do curso, mostro praticamente<strong> tudo que venho desenvolvendo</strong> ao longo dos meus últimos dez anos de trabalho com o Max, de ferramentas de MaxScript que aplico diariamente em <strong>meus projetos de games e desenhos animados</strong>.</p><p>Então nas aulas mostro todas as boas praticas para se fazer um rigging completo de um personagem estruturando os <strong>bones </strong>e fazendo todo o <strong>skinning</strong>, e o tempo todo usando o MaxScript para <strong>agilizar ao máximo</strong> o trabalho <strong>poupando tempo e minimizando os erros</strong>.</p><p>Além disso o aluno vai ter um grande entendimento de como se aplicam <strong>expressões</strong> <strong>matemáticas </strong>para compor as cenas e animações no 3dmax, alem de entender a fundo a parte de<strong> controles de animação</strong> e <strong>parametros customizados.</strong>.</p>", 
+    "end_date": null, 
+    "title": "3D Studio Max - Max Script", 
+    "price": "30.00", 
+    "instructors": "Tito Petri", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/665160_2461_2.jpg", 
+    "course_url": "https://www.udemy.com/maxscript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-09T21:01:23Z"
+}

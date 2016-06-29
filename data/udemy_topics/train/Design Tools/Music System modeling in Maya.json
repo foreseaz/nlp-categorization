@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \tIn this series of tutorials, we will use variety of methods for modeling this music system in maya. This kind of computer generated 3D model is very often used in film and commercial, or just used to show off the details of a product. There is really a need of creating 3D models in the industry.  </p>  <p style=\"\">  \tThe work flow for creating this model can vary from polygon modeling to using nurbs curve and surface. In these particular tutorials, we start from creating different parts with polygon tools and join them together; we also cover method from maintaining edge hardness, smooth the corners, cut and mirror polygon model, and nurbs revolve and extrude. We cover lots of polygon and nurbs modeling tools, and some tips to make modeling so much easier. It is a step by step tutorial, and by the end you will be able to build this model from scratch, and you will have your own knowledge to build similar complex model for film, commercial, animation, or production visualization.  </p>", 
+    "end_date": null, 
+    "title": "Music System modeling in Maya", 
+    "price": "20.00", 
+    "instructors": "Wei He", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/79356_faa0_6.jpg", 
+    "course_url": "https://www.udemy.com/music-system-modeling-in-maya/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Design Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-16T01:48:30Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>“The world we live is full of coordinates and I love it!\" - Alfred Lam, the course instructor.</p>\n\n<p>“The essence of creating a beautiful map is balance!\" - Alfred Lam, the course instructor.</p>\n\n<p>This is an entry-level course teaching how to add GIS maps to iOS Apps. GIS stands for Geographic Information System.  It is composed of hardware, software, people, environment, and data. Therefore, students with different backgrounds can learn and use GIS. The purpose of this course is to convey a concept to students that mobile GIS app creation is not difficult.  You are on the right place and you can spend your minimum time to handle it.  </p>\n\n<p>If you are new to using GIS maps in mobile app development, this course is the right place for you to start. The ArcGIS Runtime SDK for iOS has been developed by ESRI, which is so far the biggest vendor of GIS systems and applications in the world. Some developers may ask why do we bother to use GIS maps as we already have Google map. My answer is that the Google map is great for you to identify your locations. But its data, functionality, and flexibility are far from enough if you want to create a versatile app with various basemaps, to tell a story, to add your own map features, or to perform an analysis to your clients with a map. ArcGIS, on the other hand, is the most comprehensive and advanced GIS in the world and it is capable of performing all these tasks for you.</p>\n\n<p>Time is precious for many app developers and programmers. This course was condensed with all necessary steps for starting a mobile GIS app development.  For those GIS users, students, iOS developers, and anyone who are interested in developing more decent mobile or web GIS apps. Please find at my website or be aware of my other course announcements about Android, JavaScript, and iOS in the future.   </p>\n\n<p>After completing this course and the exercises, you will be able to:</p>\n\n<p>•\tadd GIS basemap to iOS app;</p>\n\n<p>•\tadd ArcGIS Runtime SDK for iOS to project manually or in cocoapods;</p>\n\n<p>•\tcreate apps with various basemaps;</p>\n\n<p>•\tenrich GIS map with selected feature layers by utilizing ESRI resources;</p>\n\n<p>•\tadd additional features to the map;</p><ul><li><p>Create a webMap at ArcGIS Online;</p></li><li><p>Open a webMap in iOS app;</p></li><li><p>Turn on/off a webmap feature layer;</p></li><li><p>Display GPS on map;</p></li><li><p>Add a callout and set animation;</p></li><li><p>Display GPS coordinates in a callout;</p></li><li><p>Add a tailor-made GPS button to turn on/off GPS;</p></li><li>Set GPS AutoPand Default mode;</li></ul><p><br></p>", 
+    "end_date": null, 
+    "title": "Deploy GIS Map and GPS to iOS App in Objective C and Xcode 7", 
+    "price": "20.00", 
+    "instructors": "Alfred Lam", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/691506_8e27_3.jpg", 
+    "course_url": "https://www.udemy.com/deploy-gis-map-to-ios-apps-in-objective-c-and-xcode-7/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-07T22:33:31Z"
+}

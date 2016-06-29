@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>If you want to be a web developer or programmer for that matter the first languages you will need to learn will be</p><p>HTML and Css. These two languages are used to create the structure and presentation style of any website.<br>HTML is like the scafolding or bricks of a building while CSS could be thought of as the paint work that makes it all look pretty.<br>They work like a pair of gloves and requires each other.</p>\n\n<p>HTML and Css are both easy t learn. This course will teach you the basics of both languages that will be sufficient<br>to get you creative and start building simple webpages and websites.</p>\n\n<p>What you will learn in this course includes:</p>\n\n<ul><li>What is HTML</li><li>HTML document structure</li><li>Your first code: Hello world</li><li>Creating paragraphs using &lt;p&gt; tag</li><li>Using HTML comments</li><li>Creating Headlines</li><li>Adding Images to webpage</li><li>Adding Video to webpage</li><li>Ading Audio to webpage</li><li>Creating Lists</li><li>Indenting your code</li><li>Creating Divs</li><li>Using Id attributes</li><li>Using Class attributes</li><li>Creating simple forms</li><li>Selectors</li><li>Group Selectors</li><li>Text editors</li><li>Textarea</li><li>Using Local storage</li><li>What is CSS</li><li>Syntax</li><li>Ways to apply CSS</li><li>Inline CSS</li><li>Internal CSS</li><li>External CSS</li><li>Font Family</li><li>Border Radius</li><li>Box Model</li><li>Overflow</li><li>Margin</li><li>Font size property</li><li>Border</li><li>Display property</li><li>Line Property</li><li>Background Property</li><li>Links</li><li>Text Decoration</li><li>Float and Clear</li><li>Font weight</li><li>Text Alignment</li></ul>\n\n<p>This course course is video based and easy to follow .</p>\n\n<p>Welcome to the course.</p>", 
+    "end_date": null, 
+    "title": "Learn and Understand HTML and CSS From Scratch with Videos", 
+    "price": "20.00", 
+    "instructors": "Skill Tree", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/802250_7c02_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-and-understand-html-and-css-from-scratch-with-videos/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-23T20:58:08Z"
+}

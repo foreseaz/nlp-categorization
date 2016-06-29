@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course teaches you basics of bash scripting, yeah Basics doesn&#039;t mean kiddo. By just these basics you can create awesome bash scripts now. I learnt these first time and made my $50 by writing a bash script for automating WPA Cracking process.</p><p> This is community driven, that means anyone is free to ask me to add new video or a resource he found on internet and make its tutorial.</p><p><br style=\"\"></p><p>Click The Enroll button now!</p><p><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Basics of Bash Scripting", 
+    "price": "20.00", 
+    "instructors": "Ammar Brohi", 
+    "commitment": "32 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/461612_d98e.jpg", 
+    "course_url": "https://www.udemy.com/basics-of-bash-scripting/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-28T20:16:18Z"
+}

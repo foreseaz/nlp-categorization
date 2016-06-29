@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    Java is the world most popular language and it powers billions of devices and systems worldwide. It is one of the most sought after programming skill and provide ample jobs and freelance opportunities. We bring together best of Java training with our unique offering where you will learn the most of the popular java APIs building ten assorted projects. It will help you learn the correct use of Java API along with best development practices.  </p>  <p>  \t<strong>Project 1: Media Player</strong>  </p>  <p>  \t    Objectives: Create a media player using JavaFX with Sliders and JavaFX menus. The media player will be able to play audio files and video. Sliders will control the position in the media and the level of the volume.  </p>  <p>  \t<strong>Project 2: Game</strong>  </p>  <p>  \t    Objectives: Manipulate Images with user input and collisions. Threads will be used to update image positions to create animation. KeyListeners will be used to update a position of a piece in the game.  </p>  <p>  \t<strong>Project 3: Messenger</strong>  </p>  <p>  \t    Objectives: Create GUI using swing objects and use Java dot net to pass messages to and from clients. A server will run waiting for messages from clients. Users can login with a client by choosing a username. The server will send login and logout prompts to all logged in users.  </p>  <p>  \t<strong>Project 4: Database Explorer</strong>  </p>  <p>  \t    Objectives: Continue to use Swing objects to create GUIs. Use MySQL drivers to connect and execute queries on a database. Information retrieved will be stored and displayed in JTable.  </p>  <p>  \t<strong>Project 5: Akka</strong>  </p>  <p>  \t    Objectives: Use Akka to create a workload distribution system using Actors. An Actor System will create actors to process a range of numbers to check for primes. Akka will be used to utilize system resources more effectively.  </p>  <p>  \t<strong>Project 6: TextEditor</strong>  </p>  <p>  \t    Objectives: Open and save files using a GUI. A CardLayout will be used to switch between the menus. User passwords will be encrypted and then stored. When a user logs in the input password will be encrypted and checked against the stored password.  </p>  <p>  \t<strong>Project 7: Servlets</strong>  </p>  <p>  \t    Objectives: Create servlets to convert the TextEditor project into an applet. Servlets will work to save and read information from server. The servlets will also verify a user’s login information and create a session. An apache server will be setup to host the applet and a Tomcat server will host the servlets.  </p>  <p>  \t<strong>Project 8: Maven Projects</strong>  </p>  <p>  \t    Objectives: Convert existing projects into Maven projects to handle dependencies easier. Create a local repository and create an Archetype to start a new project. The local repository will store a private project to be a dependency for another project.  </p>  <p>  \t<strong>Project 9: Camera</strong>  </p>  <p>  \t    Objectives: Use OpenCV to access camera devices on the pc. Save screenshot to a file. Use OpenCV classifiers to enable face detections.  </p>  <p>  \t<strong>Project 10: Website Parser</strong>  </p>  <p>  \t    Objectives: Use Jsoup to parse elements from a website. Different elements will be stored in tabbed panes and have clickable urls that will launch a browser.  </p>", 
+    "end_date": null, 
+    "title": "Projects in Java", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/270812_40b3_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-java-by-building-projects/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-29T06:37:45Z"
+}

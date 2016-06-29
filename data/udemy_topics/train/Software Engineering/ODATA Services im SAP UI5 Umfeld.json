@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Du suchst einen leichten Einstieg in die Programmierung von OData Services? </p><p>\tIn diesem Kurs lernst du die Grundlagen, die zur Erstellung, Entwicklung Wartung und Weiterentwicklung eines OData Services nötig sind.</p><p>\tIn 18 Lektionen und Übungen mit einer Gesamtdauer von ca. 2,5 Stunden vermittle ich dir Schritt für Schritt alle nötigen Fähigkeiten, die du brauchst, um erfolgreich einen OData Service zu entwickeln. Dabei werde ich dir die Schritte größtenteils hands-on im System zeigen. Auch zwei Übungen inklusive Musterlösung und vier Quizzes sind Teil des Kurses.</p><p>\tDie folgenden Themen werden im Kurs behandelt:</p><ul><li>Grundlagen von OData Services</li><li>Testmethoden und Werkzeuge</li><li>Definition des OData Models in SAP</li><li>Implementierung der notwendigen Operationen<ul><li>Query - inklusive Sortierung, Filter und Paging</li></ul><ul><li>Read</li></ul><ul><li>Update</li></ul></li></ul>\t<p><br></p><p>\tAm Ende des Kurses wirst du in der Lage sein, eigenständig einen OData Service von Grund auf zu erstellen und die nötigen Methoden zu implementieren. Du wirst lernen, auf welche Fallstricke du achten musst und die wichtigsten Strukturen, Tricks und Werkzeuge kennen lernen. Auch die Wartung oder Weiterentwicklung eines bestehenden OData Service sollte dir keine Schwierigkeiten mehr bereiten.</p>", 
+    "end_date": null, 
+    "title": "ODATA Services im SAP UI5 Umfeld", 
+    "price": "45.00", 
+    "instructors": "- Skillcoach -, Alexander Baldamus, Lars Czerwonka", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/732706_50cc_3.jpg", 
+    "course_url": "https://www.udemy.com/odata-services-sap-ui5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-18T13:37:26Z"
+}

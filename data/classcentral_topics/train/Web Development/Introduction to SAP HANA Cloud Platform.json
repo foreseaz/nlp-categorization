@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    The SAP HANA Cloud Platform is a full featured, open standards based, in-memory cloud platform designed for today’s increasingly networked, mobile, social and data-driven world. Developers can quickly build impactful, highly scalable applications leveraging the massive speed and scale of SAP HANA. \r\n\r\nThis Platform-as-a-Service (PaaS) offering allows you to focus on developing your software and use an enterprise-ready pre-installed environment in the SAP cloud to deploy and run your applications in a secure and reliable way. \r\n\r\nThis course will introduce you to the SAP HANA Cloud Platform and show you how to take advantage of the various services it provides. Ideally you should have basic skills in Java programming as well as basic skills in using the Eclipse development environment. The registration, learning content, and the final exam are free of charge. You will be able to get some practical experience of the platform by using a free developer trial account. We’ll explain how you can get access at start of the course.\n\n                                    ", 
+    "end_date": "2015-03-18T00:00:00Z", 
+    "title": "Introduction to SAP HANA Cloud Platform", 
+    "price": 0, 
+    "instructors": "Rui Nogueira", 
+    "institution_name": [], 
+    "commitment": "", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://open.sap.com/courses/hanacloud1-2", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "openSAP"
+    ], 
+    "start_date": "2015-02-04T00:00:00Z"
+}

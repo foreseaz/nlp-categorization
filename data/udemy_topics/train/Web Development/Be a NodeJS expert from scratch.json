@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Welcome to “<strong class=\"redactor-inline-converted\">Be a NodeJS expert from scratch</strong>”.  NodeJS is the most popular and current technology in web development sector. It allows you to take your javascript knowledge to next level. You can now write client side and server side code in just 1 language, <strong class=\"redactor-inline-converted\">javascript</strong>. \n\n  </p>\n\n\n\n<p>Before jumping into the course we expect you to have little knowledge about javascript. We don’t expect you to be guru of javascript but at least knowledge about writing loops and declaring variable is a must to have under your belt. We will not be spending hours and hour about the sidebars explaining javascript and making course unnecessary long, just to increase time. No, we don’t do that.\n\n  </p>\n\n\n\n<p>The course will give you a detail understanding about nodejs and you will learn under the hood concept. Entire course will give you small challenges that will help you to push a little to work little harder. After that we will present our solution to check if you did it right or need a little work to be done. We have also focused in teaching the <strong>documentation reading process</strong>. Once you are able to read the docs, problem will become, No Problem to you in no time. \n\n  </p>\n\n\n\n<p>We will explain the concept of creating your own web and API server. You will learn to install NPM’s and writing your own modules. The course duration is not very long, so that you can complete in just a weekend and start doing some work in it. <strong class=\"redactor-inline-converted\">We will be working on cloud 9,</strong> because working on a live server and local host is sometimes different and produces unnecessary challenges. \n\n  </p>\n\n\n\n<p>NodeJS is a powerful technology and it is surely to grow in future too. It’s perfect time to get deep into nodejs and take your javascript knowledge to next level. \n\n \n\n Let’s rock and roll into course. Join in and say hello inside the course.</p>", 
+    "end_date": null, 
+    "title": "Be a NodeJS expert from scratch", 
+    "price": "20.00", 
+    "instructors": "Igneus Technologies", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/836960_2eba_3.jpg", 
+    "course_url": "https://www.udemy.com/nodejs-tutorials/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-01T20:14:06Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   Using <strong style=\"\">Push Notifications</strong> is a great way to add real-time messaging to your application. It allows you to stay in touch with your users and makes it possible for your users to communicate with each other. This course will guide you through all the necessary steps required to add this feature to your iOS Apps.  </p>  <p style=\"\">  \t   We will begin on the Apple Developer website to create an <strong style=\"\">SSL Certificate</strong> associated to an <strong style=\"\">App ID </strong>and a <strong style=\"\">Provisioning Profile</strong>. Next we&#039;ll see how to configure a <strong style=\"\">Parse App</strong> on the Parse website, and finally, we&#039;ll take a look at creating a push-enabled iOS application and sending notifications to users.  </p>  <p style=\"\">  \t   As a bonus, the course shows you how to use <strong style=\"\">NSNotificationCenter</strong> to display Push Notification message in UITableViewController.  </p>  <p style=\"\">  \t   Why take this course ?  </p>  <p style=\"\">  \t   Setting up Push Notifications is often a source of frustration for developers. The process is complicated and invites problems to happen along the way.By the completion of this course, you will have developed the necessary skills required to be able to set up and implement Push Notifications in your iOS Apps.  </p>  <p style=\"\">  \t   Course Outline:  </p>  <p style=\"\">  \t   * What is Push Notification?  </p>  <p style=\"\">  \t   * Registering and Handling Notifications  </p>  <p style=\"\">  \t   * Getting to know Parse  </p>  <p style=\"\">  \t   * Creating the SSL Certificate &amp; Provisioning Profile  </p>  <p style=\"\">  \t   * Sending Push Notifications  </p>  <p style=\"\">  \t   * NSNotificationCenter  </p>  <p style=\"\">  \t   By the completion of this computer based training course, you will be fully capable of Adding Push Notification from start to finish, including Creating App id and Provisioning Profile in the App Store.  </p>", 
+    "end_date": null, 
+    "title": "iOS 7 Development - Adding Push Notification To iOS Apps", 
+    "price": "30.00", 
+    "instructors": "Pankaj Chhikara", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/214486_3065_6.jpg", 
+    "course_url": "https://www.udemy.com/ios-7-development-adding-push-notification-to-ios-apps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-10T07:39:28Z"
+}

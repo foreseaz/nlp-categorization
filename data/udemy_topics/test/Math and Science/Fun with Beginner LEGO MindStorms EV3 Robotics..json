@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>  \t This is a robotics course for absolute beginners.  </p>  <p>  \t Over the last seven years we have had requests from grandparents, parents and teachers who claim to have no technical knowledge, that the free tutorials we have provided over the Internet be put together in a course that assumes absolutely no prior technical background, a course that they can use to help their middle school age grandchildren/children/students have fun with robots.  </p>  <p>  \t In this Robotics course for absolute beginners we try to answer that request, converting many of our free tutorials for use with Lego’s new EV3 MindStorms set. This course is about having fun building small Lego MindStorms EV3 robots, finding out how to command them to smile and speak, travel in straight and curved lines, and how to follow the edge of a line.  </p>  <p>  \t This mini-course includes about 2 hours of video tutorials. How long students take to complete this course varies enormously between students, but as a rough indication, we have used videos similar to these as the basis for about half of an 8-week, 2 hours per week after-school course for classes from Grade 5 to Grade 8, and for Adult Education and Parent/Child classes.  </p>  <p>  \t The course is structured as a “hands-on” “Learning-by-Doing” course, with new programming ideas introduced only when they are immediately needed by the robot. There is an absolute minimum of “talking-head” videos.  </p>  <p>  \t You will need to have access to a Lego MindStorms EV3 set. The course is suitable for both the Lego EV3 Education and the Lego EV3 Home sets. The course shows you how to download a free EV3-G Editor from Lego. This Lego Editor is suitable for both Windows and Apple computers, but does not work for Linux, tablets or smart phones. However the course videos can be played back on these devices, so that you can have the video directions available on a tablet right alongside your Lego set as you go through this course.  </p>  <p>  \t We have used the videos in this course during both individual and full-class lessons. The videos have also been used successfully by home study students.  </p>  <p>  \t The course includes downloadable arenas that can be printed out on A1 or A3 printers, for use during this course.  </p>  <p>  \t Enjoy!  </p>", 
+    "end_date": null, 
+    "title": "Fun with Beginner LEGO MindStorms EV3 Robotics.", 
+    "price": 0, 
+    "instructors": "Graeme Faulkner, Yaya Lu, Ying Chen", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/197052_1d8b.jpg", 
+    "course_url": "https://www.udemy.com/fun-with-beginner-lego-mindstorms-ev3-robotics/", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-10T20:20:58Z"
+}

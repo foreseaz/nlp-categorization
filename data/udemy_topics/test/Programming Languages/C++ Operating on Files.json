@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong>                    This course is about operating on files in C++</strong> language using<strong> </strong>the <strong>fstream (file stream) library.  </strong>  </p>  <p>  \t        This course<strong> consists of over 2 hours of great content.</strong> Before buying, <strong>please watch free videos</strong> so that you will see for yourself if you like the way I teach.  </p>  <p>  \t<strong>You do not need to know anything about operating on files,</strong> but it's good idea to know the basics of C++ language.  </p>  <p>  \t<strong>After this course you will know:  </strong>  </p>  <ol>  \t<li><strong>how to operate on input and output streams,</strong></li>  \t<li><strong>how to open and close file</strong>s and how to<strong> handle errors connected</strong> to that operations,</li>  \t<li>states of file opening,</li>  \t<li>stream’s error flags,</li>  \t<li>how to check the size of an opened file,</li>  \t<li><strong>what binary files are</strong> and <strong>how to compare them,</strong></li>  \t<li><strong>how to extract</strong> and <strong>save the content of a file,</strong></li>  \t<li><strong>how to create a mini database </strong>that allows you to <strong>add, show, search, remove, load, and save,</strong></li>  \t<li>many functions about working on files</li>  </ol>  <p>  \t<strong>Over 1000 students </strong>bought my course, and <strong>all of them are happy</strong>.<strong> You will also be satisfied with this course.</strong> If you do not like the course, remember that you can take <strong>for 30 days a full refund.</strong> <strong>I guarantee you satisfaction.</strong>  </p>  <p>  \t              If you have any questions regarding the topics covered in this course after watching the videos please feel free to ask. I'm always happy to help.  </p>", 
+    "end_date": null, 
+    "title": "C++ Operating on Files", 
+    "price": "20.00", 
+    "instructors": "Arkadiusz Włodarczyk", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/321118_5284_12.jpg", 
+    "course_url": "https://www.udemy.com/c-operating-on-files/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-16T20:16:34Z"
+}

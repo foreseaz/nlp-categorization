@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong><em>Updated on 21/3/16</em></strong> - Added one Lecture</p><p><strong>OSPF</strong> is known to be a <strong>Not-So-Easy</strong> Protocol to Manage and Implement- That's the reason this course has been Introduced. This course is All about <strong>Practical</strong> Implementation of OSPF Commands and It's features. You would learn why it is so popular and complex.</p><p>I have used <strong>GNS3</strong> tool to run all of the Labs in OSPF- It's very easy for you to Practice and rehearse all of its Labs.</p><p>I have added over 20 lectures in this - Almost covered all of its aspects. Good Thing is I will be adding more videos and lectures so that Students get the complete Benefit out of this.</p><p>This course is over 3 hours. It has been structured well so that you will slowly move On towards more complex Labs.</p><p>You would find OSPF being used in Most of the <strong>Banks and Companies</strong> due to its Hierarchical structure and area based approach and which makes it complex protocol.</p><p>But <strong>It has been made EASY</strong> now. Try it and reach out to <strong>me</strong> for any questions. </p>", 
+    "end_date": null, 
+    "title": "OSPF labs made easy", 
+    "price": "20.00", 
+    "instructors": "Ashish Rana", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/739854_f9dc_2.jpg", 
+    "course_url": "https://www.udemy.com/ospf-labs-made-easy/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-24T12:53:32Z"
+}

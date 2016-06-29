@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \tConviértete en un Administrador de Email Server en Debian GNU/Linux usando Exim. Profundiza tus conocimientos en la administración del sistema operativo y la utilidad MTA Exim en Debian GNU/Linux, aprende a realizar la instalación de paquetes, planificación, y la gestión del servidor de correos.  </p>  <p>  \t<br style=\"\">  \tAprenderás a configurar el servidor de correo electrónico con las funcionalidades que el mismo puede brindar. Abrirás tus conocimientos a una nueva area poco explorada en la administración de sistemas operativos GNU/Linux.<br style=\"\">  \t<br style=\"\">  \tEstaré disponible para contestar cualquier pregunta en menos de 24 horas y tratare de siempre contestar todas sus preguntas.  </p>", 
+    "end_date": null, 
+    "title": "Administrador Email Server en Debian GNU/Linux usando Exim", 
+    "price": "20.00", 
+    "instructors": "Ricardo Párraga", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/179072_d538_3.jpg", 
+    "course_url": "https://www.udemy.com/administrador-email-server-en-debian-gnulinux-usando-exim/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-08T16:51:20Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em><br></em></p><p>Hello welcome to the course of  <strong>how create your endless running game in 3D. </strong></p><p>In this course we will learn how to build the game from scratch, that's right, no ready codes, you will see it being built, and learn how to do <strong>step by step</strong>.</p><p>We will do a basic mechanics of an infinite running game, let's understand how it works:</p><p><em>- Understand how you can create new tracks in front of the character, in a simple and easy way, without resorting to \"loop\" '</em></p><p><em>and create heavy logic to your game. Have less headache.</em></p><p><em>- You will learn  methods to make your character walk the scenario being it straight or extremely bent, the techniques are applicable to your future scenarios and even different genre of games.</em></p><p><em>- We will make our scenarios, we will understand how to adjust to get the best results when creating dynamically.</em></p><p><em>- Will  create the game coins, to be collected and added to the final score, ll set in the scenery, lining in the way that the player will pass.</em></p><p><em>And we ll create the magnetism power up, this action will pick the close coins and attract to the character.</em></p><p><em>-Still In basic mechanics, we will learn to do the action of sliding and how adjust the collider to follow the character while sliding. We will make the</em></p><p><em> character jump and we will customize this jump in an extra class video, learning to make a more cartoon jump as in \"Agent Dash\" that’s the character have</em></p><p><em> a delay before a style falling down.</em></p><p>- We will have a lot of other extra classes, classes that we are working on,  that will complement the course, adding new elements to complement your studies, such as:</p><p><strong>Powers Ups</strong>: \t</p><p><em>-Speed that will make the character run faster</em></p><p><em>-Defense to protect the character of damage.</em></p><p><em>-Let's build a system to improve your power ups.</em></p><p><em>-Count traveled Distance.</em></p><p><em>-Purchase Of characters with game currency.</em></p><p><em>-Characters Selection .</em></p><p><em>-And We will also see how to make the obstacle vary randomly.</em></p><p><em>-And How to Set Sounds.</em></p><p>These extra classes, we will make available to students every week, as we conclude your recording and editing at <strong>no extra cost</strong>.</p><p>And then, what are you waiting for? <strong>Let's start</strong></p><p><strong></strong></p>", 
+    "end_date": null, 
+    "title": "Unity 3D - How To Create Your Endless Running Game in 3D", 
+    "price": "50.00", 
+    "instructors": "Thiago Lessa, Rennan Luna Manhoso", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/701264_6961_2.jpg", 
+    "course_url": "https://www.udemy.com/how-to-create-your-endless-running-game-in-3d/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-19T05:19:05Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tHave you ever wanted to program your own game in C++ from scratch? Do you want to enjoy easy &amp; free multiplatform deployment (Windows, Mac, Linux iOS and Android?). In this course, we will have a basic introduction to programming games in C++ using the SDL 2.0 library. We will use SDL 2.0 to:  </p>  <ul>  \t<li>Get a window on the screen </li>  \t<li>Draw line and rectangle primitives</li>  \t<li>Draw sprites on the screen </li>  \t<li>Use object-oriented principles to manage Sprites and game character data</li>  \t<li>Load and play sounds &amp; music from disk </li>  \t<li>Do collision detection using Rectangles </li>  \t<li>Manage game state &amp; game state transitions using finite state machines</li>  </ul>  <p>  \t<strong>Overview &amp; Motivation</strong>  </p>  <p>  \tWhy use SDL 2.0? Many people opt to go with complete game engines, such as Unity or Unreal Engine 4, to create their games. Unity and Unreal have licensing costs associated with them. Are you prepared to take on that extra cost? What if you can avoid spending that money on the engine and spend it on licensing assets and other resources instead?  </p>  <p>  \tWhat about using a free and open source sound, graphics and input API to deploy your game to all devices? And the freedom to program in pure C or C++?  </p>  <p>  \tLibSDL lets you do all that. Simple C commands will enable you to load sounds &amp; music, load &amp; display hardware accelerated graphics easily. The simple framework I provide in the code examples here will make it easy for you to get started creating your own games from scratch.  </p>  <p>  \tProgramming from C++ directly (instead of using an engine) will give you much more control over how things get done inside your game. If you like raw programming and always wanted to see how games like Super Mario Brothers, Dragon Warrior, and other classic NES games would get assembled, try this course!  </p>  <p>  \tMany professional &amp; indie games use libsdl already, including:  </p>  <p>  \tRobin hood - the Legend of Sherwood, Left 4 Dead 2, Steel Storm, Edna &amp; Harvey, Proteus, Psychonauts, Amnesia, FastForward, Syberia, AwesomeNauts and more.  </p>", 
+    "end_date": null, 
+    "title": "Creating Games From Scratch Using SDL 2.0", 
+    "price": "20.00", 
+    "instructors": "William Sherif", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/328672_1be4_4.jpg", 
+    "course_url": "https://www.udemy.com/creating-games-from-scratch-using-sdl-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-27T22:05:45Z"
+}

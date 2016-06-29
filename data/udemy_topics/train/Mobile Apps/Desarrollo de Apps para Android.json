@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>En este curso, quiero enseñarte como desarrollar aplicaciones nativas para Android desde 0. Tanto si nunca has programado como si ya haces webs o multiplataforma, este curso es el punto de partida de tu carrera como desarrollador Android. En este momento, la programación Android es una de las tareas con mayor demanda del sector y uno de los trabajos mejor remunerados, por eso he decidido crear un curso con un lenguaje sencillo y una serie de ejercicios que te permitirán crear una app y publicarla en Google Play sin despeinarte. Paso a paso veremos desde como establecer el entorno de trabajo hasta como integrar la API de Google Maps y el ejercico final te permitirá valorar si realmente has adquirido los conocimientos necesarios para iniciarte como desarrollar, asi que si esta preparado ¡Te veo en el curso!</p>", 
+    "end_date": null, 
+    "title": "Desarrollo de Apps para Android", 
+    "price": "20.00", 
+    "instructors": "David Piqué Garcia", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/708358_bec9.jpg", 
+    "course_url": "https://www.udemy.com/desarrollo-de-apps-para-android/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-28T09:06:54Z"
+}

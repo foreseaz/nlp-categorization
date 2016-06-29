@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Personal Development"
+    ], 
+    "description": "<p><strong>Descripción del curso</strong></p><p>Este curso te muestra de forma practica como realizar la evaluación de pruebas diagnósticas en el programa SPSS, aprenderás por ti mismo a ejecutar cada uno de los análisis escritos con bases de datos hipotéticas.</p><p><strong></strong></p><p><strong>Audiencia</strong></p><p>Recomiendo el curso para personas en cualquier rama del conocimiento que quiera aprender ejecutar pruebas diagnósticas con el software SPSS y la obtención de curvas ROC.</p><p>El curso puede ser de gran utilidad para aquellos que de forma continua analizan datos por motivo de trabajo, o bien tienen que realizar algún tipo de reporte para propósitos de tesis en niveles de licenciatura y posgrado en cualquier área del conocimiento.</p><p><strong></strong></p><p><strong>Temas incluidos</strong></p><p>Aprenderás desde los primeros videos como realizar las pruebas estadísticas utilizadas mas comúnmente y su interpretación; los principales temas del curso incluyen:</p><ol><li>Introducción.</li><li>Demostrar la distribución de una base de datos.</li><li>Sensibilidad.</li><li>Especificidad.</li><li>Valor predictivo (positivo y negativo).</li><li>Likelihood ratios (positivo o negativo).</li><li>Accuracy de una prueba diagnóstica.</li><li>Error tipo I.</li><li>Error tipo II.</li><li> Cálculo del poder estadístico.</li><li>Riesgo relativo.</li><li>Odds ratio.</li><li>Diseño de curvas ROC con el software SPSS.</li><li>Diseño de curvas ROC con el software MedCalc.</li><li>Conclusiones.</li></ol><p><strong>Material adicional</strong></p><p>Cada sección del curso se acompaña de archivos complementarios con formatos *.sav (formato SPSS), y ocasionalmente en formatos *.doc (Word), o *.xls (Excel), que podrás descargar a tu computadora utilizando los links específicos para cada archivo.</p><p>Esos archivos contienen las bases de datos que se utilizaron en los diferentes videos y con ellos podrás reproducir los ejercicios presentados en las diferentes lecciones .</p><p><strong>Duración del curso</strong></p><p>El curso tiene una duración aproximada de 3 horas; el orden de los temas presentados puede modificarse de acuerdo a tus necesidades de análisis y revisión de temas específicos.</p><p><strong>Beneficios</strong></p><p>Al terminar este curso conocerás 11 de las formulas más comúnmente utilizadas en la evaluación de pruebas diagnósticas.</p><p>Podrías diseñar tu mismo curvas ROC utilizando tu base de datos.</p><p>Habrás aprendido un grupo importante de habilidades/destrezas analíticas que te darán una ventaja competitiva para el desarrollo de tus actividades laborales y/o académicas .</p>", 
+    "end_date": null, 
+    "title": "11 Pruebas Diagnosticas (SPSS, Excel) y diseño curvas ROC.", 
+    "price": "20.00", 
+    "instructors": "Ernesto Roldan Valadez", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/265300_ac95_7.jpg", 
+    "course_url": "https://www.udemy.com/spss-y-excel-pruebas-diagnosticas-y-curvas-roc/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Career Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-20T22:30:37Z"
+}

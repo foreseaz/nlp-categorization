@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p><strong><strong><strong>Note: This course is a subset of our 20+ hour course 'From 0 to 1: Machine Learning &amp; Natural Language Processing' so please don't sign up for both:-)</strong></strong></strong></p><p><strong>Prerequisites</strong>: No prerequisites, knowledge of some undergraduate level mathematics would help but is not mandatory. Working knowledge of Python would be helpful if you want to run the source code that is provided.<br></p><p><strong>Taught by</strong> a Stanford-educated, ex-Googler and an IIT, IIM - educated ex-Flipkart lead analyst. This team has decades of practical experience in quant trading, analytics and e-commerce.</p><ul><li><strong>Recommendation Engines</strong> perform a variety of tasks - but the most important one is to find products that are most relevant to the user. </li><li><strong>Content based filtering</strong> finds products relevant to a user - based on the content of the product (attributes, description, words etc).</li><li><strong>Collaborative Filtering</strong> is a general term for an idea that users can help each other find what products they like. Today this is by far the most popular approach to Recommendations</li><li><strong>Neighborhood models</strong> - also known as Memory based approaches - rely on finding users similar to the active user. Similarity can be measured in many ways - Euclidean Distance, Pearson Correlation and Cosine similarity being a few popular ones.</li><li><strong>Latent factor methods</strong> identify hidden factors that influence users from user history. Matrix Factorization is used to find these factors. This method was first used and then popularized for recommendations by the Netflix Prize winners. Many modern recommendation systems including Netflix, use some form of matrix factorization.</li></ul><ul><li><strong>Recommendation Systems in Python!</strong></li><li><strong>Movielens</strong> is a famous dataset with movie ratings. </li><li>Use <strong>Pandas</strong> to read and play around with the data.</li><li>Also learn how to use Scipy and Numpy</li></ul><p><br></p>", 
+    "end_date": null, 
+    "title": "Byte-Sized-Chunks: Recommendation Systems", 
+    "price": "20.00", 
+    "instructors": "Loony Corn", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/783682_2611_3.jpg", 
+    "course_url": "https://www.udemy.com/recommendation-systems/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-06T03:59:32Z"
+}

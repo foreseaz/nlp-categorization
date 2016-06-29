@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t       A course that will  help you  learn  everything about  System Verilog Assertions (SVA)  and Functional coverage coding which forms the basis for the Assertion based and Coverage Driven Verification methodologies. These are the two key methodologies used most widely in all current SOC/chip designs to ensure quality and completeness.  </p>  <p>  \t  The course covers  everything from concepts to coding along with several examples to illustrate as well as quizzes and lab exercises to make your learning thorough.  </p>  <p>  \t     The course contents include several examples and illustrations from LRM and other popular books on SystemVerilog.  </p>", 
+    "end_date": null, 
+    "title": "Learn SystemVerilog Assertions and Coverage Coding in-depth", 
+    "price": 0, 
+    "instructors": "Ramdas Mozhikunnath M", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/186420_6859_6.jpg", 
+    "course_url": "https://www.udemy.com/learn-system-verilog-assertions-and-coverage/", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-21T12:25:00Z"
+}

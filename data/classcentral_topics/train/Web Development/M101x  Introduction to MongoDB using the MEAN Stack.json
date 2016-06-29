@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    This advanced computer science course will provide an overview of several of the most popular web and mobile app development toolkits, including MongoDB, ExpressJS, AngularJS, and Node.js. Together, these tools are called the “MEAN stack.”\n\nThis is an advanced course for experienced web developers. In this course, we will introduce the essential concepts of the MEAN stack using a fast-paced, learn-by- doing approach. As a concrete example, we will walk through building a retail application. This online store will enable users to search for products, add them to their cart, and check out using Stripe, an online payment processor. You’ll build your own REST API (Representational State Transfer Application Programming Interface) server from scratch using MongoDB schema design principles, as well as a web application using AngularJS and a hybrid mobile application using the Ionic framework.\n\nWhen you complete the course, you will receive a discount to MongoDB Professional Certification, enabling you to demonstrate your skills, show recruiters and hiring managers your expertise, and earn a spot in the MongoDB Certified Professional Finder.\n\n                                    ", 
+    "end_date": "2017-01-02T00:00:00Z", 
+    "title": "M101x: Introduction to MongoDB using the MEAN Stack", 
+    "price": 0, 
+    "instructors": "Valeri Karpov", 
+    "institution_name": [
+        "MongoDB University"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0", 
+    "duration": "30 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-06-06T00:00:00Z"
+}

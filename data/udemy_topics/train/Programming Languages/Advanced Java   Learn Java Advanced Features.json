@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Design and development of a product requires great understanding of full capability of implementation language. The complexity of real world application requires the use of strength of language to provide robust, flexible and efficient solution. Java provides the Object Oriented capability and lot of rich features to stand with changing demand of current world application requirement.<br></p>\n\n<p>This course explains the advanced features of Java in step-wise manner. All the topics have been explained in simple way. You will also see the demonstration of source code implementation for each topic. This course will improve the Java skills of developers who have basic understanding of Java. You will learn rich features of Java which will help in providing efficient solution. Right now it covers the topics - Exception Handling, Generics.</p>\n\n\n\n<p>This course will be expanded soon, some of the topics that will be added are-</p>\n\n\n\n<ul><li><strong>Multithreading</strong></li><li><strong>Dynamic Proxy creation</strong></li><li><strong>Dynamic class Loading</strong></li><li><strong>Dynamic Language Support</strong></li><li><strong>Concurrency</strong></li><li><strong>Lambda Expressions</strong></li></ul>\n\n\n\n<p>Course will be updated with adding new topics and existing topics will be provided in detail to have good understanding of advanced features of Java to build the technical strength and shape your career.</p>", 
+    "end_date": null, 
+    "title": "Advanced Java : Learn Java Advanced Features", 
+    "price": "30.00", 
+    "instructors": "Suresh Kumar Srivastava", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/658644_23a3_3.jpg", 
+    "course_url": "https://www.udemy.com/advanced-object-oriented-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-03T06:52:32Z"
+}

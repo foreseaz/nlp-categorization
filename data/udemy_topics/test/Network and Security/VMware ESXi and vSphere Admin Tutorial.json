@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This VMware ESXi &amp; vSphere training course by Infinite Skills  gives you an overview of installing and configuring a vSphere environment. You will quickly become familiar with the core features of vSphere, and how to install and configure them. This tutorial is designed for the absolute beginner, and you do not need any prior vSphere experience to get the most from the lessons.<br><br>You start the training with lessons on installing and configuring vSphere. You will cover topics such as installing VMware ESXi, working with the vSphere Client, and managing Hosts using the vSphere Client. The training covers how to configure Networking and Storage, and to create and configure Virtual Machines. You will learn about installing and using vCenter, and the vSphere Client. The course shows you how to work with a Distributed Resource Scheduler (DRS), configuring for High Availability (HA) and vSphere Data Protection (VDP).<br><br>Once you have completed this VMware ESXi and vSphere Administration video tutorial, you will be familiar and comfortable with the process of installing and configuring ESXi and vSphere for a development and testing lab.<br></p>", 
+    "end_date": null, 
+    "title": "VMware ESXi and vSphere Admin Tutorial", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/62400_e7b6_9.jpg", 
+    "course_url": "https://www.udemy.com/vmware-esxi-and-vsphere-admin-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-26T15:52:29Z"
+}

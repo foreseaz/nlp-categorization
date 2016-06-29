@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>2014年10月に<strong>HTMLは５回目の大幅な改定</strong>が行われ、HTML5となりました。HTML5は従来のホームページを作るものからWebアプリケーションへと進化し、ゲームやユーティリティが簡単に作成できるようになりました。</p><p>HTML5には、マークアップのタグはもちろん、デザインのCSS3、プログラムのJavaScript、さらにはいろいろな機能を提供してくれるAPIなど様々な仕様の集合体です。</p><p><strong>このコースでは、その中のCSS3に焦点</strong>を当て、「<strong>CSS3でどのようなことができるか</strong>」を実際のコーディングを交えてご紹介します。</p><p>この授業をきっかけに更に深くHTML5やCSS3に興味を持っていただき、今後に開設するコースにも参加していただくことで、将来的に、プロモーションビデオでご紹介したようなWebアプリケーションを皆さんが自由に作れるようになっていただければ幸いです。</p>", 
+    "end_date": null, 
+    "title": "新しくて今までになく豊かなデザイン「CSS3」入門", 
+    "price": "25.00", 
+    "instructors": "中島 俊治", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/628812_763e_5.jpg", 
+    "course_url": "https://www.udemy.com/css3beginning/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-02T13:37:13Z"
+}

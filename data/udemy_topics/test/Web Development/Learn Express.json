@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Express is an extremely powerful tool for creating web applications built on Node.</p><p style=\"\">Join us for an action-packed series of video tutorials as we learn about how to use and implement the impressive Express library.</p><p style=\"\">- Install Express on your computer- Run a custom server- Understand requests and responses</p><p style=\"\">We&#039;ll learn about many aspects of practical Express implementation over the course of over 13 videos and lots of other amazing course material.</p><p style=\"\">- Use GET and POST requests- Write and run tests with Mocha- Learn about RESTful APIs</p><p style=\"\">This course teaches you EVERYTHING you need to know to use Express! </p><p style=\"\">Express is an extremely practical tool, whether you&#039;re looking to use it for prototyping, hobbies or if you&#039;re looking to improve your qualifications to work in the field of Web Development, this is the course for you!</p><p style=\"\">- Over seven workshops and five lectures- Test your knowledge with challenging quizzes</p><p style=\"\">This is an extremely practical and skills-oriented course. Take the next step to improving  your web development skills today!</p>", 
+    "end_date": null, 
+    "title": "Learn Express", 
+    "price": "20.00", 
+    "instructors": "Daniel Stern", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/516064_fbca_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-express/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-31T14:05:22Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \tThis FileMaker Pro 13 training course from Infinite Skills teaches you the basics of managing your data using the FileMaker Pro database. This course is designed for the absolute beginner, meaning no previous experience with FileMaker is required.  </p>  <p>  \t<br style=\"\">  \tYou will start by learning about the new features in FileMaker Pro 13, then jump into covering important database concepts, preliminary data design, and the basics of data security. Ray will then teach you how to build the interface, including using the layout tools, creating and formatting objects, and setting the tab order. This video tutorial will also cover how to add visual power, work with data, the fundamentals of database design, automation options, and calculation basics. Finally, you will learn about relationship techniques, such as using join tables and sorting related data, as well as deployment considerations, including single user systems and backups and file handling. <br style=\"\">  \t<br style=\"\">  \tOnce you have completed this computer based training course, you will have a solid understanding of how to create your own database using FileMaker. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Learning FileMaker Pro 13 - A Practical Guide", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "11 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/279668_3faa_7.jpg", 
+    "course_url": "https://www.udemy.com/learning-filemaker-pro-13/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Apple"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-12T20:03:31Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this  e-learning course you will learn how to use Java lambdas on practice. It covers all aspects of functional programming in Java with lambdas and functional interfaces. You have already know how to code using Java? Excellent! Do you know how to apply functional paradigm to a programming? This course gives you answer to many questions:</p>\n\n<ol><li>What functional programming is?</li><li>How lambdas work?</li><li>What is a functional interface?</li><li>How to pass functions as a method argument?</li><li>How to use method references?</li></ol>\n\n<p>What is more important, is that everything presented in a very concise form. We will go from existing problem to its solution through a theory and practice. After the course, words: predicate, function, supplier and consumer won't be so scared for you.</p>\n\n<p>Develop your current Java knowledge and use advantages of functional programming features.</p>", 
+    "end_date": null, 
+    "title": "Java 8: functional programming", 
+    "price": "20.00", 
+    "instructors": "Alex Zvolinskiy", 
+    "commitment": "41 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/524034_2328.jpg", 
+    "course_url": "https://www.udemy.com/java-lambdas/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-09T10:21:19Z"
+}

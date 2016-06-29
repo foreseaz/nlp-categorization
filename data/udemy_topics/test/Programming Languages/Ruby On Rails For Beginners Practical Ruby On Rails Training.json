@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tThis Ruby on Rails tutorial from Infinite Skills will take you through the key features of this open-source web development framework while leading you through the development of a time-tracking web application. This course is designed for users that already have a working knowledge of the Ruby programming language.  </p>  <p>  \t<br style=\"\">  \tYou will start with a tour of Ruby Syntax and how to run Ruby code, learning about objects and classes, strings and numerics, and control structures in Ruby. You will then begin to create a Rails app, covering topics such as domain modeling, controllers, views, creating forms, and authentication. This video tutorial will also teach you how to use Ajax with Rails, handle file uploads, send emails from the server, and export content to CSV, JSON, and XML. Finally, you will learn how to test Rail apps and write model and controller tests.<br style=\"\">  \t<br style=\"\">  \tBy the completion of this computer based training course, you will be fully capable of creating a web app from start to finish with Ruby on Rails. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Ruby On Rails For Beginners Practical Ruby On Rails Training", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/163650_fdc4_6.jpg", 
+    "course_url": "https://www.udemy.com/beginners-ruby-on-rails/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-13T15:04:40Z"
+}

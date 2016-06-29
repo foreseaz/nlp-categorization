@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Calculus & Mathematical Analysis"
+    ], 
+    "description": "\n\n                    \n                    \n                    How long should the handle of your spoon be so that your fingers do not burn while mixing chocolate fondue? Can you find a shape that has finite volume, but infinite surface area? How does the weight of the rider change the trajectory of a zip line ride? These and many other questions can be answered by harnessing the power of the integral. \n\nBut what is an integral? You will learn to interpret it geometrically as an area under a graph, and discover its connection to the derivative.  You will encounter functions that you cannot integrate without a computer and develop a big bag of tricks to attack the functions that you can integrate by hand. The integral is vital in engineering design, scientific analysis, probability and statistics. You will use integrals to find centers of mass, the stress on a beam during construction, the power exerted by a motor, and the distance traveled by a rocket.\n\n1. Modeling the Integral\n\nDifferentials and Antiderivatives\n\tDifferential Equations\n\tSeparation of Variables\n2. Theory of Integration\n\nMean Value Theorem\n\tDefinition of the Integral and the First Fundamental Theorem\n\tSecond Fundamental Theorem\n3. Applications\n\nAreas and Volumes\n\tAverage Value and Probability\n\tArc Length and Surface Area\n4. Techniques of Integration\n\nNumerical Integration\n\tTrigonometric Powers, Trig Substitutions, Completing the Square\n\tPartial Fractions, Integration by Parts\nThis course, in combination with Part 1, covers the AP* Calculus AB curriculum.\n\nThis course, in combination with Parts 1 and 3, covers the AP* Calculus BC curriculum.\n\nThis course was funded in part by the Wertheimer Fund.\n\nLearn more about our High School and AP* Exam Preparation Courses\n\nCalculus 1A: Differentiation\n\nCalculus 1C: Coordinate Systems &amp; Infinite Series\n\n*Advanced Placement and AP are registered trademarks of the College Board, which was not involved in the production of, and does not endorse, these offerings.\n\n                                            Syllabus\n                        1. Modeling the Integral\r\n\r\nDifferentials and Antiderivatives\r\nDifferential Equations\r\nSeparation of Variables\r\n\r\n2. Theory of Integration\r\n\r\nMean Value Theorem\r\nDefinition of the Integral and the First Fundamental Theorem\r\nSecond Fundamental Theorem\r\n\r\n3. Applications\r\n\r\nAreas and Volumes\r\nAverage Value and Probability\r\nArc Length and Surface Area\r\n\r\n4. Techniques of Integration\r\n\r\nNumerical Integration\r\nTrigonometric Powers, Trig Substitutions, Completing the Square\r\nPartial Fractions, Integration by Parts\r\n\n                                    ", 
+    "end_date": "2016-03-01T00:00:00Z", 
+    "title": "18.01.2x: Calculus 1B: Integration", 
+    "price": 0, 
+    "instructors": "David Jerison", 
+    "institution_name": [
+        "Massachusetts Institute of Technology"
+    ], 
+    "commitment": "5-10 hours", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x", 
+    "duration": "13 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2015-12-01T00:00:00Z"
+}

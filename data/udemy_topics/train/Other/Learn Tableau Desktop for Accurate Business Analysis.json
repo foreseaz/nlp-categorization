@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t    Let's decide if this course is right for you.  </p>  <ol style=\"\">  \t<li style=\"\">Have you recently started, or are you planning to start, using <strong style=\"\"><u style=\"\">Tableau Desktop</u></strong> in your business?</li>  \t<li style=\"\">Are you looking to <strong style=\"\"><u style=\"\">quickly build your skills</u></strong> in Tableau Desktop?</li>  \t<li style=\"\">Are you looking for <strong style=\"\"><u style=\"\">Tableau Desktop skills that can be immediately put to use</u></strong> in analysing your business?</li>  </ol>  <p style=\"\">  \t    If you answered ‘yes’ to these questions, then this course is for you!  </p>  <p style=\"\">  \t    This course will give you the skills you need to jump straight in to using Tableau Desktop in your business.  </p>  <p style=\"\">  \t    Presented in a business context and working step-by-step through an instructor-led case study, this course goes beyond simply teaching the functions of Tableau Desktop.  This course uses real-world business problems to give you 10 core skills that business users should have when using Tableau Desktop.  </p>  <p style=\"\">  \tThe 10 Tableau Desktop core skills covered by this course are:  </p>  <ul style=\"\">  \t<p style=\"\">  \t\tBar &amp; Line Charts  \t</p>  \t<p style=\"\">  \t\tPie Charts  \t</p>  \t<p style=\"\">  \t\tGeographic Maps  \t</p>  \t<p style=\"\">  \t\tScatter Plots  \t</p>  \t<p style=\"\">  \t\tGroups  \t</p>  \t<p style=\"\">  \t\tArea Charts  \t</p>  \t<p style=\"\">  \t\tFilters  \t</p>  \t<p style=\"\">  \t\tDual Axis Charts  \t</p>  \t<p style=\"\">  \t\tCrosstabs and calculations  \t</p>  \t<p style=\"\">  \t\tActions  \t</p>  </ul>  <p style=\"\">  \t    An additional “Bonus Round” provides some more advanced skill development in formatting data, blending data, creating custom design elements and using responsive dashboard elements to build more sophisticated dashboards.  </p>  <p style=\"\">  \t    In addition to the video lectures and supporting notes, you will receive a range of workbooks and additional tools that you can use again and again. These tools and templates have been developed and tested over many years of consulting to organisations of all sizes using Tableau Desktop.  </p>", 
+    "end_date": null, 
+    "title": "Learn Tableau Desktop for Accurate Business Analysis", 
+    "price": 0, 
+    "instructors": "Jane Crofts", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/304606_71b7_6.jpg", 
+    "course_url": "https://www.udemy.com/tableau-desktop-10-core-skills-for-business-users/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-21T05:39:26Z"
+}

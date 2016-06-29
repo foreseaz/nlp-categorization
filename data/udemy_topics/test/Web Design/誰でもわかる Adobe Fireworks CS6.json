@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>このコースはFireworks最後のバージョンとなるFireworks CS6の基本的な使い方を初心者向けに解説しています。</p><p>バージョンCS6が最後となりましたが、ウェブデザインに特化したその性質は、これまでにかなりのウェブデザイナーがFireworksで素材を制作されたことでしょう。そしてkこれまでのウェブサイトの更新・改修などでは、それらFireworksのデータを他のデザイナーから託されてFireworksで作業をすることもあるでしょう。また現在もFireworksを愛用するデザイナーと連携をとる際に使用することもあるかもしれません。</p><p>本コースの内容としては、Fireworksの基本操作に始まり、図形の描画やスタイルの適用、ビットマップの読み込みと編集方法、テキストの取り扱いを学習し、CSS3のサポート機能やjOueryMobileテーマスキンのサポート機能についても学習します。</p><p>また、映像内と同じファイルが演習ファイルとして付属しているので、それらを使って実際のアプリケーションで復習を行うことが出来ます。</p><p>副読本PDFファイルも付属しておりこちらは、映像の各シーンのスクリーンショットとナレーションを抽出してテキスト化したものとなります。復習に活用するとよいでしょう。</p>", 
+    "end_date": null, 
+    "title": "誰でもわかる Adobe Fireworks CS6", 
+    "price": "20.00", 
+    "instructors": "アテイン 株式会社", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/646612_0350_3.jpg", 
+    "course_url": "https://www.udemy.com/adobe-fireworks-cs6/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-21T09:39:13Z"
+}

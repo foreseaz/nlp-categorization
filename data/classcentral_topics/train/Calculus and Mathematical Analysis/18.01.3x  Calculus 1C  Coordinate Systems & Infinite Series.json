@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Calculus & Mathematical Analysis"
+    ], 
+    "description": "\n\n                    \n                    \n                    How did Newton describe the orbits of the planets? To do this, he created calculus.  But he used a different coordinate system more appropriate for planetary motion.  We will learn to shift our perspective to do calculus with parameterized curves and polar coordinates. And then we will dive deep into exploring the infinite to gain a deeper understanding and powerful descriptions of functions.\n\nHow does a computer make accurate computations? Absolute precision does not exist in the real world, and computers cannot handle infinitesimals or infinity. Fortunately, just as we approximate numbers using the decimal system, we can approximate functions using series of much simpler functions. These approximations provide a powerful framework for scientific computing and still give highly accurate results. They allow us to solve all sorts of engineering problems based on models of our world represented in the language of calculus.\n\nChanging Perspectives\n\tParametric Equations\n\t\tPolar Coordinates\n\t\n\tSeries and Polynomial Approximations\n\tSeries and Convergence\n\t\tTaylor Series and Power Series\n\t\nThis course, in combination with Parts 1 and 2, covers the AP* Calculus BC curriculum.\n\nLearn more about our High School and AP* Exam Preparation Courses\n\nCalculus 1A: Differentiation\n\nCalculus 1B: Integration\n\nThis course was funded in part by the Wertheimer Fund.\n\n*Advanced Placement and AP are registered trademarks of the College Board, which was not involved in the production of, and does not endorse, these offerings.\n\n                                            Syllabus\n                        \r\nChanging Perspectives\r\nParametric Equations\r\nPolar Coordinates\r\n\r\nSeries and Polynomial Approximations\r\nSeries and Convergence\r\nTaylor Series and Power Series\r\n\r\n\n                                    ", 
+    "end_date": "2016-06-07T00:00:00Z", 
+    "title": "18.01.3x: Calculus 1C: Coordinate Systems & Infinite Series", 
+    "price": 0, 
+    "instructors": "David Jerison", 
+    "institution_name": [
+        "Massachusetts Institute of Technology"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x", 
+    "duration": "10 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-03-29T00:00:00Z"
+}

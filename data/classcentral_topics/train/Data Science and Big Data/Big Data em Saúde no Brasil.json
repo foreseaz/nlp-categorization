@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    Em 1988 foi criado o Sistema Único de Saúde (SUS), nosso sistema público e universal de saúde. Apesar da sua importância na diminuição das disparidades em saúde, o sistema de saúde tem\nconsistentemente liderado a lista de maiores problemas do país segundo as pesquisas de\nopinião. Reclamações frequentes sobre o sistema privado têm contribuído para a conclusão de que a saúde é um\nproblema generalizado no país. O uso de big data pode trazer melhorias\nsignificativas em termos de gestão, transparência e responsabilidade por parte dos\nprovedores de saúde, além de fornecer dados importantes para os pacientes.Este curso irá abordar tanto a obtenção de dados em saúde como a sua utilização para\nmelhorar a qualidade de tomada de decisões por parte de hospitais e das diferentes esferas do governo. Mais especificamente, abordaremos as fontes de dados públicos de saúde, o uso do R e do Python para a\nanálise de dados, metodologias de big data (como machine learning, redução de\ndimensão e como evitar associações espúrias), noções de economia da saúde e o uso de metodologias causais em pesquisas científicas. Apesar de o foco do curso ser a área da saúde, os conhecimentos podem ser diretamente aplicados em outras áreas como a educação, biologia, economia e administração.Todas as aulas estão disponíveis, mesmo se a inscrição for feita após o término do curso.\n\n                                            Syllabus\n                        Primeiro módulo: Perspectivas do uso de big data no Brasil (estudos multicêntricos, prontuários eletrônicos, medicina de precisão e internet das coisas).Segundo módulo: Linguagens de programação mais utilizadas em big data (R e Python).Terceiro módulo: Metodologias de big data (machine learning, redução de dimensão e controle de associações espúrias).Quarto módulo: Causalidade (propensity score, regressão descontínua, diferenças em diferenças, variáveis instrumentais e randomização mendeliana).Quinto módulo: As \"imperfeições\" da saúde pública - Introdução à Economia da Saúde (informação assimétrica, seleção adversa, risco moral e o problema do agente-principal).Sexto módulo: Limitações e conclusão (privacidade e o uso de big data para uma nova saúde pública).\n                                    ", 
+    "end_date": "2015-11-26T00:00:00Z", 
+    "title": "Big Data em Saúde no Brasil", 
+    "price": 0, 
+    "instructors": "Alexandre Chiavegatto Filho", 
+    "institution_name": [
+        "Universidade de São Paulo"
+    ], 
+    "commitment": "2-3 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/course/bigdatabrasil", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2015-10-15T00:00:00Z"
+}

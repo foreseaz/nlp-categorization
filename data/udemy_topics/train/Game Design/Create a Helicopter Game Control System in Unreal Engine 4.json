@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">The course will guide you through the creation and setup of a Helicopter Control System in Unreal Engine 4. The fully playable helicopter system is implemented entirely in blueprint, you are taken through the creation process in a step by step manner using video tutorials.</p><p style=\"\">The video tutorials are focussed on setting up the helicopter assets, creating the controls system, implementing a parametrically driven animation solution and setting up dynamic helicopter audio, all working within Unreal Engine&#039;s Blueprint.</p><p style=\"\">Students can expect to learn a variety of techniques that will help them setup a fully functioning helicopter in just over 2 hours of videos tuition.</p><p style=\"\">This course starts with a blank project, we provide the helicopter 3d model and associated texture so that you can build the full project from the ground up.</p><p style=\"\">This video tutorial series is delivered by an experienced instructor who is actively engaged in education and the industry.</p>", 
+    "end_date": null, 
+    "title": "Create a Helicopter Game Control System in Unreal Engine 4", 
+    "price": "20.00", 
+    "instructors": "ThunderSteed Ltd.", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/475858_e5c8_5.jpg", 
+    "course_url": "https://www.udemy.com/helicopter-control-system-ue4/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-14T09:42:32Z"
+}

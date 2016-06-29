@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Course Summary</strong>  </p>  <p>  \t          With over 200 videos and 20 hours of content, this online Java training course is designed to provide a solid foundation in Java programming and Eclipse for programmers who are already proficient in another language. Besides learning the basic structure and syntax of the language, you will also learn object-oriented principles and how they are applied in Java applications. In addition, this training course covers more advanced features of the language such as abstract classes, interfaces, generics, packages, and exception handling. Finally, you will learn two foundational API libraries: I/O streams and collections. This online training course is current to Java 7 and uses the Eclipse IDE.  </p>  <p>  \t  If you are a complete beginner with no programming experience, please see our <strong style=\"\">Learn to Program with Java for Complete Beginners</strong> courses, instead.  </p>  <p>  \t<strong style=\"\">Hands On Learning</strong>  </p>  <p>  \t          Unlike other online training courses, you are encouraged to actively participate in the learning experience by running example files during lectures and performing coding challenges during labs. Each lab session includes review videos so you can compare your solution to the instructor&#039;s.  </p>  <p>  \t<strong style=\"\">Bonus Content</strong>  </p>  <p>  \t          This training course comes complete with working example and lab  solution files as well as a link to optionally purchase the workbook used in the  video at a discount.  </p>  <p>  \t<strong style=\"\">About the Instructor</strong>  </p>  <p>  \t          Jamie Romero is a dynamic instructor and expert Java programmer. He has taught over 350 classes to programmers from companies like Hewlett-Packard, Lockheed Martin, and Boeing. Jamie&#039;s energetic style and up-beat attitude are just what you need for an online training course.  </p>  <p>  \t          Some recent comments about Jamie&#039;s classes:  </p>  <ul style=\"\">  \t<li>&quot;Jamie was a great instructor. He cut through the fluff and gave us the core of what I need to start using Java right away.&quot;</li>  \t<li>&quot;Great instructor that knows the material and is enthusiastic about Java. It helped very much in getting through the course.&quot;</li>  \t<li>&quot;Jamie exhibits a mastery of the material, to such a degree that his ability to explain it is very effective. Explanations are very detailed, and presented in a very understandable way. He is an excellent instructor.&quot;</li>  </ul>", 
+    "end_date": null, 
+    "title": "Introduction to Java for Programmers", 
+    "price": "50.00", 
+    "instructors": "Learn by the Byte", 
+    "commitment": "20 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/45006_ad27_15.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-java-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-03-06T21:09:09Z"
+}

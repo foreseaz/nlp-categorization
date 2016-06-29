@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>SAP WM is the functionality that SAP provides for the management of inventory in different specific locations.</p>  <p>Although not needed in all organizations, it is a module every logistics consultant or practitioner should know about. </p>  <p>SAP WM allows to subdivide SAP Inventory Management Storage Locations in different specific places and at the same time it offers all related functionality for the placement in Warehouses (Putaway processes) and the removal from them (Stock Removal processes).</p>  <p>At the same time it contains different integration functionality with the rest of Logistics or related modules (SAP PP, SAP SD, SAP QM, …).</p>    <p><strong>Learn all SAP WM concepts with this course:</strong></p>  <ul><li>What is SAP WM</li><li>What Organizational Units can we use  and for what</li><li>What Master Data should we create</li><li>How Putaway processes can be configured (entries to the Warehouse)</li><li>How Stock Removal processes can be configured (exits to the Warehouse)</li><li>How it interacts with other modules (ex. Production Supply)</li><li>…</li></ul>              <p><strong> </strong></p>  <p><strong>Prove in your job interviews and in your CV that you know about SAP Warehouse Management.</strong></p>  <p>The only way of choosing or delivering the best solution to any different organization is knowing all the available standard functionality offered by SAP.</p>  <p>With this course you will get to know and understand all the SAP WM Organizational Units and Master Data and the different available processes to configure in SAP.</p>  <p>If you are new into Logistics, you will also acquire an understanding of the common processes shared by large companies in this area.</p>  <p><strong> </strong></p>  <p><strong>Contents</strong></p>  <p>This course will start with a SAP WM introduction, for those with no previous experience with this ERP.</p>  <p>Then, a definition and description of the main WM Organizational Units and WM Master Data will be shown.</p>  <p>And finally, it will describe main WM processes.</p>  <p>All the different points will be introduced with a theoretical presentation for understanding the concept and with some demos for seeing how to interact with the system.</p>", 
+    "end_date": null, 
+    "title": "SAP WM Warehouse Management", 
+    "price": "20.00", 
+    "instructors": "Ricardo Naya Arboleya", 
+    "commitment": "39 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/739888_0809_2.jpg", 
+    "course_url": "https://www.udemy.com/sap-wm-warehouse-management/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-24T13:42:39Z"
+}

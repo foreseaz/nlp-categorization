@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>MongoDB is one of the most used, open-source document database, and NoSQL database. MongoDB is developed by 10gen. It is written in c++ and it is a document-oriented database. It uses BSON format.</p><p>This tutorial will provide you good understanding on MongoDB concepts and provide you the hands on skills to be a MongoDB expert.</p>This tutorial is intended for students and new developers who are wants to learn MongoDB Database in easy to understand steps. This tutorial will provide you MongoDB concepts which will help you to get started with MongoDB quickly. After finishing this course you will Lay the foundation of NoSql databases from where you can take yourself at higher level of expertise.<p><br></p><p>In this Tutorial we will learn. How to install MongoDB,  How to create new collections that store documents, You'll learn about the most common and used MongoDB shell commands to manage your documents. We will cover the different types of data that can be stored.You will gain confidence in how to preform CRUD operations i.e. Create, Read, Update and Delete data. Then the course will dive into much deeper MongoDB concepts like Projection, Using Sort, Skip, and Limit, Indexing, Aggregation, BackUp and Restore. </p><p><strong>So let's get started</strong><strong> !!!!!</strong></p>", 
+    "end_date": null, 
+    "title": "MongoDB Tutorial for Beginners", 
+    "price": "20.00", 
+    "instructors": "Yogesh Patel", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/780352_1fbe_2.jpg", 
+    "course_url": "https://www.udemy.com/mongodb-tutorial-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-02T20:46:02Z"
+}

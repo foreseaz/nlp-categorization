@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Theoretical Computer Science"
+    ], 
+    "description": "\n\n                    \n                    \n                    In this Computer Science course, you will learn about implementation of all major abstract data structures using object-oriented programming paradigm of C++.\n\nThis course builds on the basic concepts developed in ‘Foundations of Data Structures’ course.\n\nTopics covered: \n\nReview of OO programming, STL of C++\n\tStacks\n\tQueues\n\tLists\n\tTrees\n\tGraphs\nThis course is part of the Fundamentals of Computer Science XSeries Program: \n\nProgramming Basics\n\tObject-Oriented Programming\n\tFoundations of Data Structures\n\tAlgorithms\n\n\n                                    ", 
+    "end_date": "2016-09-06T00:00:00Z", 
+    "title": "CS213.2x: Implementation of Data Structures", 
+    "price": 0, 
+    "instructors": "Deepak B. Phatak, Ajit Diwan, Ganesh Ramakrishnan and Nagesh Karmali", 
+    "institution_name": [
+        "IIT(Indian Institute of Technology Bombay)"
+    ], 
+    "commitment": "8 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/implementation-data-structures-iitbombayx-cs213-2x", 
+    "duration": "7 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-07-19T00:00:00Z"
+}

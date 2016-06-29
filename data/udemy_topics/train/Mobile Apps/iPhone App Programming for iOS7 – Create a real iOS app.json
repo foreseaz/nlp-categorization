@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Learn to create iPhone apps</strong>  </p>  <ul style=\"\">  \t<li>Follow along in Xcode 5 to turn your ideas into iPhone apps.</li>  \t<li>Create iPhone apps with easy to follow, step-by-step instructions, in this in-depth course taught by an expert instructor.</li>  </ul>  <p>  \t                     This course features HD lectures and programming screencasts with large, clear text. Listen to crisp audio and follow Paul Solt’s instruction with demonstrations and on-screen pointer and highlighting.  </p>  <p>  \t<strong style=\"\">Overview</strong>  </p>  <p>  \t                 You will learn how to create an iPhone app interface using Xcode&#039;s Interface Builder. Drag and drop buttons, labels, and images to create your first iPhone app. The interface designer is a great tool to learn for prototyping app ideas.  </p>  <p>  \t                 Paul Solt will show you how to connect code and the user interface together along with the best practices and potential pitfalls. You&#039;ll learn what to avoid, and how to solve problems that can crash an iPhone app.  </p>  <p>  \t<strong style=\"\">Topics</strong>  </p>  <ul style=\"\">  \t<li>Interface design</li>  \t<li>Debugging</li>  \t<li>Responding to user input</li>  \t<li>Displaying content</li>  \t<li>Auto Layout and responsive design</li>  \t<li>Lists using the UITableView</li>  \t<li>Saving and loading data</li>  </ul>  <p>  \t<strong style=\"\">Read what my students have said</strong>  </p>  <p>  \t                  “I really like this class. I would recommend it to anyone starting to learn iOS development, because not matter if you know or don’t know a programming language Paul explains things very clear. It’s a nice class to take.“ –Carlos King  </p>  <p>  \t                     “I’m totally enjoying this course. Paul explains it all perfectly even I’m do not speak very good English. Do I recommend this class? YES!” –Miguel Arjona  </p>  <p>  \t                     “Absolutely fantastic. It’s about time there was a high quality class available online to learn about iPhone app development. Definitely would recommend!” –Dot Fuz  </p>  <p>  \t<strong style=\"\">App Store</strong>  </p>  <p>  \t            If you want to learn how to program in Objective-C and how to design a real world app, you need to signup. <strong style=\"\">You can make real money by selling the app design in this course!  </strong>  </p>", 
+    "end_date": null, 
+    "title": "iPhone App Programming for iOS7 – Create a real iOS app", 
+    "price": "30.00", 
+    "instructors": "Paul Solt", 
+    "commitment": "18.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/153752_7230_5.jpg", 
+    "course_url": "https://www.udemy.com/iphone-app-programming-for-ios-7/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-27T21:14:20Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>As more and more web &amp; mobile applications nowadays are being powered by RESTful APIs on the back-end, this course is a simple yet practical introduction to creating your first API in less than an hour.<br></p><p>In this course, you'll learn how to build a very simple RESTful API using the CodeIgniter PHP framework.</p><p>You'll learn how to:</p><ul><li>Use PHP and CodeIgniter to create fully RESTful APIs</li><li>Leverage existing classes and frameworks to cut down development time</li><li>Create a simple API with CRUD (Create/Read/Update/Delete) functionality</li><li>Fetch user information from a real back-end MySQL database</li><li>Restrict your API to certain keys or whitelisted IP addresses</li><li>Sanitize and validate data using CodeIgniter's built in form validation libraries</li></ul>", 
+    "end_date": null, 
+    "title": "A Simple RESTful API using PHP & CodeIgniter", 
+    "price": "20.00", 
+    "instructors": "Jim Hlad", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/545570_0cc1_2.jpg", 
+    "course_url": "https://www.udemy.com/php-codeigniter-restful-api/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-05T15:32:11Z"
+}

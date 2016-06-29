@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>When I was learning Java and Spring Framework, I wish there was a course covering the hands-on experience to build a sophisticated and representative website, which utilizes the core features of Spring Framework. There are just plenty of books and tutorials to cover the Spring theory part, while some of them do give good examples on each topic, but I just couldn't find one to tell you how to put them together to build a full application. This course is trying to fill that hole, that is to give you comprehensive hands-on experience and guide you to stack them up to build something.<br></p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Course Features:</strong></p>\n\n\n\n\n\n<p>- You will follow the course to build an Online Music Store from Scratch</p>\n\n\n\n\n\n<p>- You will be writing code with me along the course.</p>\n\n\n\n\n\n<p>- We will use Spring MVC, Spring Data, Spring Security, Spring REST, Spring Web Flow, Hibernate, Angular JS, JSP, Bootstrap, H2 Database and more.</p>\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n<p>The course outline is below:</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Section 1</strong> is course intro and website demo.<br></p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Section 2</strong> is about getting prepared, which includes environment setup, MVC concept and Hello Spring Demo. With this section finished, you will have a brief idea on what Spring Framework development looks like.</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Section 3</strong> starts to dive in building our project. Bootstrap is used as a template to quickly generate the front-end view. Then you will start to add domain models to your project. You will see how model, view and controllers are actually wired up. You will also learn how to make the view page dynamic with those model data.</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Section 4</strong> starts to look at data persistence. You will learn what ORM is and why we need it. We will use Spring Data to integrate with Hibernate and JPA to persist model data into database. We'll also look at how to add image with domain model and how to validate model attribute when updating its content.</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Section 5</strong> will deal with Spring Security. We will see how to use Spring Security to intercept sensitive url request and how to validate its credentials from database information. We'll also add more domain models into system and use in-memory data to prototype shopping cart functionality.</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Section 6 </strong>looks at the system with a higher level. A Music Store prototype architecture is presented and used as guidance for our development. You will learn how to use what we learned in the previous lessons to make the online system more sophisticated. REST service API is developed with Spring and Angular JS is used to consume those APIs.</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Section 7 </strong>shows how to use Spring Webflow to develop flow-oriented web process, specifically order checkout here. We will learn how we can configure Spring Webflow to put view pages and business logic together.</p>\n\n\n\n\n\n<p>Furthermore, source code is attached with lessons (most of the time in video part 1) and exercise included as well.</p>", 
+    "end_date": null, 
+    "title": "Building An E-Commerce Store Using Java Spring Framework", 
+    "price": "20.00", 
+    "instructors": "Le Deng", 
+    "commitment": "14.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/745468_6479_2.jpg", 
+    "course_url": "https://www.udemy.com/building-an-e-commerce-store-using-java-spring-framework/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-29T02:34:03Z"
+}

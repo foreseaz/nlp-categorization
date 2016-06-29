@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>This is a thoroughly detailed course that uses lots of animations to help you visualize the concepts.</strong></p>\n\n<p>This course provides a comprehensive explanation of different types of graph and various graph algorithms. Throughout the course a step by step approach is followed to make you understand different algorithms. Through this course you can build a strong foundation in Data Structures and Algorithms that can help you to <strong>crack coding interviews</strong> and work in the industry.</p>\n\n<p>The course is broken down into easy to assimilate short lectures and <strong>complete working programs</strong> are shown for each concept that is explained. The algorithms and examples are explained with figures and animations to simplify the learning of this complex topic. </p>\n\n<p>In this course, Java is used for implementing various Data structures and Algorithms, but you can easily implement them in any other language like C++, C#, Python. </p>\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Advanced Data Structures and Algorithms in Java ", 
+    "price": "30.00", 
+    "instructors": "Deepali Srivastava", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/432700_4497_15.jpg", 
+    "course_url": "https://www.udemy.com/data-structures-and-algorithms-in-java-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-26T05:55:17Z"
+}

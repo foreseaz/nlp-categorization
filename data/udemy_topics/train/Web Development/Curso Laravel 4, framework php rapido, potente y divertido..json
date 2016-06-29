@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>La tecnología avanza cada vez más rápido, y cada vez contamos con menos tiempo para hacer las cosas. Laravel framework de PHP, nos permite ahora desarrollar aplicaciones potentes en menos pasos y con muchas menos líneas de código que si realizaremos las mismas actividades sin emplear alguno o si empleamos otros framework que no son tan versátiles como este.<br></p>\n\n<p>  \t      Laravel, es el framework PHP de mayor aceptación actualmente para este lenguaje, y su simplicidad en la sintaxis, su elegancia a en la escritura, su motor de plantillas incorporado, la potencia de composer y de artisan para su manejo y los complementos con los que cuentan, hacen que PHP que para muchos estaba empezando a quedarse en el olvido, vuelva a ser rescatado y sea ahora un lenguaje moderno, rápido, eficiente y profesional trabajado desde Laravel.  </p>\n\n\n\n<p>  \tCon este curso a travez de los tutoriales, aprenderás a realizar aplicaciones completas en Laravel 4, sacando lo mejor del framework php, al final notarás que son horas y horas que puedes ahorrar y aprovecharlas con los amigos y la familia  </p>", 
+    "end_date": null, 
+    "title": "Curso Laravel 4, framework php rapido, potente y divertido. ", 
+    "price": "20.00", 
+    "instructors": "David Camilo Perdomo", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/241410_acd0_3.jpg", 
+    "course_url": "https://www.udemy.com/laravel-4-framework-php-espanol-curso-rapido-potente-y-divertido/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-11T13:53:19Z"
+}

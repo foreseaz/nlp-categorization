@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this Communicating Sequential Processes with core.async training course, expert author Timothy Baldridge will teach you the basics of core.async. This course is designed for users that already have a working knowledge of Clojure and ClojureScript.</p>\n\n<p>You will start by learning how to create channels, then jump into creating and using threads. From there, Timothy will teach you how to combine and split channel streams, work with transducers, and the pipeline abstraction. This video tutorial also provides a quick tour of core.async internals, including how channels are modeled, how alt handlers interact with channels, and how threads interface with channels. Finally, you will learn about non-blocking channel operations and how to put it all together.</p>\n\n\n\n\n\n<p>Once you have completed this computer based training course, you will be fully capable of writing your own applications that take advantage of the core.async library. </p>", 
+    "end_date": null, 
+    "title": "Communicating Sequential Processes with core.async", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/847476_06e7_3.jpg", 
+    "course_url": "https://www.udemy.com/communicating-sequential-processes-with-coreasync/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-12T19:53:07Z"
+}

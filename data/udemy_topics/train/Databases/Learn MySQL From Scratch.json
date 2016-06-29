@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tIf you&#039;re new to web development, MySQL is the most popular database technology out there. This free technology is used to create the majority of database dependent websites (which most are).  </p>  <p>  \tThis course will start at the very beginning, with lessons on what MySQL is and how it works, to installing MySQL, then moving on to all the basic skills you&#039;ll need to use MySQL in the real world. You will also learn the popular new MySQLi framework. MySQLi is the next generation of MySQL, and if you know this now you will be ahead of the competition for a long time to come.  </p>  <p>  \t<strong style=\"\">Projects</strong>  </p>  <p>  \tThis course also includes two real life projects. After you&#039;ve gained an understanding of how MySQL works, you&#039;ll learn how this technology is used on real websites.  </p>", 
+    "end_date": null, 
+    "title": "Learn MySQL From Scratch", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/200128_8c2a_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-mysql-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-16T17:06:39Z"
+}

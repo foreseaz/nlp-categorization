@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>This course is designed to help those interested in <strong>learning 3D modelling</strong> using the Open Source software <strong>Blender</strong>. </p><p>The course has <strong>8.5 hours of video tutorials</strong>. Part 1 goes through Blender's interface, providing you with a Guided Tour to many of the software's features <strong>(4 hours of tutorials)</strong>. Part 2 takes you through a single modelling project starting with preparing background images, through the modelling process, creating UV maps, adding textures, lighting the final model and rendering out a single image<strong> (4.5 hours of tutorials)</strong>.</p><p>If you want to get straight to modelling you can start with Part 2 and then go back to dip into relevant sections of Part 1. However, if you want to get a good grasp of what Blender is capable of, you can methodically work your way through Part 1.</p><p>In Part 2 look out for supporting files which include Blender files a key parts of the modelling stage, reference images of the camera being modeled and texturemaps used.</p><p>3D modelling can be quite difficult, so I encourage you to ask question amongst your peers and to myself for support.</p><p>The course is structured as follows:</p><ul><li>Section 1 - Introduction to course</li><li><strong>Section 2 - PART 1 - A Tour of Blender's interface and the many features inside.</strong></li><li>Section 3 - Where to get Blender and installation.</li><li>Section 4 - Blender 3D interface.</li><li>Section 5 - Exploring the 3D View.</li><li>Section 6 - Using the Object Menu.</li><li>Section 7 - Object Interactive Modes.</li><li>Section 8 - Other Buttons on the 3D View base.</li><li>Section 9 - Properties Region.</li><li>Section 10 - Outliner and Properties Editor.</li><li>Section 11 - Using Reference Images.</li></ul><ul><li><strong>Section 12 - PART 2 - Modelling a 1967 Nikomat FTn 35mm film camera.</strong></li><li>Section 13 - Getting started on your first model.</li><li>Section 14 - Modelling the Camera Prism.</li><li>Section 15 - Lens Construction.</li><li>Section 16 - Adding details to the Camera Body.</li><li>Section 17 - Modelling the Viewfinder and Hotshoe.</li><li>Section 18 - Creating UV Map and adding Texture.</li><li>Section 19 - Lighting and Rendering Final Images.</li><li>Section 20 - Course Conclusion.</li></ul><p>In all the are <strong>over 70 lectures</strong> in the course.</p><p>If you have ever wanted to learn how to build models in 3D this is the course for you. So why not enroll today?</p>", 
+    "end_date": null, 
+    "title": "Noobies' Guide to Modelling in Blender 3D", 
+    "price": "20.00", 
+    "instructors": "George Kingsnorth", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/550000_bb89.jpg", 
+    "course_url": "https://www.udemy.com/noobies-guide-to-modelling-in-blender-3d/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-09T11:41:08Z"
+}

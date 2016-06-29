@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Upgrade your skills and become a more efficient developer by incorporating Angular.js, Google&#039;s supported web application library, into your projects</strong>  </p>  <p style=\"\">  \t                  In this course, you will learn how to use Angular.js from scratch so that you can create more user-friendly web applications, Single Page Applications (SPA), and interactive websites.  </p>  <p style=\"\">  \t                  This course is taught by <strong style=\"\">Pablo Farias Navarro</strong>, founder of <strong style=\"\">ZENVA</strong> and one of Udemy&#039;s Best-Selling instructors, <strong style=\"\">with +50,000 students and hundreds of positive 5-star reviews</strong>.  </p>  <p style=\"\">  \t<strong style=\"\">    What you will learn in this course.  </strong>  </p>  <ul style=\"\">  \t<li style=\"\">How to use Angular.js to save time, create better projects and give your users a better experience.</li>  \t<li style=\"\">We&#039;ll create a full SPA from scratch (client side).</li>  \t<li style=\"\">How to cloud-enable your SPA so that you can connect it to any kind of backend.</li>  \t<li style=\"\">Fully commented source code of the course project.</li>  \t<li style=\"\">Learn how to architecture a SPA: modules, controllers, services</li>  \t<li style=\"\">Learn how to add URL routes to your client-side SPA.</li>  \t<li style=\"\">We&#039;ll be using Angular.js version 1.3.2.</li>  \t<li style=\"\">Access live examples at the end of each coding lesson.</li>  \t<li style=\"\">Learn how to use other great tools such as Boostrap 3, UnderscoreJS and Google Chrome&#039;s Developer Tools!</li>  </ul>  <p style=\"\">  \t<strong style=\"\">Become a better web developer and start using Angular today in your existing and new projects. See you in the course :)</strong>  </p>", 
+    "end_date": null, 
+    "title": "AngularJS for Beginners, Single-Page Applications Made Easy", 
+    "price": "30.00", 
+    "instructors": "Pablo Farias Navarro", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/332252_4a47.jpg", 
+    "course_url": "https://www.udemy.com/angularjs-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-31T00:36:27Z"
+}

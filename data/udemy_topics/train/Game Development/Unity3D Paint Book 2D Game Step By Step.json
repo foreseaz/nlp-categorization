@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">      This course is designed for absolute Unity3D beginners, <span style=\" text-decoration:underline;\">No scripting or design skills required </span>, In this course you are going to design and build a complete painting game called &quot;Paint Book 2D&quot;.</strong>  </p>  <p style=\"\">  \t            This course is unique in its content and the <strong style=\"\">first in its kind</strong>; It’s a complete <strong style=\"\">project-based</strong> process to build a complete 2D game using Unity3D. We start building the game from the ground up with a clear step by step lessons without jumping. We cover everything related to the design for this game starting from the design in Illustrator and exporting the images then moving to development, configuration and customization of the game using Unity3D.  </p>  <p style=\"\">  \t         Paint Book 2D is a very easy coloring and paint game for kids. Kids can use their finger to paint on touch screen. They can choose a color from the colors palette to start coloring and paint. In addition, you can erase (with white). Coloring activities can contribute to the development of kids creativity and character by helping the functions of both the left and right brain work. Creativity takes its power from the right brain and can appear in the form of thoughts, things or anything. <br style=\"\">  \t<br style=\"\">  \t<strong style=\"\">Features :</strong><br style=\"\">  </p>  <ul style=\"\">  \t<li>Support customization for other sprites </li>  \t<li> All features arranged on a single screen, no confusing navigation </li>  \t<li> Supports PC, iOS and Android </li>  \t<li>C# Commented Code</li>  \t<li> Custom Images </li>  \t<li> Complete Scene </li>  </ul>  <p style=\"\">  \t            Unity is on the top of the develop-once distribute-many platforms and it is really an awesome one-stop-shop platform and game engine for games, that is why we choose it as development platform.  </p>  <p style=\"\">  \t<strong style=\"\">Please note:</strong>  </p>  <p style=\"\">  \t<strong style=\"\">In this course we use an existing project as the basis to develop the topics on how to create 2D Painting game, in our experience this is a great way to learn Unity with practical projects. A basic understanding of Unity is required to be able to take advantage of this course, there will be basic illustrator and Unity videos, management of the environment of the base project .the lessons are very clear and easy to implement, students enjoyed the course.</strong>  </p>  <p>  \t    Course Preparation Team:  </p>  <ul style=\"\">  \t<li>Ahmad Naser</li>  \t<li>Baraa Nasser</li>  \t<li>Asma Hammad</li>  </ul>", 
+    "end_date": null, 
+    "title": "Unity3D Paint Book 2D Game Step By Step", 
+    "price": "20.00", 
+    "instructors": "Ahmad Naser", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/374680_f80d_2.jpg", 
+    "course_url": "https://www.udemy.com/unity3d-paint-book-2d-game-step-by-step/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-20T21:47:54Z"
+}

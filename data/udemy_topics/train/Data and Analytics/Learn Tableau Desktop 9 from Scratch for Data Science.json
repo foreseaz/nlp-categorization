@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>Master Data Visualization using Tableau Desktop 9 and build amazing data visualizations and dashboards. Learn Tableau Desktop 9 from Scratch for Data Science explains how to analyze and present data using this powerful data visualization software Tableau Desktop. At the end of the course, you'll be able to install Tableau, import and summarize data, create and manipulate data visualizations, and share visualizations.</p><p>This courses is aimed at anyone who wants to use this award winning product to analyse,visualize and share data. At the end of this course you will master all the basics of Tableau Desktop software<span>.</span><br></p><p><span>After this course you will be able to use Tableau Desktop 9 in your project work for data analysis, data visualizations, creating amazing dashboards and stories to present your data better and faster. </span></p>", 
+    "end_date": null, 
+    "title": "Learn Tableau Desktop 9 from Scratch for Data Science ", 
+    "price": "20.00", 
+    "instructors": "Sunil Kumar Gupta", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/740632_88fc_3.jpg", 
+    "course_url": "https://www.udemy.com/tableau-desktop-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-25T06:20:27Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Переход на новую версию Exchange Server это интересная, но в том же время опасная задача для системного администратора, которая скрывает в себе целый ряд рисков. Данный курс является качественной теоретической и практической базой, которая позволит вам обновить свою почтовую систему без сбоев, сделав данный процесс абсолютно прозрачных для сотрудников компании. Курс создан специалистом с богатым практическим опытом, описывает переход с версий Exchange Server 2010/2013 и кроме видео лекций включает трех часовую лабораторную работу, которая позволит вам получить важный практический опыт в переходе на Exchange Server 2016.</p>", 
+    "end_date": null, 
+    "title": "Миграция на Exchange Server 2016", 
+    "price": "45.00", 
+    "instructors": "Илья Рудь", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/830530_4a64.jpg", 
+    "course_url": "https://www.udemy.com/migration-exchange-2016/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-24T10:29:32Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Master the basic concepts, tools and techniques that you will need to create fully functional, robust and portable oracle PL/SQL applications.</p><p><strong style=\"\">Build a Powerful Foundation in PL/SQL With This Course For Beginners.</strong></p><p>Oracle 11g and SQL developer installation and configuration.</p><p>Anonymous blocks, subprograms, exceptions, triggers and packages.</p><p>Transaction control statements. Loops, conditionals and sequence.</p><p><strong style=\"\">A powerful and lucrative skill at your fingertips.</strong></p><p>Mastering the fundamentals of PL/SQL puts a very lucrative skill at your fingertips. Oracle and SQL developer are free, easy to learn and use. PL/SQL is the only language used to build business logic within an oracle database. Jobs in PL/SQL development are plentiful and very lucrative. Mastering PL/SQL could double your income if you are already an SQL developer. This is true for other third generation developers (c++, java). PL/SQL will help you improve performance by pushing your business logic to the database. </p><p><strong style=\"\">Content and Overview.</strong></p><p>Suitable for beginning programmers, through this course of 63 lectures over two and a half hours, you will learn PL/SQL fundamentals and establish a powerful understanding of the concepts behind procedural programming. Each chapter ends with a recap and a quiz to reinforce your knowledge. </p><p>Starting with the installation and configuration of oracle and SQL developer, through lexical units to variables. Next you create anonymous blocks which will establish a strong understanding of variables and the DBMS_OUTPUT package.</p><p>With the basics mastered, the course will take you through advanced topics like flow control (loops, GOTO), subprograms (functions and procedures) and transaction control (SAVEPOINT, ROLLBACK). </p><p>After completing this course, you will have the skills to build professional, production ready, business applications. You will also be able to answer 100  practical PL/SQL interview questions.</p><p>The course includes working code samples which you could adapt for your study or professional projects.</p>", 
+    "end_date": null, 
+    "title": "Oracle PL/SQL Essential Training.", 
+    "price": "45.00", 
+    "instructors": "Victor Ebai", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/483338_a3a9_4.jpg", 
+    "course_url": "https://www.udemy.com/plsql-essential-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-22T15:16:55Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this Learning Sensu training course, taught by expert authors Ken Erwin and Samantha Ventura, you will learn everything you need to know about Sensu, including how to integrate it with 3rd party services. This course is designed for the absolute beginner, meaning no experience with Sensu is required.</p>\n\n<p>You will start by learning how to configure Sensu, including configuring checks, handlers, filters, and mutators. From there, Ken and Samantha will teach you how to set up Graphite, Grafana, and use Grafana dashboards. Finally, this video tutorial will cover advanced topics, including an API overview, enterprise overview, and scaling. </p>\n\n\n\n<p>Once you have completed this computer based training course, you will be fully capable of using Sensu. Working files are included, allowing you to follow along with the author throughout the lessons.</p>", 
+    "end_date": null, 
+    "title": "Learning Sensu", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/874784_091c_3.jpg", 
+    "course_url": "https://www.udemy.com/learning-sensu/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-10T19:45:57Z"
+}

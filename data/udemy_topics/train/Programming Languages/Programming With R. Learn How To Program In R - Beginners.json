@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tThis Learning R training course from Infinite Skills will teach you how to use R, a programming language used for statistical computing and graphics. This course is designed for beginners that have no previous R programming experience. You will require a fundamental understanding of statistics to get the most out of this course.  </p>  <p style=\"\">  \t<br style=\"\">  \tYou will start by learning how to install and navigate R studio, then move into learning basic operations like statistical functions, matrix operations, and string functions. This course will show you how to plot, including scatter plots, probability plots, and plotting arguments. This video tutorial will cover working with data and data analysis, such as extracting model information, examining files and objects, and subsetting and indexing. You will also learn about conditional statements and user-defined functions, including how to write and de-bug functions. Finally, you will learn how to save different types of data.<br style=\"\">  \t<br style=\"\">  \tOnce you have completed this computer based training course, you will be fully capable of using R for developing statistical software and data analysis tools. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Programming With R. Learn How To Program In R - Beginners", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/248772_93b3_5.jpg", 
+    "course_url": "https://www.udemy.com/programming-with-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-23T15:14:37Z"
+}

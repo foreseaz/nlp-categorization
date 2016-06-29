@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Te gustaría aprender desde cero a crear juegos para todos los dispositivos?</strong>  </p>  <p>  \t<strong style=\"\">Deja de postergar tus sueños y comienza HOY</strong> con este curso donde paso a paso desarrollaremos un <strong style=\"\">juego educativo</strong> con la librería de JavaScript <strong style=\"\">Quintus</strong>, la cual permite crear juegos en 2D que funcionan en computadores de escritorio, teléfonos, tablets y smart tvs.  </p>  <p>  \tA lo largo del curso cubriremos desde cero la creación de este juego. <strong style=\"\">La idea es aprender haciendo</strong>, por lo que los alumnos pueden descargar el código fuente e ir modificando los ejemplos a su antojo.  </p>  <p>  \tAlgunos de los temas que aprenderás en este curso:  </p>  <ul style=\"\">  \t<li>Creación de juegos sencillos en 2D utilizando <strong style=\"\">HTML5</strong>.</li>  \t<li>Creación de niveles con varias capas y fondos.</li>  \t<li>Detección de colisiones.</li>  \t<li>Física 2D.</li>  \t<li>Flow del juego: game over y reiniciar juego.</li>  \t<li>Crear personas y explorar un mundo 2D con la cámara siguiéndote!</li>  \t<li>Interfaz del usuario en el juego.</li>  \t<li>Sonido!</li>  \t<li>Cargando info del nivel desde objetos JSON.</li>  \t<li>Cómo combinar todos estos elementos para crear un demo sencillo.</li>  </ul>  <p>  \tÚnete a <strong style=\"\">más de 30.000 alumnos</strong> que gracias a los cursos de <strong style=\"\">ZENVA</strong> están aprendiendo a convertir sus ideas en realidades.  </p>  <p>  \tEl autor de este curso es <strong style=\"\">Pablo Farías Navarro</strong>, emprendedor y desarrollador. Como founder de <strong style=\"\">ZENVA</strong>, Pablo tiene experiencia creando aplicaciones web y móviles, juegos y material educativo relacionado con videojuegos.  </p>  <p>  \t<strong style=\"\">Pablo es también contribuidor directo y parte del comité  organizador del proyecto de código abierto Quintus, librería utilizada  en este curso.</strong>  </p>  <p>  \tEstarás en buenas manos!  </p>", 
+    "end_date": null, 
+    "title": "Juegos Móviles con HTML5 - Juego Educativo", 
+    "price": "20.00", 
+    "instructors": "Pablo Farias Navarro", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/195984_ea1a_2.jpg", 
+    "course_url": "https://www.udemy.com/juegos-moviles-html5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-08T22:57:42Z"
+}

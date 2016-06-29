@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \tThis one-day course moves beyond the basics to help you take your web  development skills to the next level. Learn how to integrate  well-designed themes and templates, build responsive pages that look  great on both desktop and mobile, and make the whole thing load faster  for your visitors.  </p>  <ul style=\"\">  \t<li style=\"\">Responsive design with HTML5 Boilerplate, Initializr, and Bootstrap</li>  \t<li style=\"\">How to use Themeforest and 99 Designs to make your site look great</li>  \t<li style=\"\">Web Typography with Google Fonts</li>  \t<li style=\"\">Intermediate-level styling with CSS</li>  \t<li style=\"\">Basic uses of JQuery and Javascript</li>  \t<li style=\"\">Page Speed Optimization</li>  \t<li style=\"\">Demos of LAMP stack, Meteor.js, and Ruby on Rails</li>  \t<li style=\"\">Extras: Mailchimp responsive emails, intro to Github Pages and Jekyll, Comments with Facebook and Disqus</li>  </ul>", 
+    "end_date": null, 
+    "title": "Front-End Web Development: Getting Responsive with Bootstrap", 
+    "price": "20.00", 
+    "instructors": "Awesome Inc", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/184790_e4e1_2.jpg", 
+    "course_url": "https://www.udemy.com/front-end-web-development-with-bootstrap/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-18T19:10:05Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\">Get prestigious title of Microsoft Certified Solutions Associate (MCSA)</strong></p><p style=\"\">Training Installing and configuring Windows Server 2012 R2 was created entirely in order to prepare the student for exam 70-410. This exam is the first of three steps that are required to achieve MCSA. </p><p style=\"\"><strong style=\"\">Microsoft Certified Solutions Associate confirms high qualifications in the field of server administration. People with this title are considered in the market as expertsof IT sector.</strong></p><p style=\"\">If you manage to pass the basic exams and earn the <em style=\"\"><strong style=\"\">Microsoft Certified Solutions Associate</strong></em> (MCSA) for <em style=\"\">Windows Server 2012</em>, you will have an open way to obtain another one, namely <em style=\"\"><strong style=\"\">Microsoft Certified Solution Expert (MCSE)</strong></em> for <em style=\"\">Server Infrastructure</em>.</p><p style=\"\"><strong style=\"\">What you will learn?</strong></p><p style=\"\">During this course we&#039;ll talk about the installation and configuration of servers. We&#039;ll install such a server, configure it, say something about <strong style=\"\">storage management</strong>. We&#039;ll configure <strong style=\"\">server roles and features</strong>. We&#039;ll talk about permissions for files and shares. We&#039;ll discuss <strong style=\"\">printing and manage servers remotely</strong>. We&#039;ll configure <strong style=\"\"><em style=\"\">Hyper-V</em>,</strong> that is we&#039;ll create virtual machines, manage virtual storage as well as <strong style=\"\">configure virtual networks</strong>.</p><p style=\"\">Other topics concern basic network services, like <em style=\"\"><strong style=\"\">I</strong><strong style=\"\">Pv4</strong></em><strong style=\"\"> or </strong><em style=\"\"><strong style=\"\">IPv6</strong></em>. We&#039;ll tell more about crucial network services, namely <strong style=\"\"><em style=\"\">DHCP</em> and </strong><em style=\"\"><strong style=\"\">DNS</strong></em>. We&#039;ll <strong style=\"\">install the </strong><em style=\"\"><strong style=\"\">Active Directory</strong></em> domain, create a domain account, manage users, computers, as well as groups and organisational units. Then, we&#039;ll move on to <strong style=\"\">manage a group policy</strong>. We&#039;ll <strong style=\"\">c</strong><strong style=\"\">reate the relevant group policies</strong>, configure the security settings, as well as limit the possibility of starting particular applications for specific users. At the very end, we&#039;ll discuss the <strong style=\"\">configuration of the Windows firewall.</strong></p><p style=\"\"><strong style=\"\">We can guarantee the full preparation for certification exam 70-410 Installing and Configuring Windows Server 2012. Don&#039;t hesitate, get MCSA title!</strong></p><p style=\"\">How to take the Microsoft 70-410 Exam:</p><p style=\"\">1. Find test center near you to take the Server 70-410 certification exam. On the Microsoft website you will find more details of test center locations and schedules.</p><p style=\"\">2. Study video material to pass the 70-410 examination. Our course with quizzes will help you to succeed in the exam.</p><p style=\"\">3. Pass your exam and get MCSA title!</p><p style=\"\"><strong style=\"\">I cordially invite you to this course!</strong></p><p style=\"\">Find coupon codes on our <strong style=\"\">YouTube</strong> channel - <strong style=\"\">Educativo Trainings</strong></p>", 
+    "end_date": null, 
+    "title": "Windows Server 2012 R2 - Preparation to exam 70-410", 
+    "price": "20.00", 
+    "instructors": "Educativo Trainings, IT Security Academy", 
+    "commitment": "11.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/525128_6bba_2.jpg", 
+    "course_url": "https://www.udemy.com/windows-server-2012-r2-preparation-to-exam-70-410/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-10T13:40:32Z"
+}

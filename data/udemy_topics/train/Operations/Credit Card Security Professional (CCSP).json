@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\">The <strong style=\"\">CCSP Certificate </strong>provides convenient payment card security training for members of the workforce who come into contact with protected credit card information.</p><p style=\"\">Module titles within the course include:</p><p style=\"\">* An Introduction to Credit Card Security</p><p style=\"\">* Understanding Payment Cards</p><p style=\"\">* Best Practices for Payment Card Security</p><p style=\"\">* PCI DSS Compliance Levels for Merchants</p><p style=\"\">* PCI DSS Compliance Levels for Service Providers</p><p style=\"\">Average course length: 1 hour</p><p style=\"\">The <strong style=\"\">CCSP </strong>course has been reviewed and authorized by the <strong style=\"\">4Medapproved </strong>professional medical and technical advisory boards.</p>", 
+    "end_date": null, 
+    "title": "Credit Card Security Professional (CCSP)", 
+    "price": "35.00", 
+    "instructors": "Brian Johnson, Stone River eLearning", 
+    "commitment": "31 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/530608_03ad.jpg", 
+    "course_url": "https://www.udemy.com/credit-card-security-professional-ccsp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operations"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-17T19:04:11Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Css positioning can be a bit tricky if you do not understand how it works properly.</p><p>Understanding how the css position properties and their values work will help you gain skills to manipulate the layout of a website and it’s contents.</p><p>Knowing how to position and display various elements on a website will make your work as a designer less stressful.</p><p>This course will teach you how to position elements in a static ,relative, absolute and fixed way.</p><p>You will learn to use other position related css properties like float ,clear ,display and overflow to control the position of a webpage content.</p><p>This is a video based course that is less than two hours with practical examples you can follow along and practice with.</p><p>I am confident that by the end of this course you should be able to position any element on a webpage in a static, relative, absolute or fixed way.</p><p>There are also some exercises for you to practice with to build your skills.</p><p>I hope you will join me on this course.</p><p>Thank You</p>", 
+    "end_date": null, 
+    "title": "Css Positioning For Absolute Beginners: A Basic Introduction", 
+    "price": "20.00", 
+    "instructors": "Bluelime Learning Solutions", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/653754_4562_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-how-css-positioning-works-a/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-28T19:22:11Z"
+}

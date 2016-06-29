@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Discover the cure for the common course as we take you on a tour through the world of user stories.  We’ll have fun along the way (did you know user stories are like video games?), and we’ll dive into the essential terms and concepts you’ll need to effectively apply user stories to your projects.</p><p>In this course, you’ll learn:</p><ul><li>What a user story is and how they can make projects more successful</li><li>Benefits of user stories</li><li>Roles and responsibilities in user stories</li><li>How to identify, analyze, and build personas</li><li>How to use those personas to write stories that will <em>really</em> meet your users’ needs</li><li>The 3 C's of a good user story (Card, Conversation, and Confirmation)</li><li>How to use the 3 C's to write your stories</li><li>All about epics and themes</li><li>How to use themes to organize your stories</li><li>How to use INVEST to make sure your stories are of good quality</li><li>Techniques to effectively break down epics into smaller stories</li></ul><p><br></p><p>And through the whole class, we’ll use real world examples and exercises to help reinforce the ideas and give you the chance to practice.  In this short course, you’ll get the skills you need to start applying user stories to your projects right away.</p>", 
+    "end_date": null, 
+    "title": "Making Sense of User Stories", 
+    "price": "20.00", 
+    "instructors": "Luminescence Training", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/733542_70f6_4.jpg", 
+    "course_url": "https://www.udemy.com/making-sense-of-user-stories/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-19T01:02:01Z"
+}

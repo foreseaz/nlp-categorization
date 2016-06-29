@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>C++ is one of the most in demand programming languages in the software industry, and the language that many others derive from – Java being just one. Being somewhat more complex than others, it's not easy to find a C++ tutorial for beginners. However, if you want to boost your employability and fine tune your programming skillset to include C++ fundamentals, then this is the course for you.</p><p><strong>Take your Programming Skills to the Next Level</strong></p><p>Hands on approach to C++ basics including DIY examples and explanations</p><p>Write basic programs using control structures and switch case blocks</p><p>Prepare for C++ intermediate level through in depth coverage of the fundamentals</p><p>Gain a better understanding of basic programming topics in general</p><p><strong>Learn C++ Basics in a Flash</strong></p><p>This course has been specially designed for intermediate programmers who have already gotten to grips with basic programming languages. It's especially suitable for those planning to pursue programming as a serious career path. As C++ is a complex language, this course is not intended for complete beginners.</p><p>With 16 lectures and 3 hours of content, this C++ beginners tutorial will get you up to speed with the basics of the language first of all, including variables and literals, data types, data assignment, and the mathematical operations that C++ uses. Next, it's on to type conversions, overflow and underflow, formatting output, and string manipulation. The final section deals with control logic, including control structures, logical operators, conditional operators, and looping.</p><p>You will learn each of the concepts covered in this course with the help of practical examples and do-it-yourself style material, so that you'll instantly see how the knowledge you learn can be applied. By the end of this course, you will be ready to progress to intermediate C++ or at the very least, have a working knowledge of C++ fundamentals that can be built upon with practical use.</p><p><strong>About C++</strong></p><p>C++ is a general purpose programming language that emphasises performance, efficiency and flexibility of use. It has a variety of uses and is best suited for large, resource-constrained systems, and has proved particularly strong in the software infrastructure and software entertainment, among many other areas. Initially developed in 1979 by Danish computer scientist Bjarne Stroustrup, it was standardised in 1998 and has been one of the heavyweights in the programming world ever since. </p>", 
+    "end_date": null, 
+    "title": "C++ Programming Fundamentals.", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/511946_4761_2.jpg", 
+    "course_url": "https://www.udemy.com/c-plus-plus-programming-fundamentals/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-26T16:46:46Z"
+}

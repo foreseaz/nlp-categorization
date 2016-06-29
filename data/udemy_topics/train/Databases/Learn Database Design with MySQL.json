@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Database design is one of the most important aspects of Web programming. Successful implementation of any system with Data Storage will always need proper database design. In order to create great database design you will not only have to master the Database technology but will have to master database design process and normalization.  </p>  <p>  \t  This course will teach you the nuances of proper database design. It will teach you all the hidden tips and tricks and will ensure that you learn all the major concepts of a proper database design.  This course will also teach you SQL and you will be a SQL power user by the end of this course.  </p>  <p>  \t  You will start with basic introduction to data storage and will follow it up with storage engines and other tools. You will also learn about MySQL installation and database design process. Database design , normalization, structure mapping, keys and junction tables comes next.  </p>  <p>  \t  The next units will teach you SQL and Advance SQL and you will also learn to use PHP with MySQL. So this complete Database course and will surely help you become a <strong>Database Design Guru</strong>.  </p>", 
+    "end_date": null, 
+    "title": "Learn Database Design with MySQL", 
+    "price": 0, 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/172572_3d16_5.jpg", 
+    "course_url": "https://www.udemy.com/learn-database-design-with-mysql/", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-25T06:03:32Z"
+}

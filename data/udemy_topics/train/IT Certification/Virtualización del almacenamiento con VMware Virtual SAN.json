@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Este curso ha sido diseñado para facilitar el arranque inicial a un entorno de <strong>almacenamiento definido por software</strong>, proporcionando bases muy sólidas tanto para el despliegue como para la administración.</p><p>El curso también ayuda a profesionales de TI y partners de VMware a alcanzar la competencia en VMware de <strong>Software-Defined Storage</strong>.</p><p>Tras completar el <strong>curso de VMware vSAN</strong> el alumno habrá adquirido los siguientes conocimientos:</p><ul> <li>Describir un centro de datos definido por software</li> <li>Describir la arquitectura de Virtual SAN y los requisitos</li> <li>Fundamentos del almacenamiento para Virtual SAN</li> <li>Dispositivos magnéticos y de estado sólido</li> <li>Configurar la red de vSAN</li> <li>Crear y habilitar un cluster de alta disponibilidad con vSAN</li> <li>Diseñar grupos de discos</li> <li>Habilitar políticas y reglas de almacenamiento para máquinas virtuales </li> <li>Desplegar máquinas virtuales en vsanDatastore</li> <li>Verificar el cumplimiento de las políticas en una máquina virtual</li> <li>Administrar y monitorizar un cluster con vSAN</li> <li>Escalar un cluster vSAN para más rendimiento o capacidad</li> <li>Monitorizar Virtual SAN desde vSphere Web Client, ESXCLI, ESXTOP y RVC</li> <li>Uso de alarmas en vCenter para vSAN</li><li>Solución a problemas comunes</li><li>Comprender los distintos escenarios de fallos</li> <li>Selección de hardware para vSAN</li> <li>Licencias de VMware vSAN</li></ul><p>Contáctanos para más información sobre descuentos en matriculaciones de empresas para más de un empleado.<br></p>", 
+    "end_date": null, 
+    "title": "Virtualización del almacenamiento con VMware Virtual SAN", 
+    "price": "50.00", 
+    "instructors": "Leandro Ariel Leonhardt, JMG Virtual Consulting S.L", 
+    "commitment": "11 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/445764_00bc_6.jpg", 
+    "course_url": "https://www.udemy.com/virtualizacion-almacenamiento-vmware-virtual-san/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-12T13:37:52Z"
+}

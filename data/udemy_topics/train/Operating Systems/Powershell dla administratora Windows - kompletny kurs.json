@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Zaawansowany kurs od podstaw nauczy cię tego, co każdy administrator Windows powinien wiedzieć, aby wydajnie pracować z Powershell. </p><p>Coraz częściej wraz z graficznym interfejsem narzędzi służących do zarządzania produktami Microsoft, dostarczane są również moduły Powershell pozwalające na administrację z linii komend. Pisanie własnych skryptów korzystających z tych modułów pozwala na automatyzowanie zadań wykonywanych przez administratora Windows.</p><p>Znając Powershell możesz samodzielnie tworzyć skrypty unikając powtarzalnej pracy, możesz korzystać z licznych rozwiązań publikowanych w Internecie, zmieniając je pod swoje potrzeby. Nie musisz obawiać się uruchamiania nieznanych poleceń wpisanych do instrukcji konfiguracji aplikacji.</p><p>Kurs \"Powershell dla administratora\" zaczyna się od rzeczy prostych, jak praca z edytorem ISE. Następnie lekcja po lekcji pozwala poznać więcej szczegółów na temat Powershell. Pod koniec uczysz się już o budowaniu własnych modułów, pisaniu zapytań WMI i CIM, korzystaniu z uruchamiania poleceń na systemach zdalnych przez remoting.</p><p>Mając taką wiedzę możesz zmienić obraz środowiska IT w jakim pracujesz. Możesz zastąpić ręczną mozolną pracę, na automatycznie wykonywane polecenia, które rozwiążą problemy jeszcze nim się one pojawią. Zamiast przygotowywać instrukcję \"krok po kroku\" opisującą jak skonfigurować serwer, przygotuj skrypt, który dodatkowo udokumentuje wprowadzane zmiany!</p><p>Nie czekaj! Zostać masterem Powershell!</p>", 
+    "end_date": null, 
+    "title": "Powershell dla administratora Windows - kompletny kurs", 
+    "price": "20.00", 
+    "instructors": "Rafał Kraik", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/482972_5d3b_2.jpg", 
+    "course_url": "https://www.udemy.com/powershell-dla-administratora-windows/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-22T07:58:56Z"
+}

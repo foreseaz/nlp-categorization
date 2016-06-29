@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<h5><span>Learn the fundamentals of XSLT: XML, XPath and XSL.</span></h5>  <p>  \t If you know HTML, XSLT is only a step away.  This course will introduce you to the fundamentals of each component of XSLT:  </p>  <ul style=\"\">  \t<li>You will learn what you need to know and understand about XML in order to be effective with XSLT.</li>  \t<li>You will become a navigator of XML by learning the basics of XPath.</li>  \t<li>You will then apply your understanding of XML and your ability to navigate it with XPath to XSLT. </li>  \t<li> You will then be able to use your new XML, XPath &amp; XSLT skills to navigate and transform your XML.</li>  </ul>  <h5>Level up without draining your bank account</h5>  <p>  \t Other XSLT courses and training out there are lengthy and can cost hundreds to thousands of dollars.   This course presents you with the fundamentals of XSLT in a condensed, to the point format that will help  you hit the ground running.  </p>  <h5>Give your resume a boost</h5>  <p>  \t Adding XML, XPath &amp; XSLT in addition to your current Development skills will look fantastic on your  resume.  </p>  <h5>Boost your understanding of DOM</h5>  <p>  \t Learning XML &amp; XPath in this course can help you better understand  </p>  <p>  \t Document Object Model (DOM) concepts through learning to navigate the XML Tree with relationship  selectors.  </p>  <h5>Give your work performance a boost</h5>  <p>  \t If you&#039;ve been tasked with working on XSL transforms in your job, and are struggling or lagging behind: this course will quickly bring you up to speed with what you need to know to perform.  </p>", 
+    "end_date": null, 
+    "title": "Intro to eXtensible Stylesheet Language Transformations", 
+    "price": "20.00", 
+    "instructors": "Marie Taylor", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/58206_cb07_23.jpg", 
+    "course_url": "https://www.udemy.com/xslt-jumpstart/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-04T16:47:29Z"
+}

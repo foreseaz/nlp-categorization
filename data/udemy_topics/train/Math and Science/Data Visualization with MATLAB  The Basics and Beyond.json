@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p><strong><u>Why Visualize Data?</u></strong></p>    <p>          As the volume and complexity of data and results continues to grow with the increasing complexity of data sources and algorithms, the need for intuitive representations of that data and results becomes increasingly critical. </p>  <p>          We want to create the representations in such a way that the human mind can, after all, better understanding our universe and the processes taking place within – representation of a real-world object, an abstract mathematical expression, specific values of some measurable quantities, etc. Since 80 percent of the sensory information the brain receives comes from our eyes, the visual presentation of data is the natural choice. </p>  <p>          The graphical representation of the results is often not only the most effective means of conveying the points of the study or work which has provided the data, but is in most cases an expectation of the audience of the work. It helps you to identify and emphasize areas of interest in data behavior, to express your thoughts, observations, and conclusions to others in a quick and intuitive way.</p>    <p><strong><u>Why MATLAB?</u></strong></p>    <p><strong>1. Ease of Use</strong></p>  <p>          MATLAB is an interpreted language. Programs may be easily written and modified with the built-in integrated development environment and debugger. </p>    <p><strong>2. Platform Independence</strong></p>  <p>          MATLAB is supported on many different computer systems, providing a large measure of platform independence. The language is supported on Windows, Linux, Unix, Macintosh. Programs written on any platform will run on all of the other platforms.</p>    <p><strong>4. Device-Independent Plotting</strong></p>  <p>          MATLAB, unlike other computer languages, has many integral plotting and imaging commands. The plots and images can be displayed on any graphical output device supported by the computer on which MATLAB is running. This capability makes MATLAB an outstanding tool for visualizing data.</p>    <p><strong>5. Full set capabilities</strong></p>  <p>          MATLAB has all graphics functions necessary to visualize scientific and engineering data. It includes features for representation of two-dimensional and three-dimensional diagrams, three-dimensional volume visualization, animation, tools to create diagrams interactively and the possibility of exporting to the most popular graphic formats. It is possible to customize diagrams adding multi-axes, change the colors of the lines and markers, add annotations, LaTeX expressions, legends and other plotting options.</p>  <p><strong><u></u></strong></p>  <p><strong><u>Why this course?</u></strong></p>  <p><strong><u></u></strong></p>  <ul><li>Breaks the complex plot techniques down into simplistic steps.</li><li>Easy and intuitive approach from professional trainers.</li><li>Ideal for students, academics, scientists.</li><li>Suitable for beginner programmers.</li></ul>", 
+    "end_date": null, 
+    "title": "Data Visualization with MATLAB: The Basics and Beyond", 
+    "price": "20.00", 
+    "instructors": "Eng. Tod Vachev, Assist. Prof., Ph.D., Eng. Hristo Zhivomirov", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/689522_fd0a_2.jpg", 
+    "course_url": "https://www.udemy.com/data-visualization-matlab/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-05T12:13:15Z"
+}

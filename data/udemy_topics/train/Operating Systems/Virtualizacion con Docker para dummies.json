@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">Aprende los conceptos básicos para virtualizar servidores de una manera sencilla con la platforma <strong style=\"\">Docker</strong>.</p><p style=\"\">Consigue unos sólidos fundamentos en la utillización de contenedores y<strong style=\"\"> aprende como virtualizar software para crear arquitecturas orientadas a servicios.</strong></p><ul style=\"\"><li style=\"\">Aprende a instalarlo en todos los sistemas operativos</li><li style=\"\">Conoce el ciclo de vida de los contenedores</li><li style=\"\">Aprende como conectar contenedores y hacer que trabajen coordinados</li><li style=\"\">Consigue configurar contenedores auto-administrados</li><li style=\"\">Despliega aplicaciones en cuestión de segundos</li></ul><p style=\"\">La profesión de <strong style=\"\">DevOps </strong>es cada vez más solicitada y <strong style=\"\">Docker </strong>se plantea como una herramienta fundamental dentro de tu navaja suiza de habilidades.</p><p style=\"\">Grandes empresas que dominan la Internet en sus respectivos sectores usan docker para aprovisionar servicios y cada vez más empresas se interesan por esta plataforma porque reduce costes, pero es necesario personal especialista.</p><p style=\"\">En este curso dispondrás de todas las herramientas necesarias para que te resulte cómodo aprender a virtualizar contenedores con Docker y al final del mismo dispondrás de conocimientos avanzados para poder desplegar aplicaciones empresariales.</p><p style=\"\"></p><p style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Virtualizacion con Docker para dummies", 
+    "price": "50.00", 
+    "instructors": "Dico Training", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/511062_2923_3.jpg", 
+    "course_url": "https://www.udemy.com/virtualizacion-con-docker/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-25T17:24:25Z"
+}

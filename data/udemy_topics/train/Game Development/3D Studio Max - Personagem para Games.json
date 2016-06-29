@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Dou aulas presenciais de 3d studio max desde 2005, e hoje entendo quais são as principais dificuldades dos alunos na hora de aprender o 3D Studio Max</p><p>Desenvolvi este curso, pensando na forma mais pratica e eficiente de se aprender o max, pensando em desenvolvimento de personagens e jogos</p><p>Neste curso abordo apenas as ferramentas mais importantes do softwares para modelar e animar um personagem para utilizar em um aplicativo realtime desenvolvido na unity 3d (um jogo em realidade aumentada)</p><p>Estas aulas são voltadas para as pessoas que ja conheceram o 3D Studio Max, porem não se aprofundaram ainda em modelagem textura e animação</p><p>Vamos começar modelando o personagem principal do jogo usando a ferramenta <strong style=\"\">Edit Poly</strong></p><p>Apos isso, vamos utilizar o modificador <strong style=\"\">Unwrap UVW</strong> para planificar a geometria do personagem, antes de mandar para um software de pintura (no caso utilizo o photoshop) e fazer a textura do modelo.</p><p>Com o modelo finalizado, chega a hora de criar as <strong style=\"\">deformações</strong>, criar o <strong style=\"\">Setup de Bones</strong> e o <strong style=\"\">set de animações</strong> que vão ser utilizadas posteriormente no nosso game.</p><p>No final do curso, também faço uma revisão sobre o processo de se <strong style=\"\">exportar</strong> os modelos e animações do 3D Studio Max e importar/configurar na <strong style=\"\">Unity3D</strong> antes de começar a programar o game.</p><p>O que ensino neste curso, é um <strong style=\"\">fluxo de trabalho simples e prático</strong> que utilizo no meu dia dia de trabalho.</p><p>Utilizando este processo, com uma boa pratica, sei que e possível desenvolver um personagem e animação em apenas algumas horas de trabalho.</p><p>O curso é ideal para artistas e desenvolvedores / programadores que desejam de aperfeiçoar no processo de modelagem e animação para jogos 3d. </p><p>Indico especialmente para os desenvolvedores de games que trabalham com a <strong style=\"\">Unity3D</strong> e <strong style=\"\">Unreal</strong>, que desejam apenas aprender a parte mais essencial do programa para utilizar em games e apps.</p>", 
+    "end_date": null, 
+    "title": "3D Studio Max - Personagem para Games", 
+    "price": "30.00", 
+    "instructors": "Tito Petri", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/49375_3a4c_5.jpg", 
+    "course_url": "https://www.udemy.com/felpudo3dsmax/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-04-11T13:46:21Z"
+}

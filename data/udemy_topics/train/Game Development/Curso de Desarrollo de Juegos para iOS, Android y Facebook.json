@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Actualmente con la aparición del HTML5, Adobe Flash se encuentra en un lento retroceso en la creación de contenido multimedia para la web. Por este motivo ha dirigido sus esfuerzos en el desarrollo de aplicaciones y juegos orientados a las plataformas más conocidas: iOS, Android y Facebook, mediante la tecnología AIR. Esta tecnología  empaqueta tus aplicaciones realizadas en Action Script 3.0 para que puedan ser ejecutadas con éxito en las plataformas antes mencionadas. Algunos ejemplos de éxito son Machinarium, Candy Crash Saga, City..., entre otros.</p><p>Esto es debido, entre otras cosas, a que el SDK de Flash presenta una integración perfectamente simbiótica del diseño con la programación y gracias a la posibilidad de utilizar verdaderas técnicas de programación orientada a objetos en la versión 3.0 de ActionScript, es posible estructurar un juego en diferentes <em>clases</em>, obteniendo códigos más flexibles y fáciles de modificar. </p><p>Para el desarrollo de juegos utilizaremos el SDK de Adobe Flash.</p>", 
+    "end_date": null, 
+    "title": "Curso de Desarrollo de Juegos para iOS, Android y Facebook", 
+    "price": "30.00", 
+    "instructors": "Celestino Alfonso", 
+    "commitment": "35.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/394326_fa2d_8.jpg", 
+    "course_url": "https://www.udemy.com/desarrollo-de-juegos-para-ios-android-y-facebook/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-14T20:56:08Z"
+}

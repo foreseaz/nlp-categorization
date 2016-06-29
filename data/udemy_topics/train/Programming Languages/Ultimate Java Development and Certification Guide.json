@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn to program in Java and prepare for the Oracle Java certification exam with one single training program. This course serves the dual purpose of making you a proficient Java programmer by focusing on practical java paradigms and also help you get certified by making sure you are fully prepared for the java certification exam. </p><p>This course is for anyone who wants to learn java from the ground up. It starts with basic java installation and help you master the language by going through tons of programming examples. The main sections covered in the course are:</p><p><strong>Java Syntax and Class Review</strong></p><p>This section ensures that you get familiar with the java syntax and general programming constructs. You will learn conditionals and iterators along with different data types and data structures.</p><p><strong>Encapsulation and Subclassing</strong></p><p>Get started with object oriented programming in this section learning about Classes, Objects, encapsulation and subclasses. These are the basic building blocks of Java programming.</p><p><strong>Polymorphism</strong></p><p>This section will help you master concepts covering the powerful polymorphism feature in java. Topics such as method overriding, final, static keyword and singleton class will be covered in this section.</p><p><strong>Abstract and Nested Classes</strong></p><p>Learn to take a deep dive into object oriented programming with concepts such as nested and inner classes. Learn to use the power of Java for creating more complex programs.</p><p><strong>Interfaces</strong></p><p>Learn about Inheritance and its use with Java language. Understand why you should use interfaces and how they help in designing complex software. </p><p><strong>Collections and Generics</strong></p><p>Learn about the latest data structures introduced in Java and how they make programming easier.</p><p><strong>Lambda Expressions, Streams and Filters</strong></p><p>Get to know the exotic concepts such as streams, filters and lambda expressions. Build programs with them and learn the perfect use.</p><p><strong>I/O Fundamentals</strong></p><p>Input output across systems is an important concept and this section will cover all the relevant topics with examples. </p><p><strong>Date and Time</strong></p><p>Learn to manage date and time in Java and learn the useful APIs </p><p><strong>Threads</strong></p><p>Learn multi threaded programming which executes different part of our programs as separate process. Learn all about deadlock and threading problems.</p><p>Learn all this and much more in this truly ultimate course which will make you a champion Java developer by the end of it. So just enroll and see you in the first lecture.</p>", 
+    "end_date": null, 
+    "title": "Ultimate Java Development and Certification Guide", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/512546_d62d_3.jpg", 
+    "course_url": "https://www.udemy.com/ultimate-java-development-and-certification-guide/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-27T05:24:38Z"
+}

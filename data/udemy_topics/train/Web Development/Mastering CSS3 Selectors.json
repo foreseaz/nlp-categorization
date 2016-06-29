@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>If HTML is the skeleton of a web page, CSS is its flesh. To create amazing websites, web developers need to master CSS Selectors, which are the most critical things in the modern Web and form the backbone of CSS designs. Third-party tools such as jQuery are popular mainly because they allow you to select elements with ease using CSS selectors. Selectors in CSS allow designers to access HTML elements to enhance and manipulate the appearance and behavior of their web pages.</p><p>Mastering CSS3 Selectors focuses on the power of CSS3 selectors and how they can be intelligently leveraged to create powerful interactive sites. This video course explores CSS selectors in depth, demonstrating how to work with them on a granular level to confidently manipulate all the elements of a web page.</p><p>We'll start off the course with a quick refresher of the core CSS selectors available since CSS1 and become familiar with the Universal selector. We'll then move on to see how we can control the colors of actions and links in CSS and will get ourselves up-to-date with the changes that have taken place with them. Next we'll work with the new CSS2 and CSS3 attribute selectors and learn the basics of how to work with the lang attribute in HTML and the lang-CSS selector.</p><p>As we proceed, we'll master the usage of a wide array of selector techniques and tricks, including working with dynamic content around elements, manipulating inner content, understanding structural selectors, and more.</p><p>Taking an in-depth look at specific selectors within CSS3, by the end of the course you will have complete control over every element of a web page to make your site behave exactly the way you want it to.</p><p><strong>About The Author</strong></p><p><strong>Ben Fhala</strong> discovered his passion for data visualization while he was working at Parsons in New York, in their data visualization department, PIIM. He is the owner of the online video training school and an Adobe ACP. He enjoys spending most of his time learning and teaching, and has a love for visual programming and visualization in general. Ben has had the honor of developing applications for members of the US Congress, Prime Ministers, and Presidents around the world.<br></p><p>He has built many interactive experiences for companies such as Target, AT&amp;T, Crayola, Marriott, Neutrogena, and Nokia. He has technically directed many award-winning projects and has been part of teams that have won three Agency of the Year awards.</p><p>Among Ben's publications are HTML5 Graphing and Data Visualization Cookbook, and five video courses: jQuery UI Development; Learning Object-Oriented JavaScript; Mastering JavaScript; JavaScript Design Patterns; Web Visualization with HTML5, CSS3, and JavaScript, all for Packt Publishing.</p>", 
+    "end_date": null, 
+    "title": "Mastering CSS3 Selectors", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/723746_c570_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-css3-selectors/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-11T09:48:35Z"
+}

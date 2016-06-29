@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Hello,<br></p><p>Connaissez vous Bootstrap?</p><p>C'est un framework HTML, CSS et Javascript, c'est à dire une structure qui contient de nombreux composants prêts à l'emploi: boutons, listes déroulantes, menus, etc, etc...</p><p>Il va nous permettre de développer plus rapidement et plus simplement car il est compatible avec tous les navigateurs.<br></p><p>Mais ce qui fait de Bootstrap une véritable star. C'est sa popularité pour développer \"responsive\".</p><p>C'est quoi \"responsive\"?</p><p>Le responsive design, c'est une façon d’appréhender la conception d’un site internet. Notre site Web devient flexible et élastique, il s’adapte automatiquement à la taille et à la résolution de l’écran.</p><p>C'est à dire qu'il s'organisera différemment s'il est vu depuis un smartphone, une tablette ou un ordinateur. (apparition de 3 dessins)</p><p>Les colonnes s’ajustent, se déplacent ou disparaissent entièrement, les images se redimensionnent, les menus changent...</p><p>Pour suivre ce cours, vous devez connaître un minimum les bases d' HTML et CSS et je vous enseignerai ce que vous pouvez faire avec Bootstrap.</p><p>Mais mieux encore! Vous aller enfin créer votre CV interactif \"responsive\"!</p><p>Il sera adapté aussi bien sur ordinateur que sur smartphone.</p><p>Etape par étape, on réalisera ce CV ensemble.</p><p>Sachez que c'est le genre de CV qui attire les recruteurs et je suis sur qu'il boostera votre carriere.</p><p>Allez! On passe a l'action...</p>", 
+    "end_date": null, 
+    "title": "Apprendre Bootstrap et créer un CV en ligne responsive", 
+    "price": "20.00", 
+    "instructors": "John Codeur", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/762174_f894.jpg", 
+    "course_url": "https://www.udemy.com/apprendre-bootstrap-et-creer-un-cv-en-ligne-responsive/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-14T10:25:22Z"
+}

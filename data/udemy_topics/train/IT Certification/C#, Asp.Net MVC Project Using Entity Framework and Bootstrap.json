@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>This course is for professionals who aims to learn how she could implement</strong> AspNet MVC Framework, Entity Framework, Bootstrap, Fluent Validation, Ninject in <strong>a Professional Layered Architecture.</strong><br></p>  <p>  \tTo achieve the implementation, students will see how it could be implemented in a <strong>real project.</strong>  </p>  <p>  \tSOLID principles are highly concentrated while developing the project.  </p>  <p>  \tThe Course includes implementing Entities, Data Access, Business and User Interface Layers with <strong>best practices.</strong></p>  <p>  \tUdemy's 30 Days Money Back Guarantee gives the students a great chance to have a try on the course.  </p>  <p>  \t<strong>The Course Outline</strong></p><p><strong>Create Entities Layer</strong> </p><p>Create The Base Entity</p><p>Create Concrete Entities</p><p>Create Complex Types</p><p><strong>Create Data Access Layer</strong></p><p>Reference Entity Framework</p><p>Create The Repository Pattern</p><p>Create The Abstract DataAccess Classes</p><p>Implement The Repository Pattern For EntityFramework</p><p>Configure The Entity Mappings</p><p>Implement The DbContext Class</p><p>Create Concrete Data Access Classes</p><p><strong>Create Business Layer</strong></p><p>Create The Business Abstraction</p><p>Create The Concrete Classes</p><p>Create Managers</p><p>Configure and Create Validation Rules Using FluentValidation for .Net</p><p>Running Validations In The Business</p><p><strong>Create User Interface</strong></p><p>Create The Bootstrap Layout</p><p>Create The Category List Using Partial Views</p><p>Create The Product List</p><p>Create Pager For The Product List Using Html Helpers</p><p>Create The Dependency Injection Factory Using Ninject</p><p>Create an “Add Product Form\"</p><p>Implement The Client Side Validation using FluentValidation</p><p>Create an “Update Product Form\"</p><p>Delete A Product</p><p>Create a User Information Message Using Tempdata</p><p>Prevent Cross Site Script Forgery</p><p>Set The Authorization Mechanism</p><p>Login With a User</p>", 
+    "end_date": null, 
+    "title": "C#, Asp.Net MVC Project Using Entity Framework and Bootstrap", 
+    "price": "20.00", 
+    "instructors": "Engin Demiroğ, Goliq IT Academy", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/437786_87c1_3.jpg", 
+    "course_url": "https://www.udemy.com/aspnet-mvc-framework/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-03T18:39:07Z"
+}

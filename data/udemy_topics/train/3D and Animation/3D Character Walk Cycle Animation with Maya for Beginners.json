@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>The difficulty in creating a <em style=\"\">realistic</em> 3d walk cycle animation is juggling with human mechanics and the principles of animation at the same time. This can be challenging especially for beginners who are learning animation and new to the software Maya.</p><p>Fortunately, with the <strong style=\"\"><em style=\"\">right</em></strong> approach, 3d walk cycle animation can be done effectively with realistic result in just <strong style=\"\">3 hours</strong>.</p><p>These are the main key points we want to include in our walk cycle animation:</p><p>1. Character walks naturally without any jerks</p><p>2. Good demonstration of forces and overlapping actions</p><p>3. Input of impactful details such as balancing, natural looking hands, visually appealing toe movement, subtle head motion and more.</p><p>The challenge that beginners face is juggling all these aspects at the same time. Using Bean Sprout F3R3 method, the entire walk cycle animation can be broken down into bite sizes which prevents beginners from being confused.</p><p>This course will guide you through step by step in achieving a realistic 3d walk cycle animation with Maya.</p>", 
+    "end_date": null, 
+    "title": "3D Character Walk Cycle Animation with Maya for Beginners", 
+    "price": "50.00", 
+    "instructors": "Nash Lin", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/528344_535c_3.jpg", 
+    "course_url": "https://www.udemy.com/3d-character-walk-cycle-animation-with-maya-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-15T05:17:41Z"
+}

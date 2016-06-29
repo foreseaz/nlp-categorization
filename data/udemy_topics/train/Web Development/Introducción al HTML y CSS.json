@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  ¡Curso completamente descargable!<br style=\"\">  </p>  <p>  \tTanto el lenguaje HTML como los estilos en cascada, CSS, son fundamentales para la creación de páginas web en la actualidad. Para el presente curso, no es necesario que seas experto en programación. Con que tengas una computadora con un editor de textos y una navegador (y la mayoría los tiene), puedes iniciar a aprender estos fundamentales lenguajes.  </p>  <p>  \tAquí aprenderemos desde las etiquetas básicas, las principales reglas de estilo en cascada, los selectores, unidades y validadores CSS. También analizaremos los formatos de márgenes y el modelo de caja. La navegación y formularios, asi como el flujo y posicionamiento de elementos.  </p>  <p>  \t  SECCIÓN 1 ¿De qué está hecha la web?  </p>  <ul style=\"\">  \t<li> Breve historia de Internet</li>  \t<li> Breve historia del HTML</li>  </ul>  <p>  \t<br style=\"\">  \t  SECCIÓN 2 Principios de HTML  </p>  <ul style=\"\">  \t<li>  ¿Qué es una etiqueta?</li>  \t<li>  La directiva DOCTYPE</li>  \t<li>  Los metadatos</li>  \t<li>  Comentarios en HTML</li>  </ul>  <p>  \t<br style=\"\">  \t  SECCIÓN 3 Las principales etiquetas de HTML  </p>  <ul style=\"\">  \t<li>  El manejo de párrafos con la etiqueta de párrafo &lt; p &gt;</li>  \t<li>  Los encabezados, etiquetas h1, h2, h3, h4, h5 y h6</li>  \t<li>  Enfatizar un enunciado: strong y em</li>  \t<li>  Listas ordenadas y sin orden</li>  \t<li>  Listas de definición</li>  \t<li>  Hipervínculos</li>  \t<li>  Navegar dentro de la misma página: anclas</li>  \t<li>  Manejo de imágenes, etiqueta img</li>  \t<li>  Tablas en HTML</li>  \t<li>  Otras etiquetas</li>  \t<li>  Divisiones, la etiqueta &lt; div &gt;</li>  </ul>  <p>  \t<br style=\"\">  \t  SECCIÓN 4 Formatos y colores con los estilos en cascada  </p>  <ul style=\"\">  \t<li>  Principios de los estilos es cascada</li>  \t<li>  Manejo de colores con Estilos en cascada</li>  \t<li>  Manejo de fuentes con CSS</li>  \t<li>  Modificar los links o hipertextos</li>  \t<li>  Lugares donde se pueden escribir estilos y sus reglas</li>  </ul>  <p>  \t<br style=\"\">  \t  SECCIÓN 5 Selectores y unidades de los estilos en cascada  </p>  <ul style=\"\">  \t<li>  Los selectores básicos</li>  \t<li>  Selectores compuestos, el !important y el selector global</li>  \t<li>  Unidades flexibles y fijas en CSS</li>  \t<li>  Validar estilos en cascada</li>  </ul>  <p>  \t<br style=\"\">  \t  SECCIÓN 6 El modelo de caja  </p>  <ul style=\"\">  \t<li>  Los márgenes</li>  \t<li>  Los bordes</li>  \t<li>  El padding</li>  \t<li>  La propiedad auto</li>  \t<li>  El fondo de la caja: la propiedad background</li>  </ul>  <p>  \t<br style=\"\">  \t  SECCIÓN 7 Navegación e impresión con Estilos en cascada  </p>  <ul style=\"\">  \t<li>  Crear un menú de navegación con CSS</li>  \t<li>  Simular tabuladores con CSS</li>  \t<li>  Modo de impresión</li>  </ul>  <p>  \t<br style=\"\">  \t  SECCIÓN 8 Posicionamiento y flujo  </p>  <ul style=\"\">  \t<li>  El flujo natural de las cajas</li>  \t<li>  Hacer que las cajas floten</li>  \t<li>  Posicionamiento absoluto</li>  \t<li>  Posición fija:fixed</li>  </ul>  <p>  \t<br style=\"\">  \t  SECCIÓN 9 Formato de páginas con CSS  </p>  <ul style=\"\">  \t<li>  Formatos de páginas fijos</li>  \t<li>  Introducir los contenidos y los estilos en formato fijos</li>  \t<li>  Formatos flexibles</li>  \t<li>  Tamaños máximos y mínimos</li>  \t<li>  Formatos responsivos para teléfonos inteligentes y tabletas</li>  \t<li>  Conclusión</li>  </ul>", 
+    "end_date": null, 
+    "title": "Introducción al HTML y CSS", 
+    "price": "20.00", 
+    "instructors": "Francisco Javier Arce Anguiano", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/23757_bfb9_5.jpg", 
+    "course_url": "https://www.udemy.com/introduccion-html-y-css/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-08-28T14:10:55Z"
+}

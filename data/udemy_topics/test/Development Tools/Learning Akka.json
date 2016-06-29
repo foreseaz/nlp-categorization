@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Akka helps you to build scalable, resilient, and fault-tolerant distributed systems that can provide outstanding performance on local machines as well as over remote networks. Employing the actor model, it is possible to leverage these lightweight entities to program highly available, high performance applications. It delivers a powerful scaffolding that can be used to delegate remoting, service failures, and load management so that you can focus solely on your system logic.</p><p>Learning Akka delivers a clear and practical introduction to the Akka toolkit, explaining the key components you need to know to get up and running with developing applications of your own.</p><p>We will start by looking at the actor model and how it solves concurrency problems. You will learn about the actor system, how to create hierarchical structures in Akka, and how to make routes in order to send messages to other actors. We will look at other use cases such as building an actor that can change its behavior during runtime. You will then create stateful actors, work with a cluster system, and work with remote actors. This course will also take you through testing the application with Akka testkit and making applications available over the web with Akka HTTP. Finally, we’ll employ best practices and you’ll get to know the common actor patterns used for development with Akka.</p><p>By the end of this course, you’ll have a great foundation in Akka that will enable you to develop excellent applications and services with the toolkit.</p><p><strong>About The Author</strong><br></p><p><strong>Salma </strong>is a senior software engineer with over 5 years of professional experience in development and deploying applications on the JVM using both functional and object-oriented paradigms including Scala and Java. She is specialized in designing and engineering real-time applications and distributed systems based on Akka and using frameworks and libraries like Play2,  Thrift, Vertx, Django, Rails, and multiple SQL and NoSQL storage systems, for example  MongoDB, Cassandra, Neo4J, Elasticsearch, and PostgreSQL.<br></p><p>She contributed in architecting and implementing a large real-time platform based on Akka cluster and WebSockets. She has gained experience in leading a number of agile teams to the successful delivery of several key projects.</p><p>Now, She is working on Big data application and contributing in architecting and implementing the core system based on Scala and Akka.</p>", 
+    "end_date": null, 
+    "title": "Learning Akka", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/755782_51ff_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-akka/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-08T09:22:03Z"
+}

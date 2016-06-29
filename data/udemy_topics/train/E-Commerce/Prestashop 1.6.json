@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Bienvenidos al curso de Prestashop 1.6 nivel 1. En este curso quiero enseñaros como desarrollar proyectos de comercio electrónico basados en Prestashop 1.6 de forma profesional y sin conocimientos precios. Paso a paso iremos descubriendo todo lo que este programa puede ofrecernos, desarrollaremos una tienda y la optimizaremos para que su rendimiento sea el correcto. También os mostraré aspectos básicos de la administración y otros avanzados de SEO, carga masiva de productos, copias de seguridad y restauración de la base de datos...  </p>  <p>  \t  Si quieres empezar a crear tiendas online, tanto para ti como para tus clientes, este es el punto de partida.  </p>", 
+    "end_date": null, 
+    "title": "Prestashop 1.6", 
+    "price": "20.00", 
+    "instructors": "David Piqué Garcia", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/283062_d5fd_3.jpg", 
+    "course_url": "https://www.udemy.com/curso-prestashop/", 
+    "currency": "USD", 
+    "subject_name": [
+        "E-Commerce"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-18T13:17:20Z"
+}

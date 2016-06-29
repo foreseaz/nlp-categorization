@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Create the Art</strong>  </p>  <p style=\"\">  \tJoin Justin Dike, as he teaches how to make a complete Apple Watch app from scratch. Seriously. We start with nothing, beginning in Flash with a blank scene. The course first teaches how to make a multi-layered vector clock face, complete with precise hour, minute and second hands, turning gears, the day of the week, the month and day of the month. This first section of the course essentially builds a template in Flash capable of producing hundreds of watch faces. We’ll talk about exporting images and animation sequences from the finished Flash file, and making mass changes to the file (for example, how to change the font of a label on every frame, or scale objects on multiple frames). The best part is you can make any style with this template, you are not just limited to watches with an analog clock face.  </p>  <p style=\"\">  \t<strong style=\"\">The Program It!</strong>  </p>  <p style=\"\">  \tIn this session, we will build an Apple Watch app, which is technically an extension of an iPhone app. So first we will cover everything it takes to build the watch app, then move onto programming the companion app for the iPhone. The finished Xcode project, or template, will build an iPhone app that gives users the option to choose and save a preferred face variation on the Apple Watch. So you could sell an app that has multiple clock faces, adding extra value to your buyer’s purchase.  </p>  <p style=\"\">  \tBoth parts of this session discuss importing the images exported from the first session, layering them in the Apple Watch interface controller / iPhone view controller, programming each element, and working with NSUserDefaults to save preferences for the preferred watch variation.  We will also look at some optional add-ons, such as sounds, programming labels, swiping through multiple watch screens and opening new views on the watch.  </p>  <p style=\"\">  \tThe course also discusses some essentials for first-time app developers. Topics include: generating provisioning profiles, adding / changing bundle identifiers,  adding the app listing to iTunes connect, submitting the app to Apple, and everything else we could think of to make working with Xcode for the first time as easy as possible.  </p>  <p style=\"\">  \tIn this session, we will build an Apple Watch app, which is technically an extension of an iPhone app. So first we will cover everything it takes to build the watch app, then move onto programming the companion app for the iPhone. The finished Xcode project, or template, will build an iPhone app that gives users the option to choose and save a preferred face variation on the Apple Watch. So you could sell an app that has multiple clock faces, adding extra value to your buyer’s purchase.  </p>  <p style=\"\">  \tBoth parts of this session discuss importing the images exported from the first session, layering them in the Apple Watch interface controller / iPhone view controller, programming each element, and working with NSUserDefaults to save preferences for the preferred watch variation.  We will also look at some optional add-ons, such as sounds, programming labels, swiping through multiple watch screens and opening new views on the watch.  </p>  <p style=\"\">  \tThe course also discusses some essentials for first-time app developers. Topics include: generating provisioning profiles, adding / changing bundle identifiers,  adding the app listing to iTunes connect, submitting the app to Apple, and everything else we could think of to make working with Xcode for the first time as easy as possible.  </p>", 
+    "end_date": null, 
+    "title": "The Artist's Guide to Making an Apple Watch App", 
+    "price": "20.00", 
+    "instructors": "Justin Dike", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/426546_3e4f_2.jpg", 
+    "course_url": "https://www.udemy.com/applewatchapps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-19T02:45:36Z"
+}

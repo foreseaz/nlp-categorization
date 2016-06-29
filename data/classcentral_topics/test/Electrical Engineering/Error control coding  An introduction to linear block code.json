@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Electrical Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    Error control coding is an indispensible part of any digital communication system. In this introductory course, we will discuss theory of linear block codes, their encoding and decoding techniques as well as their applications in real world scenarios. Starting from simple repetition codes, we will discuss among other codes capacity approaching low density parity check codes. We will also discuss bounds on number of codewords given codeword length and minimum distance of code. \n\n                                            Syllabus\n                        Week 1:Lecture 1: Introduction to error control codingLecture 2: Introduction to linear block codes, generator matrix and parity check matrixLecture 3: Properties of linear block codes: syndrome, error detection, error correction\r\nWeek 2:Lecture 4: Decoding of linear block codesLecture 5: Distance properties of linear block codes\r\nWeek 3:Lecture 6: Some simple linear block codes: Repetition codes, Single parity check codes, Hamming codes, Reed Muller codesLecture 7: Bounds on size of codes: Hamming bound, Singleton bound, Plotkin bound, Gilbert-Varshamov bound\r\nWeek 4:Lecture 8: Low density parity check codesLecture 9: Decoding of low density parity check codes: Belief propagation algorithmLecture 10: Applications of linear block codes\n                                    ", 
+    "end_date": "2016-04-11T00:00:00Z", 
+    "title": "Error control coding: An introduction to linear block code", 
+    "price": 0, 
+    "instructors": "Adrish Banerjee", 
+    "institution_name": [
+        "IIT (Indian Institute of Technology, Kanpur)"
+    ], 
+    "commitment": "2-3 hours", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://onlinecourses.nptel.ac.in/noc16_ec03", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "NPTEL"
+    ], 
+    "start_date": "2016-03-14T00:00:00Z"
+}

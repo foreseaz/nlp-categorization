@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this Building Microservices with Clojure and Pedestal training course, expert author Scott Rehorn will teach you how to set up, modify, and deploy a basic microservice based on Clojure and Pedestal. This course is designed for users that already have programming experience.</p>\n\n<p>You will start by learning about the stack and toolchain, then jump into using Pedestal. From there, Scott will teach you how to use Pedestal as a web services framework to handle request and response routing and content handling. This video tutorial also covers persistence, how to protect your endpoints with a simple API key strategy, and how to use XML in Clojure. Finally, you will learn about Java Interop. </p>\n\n\n\n<p>Once you have completed this computer based training course, you will be fully capable of setting up, modifying, and deploying a microservice with Clojure and Pedestal. </p>", 
+    "end_date": null, 
+    "title": "Building Microservices with Clojure", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/807600_d871_3.jpg", 
+    "course_url": "https://www.udemy.com/building-microservices-with-clojure/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-29T20:59:50Z"
+}

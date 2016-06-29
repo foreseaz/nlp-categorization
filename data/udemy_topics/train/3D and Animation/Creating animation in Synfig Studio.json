@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>In this course you will learn how to create 2D animation using Synfig Studio animation software package. </p><p>Synfig Studio is a free and open-source application available for Windows, Linux and Mac OSX. By this moment it's known as the most powerful free tool for 2D animation. Do you want to create your own animated movie, or just animated postcard, or animation for a game? You can use Synfig Studio anywhere without limitations - at home, at work or at school.</p><p><strong>Create your own animation using Synfig Studio</strong></p> <ul><li>Learn all basic principles of creating animation of Synfig Studio.</li><li>Build and animate heroes for your animation.</li><li>Learn the basic and everyday animation skills, like face animation and walkcycle.</li></ul><p><strong>Cutout (sprite) animation technique</strong></p><p>In this course I will show you how to create animation constructed from bitmap images. This approach is called \"cutout\" or \"sprite\" technique. Cutout technique is known to be the fastest way to create animation and at the same time it's the easiest way to learn it. Despite it's simplicity, the cutout technique remains very expressive and used by many creators to create exciting animation.</p><p><strong>Contents and Overview </strong> </p><p>This course is created for people who would like to learn how to use Synfig Studio in a short time. It equally fits for those who just starting to learn computer animation, as well as for established artists who would like to master cutout technique with the free and opensource software.</p><p>The course will guide you from the very basics of application interface to the techniques of creating character animation and some advanced features. The sample files are also included, so you will be able to work alongside with instructor during the course. Also, all the lectures in the course are available for downloading and watching offline. </p><p>For your convenience the course includes subtitles in English, Spanish, Italian, and French.</p><p>This course is not for you if you would like to learn the technique of frame-by-frame (traditional) animation.</p><p><b>Credits:</b></p><ul><li>Written and recorded by: Konstantin Dmitriev</li><li>Translated by: Anna Orlova </li><li>Narrated by: Terry Hancock</li></ul>", 
+    "end_date": null, 
+    "title": "Creating animation in Synfig Studio", 
+    "price": "20.00", 
+    "instructors": "Konstantin Dmitriev, Anna Orlova", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/121618_1532_6.jpg", 
+    "course_url": "https://www.udemy.com/synfig-studio-cutout-animation-en/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-18T12:34:48Z"
+}

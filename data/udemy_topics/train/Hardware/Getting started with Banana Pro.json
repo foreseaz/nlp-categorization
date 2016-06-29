@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>T<strong>his is an introductory course about the credit card sized Banana Pro.</strong> This course is useful for those who are interested in exploring the possibilities of Banana Pro as a computer. The course does not assume any prior knowledge of computers or programming. However, a knowledge of Linux operating system and Python programming language would greatly help you in getting up to speed.</p><p>The course will teach you to hook up the Banana Pro with a keyboard and monitor so that you can use it as a low-cost computer. You will also learn how to step into the world of physical computing something that you normally do not do with your home computer or laptop.</p><p><strong>You will learn to build two complete projects.</strong> The first one teaches you how to make a magic candle and turn it ON or OFF by just blowing air as you do in birthday parties. By doing this, you will learn how to code and interact with physical devices such as sensors. </p><p>The second project involves building a smoke and gas detector with e-mail notifier to enhance the safety in your kitchen area. You will use the Banana Pro to design the circuit and Python program to code the sensor.</p><p>You will also learn how to install Android operating system in your Banana Pro and experience the Android interface. </p><p><strong>The course provides complete source code for both the projects.</strong></p><p>The entire course can be completed within a week, including the hardware assembly for the magic candle and smoke sensor.</p><p>By the end of this course, you will learn how to boot and wire up a Banana Pro and write your own Python code to interact with physical world.</p>", 
+    "end_date": null, 
+    "title": "Getting started with Banana Pro", 
+    "price": "20.00", 
+    "instructors": "Venkatesh Varadachari, Satyajeet Sah", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/771454_3b67_2.jpg", 
+    "course_url": "https://www.udemy.com/getting-started-with-banana-pro/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-23T08:49:52Z"
+}

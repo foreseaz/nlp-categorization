@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course teaches you how to create desktop and web-based applications using Java Swing, Java&#039;s built-in user interface toolkit. Each tutorial is fairly self-contained; but we&#039;ll also build two complete applications step by step along the way, so you can choose either to work through the whole course or to dip in and out.</p>    <p>Among other things we&#039;ll look at nearly all Swing widgets, we&#039;ll take a look at JDBC for database access, the graphics API, model-view-controller (MVC) architecture, serialization for saving data, the listener-event model and even basic animation.</p>    <p>When you finish the course, you&#039;ll be an advanced Swing developer, capable of creating complex and scalable Swing GUI applications.</p>  ", 
+    "end_date": null, 
+    "title": "Java Swing (GUI) Programming: From Beginner to Expert", 
+    "price": "35.00", 
+    "instructors": "John Purcell", 
+    "commitment": "14 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/18237_c39e_10.jpg", 
+    "course_url": "https://www.udemy.com/java-swing-complete/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-05-21T13:33:56Z"
+}

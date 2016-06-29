@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong><em>Notice</em></strong>: <em>Course fully updated at <strong>02/04/2015</strong>, so make sure to join our <strong>over 6K students</strong> now, that many many of them left <strong>5 shining stars</strong> and start your <strong>+</strong><strong>11Hours</strong> training and more important, don't forget to test your skills by taking our <strong>well structured quizzes</strong>.</em></p><p><em># <strong>30 day</strong> money-back guarantee, no questions asked. <strong>Enroll Now</strong>!</em></p><p><strong>___________________________________________________________________________________________________________________</strong></p><p>Simple language to learn and implement, Java facilitates portages and integrates with many execution environments. You will find it on servers as well as on the Android platform, because of its richness and the many classes it offers to work with the system, manage the network communications, manage files, etc.<span></span></p><p>In this training Abderrahim Lahrach will start with generalities about the use of development tools based on Eclipse, and you can also work on NetBeans or simply do everything from the command line. You should install the JDK or Java Development Kit, Version 8 preferably for the code to be compiled for the training without fail. You will cover the basic syntax concepts, variables, methods, packages, inheritance, and much more. Java provides several primitive types, which are not treated as objects, but which are accompanied by classes that can handle them. </p><p>Controlling the flow of execution is fairly standard, and the strings are the subject of a specific treatment. You will then be focusing on object orientation, and the syntax that allows you to obtain this reliable, efficient, maintainable and scalable code. Before addressing some framework classes, you will discover exceptions, error handling mechanism well known and very effective. Finally, you will explore the framework by presenting some core classes, collections, access to the system, dates and formatting, files that are processed by many classes.<span></span></p><p>With the knowledge assimilated in this support, and no doubt the knowledge of specific libraries to your application, you will be able to maintain existing code, or produce a Java application! </p><p><br></p><p>After finishing with Java fundamentals with Java 8 and you already have a good idea of the possibilities of Java 8 and you are curious to discover the main new features of this release.<span></span></p><p>We will talk about all the new concepts and new syntaxes that were introduced in Java in version 8. The language is impacted by the new syntax, particularly around the notion of regular expression. This way of introducing very short body functions and describing when the developer in need, is particularly original in Java. The notion of reference method is also very remarkable. The stream classes will also bring you a lot allowing to chain operations, with or without modification, on data sets.<span></span></p><p>Functional programming is not far away, even if these developments are fully integrated into the language.</p><p>With functional interfaces, we are faced with a different way of programming. As for the library, we will talk about time management classes. Date, Chronology, and other formatting tools give you a real-time power in Java.</p><p> I hope this training will help you understand the new Java.</p><p>Let's start now! I wish you all a very good training! </p><p><br></p><p>*You can download all the resources of this training in the <em>download area</em>.</p><p><em>Last but not least, here's some of the interesting facts about Java that will make you even more excited to join us right away:</em></p><ul><li>Java developers are making over $103,486/year</li><li>#1 Development Platform</li><li>1 Billion Java Downloads per Year</li><li>3 Billion devices run Java</li><li>97% of Enterprise Desktops run Java</li></ul><p>So are you excited as I'm now to learn Java from scratch with Java 8? <em>Let's get started <strong>Now</strong>!</em></p><p><em><strong>Note again</strong>: We're very confident to give you a <strong>30 days</strong> money-back guarantee, no questions asked, so make sure to <strong>Enroll Now!</strong></em></p><p><em><strong></strong></em></p>", 
+    "end_date": null, 
+    "title": "The Complete Java Tutorial with Java 8", 
+    "price": "20.00", 
+    "instructors": "Insane IT Skills", 
+    "commitment": "12 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/366112_293a_13.jpg", 
+    "course_url": "https://www.udemy.com/java-essential-training-with-java-8/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-08T20:40:50Z"
+}

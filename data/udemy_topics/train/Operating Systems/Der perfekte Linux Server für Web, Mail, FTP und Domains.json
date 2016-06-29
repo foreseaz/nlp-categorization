@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Sie haben eine Internet Domain ? Sie sind Administrator oder Technikbegeistert ? Sie wollen Ihre Webseiten oder Daten auf Ihren eigenen Servern verwalten und nicht an fremde Firmen abgeben?</strong></p><p><strong></strong><strong>Dann lernen Sie die Werkzeuge der Linux-Systemadministration kennen und verwenden. Installation und Konfiguration eines neuen Linux Systems stellen für Sie kein Problem mehr dar. Erlernen Sie das wissen um ein perfekten Linux Server zu Installieren für Sie Privat oder als Firma. Verwenden Sie eine Vielzahl von Internet-Technologien um Ihren Server optimal und effizient zu administrieren.</strong></p>\n\n<ul><li>Einsteigerfreundlich Kurs mit Schritt-für-Schritt Anleitung</li><li><strong></strong>Installation eines echten Linux Systems in einer Virtuellen und Live-Umgebung</li><li>Installation des Web-, Mail-, Domain-, FTP-Servers</li><li>Anwenden eines intuitiven Administrations Interface</li><li>Innerhalb weniger Stunden zu Ihrem perfekten privaten Server</li></ul>", 
+    "end_date": null, 
+    "title": "Der perfekte Linux Server für Web, Mail, FTP und Domains", 
+    "price": "20.00", 
+    "instructors": "René Fürst", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/504536_a8c2_2.jpg", 
+    "course_url": "https://www.udemy.com/der-perfekte-linux-server/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-17T16:34:41Z"
+}

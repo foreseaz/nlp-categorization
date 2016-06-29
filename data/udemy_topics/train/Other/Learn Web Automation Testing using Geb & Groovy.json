@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>We are living in the era of Twitter and Facebook where every single profile update have its reach to billions of people and every second companies are deploying new features and functionality to lure new customer and this is only possible if process are automated. So in the chain of automation Geb has also given a small push to automated web application with it rich groovy DSL Support...Geb is going to be you next best automation tool after Selenium WebDriver if your are familiar with difficulties of Java and if you want easy and readable code that could make sense to any one quite easily..So this would be best trade off. Since you are going to have idea of two tools in the cost of one.</p>\n\n<p>Benefits of taking this course<br></p><p>1- You would be able to tap every feature of Selenium WebDriver if some time you have to switch in to Selenium WebDriver.<br></p>\n\n\n\n<p>2- Fastest element locators in form of Navigator api (It is pretty similar to jQuery)<br></p>\n\n\n\n<p>3- It would provide an easy gateway to implement page object model in your project quite easily in comparison to Selenium WebDriver</p>\n\n\n\n<p>4- Expressive features of Groovy.</p>", 
+    "end_date": null, 
+    "title": "Learn Web Automation Testing using Geb & Groovy", 
+    "price": 0, 
+    "instructors": "Dwarika Dhish Mishra", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/794024_7a66_4.jpg", 
+    "course_url": "https://www.udemy.com/geb-spock/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-15T20:09:44Z"
+}

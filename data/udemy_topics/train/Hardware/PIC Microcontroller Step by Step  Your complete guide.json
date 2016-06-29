@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Course Description</p><p>The PIC Microcontroller is an electronic device that is easy-to-use in both hardware and software. Sensing the environment by receiving inputs from many sensors, PIC Microcontroller affects its surroundings by controlling lights, motors, and a number of other accessories. It's intended for anyone making interactive hardware projects by connecting it with a power source, few leds and resistors.</p><p> This course is designed to introduce the PIC Microcontroller hardware and programming environment to get you started on building projects as soon as possible.</p><p> Unleash Your Inner Hero With this Course</p><ul><li>PIC Microcontroller Inner structure and Programming Introduction</li><li>Leds, Resistors and Pushbuttons</li><li>LCD Screens and Seven Segment Displays</li><li>Motor and Keypad.</li><li>DIY Projects and Quick Tips</li></ul><p> A Tool for Creating Any Device Imaginable  become a favorite of electronic Students and anyone interested in Device manufacturing because of their ease of use and extremely low cost.</p><p> Example projects include Ardupilot, a UAV platform able to control aerial drones.</p><p> Contents and Overview  This course is designed for anyone interested in learning electronic design. No experience is required, and all you need is PIC Microcontroller and several low cost components.</p><p> With hours of content in many lectures, this course will take you from zero experience in electronics or programming to PIC Microcontroller Master.</p>", 
+    "end_date": null, 
+    "title": "PIC Microcontroller Step by Step: Your complete guide", 
+    "price": "20.00", 
+    "instructors": "Ashraf Al-Madhoun", 
+    "commitment": "50.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/540136_ea95_2.jpg", 
+    "course_url": "https://www.udemy.com/master-pic-microcontroller-using-mikroc-protuesprofessional/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-29T11:34:45Z"
+}

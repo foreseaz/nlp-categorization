@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t This Microsoft Excel – Tables Deep Dive training course from Infinite Skills takes you beyond the basics of Excel, diving deep into creating and using tables in this powerful spreadsheet program. This course is designed for users that already have a basic working knowledge of Excel.  </p>  <p>  \t <br>  \t You will start out by the learning the basics of Excel tables, such as how to prepare data for tables, creating and naming tables, and converting tables back to ranges. From there, you will move into working with table records, including how to add and delete records, use the data entry form, and sort and filter table records. Erin will teach you how to format tables and modify and create custom and default table styles. This video tutorial will also teach you table calculations, including how to create calculated columns, understand structured references, and work with table rows. Finally, you will learn how to work with table tools, such as moving tables, removing duplicates, and how to create charts from tables.<br>  \t <br>  \t By the completion of this computer based training course, you will be fully capable of creating, using, modifying, and customizing tables in Excel. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Microsoft Excel - Tables - Deep Dive", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/132368_2e60_10.jpg", 
+    "course_url": "https://www.udemy.com/microsoft-excel-tables-deep-drive/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-11T16:11:45Z"
+}

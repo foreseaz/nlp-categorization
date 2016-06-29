@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>If you are interested on how to create an advanced webpage, like facebook, instagram or a blog, portal etc... then you are in the right place.<br>I am explaining you step by step how to get the job done.<br>In this course you will learn all the secrets I use and the right way to bring your website to life.</p><p>As an example, on this course I'm creating a News blog, but if you learn it properly and if you understand exactly what I am doing, you will be able to create whatever website you want, like: Social Network, Online Store, File Transfer website etc.....</p><p>Note: The only thing that changes in social network from our example is that we have to use sessions and our MySQL table needs to be designed for relations. If you want to see that, I will be more than happy to make a tutorial for you.</p><p>You will learn how to create your local sever, how to create your database in phpmyadmin and how to set a new project in Dreamweaver.<br>Then we will jump on HTML &amp; a little bit of css (matter of time) and finally we will develop our web application using PHP. </p><p>You will learn how to properly create MySQL database, tables and add records, then you will be able to fetch data from that table or any table you may have.<br><br></p><p>I'd like to thank you guys, personally for your participation and if you have a question, feel free to ask me. I will be able 24/7 for you.</p>", 
+    "end_date": null, 
+    "title": "Learn PHP as a master", 
+    "price": "20.00", 
+    "instructors": "Nedim Dauti", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/496342_46bc_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-php-as-a-master/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-07T23:18:18Z"
+}

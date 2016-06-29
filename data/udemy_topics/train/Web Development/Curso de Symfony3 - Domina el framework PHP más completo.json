@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Bienvenido al curso de <strong>Symfony3</strong>, vas a <strong>aprender paso a paso como desarrollar\naplicaciones web</strong> con este framework para PHP.<br></p><p>Symfony es <strong>uno de los frameworks más</strong> <strong>conocidos</strong> y más<strong> completos</strong> del mercado\nactual. Son muchas las ventajas que tenemos al trabajar con él, como por ejemplo la\nfilosofía de <strong>buenas prácticas</strong>, MVC, abstracción de la base de datos con\nDoctrine <strong>ORM</strong>, sistema de plantillas con Twig, arquitectura modular de las\naplicaciones, y mucho más.</p><p>Este es un<strong> curso de Symfony 3</strong>, la <strong>nueva versión</strong> de Symfony, pero <strong>también es\nun curso de Symfony2</strong> ya que la metodología de trabajo es prácticamente igual y\ncontinuamente se hace referencia a la versión 2 del framework en los vídeos. Además todo lo\nque veamos en el curso <strong>funcionará también en la versión 2.8</strong> de Symfony.</p><p>Al finalizar el curso<strong> serás capaz de desarrollar tus propias\naplicaciones web completas con Symfony3 </strong>y modificar proyectos de otros programados con este framework.</p><p>Sin duda este es <strong>el curso más </strong><strong>completo</strong> que he encontrado acerca de Symfony.\nEstá diseñado para que <strong>aprendas a desarrollar aplicaciones web para el mundo\nreal</strong>, no estaremos continuamente generando el código con la consola, sino que lo haremos\nnosotros para <strong>que no te quedes con dudas</strong>.</p><p>En este curso aprenderás realmente a programar con este framework y está diseñado para <strong>que no te cueste tanto esfuerzo aprenderlo como a mí me costó</strong> hace años, tratando de aprender Symfony2. </p><p>Sí, <strong>es un\nframework complejo, pero para eso he creado este curso</strong>, para acelerar tu\naprendizaje y <strong>que lo asimiles todo paso a paso</strong>, y al final seas capaz de\ntrabajar con Symfony.<br></p><p>Se tratan<strong> desde los aspectos más básicos y sencillos hasta los más\navanzados</strong>, por tanto no es necesario que sepas nada de Symfony para aprender a\nusarlo, aunque si que necesitarás saber PHP y saber de que va el patrón Modelo\nVista Controlador y la programación orientada a objetos para aprovechar al 100%\neste curso.</p><p>Durante las <strong>más de 11 horas y media del curso verás muchísimos ejemplos prácticos.</strong> Iremos usando cada una de las partes fundamentales del framework y haremos\nun ejemplo en cada una de ellas.</p><p>Además en uno de los capítulos del curso <strong>desarrollaremos una aplicación web\ncompleta desde cero,</strong> para unir todas las piezas del puzzle. </p><p>Crearemos una aplicación web tipo blog que tendrá gestión de entradas o\nartículos, gestión de categorías, <strong>sistema de etiquetas, </strong><strong>login y registro</strong> de\nusuarios, listados paginados, etc.</p><p>Abordaremos el desarrollo de esta aplicación partiendo desde cero, desde el <strong>diseño y\ncreación de la base de datos</strong>, creación de bundles y entidades,  <strong>relaciones con Doctrine ORM</strong>, trabajo con el\nsistema de rutas, hasta la programación de cada uno de los <strong>CRUDs  paso a paso</strong>, utilizando Symfony3 y <strong>basándonos en buenas prácticas</strong>.</p><p>Si quieres <strong>aprender Symfony sin dolor</strong>, practicando <strong>poco a poco</strong>, subir de\nnivel en el desarrollo backend con PHP y <strong>aumentar tus oportunidades laborales</strong> ¡Este\nes tu curso!</p><p>Échale un vistazo al currículo del curso para ver todos temas que aprenderás.</p><p>Únete al curso y <strong>sube de nivel</strong>: ¡¡ Aprende <strong>Symfony3</strong> !!</p>", 
+    "end_date": null, 
+    "title": "Curso de Symfony3 - Domina el framework PHP más completo", 
+    "price": "50.00", 
+    "instructors": "Víctor Robles", 
+    "commitment": "12 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/690484_0388_2.jpg", 
+    "course_url": "https://www.udemy.com/curso-de-symfony3-domina-el-framework-php-mas-completo/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-06T19:05:20Z"
+}

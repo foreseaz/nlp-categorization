@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t              This class will teach you how to create a forensic virtual machine using Paladin and other free software in under one hour.  Paladin is a pre-made computer forensic platform loaded with Linux-based forensic tools, so why not have it at the ready as a virtual machine for when you need it?  You can create it in a few easy steps and once you get the hang of it you may create other virtual machines using many of the common forensic boot discs that are available.  </p>  <p>  \t      The class begins with a brief background on Virtualbox and Paladin to give you a basic understanding of not only where to find and download the software, but the benefit of both programs.  In particular, Paladin is filled with many forensic tools and getting an overview of what Paladin has to offer let&#039;s you more fully appreciate it as a computer forensic platform.  Understanding Virtualbox will allow you to use this tool beyond the scope of this lesson.  It will also reduce the learning curve in getting your virtual machines set up and running smoothly.  After this it is all hands-on.  Videos will walk you through setting up Virtualbox and linking it to the Paladin .ISO.  </p>  <p>  \t      In this class you will learn:  </p>  <ul style=\"\">  \t<li>How to set up Virtualbox to boot to .ISO images</li>  \t<li>How to run Paladin as a virtual machine</li>  \t<li>Learn about Paladin as a forensic platform</li>  \t<li>Get an introduction to the forensic tools on Paladin</li>  \t<li>Get an introduction to the Paladin Toolbox</li>  \t<li>Learn some basic trouble shooting tip when using Virtualbox to keep your .ISO based machines running smoothly</li>  </ul>", 
+    "end_date": null, 
+    "title": "Surviving Digital Forensics: Paladin Virtual Machine", 
+    "price": "30.00", 
+    "instructors": "Michael Leclair", 
+    "commitment": "34 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/189894_93d9_6.jpg", 
+    "course_url": "https://www.udemy.com/surviving-digital-forensics-paladin-virtual-machine/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-27T20:09:51Z"
+}

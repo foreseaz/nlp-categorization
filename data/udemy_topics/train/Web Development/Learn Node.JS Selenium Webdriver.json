@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Using Selenium you can avoid boring web-based administration tasks <span>and manual testing. Primarily, it is for automating web applications. You can schedule Selenium to test your application and make sure it's up and running. You can also create automated bots to do the job for you!</span></p><p>You will learn how to work with <strong>Selenium WebDrive</strong>r, how to create your own tests and best practices. Learn how to work with <strong>promises</strong>, how to find links and elements and how to take a <strong>screenshot </strong><strong>using Node.JS and Selenium</strong>! It will be very usefull for your<strong> test reports!</strong></p><p>And the most amazing part of this tutorial is... you will <strong>build your own registration bot from scratch!</strong></p><p>By the end of this course, you will also learn how to work with <strong>Jasmine</strong>!</p>", 
+    "end_date": null, 
+    "title": "Learn Node.JS Selenium Webdriver", 
+    "price": "20.00", 
+    "instructors": "IO LEARN", 
+    "commitment": "35 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/750294_3fd5.jpg", 
+    "course_url": "https://www.udemy.com/learn-nodejs-selenium-webdriver/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-02T17:02:23Z"
+}

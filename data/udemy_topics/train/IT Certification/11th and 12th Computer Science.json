@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t              This course clarifies basic concepts in Computer Science. Concepts are explained with examples that teens can relate to. Target audience is 11th and 12th grade students and their parents. This course explains students why is it important to learn a given topic or concepts. How learning these concepts will help them? Once students are convinced about this, they take interest in learning. Students may not like to accept this but they understand Marathi better. They join English medium schools and colleges because that is what is needed in the job market. Here, we have taken liberty to teach in Marathi but using English keywords. This way, Marathi speaking children can get best of both the worlds.  </p>  <p>  \t              This course explains each of the below topics with examples:  </p>  <p>  \t* What is software development life cycle? What is the role played by individuals? What are the different mile stones in the project? What is the documentation required? This is the most important section for student as it sets up the background and gives top level view about computer science.  </p>  <p>  \t            * Comparison between physical and digital world  </p>  <p>  \t            * Need for data structures  </p>  <p>  \t            * Types of data structures: Array, List and Hash  </p>  <p>  \t      * Feature and use of each type of data structure  </p>  <p>  \t            * Operations on data structure  </p>  <p>  \t            * Bubble sort  </p>  <p>  \t            * Binary search  </p>  <p>  \t        * Top view of web development  </p>  <p>  \t        * Where does HTML, javascript fits into the big picture  </p>  <p>  \t        * Theoretical information about HTML  </p>  <p>  \t        * Advantages and disadvantages of HTML  </p>  <p>  \t        * Types of editors used for HTML  </p>  <p>  \t        * Explanation of important tags like BR, B, UL, OL, LI with example. Each example shows what is written in the html and how browser interprets those tags.  </p>  <p>  \t              This course is expected to grow multifold based on feedback from parents and teachers. We have also included multiple choice questions at the end of every section. This is to ensure that students remember what they learnt.  </p>", 
+    "end_date": null, 
+    "title": "11th and 12th Computer Science", 
+    "price": "50.00", 
+    "instructors": "Aniruddha Pimpalkhare", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/372116_6d5e_2.jpg", 
+    "course_url": "https://www.udemy.com/11-12-comp-science/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-17T05:48:22Z"
+}

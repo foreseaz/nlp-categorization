@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t    This is the first in a series of courses for technical writers who want to learn how to write API documentation. This course teaches how to document structured data, focusing on the two most popular structured data formats: JSON and XML. If you are new to API documentation, this is a great place to start. No programming experience is required, but technical writers with programming experience who want to know more about structured data will still find it useful.  </p>  <p style=\"\">  \t<strong style=\"\">What are APIs?</strong>  </p>  <p style=\"\">  \t    APIs (Application Program Interfaces) define how software systems talk to each other, and API documentation is a rapidly growing field. There is a strong need for writers who can understand APIs and explain them so that software developers can understand how to use them. API writers get to be in on the cutting edge of technology in high-paying positions.  </p>  <p style=\"\">  \t<strong style=\"\">What is in This Course?</strong>  </p>  <p style=\"\">  \t      By the end of the course, you will understand what APIs are, why they are important, and how to read and document structured data. In this course you&#039;ll find:  </p>  <ul style=\"\">  \t<li style=\"\">Eight videos that:  \t<ul style=\"\">  \t\t<li style=\"\">Provide background information on APIs and structured data</li>  \t\t<li style=\"\">Break down sample JSON and XML files to show you how they work</li>  \t\t<li style=\"\">Show real-time, narrated writing of JSON and XML documentation</li>  \t</ul>  \t</li>  \t<li style=\"\">Four hands-on exercises to lead you through building and documenting JSON and XML files</li>  \t<li style=\"\">Two text-based lectures about useful software tools</li>  \t<li style=\"\">Five short quizzes to keep you on your toes </li>  \t<li style=\"\">PowerPoint presentations as a resource for every video lecture</li>  </ul>  <p style=\"\">  \t      The course takes approximately 2.5 hours to complete, depending on how fast you are with the exercises.  </p>", 
+    "end_date": null, 
+    "title": "Learn API Technical Writing: JSON and XML for Writers", 
+    "price": "25.00", 
+    "instructors": "Peter Gruenbaum", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/374222_0afa_3.jpg", 
+    "course_url": "https://www.udemy.com/api-documentation-1-json-and-xml/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-20T00:18:19Z"
+}

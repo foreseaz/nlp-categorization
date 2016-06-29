@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    Le Big Data, tout le monde en parle et pourtant, nous ne réalisons pas à quel point ces nouvelles technologies nous touchent tous les jours. Sans que nous y ayons pris garde, nos vies sont devenues de plus en plus « digitales » et génèrent un flot ininterrompu de données. Ce déluge de données serait-il en train de révolutionner notre façon d’expérimenter et de comprendre le monde, voire... De le prédire ?\r\nQu’est-ce que le Big Data ? Peut-on prévoir le monde avec Big Data ? Pourquoi dit-on que le monde devient algorithmique ? Y a-t-il un risque de dérive pour notre vie privée ? C’est ce que vous allez découvrir dans ce cours ludique, à travers de nombreux exemples réels qui semblent pourtant tout droit sortis de films de science-fiction !\r\nEt si le cinéma hollywoodien avait justement anticipé cette révolution du Big Data, et qu’il nous livrait toutes les clés pour le comprendre ?\n\n                                    ", 
+    "end_date": "2015-11-10T00:00:00Z", 
+    "title": "Comprendre le Big Data à travers les films de cinéma", 
+    "price": 0, 
+    "instructors": "Xavier Perret", 
+    "institution_name": [
+        "ENSAE-ENSAI Formation Continue"
+    ], 
+    "commitment": "2 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://openclassrooms.com/courses/comprendre-le-big-data-a-travers-les-films-de-cinema", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "OpenClassrooms"
+    ], 
+    "start_date": "2015-10-13T00:00:00Z"
+}

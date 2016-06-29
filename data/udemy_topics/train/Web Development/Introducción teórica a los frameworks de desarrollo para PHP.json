@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Bienvenido al curso <strong class=\"redactor-inline-converted\">introducción teórica a los frameworks</strong> de desarrollo para PHP.</p>\n\n<p>En este curso vamos a aprender los <strong class=\"redactor-inline-converted\">conceptos básicos que necesitamos para empezar a trabajar con frameworks</strong> de desarrollo.</p>\n\n\n\n\n\n<p>Este curso no es práctico es decir no vamos a estar tirando líneas de código sino que vamos a aprender los conceptos teóricos que necesitamos y las ventajas y desventajas que tiene el desarrollo con <strong class=\"redactor-inline-converted\">frameworks para PHP</strong>.</p><p>Actualmente existen multitud de frameworks para PHP como <strong class=\"redactor-inline-converted\">Symfony3</strong> o Zend Framework 2, que <strong class=\"redactor-inline-converted\">dan muchisimas oportunidades laborales</strong> en el mercado de trabajo de España y Latino America. Analizaremos lo que nos ofreden en cada una de las clases.</p><p>El curso va dirigido a cualquiera que quiera saber las ventajas y desventajas de usar este tipo de tecnologias, pero <strong>no es necesario ningún conocimiento complejo</strong>, con saber un poco de PHP bastará.<br></p>\n\n\n\n<p>Echale un vistazo al programa del curso para ver todos los temas que trataremos <strong class=\"redactor-inline-converted\">¡nos vemos dentro!.</strong></p>\n\n\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Introducción teórica a los frameworks de desarrollo para PHP", 
+    "price": 0, 
+    "instructors": "Víctor Robles", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/755456_7ed6.jpg", 
+    "course_url": "https://www.udemy.com/introduccion-teorica-a-los-framework-de-desarrollo-para-php/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-07T23:13:13Z"
+}

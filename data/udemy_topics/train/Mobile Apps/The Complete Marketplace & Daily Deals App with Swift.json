@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>The Complete Marketplace &amp; Daily Deals App with Swift</p><p>At the end of day, We will have a real world shopping app that will be used to search and compare hundreds of products and also list daily deals available from a bunch of shopping sites.</p><p>This will be a Tabbed Application and I want to have five main screens in our app. </p><p><strong style=\"\">Home Screen</strong></p><p>We will use tab bar controller for transitions from one view to others. We will also use the UIScrollView component in this screen.</p><p>We will have a carousel that list trend collections by using ıcarousel public api and have best deals and todays deals section in the home screen like carousel. </p><p>The last thing we will show is how we can integrate google mobile ads with our application</p><p><strong style=\"\">Stores Screen</strong></p><p>We will list our store logos in a nice grid view that have two columns for each row.</p><p>So I am going to use the UICollectionView class that offers developers flexibility to present items using customizable layouts. </p><p>Next, I am going to show you When a user taps a store logo, the application will bring up a new view and display the products of store that we just clicked.</p><p>Also I am going to show you When a user taps a product, the application will bring up a new view and display the product details. </p><p><strong style=\"\">Trends Screen</strong></p><p>In this screen We will list our store collections in a UITableView UI element.</p><p>Also, I am going to show you When a user taps a collection, the application will bring up a new view and display the products of collection that we just clicked.</p><p>And the next thing I am going to show you When a user taps a product, the application will bring up a new view and display the product details </p><p><strong style=\"\">Search Screen</strong></p><p>In the mobile app world, people want their information fast!</p><p>With large datasets, scrolling through massive lists becomes slow and frustrating – so it&#039;s vitally important to allow users to search for specific items.</p><p>Search screen which seamlessly integrates table view search and allows for quick, responsive filtering of information.</p><p><strong style=\"\">About Screen</strong></p><p>In this screen you can see my contact information. </p>", 
+    "end_date": null, 
+    "title": "The Complete Marketplace & Daily Deals App with Swift ", 
+    "price": "20.00", 
+    "instructors": "Selçuk Han", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/552448_751b_3.jpg", 
+    "course_url": "https://www.udemy.com/the-complete-marketplace-daily-deals-app-with-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-12T12:11:36Z"
+}

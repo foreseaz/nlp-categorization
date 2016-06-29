@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Una de las formas más apasionantes de aprender un lenguaje de programación es desarrollando juegos. Este curso enseña de forma amable, amena y eficiente el desarrollo de juegos para Facebook utilizando los métodos más recomendados para su creación utilizando el framework de Adobe Flash. Estas entrando de lleno en el corazón de las nuevas tecnologías, ya que el mercado mundial de los juegos para dispositivos móviles no deja de aumentar y es un sector que mueve más millones que la industria del cine y la música juntos. Accedes a un sector con una demanda de profesionales en constante crecimiento.</p><p>Al final del curso tendrás la base necesaria para iniciarte en el desarrollo de juegos para Facebook utilizando la tecnología AIR y el lenguaje de programación orientado a objetos de Adobe Flash, el ActionScript 3.0. Pondrás en práctica todos los conocimientos adquiridos a lo largo del curso realizando tres juegos y una app, y tendrás contenido extra que te ayudará a mejorar tus creaciones. Podrás formar un portafolio sólido para comenzar tu carrera en desarrollo para dispositivos móviles. </p><p><strong>Principalmente veremos:</strong></p><ol><ul><ul><li>Programación en AS3 desde cero hasta un nivel avanzado.</li><li>Aprenderemos técnicas de programación orientada a juegos.</li><li>Estructura del código AS3 para juegos y apps.</li><li>Timers para controlar la mecánica del juego.</li><li>Programación orientada en objetos en AS3.</li><li>Utilización de clases</li><li>Reproducción de sonidos.</li><li>Detección de colisiones,</li><li>Entre otro contenido no menos importante</li></ul></ul></ol>", 
+    "end_date": null, 
+    "title": "Desarrollo de Juegos para Facebook, de novato a experto", 
+    "price": "20.00", 
+    "instructors": "Celestino Alfonso", 
+    "commitment": "30 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/464336_bab0_9.jpg", 
+    "course_url": "https://www.udemy.com/action-script-3-aprende-creando-4-juegos-reales-y-una-app/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-31T20:30:01Z"
+}

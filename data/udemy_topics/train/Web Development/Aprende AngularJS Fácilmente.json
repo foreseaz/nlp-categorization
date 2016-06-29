@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Por que tomar este curso?</strong><br></p>\n\n<p>Como desarrolladores web hemos sido testigos de la evolución de varios frameworks y librerías de JavaScript a través de los últimos años, desde Ext.js y Backbone.js hasta EmberJS, Knockout y por ultimo AngularJS</p>\n\n<p>Para mi y muchos otros desarrolladores web con los que he hablado, AngularJS es el framework más equilibrado de todos. Nos da la posibilidad de creare plantillas, enlace de datos doble y una arquitectura estándar para todos nuestros proyectos web</p>\n\n<p>Estás son algunas de las razones por las cuales cualquier desarrollador web necesita aprender AngularJS</p>\n\n<ul><li>La <strong>gran demanda en el mercado laborar</strong> por desarrolladores con buen conocimiento de AngularJS</li><li>Tiene el respaldo de Google y una gran comunidad que sigue creciendo</li><li>Es un framework open source completamente</li><li>Una estructura estándar en nuestros proyectos (MVC, MVP, MV*)</li></ul>\n\n<p><strong>Sobre que es este curso?</strong></p>\n\n<p>\nEste es un curso de introducción desde 0 al framework AngularJS de Google. Vamos a empezar desde 0 y progresivamente iremos creando ejemplos de mas complexidad</p>\n\n<p>Este curso fue creado para personas que quieran aprender AngularJS de una forma fácil y eficiente. Vamos a cubrir todos los temas básicos e intermedios como:</p>\n\n<ul><li>Directivas</li><li>Controladores</li><li>Modulos</li><li>Servicios</li><li>Filtros</li><li>Enrutamiento</li><li>Validación de formularios</li></ul>\n\n<p><strong>Que tipo de material es incluido?</strong></p>\n\n<p>El curso cuenta con mas de 50 lecciones divididas en varios capítulos. Cada capitulo tiene uno o varios ejemplos para ayudar a comprender mejor los conceptos del mismo</p>\n\n<p>El código fuente está incluido al final del capitulo para que el estudiante pueda comparar si hay algún problema</p>\n\n<p>Mi intención con este curso es poder enseñar AngularJS de una forma sencilla. Estaré siempre dispuesto a ayudar si tiene algún problema y si tiene algún comentario para mejorar el curso será tenido en cuenta</p>", 
+    "end_date": null, 
+    "title": "Aprende AngularJS Fácilmente", 
+    "price": "20.00", 
+    "instructors": "Jonathan Cifuentes", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/713322_600a_4.jpg", 
+    "course_url": "https://www.udemy.com/aprende-angularjs-facilmente/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-02T14:59:12Z"
+}

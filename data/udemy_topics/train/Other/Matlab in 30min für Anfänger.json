@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In diesem Kurs wirst du lernen mit Matlab zu programmieren, und das von innerhalb nur 30 Minuten! Ich konrzentriere mich stets auf das Wesentliche und vermittele die Inhalte prägnant und zielorientiert. Der Kurs richtet sich an Studenten der Ingenieurwissenschaften und ausgebildetete Ingenieure, die einen schnellen aber zugleich tiefgründigen Einstieg in Matlab suchen. Nach erfolgreichem Abschluss des Kurses wirst du dazu in der Lage sein, mit Vektoren und Matrizen zu arbeiten, eigene Funktionen mit Kontrollstrukturen und Schleifen zu schreiben, numerische Probleme zu lösen und Daten grafisch auszugeben.</p><p>Du solltest mit den Grundlagen der Mathematik vertraut sein. Programmiererfahrung ist zwar nicht zwingend notwendig, es ist jedoch ein Vorteil, wenn du schon jemals mit einer beliebigen Programmiersprache gearbeitet hast.</p><p><strong>Voraussetzungen:</strong></p><ul><li>Mathematisches Grundwissen</li><li>Grundlegende Programmiererfahrung (optional)</li><li>Installiertes Matlab</li></ul><p>Wir werden mit elementaren arithmetischen Operationen beginnen. Dann zeige ich dir, was Vergleichsoperatoren sind und wie man sie verwendet. Es geht weiter mit dem Erstellen, Bearbeiten und operieren mit Vektoren und Matrizen. Als nächstes wird das Wissen vereint und für das Schreiben eigener Funktionen eingesetzt. Dabei lernst du wie man Kontrollstrukuren realisiert und Schleifen einbindet. Zum Abschluss werden wir Daten bzw. Funkionen zwei- und dreidimensional grafisch ausgeben und auswerten.<strong></strong></p><p><strong>Ziele:</strong></p><ul><li>Ausführen arithmetischer Operationen</li><li>Arbeiten mit Matrizen und Vektoren</li><li>Funktionen schreiben</li><li>Verständnis für Kontroll- und Schleifenstrukturen</li><li>Daten visualisieren</li></ul>", 
+    "end_date": null, 
+    "title": "Matlab in 30min für Anfänger", 
+    "price": "20.00", 
+    "instructors": "Andrej Lerch", 
+    "commitment": "37 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/783006_4c3a.jpg", 
+    "course_url": "https://www.udemy.com/matlab-in-30min-fuer-anfaenger/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-05T11:17:34Z"
+}

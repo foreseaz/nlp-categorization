@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em><strong>Update:  JavaFX to REST Example in Section 7</strong></em></p>\n\n<p><em><strong><em>Update: Apache Tomcat, Including SSL, Authorization, and Authentication, Appendix IV</em></strong></em></p>\n\n\n\n\n\n<p>This course walks the student through general <em>web service</em> concepts, then focuses on <em>RESTful </em>web services.  We will write both a service and clients, process <em>JSON </em>and <em>XML</em>, and test using <em>cURL</em>.</p>\n\n\n\n\n\n<p>This course covers the following topics:</p>\n\n\n\n\n\n<ul><li>Web Service Concepts</li><li><em>JAX-RS</em></li><li>Calling a Web Service</li><li>Writing a Web Service</li><li><em>Processing XML</em>/<em>JSON</em></li><li>Using the <em>xjc </em>Schema Compiler</li><li>Using <em>cURL</em></li></ul><ul><li><em>SSL</em></li><li><em>Authentication &amp; Authorization</em></li><li>JavaFX to REST Example</li><li>Apache Tomcat and CXF</li></ul>\n\n\n\n\n\n<p>The application server initially used is <em>GlassFish </em>since <em>GF </em>is the reference implementation for <em>Java EE</em>.  Section 8 covers the above topics using Apache Tomcat and CXF as the application server.</p>\n\n\n\n\n\n<p>The environment used for this course includes:<br></p><ul><li><em>Java SE 8</em></li><li><em>Java EE 7</em></li><li><em>Eclipse IDE</em></li><li><em>GlassFish</em></li><li><em>Apache Tomcat</em></li></ul>\n\n\n\n\n\n<p>Please see the free videos in my '<em>Java EE - The Basics</em>' course for help with installing the above.</p>", 
+    "end_date": null, 
+    "title": "REST Web Services using Java EE", 
+    "price": "20.00", 
+    "instructors": "Taylor Corey", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/472510_668e.jpg", 
+    "course_url": "https://www.udemy.com/rest-web-services-using-java-ee/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-10T04:25:56Z"
+}

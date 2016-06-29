@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t      Web application security involves the security of websites and web applications. The principles of application security is applied primarily to the Internet and Web systems.  </p>  <p style=\"\">  \t   An overview of web application will be the opening topic for this course.  This will be followed by an introduction to web application security and its dissimilarity to network security. Web Application Security (WAS) scanners and testing will be explained and defined.  Tips on securing your web application will also be studied in this course.  </p>", 
+    "end_date": null, 
+    "title": "Web Application Security", 
+    "price": "50.00", 
+    "instructors": "The Art Of Service", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/144900_b86c_2.jpg", 
+    "course_url": "https://www.udemy.com/web-application-security/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-10T02:12:15Z"
+}

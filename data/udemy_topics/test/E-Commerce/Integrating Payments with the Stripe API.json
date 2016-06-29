@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><p>Want a simple way to accept payments online? Using Stripe is the perfect answer. Learn how to integrate Stripe seamlessly into your site, without a merchant account or gateway. Stripe handles everything, including storing cards, subscriptions, and direct payouts to your bank account.</p><p>Learn from Saikat Chakrabarti (Lead Engineer at Stripe) about how to develop a website that hooks into the Stripe API and processes payments.&nbsp;<br style=\"\"></p><p>This is a great class for developers who are interested in payment processing. Whether your client wants to sell something as simple as a t-shirt, or is in need of a fully customizable e-commerce solution, the Stripe API can handle it.&nbsp;</p>&lt;/p&gt;", 
+    "end_date": null, 
+    "title": "Integrating Payments with the Stripe API", 
+    "price": 0, 
+    "instructors": "General Assembly", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/33232_acdd_5.jpg", 
+    "course_url": "https://www.udemy.com/integrating-payments-with-the-stripe-api/", 
+    "subject_name": [
+        "E-Commerce"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-12-20T22:53:59Z"
+}

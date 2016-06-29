@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this Securing Windows Networks training course, expert author Mark Long teaches you the tools and functionalities available to secure Microsoft networks. This course is designed for users that have a basic understanding of Microsoft networking. </p>\n\n<p>You will start by learning the basics of system security, then jump into learning about operating system security, including users and groups, permissions and rights, and managing user accounts. From there, Mark will teach you about Windows access control, protecting local data, and securing data in transit. This video tutorial also covers file sharing, securing the registry, system hardening, and Windows firewall. Finally, you will learn about security monitoring, backup and recovery, and Windows 10 security enhancements. </p>\n\n\n\n\n\n\n\n<p>Once you have completed this computer based training course, you will be able to apply these tools, principles, and functionalities available to secure your own Windows networks. Working files are included, allowing you to follow along with the author throughout the lessons.</p>", 
+    "end_date": null, 
+    "title": "Securing Windows Networks", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/852212_f836_3.jpg", 
+    "course_url": "https://www.udemy.com/securing-windows-networks/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-17T18:29:14Z"
+}

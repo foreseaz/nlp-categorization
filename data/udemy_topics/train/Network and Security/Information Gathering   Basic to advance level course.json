@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Dear Students,<br>Welcome to our course on Information Gathering also known as Reconnaissance.<br>You might have taken a course on Hacking/Penetration testing but have you ever wonder how to initiate an attack as a Penetration tester?<br>This course forms the basis for anyone who wants to become a real-time penetration tester. Our other courses will have taught you how to perform an attack, but this course will form the foundation on which we teach you how to research and gather information about your target as a security enthusiast without leaving any traces.<br>In this course, we will teach you how an attacker gathers information about their target (which may be an individual or an organization) in an ethical way. This course helps the participant to understand the various methods and means by which an attacker gathers confidential information before launching an attack.<br>We have designed this course to enable those aspiring to enter the information security field to learn the basic or the preparation steps that one needs to take care of before jumping into real time attacks. By the end of this course, you will be familiar with how attackers gather various types of information such as Individual, organizational, web based, system based and network based information before launching an attack.<br>This course has been specifically designed by a team of information security researchers who are acknowledged experts in their field.<br>This course has been designed to accelerate your learning process through the use of creative animations and easy to understand voice over narratives. <br>Complex hacking concepts have been broken down into easy to understand modules.<br>Together, our team will walk you through the entire learning process step by step.<br>This course is perfect for anybody who is passionate about developing their skills in the field of internet security. No prior training is required to take this course as we will start with the basics. We welcome anyone with a thirst for learning.<br>We look forward to having you join us. In the meantime, please feel free to take a look at our demo tutorial and exercise before you purchase the full course.</p>", 
+    "end_date": null, 
+    "title": "Information Gathering : Basic to advance level course", 
+    "price": "50.00", 
+    "instructors": "infySEC UK", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/825380_ac22.jpg", 
+    "course_url": "https://www.udemy.com/information-hacking/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-18T20:24:10Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>C programming is a popular computer programming language which is widely used for system and application software. Despite being fairly old programming language, C programming is widely used because of its efficiency and control. This tutorial is intended for beginners who does not have any prior knowledge or have very little knowledge of computer programming. All basic features of C programming language are included in detail with explanation and output to give you solid platform to understand C programming</span></p><p><span>.</span>In order to run a C program, you need a compiler. Compiler change source code(code written by programmer) to object code(code that computer understands) and creates executable file. There are many free and professional compilers available. For the sake of this course, GNU GCC compiler is used. All the examples in this course are tested and verified in GNU GCC compiler.</p>", 
+    "end_date": null, 
+    "title": "C Programming For Beginners With Examples", 
+    "price": "20.00", 
+    "instructors": "Rahul Bhatia", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/391244_7648_4.jpg", 
+    "course_url": "https://www.udemy.com/c-programming-for-beginners2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-11T15:48:29Z"
+}

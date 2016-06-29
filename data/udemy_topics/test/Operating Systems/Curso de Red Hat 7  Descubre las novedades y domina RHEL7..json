@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Curso de <strong>Linux</strong> sobre <strong>Red Hat 7</strong> y derivados (<strong>CentOS 7</strong>, <strong>ScientificLinux 7</strong>) donde se explicarán todas las novedades de esta nueva versión.</p><p>A través de 20 clases, se descubrirá los nuevos comandos y sus opciones, así como configurar el sistema y la conexión de red. Nos adentraremos en el nuevo firewall dinámico (<strong>firewalld</strong>) y en la agregación de tráfico (<strong>teaming</strong>)</p><p>Los videos tienen una parte teórica y una práctica. A través de una metodología simple, se explicará los conceptos y luego se mostrará de forma práctica como aplicarlos. La duración total es una hora y media.</p><p>Este curso proporciona los conocimientos necesarios para administrar <strong>Red Hat 7</strong> y preparar el certificado <strong>RHCSA</strong>. Un certificado muy valioso para entrar en el mundo laboral como administrador de sistemas Linux.</p><p>Necesario conocimiento previo de Linux. Recomendado tener un conocimiento de versiones anteriores de Red Hat pero no es obligatorio.</p>", 
+    "end_date": null, 
+    "title": "Curso de Red Hat 7: Descubre las novedades y domina RHEL7.", 
+    "price": "20.00", 
+    "instructors": "Proyecto Oforte", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/704734_ca8b.jpg", 
+    "course_url": "https://www.udemy.com/curso-de-redhat-7/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-23T12:55:45Z"
+}

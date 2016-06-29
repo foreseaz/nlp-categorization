@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">What is Bootstrap framework ?</strong><br style=\"\">  </p>  <p style=\"\">  \t            Bootstrap is a mobile free first front end development framework to create beautiful and fully responsive websites quickly and easily with out learning HTML, CSS, JavaScript and best practices from scratch.  </p>  <p style=\"\">  \t  WHAT You Will Learn in This Course?  </p>  <p style=\"\">  \t<strong style=\"\">Bootstrap 3 grid system</strong>  </p>  <p style=\"\">  \tbootstrap 3 grid system tutorial and examples  </p>  <p style=\"\">  \t<strong style=\"\">bootstrap 3 carousel tutorial</strong>  </p>  <p style=\"\">  \t  bootstrap 3 carousel example (code &amp; download example)  </p>  <p style=\"\">  \t  bootstrap 3 video tutorial  </p>  <p style=\"\">  \t<em style=\"\"><strong style=\"\">  bootstrap 3 form</strong> tutorial &amp; <span style=\"\">bootstrap 3 form example</span></em>  </p>  <p style=\"\">  \t<strong style=\"\">twitter bootstrap tabs tutorial</strong>  </p>  <p style=\"\">  \t  bootstrap vertical tabs, bootstrap tabs example &amp; how to use twitter bootstrap tabs (bootstrap 3 tab , active, style &amp; design)  </p>  <p style=\"\">  \t<strong style=\"\">twitter bootstrap 3 navigation examples</strong>  </p>  <p style=\"\">  \t  bootstrap navbar tutorial, bootstrap navigation menu, bootstrap navbar collapse examples &amp; tutorial bootstrap navbar collapse button &amp; bootstrap 3 navbar example  </p>  <p style=\"\">  \t<strong style=\"\">Bootstrap 3 panel</strong>  </p>  <p style=\"\">  \t  bootstrap panel layout, panel widget, panel class panel with tabs &amp; bootstrap panel with header and footer  </p>  <p style=\"\">  \t<strong style=\"\">Code a responsive websites from scratch yourself ?<br style=\"\">  \t</strong>  </p>  <p style=\"\">  \t               In this course you will learn to code a fully responsive and beautiful websites from scratch with Bootstrap framework.  </p>  <p style=\"\">  \t<strong style=\"\">what are we covering in this course?</strong>  </p>  <p style=\"\">  \t          You will learn how to create different sections of your responsive website step by step.  </p>  <ul style=\"\">  \t<li style=\"\">Download and set up bootstrap</li>  \t<li style=\"\">Creating basic project files for project.</li>  \t<li style=\"\">Adding support for older browsers and mobile devices.</li>  \t<li style=\"\">starting with header section of project.</li>  \t<li style=\"\">How  to use carousel/slider to display featured content ?</li>  \t<li style=\"\">How to use .thumbnail class to create magazine style blog/post layout</li>  \t<li style=\"\">How/why use Tabs model</li>  \t<li style=\"\">How to add custom styles to your webpages with CSS</li>  \t<li style=\"\">How to make your image responsive </li>  \t<li style=\"\">Simple and easy way to customize Carousel/model </li>  </ul>  <p style=\"\">  \t          and a lot more about Bootstrap  </p>  <p style=\"\">  \t<strong style=\"\">What needs this course will solve ?</strong>  </p>  <p style=\"\">  \t        After completing this course you will be able to create fully responsive, mobile friendly website with Bootstrap.  </p>  <p style=\"\">  \t        You don&#039;t need to learn CSS3 media queries/best practices to create responsive websites. Bootstrap can help you to do this with basic/good knowledge of HTML and CSS. <br style=\"\">  \t<strong style=\"\"></strong>  </p>  <p style=\"\">  \t<strong style=\"\">Downloadable Project files</strong>  </p>  <p style=\"\">  \t          I will provide files for each step. You can download complete project files.  </p>", 
+    "end_date": null, 
+    "title": "Learn to Create Advance Responsive Websites With Bootstrap", 
+    "price": "25.00", 
+    "instructors": "Mohammad Tahir", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/255878_8f5f_3.jpg", 
+    "course_url": "https://www.udemy.com/responsive-website-with-bootstrap/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-05T02:15:42Z"
+}

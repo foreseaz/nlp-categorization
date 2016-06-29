@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Cisco ASA firewall basics</p><p><strong>Last updated 2016-06-13</strong></p><p>In the course you will learn everything needed to install and configure a brand new Cisco ASA firewall with outbound internet access.</p>\n\n<p>You will learn all commands needed to install the firewall.</p>\n\n<p>In the first part of the course You will understand which required building blocks there are to get the firewall installed. For each step I will explain the reason, how it works and that there is to think about when configuring the Cisco ASA. This includes:</p>\n\n<ul><li>Console access</li><li>Interface configurations</li><li>Access-list theory and how to apply them.</li><li>Restricting and providing management access.</li><li>Network Address Translation (NAT)</li><li>DHCP in the Cisco ASA</li><li>Available hardware models.</li><li>Security levels.</li></ul>\n\n<p>In the second part of the course we will together configure a Cisco ASA 5505 from no configuration at all to outbound filtered and NAT:ed internet-access with DHCP and access-lists.</p>\n\n<p>By the end of this course you will have a full knowledge of the different building blocks required to install a Cisco firewall.</p>", 
+    "end_date": null, 
+    "title": "Cisco ASA firewall basics", 
+    "price": "20.00", 
+    "instructors": "Jimmy Larsson", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/827928_8335.jpg", 
+    "course_url": "https://www.udemy.com/cisco-asa/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-21T09:55:55Z"
+}

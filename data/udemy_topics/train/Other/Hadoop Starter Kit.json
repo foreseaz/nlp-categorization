@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">The objective of this course is to walk you through step by step of all the core components in Hadoop but more importantly make Hadoop learning experience easy and fun.</p><p style=\"\">By enrolling in this course you can also get free access to our multi-node Hadoop training cluster so you can try out what you learn right away in a real multi-node distributed environment.</p><p style=\"\"><strong style=\"\">ABOUT INSTRUCTOR(S)</strong></p><p style=\"\">We are a group of Hadoop consultants who are passionate about Hadoop and Big Data technologies. 4 years ago when we were looking for Big Data consultants to work in our own projects we did not find qualified candidates because the big data industry was very new and hence we set out to train qualified candidates in Big Data ourselves giving them a deep and real world insights in to Hadoop.</p><p style=\"\"><strong style=\"\">WHAT YOU WILL LEARN IN THIS COURSE</strong></p><p style=\"\">In the first section you will learn about what is big data with examples. We will discuss the factors to consider when considering whether a problem is big data problem or not. We will talk about the challenges with existing technologies when it comes to big data computation. We will breakdown the Big Data problem in terms of storage and computation and understand how Hadoop approaches the problem and provide a solution to the problem.</p><p style=\"\">In the HDFS, section you will learn about the need for another file system like HDFS. We will compare HDFS with traditional file systems and its benefits. We will also work with HDFS and discuss the architecture of HDFS.</p><p style=\"\">In the MapReduce section you will learn about the basics of MapReduce and phases involved in MapReduce. We will go over each phase in detail and understand what happens in each phase. Then we will write a MapReduce program in Java to calculate the maximum closing price for stock symbols from a stock dataset.</p><p style=\"\">In the next two sections, we will introduce you to Apache Pig &amp; Hive. We will try to calculate the maximum closing price for stock symbols from a stock dataset using Pig and Hive.</p>", 
+    "end_date": null, 
+    "title": "Hadoop Starter Kit", 
+    "price": 0, 
+    "instructors": "Hadoop In Real World", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/503980_97b0_3.jpg", 
+    "course_url": "https://www.udemy.com/hadoopstarterkit/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-16T19:39:31Z"
+}

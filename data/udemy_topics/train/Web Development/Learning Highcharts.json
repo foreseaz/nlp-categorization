@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Data is all around us, but to understand it all, you need to represent the data so that most people can analyze it easily. Highcharts is one of the most popular JavaScript charting libraries, and has an advanced edge as you can add interactive graphical charts to your websites. Highcharts helps developers represent large sets of data in an interesting and interactive way, establishing itself as one of the industry leaders in JavaScript-based charting tools.</p><p>Learning Highcharts will walk you through an exciting journey of creating interactive charts to develop incredible web applications.</p><p>This video course is a complete knowledge bank that will teach you practical and advanced techniques with Highcharts. The course starts off with a brief introduction to Highcharts explaining different chart types, chart layouts, options, and styling. We continue by working with different data formats such as CSV, XML, and JSON using AJAX. Then, you'll learn how to export chart images on your own server and finally we look at how to integrate jQuery Mobile with Highcharts.</p><p>Learning Highcharts not only introduces you to creating charts, but also guarantees that by the end of this course, you will be building high-quality, insightful visual experiences on the Web.</p><p><strong>About The Author</strong></p><p><strong>Zsolt Gere</strong> is a father, cook, and web designer with strong frontend skills. He loves learning and teaching modern HTML5 and JavaScript techniques such as Highcharts.<br></p><p>He currently works for a small-to-mid size news portal network in Hungary where he is a lead member of the web designer and frontend team.</p>", 
+    "end_date": null, 
+    "title": "Learning Highcharts", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/692818_b62e_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-highcharts/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-09T09:46:35Z"
+}

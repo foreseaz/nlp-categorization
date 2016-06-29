@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>Ever wonder why Sybase Adaptive Server Enterprise is one of the best Relational Database Management system of the world.</p><p>This course will get you going with Sybase ASE 16. </p><p>In this course you will learn about Sybase installation on windows, Basic Administration and Backup/restore of Sybase ASE 16.</p><p> Big Financial companies use Sybase as their preferred platform of an RDBMS. </p><p>This course is designed for an absolute starters.</p><p>This course will help Seasoned Oracle/SQL Server/MySQL DBAs who also needs to support Sybase ASE. </p><p>You should take this course to start working on Sybase ASE without having any prior knowledge of Sybase ASE.</p>", 
+    "end_date": null, 
+    "title": "Get Started with SAP - Sybase ASE 16 On Windows", 
+    "price": "20.00", 
+    "instructors": "Devang Shah", 
+    "commitment": "39 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/572636_6741_2.jpg", 
+    "course_url": "https://www.udemy.com/get-started-with-sybase-ase-16-on-windows/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-03T18:28:30Z"
+}

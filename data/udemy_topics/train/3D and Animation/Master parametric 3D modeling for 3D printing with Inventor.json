@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p><strong>What is this about?</strong></p><p>  \t<span>This course is the next step in building your Autodesk Inventor skillset. </span><span>It outlines the basics of using Inventor to create objects that are ready for 3D printing. </span><span>Learn about the key processes behind sketching, part modeling, creating assemblies, and drawing in Autodesk Inventor. </span><span>Introduces the interface and key processes of Inventor, the parametric design system from Autodesk. </span></p><p><span><strong>How long is this course?</strong></span></p><p><span>The course focuses on showing you step by step the workflow to start designing parametric objects in Inventor. </span></p><p><span></span><span>You will learn how to set up your project file; create and modify geometry; create extrusions, sweeps, and lofts; build parts with placed features and patterns of features; and create iParts and iFeatures. This course also covers assembly visualization techniques and drawing views. </span></p><p>The course includes source files that you can import into Inventor. </p><p><strong>Why take this course? </strong></p><p>If you are interested in industrial design, you are a maker, you own or are thinking about working with 3d printers this course is for you! </p><p></p>", 
+    "end_date": null, 
+    "title": "Master parametric 3D modeling for 3D printing with Inventor", 
+    "price": "25.00", 
+    "instructors": "TutorialBay productions", 
+    "commitment": "39 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/372578_310a_4.jpg", 
+    "course_url": "https://www.udemy.com/master-parametric-3d-modeling-for-3d-printing-with-inventor/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-17T18:02:52Z"
+}

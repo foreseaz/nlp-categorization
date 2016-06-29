@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t  Welcome to Understanding Virtualization with VMware!  </p>  <p style=\"\">  \t                    The only course in Udemy that lays a strong foundation for mastering computer virtualization and is designed for beginners who have a little or no knowledge of virtualization.  </p>  <p style=\"\">  \t                            This course in Udemy begins by explaining what virtualization is, and unfolds an in-depth understanding of how things work at the ring level.  </p>  <p style=\"\">  \t                            We will show you how to download the free VMware vSphere ESXi, and we will show you how to go about installing VMware ESXi, working with the vSphere Client, and managing a host using the vSphere Client.  </p>  <p style=\"\">  \t                            With Udemy&#039;s platform, you will also learn how to install VMware Player and create virtual machines using VMware Player. In specific, this course will guide you to set up a virtual lab environment using VMware Player.  </p>  <p style=\"\">  \t                    In this course in Udemy, we will also cover the concepts of Virtual Networking and Storage with reference to ESXi.  </p>  <p style=\"\">  \t                      Last but not the least, we will show you how to use VMware Converter to convert physical computer into a virtual machine.  </p>  <p style=\"\">  \t                    You get a lifelong access to this course only in Udemy!  </p>  <p style=\"\">  \t<em style=\"\">This course comes with a <strong style=\"\"><span style=\" color:rgb(51, 51, 51);\">30 day money back guarantee!</span></strong></em>  </p>", 
+    "end_date": null, 
+    "title": "Understanding Virtualization with VMware ", 
+    "price": "20.00", 
+    "instructors": "Pakalavan K", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/242172_6bd1_7.jpg", 
+    "course_url": "https://www.udemy.com/understanding-virtualization-with-vmware/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-12T15:55:29Z"
+}

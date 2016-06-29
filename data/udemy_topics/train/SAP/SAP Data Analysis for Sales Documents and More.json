@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t     Get strong understanding about performing a data analysis in SAP ECC Sales Document processing.  </p>  <p style=\"\">  \t     This will include  </p>  <ul style=\"\">  \t<li style=\"\">Sales Order object reviews of header, line item, partner, business data, conditions, and more.</li>  \t<li style=\"\">Data Dictionary Table Overviews</li>  \t<li style=\"\">Mapping application fields to table fields</li>  \t<li style=\"\">Data Modeler Overview and usage</li>  \t<li style=\"\">Table Display &amp; Data Browser </li>  \t<li style=\"\">Advanced Data Dictionary usage</li>  \t<li style=\"\">Data Query usage</li>  \t<li style=\"\">Examples &amp; exercises and common requests across the objects to be used in analysis</li>  \t<li style=\"\">Recommendations on analysis</li>  \t<li style=\"\">How to Apply your skills on this data model as well as other data models.</li>  </ul>  <p style=\"\">  \t     There will be significant time spent in the system.  </p>  <ul style=\"\">  \t<li style=\"\">Most subjects are introduced and then the majority of the time is spent going through the steps in the system.</li>  \t<li style=\"\">Students can follow along or watch and then try similar steps in their system.</li>  </ul>  <p style=\"\">  \t     Why take this course  </p>  <ul style=\"\">  \t<li style=\"\">You want to obtain a better understanding of how to analyze the data used in SAP ECC applications.</li>  \t<li style=\"\">You need a better understanding of the application data before you can move from system user to system super user.</li>  \t<li style=\"\">You&#039;re a consultant or new employee who&#039;s looking to hit the ground running on your project and make a bigger positive impact quicker.</li>  \t<li style=\"\">A Business or IT manager looking to analyze system data and make recommendations for projects and other department planning items.</li>  \t<li style=\"\">Keep coming back for more and more examples.</li>  </ul>", 
+    "end_date": null, 
+    "title": "SAP Data Analysis for Sales Documents and More", 
+    "price": "40.00", 
+    "instructors": "Devon Winters", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/243252_47e6_2.jpg", 
+    "course_url": "https://www.udemy.com/sap-data-analysis-for-sales-documents-and-more/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-14T15:12:13Z"
+}

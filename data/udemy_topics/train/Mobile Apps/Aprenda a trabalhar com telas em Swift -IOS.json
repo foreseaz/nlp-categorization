@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Nesse curso iremos criar um app exemplo para um restaurante, conectando varias telas atraves de botões, e uma tela com acesso a web. Também aprenderá um pouco de como criar classes para as suas telas.<br>Com esse conteudo você poderá fazer apps profissionais sem uso de programação e logica, pois muitos apps apenas são informativos. <br>E com a habilidade de mostrar telas da web, você poderá expandir sua criatividade mostrando dentro do seu app qualquer coisa que tenha na web formatado para celular.</p>", 
+    "end_date": null, 
+    "title": "Aprenda a trabalhar com telas em Swift -IOS", 
+    "price": "20.00", 
+    "instructors": "Claudio Zani Silva", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/648480_b491_3.jpg", 
+    "course_url": "https://www.udemy.com/aprenda-a-trabalhar-com-telas-em-swift-ios/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-23T02:51:34Z"
+}

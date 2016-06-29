@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<h4 style=\"\">A&nbsp;Verifiable Certificate of Completion is presented to all students who undertake this course.</h4>  <p style=\"\">In this C# for Beginners tutorial course, you can learn this powerful object-oriented programming language so closely tied to Microsoft .NET and see why it is such a great platform for creating rich applications. Professor Mike McMillan goes through the fundamentals of the language structure, and gradually lays the groundwork for you to build your own apps.</p>  <p style=\"\">In 114 separate tutorials, Mike gives you a solid working knowledge of object-oriented programming, even if you&rsquo;re completely new to coding. He demonstrates how to use variables and data types, objects and classes, arrays, inheritance and polymorphism and distinguishes how working in C# differs from other types of code. Once you gain your confidence in the underlying areas, you&rsquo;ll be ready to complete the functional To-Do List app that is integrated into the course.</p>", 
+    "end_date": null, 
+    "title": "Learning C# .NET - Programming for Beginners. ", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/11152_b642_7.jpg", 
+    "course_url": "https://www.udemy.com/c-sharp-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2011-11-17T04:38:28Z"
+}

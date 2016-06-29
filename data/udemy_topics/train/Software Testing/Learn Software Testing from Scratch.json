@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Software Testing i</strong>s one of the most important and critical component of Software development life cycle. The testing team is ultimately responsible of Software quality and forms the bedrock before it goes out to actual users and to market place. Over the years with innovative development techniques the software testing and quality assurance field  has undergone a sea change. With new techniques like TDD(Test driven development) taking hold in industry the software developers must understand the nuances of new approaches to software quality.  </p>  <p style=\"\">  \t      We at Eduonix always provide our students easy to grasp cutting edge technology training and this fun new course is aimed to get our Software quality Assurance professionals and developers both a quick but comprehensive training in the field of Software Testing.  </p>  <p style=\"\">  \t      This course of ours is divided into 8 main units:  </p>  <ul style=\"\">  \t<li style=\"\">The first one introduces you to the basic software testing field. </li>  \t<li style=\"\">The second one teaches you to main software testing techniques</li>  \t<li style=\"\">The third one deals with the phases of testing</li>  \t<li style=\"\">The next one covers modern approaches to testing</li>  \t<li style=\"\">The fifth one covers the all important non functional testing and also teaches Metaspoilt</li>  \t<li style=\"\">You will also learn about testing peculiarities of different platforms</li>  \t<li style=\"\">The next two chapters cover automated testing and test driven development</li>  \t<li style=\"\">We also have provided sample documents for test plan and penetration testing</li>  </ul>  <p style=\"\">  \t      So get this and a lot more in this amazing course. It is a must for both software developers and quality professionals.  </p>", 
+    "end_date": null, 
+    "title": "Learn Software Testing from Scratch", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/270058_1744_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-software-testing-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-28T09:08:15Z"
+}

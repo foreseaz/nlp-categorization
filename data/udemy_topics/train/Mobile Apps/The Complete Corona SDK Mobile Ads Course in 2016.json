@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>With mobile advertising booming, it’s in every developer’s best interest to know how to monetize their apps with effective in-app advertising. This course is for you if you’d like to learn about the ad networks that will work within your Corona SDK app, and how to get the most out of them.</p>  <p><em>“…mobile in-app advertising revenue is set to grow, expanding over three times and overtaking PC and mobile web advertising by 2018.” - Business of Apps, from the App Annie &amp; IDC Mobile App Advertising and Monetization Trends 2013-2018 report</em></p>  <p>The App Annie &amp; IDC report also found that in 2013-2014, banners and interstitial (full screen) ads were among the most popular choices. Video ads, although used less frequently, have a high engagement rate and generate a lot of revenue. If you aren’t integrating advertising into your apps, you’re missing out on a great opportunity to increase profitability.</p>  <p>In this course, you’ll learn about the types of mobile advertising, and how to effectively incorporate ad networks like AdMob and Vungle within your app. </p>  <p>To kick things off, you’ll learn about the game template that was created specifically for this course. This game is called Bug Squash and pits the player against an oncoming onslaught of bugs. During the players’ time in the game, they can watch an ad for 15 coins and even purchase some upgrades using the currency in the game. </p>  <p>Next, I’ll give you a rundown on the different types of advertising options available with Corona SDK and a bit more about understanding the industry. Throughout the course, you’ll also learn some best practices for implementing advertising options in your game. This course is built with and for Corona SDK and focuses on mobile advertising. </p>    <p>So if you’re ready to learn how to monetize your Corona built game, get started and enroll today!</p>  <p>* This course will not focus on in-app purchases or go into depth on how to develop a game with Corona SDK. </p>", 
+    "end_date": null, 
+    "title": "The Complete Corona SDK Mobile Ads Course in 2016", 
+    "price": "20.00", 
+    "instructors": "Daniel Williams", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/632840_a9c1_2.jpg", 
+    "course_url": "https://www.udemy.com/the-complete-corona-sdk-mobile-ads-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-06T20:26:40Z"
+}

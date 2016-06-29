@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t Bu kurs , PHP bilgisi olan kişilere object oriented programming(nesne yönelimli programlama) bilgisi katmak ve geliştirmek amaçlıdır.  </p>  <p style=\"\">  \t Kursta temel eğitim videoları bulunmaktadır.  </p>  <p style=\"\">  \tİlk olarak NYP nedir,  ne işe yarar farkları nelerdir gibi basit konularla başlayan eğitimle güzel örnekler ile anlatımlar sağlanıcaktır.  </p>  <p style=\"\">  \tBu eğitimin amacı temel programlama seviyesini geliştirerek daha güzel kodlar yazılması ve temiz çalışmayı öngörmektedir.  </p>", 
+    "end_date": null, 
+    "title": "PHP Object Oriented Programming Eğitimi", 
+    "price": "20.00", 
+    "instructors": "Ömer ASLAN", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/140054_fc3a_3.jpg", 
+    "course_url": "https://www.udemy.com/php-nesne-yonelimli-programlama/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-31T09:55:22Z"
+}

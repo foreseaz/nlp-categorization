@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>この講座では、マウス操作で簡単にデータを視覚化できる、今最も注目されている分析ツール「Tableau（タブロー）」の使い方を習得できます。<br></p>\n\n<p>Tableauを使いこなすことにより、大量のデータであってもほとんどマウス操作だけで簡単にデータを視覚化して、次々に新しい発見を繰り返しながら、次のアクションのための問題点を特定したり、ビジネスチャンスを見つけたりすることができます。</p>\n\n\n\n<p>Tableauを使うと、データ分析がこれまでにくらべて遥かに簡単に、スピーディにできるようになり、さらに、分析が楽しくなります。</p>\n\n\n\n<p>私たちNTTデータは、米国発のこのツールにいち早く注目し、日本国内への展開初期からのパートナーとして、国内有数の有資格者をそろえ、多数のお客様のデータ分析をご支援して来ました。</p>\n\n\n\n<p>この講座では、私たちが多くの経験から培ってきたノウハウをつぎ込んで、ビジネスユーザの方が短期間でデータ分析を習得できるよう、Tableauの使い方を丁寧に解説します。</p>", 
+    "end_date": null, 
+    "title": "Tableau（タブロー）で実践！ビジネスユーザのためのデータ集計・視覚化・分析　基礎編", 
+    "price": "50.00", 
+    "instructors": "NTTデータ ユニバーシティ, NTTデータ 渡部 良一, NTTデータ 升田 真奈美, NTTデータ 福岡 将", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/765080_e2cc.jpg", 
+    "course_url": "https://www.udemy.com/tableau-ntt/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-17T04:07:42Z"
+}

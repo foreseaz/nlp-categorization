@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>The knowledge gained from this course will help you <strong>cover </strong><strong>those critical and hard to find design bugs. </strong>SystemVerilog Functional Coverage Language and Methodology is a very important part of overall functional verification methodology and all verification engineers <strong>need this knowledge to be successful</strong>. The knowledge of <strong>FC </strong><strong>will indeed be a highlight of your resume </strong>when seeking a challenging job or project The course offers step-by-step guide to learning of FC with <strong>real life applications </strong>to help you solidify your concepts and apply FC to your project in shortest possible time. FC helps the <strong>critical part of Functional/Temporal domain coverage </strong>which is simply not possible with code coverage.The course does not require any prior knowledge of SystemVerilog or OOP (Object oriented programming) or UVM. The course has 9 lectures that will take you step by step through FC language from scratch.<br></p>", 
+    "end_date": null, 
+    "title": "SystemVerilog Functional Coverage Language/methodology/apps", 
+    "price": 0, 
+    "instructors": "Ashok Mehta", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/780242_f936.jpg", 
+    "course_url": "https://www.udemy.com/systemverilog-functional-coverage/", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-02T19:25:19Z"
+}

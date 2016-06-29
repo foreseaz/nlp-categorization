@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Regular expressions are a powerful tool that can help you to find, replace and format text quickly, but they have a reputation of being extremely hard to understand. In this Regular Expressions training course, this course de-mystifies the sometimes confusing and always-difficult world of Regular Expressions, putting a very powerful tool right at your fingertips.<br style=\"\"></p><p><br style=\"\">You will learn how to create Regular Expressions step-by-step, removing the mystery of what the characters represent and how they work together. This training video uses real world scenarios as examples to help re-enforce the lessons. Mike shows you how to validate dates, phone numbers, URLs and emails, as well as how to search for, and correct misspelled words or other content. You will explore how to implement Regular Expressions in PHP, Java, C# and JavaScript.<br style=\"\"><br style=\"\">This video based training course for Regular Expressions is an essential reference for beginner and experienced programmers alike. Once you have completed the tutorial videos, you will have a clear understanding of what Regular Expressions are, and how to use them to solve everyday content formatting problems. Working files are included, allowing you to follow along with the author throughout the lessons.<br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Beginners - Learning Regular Expressions For Programmers", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/67062_2306_9.jpg", 
+    "course_url": "https://www.udemy.com/learning-regular-expressions/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-07-19T21:42:58Z"
+}

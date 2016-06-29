@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tJBoss EAP Configuration, Deployment, and Administration will teach you everything you need to know in a hands-on, interactive way. You&#039;ll follow step-by-step instructions that walk you through the key features of JBoss. Beyond that we will dive deep into the inner workings of Java, which will help you troubleshoot problems quickly and easily. Learn about the most popular ways to configure JBoss and ensure maximum uptime and scalability for your applications. Take a tour of the most popular Java Enterprise features, beginning with databases and JMS, and rounding off at logging. Along the way, we&#039;ll dive into troubleshooting common problems such as out of memory errors and performance optimization.  </p>  <p>  \tJBoss EAP Configuration, Deployment, and Administration will highlight the differences between standalone and domain mode, explaining why you would use domain mode and how it differs from the traditional standalone approach. We&#039;ll dive into configuring databases and message queues and also show you how to integrate them into your application when running on JBoss.  </p>  <p>  \tWe continue our journey with setting up HTTP request load balancing, and setting up a cluster of highly available JBoss nodes, while demonstrating how easy it is to finely manage classloading dependencies for your applications. We cover some extra performance features and new security features such as the Vault, which you can use to encrypt plain-text passwords in configuration files. We talk about some development features new with JBoss EAP, such as Arquillian, a test harness for testing CDI and EJB beans without a full blown startup/shutdown container cycle. Lastly, we&#039;ll talk in depth about JBoss logging, how to use the logging framework provided by the container or roll your own logging in your application.  </p>  <p>  \tJBoss EAP Configuration, Deployment, and Administration will quickly turn you into a well-rounded JBoss administrator. We&#039;ll focus on key features of the JBoss Application Server that will make you a power user, quickly and easily.  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t <strong style=\"\">Jason Shepherd </strong>is a technical support engineer working for Red Hat in Australia. He&#039;s helped countless users with Jboss problems, and has experience with more types of problems with Jboss than you can imagine. Before working for Red Hat he worked as a Java developer writing web applications, and web service implementations for a major travel company. He has first hand experience with enterprise application development in real-life situations.  </p>", 
+    "end_date": null, 
+    "title": "JBoss EAP Configuration, Deployment, and Administration ", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/367976_063b_2.jpg", 
+    "course_url": "https://www.udemy.com/jboss-eap-configuration-deployment-and-administration/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-11T10:31:34Z"
+}

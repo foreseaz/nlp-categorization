@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>What is this </span><strong style=\"\">MegaPrimer</strong><span>?</span>  </p>  <p>  \tWe wanted to introduce a package of series that can give a great start to beginner in programming, so we decided to combine the most powerful, popular and mandatory topics of coding. When anyone start a journey to programming life<strong style=\"\">; C, C++ and java</strong> are must to learn languages. We have named this beginners programming bundle as MegaPrimer.  </p>  <p>  \tWhat am I going to get from this MegaPrimer?  </p>  <p>  \t<strong style=\"\">Complete C programming Course: </strong>  </p>  <p>  \t<strong style=\"\">C programming</strong> is the root or foundation for any person who wants to <strong style=\"\">master computer programming</strong>. <strong style=\"\">Learning C in a comprehensive manner</strong> is very essential for every software interested soul but things can only be interesting when words are not jargon and every piece of <strong style=\"\">code is explained</strong> in detailed manner and that’s what this course is all about.  </p>  <p>  \t<strong style=\"\">Complete C++ programming Course:</strong>  </p>  <p>  \tC++ is an <strong style=\"\">Object oriented programming</strong> language that can be used to create modern desktop software, game development or even critical system drivers too. You will find out that most trading applications are designed in C++ because in trading speed is money. When we get into the game development, c++ programming is hard to avoid if you want to create a fantastic and popular game.  </p>  <p>  \tIn this entire c++ video series, we start from installing gcc on our system. After <strong style=\"\">gcc</strong>, we will install <strong style=\"\">Eclipse</strong> which is a cross platform IDE because most efficient programmers don’t develop things on notepad. And yes, we don’t like to talk about here and there so expect pure <strong style=\"\">c++ programming</strong> guide with everything <strong style=\"\">explained code by code and that too practically. </strong>  </p>  <p>  \t<strong style=\"\">Complete Java programming Course:</strong>  </p>  <p>  \t<strong style=\"\">Java</strong> is the most popular, powerful and highest <strong style=\"\">job oriented programming language</strong> so far. Consulting, not just one or two, in fact any top survey for “Job oriented market for programmers”, you will find that java is always there in top 3 position. After the implementation of java in<strong style=\"\"> android projects</strong>, a new job market got opened up. Java is diverse enough to build <strong style=\"\">Mobile applications, android application, Desktop application </strong>or even<strong style=\"\"> Web application.</strong>  </p>", 
+    "end_date": null, 
+    "title": "C, C++, Java; A Programming MegaPrimer for Beginners", 
+    "price": "40.00", 
+    "instructors": "Igneus Technologies", 
+    "commitment": "12.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/264904_770a_2.jpg", 
+    "course_url": "https://www.udemy.com/c-cplus-plus-java-programming-megaprimer-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-20T03:44:16Z"
+}

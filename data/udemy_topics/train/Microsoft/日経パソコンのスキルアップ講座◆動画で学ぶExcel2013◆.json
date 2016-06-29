@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p><strong>超初心者の方でも安心！画面の見方からデータ入力の方法、グラフの作成まで、順を追ってやさしくご紹介。</strong></p><p>Excel2013にはフラッシュフィル、クイック分析ツール、おすすめグラフなどが新しく追加になりました。それらについて解説しつつ、Excelの基本的な使い方について解説します。ダウンロードできるサンプルファイルを使って操作を進めることで効率的に学習を進める事ができます。画面に合わせてExcel2013を実際に操作することでファイルを完成させることができます。</p><p>【主な内容】<br>●Excel2013の新機能<br>●Excelの画面構成<br>●データの入力<br>●数式の作り方<br>●基本的な関数（SUM、AVERAGE）<br>●表の編集<br>●セルの書式設定<br>●グラフの作成（棒グラフ、折れ線グラフ、円グラフ）<br>●保存と印刷<br></p>", 
+    "end_date": null, 
+    "title": "日経パソコンのスキルアップ講座◆動画で学ぶExcel2013◆", 
+    "price": "20.00", 
+    "instructors": "Benesse Corporation, 日経ＢＰ社 コンピュータ・ネットワーク局教育事業部", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/680260_1162.jpg", 
+    "course_url": "https://www.udemy.com/excel2013-n/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-25T06:59:37Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>       SQL Administration Part 2 will benefit the student by providing the necessary guide lines for enhancing SQL Server performance by utilizing indexes, reviewing DMVs for analysis, and setting up performance counters for gathering resource metrics; and also I will explain a handful of utilities to gather information about SQL Server internals, such as SQL Profiler, Database Tuning Advisor (DTA), Extended Events, SQL performance monitor, Activity monitor, and teach about partitions, creating contained database for recovery, reviewing SQL server logs and by installing SQL Server 2014 as the newer SQL version.The student will not only add to the knowledge gained bur SQL Administration Part 1, but get prepared for the next course SQL Administration Part 3 – the high availability solutions.<br></p>", 
+    "end_date": null, 
+    "title": "SQL Server Administration Part 2", 
+    "price": "20.00", 
+    "instructors": "Raphael Asghar", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/700540_f7f2_6.jpg", 
+    "course_url": "https://www.udemy.com/sql-server-administration-part-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-18T06:52:35Z"
+}

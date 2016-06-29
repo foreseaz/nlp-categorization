@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t<em style=\"\">In this course you will see the insights of the <strong style=\"\">RF World!</strong> Let&#039;s briefly summarize what all you will learn in this course. We will start off with the Introduction to <strong style=\"\">Radio Frequency </strong>and <strong style=\"\">Integrated Circuits</strong> at wireless( RF) frequencies.<strong style=\"\"> </strong>We will also discuss the applications of RFICs at a system level.</em>  </p>  <p style=\"\">  \t<em style=\"\">You will initially learn about various RF parameters like <strong style=\"\">S- parameters, VSWR, Reflection Coefficient, etc.</strong> and also understand the analysis of <strong style=\"\">RF circuits</strong> and <strong style=\"\">transmission lines </strong>using <strong style=\"\">Smith Charts</strong> and <strong style=\"\">Equations. </strong>Alongside, we will also teach you about some fundamentals like <strong style=\"\">impedance matching</strong> and power measurement in <strong style=\"\">decibels.</strong></em>  </p>  <p style=\"\">  \t<em style=\"\"> We will then glance through the captivating <strong style=\"\">Integrated Circuit Fabrication</strong> process and the various steps, materials, and techniques involved in IC Fabrication. You will also learn about <strong style=\"\">Foundries and PDKs</strong> and why they are important.  </em>  </p>  <p style=\"\">  \t<em style=\"\">  We will briefly look at the concept of <strong style=\"\">VLSI Technology </strong>and how VLSI is associated with RFIC designing. Later, we will see the basics of <strong style=\"\">CMOS </strong>and how CMOS is used in RF Design.  Finally, you will learn about some interesting circuit designs like the RF <strong style=\"\">Power Amplifier (PA) </strong>and the various RF power amplifier <strong style=\"\">architectures</strong> and <strong style=\"\">topologies.</strong></em>  </p>  <p style=\"\">  \t<em style=\"\">This course will enhance your knowledge about Radio Frequency Design which is applied in most of the jobs available in  top Wireless and Telecommunication based companies designing wireless products. </em>  </p>  <p style=\"\">  \t<em style=\"\">We hope you enjoy this course!!!</em>  </p>  <p style=\"\">  \t<em style=\"\"><br style=\"\">  \t</em>  </p>  <p style=\"\">  \t<em style=\"\"><br style=\"\">  \t</em>  </p>  <p style=\"\">  \t<strong style=\"\"></strong>  </p>", 
+    "end_date": null, 
+    "title": "Essentials of Advanced Radio Frequency IC Design", 
+    "price": "50.00", 
+    "instructors": "Sanjay Moghe", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/345982_125a.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-radio-frequency-integrated-circuit-design/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-16T08:26:45Z"
+}

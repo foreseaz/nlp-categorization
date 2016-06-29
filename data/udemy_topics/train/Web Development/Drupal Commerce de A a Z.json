@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<em style=\"\"><strong style=\"\"> Gostarias de criar a tua loja online como um resultado profissional?</strong></em>  </p>  <p style=\"\">  \t<em style=\"\"><strong style=\"\"> Ouviste falar do potencial da framework Drupal Commerce, mas não sabes por onde começar?</strong></em>  </p>  <p style=\"\">  \t Se a resposta é afirmativa a uma das questões, este curso é para ti.  </p>  <p style=\"\">  \t O objectivo é permitir que a qualquer pessoa familiarizada com o Drupal ou que deseje criar um negócio online possa criar uma loja de raiz.  </p>  <p style=\"\">  \t O curso desenrola-se em etapas com exercícios práticos e explicação passo a passo e cobrem:  </p>  <ul style=\"\">  \t<li style=\"\">configuração básica da loja,</li>  \t<li style=\"\">princípios de funcionamento,</li>  \t<li style=\"\">criação de produtos e displays flexíveis,</li>  \t<li style=\"\">utilização da API para modificar o comportamento default de um componente,</li>  \t<li style=\"\">implementação de sistema de pesquisa facetada, relatórios...</li>  </ul>  <p style=\"\">  \t Ao contrário de outras soluções ecommerce, demasiado rígidas e convencionais, o Drupal Commerce é muito flexível e poderoso.  </p>  <p style=\"\">  \t Depois desta introdução, ficas apto a utilizar Drupal Commerce em projectos com diferentes requisitos e perfis.  </p>", 
+    "end_date": null, 
+    "title": "Drupal Commerce de A a Z", 
+    "price": "50.00", 
+    "instructors": "Cláudia Amorim", 
+    "commitment": "14 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/203032_c6ec_3.jpg", 
+    "course_url": "https://www.udemy.com/drupal-commerce-de-a-a-z/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-22T08:09:16Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><u><strong>Course</strong>:</u> Oracle Access Manager (OAM) 11gR2 for Administrators including Integration with Oracle E-Business Suite (R12)<br></p>\n\n<p><strong><u>Benefits</u> :  </strong>After completing this course you will be able to  configure and administer Oracle Access Manager 11gR2 along with Single Sign On features.</p>\n\n\n\n<p><u><strong>Delivery</strong>:</u> Online</p>\n\n\n\n<p><strong><u>Agenda :</u> </strong>This job oriented training allows administrators and architects to gain valuable  experience and insights on Oracle Access Manager (OAM), WebGates, OAM Administration Console, Oracle HTTP Server (OHS), and WebLogic Server. This training also covers installation, configuration, and integration of Oracle WebLogic Server, Oracle Access Manager, Oracle HTTP Server and configuring protected and public URLs. You will also learn how to troubleshoot various OAM issues . In this training, You will also learn Oracle Access Manager integration with Oracle E-Business Suite (R12).</p>\n\n\n\n<p><strong><u>Target Audience</u></strong>: Oracle Apps. Consultants, Oracle DBA', Identity &amp; Access Management Consultants,  </p>\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Oracle Access Manager Adminstration Bootcamp", 
+    "price": "20.00", 
+    "instructors": "Security Skills Hub", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/659986_13e2_3.jpg", 
+    "course_url": "https://www.udemy.com/oracle-access-manager-adminstration-bootcamp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-04T12:31:27Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Calculus & Mathematical Analysis"
+    ], 
+    "description": "\n\n                    \n                    \n                    Premier volet d’une série de cours consacrés aux équations d’évolution, ce cours introduit l’auditeur à la théorie des équations différentielles. Les équations différentielles ordinaires sont d’usage universel aujourd’hui, dans toutes les sciences et dans l’industrie. Ce cours permettra de se familiariser avec leur langage et leur théorie, et de maîtriser les principales techniques d’étude qualitative (comportement en temps grand, stabilité, approximation...). Il s’agit aussi d’une préparation à un cours d’équations aux dérivées partielles, qui comptent parmi les outils mathématiques les plus importants et multiformes du monde contemporain.Le cours commence par une mise en perspective des équations d’évolution, puis se concentre sur les équations différentielles ordinaires. On y abordera les thèmes suivants : étude locale, existence et unicité, étude qualitative du comportement à long terme, introduction à la modélisation.Les participants disposeront ainsi du bagage permettant d’étudier et d’utiliser les modèles d’EDO.\n\n                                    ", 
+    "end_date": "2015-02-24T00:00:00Z", 
+    "title": "Equations différentielles : de Newton à nos jours", 
+    "price": 0, 
+    "instructors": "Diaraf Seck and Cédric Villani", 
+    "institution_name": [
+        "Sorbonne Universités"
+    ], 
+    "commitment": "4 hours", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.france-universite-numerique-mooc.fr/courses/UPMC/18002/Trimestre_1_2015/about", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "France Université Numerique"
+    ], 
+    "start_date": "2015-01-13T00:00:00Z"
+}

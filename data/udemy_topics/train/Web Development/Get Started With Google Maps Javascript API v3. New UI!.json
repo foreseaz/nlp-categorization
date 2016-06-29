@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Learn </strong>how<strong> to embed a Google Map</strong> to your homepage and how to customize it with step-by-step instructions and examples.</p><p>Create <strong>Google Maps</strong> to your homepage that fits to its design and content. A <strong>customized map</strong> is always more engaging.</p><p>If you use personalized map, it can contain more relevant information. In this course you can learn how to embed a map and how to customize it.</p><p>I will show you, how <strong>easy </strong>is to create a map.</p><p>This course takes a <strong>step-by-step</strong> approach to prepare a useful, <strong>interactive map</strong>, which hopefully gives <strong>more benefit</strong> to your homepage.</p><p>The course includes, how to:</p><ul><li>Obtain an <strong>API key</strong>,</li><li>Set up your very <strong>first map</strong>,</li><li>Put <strong>markers </strong>on it,</li><li>Set its appearance with setting <strong>styles</strong>,</li><li>Use the controls with the <strong>new UI </strong>(v3.22)</li><li>Handling <strong>events</strong>,</li><li>Displaying <strong>info-window</strong>,</li><li><strong>Draw </strong>lines and shapes,</li><li>etc.</li></ul><p>The course also contains <strong>downloadable</strong> working <strong>samples</strong>.</p><p>Join my course today and get the knowledge of Google Maps API!<br></p>", 
+    "end_date": null, 
+    "title": "Get Started With Google Maps Javascript API v3. New UI!", 
+    "price": "25.00", 
+    "instructors": "Miklos Kiss", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/660056_5eac_8.jpg", 
+    "course_url": "https://www.udemy.com/get-started-with-google-maps-javascript-api-v3/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-04T14:26:23Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">This course will give you the tools you need to create your own custom search application. Throughout this course, you&#039;ll see how rewarding Elasticsearch can be to work with and how to use it to build a real search application complete with results, highlighting, filters, and autocomplete.</p><p style=\"\">Starting with an introduction to Elasticsearch and client-side applications, we&#039;ll then move on to learn how Elasticsearch automatically classifies field types, and what to do if they need to be overridden. We will also cover many of the query types that Elasticsearch provides to return results for our AngularJS application. Once we have some basic results, we will add filters (called aggregations in Elasticsearch) to make it easy for users to narrow down the results to a specific topic. Then we will cover how to implement autocomplete and highlighting, and ultimately wrap up with an overview of deployment and security.</p> This course will equip you with the tools that you need to craft rich search interfaces that deliver great results to your users.<p style=\"\"><strong style=\"\">About the Author</strong></p><p style=\"\"><strong style=\"\">Daniel Beach</strong> is a search architect, specializing in client-side application development. He works at Opensource Connections where he has built search applications for organizations ranging from publishers to government agencies.</p>", 
+    "end_date": null, 
+    "title": "Building a Search Server with Elasticsearch", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/506062_0ba9_2.jpg", 
+    "course_url": "https://www.udemy.com/building-a-search-server-with-elasticsearch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-19T12:05:11Z"
+}

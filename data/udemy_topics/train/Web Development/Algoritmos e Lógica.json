@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>São mais de 300 videoaulas. Se você acha que entende bem de algoritmo e lógica, mas tem dificuldade de implementar no Java ou Pascal no no C, esse curso também lhe será muito útil. É o maior conteúdo de algoritmo e lógica e programação do Brasil (acho que do mundo também). Aprenda:</p><ul><li>Variáveis e Tipos de Dados</li><li>Crie um algoritmo para calcular o salário líquido de um funcionário</li><li>Operadores Relacionais</li><li>Estrutura Condicional SE Aperfeiçoamento</li><li>Laço de repetição Para Tabuada Algoritmo</li><li>Fluxograma</li><li>E muito mais...</li></ul><div>Veja o cronograma de algumas das videoaulas:</div><div><br><ul><li>aula 0945 - Introdução</li><li>aula 0946 - Algoritmo 1</li><li>aula 0947 - Exercicio 1</li><li>aula 0948 - Variáveis e Tipos de Dados</li><li>aula 0949 - Media</li><li>aula 0950 - Fluxograma</li><li>aula 0951 - Dev-pascal</li><li>aula 0952 - Dev-pascal Media</li><li>aula 0953 - Dev-C++</li><li>aula 0954 - Dev-C++ Media</li><li>aula 0955 - Java Instalação</li><li>aula 0956 - Java Media</li><li>aula 0957 - Pascal Media Ler</li><li>aula 0958 - Pascal Media Ler II</li><li>aula 0959 - C Media Ler</li><li>aula 0960 - java Media Ler</li><li>aula 0961 - Tipos de Dados no Algoritmo</li><li>aula 0962 - Tipos de Dados no Pascal</li><li>aula 0963 - Tipos de Dados no C</li><li>aula 0964 - Tipos de Dados no Java</li><li>aula 0965 - Operadores Matematicos Algoritmo</li><li>aula 0966 - Operadores Matematicos Pascal</li><li>aula 0967 - Operadores Matematicos no C</li><li>aula 0968 - Operadores Matematicos no Java</li><li>aula 0969 - Exerc Troca Valores no Algoritmo</li><li>aula 0970 - Exerc Troca Valores no Pascal</li><li>aula 0971 - Exerc Troca Valores no C</li><li>aula 0972 - Exerc Troca Valores no Java</li><li>aula 0973 - Exerc Automóvel no Algoritmo</li><li>aula 0974 - Exerc Automóvel no Algoritmo Teste Mesa</li><li>aula 0975 - Exerc Automóvel no Pascal</li><li>aula 0976 - Exerc Automóvel no C</li><li>aula 0977 - Exerc Automóvel no Java</li><li>aula 0978 - Exerc Avaliação no Algoritmo</li><li>aula 0979 - Exerc Avaliação Teste de Mesa</li></ul><div><span style=\"\">....... e muito mais, não esqueça, são mais de 300 videoaulas</span></div></div><ul></ul>", 
+    "end_date": null, 
+    "title": "Algoritmos e Lógica", 
+    "price": "30.00", 
+    "instructors": "Neri Neitzke", 
+    "commitment": "35.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/226784_5fc2_3.jpg", 
+    "course_url": "https://www.udemy.com/algoritmos-e-logica/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-22T23:03:25Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    Have you ever wondered how mathematics can be used to solve big data problems? This course will show you how.\n\nMathematics is everywhere, and with the rise of big data it becomes a useful tool when extracting information and analysing large datasets.\n\nLearn how maths underpins big data analysis\n\nWe will begin by explaining how maths underpins many of the tools that are used to manage and analyse big data. We will show you how very different applied problems can have common mathematical aims, and therefore can be addressed using similar mathematical tools.\n\nWe will then proceed to introduce three such tools, based on a linear algebra framework. These tools and the problems that they address are:\n\n\n  eigenvalues and eigenvectors for ranking\n  graph Laplacian for clustering\n  singular value decomposition for data compression.\n\n\nDevelop your analysis skills with big data case studies\n\nWe will show you how these methods can be applied to a variety of case studies, including ranking websites, profiling leukaemia patients, taking selfies, and so on.\n\nOur hands-on approach will allow you to develop your analytic skills using self-contained datasets, deepen your understanding of the underlying mathematical methods, and explore how these methods can be applied to big data in your area.\n\nContinue learning with the Big Data Analytics program\n\nThis course is one of four in the Big Data Analytics program on FutureLearn from the ARC Centre of Excellence for Mathematical and Statistical Frontiers at Queensland University of Technology (QUT).\n\nThe program enables you to understand how big data is collected and managed, before exploring statistical inference, machine learning, mathematical modelling and data visualisation.\n\nWhen you complete all four courses and buy a Certificate of Achievement for each, you will earn a FutureLearn Award as proof of completing the program of study.\n\nAcknowledgements\nQUT would like to thank the following content contributors:\n\n\n  Kevin Burrage\n  Giuseppe De Martino\n  Steve Psaltis\n  Ian Turner\n\n\n\n                                    ", 
+    "end_date": "2016-10-17T00:00:00Z", 
+    "title": "Big Data: Mathematical Modelling", 
+    "price": 0, 
+    "instructors": "Tomasz Bednarz, Ian Turner and Kerrie Mengersen", 
+    "institution_name": [
+        "Queensland University of Technology"
+    ], 
+    "commitment": "2 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "http://www.futurelearn.com/courses/big-data-mathematical-modelling?utm_campaign=Courses+feed&utm_medium=courses-feed&utm_source=courses-feed", 
+    "duration": "2 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "FutureLearn"
+    ], 
+    "start_date": "2016-10-03T00:00:00Z"
+}

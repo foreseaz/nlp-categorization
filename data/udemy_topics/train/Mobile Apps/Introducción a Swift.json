@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em style=\"\">Una breve introducción</em><em style=\"\"> </em><em style=\"\">para desarrolladores Objective-C que quieren incorporar Swift a su arsenal sin perder el tiempo.</em></p><p>Fragmento de nuestro súper curso <strong style=\"\">Swift para Programadores Objective-C,</strong> dirigido a desarrolladores que quieran hacer una transición de Objective-C a Swift de forma rápida y eficiente.</p><p>Aunque hay muchos libros y cursos de Swift, todos pecan del mismo defecto: te mandan a la casilla de salida y te toca empezar de cero. Parece que todo lo que sabes de Cocoa se pierde y te toca pasar de Gran Maestro Jedi a Padawan de nuevo.</p><p>¡Por supuesto que todo tu conocimiento sigue siendo válido! Tan sólo necesitas aprender cómo mapear tu sabiduría de Objective-C a Swift y aprender los conceptos que de verdad son nuevos.</p><p>Esta introducción GRATIS a Swift es el primer paso para lograrlo.</p>", 
+    "end_date": null, 
+    "title": "Introducción a Swift ", 
+    "price": 0, 
+    "instructors": "KeepCoding Online, KeepCoding Team", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/405342_4dd1_2.jpg", 
+    "course_url": "https://www.udemy.com/introduccion-a-swift-para-desarrolladores-objective-c-agbotraining/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-27T15:30:24Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This Microsoft Exchange Server 2016 training course from 24Directlearnig teaches you the fundamentals of the latest version of Exchange.</p><p>Microsoft Exchange Server 2016 is the latest release of the Microsoft Messaging Suite of products<span>. Its goal is to support people and organizations as their work habits evolve from a communication focus to a collaboration focus. At the same time, Exchange 2016 helps lower the total cost of ownership whether you deploy Exchange 2016 on-premises or provision your mailboxes in the cloud.<span> </span></span>In this course we will discuss the architectural changes in new release of exchange Server 2016 from its previous version. We will look at the new features introduced and features which are discontinued in Exchange 2016. We will see the deployment of Exchange 2016 and various configuration Settings. Once you have completed this computer based training course, you will be fully capable of knowing this new e-mail based communications server.</p>", 
+    "end_date": null, 
+    "title": "Microsoft Exchange Server 2016 - First Look", 
+    "price": "25.00", 
+    "instructors": "24 Directlearning", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/682240_dfd9.jpg", 
+    "course_url": "https://www.udemy.com/exchange-server-2016-first-look/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-27T08:39:22Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><span style=\"color: black;\"> </span></p><p><span style=\"color: rgb(51, 51, 51);\">XML is a mark up language used to record data which is\nreadable to both people and also a range of software applications. XML is used\nextensively in the publishing world to fill layouts with content and enable\npeople with no database development skills to build data structures with ease.<br>\n</span><span style=\"color: rgb(53, 53, 53);\">XML is a popular standard for exchanging data\nbetween applications and organisations.</span></p><p><span style=\"color: rgb(53, 53, 53);\">This course will teach you the very basics of XML\nfrom the syntax to document structure.</span></p><p><span style=\"color: rgb(53, 53, 53);\">The course is video based and less than 1 hour\nlong.</span></p><p><span style=\"color: rgb(53, 53, 53);\">What you will learn includes:</span></p><ul><li><!--[if !supportLists]--><span style=\"color: rgb(53, 53, 53);\">·  </span><!--[endif]--><span style=\"color: rgb(53, 53, 53);\">How to write a proper XML syntax</span></li><li><!--[if !supportLists]--><span style=\"color: rgb(53, 53, 53);\">· </span><!--[endif]--><span style=\"color: rgb(53, 53, 53);\">How to create your own custom tags</span></li><li><!--[if !supportLists]--><span style=\"color: rgb(53, 53, 53);\">· </span><!--[endif]--><span style=\"color: rgb(53, 53, 53);\">How to set a root element</span></li><li><!--[if !supportLists]--><span style=\"color: rgb(53, 53, 53);\">· </span><!--[endif]--><span style=\"color: rgb(53, 53, 53);\">How to create nested child elements</span></li><li><!--[if !supportLists]--><span style=\"color: rgb(53, 53, 53);\">· </span><!--[endif]--><span style=\"color: rgb(53, 53, 53);\">How to create a document structure</span></li><li><!--[if !supportLists]--><span style=\"color: rgb(53, 53, 53);\">· </span><!--[endif]--><span style=\"color: rgb(53, 53, 53);\">How to use comments</span></li></ul><span style=\"color: black;\"></span><span style=\"color: rgb(53, 53, 53);\"></span><p><span style=\"color: rgb(53, 53, 53);\"></span></p>", 
+    "end_date": null, 
+    "title": "XML For Absolute Beginners: Learn to create your own tags", 
+    "price": "20.00", 
+    "instructors": "Bluelime Learning Solutions", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/688872_2fa5_2.jpg", 
+    "course_url": "https://www.udemy.com/xml-for-absolute-beginners-learn-to-create-your-own-tags/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-04T13:20:57Z"
+}

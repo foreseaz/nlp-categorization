@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t        This course covers the basics of CSS. CSS is one of the major components in web development and web design. It allows us to control how our site and/or application will look. With CSS, we can control things like the layout, colors, and font sizes.  </p>  <p style=\"\">  \t        We’ll cover the basics of CSS, including how it works, how to make changes to the visuals of your site, and even get into some semi-advanced techniques for controlling your content.  </p>  <p style=\"\">  \t<strong style=\"\">        Course Includes:  </strong>  </p>  <ul style=\"\">  \t<li style=\"\">9 external resource files</li>  \t<li style=\"\">5 practice exercises to help you master the basics</li>  </ul>  <p style=\"\">  \t<strong style=\"\">        What You&#039;ll Learn:  </strong>  </p>  <ul style=\"\">  \t<li style=\"\">CSS Terminology</li>  \t<li style=\"\">Units</li>  \t<li style=\"\">Inline Styles</li>  \t<li style=\"\">Style Tags</li>  \t<li style=\"\">CSS Files</li>  \t<li style=\"\">Basic Selectors</li>  \t<li style=\"\">IDs and Classes</li>  \t<li style=\"\">Combination Selectors</li>  \t<li style=\"\">Pseudo Selectors</li>  \t<li style=\"\">Starter Rules</li>  \t<li style=\"\">Basic Layout: Block, Inline, Inline-Block, Float, Clear</li>  \t<li style=\"\">Advanced Layout: Absolute, Relative, Fixed</li>  \t<li style=\"\">Centering Techniques: Inline, Horizontal Margin, Vertical</li>  \t<li style=\"\">Normalize</li>  \t<li style=\"\">Clearfix</li>  \t<li style=\"\">Block Formatting Context</li>  \t<li style=\"\">Architecture</li>  \t<li style=\"\">CSS Specificity</li>  \t<li style=\"\">Reusability</li>  \t<li style=\"\">Maintainability</li>  \t<li style=\"\">Modularity</li>  \t<li style=\"\">Scalability</li>  \t<li style=\"\">Semantics</li>  \t<li style=\"\">And More!</li>  </ul>", 
+    "end_date": null, 
+    "title": "Introduction to CSS Development", 
+    "price": 0, 
+    "instructors": "RefactorU LLC", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/212374_a001_4.jpg", 
+    "course_url": "https://www.udemy.com/refactoru-intro-to-css/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-07T15:39:04Z"
+}

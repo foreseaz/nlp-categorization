@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \t    In this course, instructor Laszlo Mandi is going to walk you through his process for creating a security drone inside of Maya and then rendering it in KeyShot. To start, he will be covering basic topology for the mesh and the initial face extrusion to create the metal plating. From there, he will complete the remaining main body mesh, add some simple animation to help visualize the functionality of the asset, and then model the remaining pieces to complete the asset. To wrap things up, he will export the drone into KeyShot where he will be giving a thorough introduction to the rendering software while teaching you how to rendering out individual images and turntables.  </p>  <p style=\"\">  \t  (Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)  </p>  <hr style=\"\">  <p style=\"\">  \t<u style=\"\"><strong style=\"\">More about the Instructor:</strong></u>  </p>  <p style=\"\">  \t  Laszlo (Laz) Mandi is currently in his third year studying Computer Visualization and Animation at the National Centre For Computer Animation (NCCA) in Bournemouth, United Kingdom. Laz specializes in High-Poly Hardsurface Modeling and he has over three years worth of experience in creating tutorials. Laz is working as a freelance generalist next to his studies and projects.  </p>", 
+    "end_date": null, 
+    "title": "Model and Present a 3d Drone using Maya and Keyshot", 
+    "price": 0, 
+    "instructors": "3dmotive LLC", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/330156_0ae2.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-model-and-present-a-3d-drone-using-maya-and-keyshot/", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-29T05:14:41Z"
+}

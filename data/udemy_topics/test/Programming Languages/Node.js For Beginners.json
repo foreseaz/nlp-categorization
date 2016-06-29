@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   Be prepared for the increasing number of jobs and projects that use Node.js technology to create fast, scalable network applications. You&#039;ll use the familiar Javascript programming language to create server side scripts that have amazing power and flexibility.  </p>  <p style=\"\">  \t   By using Javascript as a single language across both the front and back end, you enjoy numerous development advantages-- such as using JSON as a common data structure and the reuse of data resources.  </p>  <p style=\"\">  \t   With Node.js&#039;s increasing popularity, there are literally thousands of opportunities for developers who are trained in the technology. Access these opportunities after taking this course, or simply use the information for yourself to build your personal inventory of skills and abilities.  </p>  <p style=\"\">  \t   You are encouraged to code along with expert instructor Zeke Nierenberg, as you start with the very basics of Node.js and learn the features available in this powerful technology.  </p>", 
+    "end_date": null, 
+    "title": "Node.js For Beginners", 
+    "price": "20.00", 
+    "instructors": "LearnToProgram, Inc., Zeke Nierenberg", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/201292_68d4_3.jpg", 
+    "course_url": "https://www.udemy.com/nodejs-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-18T14:51:04Z"
+}

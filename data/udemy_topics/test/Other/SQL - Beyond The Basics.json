@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t<span style=\"\">In this SQL - Beyond the Basics training course, expert author Guy Vaccaro will dive deeper into SQL and covers advanced techniques. This course is designed for users that already have experience with SQL. You will start by learning a variety of useful skills, including how to convert datatypes, create a temporary table, and declare and use variables. From there, Guy will teach you about sub queries, the CASE statement, and numbering and ranking. </span>  </p>  <p style=\"\">  \t<span style=\"\">This video tutorial also covers using built in functions, creating and using your own functions, and creating views. Finally, you will learn about stored procedures, such as how to create and run a stored procedure, loop with WHILE and IF, and dynamically build SQL statements. Once you have completed this computer based training course, you will have expanded your skills and be able to make more efficient use of SQL.</span>  </p>", 
+    "end_date": null, 
+    "title": "SQL - Beyond The Basics", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/407084_1961_4.jpg", 
+    "course_url": "https://www.udemy.com/sql-beyond-the-basics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-28T20:31:31Z"
+}

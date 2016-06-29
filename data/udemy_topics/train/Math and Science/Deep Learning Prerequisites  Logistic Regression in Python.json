@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>This course is a lead-in to <strong class=\"redactor-inline-converted\">deep learning</strong> and <strong class=\"redactor-inline-converted\">neural networks</strong> - it covers a popular and fundamental technique used in machine learning, data science and statistics: logistic regression. We cover the theory from the ground up: derivation of the solution, and applications to real-world problems. We show you how one might code their own logistic regression module in Python.</p>\n\n<p>This course does not require any external materials. Everything needed (Python, and some Python libraries) can be obtained for free.</p>\n\n<p>This course provides you with many practical examples so that you can really see how deep learning can be used on anything. Throughout the course, we'll do a course project, which will show you how to predict user actions on a website given user data like whether or not that user is on a mobile device, the number of products they viewed, how long they stayed on your site, whether or not they are a returning visitor, and what time of day they visited.</p>\n\n\n\n<p>Another project at the end of the course shows you how you can use deep learning for facial expression recognition. Imagine being able to predict someone's emotions just based on a picture!</p>\n\n\n\n<p>If you are a programmer and you want to enhance your coding abilities by learning about <strong>data science</strong>, then this course is for you. If you have a technical or mathematical background, and you want use your skills to make <strong>data-driven decisions</strong> and optimize your business using scientific principles, then this course is for you.</p><p><br></p><p>NOTES:</p><p>All the code for this course can be downloaded from my github: /lazyprogrammer/machine_learning_examples</p>\n\n<p>In the directory: logistic_regression_class</p>\n\n<p>Make sure you always \"git pull\" so you have the latest version!</p>\n\n<p>HARD PREREQUISITES / KNOWLEDGE YOU ARE ASSUMED TO HAVE:</p>\n\n<ul><li>calculus</li><li>linear algebra</li><li>probability</li><li>Python coding: if/else, loops, lists, dicts, sets</li><li>Numpy coding: matrix and vector operations, loading a CSV file</li></ul><p><br></p>", 
+    "end_date": null, 
+    "title": "Deep Learning Prerequisites: Logistic Regression in Python", 
+    "price": "50.00", 
+    "instructors": "Justin C", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/659368_e64f.jpg", 
+    "course_url": "https://www.udemy.com/data-science-logistic-regression-in-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-03T21:08:38Z"
+}

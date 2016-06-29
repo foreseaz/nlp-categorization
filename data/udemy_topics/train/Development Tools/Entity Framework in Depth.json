@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Entity Framework is an Object / Relational Mapper (O/RM) that helps you read and write data from and to a database. In this course, Mosh, teaches you the core concepts of Entity Framework through a series of clear, concise and hands-on lectures. </p><p><br></p><p>Whether you're new to Entity Framework, or been using it for a while but are looking for a comprehensive course with a clean structure to fill the missing parts, you're going to love this course.</p><p><br></p><ul><li>Understand the differences between code-first and database-first workflows </li><li>Build a domain model using database-first workflow</li><li>Build a domain model using code-first workflow (with a new or an existing database)</li><li>Use code-first migrations to upgrade or downgrade your database </li><li>Override code-first conventions (using data annotations and fluent API)</li><li>Query data using LINQ (using query syntax and extension methods)</li><li>Use eager loading, lazy loading and explicit loading effectively </li><li>Add, update and remove objects </li><li>Use additional tools to profile and troubleshoot your applications </li><li>Understand what the repository pattern is, why and when to use it and how </li><li>Apply best practices with Entity Framework </li></ul><p><br></p><p>Unlike other books or courses that teach Entity Framework like a manual, Mosh walks you through real-world scenarios using his extensive experience in the field. Not only does he teach you the fundamentals of Entity Framework, he'll also teach you best practices along the way. </p><p><br></p><p>In each section, you'll find exercises to help you reinforce the materials. These exercises have been chosen from real-world scenarios to help you prepare for the challenges of the real-world. Also, some sections include cheat sheets to you can quickly review what you learn in that section. </p><p><br></p><p>This course is produced with Entity Framework 6 and will be updated as new versions of Entity Framework come out. If you're using an older version of Entity Framework, you can still take this course as long as your version of Entity Framework is 4.1 or higher. </p><span></span><p><br></p><p><strong>What others say</strong><br></p><p>\"May God bless you and your efforts to create high quality courses. This has really changed my life from working as a security guard and doing websites for free, now I am a professional.\" -Danish Jafri<br></p><p><br></p><p>\"I'm impressed by Mosh's ability to strike the right balance of topic background, demo and tip and tricks to get around common issues when learning a technology. Great job Mosh! I'm more than happy to have invested my time and money in your work.\" -Ben Holtzman</p><p><br></p><p>\"Excellent course! Mosh has a brilliant style and all of his courses are well presented and very high quality. This course was no exception and I learnt a lot from it.\" -Steven Barnett</p><p><br></p><p>\"It´s a pleasure following the lessons, It´s like a good book, you always want to read another chapter. This is not siimple a course of EF, it goes further, gives a very good explanation of Linq and the most brilliant description of Repository Pattern and Unity of work. Please keep doing courses. To be honest I believe that you should leave your work and spend the rest of your life teaching ;).\" -Martin Suarez</p><p><br></p><p>\"I'd taken a lot of video classes, and this is the best I'd taken. Very well explained, detailed and a good real life examples, lots of tips and more.\" -Oscar Vargas</p><p><br></p><p>\"As always... Mosh nails it with his thorough explanations (without all the \"I'm better than you vibe\").\" -Mike Loffland</p><p><br></p><p><strong>100% money back guarantee</strong></p><p>This course comes with a 30-day money back guarantee. If you're not happy, ask for a refund, all your money back, no questions asked.</p><p><br></p><p><strong>Do you want to take your programming skills to the next level?</strong></p><p>Then take the course now and let's get started. </p><br>", 
+    "end_date": null, 
+    "title": "Entity Framework in Depth", 
+    "price": "20.00", 
+    "instructors": "Mosh Hamedani", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/551498_7081.jpg", 
+    "course_url": "https://www.udemy.com/entity-framework-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-11T01:36:04Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t   Este curso nos permite sacar todo el partido a una de las herramientas de visualización geográfica más extendidas: Google Earth  </p>  <p>  \t   -Utilizando esta plataforma y valiendonos de los ficheros kml y Colada vamos a aprender de forma práctica los recursos que tenemos a nuestro alcance en visualización de datos con GE  </p>  <p>  \t   -Con este curso aprenderás a:  </p>  <ul style=\"\">  \t<li>Crear archivos para visualizarlos en GE y personalizarlos de manera profesional</li>  \t<li>Utilizar la animación temporal para mostrar tus datos de forma dinámica</li>  \t<li>Crear visualizaciones de saltan a la vista</li>  \t<li>Grabar video y exportarlo desde Google Earth</li>  </ul>", 
+    "end_date": null, 
+    "title": "Dataviz con Google Earth", 
+    "price": "50.00", 
+    "instructors": "Jorge Ubero", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/194766_25b0_3.jpg", 
+    "course_url": "https://www.udemy.com/dataviz-google-earth/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-07T00:53:37Z"
+}

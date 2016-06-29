@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Statistics & Probability"
+    ], 
+    "description": "\n\n                    \n                    \n                    En este curso presentaremos los contenidos fundamentales sobre Estadística descriptiva. Empezaremos por la estadística unidimensional con el concepto de variable estadística, tablas estadísticas, ya sean tablas de datos simples o tablas de datos agrupados en intervalos, y los gráficos estadísticos. Después, introduciremos las medidas de centralización y dispersión para cada uno de los tipos de tablas. Para finalizar, introduciremos las variables estadísticas bidimensionales, parámetros y rectas de regresión.\r\nConocimientos necesarios:\r\nEste curso requiere conocimientos previos mínimos: operaciones básicas, raíz cuadrada, representación de puntos y rectas en el plano.\n\n                                            Syllabus\n                        Módulo 1. Introducción a la estadística descriptiva unidimensional, tablas y gráficos estadísticos.\r\nMódulo 2. Parámetros estadísticos para tablas de datos simples.\r\nMódulo 3. Parámetros estadísticos para datos agrupados en intervalos.\r\nMódulo 4. Estadística bidimensional y regresión lineal.\n                                    ", 
+    "end_date": "2014-08-15T00:00:00Z", 
+    "title": "Estadística descriptiva", 
+    "price": 0, 
+    "instructors": "Juan Medina Molina", 
+    "institution_name": [
+        "Universidad Politécnica de Cartagena"
+    ], 
+    "commitment": "4 hours", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.miriadax.net/web/estadistica-descriptiva-4edicion", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Miríada X"
+    ], 
+    "start_date": "2014-07-18T00:00:00Z"
+}

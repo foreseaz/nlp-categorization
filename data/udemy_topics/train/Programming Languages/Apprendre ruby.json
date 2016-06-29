@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Dans ce programme de formation complet vous apprendrez à manipuler Ruby depuis les concepts les plus simples comme les chaines de caractères, les tableaux aux plus compliqués comme les Thread, les tests et le debugger.</p><p>Au total ces 3H de formation gratuites vous permettront de maitriser Ruby sans aucune connaissance préalable.</p>\n\n<p>Ce programme s'adresse à tous et ce gratuitement, ne perdez pas à une minute.</p>", 
+    "end_date": null, 
+    "title": "Apprendre ruby", 
+    "price": 0, 
+    "instructors": "Martin Catty", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/803924_0138_3.jpg", 
+    "course_url": "https://www.udemy.com/apprendre-ruby/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-25T16:43:32Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>More than 5 hours of lectures covering HTML, CSS, BootStrap, JavaScript and JQuery. You don't need to know every detail of the topics to get started on building your website.</p><p>9 projects as assignments will force you to learn through yourself, whose knowledge will eventually retain in your body.</p><p><strong>Why this course?</strong></p><p>There are many web front-end courses out there. This course has the following features:</p><ul><li>You don't need to know every detail to get started. This course goes through the essential parts of each subject with examples, not to a wildly comprehensive level, but enough to get you started.</li><li>HTML + CSS + BootStrap + JavaScript + JQuery. A good package of skills and pretty much what you need to start to build a modern website front-end.</li><li>No detail steps for your projects. You have to rely on yourself to use the knowledge learned to build your own projects. This could be hard. However, you would definitely be able to achieve it with patience and efforts.</li></ul><p><br></p><p><strong>Why there is no detail steps in those projects?</strong><br></p><p>Usually a project is guided as a walk-through in other online courses. The good side is that you can follow the steps to build whatever it instructs you. However, simply typing by following instructions doesn't give much to you. You have to first understand and then do it on your own to retain those knowledge in your body. Project without detail steps trains you on how to attack the problem (the project to be built in this case) using the knowledge learned. Hence, you need to do your research and find ways to solve each issue blocking you from going further. </p><p>There are two ways of thinking, reactive thinking and proactive thinking. Reactive is you start to remember something after logically reminded by other things. Proactive is thinking without direct reminding or hints. The latter is much more difficult than the former. Doing projects by reverse engineering trains you in the latter form.</p><p><br></p><p><strong>What if I get stuck or don't understand it?</strong></p><p><strong></strong>Well, that's the point of learning, right? Try to search online and use resources to solve your problems. You need to think and train yourself to learn how to attack any obstacles that in front of you.<br></p><p><br></p><p><strong>But there are other courses that have longer duration and wider coverage on those topics?</strong></p><p>You can learn comprehensively or learn what is enough to get you started. I personally enjoy knowing just what I need so that I can get my hands dirty on doing stuff. Look at those topics that are covered in this book, each one could be a complete book or course to study. It all depends on what you are interested in.</p><p><br></p><p><strong>So what should I plan to do?</strong></p><p>1. Watch the tutorial video and know the element topics in the tutorial.</p><p>2. Practice writing code of each element topic yourself and see the outcome of it. Any trouble, google it.</p><p>For project, you can design the layout first and then add in JavaScript/JQuery to control the logic.</p>", 
+    "end_date": null, 
+    "title": "The Fundamentals of Web Front-End Development", 
+    "price": "20.00", 
+    "instructors": "Le Deng", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/660594_aa6e_3.jpg", 
+    "course_url": "https://www.udemy.com/crashing-course-for-web-front-end-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-05T00:41:02Z"
+}

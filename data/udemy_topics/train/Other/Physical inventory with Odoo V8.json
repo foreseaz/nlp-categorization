@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t  Do you have Odoo Warehouse management in place?  </p>  <p>  \tYou will learn how to initialise or adjust the stock during the regular physical inventory. You will first discover the full process, inside and outside Odoo, and then see how this is carried on in Odoo V8. At the end, you will see the full process for an annual inventory.  </p>  <p>  \tThe course has a duration of around 30 minutes.  </p>  <p>  \tNext to the videos, you will get a full presentation that you can download and use as a reference.  </p>  <p>  \tYou will also get access to the teacher to answer any course related question within 24 hours.  </p>  <p>  \tLet&#039;s start it now!  </p>", 
+    "end_date": null, 
+    "title": "Physical inventory with Odoo V8", 
+    "price": "20.00", 
+    "instructors": "Eva Pinter", 
+    "commitment": "35 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/398450_bc23_3.jpg", 
+    "course_url": "https://www.udemy.com/physical-inventory-with-odoo-v8/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-19T21:08:43Z"
+}

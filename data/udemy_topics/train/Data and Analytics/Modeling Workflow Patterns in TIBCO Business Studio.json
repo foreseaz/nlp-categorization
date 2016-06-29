@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\">  \t ‘Modeling Workflow Patterns in TIBCO Business Studio’ examines several common workflow control patterns and workflow resources patterns used by practitioners to support workflow development.  Upon completion you’ll be able to use TIBCO Business Studio to model the several workflow patterns demonstrated in the course.  </p>  <p style=\"\">  \t The course begins with an explanation of the purpose of workflow patterns and how they are applied to workflow processes. It introduces you to a source of formal workflow pattern specifications that TIBCO uses as part of it’s process design methodology.  </p>  <p style=\"\">  \t Prior to pattern modeling demonstrations of the course, you&#039;ll be instructed on how you can obtain your own copy of TIBCO Business Studio with which to practice modeling workflow patterns.  </p>", 
+    "end_date": null, 
+    "title": "Modeling Workflow Patterns in TIBCO Business Studio", 
+    "price": "20.00", 
+    "instructors": "Instructor TIBCO Education", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/84064_48c4_12.jpg", 
+    "course_url": "https://www.udemy.com/modeling-workflow-patterns-in-tibco-business-studio/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-26T16:48:51Z"
+}

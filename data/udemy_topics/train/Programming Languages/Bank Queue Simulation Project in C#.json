@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><span></span></p><p>This is a course about how to\nimplement C# networking programming skills in a real project. It is an intermediate\nlevel course. In order to proceed with this course, you have to be familiar\nwith the basics of C# language, especially, with the Socket, TcpListener,\nNetwrokStreaming and Threading concepts.</p><p>We will take you to each step of\nthe course in full details, nothing is going to be escaped. For the best\nresult, pause each video several time and practice the exact code we work on. First, we will develop the UI for the project, then the code behind the interface will be developed and explained in full details.</p><p>The topics you will implement through\nthis course in a real project, are the TcpListener, Sockets, NetworkStreaming, and Threading in C# programming language. These are\nthe main topics, but several other concepts will be also discussed during the\ncourse.</p><p>At the end, we\nwill have a real project of Bank Queue Simulation System developed in C#, and you will be able\nto implement your skills of networking programming in other similar real projects. </p>", 
+    "end_date": null, 
+    "title": "Bank Queue Simulation Project in C#", 
+    "price": 0, 
+    "instructors": "Ajmal Jalal", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/775788_7435_2.jpg", 
+    "course_url": "https://www.udemy.com/bank-queue-simulation-project-in-c-sharp/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-27T05:21:01Z"
+}

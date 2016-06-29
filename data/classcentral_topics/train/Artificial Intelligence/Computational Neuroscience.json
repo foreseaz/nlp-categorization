@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Artificial Intelligence"
+    ], 
+    "description": "\n\n                    \n                                            \n                            PSA: This Course will no longer be available June 30th 2016 onwards\n                            Coursera announced that they will be shutting off their old platform on June 30th. Over  400 courses that are part\n                                of the old stack will be no longer be available. You can find the  complete list here.\n                            \n                            \n\n                            \n                                Read this guide to learn how to download this course before the old platform shuts down. \n\n                                The guide provides two ways to download the courses - Chrome Plugin and Python Script. Depending on which method you use, check the appropriate sections below for further details.\n                            \n                            \n                            \n                                To download this course you need to be enrolled in the course.\n                                                                    You can enroll for the course here:\n                                    https://www.coursera.org/course/compneuro\n                                                            \n\n                            Chrome Plugin\n\n                                                            You can download the course materials for this course by visiting the following url (you need to be logged in):\n                                                                        https://class.coursera.org/compneuro-003/lecture\n                                \n                            \n                            Python Script\n                            \n                                                                For the python script to work you will need a class name. Pick one from below:\n                                                                    compneuro-001\n                                                                    compneuro-002\n                                                                    compneuro-003\n                                \n                                \n                                If more than one class name below, pick the last one. If the script fails, pick the one above that and try again. Not all of these class names are guranteed to work.\n\n\n                            \n\n\n\n\n\n\n                        \n                    \n                    This course provides an introduction to basic computational methods for\nunderstanding what nervous systems do and for determining how they function.\nWe will explore the computational principles governing various aspects\nof vision, sensory-motor control, learning, and memory. Specific topics\nthat will be covered include representation of information by spiking neurons,\nprocessing of information in neural networks, and algorithms for adaptation\nand learning. We will make use of Matlab demonstrations and exercises to\ngain a deeper understanding of concepts and methods introduced in the course.\nThe course is primarily aimed at third- or fourth-year undergraduates and\nbeginning graduate students, as well as professionals and distance learners\ninterested in learning how the brain processes information.Beginning with the Spring 2015 offering, Signature Track and Verified \nCertificates are available for this class. The formatting on the \nverified certificate is very slightly different from those for courses \nfrom other institutions. An example certificate is here. (The date on \nthe actual certificates will be different.)\n\n                                            Syllabus\n                        Topics covered include:\n\n1. Basic Neurobiology\n2. Neural Encoding and Decoding Techniques\n3. Information Theory and Neural Coding\n4. Single Neuron Models (Biophysical and Simplified)\n5. Synapse and Network Models (Feedforward and Recurrent)\n6. Synaptic Plasticity and Learning\n                                    ", 
+    "end_date": "2015-06-26T00:00:00Z", 
+    "title": "Computational Neuroscience", 
+    "price": 0, 
+    "instructors": "Rajesh Rao and Adrienne Fairhall", 
+    "institution_name": [
+        "University of Washington"
+    ], 
+    "commitment": "6-8 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/course/compneuro", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2015-05-01T00:00:00Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Finance"
+    ], 
+    "description": "\n\n                    \n                    \n                    We live in an uncertain world. Every day, we need to make decisions about alternatives whose consequences cannot be predicted with certainty. Here are a few examples:\r\n\r\nYou have saved 2000 dollars from your summer internship. Should you put it under your mattress, buy a Certificate of Deposit, Apple stock or an S&amp;P 500 index fund?\r\nYou manage a mutual fund specializing in technology stocks. Which proportion of the fund's total assets should you invest in each of the stocks recommended by your analysts?\r\nYou work for a venture capital firm that wants to exit an investment. How can you compute the fair value the firm's share in the venture?\r\n\r\nIn each of these situations, you need to commit resources (time, money, effort, etc.) in the face of uncertainty about the future. This course develops concepts and tools to address these types of situations. The focus is on basic principles and how they are applied in practice. No prior knowledge of finance required. A basic preparation in mathematics (probability, statistics, and optimization) is desirable; however many technical concepts and tools will be developed or reviewed in the course. The course is appropriate for engineering or science students wishing to apply their quantitative skills to develop a basic understanding of financial modeling and markets. This is a 10 week course. There will be several short (5-30 minutes) lectures each week. Challenges covering the lecture material will be given each week. There will also be two projects that involve real financial data. Solutions will be posted online. Submissions will be evaluated by fellow participants. The following topics will be covered:\r\n\r\nTime is money: understand basic interest rates\r\nEvaluating investments: present value and internal rate of return\r\nFixed-income markets: bonds, yield, duration, portfolio immunization\r\nTerm structure of interest rates 5. Measuring risk: volatility and value at risk\r\nDesigning optimal security portfolios\r\n\n\n                                    ", 
+    "end_date": "2013-07-08T00:00:00Z", 
+    "title": "Finance", 
+    "price": 0, 
+    "instructors": "Kay Giesecke", 
+    "institution_name": [
+        "Stanford University"
+    ], 
+    "commitment": "5 hours", 
+    "subject_name": [
+        "Business & Management"
+    ], 
+    "course_url": "https://novoed.com/finance13", 
+    "duration": "10 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "NovoEd"
+    ], 
+    "start_date": "2013-04-29T00:00:00Z"
+}

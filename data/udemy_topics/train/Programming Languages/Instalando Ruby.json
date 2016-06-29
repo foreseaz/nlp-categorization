@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>En este tutorial aprenderás cómo preparar tu entorno de desarrollo en <strong>Mac</strong>, <strong>Linux</strong> o <strong>Windows</strong> para Ruby de forma sencilla.</p><p>Empezaremos instalando las herramientas necesarias para listar todas las versiones disponibles del lenguaje. Después con estas mismas herramientas instalaremos la última versión y veremos cómo mantenerla actualizada.</p><p>Cuando termines tendrás un entorno preparado para empezar a programar aplicaciones con <strong>Ruby</strong> y <strong>Ruby on Rails</strong>.</p><p>El curso consta de vídeos donde aprenderás a preparar tu entorno de desarrollo paso a paso, desde cero. También incluye un PDF de documentación como referencia.</p><p>En menos de 1 hora tendrás claros los conceptos y la práctica necesaria.</p><p><strong>Aprenderás a:</strong></p><p>- Instalar Ruby</p><p>- Crear una aplicación con Ruby on Rails</p><p>- Configurar un editor</p>", 
+    "end_date": null, 
+    "title": "Instalando Ruby", 
+    "price": 0, 
+    "instructors": "David Morales", 
+    "commitment": "22 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/698442_b009.jpg", 
+    "course_url": "https://www.udemy.com/instalar-ruby/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-15T18:36:25Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Electrical Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    The goal of the course is to give students awareness of the largest alternative form of energy and how organic / polymer solar cells can harvest this energy. The course provides an insight into the theory behind organic solar cells and describes the three main research areas within the field i.e. materials, stability and processing.\n\n                                            Syllabus\n                        Solar Cells and Life Cycle AnalysisBy the end of the module we have set the following goals for you: -You should have gained knowledge on solar cells, and their place as a renewable energy -Be able to distinguish between different solar cell technologies -Describe the difference between the three generations of solar cells -Identify the four steps of life cycle analysis -Determine differences between embedded energy, energy return factor, and energy payback time.Organic and Polymer Solar CellsBy the end of this module you should: -Be able to identify the different steps in the theory behind the solar cells -Be able to measure the efficiency of a solar cell -Be able to describe the different layers in the solar cell and understand their function -Be ready to argue for different applications of the solar cells.Materials in Solar CellsBy the end of this module you should: -Know why we need conjugated polymers and side chains -Know about low band gap polymers -Be able to identify the most common polymerization methods -Be familiar with common characterization techniques used with the materials -Know about acceptor materials used in the active layer of organic solar cells.Stability and DegradationBy the end of this module you should: -Be able to identify different kinds of degradation behaviours -Know about decay curves, including concepts such as burn-in and T80 -Distinguish between different ISOS standards.Solar Cell FabricationBy the end of this module you will be able to: -Describe the lab scale techniques and the pros and cons -Describe the difference between coating and printing -Identify the different coating and printing techniques.Wrapping UpThis is the final module of the course and it is almost time to sit back and congratulate yourself! You just have two more videos and an exam to complete.\n                                    ", 
+    "end_date": "2014-10-13T00:00:00Z", 
+    "title": "Organic Solar Cells - Theory and Practice", 
+    "price": 0, 
+    "instructors": "Eva Bundgaard, Frederik Krebs and Mikkel Jørgensen", 
+    "institution_name": [
+        "Technical University of Denmark (DTU)"
+    ], 
+    "commitment": "3-6 hours", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.coursera.org/learn/solar-cell", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2014-09-01T00:00:00Z"
+}

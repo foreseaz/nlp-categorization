@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>このコースは、初心者向けのプログラミング講座です。<br></p><p>このコースを受ければ、まったくプログラミングをした事がない方でも、プログラマーとしての活動を始められます。</p><p>Virtual Studio Community のインストールもコースで説明しているので、つまずく事はありません。サンプルコード、課題、解答例もついているので、自分でそのソースコードを変更して理解を深める事ができます。</p><p>このコースを受講した日から C# で開発が始められます。<br>このコースのスキルは、Windows アプリケーション開発で役に立ちます。<br>また、プログラミングの基本の説明をしているので、高度なコースを受講して挫折した方でも理解できるでしょう。</p><p><br></p>", 
+    "end_date": null, 
+    "title": "初心者向け C#で学ぶプログラミングの基本", 
+    "price": "40.00", 
+    "instructors": "舩原 理生", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/760396_029f_2.jpg", 
+    "course_url": "https://www.udemy.com/beginer-csharp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-12T05:58:15Z"
+}

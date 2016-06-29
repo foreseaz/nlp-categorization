@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>• <strong class=\"redactor-inline-converted\">This course is a compilation of hundreds of Swift code solutions </strong>neatly organized in sections for fast reference when you need it. Each lecture will highlight example code in a brief video, and demonstrate how to use it correctly, as well as best practices for its implementation.</p>\n\n<p>• <strong class=\"redactor-inline-converted\">Each lecture is downloadable</strong> so you can create your own Swift docs if you want.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>• <strong class=\"redactor-inline-converted\">Anyone who writes Swift code needs this library </strong>in their coding toolbox for fast reference and usage. </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>• <strong class=\"redactor-inline-converted\">Please note: This Swift Cookbook course will not teach you the Swift language, or how to code, </strong>You should already have completed Paul Hudson's Swift tutorials at HackingWithSwift.com, or the Swift Mastery Course, or have written your own existing Swift apps. </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>• <strong class=\"redactor-inline-converted\">This is an ever growing Swift library </strong>with more example code being added on a regular basis. </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>• <strong class=\"redactor-inline-converted\">Featuring example code by the award winning Swift programmer Paul Hudson.</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>•<strong> What the Apple Docs should be.</strong></p>", 
+    "end_date": null, 
+    "title": "The Swift Cookbook of Code", 
+    "price": "20.00", 
+    "instructors": "Stephen DeStefano", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/840084_736c_6.jpg", 
+    "course_url": "https://www.udemy.com/the-swift-cookbook-of-code-snippets-hundreds-of-solutions/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-05T03:39:46Z"
+}

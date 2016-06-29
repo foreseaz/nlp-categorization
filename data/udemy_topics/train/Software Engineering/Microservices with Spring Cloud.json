@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Microservices with Spring Cloud is an online workshop designed to help you learn the Microservices architectural style, and how to implement it using Spring technologies</p><p>This course provides a good, solid introduction to the topic of the Microservices architectural style, and combines this with practical experience gained by working through the exercises featuring Spring Cloud.</p><p>Along the way, this course will provides a brief introduction to Spring Boot and Spring Data (enough to get you familiar with these technologies if you have not been immersed in them already).</p><p>The course provides exercises that provide you with hands-on experience working with the various components of Spring Cloud.</p><p>The goal of this course is to serve as a practical guide through the Spring Cloud projects, so you can see how they are used to implement microservice based architecture.</p><p>By the time you finish this course, you will have gained the ability to articulate what the Microservices architectural style is all about, including its advantages and disadvantages.</p><p>You will gain familiarity with Spring Boot, and you&#039;ll see how to use it to build web interfaces, REST interfaces, and how to use Spring Data and Spring Data REST.</p><p>You will gain the ability to build microservice-based applications utilizing Spring Cloud technologies. You will learn about </p><ul style=\"\"><li>Centralized, versioned configuration management using Spring Cloud Config</li><li>Dynamic configuration updates with Spring Cloud Bus</li><li>Service discovery  with Spring Cloud Eureka</li><li>Client Side Load Balancing with Ribbon</li><li>Declarative REST Clients with Feign</li><li>Software Circuit Breakers with Hystrix. </li></ul>", 
+    "end_date": null, 
+    "title": "Microservices with Spring Cloud", 
+    "price": "25.00", 
+    "instructors": "Ken Krueger", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/496050_6db3_2.jpg", 
+    "course_url": "https://www.udemy.com/microservices-with-spring-cloud/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-07T15:59:11Z"
+}

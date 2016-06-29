@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>In this course, Emiel Sleegers is going to be covering the full workflow of how to build a modular warehouse environment scene using both Maya and CryEngine. Here he will be teaching topics ranging from the initial planning phase and breakdown of a concept to determine the modular pieces needed, to the creation of set models and tileable textures, as well as the final stages of getting your models and textures into CryEngine. Finally, we&#039;ll cover the process of actually building the environment set and bringing it all together, and move on to creating lights for your final render.</p><p>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</p><hr style=\"\"><p><u style=\"\">More about the Instructor:</u></p><p>Emiel Sleegers is a self-taught 3d artist currently residing in the Netherlands. He&#039;s been teaching himself 3D art for the past 3-4 years, and has worked as a freelance artist on numerous unannounced projects. He&#039;s a lover of all things 3d and enjoys sharing the knowledge he has obtained with others eager to learn.</p>", 
+    "end_date": null, 
+    "title": "Learn Modular Level Building for CryEngine with Maya", 
+    "price": 0, 
+    "instructors": "3dmotive LLC", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/441748_9186.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-learn-modular-level-building-for-cryengine-with-maya/", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-08T06:29:16Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Automation with Raspberry Pi Zero </strong>will take your intermediate coding skills to the next level. The course is ideal for those who wants to explore the possibilities of newly launched <strong>Raspberry Pi Zero</strong>. Going forward you will learn how to program the small LCD screen and display the dynamic data. Next you will learn how to control any of the AC appliances using a relay and Python programming. The course will also cover two complete projects that will give solutions to the real-time problems. The first project will include how to get rid of the daily manual effort of turning the water pump ON and OFF and automate the entire process. And, the second project will teach you how to water the plants automatically when the moisture level is low using Raspberry Pi Zero.</p>  <p>The course provides the complete source code of the real time project.</p>  <p>The entire course can be completed over a fortnight, including the hardware assembly and coding in Python programming.</p>  <p>By the end of this course, you will have fundamental knowledge about automating the things using Raspberry Pi Zero and control the physical things with the mini kit. </p>    <p>What are you waiting for? Enroll now!</p>", 
+    "end_date": null, 
+    "title": "Automation with Raspberry Pi Zero", 
+    "price": "20.00", 
+    "instructors": "Venkatesh Varadachari, Satyajeet Sah", 
+    "commitment": "43 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/717984_0010_3.jpg", 
+    "course_url": "https://www.udemy.com/automation-with-raspberry-pi-zero/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-06T05:54:45Z"
+}

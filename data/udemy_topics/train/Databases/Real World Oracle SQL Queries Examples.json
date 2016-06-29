@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Data is so vital and we interface with  it in our daily lives.</p><p>Data is stored in databases which in turn stores the data in tables that contains rows and columns.</p><p>There are several database applications available to handle the storage and management of data examples include Oracle, Microsoft SQL and MySQL. We need a way to communicate with these database applications and the language used in doing that is SQL which stands for structured query language.</p><p>This course is a hands-on practical course that will build your confidence using SQL. All the queries used in this course are from a real world live production environment except that the table’s database and schema are different.</p><p>This course is video based and under 2 hours long with easy to follow real world query examples.</p><p>The example real world queries in this course includes:</p><ul><li>Creating various reports using SQL</li><li>Creating a new table in a schema</li><li>Performing count operations on a table</li><li>Adding new record into a database</li><li>Deleting records from a database</li><li>Sorting query results in descending or ascending order</li><li>Reading and filtering data from a database</li></ul>", 
+    "end_date": null, 
+    "title": "Real World Oracle SQL Queries Examples", 
+    "price": "20.00", 
+    "instructors": "Bluelime Learning Solutions", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/699088_d6d2_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-real-world-sql-queries-used-on-oracle-database/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-16T13:50:37Z"
+}

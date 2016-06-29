@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>This course is the perfect introduction to simple fillet welded connections. Simple connections refer to connections in which the resultant force that must be resisted by the connection passes through the center of gravity of the connection.  Therefore, each part of the connection is assumed to resist an equal share of the load. </p><p>Students will learn the basics of fillet welds and see actual worked out examples. Connection design is done according to the AISC Specification for Structural Steel Building, and it will be provided to the students for download.</p><p>This course consists of 7 lecture videos and 4 example videos. Each example comes with a corresponding Excel spreadsheet for further ease.</p><p>This course should take about 1-2 weeks to complete.</p>", 
+    "end_date": null, 
+    "title": "Simple Welded Connections for Beginners", 
+    "price": "20.00", 
+    "instructors": "Abdul Siraj", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/803184_06f3_2.jpg", 
+    "course_url": "https://www.udemy.com/fillet-welds/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Architectural Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-24T20:25:04Z"
+}

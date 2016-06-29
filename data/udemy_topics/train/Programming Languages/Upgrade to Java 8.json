@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Greetings and Welcome to this course. Java 8 has come up with some exciting new features which could brighten your day in your next Java project.</p><p>Being a Java developer it is very essential to learn this skill to stay upgraded in the market, exploit the benefits of those new features, upgrade your coding practices and impress your superiors.  </p><p><strong>In this course we shall explore:</strong></p><p>1. Quick start to Lambda Expressions</p><p>2. Characteristics of Lambda Expressions.</p><p>3. Functional Interfaces.</p><p>4. Some Important functional interfaces such as Predicate, Consumer and Function Functional Interfaces.</p><p>5. Introduction to Method References<br></p><p>6. Properties of Method References</p><p>7. Introduction to Streams</p><p>8. Some important Stream operations such as Filter, Map, Match, Find, Limit, Reduce and Collectors.</p>", 
+    "end_date": null, 
+    "title": "Upgrade to Java 8", 
+    "price": "20.00", 
+    "instructors": "Parth Joshi", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/792800_3712_2.jpg", 
+    "course_url": "https://www.udemy.com/upgrade-to-java-8/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-14T20:07:34Z"
+}

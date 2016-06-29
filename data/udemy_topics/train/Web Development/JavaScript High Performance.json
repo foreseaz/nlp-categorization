@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>One of the most common challenges JavaScript developers face is creating a number of applications and maintaining them to run smoothly. The aim of this course is to deliver critical tips and techniques to help you create smarter and faster applications.</p><p>JavaScript High Performance focusses on making your JavaScript code run more efficiently, raising your app performance.Start off by minifying and caching your code, be it JavaScript, HTML or CSS. Walk through different methods including creating location references, condensing var definitions and so on, helping you gain a solid foundation of the basic practical approaches. Next, discover the most potent ways to refer to functions and classes, learn how to streamline loops and arrays, and detect and avoid any memory leaks. Also, improve the appearance of your app by using sleek animations, without compromising performance.</p><p>By the end of this course, you&#039;ll be confident in dynamically improving the performance of your app.</p><p>The course follows a strict hands-on approach and introduces you to various methods which will help you maintain and rev-up your JavaScript based app. Using bad sample code, learn various ways to transform code and discover how to implement this yourself in your own app.</p><p><strong style=\"\">About the Author</strong></p><p><strong style=\"\">Ben Fhala</strong> discovered his passion for data visualization six years ago while he was working at Parsons in New York, in their data visualization department PIIM. He is the owner of the online video training school and an Adobe ACP. He enjoys spending most of his time learning and teaching, and has a love for visual programming and visualization in general. Ben has had the honour of developing applications for US Congress members, Prime Ministers, and Presidents around the world. He has built many interactive experiences for companies such as Target, AT&amp;T, Crayola, Marriott, Neutrogena, and Nokia. He has technically directed many award-winning projects and has been a part of teams that have won three Agency of the Year awards.</p>", 
+    "end_date": null, 
+    "title": "JavaScript High Performance", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/525818_ed35_3.jpg", 
+    "course_url": "https://www.udemy.com/javascript-high-performance/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-11T08:41:56Z"
+}

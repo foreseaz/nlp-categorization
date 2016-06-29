@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will show you--from start to finish--how to build a real-life application with AngularJS. Angular is awesome, but it can be tricky to learn, especially if you are newer to web development. This is especially true if you're trying to figure out how to build an actual working application in it. It can seem like a daunting task--especially since many tutorials out there don't show how to do it from scratch.</p><p>The good news is that it's not that hard once you know how all the pieces work together. This course will teach you those pieces and how they fit together so that you can build your own real life single page web applications that persist data to a database.</p><p>This course is for all levels, but you will find it especially useful if you are newer to web development. You should know some HTML, CSS, and JavaScript, but by no means do you need to be an expert. We'll be using tools like the command line and NodeJS to install packages, but we'll be seeing how to use them from scratch, so you don't need to have prior knowledge of them.</p><p>This course brings together many commonly requested AngularJS subjects that aren't seen in a lot of other ones, including:</p><ul><li>Directives</li><li>Routing</li><li>Angular Material</li><li>Angular 2</li></ul><p>If you want to learn how to build a single page app with AngularJS, and want to learn it from scratch, then this is the best course you'll find. See you in there!</p>", 
+    "end_date": null, 
+    "title": "Ultimate AngularJS: Build a Real-World App from Scratch", 
+    "price": "25.00", 
+    "instructors": "Ryan Chenkie, Code College", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/585496_9af4_2.jpg", 
+    "course_url": "https://www.udemy.com/ultimate-angularjs-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-17T15:41:30Z"
+}

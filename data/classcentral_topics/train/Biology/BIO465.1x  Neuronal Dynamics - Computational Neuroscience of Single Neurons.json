@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Biology"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course gives an introduction to the field of theoretical and computational neuroscience with a focus on models of single neurons. Neurons encode information about stimuli in a sequence of short electrical pulses (spikes). Students will learn how mathematical tools such as differential equations, phase plane analysis, separation of time scales, and stochastic processes can be used to understand the dynamics of neurons and the neural code.\n\n\nWeek 1: A first simple neuron model\n\nWeek 2:  Hodgkin-Huxley models and biophysical modeling\n\nWeek 3: Two-dimensional models and phase plane analysis\n\nWeek 4: Two-dimensional models (cont.)/ Dendrites\n\nWeek 5: Variability of spike trains and the neural code\n\nWeek 6: Noise models, noisy neurons and coding\n\nWeek 7: Estimating neuron models for coding and decoding\n\nBefore your course starts, try the new edX Demo where you can explore the fun, interactive learning environment and virtual labs. Learn more.\n\n                                            Syllabus\n                        Week 1: A first simple neuron model\r\nWeek 2:  Hodgkin-Huxley models and biophysical modeling\r\nWeek 3: Two-dimensional models and phase plane analysis\r\nWeek 4: Two-dimensional models (cont.)/ Dendrites\r\nWeek 5: Variability of spike trains and the neural code\r\nWeek 6: Noise models, noisy neurons and coding\r\nWeek 7: Estimating neuron models for coding and decoding\n                                    ", 
+    "end_date": "2014-12-08T00:00:00Z", 
+    "title": "BIO465.1x: Neuronal Dynamics - Computational Neuroscience of Single Neurons", 
+    "price": 0, 
+    "instructors": "Wulfram Gerstner", 
+    "institution_name": [
+        "École Polytechnique Fédérale de Lausanne"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://www.edx.org/course/epflx/epflx-bio465-1x-neuronal-dynamics-4281#.VD7Cs_nF8jV", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2014-10-27T00:00:00Z"
+}

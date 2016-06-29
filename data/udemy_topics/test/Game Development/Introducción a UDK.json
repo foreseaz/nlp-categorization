@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t   Aprenderemos a dar los primeros pasos con el más potente de los motores gráficos. Daremos un repaso a todas las características y posibilidades que nos ofrece el Software, desde generación de terrenos, iluminación, fracturas hasta conceptos más avanzados como animaciones con Trigger y Cinemáticas.  </p>  <p>  \t UDK es el Unreal Engine, un marco de desarrollo profesional completo. Todas las herramientas que necesitas para crear grandes juegos, visualizaciones avanzadas y detalladas simulaciones 3D en PC y en IOS. Las mejores herramientas en la industria están en tus manos.  </p>  <p>  \t Este curso está impartido por Jose Luis Quirós. Con más de 15 años de experiencia en producciones audiovisuales y en 3D, comenzó de forma autodidacta y gracias a la carrera profesional de diseño industrial creó mis primeros modelos 3D; estudió 3ds max, maya y softimage. Ha trabajado en largometrajes de animación, videojuegos, publicidad y cine y ha dirigido proyectos como los Marcatoons y participado en cinco largometrajes, el último de ellos nominado a los premios Goya.  </p>  <p>  \t En este curso cubriremos:  </p>  <ul>  \t<li>Introducción al software</li>  \t<li>Concepto de creación de videojuegos</li>  \t<li>Generación de superficies </li>  \t<li>Fracturas</li>  \t<li>Animación</li>  \t<li>Simulación cinemática</li>  \t<li>Importación de objectos</li>  </ul>", 
+    "end_date": null, 
+    "title": "Introducción a UDK", 
+    "price": "35.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/181270_df0e.jpg", 
+    "course_url": "https://www.udemy.com/introduccion-a-udk/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-12T22:10:20Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">HTML5 y CSS3 son las tecnologías que han revolucionado la Internet. No sólo podemos hacer animaciones y reproducir video sin necesidad de plug-ins de terceros, sino que podemos hacer páginas que se reproduzcan adecuadamente (o que &quot;respondan&quot;) al dispositivo donde se visualizan.</p><p style=\"\">En este curso iniciaremos desde conocer qué es una etiqueta y una regla de estilo, hasta aplicar aspectos más avanzados como la realización de páginas &quot;responsivas&quot; hasta aplicaciones fuera de línea.</p><p style=\"\">Todos los vídeos son descargables y cuentas con apuntes de la mayoría de las secciones en formato pdf, así como los ejercicios resueltos de todas las lecciones.</p><p style=\"\">Es deseable que contengas conocimientos de JavaScript para el desarrollo de aplicaciones con los API&#039;s de HTML5.</p><p style=\"\">Revisaremos los APIS de desarrollo como el <strong style=\"\">CANVAS</strong>, para hacer dibujos en tiempo de ejecución, y realizaremos un par de juegos con esta tecnología. También revisaremos el <strong style=\"\">SVG</strong> para la realización de dibujos vectoriales.</p><p style=\"\">Por medio del API <strong style=\"\">LocalStrorage</strong> realizaremos un sencillo sistema de altas, bajas y cambios (ABC) de un catálogo de libros.</p><p style=\"\">Manejaremos los archivos del disco del usuario con el API <strong style=\"\">File,</strong>así como agregaremos mapas de Google por medio del API de <strong style=\"\">Geolocalización</strong>.</p><p style=\"\">Si ponemos todos estos elementos tendremos un poderoso coctel para nuestros desarrollos Web… y es tan solo el inicio. ¡Únete a la revolución!</p>", 
+    "end_date": null, 
+    "title": "Todo HTML5 y CSS3, de novato a experto", 
+    "price": "20.00", 
+    "instructors": "Francisco Javier Arce Anguiano", 
+    "commitment": "30 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/364022_bc05_3.jpg", 
+    "course_url": "https://www.udemy.com/todo-html5-y-css3-de-novato-a-experto/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-05T16:18:38Z"
+}

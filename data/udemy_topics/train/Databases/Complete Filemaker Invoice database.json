@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>I will show you how to make a complete Filemaker database system for a company. In this case it will be an invoicing solution to make price quotations and invoices. We will be selling products to our customers. We will be buying these products from our suppliers. We will manage our stock and compare our income versus our expenses. </p><p>This course is for people who own a small business and can&#039;t afford to buy expensive software packages to manage their administration. Who don&#039;t want to spend hours each week doing boring, monotonous paperwork that can be automated and be made fun and professional looking.<br style=\"\"></p><p>There is no need for any prior knowledge of database systems because I will show you every step and explain exactly what it is we are doing so anyone can simply follow along. </p>", 
+    "end_date": null, 
+    "title": "Complete Filemaker Invoice database", 
+    "price": "40.00", 
+    "instructors": "Guy Stevens", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/441918_60b5.jpg", 
+    "course_url": "https://www.udemy.com/complete-filemaker-invoice-database/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-08T14:15:47Z"
+}

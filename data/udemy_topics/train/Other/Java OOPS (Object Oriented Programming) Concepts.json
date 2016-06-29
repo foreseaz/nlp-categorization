@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course will help you Understand basic Object Oriented Programming concepts and help in applying these concepts with an Object Oriented Programming Language like Java.</p><p>We will use real life examples to demonstrate and discuss the OOP concepts so that you get a good understanding of Object Oriented Programming Concepts.</p><p>We'll go over important OOP concepts such as inheritance, interfaces and polymorphism.</p><p>We will also discuss the principles behind Object Oriented Programming i.e. the SOLID principles. These principles will guide your object oriented programming implementations.</p><p>By the end of this course you'll understand the basics of Object Oriented Programming and be prepared to take on more complex challenges.</p><p><strong>Note : The course is not for absolute Java Beginners. It expects familiarity with Java and focuses on Object Oriented Programming Concepts.</strong></p>", 
+    "end_date": null, 
+    "title": "Java OOPS (Object Oriented Programming) Concepts", 
+    "price": 0, 
+    "instructors": "in28Minutes Official", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/679348_43e4_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-object-oriented-programming-in-java/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-24T11:34:58Z"
+}

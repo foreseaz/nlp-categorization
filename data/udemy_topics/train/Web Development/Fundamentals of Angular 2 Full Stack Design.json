@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Welcome to my course of Angular 2.This is <strong class=\"redactor-inline-converted\">the first part</strong> of my series of Angular 2 course, which covers the <strong class=\"redactor-inline-converted\">fundamental and essentials </strong>of Angular 2 framework. </p>\n\n<p>In this course, we will go through the course starting from <strong class=\"redactor-inline-converted\">even before Angular 2</strong> -<strong class=\"redactor-inline-converted\"> ES6, TypeScript, and WebComponent</strong>, which Angular 2 are built based on. Most of the courses out there skip that part, but I would like to include it as I think they pertain to the Angular 2 concepts well. </p>\n\n\n\n\n\n\n\n<p>After we cover the pre-angular2 stuff, we'll start to look at angular 2 from a <strong class=\"redactor-inline-converted\">high level</strong> to have a brief shape of the framework. Then we dive into it to look at the Nitty-gritty materials, which include topics of <strong class=\"redactor-inline-converted\">template syntax, dependency injection, pipes, form and more</strong>. There will be <strong class=\"redactor-inline-converted\">exercises </strong>provided, which is used to get your hands dirty on the stuff we have learned.</p>\n\n\n\n\n\n\n\n<p>In the second part of the course, we will start to build a <strong class=\"redactor-inline-converted\">project called Lagoon</strong> and it'a photo sharing website. We'll start to build it <strong class=\"redactor-inline-converted\">from scratch</strong> and you will be <strong class=\"redactor-inline-converted\">writing code along with me.</strong> The main purpose is to <strong class=\"redactor-inline-converted\">experience the design flow</strong> of Angular 2 and see how powerful it actually is.</p>\n\n\n\n\n\n\n\n<p>The course itself is targeting for <strong class=\"redactor-inline-converted\">beginners to somewhat intermediates</strong>. If you know some basic HTML, CSS and JavaScript, you should be good to go.</p>\n\n\n\n<p><strong>Notice:</strong></p>\n\n<p><strong></strong>1. Source code for final project is added in that section's intro video. You should the zip file from the resource.</p>\n\n<p>2. You can use angular-template source code each time you want to start an Angular 2 app, which can be found in Demo section. Use \"npm install\" first to install dependencies and then \"npm start\" to run the app.</p><p>3.  Angular 2 has updated some of its content on set up the environment. I update the video on it and you can find in the demo lesson. If you want to follow the course exactly, you can use the starter template in the source code I attached. On the other hand, you can also use the latest version of Angular 2, which needs some minor changes.</p>", 
+    "end_date": null, 
+    "title": "Fundamentals of Angular 2 Full Stack Design", 
+    "price": "20.00", 
+    "instructors": "Le Deng", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/826568_5ca1.jpg", 
+    "course_url": "https://www.udemy.com/fundamentals-of-angular-2-full-stack-design/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-19T22:15:15Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Welcome to “<strong class=\"redactor-inline-converted\">C programming Laboratory</strong>”. C is a very detailed programming language and is one of the languages that anyone can start with. This course is an online version of our offline boot camp, designed for beginners to get started with computer programming. This means that we don’t expect any prior programming experience for this course. C programming Laboratory is not an outcome of part time teaching; we are dedicated programming teachers with over a decade experience of programming. \n\n  </p>\n\n\n\n<p>C programming is a great gateway to become coder. The language is very detailed in every aspect. It gives you a great idea about the storage of values like integers, decimal numbers, characters and strings. It’s not an Internet Hoax that C is called as mother of all languages, almost every programming language share some syntax with <strong class=\"redactor-inline-converted\">C language</strong>. By learning just this language, you will learn the basic terminologies for all <strong>programming</strong> languages.\n\n  </p>\n\n\n\n\n\n<p>We will start from installing an IDE where we can write our code and can see the output of what we have written. After that we will take upon common terminologies related to coding. We will not only learn to write code but we will also learn to use best practice to write code. We will also encounter a lot of WAP’s i.e. <strong class=\"redactor-inline-converted\">Write A program.</strong> This will help us to solve big problems by analyzing it and breaking it into smaller segments.\n\n  </p>\n\n\n\n\n\n<p>C is the greatest possible gateway to learn computer programming.  Most of the drivers and compilers are designed in C because is capable to interact with low level hardware and is very detailed in storage of data types.\n\n  </p>\n\n\n\n\n\n<p>All you need to get started is little motivation and a computer with any operating system. Waiting is wasting of time, roll up your sleeves and let’s get started.</p>", 
+    "end_date": null, 
+    "title": "C programming Laboratory", 
+    "price": 0, 
+    "instructors": "Dexter Code Lab", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/863388_4a37_2.jpg", 
+    "course_url": "https://www.udemy.com/c-programming-laboratory/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-30T06:18:00Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Grande nouvelle ! La plateforme universelle (UWP) est désormais disponible sous Windows 10 et elle simplifie le développement de vos applications en proposant un jeu d’API commun pour l’ensemble des appareils équipés de Windows, du plus petit téléphone Lumia à la nouvelle Surface Hub de 84.\r\nAccompagné par Sébastien Pertus et Jean-Sébastien Dupuy, obtenez tous les détails pour construire votre première application universelle, découvrez les nouveautés pour adapter le design de votre interface à l’ensemble des appareils ciblés et déployez là sur le Windows Store pour acquérir, fidéliser de nouveaux utilisateur et monétiser votre application !\r\nPré-requis :Des connaissances sur le langage C# ainsi que XAML sont recommandées pour bien appréhender ce cours. Toutefois, la compréhension de la majorité des chapitres ne nécessite pas de connaissance préalable.\n\n                                    ", 
+    "end_date": null, 
+    "title": "Guide du développeur Windows 10", 
+    "price": 0, 
+    "instructors": "", 
+    "institution_name": [
+        "Microsoft Virtual Academy"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://openclassrooms.com/courses/guide-du-developpeur-windows-10", 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "OpenClassrooms"
+    ], 
+    "start_date": "2016-04-01T00:00:00Z"
+}

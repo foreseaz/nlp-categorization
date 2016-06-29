@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Upgrade Your Drupal Skills with Views</strong></p><p>In Drupal 7, Views is the most used contributed module, and the 2nd most used project, only behind Core itself. As of February 21, 2016, 963,393 Drupal sites report that they use Views.</p><p>Views is used so much that it is a part of Drupal 8 Core which launched November 19, 2015.</p><p>This course was created using Drupal 7, but can help you understand the ins and outs of Views even if you are using 8.</p><p> When you need to manipulate the display of the content on your Drupal site, Views are the way to go!</p><p>Get started customizing your Drupal site with this course. I designed this course to be easily understood by users new of Views, though you should be familiar with navigating Drupal.</p><p><strong>You will learn how to:</strong></p><ul><li>display your view on your site's front page</li><li>filter by content types, authors and more</li><li>Add and rearrange sort orders</li><li>update the format of Views</li><li>grant or deny user access to Views</li><li>refresh content with AJAX settings.</li><li>and more</li></ul><p>Follow along with your own Drupal test sites.</p><p>At the end of this course, you will be comfortable building your first few Views.</p><p><strong>Enroll today because you are ready to create Views now</strong>. </p>", 
+    "end_date": null, 
+    "title": "Drupal Views: Introduction to Enhancing Your Website", 
+    "price": "20.00", 
+    "instructors": "IsáBel Harrison", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/488220_e17a_4.jpg", 
+    "course_url": "https://www.udemy.com/drupalviews/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-28T04:42:10Z"
+}

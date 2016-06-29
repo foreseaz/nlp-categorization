@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>  \t<strong style=\"\"><span style=\" color:red;\">What is this course all about?</span></strong>  </p>  <ol style=\"\">  \t<li>This course demonstrates how to use &quot;Data Analysis ToolPak&quot;.</li>  \t<li>It explains the business scenario and then shows application of statistical procedure using data analysis tool pack on the given data.</li>  \t<li>The course also shows how to use Goal Seek and Solver (to solve linear optimization problems)</li>  \t<li>It gives clue about what is the most important portion of statistical procedure output and how to interpret it with respect to problem at hand.</li>  </ol>  <p>  \t<strong style=\"\"><span style=\" color:red;\"> Tags</span></strong>  </p>  <ul style=\"\">  \t<li>Statistical Analysis using Excel</li>  \t<li>Linear optimization using Excel</li>  \t<li>Data Analysis toolpak (Excel Add-in)</li>  \t<li>Statistical Analysis case studies</li>  \t<li>Data Analysis examples</li>  \t<li>Data analysis using Excel</li>  </ul>  <p>  \t<strong style=\"\"><span style=\" color:red;\"> What Kind of Material is included</span></strong>  </p>  <ul style=\"\">  \t<li>All the excel files that has been used in videos are available to download.</li>  \t<li>These excel contains data files, so that students can practice it on their own.</li>  </ul>  <p>  \t<strong style=\"\"><span style=\" color:red;\"> How long it should take to complete the course</span></strong>  </p>  <p>  \t             It should take roughly 10 hours to practice and master all the procedure.  </p>  <p>  \t<strong style=\"\"><span style=\" color:red;\"> How is the course structured</span></strong>  </p>  <p>  \t            The course first explains a business context and the data. Then it demonstrates how to use statistical procedure using data analysis tool pack. It Also explains how to solve linear programming problem using solver. It demonstrates how th use goal seek. The content of the course will be  </p>  <ol style=\"\">  \t<li>Numeric data Analysis</li>  \t<li>Categorical data Analysis</li>  \t<li>Chi square test of independence</li>  \t<li>Simple Linear regression / Multiple linear regression</li>  \t<li>F test for equality of variances</li>  \t<li>T- Test for Comparing two sample means</li>  \t<li>Pair t test</li>  \t<li>ANOVA – single factor</li>  \t<li>ANOVA – two factor with / without replication</li>  \t<li>Generating random numbers  with uniform / normal / poison distr.</li>  \t<li>Rank and Percentile</li>  \t<li>Histogram and pareto charts</li>  \t<li>Goal seek</li>  \t<li>Linear programming problem - Solver example</li>  </ol>  <p>  \t<strong style=\"\"><span style=\" color:red;\"> Why Take this course</span></strong>  </p>  <ol style=\"\">  \t<li>To quickly understand how to perform statistical analysis using excel.</li>  \t<li>The understand, which are the most important portion of statistical procedure output and how to interpret it for a given context.</li>  \t<li>To understand the process of formulating linear programming cases in solver and getting solution.</li>  </ol>", 
+    "end_date": null, 
+    "title": "Advance Analytics with Excel - data analysis toolpak/ Solver", 
+    "price": "20.00", 
+    "instructors": "Gopal Prasad Malakar", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/322820_d267_9.jpg", 
+    "course_url": "https://www.udemy.com/data-analysis-statistical-optimization-using-ms-excel/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-20T00:09:35Z"
+}

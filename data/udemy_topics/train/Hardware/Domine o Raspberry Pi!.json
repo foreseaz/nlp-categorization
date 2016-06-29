@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Esse\n treinamento tem como objetivo ensinar a como usar o Raspberry Pi que é um \ncomputador do tamanho de um cartão de crédito, que se conecta a um \nmonitor de computador ou TV, e usa um teclado e um mouse padrão.\nO hardware Raspberry Pi é muito utilizado no mundo inteiro para ensino \nde computação básica em escolas e universidades. Nesse curso o aluno irá aprender a gerenciar um sistema Linux e a programar. </p><p>Não é curso-palestra ou leitura de slides. É aprendizado prático!<br></p>", 
+    "end_date": null, 
+    "title": "Domine o Raspberry Pi!", 
+    "price": "40.00", 
+    "instructors": "Vitor Mazuco", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/797448_b8ea.jpg", 
+    "course_url": "https://www.udemy.com/domine-o-raspberry-pi/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-18T21:44:08Z"
+}

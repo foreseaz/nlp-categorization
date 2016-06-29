@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tEste curso esta pensado para enseñarle a las personas interesadas en desarrollar aplicaciones moviles para Windows Phone 8 todos los elementos que componen el desarrollo de estas Apps, desde lo mas básico hasta subirlas a la tienda de aplicaciones. Se encontrarán con un ambiente de desarrollo y una explicación rápida y sencilla de como se implementan estas aplicaciones. Esta estructurado, a modo de comenzar conociendo las herramientas de desarrollo, los componentes basicos y luego pasar ya a elementos mas complejos que nos permitan crear aplicaciones mucho mas interesantes.  </p>  <p style=\"\">  \tEl curso maneja principalmente videos dentro de sus clases, para mayor aprovechamiento del tiempo de estudio, ya que pueden regresar y volver a ver cualquiera de las clases dispuestas para cada uno de los temas, ademas de que pueden ir siguiendo la implementación de formas mas dinámica a comparación de simples manuales escritos.  </p>  <p style=\"\">  \tRealizar este curso te brindará las herramientas esenciales para comenzar tu camino en el desarrollo de aplicaciones moviles en la plataforma movil para Windows, en un tiempo estimado de unas 6 horas para completar todo el material de clase y con un tiempo de estudio personal que estará definido por que tanto te intereso el contenido y que ideas de aplicaciones tengas ya en progreso.  </p>", 
+    "end_date": null, 
+    "title": "Windows Phone 8 de 0 a 100", 
+    "price": "30.00", 
+    "instructors": "Tomás Posada", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/321094_b081_2.jpg", 
+    "course_url": "https://www.udemy.com/windows-phone-8-de-0-a-100/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-16T19:48:51Z"
+}

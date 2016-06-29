@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em class=\"redactor-inline-converted\">世界中で<strong class=\"redactor-inline-converted\">4</strong><strong class=\"redactor-inline-converted\">万人</strong>を超える受講生が既に学習</em>した<strong class=\"redactor-inline-converted\">Anthony Alicea氏</strong>の<strong class=\"redactor-inline-converted\">人気コース（Learn and Understand AngularJS）</strong>が、<strong class=\"redactor-inline-converted\">完全日本語版</strong>として登場しました！<br></p>\n\n<p>Angular2やReactなどが流行っていますが、まだまだAngularJSで作っていくアプリケーションや保守・運用していくアプリケーションはこの先も増えていきます！</p>\n\n\n\n\n\n\n\n\n\n<p>AngularJSを習得することでWebページに<em class=\"redactor-inline-converted\">フォームを作成</em>し、その<em class=\"redactor-inline-converted\">内容をチェック</em>するなど、従来であれば大量のコードが必要であったものを簡単に行えるようになります。また、<strong class=\"redactor-inline-converted\">Directive</strong>と呼ばれる仕組みを覚えることで、再利用可能なたくさんの部品を使いながら<strong class=\"redactor-inline-converted\">サービスを構築</strong>できるようになります！</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>この講義はAngularJSを<strong class=\"redactor-inline-converted\">コツコツ</strong>、ただし<strong class=\"redactor-inline-converted\">効率よく</strong>、<strong class=\"redactor-inline-converted\">スピーディー</strong>に<strong class=\"redactor-inline-converted\">仕組み</strong>とともに学べる講義です！実際にWeb上で<strong class=\"redactor-inline-converted\">天気予報アプリ</strong>を作りながら必要なコーディングを学ぶことができます！講義の中で使ったコードも<strong class=\"redactor-inline-converted\">修正前</strong>、<strong class=\"redactor-inline-converted\">修正後</strong>共に提供しています！</p>\n\n\n\n<p>このコースを受講することで</p>\n\n\n\n<ul><li>AngularJSが解決してくれる問題を「生」のJavascriptやHtmlの観点から理解できるようになる</li><li>AngularJSが「どのように」動いているか「生」のJavascriptやHtmlの観点から理解できるようになる</li></ul>\n\n\n\n<ul><li>AngularJS特有の仕組み、例えばDependency Injection、Service、Directive、Transclusionを理解し、使えるようになる</li><li>そもそも「Dependency Injection」って？というところを理解できるようになる</li><li>自作Directiveを作って再利用可能な部品を作れるようになる</li><li>SPA（シングルページアプリケーション）とは何か、また、どのように動作しているのか理解できるようになる</li></ul>\n\n\n\n<ul><li>AngularJSでSPAが作れるようになる</li></ul>\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n<p>★<strong class=\"redactor-inline-converted\">！！！注意！！！</strong>★<br>AngularJSには<strong class=\"redactor-inline-converted\">1.x</strong>系と<strong class=\"redactor-inline-converted\">2.x</strong>系の2種類があります。これらは<em class=\"redactor-inline-converted\">全くの別物</em>で、<strong>このコースは1.x系をターゲットにしています</strong>。また、コース内では1.x系の基本部分を中心に説明しているため、AngularJSをすでに業務等で使いこなしていて、<em class=\"redactor-inline-converted\">最新機能の説明が必要な方</em>には適さない内容となっていることをご了承ください。<br>さらに、この講座の内容を習得するには<em>基本的なJavascriptの知識</em>が必要になりますので、Javascript自体が初めての方は先にほかのコースで基本部分だけ学習いただくことをお勧めします。</p>", 
+    "end_date": null, 
+    "title": "【世界で４万人が受講】 実践！AngularJS講座", 
+    "price": "50.00", 
+    "instructors": "Ken Fukuyama, Anthony Alicea", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/778978_ce70.jpg", 
+    "course_url": "https://www.udemy.com/angularjs_ja/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-01T14:57:08Z"
+}

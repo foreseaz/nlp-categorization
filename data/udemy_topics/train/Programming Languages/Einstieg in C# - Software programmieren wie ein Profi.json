@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Mache diesen Kurs und du hast <strong>in 30 Minuten deine erste C#-Anwendung</strong> entwickelt. Viel wichtiger ist jedoch, dass du nicht nur Programmieren lernst, sondern die <strong>Arbeitsweise, die professionelle Softwareentwickler verwenden</strong> um herausragende Anwendungen zu entwickeln.<br></p><p><strong>Was du lernst</strong><br></p><p>Dieser Kurs vermittelt dir NICHT alle Details der Programmiersprache C#. Er gibt dir einen Einstieg und Überblick der wichtigsten Konzepte, Arbeitsweisen und befähigt dich mehr Details alleine schnell zu lernen.</p><p>Damit bist du in der Lage sowohl deine eigenen Softwareprojekte zu starten, wie auch schnell in einem bestehendem Softwareentwicklungsprojekt mitarbeiten zu können. Du hast eine nervige Aufgabe, die sich immer wiederholt? Dann erstelle dir eine Anwendung, die dir die Aufgabe abnimmt oder dich dabei unterstützt sie schneller zu erledigen. Alles was du dafür brauchst, lernst du in diesem Kurs. Die benötigten Werkzeuge und viele weitere Informationen gibt es kostenlos im Internet. Ich zeige dir wo und begleite dich Schritt-für-Schritt bei der Installation, Verwendung und natürlich, wenn du Probleme hast.</p><p>Du willst zukünftig Web- oder Mobile-Apps vielleicht sogar für verschiedene Plattformen entwickeln? Dann ist .NET und insbesondere C# eine gute Wahl. Microsoft öffnet .NET immer mehr und es stehen bereits jetzt viele beeindruckende Hilfsmittel und Projekte zur Verfügung um auch unter Linux und OS X mit C# zu entwickeln. Sobald du die Grundlagen verstanden hast, kannst du in das für dich relevante Gebiet eintauchen.</p><p><strong>Wie du mit diesem Kurs lernst ...</strong><br></p><p><em>... als absoluter Einsteiger</em>: Gerade zu Anfang des Kurses zeige ich dir Alles. Während ich dir im Video zeige wo du die Entwicklungsumgebung Visual Studio 2015 bekommst, wie du sie installierst und das erste mal startest, was du machen musst um dein erstes Projekt zu erstellen und wie du deinen ersten Quellcode schreibst, kannst du diese Schritte direkt nachvollziehen. Zusätzlich gibt es zu jedem Abschnitt eine Übung bei der ich dir eine Aufgabe stelle und dann zeige wie ich sie lösen würde.</p><p><em>... als Umsteiger:</em> Du brauchst nicht mehr soviel Details wie ein absoluter Einsteiger. Daher gibt es zu allen Lektionen eine kurze schriftliche Zusammenfassung. So kannst du die ersten Abschnitte schnell durcharbeiten und hast in Kürze eine produktive Arbeitsumgebung. Anhand der Übungen und Musterlösungen kannst du feststellen welche Bereich du bereits verstanden hast und wo du tiefer eintauchen solltest.<br></p><p>Dir zu vermitteln was professionelle Softwareentwicklung ist und welche genialen Möglichkeiten dir die .NET-Plattform bietet ist mein Ziel. Häufig ist es jedoch so, dass man während der Softwareentwicklung und insbesondere während des Lernens alleine nicht weiter kommt. Die fehlende Interaktion mit dem Dozent hat mich bisher bei Videotutorials immer gestört. Bei diesem Kurs hast du die Möglichkeit deine Probleme und Fragen direkt im Diskussionsforum zu diesem Kurs zu stellen. Dann bekommst du schnell Unterstützung von mir oder einem deiner Mitstudenten.<br></p><p>Da du diesen Kurs zusätzlich zu vielen anderen Aufgaben erledigen wirst, ist er so aufgebaut, dass du nicht mehr als 15-20 Minuten am Tag machen musst. Aus eigener Erfahrung weiß ich, wie anstrengend es ist neben dem Beruf auch noch eine oder gar mehrere Stunden am Tag für Weiterbildung aufzubringen. Häufig ist das der Anfang vom Ende, weil du nach wenigen Tagen einfach keine Motivation mehr hast (egal wie spannend das Thema und der Kurs ist). Du entscheidest natürlich selbst, aber ich empfehle dir jeden Tag wenige Lektionen anzuschauen und etwas zu üben. So wirst du <strong>innerhalb weniger Wochen beeindruckende Resultate</strong> sehen.</p><p><strong>Zum Schluss</strong><br></p><p>Ich bin beeindruckt, dass du bis hier gelesen hast. Du hast auf jeden Fall die Veranlagung ein professioneller Softwareentwickler zu werden. Einer der wichtigsten Aspekte dafür ist der Wille kontinuierlich zu lernen und die Neugierde was es noch alles gibt.</p><p>Viel Spaß beim Lernen und dem Kurs</p><p>Jan</p>", 
+    "end_date": null, 
+    "title": "Einstieg in C# - Software programmieren wie ein Profi", 
+    "price": "40.00", 
+    "instructors": "Jan Suchotzki", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/657674_3147_3.jpg", 
+    "course_url": "https://www.udemy.com/einstieg-in-csharp-software-programmieren-wie-ein-profi/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-02T11:39:13Z"
+}

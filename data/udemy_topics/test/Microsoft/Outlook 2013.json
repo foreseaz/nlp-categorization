@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t En este curso de Outlook aprenderás a configurar manualmente una cuenta IMAP de correo electrónico de Gmail, configurar los múltiples paneles que nos ofrece, crear nuevos mensajes de correo especificando el tipo de formato que contendrá por defecto dicho correo, responder y reenviar los correos recibidos. Además veremos cómo agregar archivos adjuntos y otra serie de elementos (tales como tarjetas de presentación o calendarios) a los correos que enviemos, aprenderemos diferentes formas de agregar un contacto a la libreta de direcciones y veremos cómo crear una lista de distribución, crear encuestas y sondeos personalizados que incluyan botones de votación, que podremos enviar a un grupo de destinatarios para que emitan su opinión respecto al sondeo que se les plantea, utilizar la herramienta para organizar reuniones, que nos permitirá solicitar a cada uno de los invitados que confirmen o rechacen su asistencia a la misma. Veremos también cómo automáticamente se actualiza nuestro calendario agregando la cita de la reunión una vez haya sido confirmada y a programar citas dentro del calendario. También veremos la manera de modificar la periodicidad de la cita creada para que se repita en el tiempo.  </p>", 
+    "end_date": null, 
+    "title": "Outlook 2013", 
+    "price": "20.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/194026_b6ab.jpg", 
+    "course_url": "https://www.udemy.com/outlook-2013/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-04T22:54:10Z"
+}

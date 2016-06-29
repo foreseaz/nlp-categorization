@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t      In this course you will learn how to make a complete Filemaker database system for your company.  </p>  <p>  \tIn this case it will be a contact database. We will be storing contacts, creating notes and seeing their address on a map. <span style=\"\">We will be creating tasks to keep track of the things we need to do and see which tasks are already done.</span>  </p>  <p>  \t      This is a course for people who own a small business and can’t afford to buy expensive software packages to manage their administration. For people who don’t want to spend hours each week doing boring, monotonous paperwork that can be automated and be made fun and professional looking.  </p>  <p>  \t    I included the Filemaker file in the course for download so you can easily look at my file if you get lost somewhere or if there is something you want to look at more closely in detail.  </p>  <p>  \t<span style=\"\">At the end of this course you will be able to start your own FIlemaker projects and build them exactly the way you want them so they work for your company and not the other way around. </span>  </p>", 
+    "end_date": null, 
+    "title": "Filemaker Beginner Tutorial - contacts database", 
+    "price": 0, 
+    "instructors": "Guy Stevens", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/434152_e77b_2.jpg", 
+    "course_url": "https://www.udemy.com/filemaker-beginner-tutorial-contacts-database/", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-27T14:51:12Z"
+}

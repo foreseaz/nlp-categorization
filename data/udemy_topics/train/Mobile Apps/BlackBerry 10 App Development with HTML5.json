@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\">Did you arrive too late when the App Store and the Google Playstore came out? </strong>    </p><p style=\"\">  \t<strong style=\"\">Well, a new platform has been launched and is getting good traction. Don&#039;t miss out on this one! Be one of the first pioneers in this New World.</strong>  </p>  <p style=\"\">  \t   This course will teach you everything you need to know to get started with making <strong style=\"\">Blackberry 10 HTML5 </strong>apps for the <strong style=\"\">BlackBerry 10 platform</strong>.  </p>  <p style=\"\">  \t   HTML5 apps are first class citizens in this new platform thanks to the WebWorks framework, which deeply integrates HTML5 with the device hardware for best performance.  </p>  <p style=\"\">  \t   A real Time tracking app aimed for freelancers is developed during the course, starting from scratch.  </p>  <p style=\"\">  \t   By following the same <strong style=\"\">step-by-step methodology</strong> which has made our courses very successful and highly rated in Udemy, we&#039;ll make sure you have the best learning experience. When you finish this Blackberry 10 App Development course, you&#039;ll be ready to jump into your own projects with the right tools in hand.  </p>  <p style=\"\">  \t   This course includes, among other topics:  </p>  <ul style=\"\">  \t<li>Installation and setup of the SDK, the Ripple Emulator      and the BlackBerry 10 Simulator.</li>  \t<li>Using the official bbUI js library for native looking      user interfaces.</li>  \t<li>Creating your app navigation with Action Bars.</li>  \t<li>Form, ImageLists and other GUI elements.</li>  \t<li>Learn the JavaScript Namespace pattern to create solid      apps.</li>  \t<li>Using Local Storage to save your data.</li>  \t<li>Testing your app on the Simulator and on real devices.</li>  \t<li>App World submission process.</li>  </ul>", 
+    "end_date": null, 
+    "title": "BlackBerry 10 App Development with HTML5", 
+    "price": "20.00", 
+    "instructors": "Pablo Farias Navarro", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/32558_18d0_4.jpg", 
+    "course_url": "https://www.udemy.com/blackberry-10-app-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-12-13T18:53:54Z"
+}

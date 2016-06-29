@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Css, tıpkı parçalara ayrılmış robotun birleştirilip elde edilmesi gibi html parçalarını birleştiren kodlama tasarımıdır. Dolayısıyla Html kendi başına bir Web tasarımı için yeterli değildir. Html ile Tasarımın iskeletini oluşturmuş olursunuz. Css ile bu iskeleti doldurursunuz. Kursumuzda web tasarımcı olmak isteyenler için anlatılmış temel konular bulunmaktadır. Bu temel konular sonunda son olarak bir web site tasarım örneği ile sonlandırmış olacağız.</p><p>Bu kursumuz ile birlikte kolayca bir web sitesi nasıl tasarlanır, neleri bilmemiz gerekir, en hızlı tasarım nasıl yapılır gibi amaçlar ile Css ile web tasarımı yapmayı temelden kısa sürede anlatıp bilgi sahibi olmanızı sağlayacağız.</p><p>Tasarımın anlatımında farklılar görmek istiyorsanız bu kursumuz tam size göre.</p>", 
+    "end_date": null, 
+    "title": "Bir Saatte Css Öğren", 
+    "price": 0, 
+    "instructors": "Ercan Ayhan", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/522050_6f76.jpg", 
+    "course_url": "https://www.udemy.com/1-saatte-css-ogren/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-06T16:25:35Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Are you a Linux beginner and want to start using the Linux terminal and also want to know more why it is used? This course will help you get started and get you familuar to words like GUI, shell, root and terminal. This course will focus mainly on the basic commands used within linux.</p><p>Hi and welcome to my beginners course on how to use the basic Linux commands. My name is Runar and I will guide you step by step through every process and if you feel you need more information then do let me know because I am here to help and the forum is a great place to ask.</p><p>The only thing you need for this course is a Linux computer with a connection to the internet so that you can follow along. The lectures are short and can work as a reference material in the future as you can find the commands you are having problems with in separate lectures. If you want to use the same type of terminal as I do then I recommend using Ubuntu, Linux Mint or any other debian type of Linux.</p><p>By learning how to use the terminal, you become a much faster user and can start using Linux more efficently. Remember this is a beginners course where we will be covering the basics of using the terminal in Linux. If you do not understand or need more information while taking the course then do let me know and i will respond quickly and often I will add extra lectures to explain in better detail and also to benefit all students. </p><p>Linux is great as a desktop environment, but Linux is also used to host some of the largest webservers in the world because of how secure and stable Linux is. Take action and let&#039;s get started.</p>", 
+    "end_date": null, 
+    "title": "Linux terminal for complete beginners", 
+    "price": "20.00", 
+    "instructors": "Runar Sigurdsson", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/540598_91ef_2.jpg", 
+    "course_url": "https://www.udemy.com/linux-terminal/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-29T20:22:49Z"
+}

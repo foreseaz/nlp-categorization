@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>A system's memory contains an assortment of valuable forensic data. A computer analyst trained in memory forensics can use this data to determine if a system has been infected with malware - a valuable skill for both incident response triage work as well as in digital forensic exams involving litigation.<br></p><p><strong>This class picks up where Memory Analysis 1 left off</strong>. It provides you with hands on training working with an infected sample of memory.  Learn to <strong>identify suspicious processes running in memory </strong>by putting a \"level 1\" triage of Windows memory into action.  Using key volatility plugins, this class walks you through the process of the exam. </p><ul><li>Learn how to set up and use Volatility on a Windows system</li><li>Learn how to parse memory for KDBG signatures</li><li>Learn how to run several Volatility Plugins and interpret the findings</li><li>Learn how to combine Plugin results to refine your data</li><li>Learn how to effectively sift through memory data to quickly identify suspicious files</li><li>Hands-on practicals reinforce learning</li><li>Learn all of this in about one hour using all freely available tools.</li></ul>", 
+    "end_date": null, 
+    "title": "Surviving Digital Forensics: Memory Analysis 2", 
+    "price": "50.00", 
+    "instructors": "Michael Leclair", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/685562_dce6_4.jpg", 
+    "course_url": "https://www.udemy.com/surviving-digital-forensics-memory-analysis-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-01T01:03:23Z"
+}

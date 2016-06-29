@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>Magento is the fastest growing open source e-commerce platform in the world. According to a survey of Alexa&#039;s top one million sites in February 2013, Magento powers 26% of all e-commerce sites, and is three times more popular than other platforms in the survey. Now is the time to truly master the Magento platform, as the demand for Magento developers is on the rise.</span>  </p>  <p>  \tMastering Magento will help you take Magento&#039;s core offerings to the next level. Even though you may find that Magento fits most of your e-commerce needs out-of-the-box, there are often circumstances that require custom functionality in your Magento store. The materials in this course will expose you to a variety of ways in which you can extend the Magento platform and bend it to your will. By the end of this course you will be capable of writing almost any type of extension in order to accomplish the custom functionality that you need.  </p>  <p>  \tYou will start building your foundational knowledge of the Magento architecture by following along with a step-by-step installation guide. For those experienced with Magento, this will be more of a refresher. With these basic requirements under your belt, we will move on to module development, including how to customize the admin, catalog, and checkout interfaces.  </p>  <p>  \tAs you delve deeper into setting up your development environment, you will learn about the basic structure and skeleton of a Magento module. Since Magento&#039;s Model-View-Controller (MVC) structure is well-documented on the Internet, we will cover more advanced techniques rather quickly. By the time you&#039;re through the first half of this course, you will have mastered the art of extending Magento&#039;s admin interface. In the second half, you will learn how to extend the Magento catalog and checkout process by creating your own custom product types. As an example, you will be following along with the author in creating an event registration product type, similar to selling tickets online. Finally, we will close with some advanced techniques that will teach you how to leverage Magento&#039;s command-line interface, dataflow profiles, and advanced debugging tools such as Xdebug for PHP.  </p>  <p>  \tMastering Magento will give you great exposure to a variety of ways in which you can extend the Magento platform and truly leverage its power.  </p>", 
+    "end_date": null, 
+    "title": "Mastering Magento", 
+    "price": "35.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/368679_cd44_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-magento/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-12T07:52:32Z"
+}

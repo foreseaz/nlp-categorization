@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>MEAN is the now famously known combination of MongoDB, ExpressJS, AngularJS, and NodeJS, which has emerged as one of the leading technology stacks for developing dynamic web applications. The MEAN stack simplifies development and promotes team cohesion by allowing applications to be written and maintained entirely in JavaScript, on the frontend, and backend.</p><p>This course focuses on the full-stack MEAN development process and goes in-depth by incorporating a supporting architecture with Grunt and integrating automated testing. It will walk you through building a real, enterprise-grade application.</p><p>Starting out with the fundamentals of the MEAN stack technologies, you will learn how to build a strong solution architecture for automated builds and distributed development. You’ll then dive deep into Grunt, Bower, and npm to become a full-stack MEAN engineer. You will discover how to build one-to-many relationships using arrays of objects in Mongoose. Diving even deeper, you’ll meet new technologies such as D3, which will help you to build graphs for an enterprise dashboard. Then, we will test our Node and Angular applications with Karma, Jasmine, Mocha, and Chai.</p><p>By the end, you’ll be able to build a powerful, MEAN-backed application for working in a distributed team.</p><p><strong>About The Author</strong><br></p><p><strong>Michael Perrenoud</strong> is a veteran enterprise application engineer with more than 15 years of experience architecting and building full-stack solutions for small businesses and Fortune 500 companies. He’s mentored literally hundreds of engineers across the world on the MEAN stack and more. He is the CEO and Founder of Consult with Mike, LLC and provides thousands of dollars in free resources in the form of blog posts on his site today.</p><p>He also has an e-book coming out soon, MEAN with Mike, which is a composition of hundreds of hours of mentorship. It’s a true, long-term, learning course that is meant to build problem solvers.</p>", 
+    "end_date": null, 
+    "title": "Learning Web Development with the MEAN Stack", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/632100_1d96_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-web-development-with-the-mean-stack/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-06T06:41:13Z"
+}

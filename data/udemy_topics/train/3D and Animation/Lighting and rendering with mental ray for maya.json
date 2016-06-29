@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>This course will show you lighting and rendering inside Mental Ray for Maya from an structured way to keep you workflow easy, faster and efficient. The course is for begginers and intermediate people who wants to understand deeply the concepts behind lighting and rendering and start using them in a proffesional way.<br>The course is devided in 5 modules that will bring you step by step through different common situations envolved with any render artist, where you will explore different lighting thechniques depending on the situation, understand deeply the creation of materials, and learn how to use post production to enhace your images to create a nice and proffesional final result.</p><p>Course modules:<br>1. Introduction to Mental Ray for Maya.<br>2. Creating product shots.<br>3. Creating interiors.<br>4. Creating exteriors.<br>5. Compositing 3d with live action plates.</p><p>At the end of this course you will have solid knowledge in the lighitng and rendering area using Mental Ray for Maya. You will understand the software and also all the principles behind a good and transmitive image in terms of lighting and materials.</p><p>From here you will be able to apply all this method and techniques in your own shots taking them to the next level.</p><p>This course includes the project files for you to follow the exercises and see the final scene created in the course.</p>", 
+    "end_date": null, 
+    "title": "Lighting and rendering with mental ray for maya", 
+    "price": "45.00", 
+    "instructors": "Alkis Escobedo", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/649960_c97e_2.jpg", 
+    "course_url": "https://www.udemy.com/mentalray-maya/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-25T00:01:52Z"
+}

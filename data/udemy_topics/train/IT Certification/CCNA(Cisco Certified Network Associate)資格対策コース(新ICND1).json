@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">Ciscoが主催する資格、試験番号 100-101(ICND1)、200-120(CCNA)に対応しております。</p><p style=\"\">次の内容についてビデオ学習を行います。</p><p style=\"\">ネットワークの基礎、OSI参照モデル、TCP/IP、イーサネット、WAN接続、ルーティング、ACL、NAT/PAT、OSPF、VLAN、Ciscoの機器に対応したコマンドを学習することができます。</p>", 
+    "end_date": null, 
+    "title": "CCNA(Cisco Certified Network Associate)資格対策コース(新ICND1)", 
+    "price": "20.00", 
+    "instructors": "Kanri Mega", 
+    "commitment": "20 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/602120_be74.jpg", 
+    "course_url": "https://www.udemy.com/ccna-icnd1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-04T03:28:18Z"
+}

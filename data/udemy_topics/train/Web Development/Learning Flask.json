@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">With a growing skills gap, the need for talented developers is greater than ever before. A basic grounding in building apps with a framework as minimalistic, powerful, and easy-to-learn as Flask will be a useful skill to launch you on a career as an entrepreneur or web developer. Flask is a Python micro-framework that makes web application development as easy as saying it.</p><p style=\"\">This course will give you a basic grounding in the fundamental concepts of web development, as well as the hands-on experience you require to successfully build web apps with Flask.</p><p style=\"\">We&#039;ll start by turning your computer into a modern development machine. Next, we&#039;ll move beyond static websites and develop a powerful database-backed dynamic Flask app. We won&#039;t stop there, because we&#039;ll also cover how to implement a full authentication system.</p><p style=\"\">Finally, we&#039;ll extend the app&#039;s functionality by learning how to integrate it with third-party APIs.</p><p style=\"\">When you finish this course, you will be fully equipped to build your very own custom web apps.</p><p style=\"\"><strong style=\"\">About the Author</strong></p><p style=\"\"><strong style=\"\">Lalith Polepeddi </strong>has been working with Flask since discovering it to be an easy way to learn about web development. He&#039;s written about Flask for Tuts+ and TechPro. Aside from Flask, Lalith is interested in applying computer science to address problems in parallel domains, such as biology.</p>", 
+    "end_date": null, 
+    "title": "Learning Flask", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/574454_7681.jpg", 
+    "course_url": "https://www.udemy.com/learning-flask/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-05T09:39:35Z"
+}

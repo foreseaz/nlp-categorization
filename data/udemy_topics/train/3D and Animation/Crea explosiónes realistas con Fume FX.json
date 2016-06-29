@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t En este tutorial se preparará la escena de una explosión mediante el plugin de efectos especiales FumeFx. Se creará la explosión mediante el emisor de partículas PF Source y se combinará con el Plugin FumeFx, se aplicarán luces a la simulación y se realizará un render de prueba.  </p>  <p>  \tFumeFX, de AfterWorks es un poderoso motor de fluidos dinámicos diseñado para la simulación y renderización realista de fuego, humo, explosiones y otros fenómenos gaseosos. Es versátil, robusto, e intuitivo. <span id=\"7f625f23-34e3-4126-a947-82288bb78f3d\" class=\"GINGER_SOFTWARE_mark\">Este Plug-in ha sido utilizado en multitud <span id=\"9d8e7708-69f9-46b9-9777-89c8d04732aa\" class=\"GINGER_SOFTWARE_mark\">de</span> películas y <span id=\"efbbc40b-0995-42c3-8120-35d905bdee71\" class=\"GINGER_SOFTWARE_mark\">producciones</span> <span id=\"e7282f39-056e-4c85-94b6-c2915675c93d\" class=\"GINGER_SOFTWARE_mark\">como</span> por ejemplo Superman Returns, The Host, G.I. Joe, Blade Trinity, El Exorcista: The Beginning, Paycheck, Scooby Doo o <span id=\"7d3c2092-dad6-4603-8b78-c0045cb666bf\" class=\"GINGER_SOFTWARE_mark\">el</span> Inspector Gadget, entre otras. Fume FX es uno de los Plugins que se tratarán en profundidad en nuestros cursos de 3DFX y Postproducción, durante estos cursos de VFX se aprende el manejo de esta excelente herramienta que obtiene unos resultados muy realistas. </span>  </p>  <p>  \t Este curso es impartido por Daniel Bertó, dedicado a mundo del 3D desde hace más de diez años, dentro de su curriculum académico podemos destacar, un Master en Infoarquitectura, un Master en Modelado y Animación de personajes, un Master en Mudbox, así como la Carrera de Dirección de Cine Digital y efectos especiales THX. Su experiencia laboral comienza en el campo de la infoarquitectura , y posteriormente en la publicidad, los videojuegos y la dirección de un Teaser Trailer en 3D, donde dirigió un equipo de once personas y en el que coordinó los departamentos de modelado, texturizado, iluminación y render.  </p>", 
+    "end_date": null, 
+    "title": "Crea explosiónes realistas con Fume FX", 
+    "price": "20.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/182672_7c4a.jpg", 
+    "course_url": "https://www.udemy.com/crea-explosiones-realistas-con-fume-fx/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-14T18:25:15Z"
+}

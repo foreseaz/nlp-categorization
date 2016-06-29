@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Meteor is a powerful platform that enables end-to-end, client and server-side web application development entirely in JavaScript. It enters as an alternative to popular full-stack options such as MEAN and offers developers the opportunity to vastly simplify development concerns while building applications on the run. Meteor's reactive approach to development makes good to create real-time applications with, and the platform provides an excellent option for deployment to mobile.</p><p>This course gets right under the hood of the Meteor platform, demonstrating how to take advantage of its powerful development engine to build exciting, versatile applications.</p><p>We start by carefully designing an application structure, building a single page layout with multipage routing, and adding authentication. We’ll expose database data, and then look at how to work with subscriptions and queries. Then, we dive into the options for templating, with a look at dynamic Blaze templates and the Spacebars templating language. You’ll learn event handling and then test our application using Cucumber and Jasmine. After that, we deploy our application locally on the Meteor server, and then to Amazon to set it up for frequent updates and hot code deployment. Finally, you’ll learn how to work with third-party integrations, and set up REST endpoints to interact with other external services such as PayPal.</p><p>This course will help you to work at your own pace while mastering the patterns used to define all of the critical pieces of a web application.</p><p><strong>About The Author</strong></p><p><strong>George Mcknight</strong> started programming as a hobby with his brother in 1983, and began working in the software industry in 1994.<br></p><p>He currently works as V.P. Product Development for a multinational integration company, which has built over 200 corporate web applications since 2008.</p><p>He hosts an instructional Meteor YouTube channel, with over 3,700 subscribers, and more than 220,000 views.</p>", 
+    "end_date": null, 
+    "title": "Mastering Meteor: Reactive Full Stack JavaScript", 
+    "price": "35.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/693726_1670_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-meteor-reactive-full-stack-javascript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-10T06:16:01Z"
+}

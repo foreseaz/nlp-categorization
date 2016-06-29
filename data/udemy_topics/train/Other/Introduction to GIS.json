@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This GIS (Geographic Information Systems) course will get you up and running with GIS in very short time. By the end of the course, you will understand the GIS process from beginning to end and you will be able to create both offline and online GIS maps from scratch. On top of that you will practice GIS by completing an entire GIS project using census datasets.</p><p>The course is ideal for professionals who want to learn GIS, but are not sure how to handle and turn spatial data into information. If you're planning to undertake a job that requires GIS skills, this course will give you the confidence you need to understand and solve a GIS problem.</p><p>In the course, you will understand what GIS is by looking at various GIS use cases. You will learn about vector and raster formats used in GIS. You will also learn about GPS and remote sensing technologies which are tightly related to geographic information systems. The course also covers map projections which can become the nightmare of a GIS project if they are not properly understood. You will to convert geographic coordinates back and forth to different projection systems.</p><p>One important part of the course is the practice activities. You will be given some raw spatial data which you will use to create a map using the QGIS software. Moreover, you will learn how web mapping works and you will create a web map with QGIS and OpenLayers and publish it online on your own website without using any third party service.</p><p>In the last part of the course, you will learn how to acquire, clean, analyze and visualize education and income data from the census database.</p>", 
+    "end_date": null, 
+    "title": "Introduction to GIS", 
+    "price": "20.00", 
+    "instructors": "Ardit Sulce", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/336910_e010.jpg", 
+    "course_url": "https://www.udemy.com/gis-for-everyone/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-05T21:22:40Z"
+}

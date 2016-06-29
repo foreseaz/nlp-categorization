@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>You will learn about the famous MVC design pattern which stands for <em>Model-View-Controller</em>. This pattern is widely used in software engineering and many people talk about it, but few people know how to use it properly. You will learn, in an easy way, the MVC pattern in just 1 hour !</p>\n\n\n\n<p>Many programmers still develop software systems without following any pattern or architecture. You will see that the MVC pattern isolates the business logic from the user interface, and makes it easier to manage complexity of application through the separation of concerns.</p>\n\n\n\n\n\n<p>Several commercial and non-commercial web application frameworks have been created that enforce this pattern, for example: ASP.NET MVC, Apache Struts, Spring MVC, Cake PHP, and many more. Therefore it is very important that you understand the MVC pattern before working with any framework that follows this architecture.</p>\n\n\n\n\n\n<p>This course was created to be fast, objective and easy to understand. It is not tiresome for students like most of the courses about design patterns.</p>\n\n\n\n\n\n<p> Get started to learn MVC design pattern today!</p>\n\n<ul><li>All videos are in English;</li><li>All videos contain English subtitles;</li><li>All source code utilized in this course is available to download.</li></ul>\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "MVC pattern - explained and applied", 
+    "price": "20.00", 
+    "instructors": "Marco Aurélio Regis, Austin Ryan Wright", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/798344_973f.jpg", 
+    "course_url": "https://www.udemy.com/mvc-pattern/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-19T22:51:37Z"
+}

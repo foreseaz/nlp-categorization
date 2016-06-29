@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this Getting Started with React and Angular training course, expert author Daniel Stern will teach you how to implement Angular and React applications. This course is designed for the absolute beginner, meaning no experience with React or Angular is required.</p><p>You will start by comparing and contrasting Angular and React. This video tutorial will also teach you how to combine Angular and React, including how to prototype with Angular and improve prototypes with React. Finally, Daniel will teach you how to build a simple mailbox application with Angular and React, including how to configure a route, implement a message store, create a message view, and set up a React repeater. </p><p>Once you have completed this computer based training course, you will have learned the differences between Angular and React, as well as be able to implement them into your applications.</p>", 
+    "end_date": null, 
+    "title": "Getting Started with React and Angular", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/796240_4e9a_4.jpg", 
+    "course_url": "https://www.udemy.com/getting-started-with-react-and-angular/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-17T20:30:38Z"
+}

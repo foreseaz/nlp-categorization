@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t Get to build your own mobile games and launch them in apps store with this course. This extensive course covers the two most powerful and popular game engines for building games for mobile devices. You will learn both Unity 3D and Corona SDK. This course will help you create games for multiple platforms and will provide you necessary training to design, develop and launch the next block buster game. Mobile games are the most popular apps category world wide and you can be part of that market fairly easily with this course.  </p>  <p>  \t This course covers both Corona SDK and Unity 3D in ten sections with five units dedicated to both of them respectively. The first five units cover Corona SDK the cross platform game engine which can help you build games for iOS, Android, Kindle and Nook. This platform will help you build games quickly and you can implement powerful monetizing APIs like in app purchase and advertisements. The first five units will make you master of this SDK and you can quickly start building games that will sell.  </p>  <p>  \t The last five units covers the powerful Unity 3D engine. It is one of the most popular game engines in the market and you can make highly advance games using this engine. You will start with basic Unity concepts and then will advance to use advance features like collision detection, character control and terrain handling. You will further learn about handling physics and other game properties. You will surely be a Unity 3D master by the end of this course.  </p>  <p>  \t Why this course is for you?  </p>  <ul>  \t<li>Covers two of the most powerful cross platform engines in one course</li>  \t<li>Course developed and designed by real game developers</li>  \t<li>Provides you real insight to game development process</li>  \t<li>Requires no prior game development experience</li>  \t<li>Easy to follow process which gets you started quickly</li>  </ul>  <p>  \t Get started and bring all your game ideas to life..  </p>", 
+    "end_date": null, 
+    "title": "Learn Mobile Game Programming from Scratch", 
+    "price": 0, 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/169486_1263_5.jpg", 
+    "course_url": "https://www.udemy.com/learn-mobile-game-programming-from-scratch/", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-21T07:19:31Z"
+}

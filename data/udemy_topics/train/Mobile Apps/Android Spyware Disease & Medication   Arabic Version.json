@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course, we will discuss the vulnerabilities of the android application layer and we will demonstrate two Android applications, one for the disease and the other for the medication , The first one is a spyware application ”Disease” which resulted in a set of vulnerabilities in the Android operating system, and we will demonstrate how this can be built to abuse these vulnerabilities for intercepting victim cell phone Contacts, IMSI, Internet History, SMS, Call Logs and Location. The second one is the anti-spyware application ”medication” which implemented in order to mitigate the risks of such attacks and can view and clarify the whole applications that interested in the SMS, Incoming Calls, or Outgoing Calls and give the user the ability to know the unwanted applications like our spyware one. We will develop a step by step spy application which i called \"Chameleon\" and anti-spyware application which i called \"DroidSmartFuzzer\".</p>", 
+    "end_date": null, 
+    "title": "Android Spyware Disease & Medication \" Arabic Version \"", 
+    "price": "50.00", 
+    "instructors": "Mustafa Saad", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/532192_5680_3.jpg", 
+    "course_url": "https://www.udemy.com/android-spyware-part1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-19T14:32:28Z"
+}

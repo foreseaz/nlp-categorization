@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Nesse curso, gravado inteiramente em HD, você aprenderá do ZERO a como trabalhar com o framework mais popular do mundo PHP.</p><p>O curso é baseado na versão 5.1 (LTS) do Laravel, e todo seu conteúdo foi inteiramente formulado para que você rapidamente possa sair utilizando todos os conhecimentos adquiridos de forma imediata.</p><p>Com essa base, você poderá criar sistemas Web, utilizando boas práticas de programação, incluindo banco de dados, bem como seus principais tipos de relacionamentos.</p><p><strong>Principais itens que aprenderemos no curso</strong><strong></strong></p><ul><li>Indrodução</li><li>MVC</li><li>Views</li><li>Models</li><li>Relacionando Models</li><li>CRUD</li><li>Autenticação</li></ul><p><strong><br></strong></p>", 
+    "end_date": null, 
+    "title": "Laravel 5 Express", 
+    "price": "20.00", 
+    "instructors": "Wesley Willians", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/791094_7a40_4.jpg", 
+    "course_url": "https://www.udemy.com/laravel-5-express/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-13T04:35:02Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \tWelcome to the Surviving Digital Forensics series.  Oftentimes you will be asked to find information on a target system that shows if a user accessed certain files, the last time they did and/ or how often they did.  Being able to put a picture together that answers these questions can be critical and make or break the case.  In this course you will learn one method that can be used to answer these questions.  Of course we will be using all low cost or no cost computer forensic tools.  The course is focused on just what you need and you will be up and running in under an hour.  </p>  <p>  \tAs with previous SDF classes you will learn by doing.  The class begins with a brief overview of the method we will be using and then it is all hands on.  There are three practicals in which you work with our prepared files in applying the technique as well as questions to answer about each scenario.  </p>", 
+    "end_date": null, 
+    "title": "Surviving Digital Forensics: Windows Explorer", 
+    "price": "40.00", 
+    "instructors": "Michael Leclair", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/240312_b2b1_5.jpg", 
+    "course_url": "https://www.udemy.com/surviving-digital-forensics-proving-file-knowledge-part-1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-09T21:55:03Z"
+}

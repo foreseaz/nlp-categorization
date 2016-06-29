@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><span>JSON stands for JavaScript Object Notation. It is a very popular and widely\nused data format. It is platform neutral which means it will work with any\nprogramming language<span>  </span>and operating system.\nIt is a <span> </span>light weight format with the\nability to convert to native JavaScript objects. </span></p><p><span><span> </span>JSON is a bit like XML but<span>  </span>simpler and shorter to write. The syntax used\nis similar to that used by <span> </span>JavaScript .\nKnowing some JavaScript will be useful hence I have included some lectures like\nJavaScript variables, operators and functions. JSON can be parsed or\ninterpreted using JavaScript functions so having a basic understanding of JavaScript\nfunctions will help when the functions are used to translate JSON.</span></p><p><span>This is a short video based course of less than 90 minutes long to\nintroduce you to JSON and learn especially how to write and understand JSON\nsyntax. </span><span>JSON isn't really a programming language in its own right,\nit's more of a data format so understanding some JavaScript concepts will help\nyou understand JSON. A basic knowledge of JavaScript is advised but I have\nincluded some useful JavaScript concepts <span> </span>like variables, functions and operators to\nguide you.</span><span></span></p><p><strong><span>What you will learn in\nthis course:</span></strong></p><ul><li><span>What is JSON</span></li><li><span>JSON Syntax</span></li><li><span>JavaScript Variable</span></li><li><span>JavaScript Operators</span></li><li><span>JavaScript Functions</span></li><li><span>How to create JSON objects</span></li></ul>", 
+    "end_date": null, 
+    "title": "JSON For Beginners: A Very Basic Introduction", 
+    "price": "20.00", 
+    "instructors": "Bluelime Learning Solutions", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/688874_d07e_2.jpg", 
+    "course_url": "https://www.udemy.com/json-for-beginners-a-very-basic-introduction/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-04T13:23:42Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Te gustaría aprender a programar desde cero, entonces este curso es para ti :D</p><p>El curso te guiara a traves de la practica a ir incorporando conocimientos sobre que es un algoritmo, como poder resolver problemas, ademas veremos muchisimos ejercicios resueltos y propuestos sobre temas como:<br></p><ul><li>Operadores</li><li>Condiconales</li><li>Ciclos o Bucles</li><li>Funciones (Programación Modular)</li><li>Vectores o Arrays</li><li>Programación de Juegos</li></ul><p>Utilizaremos un programa llamado DFD, en el cual podremos resolver nuestros ejercicios. Así que ya sabes si te interesa el mundo de la programación este curso es para ti :D</p>", 
+    "end_date": null, 
+    "title": "Aprende Programación con Diagramas de Flujo", 
+    "price": "20.00", 
+    "instructors": "Alejandro Miguel Taboada Sanchez", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/675742_d70d_2.jpg", 
+    "course_url": "https://www.udemy.com/programacion-desde-cero-con-diagramas-de-flujo/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-20T16:24:18Z"
+}

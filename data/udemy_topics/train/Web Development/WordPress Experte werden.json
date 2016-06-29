@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">In meinem Kurs &quot;WordPress erweitern&quot; lernen Sie alles was Sie wissen müssen um WordPress zu erweitern und an Ihre eigenen Bedürfnisse anzupassen.</p><p style=\"\">In den ersten Videos zeige ich Ihnen wie Sie erweiterte Einstellungen im Backend vornehmen. Wir gehen dann auf die WordPress Templates und Formatvorlagen ein und wie Sie mit diesen Arbeiten und Templates erweitern. Sie werden z.B. lernen wie Sie eigene Menüs oder Widgetflächen anlegen.</p><p style=\"\">In den nächsten Videos zeige ich Ihnen den Aufbau der WordPress Queries um eigene Abfragen Ihrer Inhalte zu erstellen und wie Sie eigene Templatedateien für Beiträge und Seiten erstellen.</p><p style=\"\">Die weiteren Videos gehen darauf ein wie Sie mit Custom Post Types und eigenen Taxonomien arbeiten und WordPress so um eigene Inhaltstypen erweitern.</p><p style=\"\">Zum Schluss lernen Sie noch die ersten Schritte zum Erstellen eigener Plugins die ich am Beispiel verdeutliche sowie das arbeiten Redirects und ein praktisches Beispiel zum Umziehen einer WordPress Installation auf einen neuen Server.</p><p style=\"\">Wenn Programmcode verwendet wird, gibt es diesen immer als Download zur Lektion.</p><p style=\"\"></p><p style=\"\"><strong style=\"\">Dauer des Kurses:</strong></p><p style=\"\">In Summe enthält der Kurs 19 Videos in denen Sie alles lernen was Sie brauchen um WordPress zu erweitern! Um alle Beispiele aus dem Kurs nachzuvollziehen und praktisch damit zu arbeiten empfehle Ich Ihnen sich 1-2 Tage Zeit zu nehmen.</p><p style=\"\"></p><p style=\"\"><strong style=\"\">Zielgruppe:</strong></p><p style=\"\">Dieser Kurs ist für Anwender gedacht die sowohl WordPress als normaler Benutzer beherrschen als auch Kenntnisse von PHP, HTML und CSS haben. Wir gehen zum Teil tief in die Materie rein und besprechen z.B. einzelne WordPress Funktionen, so dass zumindest Grundkenntnisse in Web Programmierung vorhanden sein sollten.</p><p style=\"\"></p><p style=\"\"><strong style=\"\">Alle Inhalte des WordPress Expertenkurs in der Übersicht:</strong></p><ol style=\"\"><li style=\"\">Benutzerverwaltung</li><li style=\"\">Experteneinstellungen</li><li style=\"\">ID von Seiten und Beiträgen anzeigen</li><li style=\"\">Arbeiten mit Formatvorlagen</li><li style=\"\">Eigene Menüs erstellen</li><li style=\"\">Neue Widgetflächen erstellen</li><li style=\"\">Eigene Queries erstellen</li><li style=\"\">Custom Templates für Beiträge</li><li style=\"\">Custom Templates für Seiten</li><li style=\"\">Mit Post Thumbnails arbeiten</li><li style=\"\">Shortcodes in der Functions Datei anlegen</li><li style=\"\">Eigene Custom Post Types und Custom Taxonomien mit Plugin anlegen</li><li style=\"\">Eigene Custom Post Types mit der Functions Datei</li><li style=\"\">Custom Template für Custom Post Type</li><li style=\"\">Eigene Taxonomien mit der Functions Datei</li><li style=\"\">Erste Schritte zum eigenen Plugin</li><li style=\"\">So erstellen Sie Ihr eigenes Plugin</li><li style=\"\">Mit Redirects arbeiten</li><li style=\"\">WordPress Webseite umziehen am praktischen Beispiel</li></ol>", 
+    "end_date": null, 
+    "title": "WordPress Experte werden", 
+    "price": "30.00", 
+    "instructors": "Benjamin Ronnenberg", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/508970_21f2.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-expertenkurs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-22T15:11:49Z"
+}

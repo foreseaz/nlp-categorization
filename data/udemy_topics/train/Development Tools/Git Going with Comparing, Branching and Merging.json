@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong></strong><strong>Git Going with Comparing, Branching and Merging</strong></p><p>Are you sure how to <em>compare </em>between commits, branches or the three states of Git? Do <em>merges </em>cause you trouble? What is a <em>rebase</em>, anyway?</p><p>In this course, students will walk though comparing (diffs), branching, merging and rebasing in Git. At the end of this course, students will have a <em>firm </em>understanding and experience with those paricular aspects of Git. <em>Note: </em>This is not a comprehensive course on Git -- we focus <em>exclusively </em>on <strong>comparing</strong>, <strong>branching</strong>, <strong>merging</strong>, and <strong>rebasing</strong>.</p><p><strong>Recent Course Updates</strong></p><ul><li>October 17: Added <em>Updates and Errata</em> section</li></ul><p><strong>Course Outline</strong></p><p><em>Course Introduction and Overview</em> provides an introduction to this course.</p><p>After the introduction, the first thing we do is <em>Git Installation</em> for both Windows and Mac. There are dedicated sections for Windows and Mac -- so students can jump directly to the lectures specifically designed for their system. After the installation process, we will download the example project repository from GitHub (clone) which we will use throughout the course.</p><p>After installation and downloading the example project, we explore ways to make <em>Comparisons </em>in Git, including all the different local states, between commits, and between local and remote repositories.</p><p>We give great attending to <em>Branching and Merging</em> in Git. We start off with the simple \"happy path\" and learn about \"Fast-Forward\" merges and how to control them. The we walk through common \"automatic\" merges. Finally, we cause trouble on purpose so we can step through resolving conflicting merges with our visual merge tool.</p><p>With a strong foundation in branching and merging, we will then cover a more complex topic, <em>Rebasing</em>. In that section, we cover several rebasing examples, including how to resolve a rebase conflict.</p><p>All tools have installation and configuration sections to ensure no one is left behind.</p><p><strong>Course Features</strong></p><p>Presentations provide audio/video training of conceptual ideas. Since few like slide-ware presentations, slide-presentations are kept to a minimum.</p><p>Screencasts provide a video of the instructor's computer system with any actions, commands, or screens displayed and narrated. There is nearly 2 hours of screencast based video training in order to step through each command or action in sufficient detail.</p><p><strong>Special Notes</strong></p><p>This course is part of the \"Git Going\" series and is included with the <em>Git Complete</em> comprehensive course. If you are already enrolled in that course, do not enroll in this course.</p><p>This course makes extensive use of the <strong>command line</strong>. Each command is discussed in detail, so everyone can follow along.</p>", 
+    "end_date": null, 
+    "title": "Git Going with Comparing, Branching and Merging", 
+    "price": "20.00", 
+    "instructors": "Jason Taylor", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/364384_ec93.jpg", 
+    "course_url": "https://www.udemy.com/git-compare-branch-merge-rebase/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-06T01:59:19Z"
+}

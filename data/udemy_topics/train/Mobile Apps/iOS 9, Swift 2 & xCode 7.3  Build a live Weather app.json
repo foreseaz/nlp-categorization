@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">Live Weather Application!</strong></p>\n\n<p>If you are a beginner in application development, or expert developer looking for some new tricks, you've come to the right place. In this course you will not only learn the basics in building a application from scratch you will also learn how to pull <strong>LIVE</strong> information from the internet and into your application. <strong class=\"redactor-inline-converted\">Here's what we'll cover:</strong></p>\n\n<ul><li>How to create a full work application</li><li>How to create an alert controller</li><li>How to create an alert action</li><li>How to add a struct in your project</li><li>How to pull live data from the internet</li><li>How to parse data from the internet to JSON</li><li>How to adjust info.plist in order to except http URLs</li><li>How to create images and icons through Sketch</li><li>... and etc.</li></ul>\n\n<p><strong class=\"redactor-inline-converted\">What are the requirements?</strong></p>\n\n<ul><li>Xcode 7</li><li>At least a beginner knowledge in iOS programming with Swift</li><li>access to the internet</li></ul>\n\n<p>What is the target audience?</p>\n\n<ul><li>iOS developer who want to enhance their skills in coding Swift Language</li><li>iOS application designers</li><li><strong>All level developers looking for something new!</strong></li></ul>\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "iOS 9, Swift 2 & xCode 7.3: Build a live Weather app", 
+    "price": "20.00", 
+    "instructors": "Bryan Okafor", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/864318_7cd9.jpg", 
+    "course_url": "https://www.udemy.com/ios-9-swift-2-xcode-73-build-a-live-weather-app/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-31T05:15:53Z"
+}

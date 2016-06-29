@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>PHP is an <strong class=\"redactor-inline-converted\">object oriented</strong> general purpose language suitable for a wide variety of tasks. In this course, we'll learn how to use PHP as a <strong class=\"redactor-inline-converted\">server-side scripting language</strong> for use in web development.</p>\n\n<p>Unlike traditional courses that concentrate mainly on theory, we'll take a practical “how-to” approach to working with data. Here's what you'll learn:</p>\n\n\n\n\n\n<p>Associative arrays will be discussed in this course. Arrays are the key to understanding the mechanism of sending and receiving data via the <strong class=\"redactor-inline-converted\">request mechanism in PHP</strong>. We'll learn how to work with data via <strong>REQUEST, GET, and POST</strong>, and we'll also cover some important server variables exposed by PHP.<br></p>\n\n\n\n\n\n<p>I hope you enjoy the course, and I look forward to working with you!</p>\n\n\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Understand PHP Arrays and HTTP Request in a Better Way", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "35 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/856530_2ba3_2.jpg", 
+    "course_url": "https://www.udemy.com/understand-php-arrays-and-http-request-in-a-better-way/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-22T12:45:54Z"
+}

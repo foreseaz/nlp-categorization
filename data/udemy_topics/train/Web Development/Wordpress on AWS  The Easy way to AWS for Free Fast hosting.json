@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>ONLY JUST LAUNCHED * How would you like a FREE website, hosted on the same platform as some MAJOR website FREE ? Imagine if you could get the benefit of LIGHTNING fast web architecture all for FREE after simply choosing to decide to take this course!.. wouldn't that be AWESOME!?' **</strong></p><p>Wordpress on Amazon AWS might seem like a daunting task. But in this course I will take you step by step through the process of setting up your very own wordpress in the cloud instance hosted on the most robust and fastest platform in the world. The amazon EC2 platform. </p><ol><li>Learn how to get your wordpress site set up quickly through amazon marketplace </li><li>discover the free tools for deploying infinitely scalable websites in the cloud </li><li>Learn step by step as Matt build his own website </li><li>Learn how to use SFTP to securely transfer files and change file permissions using filezilla</li><li>Set up a brand new Lightning fast wordpress website in minutes FREE of Charge </li></ol>", 
+    "end_date": null, 
+    "title": "Wordpress on AWS: The Easy way to AWS for Free Fast hosting ", 
+    "price": "20.00", 
+    "instructors": "Matthew Barnett", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/469678_1775_3.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-on-aws-the-easy-way-to-aws-for-free-fast-hosting-amazon/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-07T07:28:48Z"
+}

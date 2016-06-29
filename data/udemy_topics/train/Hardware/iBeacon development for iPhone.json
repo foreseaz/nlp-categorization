@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Course Description</strong><strong></strong><br></p><p>Learn the basic concepts of Apples iBeacon eco-system, iOS development tools for developing iBeacon applications and actual hands on coding examples of how to create a real iBeacon iOS application with the Swift programming language for iOS 9.<br></p><p><br><strong></strong></p><p><strong>Build a strong foundation in XCode 7 and Swift. This course helps you understand and implement iBeacon technology in your own app with the latest technologies.</strong><br></p><ul><li>Swift programming language</li><li>XCocde 7</li><li>iOS 9</li><li>iBeacon fundamentals</li><li>Advanced integration for background modes</li><li>Remote Server integration for HTML5 / Ad Pop-Up API</li><li>Discussions on what iOS devices are supported</li><li>Overview of BlueTooth Low Energy (BLE)</li></ul><p><br><strong></strong></p><p><strong>Professional skills and experience from an iOS Architect with over 8 years experience.</strong><br></p><p>Learn the fundamentals but also tips and tricks of the experts. Learn about the different type of iBeacons, why size matters for battery life and see actual iBeacon devices. </p><p>We will walk thru XCode setup and creation of a project iOS iPhone application that uses iBeacons to include Notifications and Remote Server API Integration.<br></p><p><br></p><p><strong>Content and Overview </strong></p><p>This course explains Apples iBeacon systems and how they are used with iPhone application development. We explain the overall system in detail focused on developers not the marketing folks. We explain how the iBeacons work and how they are integrated into an application with examples in Swift, Apples latest programming language for the iPhone. All examples are based on iOS 9.</p><p><br><strong></strong></p><p><strong>What am I going to get from this course?</strong></p><ul><li>Detailed explanations of iBeacon technology for iOS 9</li><li>Learn how to integrate into your apps from an iOS professional</li><li>Suitable for any iOS programmer, Swift basics for iBeacons are presented, no experience as a UI developer or server developer is expected.</li><li>Teaching by example, several hands on examples showing every detail to the smallest degree from starting a new application to running it on a device.</li><li>Access to Instructors GitHub account with many extras and examples.</li></ul><p>If you don't have an iBeacon device don't worry, we provide a simulator that runs on an i-Device to help your development.</p>", 
+    "end_date": null, 
+    "title": "iBeacon development for iPhone", 
+    "price": "20.00", 
+    "instructors": "Tom Jay", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/627546_16be.jpg", 
+    "course_url": "https://www.udemy.com/ibeacon-development-for-iphone/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-01T01:23:43Z"
+}

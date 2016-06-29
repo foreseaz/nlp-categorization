@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is for any Wordpress user or web developer who would like to learn how to create powerful Wordpress themes and add development skills to their resume.</p><p>If you already have basic WordPress skills and wanted to know how themes are developed, then this is the perfect course for you. This course will super-size your WP skills and make you a powerful theme developer.</p><p><strong style=\"\">Become a confident WordPress theme developer and learn real WordPress theme coding here! This course contains no outside links to coding sites. All the code you need to learn is in this course. The instructor uses this code with every WordPress theme and has built over 300 WordPress themes for clients and employers.</strong></p><p><strong style=\"\">BONUS: FREE CODE TO FULLY FUNCTIONAL 2 WORDPRESS THEMES: </strong></p><p><strong style=\"\">All students get two themes to customize with the code from this course:<br style=\"\"></strong><strong style=\"\">1. plain vanilla WordPress theme <br style=\"\">2. Twitter Bootstrap WordPress theme </strong></p><p>This course delves more into these theme development concepts with all the code you need to download and make it your own:</p><ol style=\"\"><li>Creating your own template tags and calling them in your theme PHP files</li><li>Shortcodes</li><li>Page Templates</li><li>Displaying custom field data in your templates</li><li>Child themes</li><li>Adding Theme Support including custom headers, backgrounds, post formats, HTML title tags and more</li><li>Developing your own template tags</li><li>Creating your own API hooks and calling them in any PHP file of your theme.</li><li>Registering and calling dynamic sidebars</li><li>Detailed menus and their menu locations</li><li>The 2 WordPress Theme APIs: The &quot;Customizer&quot; (Theme Customization API) and the Theme Modification API</li></ol><p><strong style=\"\">An entire section of lectures showing how to display posts and pages of various combinations.</strong><br style=\"\"></p><p>This course offers an entire section teaching how to displaying posts and pages in any combination including, but not limited to:</p><ol style=\"\"><li>post status (published, private, revision, etc)</li><li>by author</li><li>password protected</li><li>by custom post type</li><li>by a specific modified or published date</li><li>list of featured images from posts</li><li>cutting off the list of posts and pages by a certain number</li><li>Displaying posts and pages in a specific order by any field</li></ol><strong style=\"\">Bonus Lectures With Examples<p>I offer code samples from popular post lists including:</p></strong><ol style=\"\"><li>latest blog posts</li><li>most recent pages</li><li>today&#039;s posts</li><li>random lists of posts</li><li>posts and pages by all authors</li><li>posts and pages by a specific post type</li></ol><p><strong style=\"\"><br style=\"\"></strong></p><p><strong style=\"\">Materials in this Course:</strong></p><p>This course includes videos with example code as well as additional code files to download the code so students can concentrate using the code in their WordPress theme files, but the videos will show how to modify the code to create the final Wordpress website.</p><p><strong style=\"\">Course Structure:</strong><br style=\"\"></p><p>This course offers videos with the instructor explaining how to use and change the code as needed. </p>", 
+    "end_date": null, 
+    "title": "Professional WordPress Theme Development For 2016", 
+    "price": "20.00", 
+    "instructors": "Bruce Chamoff", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/492818_5a6e_6.jpg", 
+    "course_url": "https://www.udemy.com/advanced-wordpress-theme-development-next-level-of-theming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-03T23:05:36Z"
+}

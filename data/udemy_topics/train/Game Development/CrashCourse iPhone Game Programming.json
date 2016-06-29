@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Throughout this course we are going to be developing an iOS game in Swift! We will be going to cover a lot to get you up and running as a game developer for iOS, covering everything from getting started with Xcode to beta testing to actually submitting your app the App Store.</p><p>We will be developing a side-scrolling game in which the user will play as a ninja that can jump, slide, and slash through obstacles. The game will keep track of points and will allow for saving your high score to game center to compare with friends. Assets for animations and the in-game scenery are all included.</p><p>The main timeline of the course includes going through some Programming Basics, Developing the Game, Implementing Game Center, Beta Testing, and finally Submitting Your App to the App Store. The course builds on programming concepts introduced at the beginning of the course to help you see how and where they are applied in a real-world setting.</p><p>It should take approximately ten to twenty hours to complete depending on your level of experience and depth of study in the concepts introduced.</p><p>You should take this course if you are relatively new to programming and want to learn through the experience of developing an iPhone game! </p>", 
+    "end_date": null, 
+    "title": "CrashCourse iPhone Game Programming", 
+    "price": "20.00", 
+    "instructors": "Michael Leech", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/616320_3710_3.jpg", 
+    "course_url": "https://www.udemy.com/crashcourse-iphone-game-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-19T01:54:01Z"
+}

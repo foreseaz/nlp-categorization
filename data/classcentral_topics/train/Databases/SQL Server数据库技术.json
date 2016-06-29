@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Databases"
+    ], 
+    "description": "\n\n                    \n                    \n                    在信息化社会，充分有效地管理和利用各类信息资源，是进行科学研究和决策管理的前提。数据库技术是有效地管理和利用各类信息资源的重要技术手段。通过本课程，你将获得数据库技术的基本知识，学会通过SQL Server数据库管理系统管理数据，包括安装数据库管理系统，创建数据库和数据表，插入数据和维护数据等，特别是可以使用SQL Server按各种条件查询需要的信息。\n\n                                            Syllabus\n                        关系数据库和SQL Server使用入门本讲内容包括：数据库的概念、发展和数据库模型；关系数据库的基本概念；SQL Server数据库管理系统的安装；创建数据库、数据表；插入数据；简单查询。数据管理和基本查询本周学习如何创建带主键的数据表、带外键的数据表以及有其他约束条件的数据表。学习数据表的修改、数据的修改，学习简单查询、按条件查询、使用特殊运算符查询、对查询结果排序等内容。通过本周的学习，你可以随心所欲地创建数据表，可以从数据库中查询到自己需要的数据。高级查询和数据库的安全本周内容包括函数查询、分组查询、多表连接查询、子查询、视图的创建和应用，SQL Server安全的基本原则，通过C#连接和使用数据库等内容。\n                                    ", 
+    "end_date": "2016-07-04T00:00:00Z", 
+    "title": "SQL Server数据库技术", 
+    "price": 0, 
+    "instructors": "吴 宁, 赵英良, 谢涛 and 乔亚男", 
+    "institution_name": [
+        "Xi'an Jiaotong University"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.coursera.org/learn/sql-server-shujuku-jishu", 
+    "duration": "3 weeks", 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-13T00:00:00Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t     Con este curso podrás empezar a crear tu sitio web.  </p>  <p>  \t    Pero primero expliquemos. Drupal es un administrador de contenido que permite crear desde sencillos sitios web hasta complejas aplicaciones en linea, empezar a utilizarlo es una buena manera de tener un sitio web que a futuro crezca con nueva funcionalidad.  </p>  <p>  \t    Este curso se compone de 9 videos (aproximadamente 110 minutos) varios exámenes y una presentación.  </p>  <p>  \t    El curso esta estructurado en cuatro secciones que van desde una introducción a drupal hasta el modulo de views.  </p>  <p>  \t    Parte de el material en video ya ha sido probado repetidamente en clases y platicas en vivo por lo que ha sido probado su efectividad para explicar como crear sitios web.<br style=\"\">  \t <br style=\"\">  \t   Finalmente para quien ya conoce de otros administradores de contenido como son wordpress y joomla. Este curso les permitira entrar a el mundo del desarrollo de sitios web con drupal.  </p>", 
+    "end_date": null, 
+    "title": "Crea sitios web con Drupal", 
+    "price": 0, 
+    "instructors": "Ivan Mejia", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/177470_b6b7_7.jpg", 
+    "course_url": "https://www.udemy.com/curso-basico-de-drupal/", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-05T19:30:38Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  ¿Trabajas con <strong style=\"\">Oracle</strong> y necesitas <strong style=\"\">más funcionalidades</strong> que las que ofrece <strong style=\"\">SQL</strong>? Geamind te presenta el curso <strong style=\"\">Lenguaje de programación PL/SQ</strong>L con Oracle 12c. Aprende a programar con este lenguaje creado por Oracle como una extensión de SQL.  </p>  <p style=\"\">  \t  Este lenguaje se caracteriza por aportar nuevas características: el manejo de variables, estructuras modulares, estructuras de control de flujo y toma de decisiones y control de excepciones. <br style=\"\">  \t<br style=\"\">  \t  El curso comienza con una introducción a PL/SQL, continúa con la programación de estructuras de control, el manejo de cursores, la gestión de errores, procedimientos, funciones y el manejo de registros y colecciones, entre otros. La formación finaliza con funcionalidades avanzadas de PL/SQL como cursores variables y SQL dinámico.<br style=\"\">  </p>  <p style=\"\">  \t  ¿Qué objetivos tiene esta formación?  </p>  <p style=\"\">  \t  El objetivo esencial del curso es aprender a programar en el lenguaje de programación PL/SQL para construir aplicaciones.  </p>  <p style=\"\">  \t  ¿Esta formación es para mí?  </p>  <p style=\"\">  \t  El curso va dirigido a desarrolladores en entornos Oracle que necesiten funcionalidades superiores a las que aporta SQL.  </p>  <p style=\"\">  \t  ¿Qué distingue a este curso sobre los demás?  </p>  <p style=\"\">  \t  Tu instructor es ingeniero informático, con distintas certificaciones en Oracle. Además, pertenecemos a la red de Oracle Partners. Con todo ello, la calidad en la formación está asegurada.  </p>", 
+    "end_date": null, 
+    "title": "Oracle Database 12c Lenguaje de programación PL/SQL", 
+    "price": "20.00", 
+    "instructors": "GEAMIND Formación IT", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/422430_0fe6_6.jpg", 
+    "course_url": "https://www.udemy.com/oracle-database-12c-lenguaje-de-programacion-plsql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-15T10:41:39Z"
+}

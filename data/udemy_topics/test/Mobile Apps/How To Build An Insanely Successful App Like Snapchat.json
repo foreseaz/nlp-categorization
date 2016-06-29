@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t            Enable yourself to build iOS apps through one of the only courses containing simple and 100% hands-on video training with Apple&#039;s brand new programming language Swift. There are no slides, boring information, or documentation. If you want to hit the ground running and start building your awesome app idea, this course is for you.  </p>  <p>  \t<strong style=\"\">Why To Take This Course</strong>  </p>  <p>  \t            This course is designed to not only give you a strong core knowledge base about iOS, but also show you how to be on the cutting-edge by take advantage of the latest Apple frameworks and technologies. This unique course will help you stand out from the hundreds of thousands of applications by implementing the latest features like Touch ID, Handoff, App Extensions, and WatchKit. These are all huge opportunities for developers to take advantage of, and you can be one of the very first.  </p>  <p>  \t<strong style=\"\">How You Learn</strong>  </p>  <p>  \t            We will begin by introducing some basic Swift concepts like constants, variables, optionals, arrays, and dictionaries. You will be able to experiment with them directly in Xcode. Then we&#039;ll start building our app, TouchChat. This course unlike other online resources, consolidates all the information into very practical and easy to understand videos and will help you start making apps right away!  </p>  <p>  \t<strong style=\"\">What The App You&#039;ll Build Does</strong>  </p>  <ul style=\"\">  \t<li>Take photos using the built-in camera on the iPhone</li>  \t<li>Upload and post the photos for other users to see</li>  \t<li>Browse and view photos other users have posted</li>  \t<li>Hide the photos when viewing until your fingerprint scans</li>  \t<li>Access photos from a Notification Center widget</li>  \t<li>Handoff integration with Macs for continuity</li>  \t<li>Integrates with Apple Watch to view info about photos</li>  </ul>  <p>  \t<strong style=\"\">Who Can Take The Course</strong>  </p>  <p>  \t            Of course if you have ever wrote code in the past, chances are you&#039;ll find this course a bit easier to understand. However, no programming experience is required and it&#039;s one of the best ways for someone who has never written a line of code in their life to jump right in. This course is also extremely valuable if you&#039;re someone who has built iOS apps before and are looking to give yourself a boost to learn Swift or implement awesome new technology into your apps to make them stand out. We think you will love it no matter where you are!  </p>", 
+    "end_date": null, 
+    "title": "How To Build An Insanely Successful App Like Snapchat", 
+    "price": "20.00", 
+    "instructors": "Gabriel Pierannunzi", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/395542_5679_6.jpg", 
+    "course_url": "https://www.udemy.com/building-innovative-ios-apps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-16T06:06:40Z"
+}

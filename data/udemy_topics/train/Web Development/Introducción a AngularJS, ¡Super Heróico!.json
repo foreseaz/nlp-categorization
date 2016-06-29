@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>AngularJS es un poderoso framework de JavaScript de código abierto, mantenido por Google, que ayuda con la gestión de lo que se conoce como aplicaciones de una sola página. Su objetivo es aumentar las aplicaciones basadas en navegador con capacidad de Modelo Vista Controlador (MVC), en un esfuerzo para hacer que el desarrollo y las pruebas sean más fáciles.</p><p>La biblioteca lee el HTML que contiene atributos de las etiquetas personalizadas adicionales, entonces obedece a las directivas de los atributos personalizados, y une las piezas de entrada o salida de la página a un modelo representado por las variables estándar de JavaScript. Los valores de las variables de JavaScript se pueden configurar manualmente, o recuperados de los recursos JSON estáticas o dinámicas.</p><p>En este curso abordaremos AngularJS desde sus inicios, la forma de instalarlo en tu computadora y realizar el famoso y tradicional programa de \"Hola Mundo\". Un punto fundamental en este framework será el patrón MVC o Modelo-Vista-Controlador el cual nos dará una enorme fortaleza en nuestros desarrollos.</p><p>Sobre este marco crearemos los módulos, las directivas y servicios de daos equivalentes a los de AJAX, como es el servicio $http.</p><p>En la segunda parte nos dedicaremos a utilizar los mismos elementos para desarrollar una sencilla aplicación que comunicaremos a una base de datos de tipo MySQL para poder extraer y mostrar los datos en pantalla, cerrando así el aprendizaje básico al desarrollo de aplicaciones con AngularJS.</p>", 
+    "end_date": null, 
+    "title": "Introducción a AngularJS, ¡Super Heróico!", 
+    "price": "20.00", 
+    "instructors": "Francisco Javier Arce Anguiano", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/327646_2d46_2.jpg", 
+    "course_url": "https://www.udemy.com/introduccion-a-angularjs-super-heroico/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-26T17:26:06Z"
+}

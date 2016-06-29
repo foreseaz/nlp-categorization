@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\">This course is for those interested in doing baseball analytics with the Retrosheet game-by-game and play-by-play data.  The main tools for working with such data are in the Chadwick software.  We install a virtual Linux machine, on which we will install the Chadwick software.  We will then learn how to extract baseball data with the Chadwick software, how to further filter the data with dplyr in R, and how to plot our results with ggplot.  </p><p style=\"\">For the first part of the course, in which we install the virtual Linux machine and learn how to work with the Chadwick software, there are no prerequisites.  To follow the second part of the course, knowledge of dplyr is necessary.  This can be obtained through my course &quot;Baseball Database Queries with SQL and dplyr&quot;.</p><p style=\"\">At a relaxed pace, the course should take two to three weeks to complete.  </p>", 
+    "end_date": null, 
+    "title": "Baseball Data Wrangling with Vagrant, R, and Retrosheet", 
+    "price": 0, 
+    "instructors": "Charles Redmond", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/532454_2259_2.jpg", 
+    "course_url": "https://www.udemy.com/baseball2/", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-19T19:47:14Z"
+}

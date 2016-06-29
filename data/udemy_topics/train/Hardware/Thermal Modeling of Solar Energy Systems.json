@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t This course in an introduction to building thermal models of equipment that is exposed to solar heating and uses weather files from 1000&#039;s of locations around the world.  Examples would include an airplane sitting on a runway in the sun, electronic equipment exposed to solar heating, passive solar heating of buildings and houses, solar power plants or heating of automobile dashboards.  </p>  <p style=\"\">  \t This class is based on MSC Software&#039;s Patran, Sinda and Thermica.  If you have access to these packages you will be able to complete the step by step tutorial problem.  If you don&#039;t have access to the software, you will still learn the process of creating a thermal model with solar heating.  </p>", 
+    "end_date": null, 
+    "title": "Thermal Modeling of Solar Energy Systems", 
+    "price": 0, 
+    "instructors": "Ron Behee", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/23534_52f8_7.jpg", 
+    "course_url": "https://www.udemy.com/msc-sinda-thermal-products/", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-08-24T16:11:48Z"
+}

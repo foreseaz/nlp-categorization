@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Dans cette formation jQuery, vous découvrirez toute la puissance de cette bibliothèque Javascript, qui vous permettra de créer des applications dynamiques très rapidement et simplement. Vous apprendrez à sélectionner, manipuler et animer les éléments de vos pages web, afin d’offrir plus d’interactivité sur vos sites. Vous réaliserez aux travers de travaux pratiques, de petites applications permettant d’améliorer grandement le confort de navigation de vos visiteurs. Vous apprendrez également à concevoir des applications AJAX, permettant de mettre à jour vos pages web sans aucun rechargement de page, offrant ainsi à vos visiteurs une plus grande rapidité et une meilleure expérience. Vous découvrirez aussi toute la puissance des plugins jQuery, vous permettant de mettre en œuvre des fonctionnalités à la base complexes, très simplement et très rapidement. Enfin, vous apprendrez à vous servir de la bibliothèque jQuery UI, complémentaire à jQuery, et qui vous permettra de mettre en place une meilleure interface utilisateur.</p>", 
+    "end_date": null, 
+    "title": "jQuery", 
+    "price": "35.00", 
+    "instructors": "Alphorm Démocratise le savoir IT", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/809514_4eae.jpg", 
+    "course_url": "https://www.udemy.com/jquery-alphorm/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-31T21:04:56Z"
+}

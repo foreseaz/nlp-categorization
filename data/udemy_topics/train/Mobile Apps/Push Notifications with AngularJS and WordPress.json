@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is all about Push Notifications. You will learn everything from the basics of Push Notifications to their implementation in an Ionic App that we built. You will also learn to implement Push Notifications in collaboration with your WordPress Blog which allows you to automatically send push notifications to all your users in one go.</p><p>Here is what you can expect.</p><ul><li>Learning Basics of Push Notifications</li><li>Structure that a Push Notification follows</li><li>Process of Sending a Push with WordPress</li><li>Registering Apps with Google Cloud Messaging</li><li>Registering Users with the Blog</li><li>Sending Push using Command Line</li><li>Sending automated Push Notifications from WordPress whenever a new post is published.</li></ul><p><br></p><p>This is a relatively small course which a very sharp focal point. It focuses only on Push Notifications and teaches you their implementation in Mobile Apps built with HTML, CSS and JS. Ionic Framework and Cordova are used in the course and AngularJS is the primary programming language used.</p>", 
+    "end_date": null, 
+    "title": "Push Notifications with AngularJS and WordPress", 
+    "price": "20.00", 
+    "instructors": "Samarth Agarwal", 
+    "commitment": "33 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/715456_e197.jpg", 
+    "course_url": "https://www.udemy.com/push-notifications-with-angularjs-and-wordpress/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-04T10:56:11Z"
+}

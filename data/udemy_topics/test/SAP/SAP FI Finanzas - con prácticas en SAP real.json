@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p><strong>Curso SAP Finanzas de Funcionalidad</strong> donde se profundiza en las posibilidades de este módulo y se aprende a explotarlo a nivel usuario. <strong>I</strong><strong>ncluye 3 semanas de acceso a una máquina SAP</strong>, para que realices las prácticas y juegues con el sistema.<br></p><p>Descripción del curso:</p><p>El curso a SAP Finance (Finanzas) nos introduce en la funcionalidad disponible de este módulo de SAP, sin perdernos en la complejidad de la configuración y dotando al alumno de un amplio conocimiento a un nivel usuario del módulo en cuestión.</p><p>Este curso incrementa la eficiencia en el uso del módulo durante su gestión diaria y asegura una amplia base de conocimiento sobre el módulo y su explotación.</p><p>Si quieres saber como ser un usuario avanzado dentro de SAP o si quieres ser consultor con un alto conocimiento funcional, este es el inicio.</p><p>Formación en total: 3 semanas de diversión.</p><p>Duración aproximada del curso:</p><p><strong>+- 8 horas de videos</strong></p><p><strong>+- 20 horas de ejercicios</strong></p><p><strong>+- 12 horas de exámenes</strong></p><p><strong>+- 30 horas de estudio</strong></p><p><strong>+- 50 horas de conexión a SAP</strong></p><p>Nota: Duración estimada con una dedicación de entre 3 y 4 horas diarias y que dependerá de la intensidad e interés del alumno.</p><p>Contenido del curso de iniciación a SAP FI:</p><ul><li>Presentación y objetivos.</li><li>Introducción a SAP FI.</li><li>Datos Maestros (Cuentas de mayor, Clientes, Proveedores, Bancos).</li><li>Contabilización de documentos, anulación, documentos preliminares.</li><li>Entrada y salida de pagos. Manuales.</li><li>Entrada y salida de pagos. Pagos automáticos.</li><li>Contabilidad bancaria, estractos bancarios, libros de caja.</li><li>Activos fijos: Alta, baja, amortizaciones, traslado.</li><li>Listado de partidas.</li><li>Sistema de información financiera.</li><li>Prácticas.</li></ul>", 
+    "end_date": null, 
+    "title": "SAP FI Finanzas - con prácticas en SAP real", 
+    "price": "40.00", 
+    "instructors": "Alejandro Botto, Luis Paredes", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/661284_2033.jpg", 
+    "course_url": "https://www.udemy.com/sap-fi-finanzas-con-practicas-en-sap-real/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-05T17:14:56Z"
+}

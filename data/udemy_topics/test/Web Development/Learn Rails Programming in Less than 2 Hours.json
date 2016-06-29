@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course teaches the <strong>basics of Rails development</strong>. Rails is a framework for developing database enabled web applications quickly and easily. In this course, we assume that you already have a knowledge of Ruby.</p><p>The course is divided into three units. In unit 1, we'll look at how Rails is organized. We'll talk about the Model / View / Controller design pattern and how Rails implements it, and how to create a very simple “Hello world” <strong>application in Rails</strong>. We'll also look at creating an application using a scaffold, and create a simple app to track contacts and phone numbers. </p><p>Unit 2 will dive deeper into Rails, and <strong>create our contacts app</strong> from scratch, starting with a simple controller and view Along the way, we'll learn about resources and creating a model for the app, as well as view to add a contact and show the most recently added contact. </p><p>In Unit 3, we'll finish up the application by creating actions and view to allow the user to show all contacts, and edit and delete them as well. We'll also look at creating links between views that tie the application together. </p><p>I hope you enjoy the course as much as I've enjoyed writing it. </p><p><strong>Topics covered:</strong></p><p><u>Unit 1</u></p><p>Intro to Rails</p><p>Getting Rails on your computer</p><p>Model / View / Controller</p><p>Creating a new Rails app</p><p>The directory structure</p><p>Hello, Rails</p><p>Creating an app with a scaffold</p><p>A simple scaffold-based contacts app</p><p><br></p><p><u>Unit 2</u></p><p>Creating controllers</p><p>Action methods map to views</p><p>Creating views</p><p>Embedding Ruby in HTML</p><p>Creating resources</p><p>Creating a model</p><p>Adding a new contact: the new action</p><p>Adding the contact to the database: the create action</p><p>Showing the contact: the show action</p><p><br></p><p><u>Unit 3</u></p><p>Showing all contacts: the index action</p><p>Editing a contact: the update action</p><p>Deleting a contact: the destroy action</p><p>Linking from the home page to the contacts index</p><p>Linking up all the actions from the index page</p>", 
+    "end_date": null, 
+    "title": "Learn Rails Programming in Less than 2 Hours", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/617886_6d09.jpg", 
+    "course_url": "https://www.udemy.com/learn-rails-programming-in-less-than-2-hours/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-21T07:58:33Z"
+}

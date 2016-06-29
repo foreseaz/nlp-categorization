@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t  You made an LED to blink, played with sensors, got some motors to spin. You know your way around the Arduino IDE and have a good grasp of what the Arduino is all about  </p>  <p>  \t<strong style=\"\">Now what?</strong>  </p>  <p>  \t   How about you turbo-boost your Arduino skills by building your own remote controlled car?  </p>  <p>  \t<strong style=\"\"> This course will take you step-by-step and show you how you can take a typical off-the-shelf (boring) RC car and convert it into an Arduino-powered super-fun lab on wheels. </strong>  </p>  <p>  \t   I call it Ardu-auto.  </p>  <p>  \t   With Ardu-auto, learning electronics has never been more fun. Every step of the way, you will learn practical facts and skills that will help you elsewhere in your making career. Based on an of-the-shelf cheap RC car, you will use Arduinos, components, software and prototyping techniques to build your own custom creation.  </p>  <p>  \t   Here&#039;s what you will learn:  </p>  <ul style=\"\">  \t<li>How to use proximity sensors to detect obstacles</li>  \t<li>How to allow for two Arduinos to communicate with each other using RF24 type modules</li>  \t<li>How to control DC motors</li>  \t<li>How to use a Wii Nunchuck</li>  \t<li>How to write a communications protocol</li>  \t<li>How to modify and adapt off-the-shelf raw materials for your project</li>  \t<li>How to integrate components into a complete system</li>  </ul>  <p>  \t<strong style=\"\"> This course is designed for people already familiar with the Arduino.</strong> If you are new to the Arduino, I strongly recommend that you first look at my other courses (Arduino Step by Step and Beginning Arduino) before attempting this project!  </p>", 
+    "end_date": null, 
+    "title": "Arduino Fun: Make a high-tech remote controlled car", 
+    "price": "20.00", 
+    "instructors": "Peter Dalmaris", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/378662_c468_2.jpg", 
+    "course_url": "https://www.udemy.com/arduauto/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-27T18:19:32Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t  In this mini lab I am using basic configuration to start with multicast in a small network comprising 6 routers.  </p>  <p>  \t  I show how to prevent issues such as RPF failure and how to dynamically advertise RP assignments using Auto-RP and  BSR and also I check Source-Specific-Multicast and MSDP as well.  </p>  <p>  \tA very detailed multicast lab is going to be ready soon and will be announced to all of the students who opted to take this course.  </p>", 
+    "end_date": null, 
+    "title": "Multicast Mini-Lab", 
+    "price": 0, 
+    "instructors": "Mohammad Imani", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/160126_1f95_7.jpg", 
+    "course_url": "https://www.udemy.com/from-ccna-to-ccie-multicast-mini-lab/", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-08T09:41:30Z"
+}

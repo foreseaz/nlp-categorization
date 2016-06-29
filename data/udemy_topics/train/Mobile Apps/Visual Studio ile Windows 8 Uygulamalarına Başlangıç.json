@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Bu eğitim, Visual Studio.NET kullanarak windows modern arayüz uygulamaları geliştirmek için başlangıç konularını kapsamaktadır.</p><p>Eğitim ilk bölüm olarak, visual studio hakkında bilgi, proje oluşturmak, arayüzü kullanmak, XAML, proje özellikleri ve windows store hakkında bilgiler içermektedir.</p><p>İkinci bölümde, C# programlama dili için değişkenler ve operatörler nedir ve nasıl kullanılır bilgisi bulunmaktadır.</p><p>Üçüncü bölümde, programcılığın temellerinden olan koşullu ifadeler ve döngüleri anlatarak devam etmektedir.</p><p>Dördüncü bölümde, Nesnel programlamanın en önemli unsurlarından olan, sınıf, metod, property nedir, nasıl kullanılır konularına değinilmiştir.</p><p>Beşinci bölümde, Dizi kavramı ele alınmıştır.</p><p>Altıncı bölümde, Windows kullanıcı arayüzünde kullanılabilecek stilleri incelenmiştir. Objelerin konumlandırılması, nesnelerin yatay ve dikey sıralanması ve grid yapısında item'lar oluşturmak anlatılmıştır.</p><p>Yedinci bölümde, bir uygulamada en çok ihtiyaç duyulacak olan çoklu sayfa yapısı anlatılmıştır.</p><p>Sekizinci bölümde ise, uygulamanın genel ayarlarının, gerekli yetkilerinin bulunduğu manifest dosyası hakkında temel bilgiler ve ayrıntılar yer almaktadır.</p>", 
+    "end_date": null, 
+    "title": "Visual Studio ile Windows 8 Uygulamalarına Başlangıç", 
+    "price": "20.00", 
+    "instructors": "Ersin Sengul", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/705072_b611.jpg", 
+    "course_url": "https://www.udemy.com/visual-studio-ile-windows-8-uygulamalarna-baslangc/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-23T17:40:18Z"
+}

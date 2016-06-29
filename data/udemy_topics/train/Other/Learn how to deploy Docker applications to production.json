@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Get a jumpstart with how to use Docker in production.</p><p>The course is not a beginners guide to Docker, instead think of it as the next step after learning the basics. In particular, in this course you will learn how to put any application inside a container and then how to put that container into production in a safe and reliable way. You’ll learn how to deploy containers manually and also how to automate the deploy of your containers. At the end of the course you will be able to write automated deploy scripts for any docker application!</p><p><strong>The curriculum</strong><br></p><p>In the first section of this course we will introduce the application that we will work with during the lectures. In the next section we’ll take a step back and talk about the different workflows we could use to get our containers into production. The next section will show you how to deploy manually. Finally we’ll automate the deploy process using Ansible.</p><p><strong>Now is the time to learn Docker</strong><br></p><p>Docker is taking the industry by storm, it is completely revolutionizing how software is being developed, tested and deployed to production. Now is an ideal time to learn about Docker.</p><p><strong>Who should take this course?</strong><br></p><p>The ideal student for this course is someone in a software developer or devops role who wants to learn how to start using Docker in production. The course is also suited for QA automation roles who are interested in using Docker to test their applications automatically. The ideal student will already have a very basic understanding of what Docker is and how it works, but you will be curious as to how to run Docker in production. The course is perfect if you want to get some practical Docker experience for your CV or in preparation for your next project. Maybe you want to use Docker for a personal project, or maybe your company is adopting Docker and you want to get a head start, in these cases you’ll get a lot out of this course.</p><p><strong>30 day money-back guarantee</strong></p><p><em>This course comes with an unconditional, 30-day money-back \nguarantee. If you are dissatisfied with the course for any reason \nsimply request a refund and I'll give you all your money back, no \nquestions asked.</em></p>", 
+    "end_date": null, 
+    "title": "Learn how to deploy Docker applications to production", 
+    "price": "25.00", 
+    "instructors": "Emmet O'Grady", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/638064_3fbc_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-how-to-deploy-docker-applications-to-production/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-12T09:58:40Z"
+}

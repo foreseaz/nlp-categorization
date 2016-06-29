@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   This course is an exploration of solo and collaborative Source Control Management with the intention of expanding and improving your confidence and expertise with Git.  </p>  <p style=\"\">  \t   You’ll begin with a brief overview of Source Control Management before setting up and verifying your Git installation. Then, you’ll move on to a more detailed look at the Git workflow and explore variants and the not-so-rare “special situations”. With a strong understanding of the Git history and structure, you’ll learn how to use powerful tools as Branching, Merging, Reset, Revert and so on. Next, you’ll take a deep dive into more intriguing features of Git such as, Rebase, Stash, Aliases, and Patches. You will explore several examples of these commands to improve the efficiency of using Git. Finally, when you have mastered the various tools provided by Git, you’ll be provided with some suggestions that’ll help you to move forward with Git.  </p>  <p style=\"\">  \t   Once you are done with this course, perhaps you will be the one providing answers to others in trouble!  </p>  <h4><strong style=\"\">About the Author</strong></h4>  <p style=\"\">  \t<strong style=\"\">Thom Parkin</strong> has been writing software since the days when all phones had wires. A self-proclaimed ParaHacker, Thom immerses himself in technology both professionally and as a hobby, spending his free time participating in the world of open source software. When he is not playing euro board games, he is writing software or writing about software development.  </p>", 
+    "end_date": null, 
+    "title": "Mastering Git", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/423158_53ea_3.jpg", 
+    "course_url": "https://www.udemy.com/mastering-git/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-16T10:04:07Z"
+}

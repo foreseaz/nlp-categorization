@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">WHAT IS THIS COURSE ABOUT?</strong>  </p>  <p style=\"\">  \t             This course covers the basics of Python programming language and introduces how to use Python with the technologies introduced in this course.  </p>  <p style=\"\">  \t<strong style=\"\">WHAT IS GOING TO BE COVERED IN THIS COURSE?</strong>  </p>  <p style=\"\">  \t             Main topics to be introduced in this course as follows:  </p>  <p style=\"\">  \t             1- Basics of Python Programming Language  </p><p style=\"\">2- Object Oriented Programming, Inheritance, Garbage Collection</p>  <p style=\"\">3- File Processing  </p>  <p style=\"\">4- Python with SQLite  </p>  <p style=\"\">5- Python for XML Related Tasks  </p>  <p style=\"\">6- HTML, CSS  </p>  <p style=\"\">7- Django  </p>  <p style=\"\">8- Cloud Computing &amp; MongoDB  </p>  <p style=\"\">9- Tkinter  </p>  <p style=\"\">10- How To Use Python For Other Technologies, such as PIL and wxPython  </p>  <p style=\"\">  \t<strong style=\"\">WHY TAKE THIS COURSE?</strong>  </p>  <p style=\"\">  \t      Very importantly, this course does not only cover the basics of Python, but also introduces how to use Python for several tasks including graphical user interface, web, database, cloud computing etc. So, you will see where to start for other technologies and you will enjoy to see the result.  </p>  <p style=\"\">  \t  You don&#039;t need to be developer to take this course. The use of Python will make your computations or the development of the tools which you need to implement quite fast and easy.  </p>", 
+    "end_date": null, 
+    "title": "Python Course : Learn Python Programming, MongoDB, Django...", 
+    "price": "20.00", 
+    "instructors": "Python and Bootstrap Instructor Alper ZEYTUNLU, M.Sc.", 
+    "commitment": "19 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/264454_e3a4_8.jpg", 
+    "course_url": "https://www.udemy.com/learn-programming-quick-with-python-by-examples/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-19T05:35:45Z"
+}

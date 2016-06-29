@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>This course serves as a brief overview of the topic of analog IC design.  It is a high level view of what analog IC design is all about and discusses the requirements for a designer in this field.  In reality, this course is a snapshot of a more detailed, 40 hour course on CMOS analog design found elsewhere.</p><p>The target audience for this course should have some familiarity with analog circuits and integrated circuit technology.  The terminology used is that found in both academia and industry.</p><p>This course is stand alone and has no quizzes or other material - it is designed to be a quick refresher or a introduction to the topic of analog IC design.  The course will take approximately 3 hours to complete and consists of 12 lectures of 15-20 minutes in length.</p><p>Students new to analog IC design can take this course to gain an overview of the topic.  Those who are familiar with IC design or have been away from the field for a while, can use the course to come up to date with the field of analog IC design.</p><p>The more detailed 40 hour course on CMOS Analog Design is found on other venues and has quizzes associated with the course.  Check with the instructor, Dr. Allen, if you are interested in the in-depth course.</p>", 
+    "end_date": null, 
+    "title": "CMOS Analog Circuit Design", 
+    "price": "20.00", 
+    "instructors": "Professor Phillip Allen", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/576876_5c0b_2.jpg", 
+    "course_url": "https://www.udemy.com/analog_ic_design_overview/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-07T20:55:35Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Javascript is an open source scripting language used to enhance user interfaces and dynamic websites.&nbsp; Learn how to tweak websites by enhancing the back end of HTML and CSS to allow for greater control, shortcuts and formatting. &nbsp;Dive deeper with this 5 hour Course and customize your websites like a pro!<br style=\"\"></p>  ", 
+    "end_date": null, 
+    "title": "Javascript", 
+    "price": "50.00", 
+    "instructors": "Learn iT! Anytime", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/56255_40c8_6.jpg", 
+    "course_url": "https://www.udemy.com/javascript3/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-05-24T17:43:49Z"
+}

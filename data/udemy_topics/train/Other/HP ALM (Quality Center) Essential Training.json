@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Quality Center was initially a test management tool developed by Mercury interactive.</p><p>It is now developed by HP as <strong>A</strong>pplication <strong>L</strong>ife Cycle <strong>M</strong>anagement Tool (or) ALM that supports various phases of the software development life cycle.</p><p>ALM is a web based tool that helps organizations to manage the application lifecycle right from project planning, requirements gathering, until testing &amp; deployment, which otherwise is a time consuming task</p><p>This Set of Tutorials Describes :<br></p><ul><li>ALM (Quality Center) Installation on Win7 – Issues | Challenges | Solution</li><li>Detailed Process of Logging Issues, Defects or Incidents in ALM (QC).</li><li>Test Case Execution &amp; Result Upload In ALM (QC) Test Lab.</li><li>Exporting Test Cases from Excel to ALM (QC) &amp; ALM (QC) to Excel.</li><li>Downloading ALM Addins for Word, Excel, QTP/UFT etc.</li></ul>", 
+    "end_date": null, 
+    "title": "HP ALM (Quality Center) Essential Training", 
+    "price": "25.00", 
+    "instructors": "e VideoTuition", 
+    "commitment": "38 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/770764_fc8b_10.jpg", 
+    "course_url": "https://www.udemy.com/hp-alm-quality-center-essential-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-22T17:36:09Z"
+}

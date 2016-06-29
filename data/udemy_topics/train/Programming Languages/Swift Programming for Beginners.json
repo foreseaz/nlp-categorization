@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Swift is one of the hottest new languages on the market today, and essential if you want to develop iOS apps. However, if you’ve ever tried to learn it yourself by reading manuals or following complicated tutorials, you’ll know it’s not the simplest language in the world. This course gives you a head start on your way to becoming a solid Swift engineer by explaining everything you need to know in a straightforward manner, from a beginner’s perspective. Using both practical examples and easy-to-follow theory, you’ll be a Swift expert in no time. </p><p><strong>Swift Programming – in More Ways than One</strong></p><ul><li>Write your own basic programs in Swift</li><li>Understand the most important language features</li><li>Create functions, classes, structs and more</li><li>Hook up a basic UI with events</li><li>Debug with playground and Xcode environments</li></ul><p><strong>Start Developing iOS apps today</strong></p><p>With 48 lectures and 4 hours of content, this course takes a step-by-step approach to learning Swift so you’ll be guided through all of the fundamentals. You’ll need XCode 6+ / OS X, and you’ll find is much easier if you’re already comfortable installing software. This course is designed with Swift beginners in mind, but students should have some prior programming experience in order to get the most benefit from it.</p><p>After a brief introduction, the course starts off with laying out the concepts of variables and strings; two of the most  important you need to know to get to grips with Swift. After that, you’ll start creating your first app, learning the various features of the language as you go. You’ll cover branching, collections and loops, functions, enumerations, structures and classes, gaining practical skills and preparing yourself for using Swift in real world situations. </p><p>By the end of this course, you’ll be able to write your own basic programs in Swift and understand its most important features. Don’t be intimidated, you can and will learn Swift! </p><p><strong>Tools Used</strong></p><p>Swift is a multi-paradigm programming language created for Apple. Deemed by its creators to be a ‘modern programming language that is safe, fast, and interactive’, it is designed to work with the Cocoa and Cocoa Touch frameworks for iOS, OS X, watchOS and tvOS applications.  It was introduce by Apple in 2014 and is currently in its second version. </p>", 
+    "end_date": null, 
+    "title": "Swift Programming for Beginners", 
+    "price": 0, 
+    "instructors": "Stone River eLearning", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/579720_1fe9_3.jpg", 
+    "course_url": "https://www.udemy.com/swift-programming-for-beginners/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-11T03:06:37Z"
+}

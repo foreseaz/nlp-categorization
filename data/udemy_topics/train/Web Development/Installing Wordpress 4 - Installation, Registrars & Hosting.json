@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Covers Wordpress 4.x (the latest version)</strong>  </p>  <p>  \t<strong style=\"\">Installing Wordpress - Installation, domain registrars and web hosting</strong> is a course designed to give complete beginners all the knowledge and skills they need to install Wordpress on any web host.  </p>  <p>  \t      We&#039;ll discuss domain registrars and web hosting, and see why it is better to use two separate companies for this, rather than relying on your web host to act as both host and registrar.  If that statement confuses you, don&#039;t panic.  I&#039;ll explain how to set all of this up, with videos and PDFs to help every step of the way.  I&#039;ll even show you how to move a domain you already own to a separate domain registrar.  </p>  <p>  \t      We&#039;ll look at two automated ways of installing Wordpress, plus a manual method using FTP for those that like adventure.  I&#039;ll tell you which automated method is better, and why.  </p>  <p>  \t      Once Wordpress is installed, we&#039;ll clean up the installation to remove the &quot;fluff&quot; that Wordpress installed.  We&#039;ll look at adding posts and pages, and talk about the main differences between these two types of document.  </p>  <p>  \t      One of the reasons I love Wordpress is the simplicity of changing the look and feel of the site using themes.  We&#039;ll see how to find and install specific themes that meet <em style=\"\">your</em> criteria, as well as how to install premium themes in case you buy one.  </p>  <p>  \t      One of the most powerful features of Wordpress is the way it can be extended using plugins, which add new features and capabilities to an already powerful content management system.  We&#039;ll look at finding and installing plugins (both free and premium), and I&#039;ll tell you some of the free plugins I use on most of my sites.  </p>  <p>  \t      Finally, for those that want a 100% free Wordpress site, I&#039;ll show you how to create one. There are limitations to this type of Wordpress site, but hey, it&#039;s free, right?  I&#039;ll let you know what you can and cannot do with these free sites.  </p>  <p>  \t      By the end of this course, you will be able to install Wordpress on any web host, using a separate domain registrar, <strong style=\"\">and understand why that is important</strong>.  </p>", 
+    "end_date": null, 
+    "title": "Installing Wordpress 4 - Installation, Registrars & Hosting", 
+    "price": "20.00", 
+    "instructors": "Andrew Williams", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/326244_95a1_2.jpg", 
+    "course_url": "https://www.udemy.com/installing-wordpress-domain-registrars-and-web-hosting/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-24T08:15:25Z"
+}

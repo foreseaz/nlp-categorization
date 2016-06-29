@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    With SAP HANA platform, you can gain real insights from your unstructured textual data. The platform provides search, text analysis, and text mining functionality for unstructured text sources. From a usage perspective, these 3 areas are distinct, but they are interrelated on a technical level and largely depend on the same foundation technology. Learn how full natural-language processing capabilities support linguistic analysis and entity and relationship extraction for your enterprise in-memory data. In addition, you will apply statistical algorithms that enable you to detect patterns in large document collections, including key term identification and document categorization. This course starts with a general overview of text as a first-class data type on the SAP HANA platform. It then focuses on two SAP HANA database components: text analysis and text mining. These components comprise a suite of linguistic, statistical, and machine learning capabilities that model and structure the information content of textual sources in multiple languages. Demos and hands-on exercises are provided throughout. This is the first course in our new SAP HANA Core Knowledge Series, which will give you an insight into some of the special features of the SAP HANA platform.\n\n                                            Syllabus\n                        Week 1: Overview: Text in SAP HANA PlatformWeek 2: Text Analysis: Entity ExtractionWeek 3: Text Analysis: Relationship ExtractionWeek 4: Text MiningWeek 5: Final Exam\n                                    ", 
+    "end_date": "2016-02-23T00:00:00Z", 
+    "title": "Text Analytics with SAP HANA Platform", 
+    "price": 0, 
+    "instructors": "Anthony Waite", 
+    "institution_name": [], 
+    "commitment": "4-6 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://open.sap.com/courses/hsta1", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "openSAP"
+    ], 
+    "start_date": "2016-01-19T00:00:00Z"
+}

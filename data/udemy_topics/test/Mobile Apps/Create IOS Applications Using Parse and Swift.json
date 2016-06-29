@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t                            Want to take your Application to the next level?  </p>  <p>  \t                            Want to improve your current project ?  </p>  <p>  \t                          Want to add Online Database to your Application?  </p>  <p>  \t                          Want to write the code to send and receive Remote Push Notifications?  </p>  <p>  \t                          Want to add In-App Purchases the easiest way?  </p>  <p>  \t                            Thinking in the future to create an amazing application that will contain any of these?  </p>  <p>  \t                            If YES then this course is for you!  </p>  <p>  \t<strong>                        What's the course about and how is it structured?  </strong>  </p>  <p>  \t                            In this course we will learn how to Create a Parse application and connect it to our IOS Application using IOS 8, Xcode 6 and Swift with a step by step approach.  </p>  <p>  \t                            We explain what you need in order to create online databases, users, remote push notifications, in-app purchases and more.  </p>  <p>  \t<strong>                        The course covers :  </strong>  </p>  <p>  \t                            Creation of our Parse account.  </p>  <p>  \t                  Download of Parse SDK's  </p>  <p>  \t                  Connect Parse application with our IOS application  </p>  <p>  \t                Save - Update - Delete PFObjects  </p>  <p>  \t                Retreive PFObjects using ID  </p>  <p>  \t                Create Queries to search Classes  </p>  <p>  \t                Create Predicates to use constraints to our search  </p>  <p>  \t                Create advanced Queries  </p><p>Caching data if no active Internet connection</p>  <p>  \t                Understant fetching in background  </p>  <p>  \t              User creation  </p>  <p>  \t              Login and logout a user  </p>  <p>  \t              Reset a forgotten password  </p>  <p>  \t              Setup and use Remote Push Notifications  </p>  <p>  \t              Pass and read data in a Remote Push Notification  </p>  <p>  \t              Setup In-App Purcahses  </p>  <p>  \t              Write the code to use an In-App Purchases</p>  <p>  \t              Tips and tricks fro the best User Experience  </p>  <p>  \t              Example applications  </p>  <p>  \t<strong>                        Materials  </strong>  </p>  <p>  \t<strong>                        The course consists of :  </strong>  </p>  <p>  \t                            4 hours + video lectures with code from scratch  </p>  <p>  \t                            application files for download  </p>  <p>  \t                            This course can be completed in a couple of days.  </p>  <p>  \t<strong>                        Why to follow this course?  </strong>  </p>  <p>  \t            If you want to add online databases, add users to your application, add remote push notifications, create in-app purchases the easiest way this course is for you!  </p>  <p>  \t          Using Parse to your project will take your application to the next level.  </p>  <p>  \t<strong>                        Who can follow this course ?  </strong>  </p>  <p>  \t                            Anyone with basic knowledge of programming can follow this course.  </p><p><strong>This course is updated for Swift 1.2 and Parse 1.7.5 and under development for Swift 2.0 and Parse 1.8.2</strong></p><p>Copyright © Valsamis Elmaliotis 2014-2015</p>", 
+    "end_date": null, 
+    "title": "Create IOS Applications Using Parse and Swift", 
+    "price": "20.00", 
+    "instructors": "Valsamis Elmaliotis", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/380060_a6d3_3.jpg", 
+    "course_url": "https://www.udemy.com/create-ios-applications-using-parse-and-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-29T16:01:14Z"
+}

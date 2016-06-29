@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course covers important Java components which is recommendation for every Java developer. If the student has gained knowledge of core Java, this course is highly recommended for the student. This is one and only course required to cover component such as \"Multi-threading, Java generics, collections in Java and Lamda expressions\". </p><p>What this course all about?<strong></strong></p><p><strong>Multi-Threading</strong></p><p>Here is a compact list of concept which are covered under Multi-Threading.</p><ul><li>Thread Lifecycle</li><li>Creation of thread</li><li>Thread Synchronization</li><li>Usage of wait and notify methods</li><li>Thread name, pool, priority</li><li>Countdown latches</li><li>Blocking Queue</li><li>Reentrant lock</li><li>Dead lock</li><li>elc.</li></ul><p><strong><br></strong></p><p><strong>J</strong><strong>ava generics</strong></p><p>Here is a compact list of concept which are covered under Java generics</p><ul><li>Concept of Java generics</li><li>Bounded type parameter</li><li>Comparable interface</li><li>Wildcards under generics</li><li>etc.</li></ul><p><br></p><p><strong></strong><strong>Collection under Java</strong></p><p>Here is a compact list of concept which are covered under collections<br></p><ul><li>ArrayList</li><li>Iterator </li><li>Sets</li><li>Maps</li><li>Queue</li><li>Comparator interface</li><li>etc.<strong></strong></li></ul><strong></strong><p><strong><br></strong></p><p><strong>Lambda Expression</strong><br></p><p>Here is a compact list of concept which are covered under Lambda Expression</p><ul><li>Lamda expression concept and usage.</li></ul><p>A quality course from StudyEasyOrg. </p>", 
+    "end_date": null, 
+    "title": "Multi-threading, Java Generics, Collections & More (4 in 1) ", 
+    "price": "25.00", 
+    "instructors": "StudyEasy Organisation", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/714570_06cc_2.jpg", 
+    "course_url": "https://www.udemy.com/multithreading-java-generics-collections/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-03T17:03:35Z"
+}

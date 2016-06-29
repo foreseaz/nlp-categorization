@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  Este curso aborda todos os passos necessários para a implementação de Compras In App em um aplicativo para dispositivos iOS.  </p>  <p style=\"\">  \t<strong style=\"\">O que vou aprender?</strong>  </p>  <p style=\"\">  \t  Veremos quais os tipos de Compras In App disponíveis e quando e como implementá-las. Aprenderemos como usar o Store Kit framework da Apple encapsulado pelo Parse para iniciar, validar e finalizar uma Compra In App.  </p>  <p style=\"\">  \tVeremos como criar e configurar um novo aplicativo no iTunes Connect com as configurações para Compras In App. Faremos a parte de código, de desenvolvimento de forma concisa e descomplicada.  </p>  <p style=\"\">  \t  E, por fim, testaremos seu app em ambiente de desenvolvimento (Sandbox) e enviaremos para validação da App Store!  </p>  <p style=\"\">  \t<strong style=\"\">E onde posso aplicar isto?</strong>  </p>  <p style=\"\">  \tEm seus projetos de desenvolvimento de aplicativos.  </p>  <p style=\"\">  \tApps Freemium, com Compras In App tem estatística muito maiores de geração de receita aos desenvolvedores. Na prática, compras In App são responsáveis por mais de 80% do volume de transações financeiras da App Store.  </p>  <p style=\"\">  \t<strong style=\"\">Como funciona o curso?</strong>  </p>  <p style=\"\">  \tO curso é dividido em duas etapas, uma teórica e de configurações iniciais, e outra prática. A teórica dá informações preciosas para que você implemente com sucesso uma estratégia de Compras In App (In App Purchase) em seus apps.  </p>  <p style=\"\">  \tA prática põe a mão na massa e descomplica o processo de criar e realizar Compras In App.  </p>  <p style=\"\">  \tVeremos também: Como acessar o iTunes Connect e realizar todas as configurações necessárias, desde a criação do App, das Compras In App, definição de preços, descrições localizadas por idioma e todo o processo de revisão para a App Store.  </p>", 
+    "end_date": null, 
+    "title": "Implemente Compras In App e Ganhe Dinheiro com App Freemium", 
+    "price": "20.00", 
+    "instructors": "Manoel Costa", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/418608_234d_3.jpg", 
+    "course_url": "https://www.udemy.com/compras-in-app-ios/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-10T20:03:34Z"
+}

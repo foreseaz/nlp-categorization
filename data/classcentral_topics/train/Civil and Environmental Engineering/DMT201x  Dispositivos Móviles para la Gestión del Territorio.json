@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Civil & Environmental Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    Se conocerán los distintos sistemas de georreferenciación/navegación aplicados a dispositivos móviles, la estructura de los Sistemas de Información Geográfica (SIG) y su aplicabilidad a la gestión del territorio y se describirán los sistemas de comunicación existentes (GPRS/UMTS, internet), con el objeto de analizar las aplicaciones a la ingeniería y la gestión del territorio que proporciona la integración de estos tres sistemas en los dispositivos móviles.\n\nAsimismo, se describirán los principales software de navegación y gestión de la información (SIG) existentes en el mercado para dispositivos móviles, incluyendo prácticas con algunos de ellos. Por último, se realizara una valoración de las distintas aplicaciones que pueden proporcionar los dispositivos móviles para la gestión del territorio, para la ingeniería, geografía, geología, ciencias medio ambientales…\n\n                                    ", 
+    "end_date": "2016-06-07T00:00:00Z", 
+    "title": "DMT201x: Dispositivos Móviles para la Gestión del Territorio", 
+    "price": 0, 
+    "instructors": "Aurea Gallego Salguero and Israel Quintanilla García", 
+    "institution_name": [
+        "Universitat Politècnica de València"
+    ], 
+    "commitment": "3 hours", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.edx.org/course/dispositivos-moviles-para-la-gestion-del-upvalenciax-dmt201x-0", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-04-26T00:00:00Z"
+}

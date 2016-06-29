@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Coded UI video series is designed to cover all the nitty-gritty details one would ever need for automating their application with <strong><em>Visual studio Coded UI</em></strong> <strong><em>Testing</em></strong>. </p><p>This video series will start from Introduction through advanced level hand coding of Coded UI Testing for all the technologies like <strong><em>MSAA</em></strong>, <strong><em>Web</em> </strong>and <strong><em>UITestControl </em></strong>(Generic) by breaking down the auto-generated <strong><em>UIMap </em></strong>class file and creating <strong><em>custom class</em></strong> files which help to have more handle over the Coded UI controls and code execution. This course will cover some of the most important topics of CUIT like</p><ol><li><strong><em>Record and playback</em></strong> of CUIT</li><li>Hand coding CUIT for Windows application (<strong><em>MSAA</em></strong>)</li><li>Hand coding CUIT for Web application (<strong><em>Web</em></strong>)</li><li>Hand coding CUIT for generic applications (<strong>UITestControl</strong>)</li><li><strong><em>Data driven</em></strong> testing with CUIT</li><li><strong><em>Assertions </em></strong>with CUIT</li><li><strong><em>Cross browser</em></strong> testing with CUIT by using <strong><em>Selenium </em></strong>component to work with<ol><li><strong><em>Firefox</em></strong></li><li><strong><em>Chrome</em></strong></li><li><strong><em>Internet Explorer </em></strong></li></ol></li><li>Working with <strong><em>Diagnostics reports</em></strong></li></ol><div><strong><em><br></em></strong></div>", 
+    "end_date": null, 
+    "title": "Coded UI Testing with Visual Studio 2013", 
+    "price": "35.00", 
+    "instructors": "Mr Karthik KK", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/774740_241e_2.jpg", 
+    "course_url": "https://www.udemy.com/cuit-with-vs2013/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-26T04:42:46Z"
+}

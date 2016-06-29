@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Have you ever thought how to show data in nicely aligned and arranged way using TableView. </p><p>Here comes the Complex Cell Tableview. Completely redefining the way you show data in a Table. It gives you full control on the arrangement of components in the row.</p><p>This course will help you understand the Complex Cell TableView in detail and utilise it to maximum.</p><p>I will show you how to:</p><ol><li>How to create a project and add controllers to it.</li><li>Write code to add a complex cell column with controls and images.</li><li>Write Action Handlers for buttons which take actions such as adding,removing and editing data to the Complex Cell TableView.</li></ol><p>Although these are very minor things from user perspective, but it takes lot of effort to implement. In the process it takes your app to next level.</p><p>You will also be able to download the complete source code just after each lecture.</p><p>This will help you to develop the app side by side along with me. </p><p>So by the time you finish the course you would have developed the app your self on your own computer.</p><p>You should take this course if :</p><ul><li>You are planning to develop and app for mac app store.</li><li>You want to develop a fancy tableview instead of the dull column based tableview.</li><li>You want to learn swift with hands on exercises.</li><li>You want to download the completed source codes after each and every lecture.</li><li>You want to learn how to code for complex cell tableview.</li><li>You want to get started with xcode from scratch.</li></ul><p>If you're ready to learn more and sign up for the course, go ahead and hit that Enroll button.</p><p><br></p><p><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Swift Programming - Complex Cell TableView for Mac OSX Apps", 
+    "price": "20.00", 
+    "instructors": "Neeraj Jaiswal", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/630520_7125_2.jpg", 
+    "course_url": "https://www.udemy.com/swift-programming-complex-cell-tableview-for-mac-osx-apps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-04T16:37:12Z"
+}

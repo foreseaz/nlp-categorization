@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Music is one of the biggest app categories across all app stores. They have the potential to earn <strong><em>substantial</em></strong> revenue.</p><p>Learn the basic concepts, tools, and functions that you will need to build fully functional iOS music streaming apps with the popular programming language, Swift 2. Also learn how to set up your own server and upload music that your app will eventually play.</p><p><strong>Things You'll Learn</strong></p><ul><li>Xcode Installation and Setup</li><li>Basic Streaming Functions on iOS</li><li>How to Setup a Server (free or paid)</li><li>How to Automate Music File indexing on a Server Using PHP (no PHP experience necessary)</li><li>How to Make an iOS App Communicate with a Server</li><li>How to Add Lock Screen Controls</li><li>How to Add Lock Screen Media Information</li><li>How to Handle Audio Interruptions like Phone Calls</li><li>How to Create Table Views and Custom table View Cells on iOS</li><li>Dynamically Adding More Data to Your App and Remote Database </li><li>Sharing Song Information on Facebook</li><li>Liking a Track Through our Remote Database</li></ul><p><br></p><p><strong>Powerful Skills at Your Fingertips </strong><br>By learning to create both iOS apps as well as PHP and MYSQL backends you will become incredibly valuable to potential employers. Combining these 2 skills is the number one reason developers get hired for startups. Those startups need this information and are willing to pay for it!<br><br></p><p>------------<strong>BONUS</strong>-----------</p><p>Not only do you learn the ins and outs of streaming music in iOS apps but this course includes a MASSIVE  bonus. I teach you how to create and setup a fully functional server that does the following:</p><ul><li>Automatically scan for new music uploads and add them to a MYSQL database (with no input required from you)</li><li>Produce PHP files that allow your app to access a backend </li></ul><p><strong></strong>------------------------------------<br><br></p><p><strong>Content and Overview </strong><br>No knowledge is needed of programming for this course but it helps. If you are a complete beginner then please take my other course (iOS Apps for Complete and Utter Beginners) <strong>FIRST</strong>.</p><p>You will be taken on a journey through:</p><ul><li>How to choose between free or paid servers</li><li>How to code a simple streaming function on iOS</li><li>How to add advanced audio features to your app</li><li>How to make your app talk to a server (aka - creating a backend)</li><li>How to report app usage statistics to your remote database</li></ul><p><br></p><p>This course establishes a strong understanding of music app creation concepts and includes training on Xcode and Swift 2. It also includes training on MYSQL, PHP and cPanel. Each chapter starts with an introduction and sounds out with a summary to help you learn even better.</p><p>With these skills mastered, the course will take you through how to create a backend for your app (as well as the front end!). Complete this course and you'll discover you now have skills that are continuously in demand from most businesses.</p><p>Increase your value by joining now!<br></p><p>Credit: Promo music provided by Ben Sound</p>", 
+    "end_date": null, 
+    "title": "iOS 9 App Development: Create a Spotify Clone", 
+    "price": "20.00", 
+    "instructors": "Mr Grant Klimaytys", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/742572_f366_2.jpg", 
+    "course_url": "https://www.udemy.com/ios-app-development-how-to-stream-music-from-a-server/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-26T19:04:53Z"
+}

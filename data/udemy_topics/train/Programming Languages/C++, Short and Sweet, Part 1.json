@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is for beginners who want to get started writing programs in C++, taught by Jeremy Siek, a professor at the University of Colorado. No prior knowledge of C++ is assumed. The course is based on the excellent textbook <em style=\"\">Accelerated C++</em> by Andrew Koenig and Barbara E. Moo. Like the textbook, the course quickly dives into problem solving and making use of the C++ standard library, including strings, vectors, and lists. The emphasis is on teaching you the parts of C++ that you will most likely need in your day-to-day programming. This course is Part 1 of a planned two-part sequence. Part 1 covers the first seven chapters of <em style=\"\">Accelerated C++</em>, in particular, Chapters 0 through 6. The course consists of six videos of 50-60 minutes each.</p>  <p>Part 2 of the course, forthcoming, will cover the second half of Accelerated C++, including how to write your own classes and generic functions.</p>", 
+    "end_date": null, 
+    "title": "C++, Short and Sweet, Part 1", 
+    "price": 0, 
+    "instructors": "Jeremy Siek", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/17503_7fa8_9.jpg", 
+    "course_url": "https://www.udemy.com/cpp-short-and-sweet/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-05-09T21:04:13Z"
+}

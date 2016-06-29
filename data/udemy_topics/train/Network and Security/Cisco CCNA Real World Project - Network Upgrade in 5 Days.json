@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong style=\"\"></strong>UPS, cables, racks, failover tests, network diagrams, troubleshooting... things that you need to know and will struggle to find in a book!  \t            </p><p>You know that passing a Cisco exam is not enough, right? You need some real world experience. I appreciate it might not be easy. That&#039;s why I came up with this unique idea and recorded <strong style=\"\">a real network refresh</strong> project. I use <strong style=\"\">a special action camera</strong> so you can see all details (racking, cabling etc.).  </p>  <p>  \t        If you are CCNA certified or you are studying towards that exam, you will get a chance to see a lot of topics from your book in action. This training will show you a network refresh project step by step. When things go wrong... I keep recording. There are no hidden or preconfigured tasks here. You will see everything live!  </p>  <p>  \t      <strong style=\"\">CCNA Real World Project covers:</strong>  </p>  <ul style=\"\">  \t<li>Overview of project processes</li>  \t<li>Network diagrams</li><li>MS Project</li><li>Replacing core Cisco switches</li><li>Stacking Cisco switches</li><li>Etherchannels</li><li>IP SLA and failover</li><li>Firewalls</li>  \t<li>Adding a new gigabit switch</li>  \t<li>Racking and cabling</li>  \t<li>Troubleshooting network issues</li>  \t<li>Failover tests</li>  \t<li>Logging and monitoring</li><li>SNMP</li><li>Back-ups</li>  \t<li>Documentation</li>  \t<li>UPS testing &amp; installation</li><li>...and much more</li>  </ul>  <p>  \t<strong style=\"\">Contents and Overview</strong>  </p>  <p>  \t                                             In over 6 hours of content,  including 50 lectures, this course covers the full cycle of a simple network project. You will find quizzes and challenges to allow you to test your knowledge before  moving to the next section.  </p>  <p>  \t                                             We start from scratch discussing an existing network diagram and our expectations. I show you new devices and how to configure them.  </p>  <p>  \t                                             There is a section dedicated to every single day of the project, showing you every task in detail, including hardware installation and cabling.  </p>  <p>  \t<strong style=\"\">Check out a real Cisco project. Gain some experience today.</strong>  </p>  <p>  \t                                            Join now!  </p>  <ul style=\"\">  </ul>", 
+    "end_date": null, 
+    "title": "Cisco CCNA Real World Project - Network Upgrade in 5 Days", 
+    "price": "20.00", 
+    "instructors": "Marious Kuriata", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/434346_7230_10.jpg", 
+    "course_url": "https://www.udemy.com/cisco-ccna-real-world-project-network-upgrade-in-5-days/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-27T18:35:15Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t       This course introduces some basic data structures (arrays, linked lists, stacks, queues, trees and heaps) and algorithms (various sorting algorithms, and algorithms for operations on binary search trees and heaps). We will also cover recursion in this course. Use of graphics and animations makes the lectures very easy to understand and digest. After taking this course, you will loose your fear for data structures and algorithms.  </p>", 
+    "end_date": null, 
+    "title": "Introduction to Data Structures & Algorithms in Java", 
+    "price": "50.00", 
+    "instructors": "Raghavendra Dixit", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/81094_d4ff_9.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-data-structures-algorithms-in-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-20T07:20:58Z"
+}

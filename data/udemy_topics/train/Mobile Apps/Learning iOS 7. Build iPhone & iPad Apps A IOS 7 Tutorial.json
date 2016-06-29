@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tThis Learning To Build iOS Apps training course from Infinite Skills  will teach you about the world of iPhone and iPad App development and how to use xCode and Objective-C to create a functional IOS App. This tutorial is designed for the absolute beginner, and no previous iPhone / iPad App development experience is required.  </p>  <p>  \t<br style=\"\">  \tYou will start with an introduction to iOS and the SDK. The course then jumps right into teaching you to create your first functional Mobile App. As the lessons progress, you will cover topics such as: using the UIKit to build your interface, exploring the UITableView, implementing UIWebView navigation, and a number of advanced view controllers and features. This video tutorial also covers Geolocation, working with the social features of iOS, and how to communicate with the Cloud. You will also work with the iOS Dev Center and learn how to submit your completed iPhone / iPad App for inclusion in the iTunes App store.<br style=\"\">  \t<br style=\"\">  \tOnce you have completed this computer based training course, you will have developed the necessary skills required to create your own iOS App and submit it to the iTunes store for millions of people to download and enjoy. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Learning iOS 7. Build iPhone & iPad Apps A IOS 7 Tutorial", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/118264_a8d6_10.jpg", 
+    "course_url": "https://www.udemy.com/iphone-ipad-apps-with-ios-7/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-11T16:50:17Z"
+}

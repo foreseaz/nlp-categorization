@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tHave you ever wanted to learn to code but don&#039;t know where to start? Learning how to code can get you a better job and lead to a better future. This course starts you off with the basic coding language of C#. This is a very condensed 1 hour tutorial that will show you how to code in C#.  </p>", 
+    "end_date": null, 
+    "title": "C++ in 1 hour", 
+    "price": "20.00", 
+    "instructors": "John Bura", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/79152_9b1d_5.jpg", 
+    "course_url": "https://www.udemy.com/c-in-1-hour/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-15T16:55:41Z"
+}

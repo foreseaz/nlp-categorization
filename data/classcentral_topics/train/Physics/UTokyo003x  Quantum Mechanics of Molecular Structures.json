@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Physics"
+    ], 
+    "description": "\n\n                    \n                    \n                    Knowing the geometrical structure of the molecules around us is one of the most important and fundamental issues in the field of chemistry. This course introduces the two primary methods used to determine the geometrical structure of molecules: molecular spectroscopy and gas electron diffraction.\n\nIn molecular spectroscopy, molecules are irradiated with light or electric waves to reveal rich information, including:\n\nMotions of electrons within a molecule (Week 1),\n\tVibrational motions of the nuclei within a molecule (Week 2), and\n\tRotational motions of a molecule (Week 3).\nIn the gas electron diffraction method, molecules are irradiated with an accelerated electron beam. As the beam is scattered by the nuclei within the molecule, the scattered waves interfere with each other to generate a diffraction pattern. In week 4, we study the fundamental mechanism of electron scattering and how the resulting diffraction images reveal the geometrical structure of molecules.\n\nBy the end of the course, you will be able to understand molecular vibration plays an important role in determining the geometrical structure of molecules and gain a fuller understanding of molecular structure from the information obtained by the two methodologies.\n\n \n\nFAQ\n\nDo I need to buy a textbook?\n\nNo, you can learn the contents without any textbooks. However, if you hope to learn more on the subjects treated in this course, you are recommended to read the textbook introduced below:\n\nKaoru Yamanouchi, “Quantum Mechanics of Molecular Structures,” Springer-Verlag, 2012.\n\n                                    ", 
+    "end_date": "2016-11-15T00:00:00Z", 
+    "title": "UTokyo003x: Quantum Mechanics of Molecular Structures", 
+    "price": 0, 
+    "instructors": "Takashi Hiroi and Kaoru Yamanouchi", 
+    "institution_name": [
+        "The University of Tokyo"
+    ], 
+    "commitment": "5-6 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://www.edx.org/course/quantum-mechanics-molecular-structures-utokyox-utokyo003x-1", 
+    "duration": "52 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2015-11-17T00:00:00Z"
+}

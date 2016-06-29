@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn the basic concepts, tools, and functions that you will need to build fully functional, professional landing page within the bootstrap framework.</p><p><strong>Build a strong foundation in the Bootstrap framework with HTML &amp; CSS with this tutorial for beginners.</strong><strong></strong><br></p><ul><li>Bootstrap components</li><li>Grid System &amp; Media Queries</li><li>Custom fonts</li><li>Font-Awesome icons</li><li>Animate CSS &amp; WOW js </li></ul><p> <br>This course will help you create a perfect bootstrap responsive landing page for your app, business, portfolio or blog. Having a little knowledge of HTML &amp; CSS is ideal to get you started on the quicker route to Bootstrap, however it isn't essential. I will <strong>walk you through</strong> every step of code to ensure you have the right understanding and tools to further your learning after you have completed the course.</p><p>You will not only create a clean, modern professional looking bootstrap landing page, you will also add scroll spy, animation and Google Webfonts to make sure your website stands our from the crowd. We start by understanding the basics of bootstrap, how it works and how it is implemented. We will cover the famous grid system and media queries to ensure your new page looks it's best on all devices.</p><p>You will learn-by-doing which will help you understand all aspects of bootstrap and give you the tools to re-design our template or build an entirely new landing page specifically how you want it. You will be able to download project files throughout the course, which will be yours to keep and work on at your leisure.</p><p><strong>By the end of this course you will have created a slick, modern professional landing page using HTML and CSS that will work across all devices.</strong></p>", 
+    "end_date": null, 
+    "title": "Bootstrap 3 Beginners: Create a Professional Landing Page", 
+    "price": "20.00", 
+    "instructors": "Andy Clarke", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/584758_f877_5.jpg", 
+    "course_url": "https://www.udemy.com/bootstrap-beginners-landing-page/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-16T19:09:24Z"
+}

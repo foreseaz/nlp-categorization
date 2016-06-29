@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course, you will learn how to create a \"Rewarding video\" advertising system. I'm sure you've seen it in many video games, especially on iPhones and Android phones where you can press a button to \"watch a video advertisement\". Once you've finished watch the video ad, you are rewarded with in-game money, or gems, or a new character or a new virtual item.</p><p>It turns out to be<strong> one of the best ways for anyone making game to also make money.</strong></p><p>That's right, as a game developer, you will make money each time the player watches the video advertisement, and your player is more than happy to do so since he or she is rewarded for doing so. It's a WIN-WIN.</p><p>In this course, you will learn how to create the video reward system using Unity 3D. Now we're going to build it from scratch, step by step so that you can recreate it yourself and understand the whole process.</p><p>But we're also going to create this the smart way, we're going to bundle the final system as a <strong>Unity package</strong> so that you can reuse the system easily in any of your Unity projects just by importing the package.</p><p>What a great time saver.</p><p>If you want to make games the right way, just like professionals do, then you need to take this course.</p><p><strong>*** Bonus included! ***</strong></p><p>By the way, as a bonus for joining this course, you get <strong>all the files of the finished reward system package</strong>, ready to use in your games. Sweeeet!</p><p>I intentionally priced this course in a way that anyone can afford it. You'll get your money back just by joining this course and applying the package to your games<strong>. Get in here and let's get started.</strong></p><p>***</p><p><strong>The Power of Video Game Reward Systems*</strong></p><p>Video games contain elaborate reinforcement and reward schedules that have the potential to maximize motivation. Neuro-imaging studies suggest that video games might have an influence on the reward system. However, it is not clear whether reward-related properties represent a precondition, which biases an individual toward playing video games, or if these changes are the result of playing video games. Therefore, we conducted a longitudinal study to explore reward-related functional predictors in relation to video gaming experience as well as functional changes in the brain in response to video game training. Fifty healthy participants were randomly assigned to a video game training (TG) or control group (CG). Before and after training/control period, functional magnetic resonance imaging (fMRI) was conducted using a non-video game related reward task. At pretest, both groups showed strongest activation in ventral striatum (VS) during reward anticipation. At posttest, the TG showed very similar VS activity compared to pretest. In the CG, the VS activity was significantly attenuated. This longitudinal study revealed that video game training may preserve reward responsiveness in the VS in a retest situation over time. We suggest that video games are able to keep stratal responses to reward flexible, a mechanism which might be of critical value for applications such as therapeutic cognitive training.<br></p><p><em>*Source: US National Library of Medicine - </em><em>National Institutes of Health</em></p><p>Join now and have neuroscience work for you $</p><p>Note: Using Unity version 5 2016</p>", 
+    "end_date": null, 
+    "title": "Unity Game Boost: Build a Video Reward System", 
+    "price": "20.00", 
+    "instructors": "Yohann Taieb", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/775670_8c51.jpg", 
+    "course_url": "https://www.udemy.com/unity-build-video-reward-system/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-27T02:02:52Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<h4 style=\"\">This new Swift programming language from Apple makes building iOS applications easy. Learn all you need to know about programming in Swift with this Infinite Skills course.</h4>  <p style=\"\">  \t          This Learning to Program with Swift training course from Infinite Skills will teach you how to program with Swift for iOS and Mac OS. This course is designed for beginner and experienced developers, and knowledge of Java, C#, or other modern languages is recommended.  </p>  <p style=\"\">  \t<br style=\"\">  \t          You will start with an introduction to Swift, including learning how to define constants and variables and learning about conditional statements and control flow statements. From there, Rogers will teach you about the Swift language features. This video tutorial will also cover Swift classes and inheritance, as well as enumerations, structures, generics, and operators. Finally, you will see Swift in action as you watch Rogers demonstrate a Master-Detail application. <br style=\"\">  \t<br style=\"\">  \t          Once you have completed this computer based training course, you will be fully capable of using Swift’s modern features to program for iOS and Mac OS. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Beginners Swift Programming For iOS Development", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/319728_e874_5.jpg", 
+    "course_url": "https://www.udemy.com/beginners-swift-programming-for-ios-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-14T20:31:21Z"
+}

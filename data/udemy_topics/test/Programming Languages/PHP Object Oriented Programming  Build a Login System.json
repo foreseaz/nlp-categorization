@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t Building registration and login (RL) systems is a must-have skill for any web developer. This course walks you through every step in the process of building an R/L system using PHP object oriented programming.  </p>  <p style=\"\">  \t We&#039;ve stripped away all the design elements of the RL system you will create so you can focus on what&#039;s important: Understanding the PHP coding and database structure.  </p>  <p style=\"\">  \tBy the time you are done with this course, you will have gained a real world skill that will help you in your goal to become a web developer, or will get you ahead in your current job.  </p>", 
+    "end_date": null, 
+    "title": "PHP Object Oriented Programming: Build a Login System", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/134930_f1cf_7.jpg", 
+    "course_url": "https://www.udemy.com/php-object-oriented-programming-build-a-login-system/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-17T20:35:47Z"
+}

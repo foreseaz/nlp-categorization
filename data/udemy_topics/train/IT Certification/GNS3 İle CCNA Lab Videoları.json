@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>CCNA Sınavlarına hazırlananlar için uygulama videoları. GNS3 Programı ile CCNA Sınavı uygulama videolarını gerçekleştirin ve sınava hazırlanın. 3:50 saatlik bu kurs ile kendinizi sınava hazır hissedin. GNS3 Programının kurulumundan Cisco Router ve Switch temel yapılandırmalarını, Statik ve Dinamik Yönlendirme Protokolleri(RIP,OSPF,EIGRP) uygulamalarını,Etherchannel, STP,Port Security gibi Switch yapılandırmalarını,Erişim Denetim Listeleri ACL, IPv6 uygulamalarını GNS3 programında uygulayın. </p>", 
+    "end_date": null, 
+    "title": "GNS3 İle CCNA Lab Videoları", 
+    "price": "20.00", 
+    "instructors": "Cemal TANER", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/856594_fc34_4.jpg", 
+    "course_url": "https://www.udemy.com/gns3-ile-ccna-lab-videolar/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-22T14:46:07Z"
+}

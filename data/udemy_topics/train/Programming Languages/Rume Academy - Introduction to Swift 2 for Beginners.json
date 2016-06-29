@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>You want to get started with Apples new programming language Swift with the goal of maybe developing apps for iOS and OSX? Well, you have come to the right course! We explain the basics of Swift using the playground feature in Xcode 7 and provide a rock solid foundation for your career as a Swift developer! But what's in the course?</p><p>- Variables and constants</p><p>- Basic types, such as String, Int, Double and Bool</p><p>- Arrays &amp; Dictionaries</p><p>- Conditions</p><p>- Loops</p><p>- Exercises with detailed solutions</p><p>- Many neat and helpful tips &amp; tricks on our way</p><p>- Foundation for more complex working with Swift for iOS and OSX development</p><p>In only about 60 minutes you can learn a lot here and interactively test your new knowledge right away! This is an easy first step to learn programming with Swift. We are looking forward to welcoming you as our students!</p>", 
+    "end_date": null, 
+    "title": "Rume Academy - Introduction to Swift 2 for Beginners", 
+    "price": 0, 
+    "instructors": "Johannes Ruof, Timothy Meixner", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/629638_5279.jpg", 
+    "course_url": "https://www.udemy.com/rume-academy-swift-basics/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-03T14:27:54Z"
+}

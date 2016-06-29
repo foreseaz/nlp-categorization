@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course will guide you through the process of productionizing an app, using Sunshine, the weather app we built in Developing Android Apps. Following Android's Core App Quality Guidelines, we'll identify the production criteria that still needs to be implemented, then tackle each problem until Sunshine is ready to publish on the Google Play Store. In the process, we'll introduce you to a host of tools and concepts, including: material design approaches, image-handling, performance profiling, and more!Why Take This Course?As a professional Android developer, you have to create production-ready apps for your users. This class will give you what it takes to ship polished apps as part of a development team at a company, an independent app developer, or just as a programmer using Android development best practices.\n\nBy the end of the course, you'll be able to identify critical areas for improvement in an app, and implement the necessary changes and refinements to ensure it meets Android's Core App Guidelines prior to shipping.\n\n                                            Syllabus\n                        ### Lesson 1: Product Quality \nOverview of product quality standards, and an introduction to the goals and structure of this course. \n\n### Lesson 2: Integration Points and Error Cases\nIdentify and resolve integration points, including offline/server integration, and validate user input in the Sunshine app. \n\n### Lesson 3: Accessibility and Localization\nExpand the audience for your app by making it accessible and easily localized. \n\n### Lesson 4: Libraries\nUse libraries to handle images, and allow users to personalize their Sunshine experience with custom icons.\n\n### Lesson 5: Google Cloud Messaging\nImplement a message receiver, and learn how to send messages to Sunshine using the Google Cloud Messaging interface.  \n\n### Lesson 6: Material Design\nApply material design principles to Sunshine's activity transitions, keylines and layouts. \n\n### Lesson 7: Building a Total Experience\nBuild and implement resizable widgets and immersive wallpaper images. \n\n### Lesson 8: Performance \nUse profiling tools in Android Studio to identify performance leaks.\n\n### Final Project\nYou will productionize two apps, taking them from a functional state to a production-ready state.This will involve finding and handling error cases, adding accessibility features, and adding a library.\n                                    ", 
+    "end_date": "2015-06-22T00:00:00Z", 
+    "title": "Advanced Android App Development", 
+    "price": 0, 
+    "instructors": "Dan Galpin, Jay Harman, Joanna Smith and Ian Lake", 
+    "institution_name": [
+        "Google"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.udacity.com/course/advanced-android-app-development--ud855?utm_medium=referral&utm_campaign=api", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2015-05-11T00:00:00Z"
+}

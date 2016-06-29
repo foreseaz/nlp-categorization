@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t This course is approximately 4 hours in length and will cover IPv6 protocol in detail. I will compare the differences between the IPv4 to IPv6, and the benefits that IPv6 brings to the future of networking.  </p><p><strong>DISCLAIMER:   </strong><strong>Please note that the simulators/emulators used in this course are not part of the course. It is the students responsibility to have these to practice with. The Cisco Packet Tracer and/or VIRAL (Virtual Internet Routing Lab) are Cisco proprietary software and can only be obtained through Cisco. It is up to each student to obtain the simulator/emulator of their choice to study along with this course.</strong><br></p>\n\n<p>  \tStudents will get a thorough understanding of IPv6 and how we would implement it in a real world environment.  </p>\n\n<p>  \tWe will discuss the format of an IPv6 address, and breakdown the different components, like the Network Prefix, Interface ID, what each 16 bit section does and specifically the subnetting section of IPv6. We will learn about the new types of addresses that comes with IPv6, its configurations using RIPng, EIGRP for IPv6, OSPFv3 using both static assigned addresses and the EUI-64 format. We will also learn about the transition methods such as ISATAP, 6to4, and NAT-PT.  </p>\n\n<p>  \tThis is a lecture based course using the Touch-IT Technology Smart board, which will make learning very interactive and engaging. Hands on labs will be used to drill down the concepts learned in each lecture using Cisco’s Packet Tracer.  </p>\n\n<p>  \tMy method will make you feel like you are sitting in a classroom environment and give the most needed hands on experience!  </p>\n\n<p>  \tHandouts will be available to facilitate learning and practice.  </p>\n\n<p>  \tThis course will help the student become familiar with the use of IPv6, recognizing IPv6 addresses and how to implement them in your environment…but it will also help in preparing for any networking certification or Computer Science Degree; not to mention the fact that for those already in the field, it will further improve routing decisions in their particular networks.  </p>", 
+    "end_date": null, 
+    "title": "Cisco CCNA Security: The A, B, C's of IPv6", 
+    "price": "25.00", 
+    "instructors": "Lazaro Diaz", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/67332_a509_9.jpg", 
+    "course_url": "https://www.udemy.com/the_abcs_of_ipv6/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-07-20T18:43:02Z"
+}

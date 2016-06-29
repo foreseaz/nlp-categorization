@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>So, you want to make a website, but you have no idea how to do it. It's okay to relax now. In this class, we're going to<strong> learn the basics of HTML, or HyperText Markup Language</strong>.</p><p>HTML is the building block for creating web pages. Regardless of what information a web page contains, every page is curated using some form of HTML.</p><p>This class explains the basics of how HTML works behind the scenes inside web pages and walk you through the steps involved in creating a web page. <strong>By the end, you'll be creating some simple web pages and will be ready to move on to other languages like CSS, JavaScript and more.</strong></p>", 
+    "end_date": null, 
+    "title": "Introduction to HTML: Build simple HTML webpages", 
+    "price": "20.00", 
+    "instructors": "v c", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/569930_b78b.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-html-build-simple-html-webpages/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-31T06:14:49Z"
+}

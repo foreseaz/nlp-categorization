@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Aprenderás a desarrollar mensajería en tiempo real como WhatsApp, a conectar con el API de Twitter, hacer que tus aplicaciones interactúen con Facebook, crear tu propia red social de fotos, y hacer apps que se prueben automáticamente.\n\nUn curso dinámico e interactivo, con los aspectos más importantes en la construcción de aplicaciones de forma profesional para Android.\n\nNuestro curso es el único que te enseñará a dar el siguiente paso en la construcción de aplicaciones profesionales para Android, esto lo haremos a través de darte las herramientas y conocimiento más actualizado. Inclusive tendremos en exclusiva una vídeo conferencia desde el Google I/O!\n\nSabías que Android es el sistema operativo dominante con un 82.2% de la cuota de mercado. Imagina cuantos miles de consumidores puedes tener al crear tus apps profesionales para Android.\n\nEn nuestro curso de Android aprenderás: Android Studio, actividades, fragmentos, intents, Model-View-Presenter, RecyclerView, ViewHolder, Adapter, Firebase, Navegación con tabs, ViewPager, autenticación, almacenamiento, consumo de API, Facebook SDK, GCM, notificaciones, Integración con Android wear, Cámara, Google Play Services, GPS, mapas, Graddle, Unit testing (JUnit4, Mockito), UI testing (Espresso).\n\n                                    ", 
+    "end_date": "2016-07-25T00:00:00Z", 
+    "title": "CTec001x: Desarrollo de aplicaciones profesionales para Android", 
+    "price": 0, 
+    "instructors": "Adrián Catalán", 
+    "institution_name": [
+        "Galileo University"
+    ], 
+    "commitment": "5-6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.edx.org/course/desarrollo-de-aplicaciones-profesionales-galileox-ctec001x", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-05-30T00:00:00Z"
+}

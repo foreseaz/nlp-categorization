@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tJavascript is the <span>language of the web. So if you want to become a web developer, Javascript is a must learn language. This is an in-depth course which teaches seemingly difficult concepts like functional programming in a easy to understand way. Along the course, we also compare Javascript with other languages like Java, so that people having some experience with a language like C, Java or C#, which are statically typed languages, can easily understand how to write good Javascript programs. </span>  </p>  <p>  \tJavascript has been notorious when it comes to finding bugs in the program. This course also talks about some pitfalls in the language which should be avoided, so that you have a much easier time writing code and debugging in this language.  </p>", 
+    "end_date": null, 
+    "title": "Learn to Program in Javascript: Beginner to Pro", 
+    "price": "20.00", 
+    "instructors": "Raghavendra Dixit", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/217000_3050_6.jpg", 
+    "course_url": "https://www.udemy.com/programming-in-javascript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-13T05:32:40Z"
+}

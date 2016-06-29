@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t              Bu kurs Android programlamaya başlayacak öğrenciler için temel düzeyde Android konularını anlatmaktadır . Kurs öncelikle Android in genel özellikleri ve kurulumuyla başlamaktadır. Daha sonra proje oluşturma , emulator tanımı ve Android bileşenlerinin genel yapısı hakkında bilgi vermektedir . Android Widget lardan  genel olarak bahsedilmektedir  (Action Bar , Switch...)Devamında ise SQLite , servisler ,kamera ve fotoğraf çekimi anlatılmaktadır . Facebook grubumuz : <span style=\"\">JAVA - J2EE - ANDROID Türkiye</span>  </p>", 
+    "end_date": null, 
+    "title": "Temel Android", 
+    "price": "20.00", 
+    "instructors": "Serkan Sakınmaz", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/336958_cb70_3.jpg", 
+    "course_url": "https://www.udemy.com/temel-android/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-05T21:50:06Z"
+}

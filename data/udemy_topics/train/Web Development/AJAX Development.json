@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><span style=\"\">You’ve learned a little Javascript, &nbsp;but you still look at websites with slick, smooth and elegant user interfaces and want to know how web developers create that. The answer is simple: Ajax. &nbsp;You’ve probably heard of it, but you’ve always wondered “What is Ajax”? Ajax is simply Asynchronous Javascript and XML. By taking our Ajax course, you can make pages on your web application respond quickly, and with a minimum of screen refreshes.</span><br style=\"\"></p><p style=\"\"><br style=\"\">With our Ajax course and a little Javascript knowledge you can use Ajax to take database information and store, alter, sort and conditionally format it all on the client side. &nbsp;This minimizes the load on your server and makes your applications respond quickly and without reloading the HTML page. &nbsp;Ajax communicates with the server behind the scenes while your user continues to use your web site, accessing the information they want. Our course will show you numerous Ajax examples and help you become proficient in using Ajax.<br style=\"\"><br style=\"\">In our Ajax course, master trainer Mark Lassoff takes you through the basics of Ajax right to advanced topics like parsing JSON responses from web services. &nbsp;Our Ajax course is recommended for all web developers who want to improve their client side skills, and make professional, fast and responsive web applications.<br style=\"\"></p>  ", 
+    "end_date": null, 
+    "title": "AJAX Development", 
+    "price": "20.00", 
+    "instructors": "LearnToProgram, Inc., Mark Lassoff", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/16151_3b0c_10.jpg", 
+    "course_url": "https://www.udemy.com/ajax-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-04-10T14:23:57Z"
+}

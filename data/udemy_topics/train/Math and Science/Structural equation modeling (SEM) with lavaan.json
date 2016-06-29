@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>This \"hands-on\" course teaches one how to use the R software lavaan package to specify, estimate the parameters of, and interpret covariance-based structural equation (SEM) models that use latent variables. \"lavaan\" (note the purposeful use of lowercase \"L\" in 'lavaan') is an acronym for <i>la</i>tent <i>va</i>riable <i>an</i>alysis, and the name suggests the long-term goal of the developer, Yves Rosseel: \"to provide a collection of tools that can be used to explore, estimate, and understand a wide family of latent variable models, including factor analysis, structural equation, longitudinal, multilevel, latent class, item response, and missing data models.\" The course uses and executes many \"live\" examples (with included R scripts and datasets) using no-cost R and RStudio software to demonstrate and teach how to: (1) specify a SEM model in lavaan syntax; (2) fit and then evaluate your model; (3) perform a CFA; (4) impute and replace missing data; (5) estimate mediating and other indirect effects; (6) estimate and evaluate multigroup models, simultaneously establishing measurement invariance; and (7) specifying and estimating latent (growth) curve models, including the use of random (and latent) intercepts and slopes. The R lavaan package is world-class 'professional-grade' SEM software, used by thousands of SEM experts, graduate students, and college and university faculty around the world.</p>", 
+    "end_date": null, 
+    "title": "Structural equation modeling (SEM) with lavaan", 
+    "price": "20.00", 
+    "instructors": "Geoffrey Hubona, Ph.D.", 
+    "commitment": "11.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/493236_593d_6.jpg", 
+    "course_url": "https://www.udemy.com/structural-equation-modeling-sem-with-lavaan/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-04T12:33:53Z"
+}

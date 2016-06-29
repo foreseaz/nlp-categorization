@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>I created this corse since I have experienced during my live trainings and even from my students of other VBA courses that I released on the Internet, that most of my students are not IT-skilled people. They are just users of Excel and want to go beyond the basic functionalities of Excel and create automated report or automate daily tasks.</p><p>For this reason I have created a course with the right pace to make it clear to anyone.</p><p>In this course I start explaining what VBA is and why VBA. For example, if you are an user of Excel, e.g. in the Accounting Department, what VBA is and why you need it.</p><p>For this reason it is important to understand first of all the concept of object oriented programming and explain how Excel is an application structured in objects whose properties and actions/events can be managed, manipulated and updated using VBA.</p><p>I start with an overview of the Developer ribbon, which is the menu section where to record macros, execute macros, access the VBA editor and much more.</p><p>I will show and explain the structure of a VBA object and how to record a VBA macro.</p><p>Once recorded, I will explain how to read and interpret a VBA code and how to modify it for your goals.</p><p>I will show how to make the user interact with the data in the worksheets using userforms  and how to format the reports automatically.</p><p>I have organized this course focusing on an example which is an Excel file or workbook composed of more worksheets. </p><p>At the end the user will be able to exchange data between the worksheets and import/export them to external text and binary files.</p><p>In details:</p><p><strong>Begin with VBA</strong>: why VBA, understand the VBA editor, learn how to record and execute a VBA macro, learn to read and interpret the VBA code, modify the VBA code, modify the macro security level.</p><p><strong>Understand the VBA code</strong>: the Excel objects and how and where to manage/edit their properties and actions/methods based on their events<br></p><p><strong>The VBA project</strong>: what is a VBA project, how it is structure, the components, where to insert your code, how to set the properties of the objects</p><p><strong>The VBA programming principles</strong>: variables, constants, functions and subroutines. What is the difference between private and public. What is a module. What are the variable types.</p><p><strong>Interact with the data</strong>: read/retrieve data with loop instructions. Select data using conditional instructions. Strings and string functions.</p><p><strong>Interact with the user</strong>: exchange data and information using userforms, msgboxes and inputboxes. Understand the VBA control objects on userforms.</p><p><strong>VBA commands on worksheets</strong>: interact directly on a worksheet using control objects and directly on it and how to trigger actions and events.<br></p><p><strong>Structure of data</strong>: understand arrays and their size, how to populate arrays and manage their size. The Type data structure to save data into records. Collections.<br></p><p><strong>Manage external files with VBA</strong>: read and write to text and binary files.</p><p><strong>Errors</strong>: manage errors caused by the interection of the user with Excel.</p><p><br></p><p>At the end you will find some exercise to improve your skill and verify your knowledge in VBA.<br></p>", 
+    "end_date": null, 
+    "title": "Excel VBA for Beginners", 
+    "price": "20.00", 
+    "instructors": "Daniele Protti", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/520710_89c5_3.jpg", 
+    "course_url": "https://www.udemy.com/excel-vba-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-04T19:58:22Z"
+}

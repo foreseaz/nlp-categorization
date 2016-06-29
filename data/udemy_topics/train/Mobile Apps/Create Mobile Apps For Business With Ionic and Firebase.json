@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Hi,Thanks for checking for my course.</p><p> We are looking at what is important to configure Ionic Framework on your Windows, Linux or Mac and develop visually great applications with minimal amounts of code and design skills necessary.<br></p><p>Ionic is a powerful framework that helps you build <strong>native look and feel </strong>iOS and Android apps using web technologies like HTML, CSS, and Javascript. It's based on two-way data binding and AngularJS for powerful templating.<br></p><p>We will be using Firebase as our backend for our application and the positive side of that is that we are able to upload and save data in our application.The back-end Firebase is a perfect complement to Ionic.<span>Unlike other services where you have to constantly keep refreshing and loading the data. Firebase helps you build a very efficient network with seamless networking integration.</span><br></p><p><span>With Ionic the dream of using web technology to build mobile apps is finally here. It won't a second-class option, it's the future of mobile app development.<span><br></span></span></p><p>Let's get started!</p>", 
+    "end_date": null, 
+    "title": "Create Mobile Apps For Business With Ionic and Firebase", 
+    "price": "40.00", 
+    "instructors": "Cristan Sector", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/784020_6fb7.jpg", 
+    "course_url": "https://www.udemy.com/create-mobile-apps-for-business-with-ionic-and-firebase/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-06T14:12:57Z"
+}

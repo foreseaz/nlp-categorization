@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>In this course you will learn how to create a Rubik's cube using a simple cube, several array modifiers, create vertex groups, us a single UV Map Image for each of the cube faces, create a simple rotation animation and render an image sequence animation.</p><p>The course will help you build your skills in using Blender for creating a simple model, texture-mapping using UV Maps and creating a simple animation. This course is suitable for Newbies. The course is about 1 hour 30 minutes in duration. </p><p>There are nine sections of video tutorials with seven short quizzes highlighting key features used in Blender. This course is designed for anyone wishing to learn some basic modelling, UV Mapping, simple animation and how to render using Blender's build in render. <br></p>", 
+    "end_date": null, 
+    "title": "Create a Rubik's Cube in Blender", 
+    "price": "20.00", 
+    "instructors": "George Kingsnorth", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/586310_5390.jpg", 
+    "course_url": "https://www.udemy.com/create-a-rubiks-cube-in-blender/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-18T12:46:42Z"
+}

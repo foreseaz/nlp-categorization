@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>As of December 2014 Android Studio has become the new and only Google&#039;s fully Supported Integrated Development Environment (IDE) for Android.</p><p>Although you don&#039;t necessarily need Android Studio for your Android application development, the only fastest and easiest way to develop your android applications is to use Android Studio.</p><p>In this course you will learn: </p><p>How to install and configure: the Java Development Kit (JDK) and  Android Studio IDE which includes the Android Software Development Kit (SDK);</p><p>How to create a project in Android Studio, how to navigate a project, how to use the Android Studio code editor</p><p>Keyboard shortcuts for writing and refactoring codes;</p><p>How to use graphical editor and text editor to create your applications&#039; User Interface;</p><p>How to use the debugging tools with break points and watch variables</p><p>How to integrate Android project with Github for version control (code backup and management); and  how to get help using Android Studio.</p>", 
+    "end_date": null, 
+    "title": "Android Studio IDE Essential Training", 
+    "price": "20.00", 
+    "instructors": "Oscar Kalipe", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/552978_ce28_2.jpg", 
+    "course_url": "https://www.udemy.com/android-studio-ide-essential-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-13T02:57:54Z"
+}

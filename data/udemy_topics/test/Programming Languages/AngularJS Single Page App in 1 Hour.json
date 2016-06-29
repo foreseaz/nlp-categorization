@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<em>Check out my blog RunAstartup for coupons!!!</em></p>  <p>  \t<strong>BONUS:</strong> Now with HTML5 localStorage API, you can save and load your questions/answers locally to your browser!  </p><p><strong>This is a crash course to get you up to speed quickly on how to use AngularJS and its basics.  Therefore it is priced accordingly and is not as comprehensive as the other 6-hour courses for over $99+</strong></p>  <p>  \t              By the end of this course you will have completed a customizable working AngularJS application.  I cover all the essentials of AngularJS.  </p>  <p>  \t                    I read and studied a lot to prepare this course, but let me warn you, it's fast-paced.  Since it's on video, you can pause it and rewind, but if it were to be slow-paced, you wouldn't want to fast-forward possibly skipping some server-saving code.  </p>  <p>  \t                    You will learn all the goodies and \"magic\" brought to you by the creator Miško Hevery.  Seriously, he has permanently changed how web apps are created, let's just call it a \"paradigm shift\" as a philosopher would call it.  </p>  <p>  \t                    By the end of this course you'll know if AngularJS is for you.  </p>", 
+    "end_date": null, 
+    "title": "AngularJS Single Page App in 1 Hour", 
+    "price": "20.00", 
+    "instructors": "Tom Rutka", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/253484_8f2e_6.jpg", 
+    "course_url": "https://www.udemy.com/angularjs-crash-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-01T02:33:47Z"
+}

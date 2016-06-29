@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  The CoffeeScript is a language that was built on top of JavaScript. CoffeeScript has some added benefits and its code is compiled into native JavaScript for execution. The CoffeeScript pros include: better syntax, function and class construction patterns, automatic var insertion, comprehensions and others.  </p>  <p style=\"\">  \tMost of these perks will be obvious once we take a look at some examples. This quick language reference can get you started with CoffeeScript:  </p>  <ul style=\"\">  \t<li style=\"\"><span style=\"\">Semicolons, Whitespace and Parentheses • Vars</span></li>  \t<li style=\"\"><span style=\"\">Conditions</span></li>  \t<li style=\"\"><span style=\"\">Functions</span></li>  \t<li style=\"\"><span style=\"\">Classes</span></li>  \t<li style=\"\"><span style=\"\">Arrays</span></li>  \t<li style=\"\"><span style=\"\">Splats</span></li>  \t<li style=\"\"><span style=\"\">Comprehensions </span></li>  </ul>  <p style=\"\">  \tThis course is prepared by the author of nine (9!) books on JavaScript and NodeJS. This course has video presentation as well as documents.  </p>", 
+    "end_date": null, 
+    "title": "CoffeeScript: The Good Parts—Write Better javaScript", 
+    "price": "20.00", 
+    "instructors": "Azat Mardan", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/388286_0173_2.jpg", 
+    "course_url": "https://www.udemy.com/coffeescript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-08T05:31:01Z"
+}

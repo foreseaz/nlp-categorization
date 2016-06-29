@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t <span>Rapid Cassandra is a practical video course that covers the typical administration tasks in real-life systems. It starts from the architecture basics and proceeds in a step-by-step fashion with demonstrations on how to evolve a single environment from scratch to a completely operating cluster.</span>  </p>  <p>  \t The course starts with a quick and essential review on Cassandra&#039;s architecture. It also recapitulates important concepts such as the native data types and the building blocks. The course covers the modeling by query techniques and the fundamental difference between primary key and secondary indexes, which are usually encountered in designing a high-performance Cassandra data model. Then the course shows you how to design and build a stock analysis application written in Java to work with Cassandra, where you will walk through the software development life cycle of a single application. This rapid video tutorial will help you transform from a novice developer into an expert on Cassandra. Using Cassandra&#039;s unique features, you will learn just how easy it is to create your own production-grade Cassandra cluster!  </p>  <p>  \t This guide is indispensable for developers who want to design a smart NoSQL data model and build a Java application backed by Cassandra, from scratch. By the end of this course, you will be knowledgeable enough to correctly leverage Cassandra&#039;s unique capabilities, effectively design a NoSQL database, and use Java to develop applications working with Cassandra.  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t<strong style=\"\">C Y Kan</strong> is an expert in system integration and has over 20 years of IT experience, including 15 years of project management and architect roles in many large-scaled local and international projects. He received a Bachelor&#039;s degree from the University of Hong Kong and a Master’s degree from the University of Technology, Sydney. He holds many professional certifications such as PMP, PRINCE2 Practitioner, PMI-ACP, Scrum Master, CISSP, ITIL, TOGAF9, and SOA Certified Architect.  </p>  <p>  \t<span>He has expertise and strong interests in software technologies and development methodologies, including enterprise architecture, service-oriented architecture, Java-related technologies, Oracle databases, iOS application development, Scrum, extreme programming, agile software development, and various kinds of project management methodologies.</span>  </p>", 
+    "end_date": null, 
+    "title": "Rapid Cassandra", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/420874_79e5_2.jpg", 
+    "course_url": "https://www.udemy.com/rapid-cassandra/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-13T07:33:03Z"
+}

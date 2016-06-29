@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>C# is undoubtedly one of the most popular programming language around. A lot of developers are turning towards C# as their preferred choice of language, because it is simple, well supported and versatile. It powers lot of enterprise software and as a developer CSharp offers a host of job opportunities. </p>  <p><strong>What is C#? </strong></p>  <p>C#, pronounced as See Sharp or C Sharp (like the music note), is a multi-paradigm programming language that was designed by Microsoft to be a modern, simple, object-oriented and general purpose programming language. Evolved from C and C++, the language is not limited to simply building web applications, but also allows desktop applications, mobile applications, games and even websites.</p>  <p>One prominent benefit of C# is that it works within the .NET framework, which means that while the developer is writing his codes, he doesn’t have to worry about writing extra coding for things such as managing memory, performing garbage collection, handling exceptions, etc. The framework executes those functions for the developer automatically.</p>  <p>Our Projects in C# course has been uniquely designed to teach you the fundamentals of C# using interesting projects that will not only get you started with the programming language, but will also teach it to you in a fun and engaging manner.</p>  <p>In our C# course, you will get your hands on some interesting features such as LINQ to SQL, media player tools, authenticating users, add multiple forms, buttons, resources, etc. </p>  <p>Our interesting C# tutorial includes 5 short projects that will give you a general view of how to get started with C# and also teach a few of the most useful features of the programming language to get you started on your programming journey.</p>  <p><strong>The 5 projects include:</strong></p>  <p><strong>Project 1: Phone Book</strong> <strong>–</strong> Create a phone book in a tabular format. Learn how to add, edit and delete phone numbers.</p>  <p><strong>Project 2: Text Editor – </strong>Learn how to create a rich text editor, along with how to add, remove and edit files. You will also learn how to change the font and format the text.<strong></strong></p>  <p><strong>Project 3: Media Player – </strong>Create a fully-functional media player. You will learn how to create a playlist within this player, along with how to add multiple files at the same time to the playlist.<strong></strong></p>  <p><strong>Project 4: Quiz – </strong>Create a quiz application. You will learn how to authenticate the user and then generate the quiz from a database using multiple forms<strong></strong></p>  <p><strong>Project 5: Tic Tac Toe Game – </strong>Learn how to create a<strong> </strong>fun game of Tic Tac Toe.</p>  <p>No longer does learning have to be boring. Let’s have some fun with C#! Enroll now and become a C# maestro.  </p>", 
+    "end_date": null, 
+    "title": "Projects in CSharp : Learn By Building Projects", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/756984_032f.jpg", 
+    "course_url": "https://www.udemy.com/projects-in-csharp-learn-by-building-projects/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-09T09:32:42Z"
+}

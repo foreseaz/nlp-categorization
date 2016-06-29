@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Many a times an amazing game idea goes in waste when, a developer directly begins to program , many obstacles may arise thus thwarting the developer's efforts to reach the culmination point of the program.</p><p>Not that he/she is lacking  in programming knowledge nor it is that they are trying to achieve something impossible,but they fail to understand why that block of code exist or why it does not ,since before they could understand the code's existence,they jumped on to programming it.</p><p><strong>What is the course about?</strong></p><p> In this course the idea is\ntaken from popular game Doodle Jump, the logic of the game  is built step by\nstep throughout the course with the help of  simple hand drawn sketches ,after understanding\nthe logic it is then implemented in C# language in Unity 5. It focuses on the process from developing the logic to game development.</p><p>To aid in scripting required Object Oriented Programming concepts are explained with simple analogies\nand common misconceptions, so even the non programmers can take up this course.</p><p><strong>Why take this course?</strong></p><p>If\nyou are the one who wants to develop their own game idea,but don't know where\nto begin, this course makes you familiar of the thinking process while\ndeveloping your own game.</p><p><strong>Course Overview</strong></p><p>The\ncourse comprises of 2 sections the first one is OOP concepts and the second\nsection is on building Doodle jump. With every block of code, logic is\nintroduced before, so students can try their version of code before moving on\nto the instructor’s version. </p><p>.<br></p>", 
+    "end_date": null, 
+    "title": "Building game logic to game development in Unity5", 
+    "price": "20.00", 
+    "instructors": "outofbounds 94", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/623526_0380_5.jpg", 
+    "course_url": "https://www.udemy.com/building-game-logic-to-game-development-in-unity5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-27T05:29:29Z"
+}

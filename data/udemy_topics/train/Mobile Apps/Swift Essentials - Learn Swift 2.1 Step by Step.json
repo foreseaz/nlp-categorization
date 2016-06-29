@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Course updated December 2015!</strong></p><p>  \t<strong>Become one of the world's earliest Swift developers with this introductory course on Apple’s new programming language. </strong>  </p>  <ul>  \t<li>Initial Setup and Swift Basics</li>  \t<li>Ints, Strings, Classes, and Collection Types</li>  \t<li>Control Flow</li><li>Error Handling</li>  </ul>  <p>  \t<strong><br>  \t</strong>  </p>  <p>  \t<strong>A Modern Language Evolved from Objective C </strong>  </p>  <p>  \t            Swift is a multi-paradigm programming language developed by Apple for use with iOS and OS X. Designed to replace Objective C, work began on Swift in 2010 and the first mobile app was debuted in June 2014 at the Worldwide Developers Conference. Despite its goal of replacing Objective C, Swift is capable of working alongside the more dated Objective C language while using the Cocoa and Cocoa Touch frameworks.  </p>  <p>  \t            Swift is built with the LLVM compiler included in Xcode 6 beta, and uses the Objective-C runtime, allowing Objective-C, Objective-C++ and Swift code to run within a single program. During it’s debut, Swift was described as “<em>Objective C without the C</em>” by Apple’s VP of Software Engineering Craig Federighi.  </p>  <p>  \t<strong><br>  \t</strong>  </p>  <p>  \t<strong>Contents and Overview</strong>  </p>  <p>  \t            Through 140+ video lectures and 11 hours of content, you will be lead through setting up Swift locally, the basics of the language, how it compares to other common languages (including Objective C), and how to get started on new projects.  </p>  <p>  \t            The course is designed to provide a comprehensive introduction to Swift, so that you can begin experimenting right away. Upon completion, you will understand the foundations of Swift code and will be able to develop custom applications. You will also get experience working with Xcode's new .playground file. By enrolling in this course you will be months ahead of other developers attempting learn the new Swift programming language by navigating Apple's 500-page instructional document.  </p>  <p>  \t            Course material is regularly refreshed to include all of the newest updates and information, and since you’re granted lifetime access upon registering, you can rely on this course to keep your Swift skills on the cutting edge.  </p>", 
+    "end_date": null, 
+    "title": "Swift Essentials - Learn Swift 2.1 Step by Step", 
+    "price": "30.00", 
+    "instructors": "Rick Walter", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/235886_c640_3.jpg", 
+    "course_url": "https://www.udemy.com/swift-learn-apples-new-programming-language-by-examples/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-02T20:25:00Z"
+}

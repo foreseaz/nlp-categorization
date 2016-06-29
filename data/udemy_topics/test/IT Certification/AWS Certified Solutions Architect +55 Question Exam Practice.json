@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>The AWS Solutions Architect Certification Course, is, I believe, the best online course currently available anywhere, for helping you pass the AWS Solutions Architect Certification Exam(Associate Level).</p><p>This course has been put together with one sole purpose in mind, that being <strong>to provide you with the necessary resources and knowledge to study and pass t</strong><strong>he AWS Certified Solutions Architect – Associate Level Exam</strong>. Nothing in this course is excess. Meaning any material in this course is there because it may appear in the exam. Other AWS courses may teach you how to use the console, how to use the CLI and other information, but you will not find much of that in this course as it is not pertinent to passing this exam.<br><br><strong>Some of the unique features you will find in this course.</strong></p><ul><li>Easy to understand Terminology</li><li>Easy to Understand Breakdown of Exam Blueprint Content</li><li>Questions within the lectures , with explanations for the correct answers </li><li>The course structure comes from Breaking down the AWS Certified Solutions Architect – Associate Level Exam Blueprint from AWS in an easy to understand format.</li><li>You also get access to our AWS Solutions Architect Associate – Exam Simulation. Which is a simulation of the types of questions that you may encounter when undertaking an official AWS Solutions Architect Exam Associate exam. There are 55 questions in total, which is the same amount as the official AWS exam, and to the best of our knowledge they are the types of questions you can expect to encounter according to the blueprint for the AWS Certified Solutions Architect – Associate Level Exam.</li></ul>", 
+    "end_date": null, 
+    "title": "AWS Certified Solutions Architect +55 Question Exam Practice", 
+    "price": "25.00", 
+    "instructors": "Michael Sheehy", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/756610_8ed8_8.jpg", 
+    "course_url": "https://www.udemy.com/aws-solutions-architect-associate-certification-course2016/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-09T01:18:20Z"
+}

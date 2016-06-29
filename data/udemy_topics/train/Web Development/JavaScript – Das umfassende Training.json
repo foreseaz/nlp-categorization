@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In diesem Video-Training lernen Sie, wie Sie mit JavaScript eigene Skripte programmieren und Ihre Website mit intelligenten Funktionen ausstatten. Christian Wenz, beliebter Trainer und Webworker der ersten Stunde, zeigt Ihnen anschaulich alle Standardtechniken der Web-Programmierung, inklusive DOM, CSS, HTML5, Ajax, JSON, XML und viel mehr. Ausführlich widmet er sich auch dem JavaScript-Framework jQuery, mit dem Sie attraktive Web-Applikationen erstellen können, ohne selbst viel programmieren zu müssen. Dieses Video-Training bietet Ihnen dank Live-Coding einen schnellen Lernerfolg.</p><p>- Webentwicklung live – vom Profi anschaulich erklärt</p><p>- HTML5-Formulare, Geolocation, Web Storage, Drag-and-Drop, Ajax u.v.m.</p><p>- Einstieg in jQuery, jQuery UI und jQuery Mobile</p><p>Christian Wenz ist Autor, Trainer und Berater für Web-Technologien. Er hat bereits zahlreiche Bücher zu Web-Themen veröffentlicht, ist regelmäßig als Autor für diverse Fachmagazine tätig und ist aktiv auf seinem Blog. Als Teilhaber der Web-Agentur Arrabiata Solutions GmbH realisiert er Web- und Intranetprojekte, führt Sicherheitsprüfungen durch und entwickelt Ajax-Anwendungen. Christian Wenz ist Webentwickler der ersten Stunde und in allen Web-Themen zu Hause.</p>", 
+    "end_date": null, 
+    "title": "JavaScript – Das umfassende Training", 
+    "price": "40.00", 
+    "instructors": "Rheinwerk Verlag", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/559550_164c.jpg", 
+    "course_url": "https://www.udemy.com/javascript-das-umfassende-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-20T16:13:42Z"
+}

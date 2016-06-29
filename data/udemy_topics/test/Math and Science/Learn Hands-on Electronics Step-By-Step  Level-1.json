@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>  \tHello!  </p>  <p>  \tThe course is all about getting your hands dirty with real world electronic components, understand how each part works through cool experiments, plugging them together to glow LEDs, beep buzzers, control lights and various cool projects and having fun.  </p>  <p>  \tThis course has been successfully tested on over <strong style=\"\">3000 </strong>Junior and Senior High School Kids as well as Science Educators in India.  </p>  <p>  \tAt the end, you get into the details of each project- Whats and Whys and Analyse the circuits through Voltages, Currents, Laws that Govern Them and Draw Conclusions.  </p>  <p>  \t<strong style=\"\">List of 20+ Experiments in the Course: </strong>  </p>  <ul style=\"\">  \t<li>Measuring battery voltage using a multimeter</li>  \t<li>Measuring resistance using a multimeter</li>  \t<li>Continuity test of an LED</li>  \t<li>Glowing an LED</li>  \t<li>Measuring current in a circuit using a multimeter and verifying Ohm’s Law</li>  \t<li>Beeping a buzzer</li>  \t<li>Glowing an LED using a potentiometer</li>  \t<li>Varying intensity of light using a preset</li>  \t<li>Alternate change in intensity of LEDs using a preset</li>  \t<li>Glowing an LED using an LDR</li>  \t<li>Sequential glowing of LEDs at different voltages</li>  \t<li>Series combination of LEDs and verifying Kirchhoff’s Voltage Law</li>  \t<li>Parallel combination of LEDs-1 </li>  \t<li>Parallel combination of LEDs-2 and verifying Kirchhoff’s Current Law</li>  \t<li>Continuity test of a two-way switch and verify the concept of pole and throw</li>  \t<li>Controlling an LED using an SPDT switch</li>  \t<li>Alternate switching of LEDs using an SPDT switch</li>  \t<li>Staircase lighting</li>  \t<li>Charging and discharging a capacitor</li>  \t<li>Charging the capacitor with a resistor and verification of time-constant</li>  \t<li>Discharging the capacitor with a resistor and verification of time-constant</li>  </ul>  <p>  \t<strong style=\"\">Course Benefits:</strong>  </p>  <ul style=\"\">  \t<li>You will master the fundamentals of &#039;how circuits work&#039;</li>  \t<li>You will be able to invent and create circuits</li>  \t<li>You will be able to test the concepts of physics that you read in textbooks</li>  \t<li>If you are a teacher, you can use the experiments in your classrooms to inspire your students and show the &#039;Live Physics&#039;</li>  \t<li>You will understand how the technology works</li>  </ul>  <p>  \t<strong style=\"\">How to do the course:</strong>  </p>  <ul style=\"\">  \t<li>The complete course in hands-on, full of fun and DIY (do-it-yourself)</li>  \t<li>You do not need to have any prior knowledge in electronics</li>  \t<li>You would need to buy components/spares; we have included the shopping list</li>  \t<li>You should use our high quality videos to learn theory and build circuits</li>  \t<li>To get into more theory, you can download our beautifully designed Book-1 (Electronic series)</li>  \t<li>If you have any problems, you can refer the step-by-step visual instructions (pdfs) to assemble the circuits</li>  </ul>", 
+    "end_date": null, 
+    "title": "Learn Hands-on Electronics Step-By-Step: Level-1", 
+    "price": "40.00", 
+    "instructors": "CoolJunk Technologies", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/362034_7495_2.jpg", 
+    "course_url": "https://www.udemy.com/cooljunk-electronics-level-1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-03T05:38:30Z"
+}

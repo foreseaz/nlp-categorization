@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In order to optimize a web or mobile application, or to assist with the sizing of the infrastructure required for it to function properly, we need to prepare and execute load simulations using the proper tools.</p><p>That’s what performance testing is about. In this course you will learn the basics of performance testing using today’s most popular tools while following a widely-used methodology. For this aim, we use JMeter (the most popular open-source load simulation tool) and BlazeMeter (the most used cloud-based load simulation solution) together.</p><p>In this course, you will start from the very beginning, learning the basics and by the end, you will be able to come up with a load execution, simulating concurrent users from different countries, who access with different bandwidths, with different test data, verifying the response times and resource consumption of a real e-commerce application (a very common, real-world example of the use of a load test).</p><p>✓ Introduction to Performance Testing Concepts<br>✓ Automation and preparation of load tests in JMeter<br>✓ Execution in BlazeMeter</p><p>The main concepts of the course are taught via a series of videos and texts. Most of the videos include demos and examples using the tools. A highly practical course, all the lessons require the student to try the tools and accomplish challenges and tasks. </p>", 
+    "end_date": null, 
+    "title": "Performance Testing Course with JMeter and Blazemeter", 
+    "price": "50.00", 
+    "instructors": "Federico Toledo, Lucia Lavagna, Leticia Almeida", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/801952_b019_4.jpg", 
+    "course_url": "https://www.udemy.com/performance-testing-course-with-jmeter-and-blazemeter/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-23T14:38:51Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Tym kursem chcemy Ci pomóc przygotować się do zdawania egzaminów ścieżki MCSA SQL Server, tj. </p><ol><li>70-461 Querying Microsoft SQL Server 2012</li><li>70-462 Administering Microsoft SQL Server 2012 Databases</li><li>70-463 Implementing a Data Warehouse with Microsoft SQL Server 2012</li></ol><p>... ale od czegoś trzeba zacząć. Dlatego w tym pierwszym kursie z serii pokazujemy podstawy wymagane na kolejnych kursach o SQL:</p><ul><li>Jak zainstalować SQL Server (aby było na czym ćwiczyć)</li><li>Jak zainstalować przykładową bazę danych AdventureWorks</li><li>Jak używać SQL Server Management Studio</li><li>Jak utrzymywać skrypty</li><li>Co wyróżnia relacyjne bazy danych</li><li>Jak korzystać i konfigurować help</li><li>Jak używać SQL Server Configuration Manager</li><li>Jakie mamy systemowe bazy danych i jakie jest ich główne zastosowanie</li><li>Co to jest Azure SQL Database</li><li><span></span></li></ul>", 
+    "end_date": null, 
+    "title": "SQL Server wprowadzenie. Instalacja narzędzia. Exam 70-461", 
+    "price": "20.00", 
+    "instructors": "Rafał Kraik", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/714476_722f_3.jpg", 
+    "course_url": "https://www.udemy.com/wprowadzenie-do-sql-instalacja-i-narzedzi-egzamin-70-461_1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-03T15:39:49Z"
+}

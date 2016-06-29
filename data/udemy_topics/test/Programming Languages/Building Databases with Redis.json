@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Redis has been used as a supportive database management system for years, although it is capable of being used as a type of main storage managing data consistency and high-load resilience. It is a simple-to-use database management system with transparent data structures and commands that predict queries, and extremely fast execution time.</p><p>This video course is a great way to get acquainted with the Redis database. Take a journey from simple data architectures presented with key-value storage of strings to other topics including hash maps, lists, sets, and more. You will become familiar with a broad range of Redis commands, ways to configure and secure Redis servers, and learn how to scale your databases horizontally and vertically. Finally, you will understand how to set up reliable clusters, administrate them, and add your own commands to Redis using the Lua programming language.</p><p>By the end of the course, you will know how to make use of all of Redis&#039; features, from programming to administrative features, allowing you to design production-ready storage.</p><p><strong style=\"\">About the Author</strong></p><p><strong style=\"\">Rostyslav Dzinko</strong> is a software architect who has been working in the software development industry for more than 7 years. Rostyslav has been using Redis for years either as a main or a supportive type of storage used to build high-responsive networks and web services. Rostyslav uses Redis DBMS daily, and has been successfully using it in production for more than four years, building broad range of software. Rostyslav has a master&#039;s degree in Systems Engineering and is currently doing a PhD.</p><p>I would like to give many thanks to my beautiful wife for her patience and support in this journey of bringing the course to life, knowing about my passion to sharing information and teaching people. I would also like to thank my parents for supporting me in my life with software development, and especially my father who was the first to introduce me to programming. This video course would just not be possible without all of them. And the last person I would like to mention is my friend and colleague Dmitry Firsov, whom I would also like to thank for our interesting chats and discussions on Redis administration topics. Thank you all. </p>", 
+    "end_date": null, 
+    "title": "Building Databases with Redis ", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/507962_3eb2_2.jpg", 
+    "course_url": "https://www.udemy.com/building-databases-with-redis/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-21T09:34:33Z"
+}

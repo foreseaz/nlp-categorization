@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is still under development, you can get its Early Access Version (EAV)</p>\n\n\n\n\n\n\n\n<h4></h4><h4>WHAT'S IN THE COURSE?</h4>\n\n\n\n<ol><li>Step by step introduction in Java TDD</li><li>Real application development</li><li>Agile / SCRUM user stories</li><li>Example of a simple feature implementation with TDD</li><li>Example of a complex feature implementation with TDD</li><li>Example of a change request implementation &amp; bug fixes with TDD <strong>[Still under development]</strong></li></ol>\n\n\n\n<h4></h4><h4>COURSE REQUIREMENTS</h4>\n\n\n\n<ol><li>Installed Java (JDK 8 or higher)</li><li>Installed Intellij IDEA (Eclipse or NetBeans as alternatives)</li><li>Experience with Java (more than 6 months)</li></ol>\n\n\n\n<h4></h4><h4>TARGET AUDIENCE</h4>\n\n\n\n<ol><li>Junior Java developers</li><li>Middle Java developers</li><li>Senior Java developers (just if you want to recall and summarise some TDD things)</li></ol>", 
+    "end_date": null, 
+    "title": "Java TDD step by step", 
+    "price": "35.00", 
+    "instructors": "Alex Zvolinskiy", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/716916_42d1.jpg", 
+    "course_url": "https://www.udemy.com/java-tdd-step-by-step/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-05T11:51:02Z"
+}

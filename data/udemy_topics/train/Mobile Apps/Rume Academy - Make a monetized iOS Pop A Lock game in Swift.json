@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Do you want to become a cash earning game developer in just under 60 minutes?</p><p>Then you have come to the right course.</p><p>We are here to teach you how to easily build your first game. </p><p>It will be called Pop A Lock and it comes with integrated ads so you can earn real money.</p><p>The full source code is included for each lesson and of course for the finished project!</p><p>In these 60 minutes of Swift 2 you will learn:</p><ol><li>How to use SpriteKit </li><li>Create a game flow, save game states and use a protocol to communicate them </li><li>Use iAd to monetize the final product so you can earn real money with your game!</li><li>Implement a screenshot sharing function to help your app gain popularity on social media</li></ol><p>This course is a great way for anybody to get started with Swift 2 and Sprite Kit development because the entire course will take under 60 minutes to be finished.</p><p>So take this course, make your first fully monetized game, submit it to the app store and become a cash earning developer today. </p><p>We hope to see you in the course!</p>", 
+    "end_date": null, 
+    "title": "Rume Academy - Make a monetized iOS Pop A Lock game in Swift", 
+    "price": "20.00", 
+    "instructors": "Johannes Ruof, Timothy Meixner", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/623618_23d2.jpg", 
+    "course_url": "https://www.udemy.com/60-minutes-of-swift-2-make-a-monetized-ios-pop-a-lock-game/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-27T09:40:09Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>\n\t  Adobe Flash ActionScript3 (AS3) Başlangıç Eğitimi, Adobe Flash ile ilgili çalışmalar yapan ancak Action Script ile henüz tanışmamış kullanıcılara yönelik temel programlama bilgileri içermektedir. Bu eğitimi alan kişiler ActionScript 3 ile ilgili temel bilgileri almanın yanı sıra XML gibi uygulamalarda ihtiyaç duyabilecekleri ek bileşenler ile ilgili de bilgi sahibi olacaklardır.\n</p>", 
+    "end_date": null, 
+    "title": "Adobe Flash ActionScript 3 Başlangıç Eğitimi", 
+    "price": 0, 
+    "instructors": "Orcun Madran", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/204960_8e22_2.jpg", 
+    "course_url": "https://www.udemy.com/adobe-flash-actionscript-3-baslangic-egitimi/", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-25T07:33:43Z"
+}

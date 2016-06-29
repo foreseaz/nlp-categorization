@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>JavaScript is known as a lightweight scripting programming language used to create interactivity on a webpage.</p><p>It works with HTML and CSS hence it helps to have a basic knowledge of HTML and CSS before learning JavaScript.<br>JavaScript creates the interaction on websites. For example when a visitor goes to a website to complete and submit a form or clicks on a button to <br>perform an action.</p>\n\n<p>All you need to start learning JavaScript is plain text editor.  You can place JavaScript inside an HTML document using a script tag &lt;script&gt;  &lt;/script&gt; or <br>reference it from an external file.</p>\n\n<p>JavaScript is the most popular front end programming language in the world today used to create visible interaction on all websites.<br>It is used in a variety of places  for example in web development,game development,statistical presentation and more. If you want to be web developer or programmer <br>learning JavaScript is a must.</p>\n\n<p>This is a beginners course that will teach you the basics from the syntax to creating arrays. What you will learn includes :</p>\n\n<ul><li>Syntax ( How to write JavaScript)</li><li>Best place for  JavaScript in HTML document</li><li>Data Types</li><li>Operators</li><li>Variables</li><li>Arrays</li><li>Conditional statements</li><li>Functions</li><li>Changing webpage content</li><li>Using Comments</li><li>Events</li></ul>\n\n<p>This course has been designed for the absolute beginner to JavaScript . It is video based and at a pace which is easy enough to follow.</p>\n\n<p>I look forward to seeing you on the course.</p>\n\n<p>Thank You</p>", 
+    "end_date": null, 
+    "title": "Learn JavaScript from scratch and create interactivity ", 
+    "price": "20.00", 
+    "instructors": "Skill Tree", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/802224_e2b8_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-javascript-from-scratch-and-create-interactivity/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-23T20:42:28Z"
+}

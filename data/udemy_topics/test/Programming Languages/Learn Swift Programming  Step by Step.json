@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    Swift is one of the fastest growing programming language and is now the most preferred technology for iOS and Mac Development. We at Eduonix have crafted a course to meet the growing demand of Quality Swift Programming for both beginners and Intermediate developers. Our course focuses on the practical use of concepts inherent to Swift programming so even a beginner can start using the language for App Development  </p>  <p>  \t    Our Course Focuses on the following  </p>  <p>  \t<strong style=\"\">    Swift Programming Environment </strong>- Learn what is new in Swift and how is it different from other programming languages such as C , C++ or Objective C .  </p>  <p>  \t<strong style=\"\">    Use of Xcode for Swift Programming </strong> - Learn to use Xcode for Swift programming and learn new concepts such as playground  </p>  <p>  \t<strong style=\"\">    Swift Basic Know How</strong> - Learn the basic syntax of Swift using live practical examples. Master Concepts such as  Tuples, Optionals and Assertions.  </p>  <p>  \t<strong style=\"\">    Swift Operators </strong>- Learn to use various operators for manipulating standard and non standard data types.  </p>  <p>  \t<strong style=\"\">    Swift Strings </strong>- Learn to manipulate Strings and Characters in your programs. Learn all about unicodes.  </p>  <p>  \t<strong style=\"\">    Swift Control Flow </strong>- Swift Control Flow sections deals with iterators and conditionals. Learn to use loops in your Swift Programs  </p>  <p>  \t<strong style=\"\">    Swift Functions </strong>- Divided into two sections these topics will cover the use of functions and parameters. Also learn about enumerations and Closures  </p>  <p>  \t<strong style=\"\">    Swift Data Structures</strong> - Learn to use collections and dictionaries in your programs.  </p>  <p>  \t<strong style=\"\">    Object Oriented Programming </strong>- Learn complete object oriented programming using Swift. *******COMING SOON*************  </p>  <p>  \t     The conceptual focus and practical teaching technique will make you love this course and help you be an elegant Swift programmer  </p>", 
+    "end_date": null, 
+    "title": "Learn Swift Programming  Step by Step", 
+    "price": 0, 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/270818_a87c_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-swift-programming-step-by-step/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-29T06:42:15Z"
+}

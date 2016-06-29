@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>In this course, students will explore the vast world that is digital signal processing. Led by instructor Jake Bailey, MSME (Adjunct Faculty, CSU Fullerton), students will undertake lessons in fundamentals such as discrete mathematics, signal and system representations, discrete Fourier and z-transforms, transfer functions and poles and zeros, and many others. All of these concepts are reinforced by example and practice using the MATLAB computational software package. </p><p> <br> After acclimating with the language and methods of DSP, students will then be ushered through a variety of interesting and practical real-world applications, including filter design, audio signal processing, and image processing. All of these examples are shown with the MATLAB software package, for which the M-Files are available to students who purchase the course. </p>", 
+    "end_date": null, 
+    "title": "Digital Signal Processing with MATLAB ", 
+    "price": "30.00", 
+    "instructors": "Coursovie Training Inc.", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/600508_f83e_4.jpg", 
+    "course_url": "https://www.udemy.com/digital-signal-processing-with-matlab/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-02T15:22:33Z"
+}

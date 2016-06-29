@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>¿Quieres formarte como <strong style=\"\">desarrollador PHP</strong>? Tanto si partes desde 0 como si ya has tenido una toma de contacto con el lenguaje, el <strong style=\"\">Master PHP</strong> te ofrece una formación estructurada y práctica con ejemplos reales mediante los cuales aprenderás a trabjar con <strong style=\"\">PHP</strong>.</p><p>Paso a paso, te enseñaré a implementar contenidos de forma dinámica en páginas html, desarrollar scripts propios para carritos de la compra, pasando por la <strong style=\"\">programación orientada a objetos en PHP</strong> y técnicas para el <strong style=\"\">debug</strong>.<br style=\"\"></p><p>A lo largo del curso, te mostraré en video de forma didáctica  como debes trabajar e implementar esta tecnología. Para que no te pierdas, hemos diseñado un curso que aumenta su nivel de forma progresiva:</p><ul style=\"\"><li>Fundamentos de PHP</li><li>Implementación del lenguaje</li><li>Solución de errores (SEO, integración con HTML, CSS, MySQL...)</li><li>Creación de scripts (carrito de la compra)</li><li>P.O.O.</li><li>Debugging</li></ul><p>Mi nombre es <strong style=\"\">David Piqué</strong> y llevo más de 10 años desarrollando proyectos de forma profesional así como impartiendo cursos. PHP es un lenguaje muy potente y gratuito que puede llevar tus proyectos en la web al siguiente nivel, si est´s determinado a aprender de una vez por todas <strong style=\"\">PHP</strong>, te invito a formar parte de este curso, en el que yo mismo te ayudaré a superar cualquiera de los capítulos. <br style=\"\"></p><p><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Máster PHP ¡Dinamismo web al alcance de todos!", 
+    "price": "20.00", 
+    "instructors": "David Piqué Garcia", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/462828_1bc7_2.jpg", 
+    "course_url": "https://www.udemy.com/curso-php/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-30T10:01:44Z"
+}

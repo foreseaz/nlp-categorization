@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">Auto PO means creation of Purchase Order Automatically in SAP while doing the Goods Receipt. Business Requirement is the possibility of receiving the materials for which there is no purchase order in the system.</p><p style=\"\">This course consists of detailed presentation along with the Live Videos demonstration of the course content.</p><p style=\"\">Anyone who wants to understand the concept of automatic purchase order creation in SAP, he should opt for this course.</p>", 
+    "end_date": null, 
+    "title": "Learn Automatic Purchase Order Creation in SAP", 
+    "price": "20.00", 
+    "instructors": "Sumit Jain", 
+    "commitment": "31 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/480140_e2ea_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-automatic-purchase-order-creation-in-sap/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-19T04:49:45Z"
+}

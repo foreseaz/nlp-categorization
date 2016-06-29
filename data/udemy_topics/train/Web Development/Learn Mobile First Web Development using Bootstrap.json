@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">This course will help you make an amazing front-end responsive webpage. Bootstrap is very easy to learn and use, its responsive features allows you to build with mobile-first approach and design which is compatible with all browsers, devices (mobile, tablets, etc). By the end of the course, you will build an entire front end of the website, which you can use. The html files are made downloadable for you to have a look. But first try it yourself.</p><p style=\"\">Why take this course?</p><p style=\"\">Bootstrap is an open source front-end framework for creating websites and web applications. Originally named Twitter Blueprint, was developed by Mark Otto and Jacob Thornton at Twitter and many developers at Twitter. It makes use of HTML, CSS as well as optional JavaScript extensions. Bootstrap consists other commonly used interface elements, like buttons, labels and more. It also contains several JavaScript components in the form of JQuery plugins. Compatible with all browsers and devices like mobile, desktop, tablets. Bootstrap can be used by graphic designers, Entrepreneurs, Employees, coders, web developers, students and anyone interested in making a website quick and easy.</p><p style=\"\">How much time does it take to complete the course?</p><p style=\"\">This course contains of 32 lectures. These are 3 hours of video tutorials.</p><p style=\"\">What am I going to get from this course?</p><p style=\"\">Lifetime access to the course</p><p style=\"\">Downloadable project HTML files</p><p style=\"\">Create a fully functional and responsive front-end of a website.</p><p style=\"\">Technical Support</p><p style=\"\">Course Outline:</p><p style=\"\">1. Introduction to Bootstrap</p><p style=\"\">2. Basic concepts to get started</p><p style=\"\">3. Navigation Bar</p><p style=\"\">4. Carousel (commonly known as slider)</p><p style=\"\">5. Coding feature sections</p><p style=\"\">6. Creating About Us section</p><p style=\"\">7. Creating panels, list groups, alerts and well</p><p style=\"\">8. Creating parallax scrolling effect</p><p style=\"\">9. Creating media and tab panels</p><p style=\"\">10. Creating a sign up section</p><p style=\"\">11. Creating footer</p><p style=\"\">12. Creating blog for the website</p><p style=\"\">13. Creating tooltip</p><p style=\"\">14. Creating popover</p><p style=\"\">What are the software and other requirements for the course?</p><p style=\"\">A computer, basic text editor (used Sublime in the course), and having very basic knowledge of HTML and CSS.</p>", 
+    "end_date": null, 
+    "title": "Learn Mobile First Web Development using Bootstrap", 
+    "price": "20.00", 
+    "instructors": "Yoda Learning", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/508022_6d14.jpg", 
+    "course_url": "https://www.udemy.com/learn-mobile-web-development-bootstrap/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-21T11:40:18Z"
+}

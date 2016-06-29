@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>An introductory but fairly comprehensive set of java tutorials for  beginners  on Java programming using the eclipse Integrated Development Environment (IDE).  I will cover all the basics of Java programming, starting with the Java Virtual  Machine and variables all the way to Java Generics and some of the Collection  classes such as ArrayList and HashMap.</p><p>This is a good java online training for people new to programming who like to  learn by doing.</p><p>The second chapter, on the eclipse IDE, can safely be skipped until  after taking the whole course. So absolute beginners can get started with this java tutorials for  beginners.</p><p>            </p><p>I welcome all suggestions on how I can make this a better java online training  course.</p>  ", 
+    "end_date": null, 
+    "title": "Java Programming using Eclipse: An Introduction", 
+    "price": "20.00", 
+    "instructors": "Jose Vidal", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/18276_0a6a_12.jpg", 
+    "course_url": "https://www.udemy.com/programming-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-05-21T20:29:58Z"
+}

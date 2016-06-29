@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course allows general public to efficiently create a virtual desktop to experiment with new operating systems, or safely try and test new software in an isolated virtual environment on a Windows or Linux PC.</p><p>Any one can benefit from these lecture to show you how you can create replica of production like environment. You can run database, application and other servers with different Operating systems from your computer. This will keep your computer clean and quick.</p><p>I have structured this course in simple language and will demo it for you software, hardware requirement, step by step installation, configuration and customization. Best part is that all of this is done with no cost.<br></p>", 
+    "end_date": null, 
+    "title": "Learn to create no cost multi-server dev environment on PC", 
+    "price": "20.00", 
+    "instructors": "Rashid Muhammad, Manager IT Arshad Arshad", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/635080_5bda_4.jpg", 
+    "course_url": "https://www.udemy.com/how-to-create-multi-server-dev-environment-for-free/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-08T17:46:38Z"
+}

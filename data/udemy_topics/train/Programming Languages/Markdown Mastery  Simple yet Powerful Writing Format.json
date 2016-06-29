@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\">Markdown Mastery: Simple Yet Powerful Writing Format</strong></p><p style=\"\">Are you looking for a writing format not encumbered by commercial, closed-format? Would you like that format to be based on plain text? However, not complex like HTML.</p><p style=\"\">In this course, students will learn about the Markdown format which is great as a source writing format for notes, outlines, blog posts, and perhaps even a novel. Academic theory, technical demos, and practical examples are all balance in this course to provide a comprehensive treatment of Markdown and its various uses.</p><p style=\"\"><strong style=\"\">Course Outline</strong></p><p style=\"\"><em style=\"\">Introduction and Setup </em>provides an introduction to this course and setup the editor used throughout the course.</p><p style=\"\">Once we understand the benefits and purpose of Markdown and have an editor ready to go, we start off with <em style=\"\">Markdown Basics</em> that covers all the core aspects of the Markdown syntax (formatting).</p><p style=\"\">With the foundations in place, we move on to extended or enhanced flavor (variations) of Markdown. These enhancements have been nearly universally adopted, they are nearly as well supported as the original core of Markdown.</p><p style=\"\">With the Markdown format primer out of the way, the course shifts from technical execution of various features of Markdown to practical examples and use-cases of Markdown in action. </p><p style=\"\"><strong style=\"\">Course Features</strong></p><p style=\"\">Presentations provide audio/video training of conceptual ideas. Since few like slide-ware presentations, slide-presentations are kept to a minimum.</p><p style=\"\">Screencasts provide a video of the instructor&#039;s computer system with any actions, commands, or screens displayed and narrated. There is nearly 1 hour of screencast based video training in order to step through each of the various aspects of this course.</p><p style=\"\"><strong style=\"\">Special Notes</strong></p><p style=\"\">The technical (formatting) parts of this course are also part of the &quot;<em style=\"\">Git Complete</em>&quot; course. However, much of this course is unique -- especially the practical examples provided.</p>", 
+    "end_date": null, 
+    "title": "Markdown Mastery: Simple yet Powerful Writing Format", 
+    "price": "20.00", 
+    "instructors": "Jason Taylor", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/515220_0dae.jpg", 
+    "course_url": "https://www.udemy.com/markdown/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-30T04:51:03Z"
+}

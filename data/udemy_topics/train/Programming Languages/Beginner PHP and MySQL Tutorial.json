@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "  <h5 style=\"\">A Verifiable Certificate of Completion is presented to all students who undertake this course.  <p style=\"\">  \t                   PHP and MySQL are incredibly powerful open source technologies that allow people to create functional websites and apps that go way beyond basic HTML. While it can seem intimidating to someone with no background in coding, working with PHP is much easier than many realize. With the right guidance and a desire to learn, most people can learn how to put together a functional web app in a few days!  </p>  <p style=\"\">  \t                   This PHP / MySQL Tutorial Video Course is narrated by Robert Tucker, a long-time trainer, lecturer and consultant who specializes in helping people learn how to use technology to solve real world problems. In this high-impact course, Robert walks users through the creation of a functional PHP / MySQL interface from beginning to end, explaining where needed the important technical points without relying on excessive jargon. This is not an overview of complex theory, but a hands-on primer that will allow even beginners to create usable solutions quickly!  </p>  <p style=\"\">  \t                   Robert shows you how to make the most from these free technologies used by everyone from small startups to the biggest technology companies in the world.  </p>  </h5>", 
+    "end_date": null, 
+    "title": "Beginner PHP and MySQL Tutorial", 
+    "price": 0, 
+    "instructors": "Infinite Skills", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/9711_452b_8.jpg", 
+    "course_url": "https://www.udemy.com/php-mysql-tutorial/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2011-09-16T03:23:49Z"
+}

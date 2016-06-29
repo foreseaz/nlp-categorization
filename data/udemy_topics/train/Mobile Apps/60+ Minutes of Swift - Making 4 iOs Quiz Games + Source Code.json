@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Learn how to make 4 different Quiz Games with Swift.</p><p style=\"\">In this course we will teach you how to build 4 quiz games from scratch, we&#039;ll start by setting up our project in XCode and then write the code step by step, explaining it along the way.</p><p style=\"\">Quiz games are one of the most popular apps in itunes and are great for everybody that is starting with iOs app development. Apart from a regular multiple choice quiz games that we all know and love, we will teach you how to create three other quiz game variations.</p><p style=\"\">All of the games&#039; source codes are included and available for download.</p><p style=\"\">You can download all of the project files (source codes) and reskin them very easily by adjusting a few settings.</p><p style=\"\">A Multiple Choice Quiz, in which the user can choose between 4 possible answers.</p><p style=\"\">An Image Quiz, in which the user is shown an image and can then select between 4 different answers.</p><p style=\"\">A Right Or Wrong Quiz, in which the user can decide whether a statement is right or wrong.</p><p style=\"\">A Single Choice Quiz, in which the user is asked a question, that he needs to answer by entering the correct answer into a customized textfield.</p>", 
+    "end_date": null, 
+    "title": "60+ Minutes of Swift - Making 4 iOs Quiz Games + Source Code", 
+    "price": "20.00", 
+    "instructors": "Timothy Meixner, Johannes Ruof", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/608994_bdce.jpg", 
+    "course_url": "https://www.udemy.com/60-minutes-of-swift-making-4-ios-quiz-games/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-11T10:52:49Z"
+}

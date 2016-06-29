@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    A data product is the production output from a statistical analysis. Data products automate complex analysis tasks or use technology to expand the utility of a data informed model, algorithm or inference. This course covers the basics of creating data products using Shiny, R packages, and interactive graphics. The course will focus on the statistical fundamentals of creating a data product that can be used to tell a story about data to a mass audience.\n\n                                            Syllabus\n                        Week 1: Shiny and rChartsThis week we'll cover Shiny, Rcharts and googleVis. Week 2This week, we will cover presenting data analysis, slidify and Rstudio presenter.Week 3This week, we'll go over R Packages, R Classes, and yhat.Course ProjectWeek 4 is all about the Course Project, producing a Shiny Application and reproducible pitch.\n                                    ", 
+    "end_date": "2016-07-18T00:00:00Z", 
+    "title": "Developing Data Products", 
+    "price": 0, 
+    "instructors": "Brian Caffo", 
+    "institution_name": [
+        "Johns Hopkins University"
+    ], 
+    "commitment": "4-9 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/learn/data-products", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-20T00:00:00Z"
+}

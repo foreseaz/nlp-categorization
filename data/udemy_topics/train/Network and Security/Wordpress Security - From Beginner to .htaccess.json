@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Watch the above promo video now to see <strong>real world attempted password guessing attacks </strong>on a Wordpress website, and how it was blocked.</p><p>Learn the strategies that you'll need to secure, protect and monitor your own or your client's Wordpress website.<br></p><p>Implement the steps taught in this course and you will avoid a stressful and usually lengthy website recovery process and potentially lost revenue that is associated with a successful website attack or accidental content loss caused by a site administrator.</p><p>Wordpress is popular platform for running a website and powers thousands of sites around the world.  It's popularity has also made it a target for both human and scripted attacks.  Your Wordpress website is likely under a daily barrage of attacks from brute force password guessing to endless comment spam.  The promo video above showed the global nature of password guessing attacks as an example.</p><p>In a recent test Wordpress website I created as a \"honeypot\" the site had received two spam comments within the first 24 hours of going live on the Internet.  After following the strategies and steps in this course all subsequent attacks and comment spam were successfully blocked.</p><p>As a Wordpress site owner and operator you want to focus on creating content for your visitors - that why you setup a website in the first place, right?  But securing your Wordpress website can fall by the wayside for a number of reasons:</p><ul><li>You're unsure where to start on securing Wordpress</li><li>You feel Wordpress security is complex and takes a long time to setup</li><li>You may be concerned that implementing security may break your site</li><li>You're searching for a structured, step-by-step course on Wordpress security that is easy to follow.</li></ul><p>If you can relate to any of the above then this is the ideal course for you.<br></p><p><strong>Content and Overview</strong></p><p>Suitable for beginner and intermediate Wordpress site owners and operators, you'll learn the strategies in a step-by-step approach to secure your Wordpress website.  Quizzes and recaps used throughout this course will help reinforce your learning experience.</p><p>Starting with the analogy that Wordpress security is like an onion, you will implement layers of security on your site such that each layer builds on the previous one.  An attack on one layer of security should not compromise the integrity of your website.</p><p>The course will then take you through several layers of security steps including:</p><ul><li>Prepare a secure Wordpress installation package</li><li>Perform critical post installation cleanup tasks</li><li>Harden Wordpress and install one of the best security plugins available today</li><li>Understand Wordpress user roles and the concept of Role Based Access Control (RBAC)</li><li>Unlock the power of the .htaccess configuration file that I have developed and tested for students of this course.</li><li>Master how to backup and recover your Wordpress website.</li></ul><p>By the end of this course, you'll have valuable skills that will help you create a secure and robust Wordpress website.<br></p><p>You'll also receive <strong>bonus resources</strong> including downloadable .htaccess template files and printable quick reference security checklists.</p><p>Take this course now and if at any point in the next 30 days you don't believe that you can improve the security of your Wordpress website using the material in this course, then simply ask for a no quibble refund.</p><p>Just scroll to the top of this page and click on the button that says 'Take this course'.  I look forward to welcoming you on the inside.</p>", 
+    "end_date": null, 
+    "title": "Wordpress Security - From Beginner to .htaccess", 
+    "price": "20.00", 
+    "instructors": "David Wyatt", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/643092_caf7_3.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-security-from-beginner-to-htaccess/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-17T04:45:34Z"
+}

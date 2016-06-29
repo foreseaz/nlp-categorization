@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Finding the perfect balance between visual layout and coding has been a nightmare for developers, a problem which AngularJS deals with so well that in just a brief time since inception, it has become a favorite of developers all around the world. It has rightfully earned the tag of being a ‘Superheroic’ framework thanks to the diverse range of features it provides, and also as it helps the developers to build powerful applications without compromising on the visual aspects. Along with being a fully-featured package, it also presents an outstanding ability to be tested, which further helps to manage the applications and keeps them up and running!</p><p>Learning AngularJS Testing will help you to understand the different aspects involved in testing components, such as controllers and directives, with the help of a practical pizza ordering application right from the start, all the way to the end!</p><p>We’ll start by constructing a project structure of our app, before installing and initializing various helpful tools such as Karma, Jasmine, and Grunt. We will create controllers for ordering the pizza, reviewing the order and test them be it with or without any dependencies. Not only that, but we will also go through testing the navigation between two controllers with the help of End2End testing. After that, we will create accordion directives for our application, unit test them, and resolve the errors if these tests fail. Furthermore, we will modify our services to use the $resource module and help them interact with REST API web services, as well as unit test them with the help of mocks and spies. Finally, we will create and test directives and controllers which fetch information from the service and display it.</p><p>At the end of the course, you’ll be familiar with the various approaches involved in testing AngularJS code and will be able to implement them to develop bug-free and maintainable applications.</p><p><strong>About The Author</strong></p><p><strong>Rudolf Olah</strong> is a fullstack web developer who runs the Learning AngularJS newsletter and currently works with Python/Django, and NodeJS and JavaScript. In the past he has written for Linuxcom and writes about open source on the SourceContribute blog. He is a professional member of the ACM (Association of Computing Machinery) and has used all sorts of programming languages from C/C++ to Java to Ruby to Lisp and Smalltalk.<br></p>", 
+    "end_date": null, 
+    "title": "Learning AngularJS Testing", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/709376_fccc_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-angularjs-testing/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-29T07:04:09Z"
+}

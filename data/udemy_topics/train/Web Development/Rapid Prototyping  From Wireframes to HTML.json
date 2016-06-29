@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><p>Rapid prototyping is the process of quickly mocking-up early draft versions of a product. A good prototype keeps the complexity out! Build the most important elements into your project, and receive feedback early on.&nbsp;</p><p>First, we’ll evaluate the current state of prototyping tools: wireframing, Samantha Warren’s Style Tiles, Keynotopia, and what I call “sketching with code”. Wait, so you’re saying you can create prototypes right in HTML? You betcha.&nbsp;</p><p>In the second half we’ll use Twitter Bootstrap to rapidly develop our own HTML/CSS prototype. We’ll get familiar with the fundamentals, the scaffolding, and other Twitter Bootstrap elements. In addition, we’ll also incorporate a variety of external assets for images and typography that will broaden our prototyping toolkit.&nbsp;</p>&lt;/p&gt;", 
+    "end_date": null, 
+    "title": "Rapid Prototyping: From Wireframes to HTML", 
+    "price": 0, 
+    "instructors": "General Assembly", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/34135_9ec5_4.jpg", 
+    "course_url": "https://www.udemy.com/rapid-prototyping-from-wireframes-to-html/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-01-02T15:53:06Z"
+}

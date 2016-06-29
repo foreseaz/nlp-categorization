@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Are you a car enthusiast? Have you ever wanted to create cinematic car chase scenes? Are you an excellent 3D artist, but don&#039;t know how to make your cars drive and come alive? If this is you then you are in the right place.</p><p>I would like to welcome you to this Advanced Car Rigging course, where you will learn everything you need to know about rigging your own cars. Don&#039;t worry the title may say “Advanced” but if you know how to navigate the 3ds max interface then you can follow along easily.</p><p>Though out this course we will go step by step takeing a look at implementing the following features in to our car rig.</p><ul style=\"\"><li>Creating the Hierarchy</li><li>Creating Drift Control</li><li>Creating Roll Control</li><li>Creating Suspension</li><li>Creating Wheel Rotation</li><li>Creating Tyre Squash</li><li>Adding Animation</li><li>Adding Automated Steering</li><li>Adding Automatic Wheel Rotation when the car moves</li><li>Making the car follow a pre-defined path</li></ul><p>So Please fasten your seat belts and get ready to take your first lesson.</p>", 
+    "end_date": null, 
+    "title": "3ds Max Advanced Car Rigging", 
+    "price": "20.00", 
+    "instructors": "Lee Kellett", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/467018_8754_3.jpg", 
+    "course_url": "https://www.udemy.com/3ds-max-advanced-car-rigging/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-03T23:17:58Z"
+}

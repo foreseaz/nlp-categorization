@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p style=\"\">  \tEn este curso estudiaremos todos los temas relacionados con el calculo diferencial multivariable, los temas a desarrollar son,  </p>  <p style=\"\">  \t1. Funciones de varias variables  </p>  <p style=\"\">  \t2. Limites de funciones de varias variables  </p>  <p style=\"\">  \t3. Derivadas parciales  </p>  <p style=\"\">  \t4. Regla de la cadena  </p>  <p style=\"\">  \t5. Diferencial total  </p>  <p style=\"\">  \t6. Derivada direccional  </p>  <p style=\"\">  \t7. Vector Gradiente  </p>  <p style=\"\">  \t8. Maximos y minimos  </p>  <p style=\"\">  \t9. Problemas de optimizaci&oacute;n  </p>  <p style=\"\">  \t10. Multiplicadores de Lagrange  </p>", 
+    "end_date": null, 
+    "title": "Derivadas Parciales", 
+    "price": "20.00", 
+    "instructors": "Carlos Zelada", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/117064_a16e_5.jpg", 
+    "course_url": "https://www.udemy.com/derivadas-parciales/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-08T16:31:57Z"
+}

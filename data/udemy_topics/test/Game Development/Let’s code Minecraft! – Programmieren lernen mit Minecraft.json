@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Holz hacken, Steine klopfen: Minecraft macht den Hausbau nicht gerade leicht, oder? Programmiere Dir einen Roboter, der Deine Aufgaben übernimmt! Tom Wendel und Patrick Kirsch helfen Dir beim Einstieg in die Programmierung und erklären ganz genau, wie Du mit der Sprache »Lua« programmierst. Folge den Beiden in die Minecraft-Welt und erfahre, wie Du einen Computer baust, mit dem Du Programme schreiben und ausführen kannst. Lerne, wie Du Roboter-Turtles steuerst, die Deine Befehle befolgen, Hindernisse überbrücken und sogar ein komplettes Haus aufbauen mitsamt Inventar.<br><br><strong>Hinweis:</strong> Du lernst in diesem Training, wie Du im Spiel eigene Roboter und Computer programmierst. Eigene Plug-ins für Minecraft werden nicht programmiert. Das ist ein Thema für Fortgeschrittene!</p>\n\n<ul><li>Programmieren und gleichzeitig Minecraft spielen – so macht Lernen Spaß!</li><li>Lerne die Programmiersprache »Lua« kennen und schreibe eigene Skripte</li><li>Steuere die Minecraft-Computer wie Deinen eigenen PC!</li></ul>\n\n\n\n\n\n\n\n<p>Tom Wendel ist Software-Entwickler und Spiele-Programmierer aus Leidenschaft. Er hat das beliebte Lernspiel »AntMe!« mitentwickelt und sich mit Vorträgen auf .NET-Fachmessen, Fachartikeln und Büchern zu innovativen Technologien einen Namen gemacht. In seinem Livecoding-Stream »Octo Awesome« programmiert er live einen Minecraft-Klon.</p>\n\n\n\n<p>Patrick Kirsch ist Programmierer und seit vielen Jahren begeisterter Minecraft-Spieler und kennt das Spiel mit allen Finessen und Geheimnissen. Zusammen mit Tom Wendel moderiert er den Livecoding-Stream »Octo Awesome«, in dem die beiden einen Minecraft-Klon live vor dem Publikum programmieren.</p>", 
+    "end_date": null, 
+    "title": "Let’s code Minecraft! – Programmieren lernen mit Minecraft", 
+    "price": "30.00", 
+    "instructors": "Rheinwerk Verlag", 
+    "commitment": "11 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/767370_3115.jpg", 
+    "course_url": "https://www.udemy.com/lets-code-minecraft-programmieren-lernen-mit-minecraft/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-19T07:42:40Z"
+}

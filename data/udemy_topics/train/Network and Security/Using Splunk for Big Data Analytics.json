@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Course : </strong>Using Splunk for Analytics</p><p><strong class=\"redactor-inline-converted\">Benefits :</strong> After completing this course you will be able to understand the basic concepts to use Splunk Enterprise for Analytics.</p>\n\n<p><strong class=\"redactor-inline-converted\">Delivery: </strong>Online</p>\n\n<p><strong class=\"redactor-inline-converted\">Agenda :</strong> Learn the fundamentals of the most poular Data Analytics technology.This power-user course will teach you to search, navigate, tag, build alerts and create simple reports with Splunk. It's recommended for anyone who needs to look at IT data - from help desk staff to systems administrators and developers.Students can learn how to create searches, create reports, create and use pivots &amp; macros.</p>\n\n<p><strong class=\"redactor-inline-converted\">Target Audience:</strong> System Administrators, Security Administrators, Security Analysts, Data Analysts</p>\n\n<p><strong class=\"redactor-inline-converted\">Pre-Requisites : </strong>Windows &amp; Linux/Unix OS Administration; Basics of TCP/IP and Networking</p>\n\n<p><strong class=\"redactor-inline-converted\">Lab Access &amp; Lab Guide :</strong> Not Included</p>", 
+    "end_date": null, 
+    "title": "Using Splunk for Big Data Analytics", 
+    "price": "20.00", 
+    "instructors": "Security Skills Hub", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/819398_d526_2.jpg", 
+    "course_url": "https://www.udemy.com/using-splunk-for-analytics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-12T03:24:50Z"
+}

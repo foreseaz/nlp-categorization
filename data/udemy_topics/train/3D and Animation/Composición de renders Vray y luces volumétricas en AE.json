@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t  Con este tutorial aprenderemos a sacar partido a After Effects para componer pases y para iluminar con luces volumétricas.  </p>  <ul>  \t<li>Por un lado vamos crear un efecto de luz volumétrica en After Effects CS6. Además, crearemos y configuraremos un texto con las nuevas opciones 3D del paquete CS6. </li>  \t<li>Por otro lado veremos como renderizar en formato EXR, incluyendo las capas por separado gracias a la opción de Render Elements propio del motor V-Ray. Se realizará un render, se importará al software After Effects CS6, y se compondrá la escena con el orden de capas adecuado para conseguir un resultado final de mucha calidad.</li>  </ul>  <p>  \t  After Effects® le permite entregar efectos visuales cinemáticos y gráficos en movimiento más rápido que nunca con la nueva caché de rendimiento global. Amplíe su creatividad con texto integrado y extrusión de formas, nuevas opciones de calado de máscaras y un rastreador de cámara en 3D rápido y fácil de usar.  </p>  <p>  \tEste curso es impartido por Daniel Bertó, dedicado a mundo del 3D desde hace más de diez años, dentro de su curriculum académico podemos destacar, un Master en Infoarquitectura, un Master en Modelado y Animación de personajes, un Master en Mudbox, así como la Carrera de Dirección de Cine Digital y efectos especiales THX. Su experiencia laboral comienza en el campo de la infoarquitectura , y posteriormente en la publicidad, los videojuegos y la dirección de un Teaser Trailer en 3D, donde dirigió un equipo de once personas y en el que coordinó los departamentos de modelado, texturizado, iluminación y render.  </p>", 
+    "end_date": null, 
+    "title": "Composición de renders Vray y luces volumétricas en AE", 
+    "price": "30.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/188796_c798.jpg", 
+    "course_url": "https://www.udemy.com/composicion-de-renders-vray-y-luces-volumetricas-en-ae/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-25T22:38:43Z"
+}

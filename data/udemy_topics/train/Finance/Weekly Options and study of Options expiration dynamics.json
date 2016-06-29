@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p><strong style=\"\">WEEKLY OPTIONS TRADING AND  OPTION EXPIRATION DYNAMICS</strong></p>    <p>The impact of time  decay on Option prices in the final week before expiry is an exciting  phenomenon. We know time decay is exponential, but how do the Greeks actually  behave during this time. This course on Trading Options at Expiration takes a deep dive using Apple (AAPL) Options Weekly series. All  Weekly Option series open for trading on Thursday morning and trade until the  following Friday. We follow an AAPL Short Straddle trade from Thursday morning  until deep into the following week. The Short Straddle is explained in detail  in this course; however, the reader may also view the Straddles and Strangles  course, to get a more complete understanding of this type of trade. The Greeks  are on steroids during the final week of an Option&#039;s life.</p>  <p>Option Greeks behave  abnormally during the final week, especially the At-The-Money Options. It  should be intuitive that these Options are experiencing an enormous amount of  uncertainty insofar as to whether they will end up in-the-money or not. What  may not be clear is how the Greeks behave during this time which ultimately  impacts Option prices.</p>  <p>Most importantly, the  lectures focus on the kinds of strategies that are ideal during the final two  weeks before expiry. Although most strategies tend to focus on the most dominant  Options characteristic during this time (Time Decay), the course also shows a  couple of very interesting, very high reward strategies with very little risk. &nbsp;</p><p><strong style=\"\">What can you expect</strong></p>  <ul style=\"\">  <li>What are Weekly Options and why are they special<br style=\"\"></li><li>What characteristics do Options have when they are very close to expiry<br style=\"\"></li><li>What kind of trades are suitable during this time<br style=\"\"></li><li>What sort of attention do you need to give to these trades<br style=\"\"></li><li>What kinds of traders are Weekly Options suitable for<br style=\"\"></li><li>What time decay strategies could work during the final week<br style=\"\"></li><li>The impact of the final weekend on Option prices<br style=\"\"></li><li>What challenges and pitfalls can you expect from Weekly Options<br style=\"\"></li><li>What role does the Greek Gamma take on during this time<br style=\"\"></li><li>And why does Vega whimper out during this time<br style=\"\"></li><li>And what about Delta and Theta - it&#039;s a total Greek-fest&nbsp;<br style=\"\"></li></ul><p><strong style=\"\"><br style=\"\"></strong><strong style=\"\">WEEKLY OPTIONS ARE VERY EXCITING TO TRADE BUT MAKE SURE THEY ARE FOR YOU !!!</strong></p>  <p>  </p>  ", 
+    "end_date": null, 
+    "title": "Weekly Options and study of Options expiration dynamics", 
+    "price": "30.00", 
+    "instructors": "Hari Swaminathan", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/45136_6cfa_6.jpg", 
+    "course_url": "https://www.udemy.com/weekly-options/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-03-08T00:47:23Z"
+}

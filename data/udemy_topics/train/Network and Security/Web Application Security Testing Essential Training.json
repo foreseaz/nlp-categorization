@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong><strong><strong><strong>This course is designed for budding all backgrounds and experience levels to start Manual web application security testing with owasp standards. The course is structured according to OWASP Top 10 from A1 to A10 vulnerabilities. In each of the OWASP Top 10 vulnerabilities each and every video have a description about attack and Example vulnerabilities and attacks plus in this course you will going to learn about lab designed to be a highly-focused on Web Application Security Testing and course free and open source deliberately insecure web application. It helps security enthusiasts  developers and students to discover and to prevent web vulnerabilities. So also perform hand on OWASP Top 10 vulnerabilities.</strong></strong></strong></strong></p>", 
+    "end_date": null, 
+    "title": "Web Application Security Testing Essential Training", 
+    "price": 0, 
+    "instructors": "Ankur Singh", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/665552_edc2.jpg", 
+    "course_url": "https://www.udemy.com/owasp-top-10-essential-training/", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-10T05:52:58Z"
+}

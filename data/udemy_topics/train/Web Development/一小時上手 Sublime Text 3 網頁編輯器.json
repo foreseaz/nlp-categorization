@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Sublime Text 3 是目前熱門的瀏覽器之一，為讓同學門不會因為它多樣化的功能而無法有系統性地學習上手，所以六角學院特別設計出適合初學者入門的線上課程，我們會將內容去蕪存菁，教編輯器裡面最常用的操作設定，讓學生們能夠在短短時間內就能夠了解它的基本操作，以及體驗它各種強大 Plugin 的插件功能。</p>", 
+    "end_date": null, 
+    "title": "一小時上手 Sublime Text 3 網頁編輯器", 
+    "price": 0, 
+    "instructors": "廖洧杰 liao, 王志誠 Wang, 六角學院 hexschool", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/812078_b04d_2.jpg", 
+    "course_url": "https://www.udemy.com/sublime-text-3/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-04T06:17:52Z"
+}

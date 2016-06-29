@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Este es un curso de <strong>QGIS</strong> para todo tipo de usuario. Cualquiera puede tener necesidad de hacer uso de un Sistema de Información Geográfica. <em>Por ejemplo: si eres vendedor y quieres saber desde qué lugares realizas más ventas, el SIG te puede ayudar</em>.</p><p>Además QGIS es un software <strong>libre y de código abierto</strong>. Cuenta con una extensa comunidad de desarrolladores, lo cual lo convierte en el SIG libre <strong>más potente</strong> del momento.</p><p>El curso empieza desde los aspectos más básicos como la propia instalación del software, el agregado de capas, su visualización y edición de estilo.</p><p>A medida que avanza el curso veremos opciones más avanzadas:</p><ul><li><strong>Geoprocesos</strong>: cortar, disolver o hacer un buffer...</li><li><strong>A</strong><strong>nálisis espacial</strong>: Búsquedas, álgebra de mapas...</li></ul><p>Todo ello complementado con el manejo de las capas vectoriales y raster. Crearemos un mapa de pendientes, convertiremos una capa vectorial a raster, reclassificaremos una capa raster, y finalmente generaremos un mapa producto del cruce de otros dos con la calculadora de mapas.</p><p>Y si tienes sugerencias, no dudes en compartirlas para enriquecer el curso con nuevas clases.</p>", 
+    "end_date": null, 
+    "title": "Aprende QGIS desde cero. Un SIG de código libre.", 
+    "price": "30.00", 
+    "instructors": "Carles Fernández", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/650734_80b5.jpg", 
+    "course_url": "https://www.udemy.com/aprende-qgis-desde-cero-un-sig-de-codigo-libre/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-26T00:22:15Z"
+}

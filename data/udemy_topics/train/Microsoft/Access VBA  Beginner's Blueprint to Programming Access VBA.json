@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p><strong></strong><strong>Choose Access VBA when simple tables,  forms, or reports  just won't do. ..<br>When Macros aren't quite enough. ..<br>And when creating your own applications from scratch is overkill. ..</strong></p><p><br></p><p>Are you experienced with Access, but not with VBA programming?</p><p>This course introduces VBA programming concepts with easy to follow examples, and lessons.</p><p>-----------------------------------------------------------------------------------<br></p><p>First, you will learn the difference between Macros and VBA, and create a simple Macro.<br></p><p>Then you will get familiar with the Visual Basic Editor, your home for programming Access, and basic concepts of Visual Basic for Applications.</p><p>During this course you will learn VBA concepts that you can apply to your job, and add functionality to your Access databases:</p><ul><li><strong><em>Get comfortable with the Visual Basic Editor (VBE)<br></em></strong></li><li><strong><em>Learn the essentials of writing VBA code<br></em></strong></li><li><strong><em>Learn about the powerful DoCmd object</em></strong></li><li><strong><em>Create branching decision structures<br></em></strong></li><li><strong><em>Create user interactions forms, like message boxes, and input boxes<br></em></strong></li><li><strong><em>DAO recordsets</em></strong></li><li><strong><em>Debug your code, and handle errors</em></strong></li></ul><p>-----------------------------------------------------------------------------------<br></p><p><strong><em>What to know before you enroll:</em></strong><br></p><p>You will have<strong> unlimited, lifetime access</strong> to the course!</p><p>You will have <strong>instant, and free access to any updates</strong> I add to the course.</p><p>Don't forget, you are covered by a <strong>30 day money back guarantee.</strong></p><p>-----------------------------------------------------------------------------------<br></p><p>Get started programming VBA for your Access databases today.<br></p>", 
+    "end_date": null, 
+    "title": "Access VBA: Beginner's Blueprint to Programming Access VBA", 
+    "price": "35.00", 
+    "instructors": "IsáBel Harrison", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/654086_ce2d_6.jpg", 
+    "course_url": "https://www.udemy.com/access-vba/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-29T03:12:19Z"
+}

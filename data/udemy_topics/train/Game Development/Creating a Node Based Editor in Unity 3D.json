@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Game development requires the involvement of many different types of disciplines and people to complete. Often times the Game engine or software used to make the game, is very technical making it difficult for some disciplines to work efficiently in. This is where the creation of artist / designer tools come into play. As a unity developer, learning how to create Visual Editor Tools for artists and designers is crucial to the productivity of your game development production.</p><p style=\"\">This course will guide you through the process of developing your first visual node based editor that can be used for any sort of game development task. It will give you the underlying knowledge of saving out your nodes data, giving the user the ability to connect nodes, create nodes, and delete nodes. By the end of this course you will have a fully functional node based editor that you can extend to meet the needs of your game development project.</p>", 
+    "end_date": null, 
+    "title": "Creating a Node Based Editor in Unity 3D", 
+    "price": "20.00", 
+    "instructors": "Gametutor :-)", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/523594_9831_3.jpg", 
+    "course_url": "https://www.udemy.com/creating-a-node-based-editor-in-unity-3d/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-08T20:13:11Z"
+}

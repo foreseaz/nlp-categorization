@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t En este curso de introducción de Unity comenzaremos aprendiendo a movernos por la interfaz y por las escenas. Aprenderemos los principios del Game Objects y componentes. También aprenderemos los principios del scripting y las bases del movimiento en Unity.  </p>  <p>  \tUnity es un motor de videojuego multiplataforma creado por Unity Technologies. Está disponible como plataforma de desarrollo para Windows y OS X, y permite crear juegos para Windows, OS X, Linux, Xbox 360, PlayStation 3, Wii, Wii U, iPad, iPhone y Android. Gracias al Plug-In Web de Unity, también se pueden desarrollar juegos de navegador, para Windows y Mac.  </p>  <p>  \tEste curso es impartido por David Fernández, desarrollador nominado en diversos festivales como IndieCade, AMAZE Festival y HóPLAY. Además es creador de destacados videojuegos para iOS como Road to Mudness, Kamigo:Theatre of skies y Loop Raccord, con más de 300.000 descargas.  </p>  <p>  \tEn este curso cubriremos los siguientes temas:  </p>  <ul>  \t<li>Iniciación a Unity</li>  \t<li>Gameobjects</li>  \t<li>Scrpting básico</li>  \t<li>Eventos</li>  \t<li>Movimiento básico</li>  \t<li>Clase Input</li>  \t<li>Físicas en Unity</li>  \t<li>Introducción e importación de los recursos</li>  \t<li>Prefabs</li>  \t<li>Escenas y publicación</li>  </ul>", 
+    "end_date": null, 
+    "title": "Introducción a Unity", 
+    "price": "20.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/173734_d39f.jpg", 
+    "course_url": "https://www.udemy.com/introduccion-a-unity/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-27T09:35:56Z"
+}

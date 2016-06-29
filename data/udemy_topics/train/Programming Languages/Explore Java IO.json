@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Java Input Output manipulations are essential in Java daily programming tasks. No matters what kind of Java applications you are working on, dealing with Java IO is almost inevitable.</p><p style=\"\">People usually get frustrated with Java IO since there are so many classes in Java Platform that they can use to work with files in particular and in IO in general. That&#039;s because we do not understand which classes should be used for which tasks.</p><p style=\"\">This course is designed to help you to get rid of the frustration by demonstrating from very basic but crucial concepts such as what is file? what is path? Different path types? what is file encoding? Differences between ASCII and Unicode?, and so on. to advanced techniques required for high performance IO operations such as buffers, channels, flipping, clearing buffers, scattering read, and gathering write.</p><p style=\"\">Each complicated concept is clearly explained step by step with code as well as visual representation so that you can catch up with the ideas.</p><p style=\"\">The course is divided into 2 main sections:</p><p style=\"\">The first section will discuss about <strong style=\"\">Stream </strong>model:</p><ul style=\"\"><li style=\"\">Random access files withe RandomAccessFile</li><li style=\"\">Binary Streams with FileInputStream/FileOutputStream</li><li style=\"\">Character Streams with FileReader/FileWriter/BufferredReader/BufferedWriter/PrintWriter</li><li style=\"\">Object Streams/Serialization with ObjectInputStream/ObjectOutputStream</li></ul><p style=\"\">The second section will be time to discuss about <strong style=\"\">NIO </strong>library. Topics will be mentioned including:</p><ul style=\"\"><li style=\"\">Buffers - Channels</li><li style=\"\">Flipping vs. Rewinding</li><li style=\"\">Flipping vs. Clearing</li><li style=\"\">Clearing vs. Compacting</li><li style=\"\">Marking and Reseting</li><li style=\"\">Scattering Read - Gathering Write</li></ul>", 
+    "end_date": null, 
+    "title": "Explore Java IO", 
+    "price": "40.00", 
+    "instructors": "Sera Nguyen", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/468846_e669_3.jpg", 
+    "course_url": "https://www.udemy.com/explore-java-io/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-06T11:23:56Z"
+}

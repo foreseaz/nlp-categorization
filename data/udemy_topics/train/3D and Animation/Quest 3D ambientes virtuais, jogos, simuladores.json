@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Entre definitivamente para o mundo 3d com essa espetacular ferramenta. Que tal você aprender a criar um ambiente virtual, jogo, simulador... e sem precisar saber programar ? Pois é, tudo isso e muito mais o quest3d faz. São 7.4 gigabyte em 60 videoaulas de alta resolução (1024 x 768).</p><ul><li>Você não precisa saber programar nada para construir aplicação 3D, com alguns simples cliques você consegue criar um projeto de casa, cidade, jogo, simulador, etc. Resumindo, é tudo visual, não existe aqui \"linguagem de programação\". E você ainda vê o resultado em tempo real.</li><li>Com este curso de Quest 3D você vai aprender: montar uma cidade completa com quadras, ruas, praça (grama e arvores), prédios comuns, prédios com reflexo, prédios redondos, prédios personalizados, importar objetos, colocar céu, colisão, você poderá \"caminhar\" pela cidade, etc.</li><li>Acrescente interatividade aos ambientes.</li><li>Você vai aprender a montar um jogo de boliche, o intuito é mostrar como funciona e como acionar a Física ( aquilo que você nunca deu bola na escola, e a tua sorte que isso o quest3d faz sozinho). Você também aprenderá sobre colisões (não existe jogo sem colisão).</li></ul><p><strong></strong><strong>Cronograma das videoaulas:</strong></p><ul><li>aula 2689 – Baixando e Instalando o Quest3d</li><li>aula 2690 – Criando o primeiro exemplo</li><li>aula 2691 – Simple Scene Object Text</li><li>aula 2692 quest3d – Directional Light</li><li>aula 2693 quest3d – Inserindo Objetos</li><li>aula 2694 quest3d – Mais Inserindo Objetos</li><li>aula 2695 quest3d – Texturizando Objetos</li><li>aula 2696 quest3d – Texturizando Asfalto e Calcada</li><li>aula 2697 quest3d – Mais Texturizando Asfalto e Calcada</li><li>aula 2698 quest3d – Incrementando o projeto</li><li>aula 2699 quest3d – Gerenciando Grupos para Organização</li><li>aula 2700 quest3d – Montando as quadras</li><li>aula 2701 quest3d – Finalizando as quadras</li><li>aula 2702 quest3d – Corrigindo Quadras</li><li>aula 2703 quest3d – Grupo Prédios</li><li>aula 2704 quest3d – Textura Grama Chão</li><li>aula 2705 quest3d – Personalizando predios</li><li>aula 2706 quest3d – Criando Antena</li><li>aula 2707 quest3d – Mais Textura Predio e quadra</li><li>aula 2708 quest3d – Manipulando a Camera</li><li>aula 2709 quest3d – Colisoes com a Camera</li><li>aula 2710 quest3d – Implementando casa e textura</li><li>aula 2711 quest3d – Predio 6 Redondo</li><li>aula 2712 quest3d – Predio 6 Redondo 2</li><li>aula 2713 quest3d – Objeto Carro</li><li>aula 2714 quest3d – Projeto do carro</li><li>aula 2715 quest3d – Entendendo Projeto do carro</li><li>aula 2716 quest3d – Inserindo o veículo no seu projeto</li><li>aula 2717 quest3d – Duplicando os veículos</li><li>aula 2718 quest3d – Inserindo Arvores</li><li>aula 2719 quest3d – Céu com SkyCube</li><li>aula 2720 quest3d – Implementando Céu com SkyCube</li><li>aula 2721 quest3d – Reflection e 2 texturas no mesmo predio</li><li>aula 2722 quest3d – Mais Reflection e 2 texturas no mesmo predio</li><li>aula 2723 quest3d – Importando Objetos _X</li><li>aula 2724 quest3d – Manipulando Objetos _X</li><li>aula 2725 quest3d – Iniciando com colisao e física</li><li>aula 2726 quest3d – Implementando Física com ODE Body</li><li>aula 2727 quest3d – Interatividade com UserInput</li><li>aula 2728 quest3d – Mais Física e UserInput</li><li>aula 2729 quest3d – CollisionObject</li><li>aula 2730 quest3d – Implementando Colisoes CollisionObject</li><li>aula 2731 quest3d – Muros para colisoes</li><li>aula 2732 quest3d – Posicionando Muros para colisoes</li><li>aula 2733 quest3d – Finalizando colisoes com Muros</li><li>aula 2734 quest3d – Iniciando boliche</li><li>aula 2735 quest3d – Rampas e Bola do Boliche</li><li>aula 2736 quest3d – Pinos do Boliche</li><li>aula 2737 quest3d – Implementando Física no Boliche</li><li>aula 2738 quest3d – Física e CollisionObject no Boliche</li><li>aula 2739 quest3d – Física e CollisionObject com os Pinos</li><li>aula 2740 quest3d – Mais Física e CollisionObject com os Pinos</li><li>aula 2741 quest3d – Ainda Física e CollisionObject com os Pinos</li><li>aula 2742 quest3d – Finalizando Física e CollisionObject com os Pinos</li><li>aula 2743 quest3d – Bounce Factor Density Sphere Radius</li><li>aula 2744 quest3d – Fim do Boliche</li><li>aula 2745 quest3d – Iniciando troca de Imagem ao pressionar uma tecla</li><li>aula 2746 quest3d – Colocando quadro</li><li>aula 2747 quest3d – ChannelSwitch</li><li>aula 2748 quest3d – ValueOperator e UserInput</li><li>aula 2749 quest3d – MediaTexture para rodar Filmes</li><li>aula 2750 quest3d – Rodando Filmes no MediaTexture</li></ul>", 
+    "end_date": null, 
+    "title": "Quest 3D ambientes virtuais, jogos, simuladores", 
+    "price": "30.00", 
+    "instructors": "Neri Neitzke", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/632472_9012.jpg", 
+    "course_url": "https://www.udemy.com/quest-3d-ambientes-virtuais-jogos-simuladores/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-06T14:54:04Z"
+}

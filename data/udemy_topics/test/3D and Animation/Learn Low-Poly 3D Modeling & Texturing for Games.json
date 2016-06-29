@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Learn the basic concepts, process and tools that you will need to create 3D game assets ( 3D Modeling) with popular applications Maya and Photoshop.<br></p><p><strong>Now creating high quality low poly 3D game assets for your games is easy &amp; interesting with this tutorial for beginners and developers.</strong><strong></strong></p><ul><li>Autodesk Maya's User Interface, Navigation Tools, Maya tricks and tips !</li><li>3D Low Poly Game Modeling Workflows (Modeling, Optimization, Unwrapping UVs, Materials)</li><li>Creating a low poly house office model</li><li>Adding Detail shading to textures in Adobe Photoshop</li><li>Creating Isometric camera and render model then export in PNG for Board games</li></ul><p><strong>Develop Your Game Modelling &amp; Texturing Skills to The Highest Standard through this tutorial</strong></p><p>Understand game assets design in both conceptual and practical terms. Model a house or office building in Maya and create texture through Photoshop and give a depth to model though shading with limited polygon budget.  </p><p>Maya and Photoshop are mostly used applications for games assets modelling by game designers all over the world. However you can use other applications but process will be same. You will have deep understanding how to model game assets like house, well, building, and game environment. This tutorial will resolve some common following issues in game props modelling; </p><ul><li>How to make low poly 3D house models?</li><li>How to optimize game model?</li><li>How to reduce polycount?</li><li>How to unwrap UVs?</li><li>How to texture 3D game model?</li><li>How to create isometric camera?</li><li>How to export 3d model for game engines? </li></ul><p><strong>Content and overview</strong><br></p><p>This course includes over 11 lectures and 1.5 hours of content, suited to anyone with a basic understanding of Photoshop tools. If your interests lie in Game assets design, 3D modelling or texturing, then this course is for you. </p><p>Starting with understanding the concept then you will move to 3D low poly Modeling with easy tools and commands in Maya. After creating model you will learn how to optimize and cleanup model for games. Then you go through unwrapping UVs and exporting UVs layout as image process. </p><p>You will go through each aspect of texturing in detail; roof, walls, windows, door, stairs and base. Then you will add shading to each part of texture to create depth in model. By shading technique, you will bring asset design from basic to advanced professional looking. </p><p>Once model is completed, you will get to know that how to render 3d model in isometric and perspective views and how to export for isometric &amp; other PC/Mobile games. </p><p>At the end of the course, you will be able to create low poly game house, office, building models by using Maya and Photoshop tools. <em>( 3D Modeling for Games ) </em></p>", 
+    "end_date": null, 
+    "title": "Learn Low-Poly 3D Modeling & Texturing for Games", 
+    "price": "20.00", 
+    "instructors": "Pixelandb Academy of CG & Real World Art", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/731128_98fa_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-low-poly-building-modeling-texturing-for-games/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-17T12:55:38Z"
+}

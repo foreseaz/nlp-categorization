@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Aprende los conceptos y herramientas básicas para desarrollar una web con los nuevos estándares HTML 5 y CSS 3.</p><p><strong>Obtén unos conocimientos sólidos en HTML 5 y CSS 3 con este curso para principiantes.</strong></p><ul><li>Sintáxis, etiquetas semánticas, layouts, etiquetas nuevas, modificadas y obsoletas, soporte de los navegadores</li><li>Selectores, pseudo-elementos, media queries</li><li>Web Fonts, propiedades de caja, sombras y fondos múltiples</li><li>Transparencias y gradientes de colores</li><li>Transformaciones, transiciones y animaciones</li></ul><p><br><strong>Todo el poder de la maquetación con HTML 5 y CSS 3 ahora a tu alcance, con nuestra guía definitiva y en vídeo.</strong></p><p>HTML 5 y CSS 3 son los nuevos estándares de la web. Mediante HTML 5 obtenemos una mayor sofisticación de código que con HTML 4, y podremos construir las estructuras de formas nuevas y óptimas.</p><p>En cuanto a las hojas de estilo con CSS 3, tendremos disponibles gran variedad de opciones para hacer cosas que antes eran impensables sin mucho código. Tendremos opciones como sombreados y redondeados, pero también funciones avanzadas de movimiento y transformación.</p><p>Este es un curso únicamente en vídeo. Verás la imagen de nuestra pantalla y escucharás al profesor hablando mientras ves lo que hace en su pantalla. Muy útil y didáctico.</p><p>Además, te enseñaremos a utilizar herramientas fundamentales para hacer la vida mucho más fácil al programador, como generadores de código que harán las delicias de quién los use.</p><p><strong>Al finalizar el curso</strong> serás capaz de <strong>crear páginas web</strong> utilizando <strong>HTML 5</strong> y darles vida con transformaciones, animaciones e incorporando increíbles efectos gráficos con <strong>CSS 3</strong> y <strong>sin apenas esfuerzo</strong>.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "HTML 5 y CSS 3 para principiantes: la guía definitiva", 
+    "price": "50.00", 
+    "instructors": "Grupo SYNCROM", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/63835_3b05_5.jpg", 
+    "course_url": "https://www.udemy.com/curso-de-html-5-y-css-3/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-07-04T16:39:58Z"
+}

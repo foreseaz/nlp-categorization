@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Some Course Reviews.</strong></p><p>\"I've also looked at the database with multiple system monitoring products. But really where do I go from here? and when I find the problem what do I really need to do? <strong><em>Mike really shows you the nitty gritty</em>.\"</strong></p><p>\"This was just the course I have been waiting for. <strong><em>Mike's demos and scripts have helped me become a confident tuner</em>.</strong> The best thing about this course was that I was able to improve our server performance straightaway.\"</p><p>\"I already have a great deal of DBA related experienced in the real world. <em>What this course did for me was <strong>help me establish a model, and strategy for database tuning </strong>and performance monitoring</em>.\"</p><p>Thank you reviewers for your kind feedback. </p><p>This course focuses on making SQL Server more performant. </p><p>SQL Server is like a high performance sports car. Anyone can drive it but put it in the hands of a skilled <strong>performance tuner and you've just gone from average to incredible</strong>. </p><p>No one wants an average performing system and with the <strong>KNOWLEDGE </strong>acquired from <strong>THIS COURSE </strong>your performance tuning acumen won't be average either. </p><p>This course will give <strong>YOU </strong>the foundation to become a skilled <strong>PERFORMANCE TUNER</strong>. </p><p><strong>WE </strong>will start by building a baseline. How can <strong>you </strong>measure <strong>YOUR success </strong>without knowing how poorly the system was before you arrived? </p><p>Baselines give us a before and after snapshot of the system we are going to tune. </p><p>Once thought of as an art, performance tuning is nothing more than a <strong>series of processes </strong>that seek to accomplish <strong>TWO basic goals</strong>. </p><p>The <strong>FIRST </strong>one is to increase the <em><strong>response time</strong> </em>for a given transaction or set of transactions. </p><p>The <strong>SECOND </strong>one is reduce <em><strong>resource consumption</strong></em>. On the surface this sounds simple but nothing could be further from the truth. </p><p>A database is a collection of objects. The most <strong>fundamental </strong>and most important is the table object. <strong>Users </strong>interact with tables via transactions. Most online transaction processing databases are <strong>read and write heavy</strong>. We put data into to our tables or <strong>INSERT </strong>it and we read that data or <strong>SELECT </strong>it. </p><p>Let's use an <strong>online ordering system</strong> as an example. I need a product and I've found it on x(dot)com. Before I can order it I need to give x(dot)com a few things. My name, address, product I'm ordering and money of course. All this information is <strong>INSERTED </strong>into various tables. Once I've provided all the necessary information someone at x(dot)has to <strong>SELECT or read</strong> that data so my order can be filled. </p><p>Imagine for a minute that I make several attempts to provide x(dot)com with my name, address… etc. However, after three attempts the information <strong>can't be saved to the database </strong>and I receive multiple errors. Most people won't try three times unless the product can't be purchased somewhere else. Most users will look elsewhere after that second failure. </p><p>This course <strong>WILL </strong>provide <strong>YOU </strong>with the foundation necessary to ensure data can be saved and retrieved so the database will have an organic flow of transactions. </p><p><strong>ENROLL </strong>now. Let's get started!!! </p>", 
+    "end_date": null, 
+    "title": "How to Become a World Class SQL Server Performance Tuner", 
+    "price": "20.00", 
+    "instructors": "Mike West", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/453646_8e86_10.jpg", 
+    "course_url": "https://www.udemy.com/sql-server-performance-tuning-101/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-22T04:23:16Z"
+}

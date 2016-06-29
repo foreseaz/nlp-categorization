@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course delivers <strong>Oracle </strong><strong>ZFS leading technology</strong> to build <strong>advanced</strong>, <strong>professional </strong>and <strong>efficient </strong><strong>storage </strong>that meets modern business needs and reduce the complexity and risk.</p><p>By using <strong>ZFS</strong> which becomes an open source technology now, you can <strong>build </strong>your own <strong>professional storage</strong>, which has almost the same features found in any <strong>commercial hardware storage.</strong></p><p>In order to get benefit from this course, you should have some background about <strong>Linux </strong>administration since this course is completely built on <strong>open source Linux</strong>.</p><p>By the end of this course you will have a strong knowledge about <strong>ZFS </strong>and how you can build and <strong>administrate </strong>your <strong>professional </strong><strong>storage </strong>box. </p>", 
+    "end_date": null, 
+    "title": "Storage Area Network with Oracle ZFS on Centos Linux : L1", 
+    "price": "20.00", 
+    "instructors": "Muhamad Elkenany, Mohamed Nawar", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/574332_d99d_6.jpg", 
+    "course_url": "https://www.udemy.com/build-your-professional-advanced-storage-box-level-1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-05T06:43:24Z"
+}

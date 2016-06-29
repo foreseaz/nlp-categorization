@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t In order to master a technique in web development or any artistic field, the best approach is one that&#039;s hands-on. This allows you to not only learn concepts, but also apply them right away to build your own projects from scratch. That&#039;s why this course guides you through the process of actually creating a variety of games, apps, and sites using HTML5 and JavaScript.  </p>  <p style=\"\">  \t <strong style=\"\"> Master HTML5 and JavaScript, starting with the creation of 10 apps and games. </strong>  </p>  <ul style=\"\">  \t<li style=\"\">HTML5 and JavaScript, Including Semantic Markup and Boilerplate Framework</li>  \t<li style=\"\">CSS3 Media Queries and Responsive Design</li>  \t<li style=\"\">JQuery, Fancybox, APIs, and More</li>  \t<li style=\"\">10 Hands-On Projects, Including Games and Apps</li>  </ul>  <p style=\"\">  \t <strong style=\"\"> Use HTML5 and JavaScript to Create a Variety of Projects </strong><br style=\"\">  \t Not all sites and apps use HTML5 yet, but the ones that do are advanced and cutting edge, and this is the way of the future in web design and app development. Using HTML5, CSS3, JavaScript, and other tools, you can become a more effective web developer and front-end expert, developing unique apps and games, as well as responsive websites. With the right skills in place, you&#039;ll be able to expand your portfolio and your client base.  </p>  <p style=\"\">  \t <strong style=\"\"> Contents and Overview </strong><br style=\"\">  \t This course contains over 75 lectures and 15.5 hours of content during which you&#039;ll develop 10 projects using HTML5, JavaScript, and other tools. You should already have knowledge of JavaScript and HTML before taking this course.  </p>  <p style=\"\">  \t You&#039;ll build a basic HTML5 site before developing the front-end for a blog using tags and forms, CSS3, and responsive design. You&#039;ll also create an animated image gallery, a sticky note app, and a snake game. You&#039;ll master the Drag and Drop Image Uploader, and also create an HTML5 quiz app, audio player, mobile to-do list, customer manager app, and location app.  </p>  <p style=\"\">  \t By the end of this course, you&#039;ll have completed 10 creative and exciting projects that have tested your skills and given you the confidence to become a front-end expert and programmer. This will allow you to potentially expand your client base and update your resume to advance your career in the field of web development.  </p>  <p style=\"\">  \t Lifetime access to the lectures means you&#039;ll be able to return to the information whenever necessary to refresh your memory and tackle future projects.  </p>", 
+    "end_date": null, 
+    "title": "Projects in HTML5", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "15.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/197836_7543_3.jpg", 
+    "course_url": "https://www.udemy.com/projects-in-html5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-12T07:00:56Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Artificial Intelligence"
+    ], 
+    "description": "\n\n                    \n                    \n                    Curso introductorio a las Tecnologías del Lenguaje Humano (TLH), término íntimamente relacionado con el Procesamiento del Lenguaje Natural (PLN). El objetivo del curso, al abarcar la mayoría de las áreas de investigación en TLH y sus resultados más recientes, es mostrar una panorámica a partir de unas nociones básicas de cada tarea y de sus aplicaciones más inmediatas o novedosas. Dichas tareas van desde la traducción automática hasta la generación automática de resúmenes de texto, pasando por la recuperación y extracción de información, el análisis de opiniones, etc. Con investigadores de prestigio internacional como profesores, al final del curso serás capaz de identificar los problemas a los que nos enfrentamos en las TLH y sus dificultades, sabrás qué herramientas existen actualmente y sus potenciales usos en cualquier área de negocio.\r\n \n\n                                    ", 
+    "end_date": "2016-04-02T00:00:00Z", 
+    "title": "moocTLH: Nuevos retos en las tecnologías del lenguaje humano", 
+    "price": 0, 
+    "instructors": "Eugenio Martínez Cámara, José Manuel Gómez Soriano and Armando Suárez Cueto", 
+    "institution_name": [
+        "Universidad de Alicante"
+    ], 
+    "commitment": "2-3 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://miriadax.net/web/mooc-tlh-nuevos-retos-en-las-tecnologias-del-lenguaje-humano", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Miríada X"
+    ], 
+    "start_date": "2016-02-06T00:00:00Z"
+}

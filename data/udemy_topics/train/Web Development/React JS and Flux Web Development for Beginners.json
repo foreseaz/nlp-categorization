@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>React &amp; Flux Course Description</strong></p><p>Welcome to React and Flux Web Development for Beginners.</p><p>This course is designed for developers who know basic HTML and CSS but who want to take their skills to the next level by building data-driven web apps - the kind of apps that can be used for products or startups and the type of apps that can interact with servers.</p><p>The course is also for developers of any level who want to know and master React and Flux.</p><p><strong>Why React?</strong></p><p>Why should you learn React js instead of Angular or Backbone or Ember or Meteor? One reason is because React is incredibly minimalistic. It focuses on reusable view components. <strong>Never</strong> have to copy and paste code again with React. Then take the Reflux design architecture and mix it with React js and you have a full-stack front-end solution that is very lightweight. Frameworks like Angular do a LOT of things, are very heavyweight, and have steep learning curves. Why use a framework that gives you stuff you don't need in every project?</p><p>React was created by Facebook, designed incredibly well, and makes fantastic data-driven websites. React Flux is a powerful combination.</p><p><strong>React &amp; Flux Course Content</strong><br></p><p>You are going to learn a lot in this course. Here are some of the topics we cover:</p><ul><li>React Components and component nesting</li><li>React Component user interaction with states</li><li>React Component data management with props</li><li>Robust architectures with Flux and Reflux</li><li>Building simple Node &amp; Express servers</li><li>Making HTTP requests and managing data in React</li><li>In-line React styling with Javascript</li><li>Parsing and managing JSON in React</li><li>Single page applications with React Router</li><li>Javascript overview</li><li>Professional development practices and tips</li></ul><p><br></p>", 
+    "end_date": null, 
+    "title": "React JS and Flux Web Development for Beginners", 
+    "price": "20.00", 
+    "instructors": "Mark Price", 
+    "commitment": "11 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/671552_28d2_4.jpg", 
+    "course_url": "https://www.udemy.com/react-flux/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-16T19:42:55Z"
+}

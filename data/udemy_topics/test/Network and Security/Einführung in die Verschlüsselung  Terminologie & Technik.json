@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>AES-128, Public Key,\nZertifikate? Was bedeuten symmetrische und asymmetrische\nVerschlüsselung eigentlich und wo werden sie verwendet? Dieser Kurs\ngibt eine Einführung in das Thema der Verschlüsselung.</p><p>Dabei wird nicht nur\ndie gängige Terminologie erklärt sondern auch der technische\nHintergrund. Der Kurs eignet sich für jeden, der genauer verstehen\nmöchte, was Verschlüsselung in der Praxis eigentlich bedeutet und\nworauf man achten muss. Gefährliches Halbwissen kann hier auf die\nProbe gestellt werden. Anregungen zur weiterführenden Vertiefung des\neigenen Grundwissen werden ebenfalls gegeben.</p><p>Wenn Sie auf\nDatensicherheit und Privatsphäre im unternehmerischen wie privaten\nBereich Wert legen, sind Sie bereits auf dem richtigen Weg. Dieser\nKurs kann Ihr Wissen vertiefen und Anregungen schaffen, mit welchen\nWerkzeugen Sie sich genauer befassen sollten.</p><p>Allgemeines\nHintergrundwissen im IT-Bereich ist von Vorteil aber nicht\nVoraussetzung.</p>", 
+    "end_date": null, 
+    "title": "Einführung in die Verschlüsselung: Terminologie & Technik", 
+    "price": 0, 
+    "instructors": "Dipl.-Inform. Frank Hissen", 
+    "commitment": "33 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/782434_bdf2.jpg", 
+    "course_url": "https://www.udemy.com/einfuehrung-in-die-verschluesselung-terminologie-technik/", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-04T19:45:58Z"
+}

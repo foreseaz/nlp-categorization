@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  This course teaches all about AngularJS. The course is designed for people having basic understanding of HTML,CSS &amp; JavaScript. Learning AngularJS will surely be an added advantage for you as a web-developer<br style=\"\">  \t<br style=\"\">  \t  The course covers all the basic and advanced topics.<br style=\"\">  \t<br style=\"\">  \t  We will be also developing a Single Page Course Based Website during this course.<br style=\"\">  \t  Section wise code samples are also provided<br style=\"\">  \t<br style=\"\">  \t  So lets start learning...  </p>", 
+    "end_date": null, 
+    "title": "Master AngularJS : Learn Angular JS From Scratch", 
+    "price": "20.00", 
+    "instructors": "SkillBakery Studio", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/404172_d3de.jpg", 
+    "course_url": "https://www.udemy.com/master-angularjs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-26T07:13:23Z"
+}

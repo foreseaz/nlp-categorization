@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t   This Microsoft SQL Server 70-461 Exam training course by Infinite Skills teaches you everything you need to know to pass the Querying Microsoft SQL Server 2012 exam. It is required that you pass the 70-461 Exam in order to earn your MCSA: SQL Server certification from Microsoft.  </p>  <p>  \t <br>  \t   The course takes you through each of the topics that you will need to master in order to pass the SQL Server 2012 70-461 exam. Throughout this video tutorial, you will learn how to setup the interface, create and alter tables using T-SQL, and understand SQL queries. You will learn about SELECT statements, how to modify data, and use joins and subqueries. This course will teach you about triggers and different trigger types, how to work with XML, and how to optimize queries. Finally, you will run through the exam basics and what you can expect from the exam.<br>  \t <br>  \t   Once you have completed this computer based training course for the Microsoft SQL Server 70-461 exam, you will have developed the knowledge and skills necessary to pass the Querying Microsoft SQL Server 2012 Exam and continue towards earning your SQL Server MCSA certification.  </p>  <p>  \t<strong>How to take the Microsoft 70-461 Exam:</strong>  </p>  <p>  \t  1. Find a test center near you to take the SQL Server 70-461 certification exam, their will provide details on test center locations and schedules. This exam is typically priced around $150 dollars.  </p>  <p>  \t  2. Study the required material to pass the 70-461 examination. This course covers the material that is within the 70-461 certification exam, and will help put you in a great position to succeed in the exam  </p>  <p>  \t  3. Pass your exam!  </p>  <p>  \t  4) Take our Microsoft Windows Server 70-462 and 70-463 courses which will prepare you for the 70-462 and 70-463 exams. Upon passing the 70-461, 70-462, and 70-463 exams you will become a Microsoft Solutions Certified Associate in Microsoft SQL Server 2012.  </p>  <p>  \t 5. Tell your friends how easy passing the Microsoft 70-461 exam was using Infinite Skills training courses  </p>  <p>  \t<em>The information laid out above is given in good faith, we are not endorsing and third party company by offering a link to their site. You should always do your own research prior to making a purchase or using any service linked to via this website. Prices or details may alter and any information listed can not be guaranteed to be accurate. Note: While this course is comprehensive in regards to covering material on the exam, we do recommend using other aids to guide your study.</em>  </p>", 
+    "end_date": null, 
+    "title": "Microsoft SQL Server 2012 Certification Training Exam 70-461", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "12.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/128550_03ea_10.jpg", 
+    "course_url": "https://www.udemy.com/microsoft-sql-server-2012-certification-70-461/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-03T14:53:20Z"
+}

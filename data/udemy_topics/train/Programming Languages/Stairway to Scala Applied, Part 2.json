@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Stairway to Scala Applied, Part 2 covers Scala features that are different from other languages or maybe unique to Scala. It is intended to follow on from Part 1, and dovetails nicely into that flow. In particular, by following this course you will:</p><ul><li>Understand Scala's composition and inheritance features</li><li>Create abstract classes and pure abstract members (methods and fields)</li><li>Override and overload methods</li><li>Create primary and auxiliary constructors</li><li>Call superclass constructors and methods</li><li>Understand and use parametric fields</li><li>Create factory methods in companion objects</li><li>Construct simple DSLs (Domain Specific Languages)</li><li>Understand top and bottom types and how Scala uses them</li><li>Write correct equals and hashCode methods</li><li>Use traits to mix behavior into classes</li><li>Know the different styles of packages and visibility modifiers</li><li>Be able to import anything from anywhere</li><li>Write pre-conditions and post-conditions</li><li>Test your code with unit testing</li>\n</ul><p><br></p>", 
+    "end_date": null, 
+    "title": "Stairway to Scala Applied, Part 2", 
+    "price": "50.00", 
+    "instructors": "Dick Wall", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/791836_d057_2.jpg", 
+    "course_url": "https://www.udemy.com/stairway-to-scala-applied-part-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-14T00:30:04Z"
+}

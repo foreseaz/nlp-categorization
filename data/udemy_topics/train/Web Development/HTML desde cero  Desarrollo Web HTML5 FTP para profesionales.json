@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Al no ser un tutorial, este curso, tiene una estructura <strong style=\"\">planeada</strong>, <strong style=\"\">progresiva </strong>y bien <strong style=\"\">guiada </strong>para que aprendas <strong style=\"\">HTML </strong>y los fundamentos del <strong style=\"\">desarrollo Web</strong> sin dolores de cabeza. ¿Te interesa el desarrollo Web pero <strong style=\"\">no sabes por dónde empezar</strong>?</p><p>Crearás <strong style=\"\">4 páginas Web</strong> con <strong style=\"\">diseños y objetivos</strong> planeados para auxiliarte en tu proceso de aprendizaje. Aprende qué son los <strong style=\"\">protocolos </strong>de comunicación, <strong style=\"\">dominios</strong>, servicios de <strong style=\"\">hospedaje </strong>Web, <strong style=\"\">HTML5</strong>, <strong style=\"\">estructura </strong>del documento, <strong style=\"\">formularios</strong>, <strong style=\"\">tablas</strong>, cómo incluir <strong style=\"\">imágenes</strong>, <strong style=\"\">mapas</strong>, <strong style=\"\">vídeos </strong>y archivos de <strong style=\"\">sonido</strong>, cómo <strong style=\"\">transferir </strong>tu sitio al servidor remoto con <strong style=\"\">FTP </strong>y mucho más.</p><p>Además trabajaremos <strong style=\"\">¡en español!</strong>, para que tu aprendizaje fluya correctamente. He desarrollado un programa con los siguientes tipos de contenidos:</p><ol style=\"\"><li><strong style=\"\">Presentaciones </strong>en que mostraré y discutiremos los fundamentos teóricos y prácticos que requerirás.</li><li><strong style=\"\">Demostraciones en video</strong> en las cuales tomaremos un editor en la nube y nos pondremos a programar.</li><li><strong style=\"\">Proyectos:</strong> Demostraciones especiales en las que desarrollaremos páginas Web en directo.</li><li><strong style=\"\">Ejercicios </strong>en los que trabajarás en solitario para conseguir objetivos específicos y pongas tus conocimientos en práctica.</li><li><strong style=\"\">Descargas: </strong>Tendrás acceso a decenas de <strong style=\"\">archivos comprimidos ZIP</strong> con los recursos y <strong style=\"\">código fuente</strong> de los proyectos, archivos PDF con las <strong style=\"\">presentaciones </strong>mostradas en las clases y <strong style=\"\">54 archivos de audio</strong> con la pista de cada uno de los vídeos.</li></ol><p>Sé que esta será una <strong style=\"\">excelente </strong>forma de <strong style=\"\">iniciar </strong>tu carrera en el mundo del desarrollo de proyectos Web y confío en que obtendrás el <strong style=\"\">mayor provecho</strong> posible. Ahora sólo puedo decirte: <strong style=\"\">¡Inscríbete ya!</strong></p>", 
+    "end_date": null, 
+    "title": "HTML desde cero: Desarrollo Web/HTML5/FTP para profesionales", 
+    "price": "30.00", 
+    "instructors": "Josué E. Pizano", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/363564_939e_2.jpg", 
+    "course_url": "https://www.udemy.com/html-desde-cero-pro/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-05T03:40:56Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Finance"
+    ], 
+    "description": "\n\n                    \n                    \n                    The course covers the latest tools used in Quantitative Finance and covers the whole gamut of relevant topics like boot strapping, time series analysis, stochastic programming, analysis of panel data, etc. It will equip the students with necessary tools needed to understand how these different concepts may be used in the field of quantitative finance\n\n                                            Syllabus\n                        1.Microeconomics\r\n2.Macroeconomics3.Statistics\r\n4.Distribution 5.Sampling Techniques\r\n \r\n6.Optimization\r\n7.Advanced topics in Optimization\r\n8.Time Series Analysis\r\n9.Options &amp; Dervatives\r\n \n                                    ", 
+    "end_date": "2015-08-26T00:00:00Z", 
+    "title": "Quantitative Finance", 
+    "price": 0, 
+    "instructors": "Raghu Nandan Sengupta", 
+    "institution_name": [
+        "IIT (Indian Institute of Technology, Kanpur)"
+    ], 
+    "commitment": "2-3 hours", 
+    "subject_name": [
+        "Business & Management"
+    ], 
+    "course_url": "https://onlinecourses.nptel.ac.in/noc15_mg08/preview", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "NPTEL"
+    ], 
+    "start_date": "2015-07-01T00:00:00Z"
+}

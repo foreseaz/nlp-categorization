@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Physics"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course is intended for all those who want to conduct experiments in area of NVH. Thus, the course is open to students of engineering and science, and also to all those who from the industry and research organizations – who are working in area of sound, NVH and acoustics. Each lecture will be followed by a quiz, which will help student the concepts better, and gain deeper insights to measurement process. The course is fairly generic so that there is no need for a particular background. Rather, what is needed is openness, and ability to learn and check out new ideas with comfort.\n\n                                            Syllabus\n                        Week 1: Intro and terminology Week 2: The Wave Equation &amp; measuring soundWeek 3: Transmission line equationsWeek 4: Microphones: Classification and usageWeek 5: Fourier series, integral and transformWeek 6: Discrete Fourier Transform, Inverse FFTWeek 7: Impedance, &amp; Octave band analysisWeek 8: STFT, spectrogram, reverb time, STC, NRC\n                                    ", 
+    "end_date": "2016-03-14T00:00:00Z", 
+    "title": "Basics of Noise and Its Measurements", 
+    "price": 0, 
+    "instructors": "Nachiketa TIwari", 
+    "institution_name": [
+        "IIT (Indian Institute of Technology, Kanpur)"
+    ], 
+    "commitment": "2-3 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://onlinecourses.nptel.ac.in/noc16_me01", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "NPTEL"
+    ], 
+    "start_date": "2016-01-18T00:00:00Z"
+}

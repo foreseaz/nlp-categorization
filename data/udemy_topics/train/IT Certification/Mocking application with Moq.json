@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p> In the course Mocking framework(Moq) we will learn and understand</p>\n\n\n\n<p>1. What is Mocking framework all about\n\n  </p>\n\n<p>2. How to work without Moq and problem while working with real application\n\n  </p>\n\n<p>3. How to work with Moq\n\n  </p>\n\n<p>4. How to work and test different components of C# like\n\n  </p>\n\n<p>            a. Methods/Returns values/ Times method called\n\n  </p>\n\n<p>            b. Parameters/Tracking parameters\n\n  </p>\n\n<p>            c. Auto-implemented properties\n\n  </p>\n\n<p>            d. Properties\n\n  </p>\n\n<p>5. Working with advanced Moq concepts like strict and loose Moq\n\n  </p>\n\n<p>6. Working with Property stubbing\n\n  </p>\n\n\n\n<p>With this course one will also get benefit of understanding how developers do testing of real application by isolating the non-focused components using Moq objects.</p>", 
+    "end_date": null, 
+    "title": "Mocking application with Moq", 
+    "price": 0, 
+    "instructors": "Mr Karthik KK", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/873278_5739_3.jpg", 
+    "course_url": "https://www.udemy.com/moq-framework/", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-09T10:56:43Z"
+}

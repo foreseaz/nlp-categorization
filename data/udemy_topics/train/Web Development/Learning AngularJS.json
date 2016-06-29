@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t   This course will teach you everything you need to know about building scalable and maintainable applications the right way.<br style=\"\">  \t<br style=\"\">  \t      You will start with the AngularJS library, templates and controllers, and build the basic structure of a real world application. Then you will see how AngularJS interacts with the server to both read and write data with the help of Yeoman. Thereon you will learn how to use services, factories and modules to improve the modularity of your application before setting up the routing system for your app. Finally you will run your app through unit and integration tests and wrap third party libraries such as Bootstrap, JQuery and D3 in your application. <br style=\"\">  \t<br style=\"\">  \t      By the end of this course you will be an expert in using all the AngularJS tools you need to build web applications that look good, work great and perform fast.  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t<strong style=\"\">Jack Herrington </strong>is an AngularJS developer who was presented at Google on D3 and AngularJS. He has written six books and hundreds of articles on a wide variety of topics on front and back end.  </p>", 
+    "end_date": null, 
+    "title": "Learning AngularJS", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/317130_b279_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-angularjs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-10T09:34:10Z"
+}

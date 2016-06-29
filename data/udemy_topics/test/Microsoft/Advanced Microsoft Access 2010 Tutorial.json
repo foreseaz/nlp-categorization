@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<h5 style=\"\">A Verifiable Certificate of Completion is presented to all students who undertake this course.</h5>  <p style=\"\">This Advanced Microsoft Access 2010 Tutorial Video picks up where the InfiniteSkills beginner course leaves off and shows how to work with some of the program&#039;s more robust database creation and management features. Presented by a professional IT trainer, the video lessons go point by point through advanced query options and form design, as well as a number of shortcuts and productivity options that can simplify and shift the way you work. Given the advanced subject matter, the order of the Access course is logical and easy to follow. The earliest lessons focus on advanced table design with indexing and input masks. The course shows how to create advanced queries using joins, unions, and sub queries, going step by step where things get complex. Lessons on advanced form design and reporting will allow you to better manage and display your data, and the course&#039;s full chapter on Macros make it easy to manage and access data in Access 2010. Project files are included to match the examples onscreen.</p>  <p style=\"\"><br style=\"\" /> <strong style=\"\">What You Will Learn</strong></p>  <p style=\"\">- How to perform advanced data manipulation across multiple databases and sources.<br style=\"\" /> - How to create complex user forms that will improve the quality and quantity of data collected.<br style=\"\" /> - How to perform crucial management and maintenance functions using Access utilities and commands.<br style=\"\" /> - How to enhance and develop secure, compatible databases that can be accessed by users working with Office products and common industry standards such as SQL.</p>  <p style=\"\"><br style=\"\" /> <strong style=\"\">Who Should Take This Course</strong></p>  <p style=\"\">- Anyone with a basic understanding of Microsoft Access who wants to unlock the program&#039;s power user capabilities and security features.<br style=\"\" /> - Anyone who wants to implement Access solutions within SQL-based and mixed environments.<br style=\"\" /> - Access administrators looking to work faster and smart through shortcuts and macros that automate repetitive tasks.</p>  <p style=\"\"><br style=\"\" /> <strong style=\"\">What People Are Saying</strong></p>  <p style=\"\">&quot;I was told we&#039;d have to move everything over to MySQL to get the security we needed, but these tutorials helped me prove otherwise. The lessons on encryption were perfect.&quot;<br style=\"\" /> - Hank Mascis<br style=\"\" /> <br style=\"\" /> &quot;I am genuinely impressed with what is capable with Access now. It&#039;s improved greatly over the years, and this training and the VBA course has helped me see the light.&quot;<br style=\"\" /> - V Spinotto</p>", 
+    "end_date": null, 
+    "title": "Advanced Microsoft Access 2010 Tutorial ", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/17261_80b9_10.jpg", 
+    "course_url": "https://www.udemy.com/advanced-microsoft-access-2010/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-05-05T00:09:02Z"
+}

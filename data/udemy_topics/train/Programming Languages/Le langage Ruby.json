@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Dans cette formation vous allez apprendre le langage Ruby. Un langage en constante montée dans le développement web. À travers la réalisation d’un projet fil rouge, cette formation vous propose une vision claire et détaillée de toutes les structures principales du langage Ruby. De l’écriture des boucles de contrôle au DSL en passant par les classes, le Ruby est décrypté et démystifié.</p>", 
+    "end_date": null, 
+    "title": "Le langage Ruby", 
+    "price": "45.00", 
+    "instructors": "Alphorm Démocratise le savoir IT", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/815720_f04e_2.jpg", 
+    "course_url": "https://www.udemy.com/le-langage-ruby/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-07T17:47:07Z"
+}

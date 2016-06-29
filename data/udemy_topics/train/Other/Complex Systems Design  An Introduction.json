@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \t          Some technologies are simple like a cup or hammer, some are complicated like a circuit board or car, but some are truly complex such as large information systems, supply chain networks, sustainable urban environments, health care systems or advanced financial services. These complex engineered systems are defined by consisting of multiple diverse parts that are highly interconnect and autonomous.  </p>  <p style=\"\">  \t          This course is a comprehensive introduction to the application of complexity theory to the design and engineering of systems within the context of the 21st century, from the bigger picture of why we should care to key architectural considerations, It brings together many new ideas in systems design to present an integrated paradigm and set of principal to the design of complex systems.  </p>  <p style=\"\">  \t<strong style=\"\">A new design paradigm- </strong>In the first section of the course we will explore some of the major themes that are shaping the design and engineering of systems in the 21st century, such as the rise of sustainability, information technology, the revolution in services and economic globalisation, these will all provide a backdrop and reoccurring set of themes that will be woven into our discussion. This section will also give you an overview to complexity theory and the basic concepts that we will be using though out the course, such as the model of a system, a framework for understanding complexity and a definition for complex systems.  </p>  <p style=\"\">  \t          The last section of this model will give an overview to complex systems design providing you with a clear and concise description of what a complex engineered system is and how this new paradigm in design differs from our traditional approach.  </p>  <p style=\"\">  \t<strong style=\"\">Key concepts- </strong>Next we introduce you to the key concepts within this new domain, we will talk about services and product-service systems, designing synergistic relations in order to integration diverse components and one of the key takeaways form this entire course the idea of abstraction as a powerful tool for solving complexity.  </p>  <p style=\"\">  \t<strong style=\"\">Design Principals- </strong>In the third module to the course we discuss the primary principals that should govern our approach to designing complex systems. Firstly networks with these highly interconnected systems networks are their true geometry, understanding them and being able to see the systems we are designing as networks is one of our key principal. Secondly we will look at adaptive systems and how I.T. is enabling the next generation of technologies that are responsive, adaptive and dynamic, allowing for self-organisation and a new form of bottom up emergent design. Lastly in this section we will also cover the key mechanisms of evolution and how it effect the lifecycle to the system we are designing.  </p>  <p style=\"\">  \t<strong style=\"\">Systems Architecture- </strong>In systems architecture we begin to change gears to talk about the more practical mechanics of how to design complex systems based around a new systems architecture paradigm that has arisen within I.T. over the past few decades what is called Services Orientated Architecture, in this section we will discuss platform technologies and their internal workings, modular systems design and Event Driven Architecture which is particularly well suited to the dynamic nature of the systems we are developing.  </p>  <p style=\"\">  \t<strong style=\"\">Design Methods- </strong>Lastly we present a series of lectures on the design method or process best suited to complex systems design. In this module you will be introduced to design thinking that <span style=\"\">represents</span><span style=\"\"> a repeatable set of stages in the design process for solving complex problems.</span>  </p>", 
+    "end_date": null, 
+    "title": "Complex Systems Design: An Introduction", 
+    "price": "20.00", 
+    "instructors": "Complexity Academy", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/369434_45c9_4.jpg", 
+    "course_url": "https://www.udemy.com/complex-systems-design/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-13T08:13:36Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Do you want to <strong>learn React</strong> as <strong>fast</strong> as possible?  Are you <strong>curious</strong> about <strong>Golang</strong>, Googles new Programming Language? Do you wonder what it's like to write fast highly concurrent servers? <strong>Interested</strong> in <strong>creating</strong> <strong>realtime</strong> <strong>apps</strong>, the simple way? <strong> </strong></p><p><strong>If you answered</strong><strong> YES, then this course is for you!</strong></p><p><strong>Learn Fast</strong></p><p>This course is <strong>optimally pace</strong><strong>d</strong> so <strong>you'll learn fast</strong>.  <strong>Your time is valuable</strong> and I don't want to waste it, <strong>try</strong> out the <strong>free previews</strong> and I think you'll understand what I mean by fast/lean learning.<strong></strong></p><p><strong>React Js</strong><br></p><p>Reactjs is an Amazing Javascript front-end library created and maintained by Facebook.  The designers of React questioned the industry \"best practices\" and designed a library that is quite <strong>unique</strong>, extremely <strong>fast</strong> and very <strong>productive</strong>, plus it's a <strong>delight to work with</strong>.  Reactjs makes writing JavaScript apps <strong>fun again</strong> because of it's simplicity and fundamentally different concepts.</p><p><strong>Golang</strong><br></p><p>Golang is a awesome new programming language created and maintained by Google.  Golang is an modern language, that's simple to learn and easy to use.  Golang is particularly well <strong>suited</strong> for <strong>highly concurrent applications</strong>, such as realtime apps, because of it's first class language support for coroutines (called goroutines).  Apps created in Golang are <strong>fast</strong>, and run on <strong>all major platforms</strong> (Mac / Windows / Linux).</p><p><strong>RethinkDB</strong><br></p><p>RethinkDB is the only database I'm aware of that is <strong>focused on realtime features</strong>.  Using RethinkDB allows you to create highly scalable, realtime apps with ease.  RethinkDB offers a rich set of features and it's a joy to work with.</p><p><strong></strong></p><p><strong>\"But I'm only interested in React or Golang or RethinkDB...\"</strong><br></p><p>Each of these <strong>topics could stand alone as it's own course</strong>.  Just consider it bonus content! </p><p><strong>Are realtime apps important?</strong></p><p>Software developers will <strong>need to know</strong> <strong>how</strong> to create <strong>Realtime Web apps</strong> in the very near future. It's the <strong>next evolution</strong> in <strong>Web Applications</strong>, in fact Realtime Apps/Features are already being created at companies like Twitter, Facebook and Google.</p><p><strong>Get ahead</strong> of the curve and learn how to make realtime apps now.</p><p><strong>Why take this course?</strong></p><p>Do you ever <strong>feel overwhelmed</strong> with new technologies? I think most of us do, there is so much change constantly happening and the pace of change seems to be increasing.</p><p>What can you do to <strong>manage</strong> the <strong>learning</strong> challenges you're facing?</p><p><strong>Lean learning</strong></p><p>I <strong>won't waste your time</strong>, you'll <strong>learn just what you need</strong> to know as <strong>quickly</strong> as possible. You'll start this course with the end in mind. What do I mean by that? We're going to be <strong>building a realtime web application</strong>, and you'll learn just what you need to build the app.</p><p><strong>What You'll Build</strong><br></p><p>During this course, you'll be <strong>building</strong> a <strong>Slack Clone</strong>.  </p><p><strong>Prerequisites</strong></p><p>A general familiarity with Programming and the Web. You'll <strong>start from scratch</strong> and <strong>move</strong> <strong>quickly</strong>, learning just what you need to know and nothing else.</p>", 
+    "end_date": null, 
+    "title": "Build Realtime Apps | React Js, Golang & RethinkDB", 
+    "price": "40.00", 
+    "instructors": "James Moore", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/745306_a792.jpg", 
+    "course_url": "https://www.udemy.com/realtime-apps-with-reactjs-golang-rethinkdb/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-28T23:07:17Z"
+}

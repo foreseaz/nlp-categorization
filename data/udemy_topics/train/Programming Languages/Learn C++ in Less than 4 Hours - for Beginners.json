@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is an introduction to the <strong style=\"\">C++ programming language</strong> for those who are already familiar with C syntax and some basic principles of <strong style=\"\">object oriented programming</strong>. C++ is based on C, but extends the language with features such as function templates, namespaces, and (of course) classes. We&#039;ll spend a lot of time in the first hour of the course talking about streams, which simplify input and output a great deal.</p><p><strong style=\"\">Here&#039;s a list of what you&#039;ll learn:</strong></p><p>- Primitive data types and variables</p><p>- How to create and use namespaces</p><p>- Basic I/O in C++ using streams</p><p>- Using stringstreams: input and output directly from strings</p><p>- File input and output using streams</p><p>- Functions: how they&#039;re like C functions, and how they differ</p><p>- Function templates - a look at writing generic code</p><p>- Classes and objects</p><p>- Constructors and destructors</p><p>- Inheritance (Single and Multiple)</p><p>- The idea of friend class members. </p><p>If you&#039;ve been thinking about learning C++, then this course is a good first step. </p>", 
+    "end_date": null, 
+    "title": "Learn C++ in Less than 4 Hours - for Beginners ", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/577900_bf72.jpg", 
+    "course_url": "https://www.udemy.com/learn-c-plus-plus-in-less-than-4-hours-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-09T07:41:15Z"
+}

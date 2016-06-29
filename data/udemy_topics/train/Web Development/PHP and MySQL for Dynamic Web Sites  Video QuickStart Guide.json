@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Visual QuickStart Guides are now even more visual: Building on the success of the top-selling Visual QuickStart Guide books, Peachpit now offers Video QuickStarts.As a companion to his book PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide, Fourth Edition (Peachpit Press, 2012), bestselling author Larry Ullman offers more than 90 minutes of short, task-based videos that will help you master techniques he describes in the book; instead of just reading about how to combine the PHP scripting language with the MySQL database application, you can watch the author in action. It s a great way to learn the basics and some of the newer or more complex PHP and MySQL techniques, including handling an HTML form, accessing a MySQL database server, paginating query results, debugging, handling file uploads, using jQuery, and more. This video will have you up and running with PHP and MySQL in no time.</p>", 
+    "end_date": null, 
+    "title": "PHP and MySQL for Dynamic Web Sites: Video QuickStart Guide", 
+    "price": "30.00", 
+    "instructors": "Larry Ullman", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/15379_69ee_2.jpg", 
+    "course_url": "https://www.udemy.com/php-and-mysql-for-dynamic-web-sites-video-quickstart-guide/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-03-20T22:56:04Z"
+}

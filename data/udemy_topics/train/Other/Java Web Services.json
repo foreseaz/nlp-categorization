@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Course Updated on May 26th , 2016</p>\n\n<p>I have added a new Section on Creating A WSDL From Scratch . Enjoy :)</p>\n\n<p>-------------------------------------------------------</p>\n\n<p>  \t        Are you interested in realizing the power of Web Services to bring applications running on various platforms and languages together ,but find the topic a little cryptic.  </p>\n\n<p>  \t        Do you want to build loosely coupled applications which are scalable and reusable but could not find a simple and easy to learn guide?  </p>\n\n<p>  \t        This course will simplify things with concepts and step by step implementations . By the end of it you will:  </p>\n\n<p>  \t        1. Understand the advantages of Web Services and their building blocks  </p>\n\n<p>  \t        2. Demystify the complex topics like WSDL and Web Services Design  </p>\n\n<p>  \t        3. Implement Top Down and Bottom Up Web Services  </p>\n\n<p>  \t        4. Learn about the various web service standards  </p>\n\n<p>  \t      5. Learn writing web services consumers and also a quick intro to test your web services using SoapUI  </p>\n\n<p>  \t      6. Use the WS-Security standard to secure your services  </p>\n\n<p>  \t      7. Master the REST web services concepts and design  </p>\n\n<p>  \t      8. Implement and test Secured REST Web Services  </p>", 
+    "end_date": null, 
+    "title": "Java Web Services", 
+    "price": "20.00", 
+    "instructors": "Bharath Thippireddy", 
+    "commitment": "11.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/345340_1d59_5.jpg", 
+    "course_url": "https://www.udemy.com/java-web-services/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-15T15:59:59Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>--This course is discontinued, do not purchase--</strong></p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>  \tWelcome to Android Studio - Productive App Development!  </p>  <p>  \t              This course will go over the fundamentals of the IDEA, and the core concepts of <strong>Gradle</strong>, the <strong>build automation tool</strong>, that makes up <strong>Android Studio</strong>. Focusing and fluency, edited video and content first, you will not be watching loading bars, but rather be engaged in the material, ready to do more. Moving at a brisk pace, common and relevant developer tools and practises will be emphasized and taught.  </p>  <p>  \t                                    Developers will learn to use the internal features like:  </p>  <ul>  \t<li><strong>Studio Navigation</strong></li>  \t<li><strong>Project Hierarchy</strong></li>  \t<li><strong>Version Control Integration</strong></li>  \t<li><strong>Gradle Build Automation with Build Types, Flavors and Variants</strong></li>  \t<li><strong>Library/Jar Importing</strong></li>  \t<li><strong>App Signing and Packaging</strong></li>  \t<li><strong>Productivity Tips</strong></li>  \t<li><strong>Layout Editor</strong></li>  \t<li><strong>Profiling with Android Debug Monitor</strong></li>  \t<li><strong>Emulator Setup</strong></li>  \t<li><strong>SDK Manager</strong></li>  \t<li><strong>IDEA Shortcuts</strong></li>  </ul>  <p>  \t                                         By the end, you will be familiar with the Android Studio, some services and features that Google offers though the studio like project activity templates, and Gradle, the build automation tool for handling project configuration, build types, build flavors, and build variants for app production and distribution.  \t  \t            The functions and tools for Android Studio are tailored for the Android Developer Experience, to better your apps and development for the long run by providing developer necessities in a clean layout and well organized manner.  </p>  <p>  \t            Enjoy 20+ concise, sharp, guided and up to date videos that will fast track your learning in Android Studio.  \t            The course is meant to be worked within a few days, and can even be done in one day if you have the time.  </p>  <p>  \t            Lessons flow from the previous, building upon concepts to explain how the various mechanics fit into the greater whole.  </p>  <p>  \t  Music attribution djlang59_-_Drops_of_H2O_(_The_Filtered_Water_Treatment_)  </p>", 
+    "end_date": null, 
+    "title": "Android Studio - Productive App Development", 
+    "price": "50.00", 
+    "instructors": "Ersin Ertan", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/262078_a67b_3.jpg", 
+    "course_url": "https://www.udemy.com/android-studio/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-15T21:16:31Z"
+}

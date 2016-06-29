@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tIn this part of his series on HTML5 and CSS3, author and expert looks at creating compelling web applications using the latest  features in HTML5. You’ll learn how to play and script both audio and  video and draw graphics using Canvas and SVG. You’ll also see how to  store data client-side by using the web storage API and how to work with  the two types of web storage: local storage and session storage. This  course also explores HTML5 techniques and features for creating games in  a browser.  </p>  <p>  \tThis workshop focuses on HTML5 techniques for creating web applications and games. The contents of this course include:<br>  \t<br>  \t<strong>Introduction</strong><br>  \tThis  chapter introduces the tools you’ll use in this course and provides a  sneak preview of the features that will be covered. We’ll also look at  some example applications that illustrate techniques for creating  dynamic HTML5 user interfaces.<br>  \t<br>  \t<strong>Audio and Video</strong> <br>  \tThe  growth in handheld devices that do not support plug-in programs like  Flash makes the topic of this chapter particularly crucial. You’ll learn  how to embed audio and video content natively in a Web page, without  the need for plug-ins to play the content.<br>  \t<br>  \t<strong>Creating Graphics with &lt;canvas&gt;</strong><br>  \tThe  &lt;canvas&gt; element is an exciting addition to HTML5 that allows you  to use JavaScript to dynamically render shapes. This chapter provides  an overview of how to create graphical content using the &lt;canvas&gt;  element.<br>  \t<br>  \t<strong>Creating Graphics with SVG</strong><br>  \tScalable  Vector Graphics (SVG) elements offer a wide range of functionality in  creating both static and dynamic graphics. This chapter demonstrates how  easy and fun it is to create graphical content by using SVG.<br>  \t<br>  \t<strong>Using the Web Storage API</strong><br>  \tThis  chapter describes how to store data client-side by using the web  storage API. You’ll get an overview of the types of web storage, as well  as detailed examples of common data storage situations and how to best  handle them.<br>  \t<br>  \t<strong>Gaming</strong><br>  \tThis chapter will show  you how to use HTML5 techniques and features to create games to be  played in a Web browser. You’ll be introduced to the key elements of an  HTML5 game, learn some key data considerations, and get a  behind-the-scenes tour of a real live game.<br>  \t<br>  \tThe lessons are  wrapped in a feature-rich interface that lets you jump to any topic and  bookmark individual sections for later review. Full-Screen mode provides  a hi-def, immersive experience, and Watch-and-Work mode shrinks the  video into a small window so you can play the videos alongside your  application. Also included are exercise files that give you an easy way  to try out the techniques you learn.  </p>", 
+    "end_date": null, 
+    "title": "Learn Dynamic HTML5 Programming", 
+    "price": "20.00", 
+    "instructors": "Skill Pass", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/312044_c731_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-dynamic-html5-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-02T10:30:38Z"
+}

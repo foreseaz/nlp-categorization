@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is teaches the basics of using the <strong>linux shell</strong>, and is intended as a first course in using the terminal. This course is lite version of our main course Linux Shell Course for Beginners. In this course you’ll learn how to <em>navigate the directory structure</em>, show the contents of directories, how to understand and work with <em>file permissions </em>and more.</p>\n\n<p>Topics include:</p>\n\n<ul><li>How to open the linux terminal</li></ul>\n\n\n\n<ul><li>All about directories</li></ul>\n\n\n\n<ul><li>Listing a directory’s contents</li></ul>\n\n\n\n<ul><li>Understanding file permissions</li></ul>\n\n\n\n<ul><li>Changing permissions</li></ul><p><br></p>\n\n\n\n<p>Actual course will explore various aspects of the shell, such as scripting, using utilities such as grep and sed, C and Perl programming in linux, and the file structure.<br></p>\n\n<p>I hope you join me as we explore linux together.</p>", 
+    "end_date": null, 
+    "title": "Linux Shell Course for Beginners - Lite", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "31 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/805894_4a7c_6.jpg", 
+    "course_url": "https://www.udemy.com/linux-shell-course-for-beginners-lite/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-28T06:37:28Z"
+}

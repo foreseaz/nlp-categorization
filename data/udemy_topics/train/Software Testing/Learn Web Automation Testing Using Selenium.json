@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Selenium is the most popular web browser automation tool and is an essential skill for both web developers, testers and quality professionals. Selenium automates browsers and if you can use selenium to create powerful scripts to run across systems and environments. You can also create powerful scripts for exploratory testing.</p><p>Our Course in Selenium covers the following</p><p><strong>Selenium Web Testing Basics</strong> - Learn to setup the system and learn about the web automation testing fundamentals.</p><p><strong>Selenium Web Elements</strong> - Learn how to use web elements in selenium web driver to quickly create powerful scripts.</p><p><strong>Selenium Automation Features</strong> - Learn all about the automation features required for generating robust test suites.</p><p><strong>Advance Features</strong> - Learn advance techniques and selenium use with Eclipse. </p><p><strong>TestNG</strong> - We also cover TestNg as part of this course. Learn to use this powerful framework in quick and easy steps</p><p><strong>Log4J and Other frameworks</strong> - Learn powerful testing frameworks like Log4J and Jenkins along with Selenium to complete your automation testing knowhow. </p><p>The course covers the latest tools and professional use cases and will be helpful for anyone wants to automate web app testing. Join us and starting creating powerful test scripts for your web projects.</p>", 
+    "end_date": null, 
+    "title": "Learn Web Automation Testing Using Selenium", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/581036_79e7.jpg", 
+    "course_url": "https://www.udemy.com/learn-web-automation-testing-using-selenium/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-12T12:05:37Z"
+}

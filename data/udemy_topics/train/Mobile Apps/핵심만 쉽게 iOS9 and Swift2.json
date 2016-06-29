@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Swift2를 배워서 아이폰 앱을 만들고 싶은 사람이 듣는 강의 입니다. 실제 앱을 10개 넘게 만들어 보면서 아이폰 개발의 전반적인 내용을 이해시게 될겁니다. 기초부터 차근 차근 하지만 객체지향이나, 변수, 함수, 반복문, 조건문은 알고 들으시는게 편하실겁니다.</p><ul><li>Xcode와 Interface Build의 사용 방법을 배우게 됩니다.</li><li>Swift2 의 문법을 배우게 됩니다.</li><li>Cocoa touch Framework을 배우게 됩니다.</li><li>Apple Document 보는 방법을 배우게 됩니다.</li><li>편하게 개발하실수 있는 노하우를 배우게 될 겁니다.</li><li>예제 하나하나 따라 가다보면 개발의 전반적인 흐름을 잡을수 있습니다.</li><li>앞 예제에서 배울걸 뒤에서 활용하기 때문에 처음부터 순서대로 보세요.</li><li>개발 환경이 좋아서 아이폰 앱 개발이 굉장히 재미 있다는걸 느끼시게 될겁니다.</li></ul>", 
+    "end_date": null, 
+    "title": "핵심만 쉽게 iOS9 and Swift2", 
+    "price": "50.00", 
+    "instructors": "Jin Young Choi", 
+    "commitment": "12.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/654284_5252_4.jpg", 
+    "course_url": "https://www.udemy.com/ios9-and-swift2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-29T07:24:57Z"
+}

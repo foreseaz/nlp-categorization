@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Java is a powerful language for cross-platform, object-oriented application programming. It can be found in many types of applications such as standalone, web, enterprise, and mobile. Advanced Java Programming is a higher level study of many advanced Java topics including JDBC, RMI, EIO, collections, assertions, logging, and concurrency. This advanced course by seasoned Java Developer David Saenz will demonstrate the power of Java and how to implement cutting edge apps that can perform well in mission critical applications. Source code is included. This title is a self-paced software training course delivered via pre-recorded video. We do not provide additional information outside of the posted content.  </p>", 
+    "end_date": null, 
+    "title": "Advanced Java Programming (Java SE 7)", 
+    "price": "40.00", 
+    "instructors": "VTC Software Training", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/96808_967c_5.jpg", 
+    "course_url": "https://www.udemy.com/advanced-java-programming-java-se-7-vtc/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-24T21:18:14Z"
+}

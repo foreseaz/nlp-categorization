@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">This is a step by step video tutorial course on how to build and design your own fully functional ecommerce website. It is delivered in a simple and straightforward manner and is based on osCommerce Version 2.3.1. With the right guidance most people can have their own ecommerce website up and running in a few days.</p>  <p style=\"\">This course is delivered by Darragh Griffin, who specialises in helping people use technology to start selling online. In this easy to understand course, Darragh walks users through the creation and design of a fully functioning ecommerce website. Talk a look over his shoulder as he expalins the different steps clearly without using too much technical jargon. This is a hands on course that will allow even beginners to get up and running quickly.</p>", 
+    "end_date": null, 
+    "title": "How To Build an Ecommerce Website - Step By Step", 
+    "price": "30.00", 
+    "instructors": "Darragh Griffin", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/19702_1eb9_6.jpg", 
+    "course_url": "https://www.udemy.com/how-to-build-an-ecommerce-website-oscommerce-version-231/", 
+    "currency": "USD", 
+    "subject_name": [
+        "E-Commerce"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-06-18T12:47:30Z"
+}

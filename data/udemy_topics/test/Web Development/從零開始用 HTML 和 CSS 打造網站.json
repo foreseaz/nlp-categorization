@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>        對於新接觸網頁開發的人來說，HTML 與 CSS 是兩個最重要的網頁開發語言。這兩個語言也是最簡單的網頁開發語言。如果你一直都想要有設計網頁的經驗但害怕接觸程式，這門課程會用快速且簡單的方法讓你學會這兩個語言。</p><p>        這門課程採用做中學的方式，一步步引導你從零開始完成迷你網頁。</p><p>        這門課讓你用快速且簡單的方法學會網頁設計領域中最重要的兩個語言。</p><ul><li>HTML 基礎</li><li>HTML 父子結構</li><li>CSS 基礎</li><li>ID 選擇器</li><li>撰寫代碼與設計網頁樣式</li><li>了解網頁的組成</li></ul>  <p>        網路上每一個網頁都是由程式語言代碼來完成。有許多程式語言都可以讓你的網站有各種應用，但其中最重要的兩個程式語言就是 HTML 與 CSS 。實際上，即使是聘請其他廠商設計網頁的人，對於這兩種語言也該具備基本的了解。有了這兩種語言的基本知識，你就可以不用仰賴其他人，對網頁的格式做一些調校。  </p>    <p><strong>課程內容與課程概要</strong><strong></strong><br></p><p>        這一門課程包含 77 個講座、講座影片總共有 8 個小時。這一門課會讓你對於 HTML 與 CSS 有基本的了解。這一門課會引導你直接撰寫代碼，從實作中學習，並且在課程的尾聲會利用 HTML 與 CSS 完成屬於你自己的網頁。  </p><p>        課程一開始你會知道 HTML 與 CSS 是什麼，並了解這兩種語言的用途。這一門課程中，你會建造數個迷你網頁，藉此複習學習到的知識。課程中的應用練習也能幫助磨練你的技能<br></p>  <p>        不論你是熱情的網頁設計者、部落客、程式開發員或是企業主，你都可以從學習 HTML 與 CSS 中得益。你可以建造自己的動態網頁，或是管理你已經擁有的網頁。如果你計畫要成為一個網頁開發者或是設計者，HTML 與 CSS 是最基本的兩個語言。實際上，任何人、從任何角度學習網頁開發，都需要學會 HTML 語言。同時學習 HTML 與 CSS 讓你能立刻開始設計網頁。<span></span>  </p>", 
+    "end_date": null, 
+    "title": "從零開始用 HTML 和 CSS 打造網站", 
+    "price": "50.00", 
+    "instructors": "慕課 癮科技, Brad Hussey, Derek Liu", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/608576_b4c3.jpg", 
+    "course_url": "https://www.udemy.com/html-css-zh/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-11T00:17:10Z"
+}

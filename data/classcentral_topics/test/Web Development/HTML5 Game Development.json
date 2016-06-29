@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course will walk you through the major components of building GRITS, an HTML5 game. We'll talk about how to take standard game development techniques, and use them to create high performance HTML5 applications.Why Take This Course?At the end of this course, you'll understand how to develop an HTML5 game. \nYou will gain familiarity with HTML5 features such as 2D canvas and techniques for improving performance.\n\n                                            Syllabus\n                        ### Lesson 0\nOptional HTML/Javascript crash course\n\n### Lesson 1\nIntroduction to Canvas rendering\n\n### Lesson 2\nAtlases\n\n### Lesson 3\nMap rendering\n\n### Lesson 4\nBasic Input, handling events\n\n### Lesson 5\nThe entity hierarchy\n\n### Lesson 6\nBox2D, and using external libraries\n\n### Lesson 7\nAdding sound\n\n### Lesson 8\nAsynchronous Loading\n\n### Supplementary Materials\n![Alt text](https://s3.amazonaws.com/udacity-hosted-downloads/A9781430266976-3d.png)\n\n\n[Link to download free chapters](http://bit.ly/1i3rk63)\n                                    ", 
+    "end_date": "2013-04-01T00:00:00Z", 
+    "title": "HTML5 Game Development", 
+    "price": 0, 
+    "instructors": "Colt McAnlis and Peter Lubbers", 
+    "institution_name": [
+        "Google"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.udacity.com/course/html5-game-development--cs255?utm_medium=referral&utm_campaign=api", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2013-02-04T00:00:00Z"
+}

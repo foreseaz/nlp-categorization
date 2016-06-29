@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<h4 style=\"\"><span style=\"\">Bienvenido al curso de PHP profesional, en el que aprenderás los fundamentos del lenguaje de programación más utilizado en servidores web.</span></h4>  <p style=\"\">  \t                      Vamos a centrarnos en el desarrollo con las últimas versiones de PHP (actualmente la 5.6), aprendiendo y repasando todos los conceptos básicos para que adquieras unos cimientos sólidos que te permitan continuar tu aprendizaje por ti mismo si así lo quisieras.  </p>  <p style=\"\">  \t                      Comenzaremos aprendiendo qué es HTML, cuáles son los fundamentos de la arquitectura cliente-servidor, qué es y para qué sirve HTTP, cuáles son las características de PHP. Verás que PHP es mucho más de lo que pensabas: usaremos la consola interactiva, el servidor web de PHP y trabajaremos con aplicaciones de consola en PHP.  </p>  <p style=\"\">  \t                      Continuaremos aprendiendo la sintáxis básica de PHP: qué es una variable, tipos de datos simples y compuestos, operadores del lenguaje, condicionales, bucles, cómo estructurar el código en distintos ficheros.  </p>  <p style=\"\">  \t                      Conoceremos las principales funciones del sistema, revisándolas una a una. Navegaremos por la documentación de PHP para que tú mismo sepas cómo encontrar lo que necesitas. Vamos a conocer también las funciones que tenemos para trabajar con distintos tipos de datos: numéricos, textos, matrices, fechas...  </p>  <p style=\"\">  \t                      Revisaremos cuáles son las formas de que disponemos para crear nuestras propias funciones.  </p>  <p style=\"\">  \t                      Aprenderemos a trabajar con ficheros en profundidad: cómo moverlos, eliminarlos, crear carpetas, leer su contenido, escribir en ellos, etc.  </p>  <p style=\"\">  \t                      Modificaremos imágenes, donde podremos trabajar a partir de otras ya existentes o creándolas desde cero. Podrás añadir marcas de agua, redimensionar, añadir textos, formas geométricas, etc.  </p>  <p style=\"\">  \t                      Integraremos PHP con HTTP, conociendo a fondo el funcionamiento de los formularios: recibiremos cualquier dato o fichero que envíe el usuario. Sabremos cómo hacer redirecciones, cómo indicar que una página no existe. Gestionaremos las sesiones de usuario mediante cookies. Enviaremos correos electrónicos con contenido HTML.  </p>  <p style=\"\">  \t                      Por último, si ya tienes fundamentos de bases de datos, aprenderás a integrarlas con tu página web. También sabrás lo que nadie te enseña: cómo funciona el mundo del alojamiento de páginas web. Veremos una introducción breve a Apache, el servidor web más utilizado, y aprenderemos algunos trucos, como por ejemplo cómo proteger con contraseña de forma muy sencilla toda nuestra web, o como crear URLs amigables.  </p>", 
+    "end_date": null, 
+    "title": "Introducción profesional a PHP", 
+    "price": "20.00", 
+    "instructors": "Jesús Ruiz-Ayúcar", 
+    "commitment": "15.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/145596_0480_3.jpg", 
+    "course_url": "https://www.udemy.com/curso-php-profesional/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-11T16:54:38Z"
+}

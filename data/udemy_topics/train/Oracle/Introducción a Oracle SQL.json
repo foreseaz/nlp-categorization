@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t   Aprende a utilizar Oracle SQL y además podrás obtener una Certificación de cumplimiento cuando termines.  </p>  <p style=\"\">  \t   Este curso te enseñará los fundamentos del lenguaje SQL en una base de datos Oracle.  </p>  <p style=\"\">  \t   Abarcaremos temas como:  </p>  <ul style=\"\">  \t<li style=\"\">Configuración del entorno de Oracle </li>  \t<li style=\"\">Terminología básica </li>  \t<li style=\"\">Consultar datos mediante la instrucción SELECT </li>  \t<li style=\"\">Usos de la sentencia SELECT </li>  \t<li style=\"\">Funciones de fila única y funciones de grupo</li>  \t<li style=\"\">Subconsultas </li>  \t<li style=\"\">Manipulación de datos: inserción, actualización y eliminación de datos </li>  </ul>  <p style=\"\">  \t   El curso completo tiene una duración de aproximadamente 5 horas y se dividen en varias sesiones para su mejor aprendizaje.  </p>  <p style=\"\">  \t   ¿Por qué debería tomar este curso?  </p>  <p style=\"\">  \t   Podrás ir desde principiante absoluto hasta capaz de escribir sentencias SQL en cuestión de horas, sin tener que pagar miles de dólares para la formación. Además que cuentas con toda la disponibilidad de estudiar a tu propio ritmo y desde cualquier lugar!  </p>", 
+    "end_date": null, 
+    "title": "Introducción a Oracle SQL", 
+    "price": "25.00", 
+    "instructors": "Clarisa Maman Orfali", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/149708_4b5b_2.jpg", 
+    "course_url": "https://www.udemy.com/introduccion-a-oracle-sql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-20T19:08:48Z"
+}

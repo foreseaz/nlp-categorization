@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>As the way I learned about Gamemaker: Studio was by making smaller projects and starting with platformers.</p><p><br></p><p>I have decided to make a course that takes a different approach. Instead of making a platformer or making a clone of a game, we're going to break down <strong><em>EVERYTHING </em></strong>you need to know in Gamemaker: Studio.</p><p><br></p><p>As I learned how to make games through trial and error, you can take this course in addition to watching someone else making a game in GM:S, so you can fully understand everything.</p><p><br></p><p>This course is for absolute beginners, and is a good guide to understanding rather than doing.</p><p>This course is absolutely <strong>free</strong>, so please take it and hit the green button on the right.</p>", 
+    "end_date": null, 
+    "title": "Learn everything in Gamemaker Studio", 
+    "price": 0, 
+    "instructors": "Benjamin Monderno", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/722930_b1ef_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-everything-in-gamemaker-studio/", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-10T17:43:26Z"
+}

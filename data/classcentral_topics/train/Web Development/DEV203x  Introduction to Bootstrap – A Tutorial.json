@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Bootstrap is an open source project originally created by Twitter to enable creation of responsive, mobile first web pages. Bootstrap has a standard set of classes that allow developers to quickly create applications that scale to devices of all sizes, and incorporate common components such as dialog boxes and validation. Bootstrap has become a de facto standard for web design.\n \nThis course is designed to be a primer on Bootstrap. By the end of the three modules you will have gained the knowledge to create pages common to all web applications, and implement the most frequently used components and classes provided by Bootstrap. You will also see how to use the tooling provided by Visual Studio to assist you in creating pages as quickly as possible.\n\n                                    ", 
+    "end_date": "2015-09-08T00:00:00Z", 
+    "title": "DEV203x: Introduction to Bootstrap – A Tutorial", 
+    "price": 0, 
+    "instructors": "Christopher Harrison", 
+    "institution_name": [
+        "Microsoft"
+    ], 
+    "commitment": "1-2 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.edx.org/course/introduction-bootstrap-tutorial-microsoft-dev203x-0", 
+    "duration": "22 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2015-04-07T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Technology is always changing to evolve and become something better. From old fashioned box computers to modern sleek laptops, technology aims to simplify lives. Similarly, Angular has become a better version of itself with the introduction of Angular 2.</p>\n\n<p>Currently in its beta version and supported by Google, Angular 2 was released to further simplify the process of creating responsive, mobile-friendly web pages. Although, it is still a web framework to ease the process of creating single-page applications, Angular 2 stands apart from the original in many ways. \n\n  </p>\n\n\n\n<p>A huge difference between the two can be found in the language, where Angular was using JavaScript, Angular 2 is now using Typescript. While Angular 2 maintains certain features of Angular such as speed, cross-platform capability, expressiveness, flexible nature, etc., it offers something even more such as increased support for mobile development, easier to understand syntax, cleaner coding methods, and so much more.\n\n  </p>\n\n\n\n<p><strong>So, why Angular 2?</strong>\n\n  </p>\n\n\n\n<p>Angular offers the benefits of Angular and adds certain new functionalities as well. Angular comes with an easier and cleaner dialect of JavaScript – the Typescript. It also lines up with Google’s focus on mobile development. It shifts to easier object orientation and component-based strategy, while replacing scopes and controllers for easier readability of code.\n\n  </p>\n\n\n\n<p>Angular 2 also offers more features such as re-usable and readable code with components, enhanced performance, reduced learning curve, better mobile support, incorporation of Flux and ReactJS and even adherence to ES6 specification.\n\n  </p>\n\n\n\n<p><strong>Why this course?</strong>\n\n  </p>\n\n\n\n<p>This Angular 2 course has been created by industry specialists to equip you with not only the fundamentals of Angular and Angular 2, but also with how to start coding with the framework and the best tips and tricks that can be used to get the most out of Angular 2.\n\n  </p>\n\n\n\n<p>Unlike other courses that might cover only certain features of Angular 2, this tutorial will teach you everything from the start to the end, after which you should be completely comfortable to even start building you next web app using Angular 2.\n\n  </p>\n\n\n\n<p>In addition to theory based learning, our course also provides quizzes to test yourself at the end of every section as well as coding examples and even help with building a fully functional project.\n\n  There’s no time to waste! Angular 2 is waiting to make you a faster, better and elegant developer.</p>", 
+    "end_date": null, 
+    "title": "Angular 2 Fundamentals for Web Developers", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/821788_9e4e.jpg", 
+    "course_url": "https://www.udemy.com/angular-2-fundamentals-for-web-developers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-14T08:38:38Z"
+}

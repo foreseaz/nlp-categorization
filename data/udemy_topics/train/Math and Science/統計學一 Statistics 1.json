@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p style=\"\">  \t  本課程之目的在於利用統計原理分析觀測資料，而資料分析係針對資料的特性及交互關聯來進行整理、分類及推測預判，並顯現資料分析結果與涵意。課程主要的內容包括：敘述性統計、機率分配(含間斷型與連續型)、相關估計定義技巧與定理、假設檢定的步驟與查表、假設檢定的決策判斷<br style=\"\">  </p>  <p style=\"\">  \t<p style=\"\">  \t\t  十六章內容介紹：  \t</p>  \t<p style=\"\">  \t\t<p style=\"\">  \t\t\t<p style=\"\">  \t\t\t\t        第01章 緒論　　　　　　　　第09章 常態分配  \t\t\t</p>  \t\t\t<p style=\"\">  \t\t\t\t<p style=\"\">  \t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t        第02章 柴比雪夫不等式　　　第10章 聯合機率分配  \t\t\t\t\t</p>  \t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t        第03章 機率　　　　　　　　第11章 抽樣分配(一)  \t\t\t\t\t\t\t</p>  \t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t        第04章 隨機變數　　　　　　第12章 抽樣分配(二)  \t\t\t\t\t\t\t\t\t</p>  \t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t        第05章 間斷型機率分配　　　第13章 假設檢定前準備  \t\t\t\t\t\t\t\t\t\t\t</p>  \t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t        第06章 布阿松分配　　　　　第14章 點估計(一)  \t\t\t\t\t\t\t\t\t\t\t\t\t</p>  \t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t        第07章 統計相關理論工具　　第15章 點估計(二)  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</p>  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t        第08章 連續型隨機變數　　　第16章 單母體平均數假設檢定  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</p>  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t        ◎語言  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</p>  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t        全部課程繁體中文講授。  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</p>  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t        ◎其他事項  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</p>  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p style=\"\">  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t        本課程僅供學員自修使用，無法取得中華科技大學學分。  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</p>", 
+    "end_date": null, 
+    "title": "統計學一 Statistics 1", 
+    "price": 0, 
+    "instructors": "Lee Bor-Jian", 
+    "commitment": "23 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/281308_69b2_2.jpg", 
+    "course_url": "https://www.udemy.com/statistics-1/", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-15T05:21:34Z"
+}

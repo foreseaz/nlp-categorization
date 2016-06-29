@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>Although tables store all of your data, the other three objects—forms, queries, and reports—offer you ways to work with it. Each of these objects interacts with the records stored in your database's tables. This course allows you to unleash these objects and use your relational database efficiently.<br></p>  <p>At the end of the course, participants would learn/use/acquire the following techniques/knowledge:<br></p>  <ul><li>Explore the Query Design Window</li><li>Adding fields to a query, Display/Suppress the display of a field</li><li>Creating Forms using Wizard and Form Layout View</li><li>Properties of Different Controls &amp; Forms</li><li>Using Controls in Forms (Command Button, Labels, Textbox, Combo Box, Etc.</li><li>Working with Report Layout View and Design view to create simple reports</li><li>Including Subtotals, Headers and Footers</li></ul>", 
+    "end_date": null, 
+    "title": "The 3 Musketeers of Database", 
+    "price": "20.00", 
+    "instructors": "GreyCampus Inc.", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/744498_c764_2.jpg", 
+    "course_url": "https://www.udemy.com/the-3-musketeers-of-database/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-28T05:50:38Z"
+}

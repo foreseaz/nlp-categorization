@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Always wanted to make your own game but don&#039;t know where to start or think you lack the skills to do so? Not so! This course introduces you to an extremely powerful, easy to use tool which lets you write games for just about every platform in existence!  </p>  <p>  \tWe are using something called &#039;monkey&#039; which if you have programmed before has a syntax which is a mix of BASIC and C. If you have never programmed before then you are gently introduced to the syntax and core concepts of the language to create a game.  </p>  <p>  \t  Want to make games for the web that run in any web browser or use flash? No problem. Want to use that same code to run your game on iPhone, Android, Windows mobile? Again, no problem.  </p>  <p>  \t  Want to run your game on desktop, windows, mac, linux? This tool lets you do all this and more, using a simple language that is easy enough for beginners to start learning to code and powerful enough for experienced programmers to create anything they want.  </p>", 
+    "end_date": null, 
+    "title": "Make Your Own Games for Web, Mobile and Desktop", 
+    "price": "20.00", 
+    "instructors": "Gary Kind", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/89966_af6a_6.jpg", 
+    "course_url": "https://www.udemy.com/make-your-own-games-for-web-mobile-and-desktop/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-09T08:29:23Z"
+}

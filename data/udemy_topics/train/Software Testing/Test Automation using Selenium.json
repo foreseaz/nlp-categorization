@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>\r\n\t==============================================================\r\n</p>\r\n<p>\r\n\t<strong>EXTREMELY USEFUL TO UNDERSTAND THE BASIC CONCEPTS</strong>\r\n</p>\r\n<p>\r\n\t===============================================================\r\n</p>\r\n<p>\r\n\tAt the end of this course, you will get the knowledge of...\r\n</p>\r\n<p>\r\n\tBasic concepts of Web Applications, Need for Automation, Automation using Selenium Tools, Working with Selenium IDE, Advanced Usage of Selenium IDE, Basic Concepts in Selenium RC, Adding Some Spice to your Tests, Advanced Selenium RC usage, Setting up an Automation Suite, Working with Selenium WebDriver, Selenium Webdriver API Commands and Operations, Features of Selenium Webdriver Drivers, Combining Webdriver with Selenium RC,\r\n</p>", 
+    "end_date": null, 
+    "title": "Test Automation using Selenium", 
+    "price": "35.00", 
+    "instructors": "Parallel Branch Inc", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/143834_ecbf_4.jpg", 
+    "course_url": "https://www.udemy.com/test-automation-using-selenium/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-08T05:19:50Z"
+}

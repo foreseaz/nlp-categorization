@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "Enterprise Architecture (EA) has different meanings for different organizations. The Enterprise Architecture Research Forum defines EA as the continuous practice of describing the important elements of a socio-technical organization, how they are related to each other and the environment to understand complexity and manage change. The United States government classifies enterprise architecture as an Information Technology function, and defines the term as the documented outcomes from examining the enterprise.<br style=\"\">  <br style=\"\">  <p style=\"\">  \tIn general, Enterprise Architecture refers to the structural design of an enterprise including its people, technologies and the activities for designing and describing enterprises. This course will explain the different benefits, characters, principles and frameworks of EA. Developing, building, using and maintaining an EA will also be part of the discourse.  </p>", 
+    "end_date": null, 
+    "title": "Enterprise Architecture", 
+    "price": "50.00", 
+    "instructors": "The Art Of Service", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/125878_ccd9_9.jpg", 
+    "course_url": "https://www.udemy.com/enterprise-architecture/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Architectural Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-27T01:00:47Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Hello all ! <br>Welcome to our course this course will develop your skills in maintaining structured stylesheets<br> LESS and SASS are the CSS preprocessors which allows web designers for more functional approach towards styling these preprocessors have some great features like variables, mixins, if statements, loops, maths, inheritance and more.<br> <br> </p>  <p>You don't need to understand every concept of LESS and Sass to use it—once you get past the installation and set up, you can start using it right away.</p>  <p>Coding your CSS with LESS and Sass saves you time—and allows you to write neater, more consistent code. The time you'll spend completing this course will be easily made up on your next web project!</p>  <p><br> now a days projects are getting bigger and bigger and more detailed so we need to have some methods to maintain and manage our CSS these preprocessors are very handful in making css more manageable </p>", 
+    "end_date": null, 
+    "title": "Better way towards CSS using Less and Sass", 
+    "price": "20.00", 
+    "instructors": "Skill Dudes", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/738360_3fad.jpg", 
+    "course_url": "https://www.udemy.com/better-way-towards-css-using-less-and-sass/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-22T22:08:44Z"
+}

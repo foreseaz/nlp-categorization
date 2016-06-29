@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This video course will help you secure your web application with the  use of highly practical examples. You will also learn how to implement  security checks, thus enabling you to create a staunch authentication  mechanism that will prevent spoofing. Integrate with LDAP and progress  on to more advanced security techniques such as Remember Me or the  powerful ACL mechanism.<br></p>  <p>  \tThese pragmatic videos will help you learn how to implement various  techniques for securing your web application through the use of simple  to advanced use cases that follow the development of a web application  using practical, step-by-step examples.  </p>  <p>  \tEach video section shows different ways to empower Spring Security  for the web. The authentication techniques comprising of login,  registration, and logout are implemented in this course. Moreover, the  Remember Me functionality is added to the web app in addition to  integration with a production-ready LDAP server. Further on, the  authorization method is used and discussed in detail with simple roles,  before moving on to the more flexible Spring expressions and finally the  extremely powerful Access Control Lists mechanism, which allow security  rules per object.  </p>  <p>  \tUltimately, this video course is meant to help you hit the ground  running with proper security for your web applications. The primary goal  of the course is to be efficient, utilitarian, and immediately  applicable for a web application.  </p>  <strong>About the Author</strong>  \t<strong>Eugen Paraschiv</strong> is a Senior Software Engineer living in Bucharest,  Romania, and has more than six years of experience developing and  securing a wide range of web applications and systems.   His current  work is focused on security, REST, and machine learning. He has hands-on  experience with Spring Security on several large systems and with a  variety of security standards (SSO/CAS, LDAP, UAA, OAuth, and so on). <p><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Spring Security", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/370662_95a7_2.jpg", 
+    "course_url": "https://www.udemy.com/spring-security/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-15T19:39:56Z"
+}

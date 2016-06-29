@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>Curso sobre el diseño y cálculo de instalaciones solares térmicas para ACS y calefacción.</p><p>El curso está estructurado en un total de 9 módulos que hacen referencia a las partes que debe tener un proyecto de una instalación solar térmica.</p><p>En el curso se explicarán con cálculos reales la manera de realizar el cálculo de los componentes de la instalación en función de la demanda energética a satisfacer.</p><p>Los diferentes cálculos son explicados paso a paso.</p><p>Se trata de un curso eminentemente práctico para llevar al alumno a saber diseñar y calcular una instalación para el uso real.</p>", 
+    "end_date": null, 
+    "title": "Diseño de instalaciones solares térmicas", 
+    "price": "20.00", 
+    "instructors": "Lucas Mop", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/627964_746b.jpg", 
+    "course_url": "https://www.udemy.com/diseno-de-instalaciones-solares-termicas/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-01T13:37:11Z"
+}

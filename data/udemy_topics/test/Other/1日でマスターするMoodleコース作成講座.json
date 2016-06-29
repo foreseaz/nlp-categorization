@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>ネット上に、授業や研修のページを作成するMoodleというソフトウェアについて学びます。</p><p>Moodleは世界でトップシェアの学習プラットフォームです。</p><p>オープンソースで配布されているため、無料で導入したり、デザインや機能をカスタマイズしたりできます。</p><p>この講座では、ネット上に授業のページを開設して、</p><ul><li>生徒の予習や復習をサポートしたい</li><li>反転授業にチャレンジしてみたい</li><li>オンライン講座を制作して、販売したい</li></ul><p>という方々のために、短期間にMoodleを使いこなし、授業や講座のページを自分で作って、運用できるようになることを目指して作りました。<br><br>＊ただし、公開サーバを運用するには、別途専用サーバかクラウドサービスの利用が必要になります。<br>＊コース作成の練習用環境を用意する予定です。</p>", 
+    "end_date": null, 
+    "title": "1日でマスターするMoodleコース作成講座", 
+    "price": "25.00", 
+    "instructors": "井上 博樹 (Hiroki Inoue)", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/657532_63f6_5.jpg", 
+    "course_url": "https://www.udemy.com/1daymoodle/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-02T06:38:54Z"
+}

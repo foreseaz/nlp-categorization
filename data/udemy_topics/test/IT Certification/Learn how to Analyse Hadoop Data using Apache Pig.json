@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this Apache Pig course, you will learn about Pig platform and how to use it to process a large volume of data sets in a parallel way. This includes an overview of Big Data and Hadoop, what data looks like before, during and after a dataflow, what data is supported, and the different forms it can take; how Pig can transform data, and advanced topics on debugging flows, flow optimization and some enterprise-level features of Apache Pig. This course on Apache Pig shows how Pig platform provides an abstraction over the MapReduce model to make the programming easier.</p>", 
+    "end_date": null, 
+    "title": "Learn how to Analyse Hadoop Data using Apache Pig ", 
+    "price": "20.00", 
+    "instructors": "Easylearning guru", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/673398_4b71_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-how-to-analyse-hadoop-data-using-apache-pig/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-18T15:07:32Z"
+}

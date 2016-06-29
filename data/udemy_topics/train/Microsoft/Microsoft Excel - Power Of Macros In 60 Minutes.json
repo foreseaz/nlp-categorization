@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t                          A step-by-step video series that will help you get familiar with Excel&#039;s Macro Recorder. Many Excel users across the globe are unaware of the power, macros can bring to their workbooks, and the amount of time that can be saved. This course aims at getting you equipped with enough tips &amp; tricks to automate any repetitive task that you might be performing, using Excel&#039;s Macro Recorder.  </p>  <p>  \tFrom teaching Excel to automatically generate templates for you, to controlling objects like AutoFilter, Pivot Tables etc., to work on their own, you will learn it all in a matter of 60 mins.  </p>  <p>  \t<u style=\"\">In this course you will learn</u> -  </p>  <p>  \t                1) Basics of Macros &amp; Macro recording  </p>  <p>  \t                2) Elements of the macro recorder  </p>  <p>  \t        3) Recording Simple &amp; Complex Macros  </p>  <p>  \t                4) Optimizing a recorded code with some VBA lines  </p>  <p>  \t                5) Some helpful examples for hands on training  </p>  <p>  \t                          The course contains easy to understand video lessons &amp; other reading material and should take approximately 1 hour to finish. Easy to follow along with the help of exercise files that are provided with lessons wherever required for practice.  </p>  <p>  \t            Those who have been using Excel and are looking to get into Macros or VBA,  this course will provide a good foundation to build upon.  </p>", 
+    "end_date": null, 
+    "title": "Microsoft Excel - Power Of Macros In 60 Minutes", 
+    "price": "20.00", 
+    "instructors": "Deep Dave", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/320880_1c3d_5.jpg", 
+    "course_url": "https://www.udemy.com/microsoft-excel-macro-recorder-to-automate-tasks/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-16T13:47:22Z"
+}

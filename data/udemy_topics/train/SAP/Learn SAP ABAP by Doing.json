@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>In this course we will learn   SAP ABAP    , one of the world's most popular programming languages . <br>We will not learn by using common way . In common way learning process, we learn the theory first and then based on the theory we have learned we create a program , so sometimes we get bored with the theory . We will not use that way , but we will learn by creating programs immediately and then the theories are inserted while we are creating the program , for the purpose of not getting bored and of course for enjoying the learning process.</p>\n\n\n\n<p>This course contains several sessions , and every session contains several chapters ,and in every chapter we will create one SAP ABAP program .<br>At the end of every session there will be a quiz for checking your understanding about the current session .</p>\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Learn SAP ABAP by Doing ", 
+    "price": "20.00", 
+    "instructors": "Lukman Hakim", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/673024_4fa0_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-sap-abap-by-doing/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-18T07:06:56Z"
+}

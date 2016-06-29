@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>JavaScript is an awesome client side language that allow a communication between a website and web application with users.</p><p>In this course, you will learn JavaScript basics, and how to make interactive web pages.</p><p>Then, we will learn jQuery basics, and how to use jQuery plugins like fullcalendar</p><p>At the final section, this course teach junior web developers, or programming enthusiasts, how to send data through jQuery and AJAX, to server and make change in data, with no need to refresh the page.<br></p>\n\n<p>To start this course, you should download wampserver, and sublime text 2, or you can use your preferred editor.</p>\n\n<p>We are not going to learn how AJAX works using XML requests and responses. Our main goal is to send data with no page reload or refresh.</p>\n\n<p>If you want to add interactivity and simplicity, to your web application, using AJAX, and reduce your bandwidth consumption, this course might be for you.</p>\n\n<p>At the end, you will learn how to create AJAX filters, to get data according to specific criteria.</p>\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "JavaScript, jQuery and Ajax", 
+    "price": "20.00", 
+    "instructors": "Eng Ali Mehdy", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/746790_9c38_3.jpg", 
+    "course_url": "https://www.udemy.com/ajax-calls-the-simplest-way/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-30T11:23:08Z"
+}

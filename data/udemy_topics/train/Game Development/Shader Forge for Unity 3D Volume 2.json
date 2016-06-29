@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Shader Forge Volume 2 picks up where we left off in the Getting Cozy with Shader Forge course, and begins to extend and expand your shader construction knowledge with Shader Forge. In this course we dive deeper into the knowledge of the different nodes, available in Shader Forge, and gives you a better understanding of just how some more advanced shader techniques are accomplished.</p><p>Throughout this course we will learn how to do effects such as Refraction, the ins and outs of uv&#039;s, and how to create FX such as a peel away dissolve, seen in many of todays games. By the end of this course you will have created a Glass shader, a Matcap shader, and a translucency shader as well as learned some tips and tricks of shader construction.</p>", 
+    "end_date": null, 
+    "title": "Shader Forge for Unity 3D Volume 2", 
+    "price": "20.00", 
+    "instructors": "Gametutor :-)", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/523466_d422_5.jpg", 
+    "course_url": "https://www.udemy.com/shader-forge-for-unity-3d-volume-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-08T17:15:12Z"
+}

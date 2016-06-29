@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t        The purpose of this course is to introduce you to a magnificent multi-purpose 3D modeling tool, called 3D Coat (I cover this using version 4.0.04B).  With this program, you can sculpt hard and organic surface creations using Voxels, retopologize your sculptures, UV unwrap them, paint directly on them (while baking high-poly details onto lower poly meshes, and export in a number of formats). This course includes almost 4 hours of instruction and is aimed at beginners to advanced 3D hobbyists and professionals who want to get familiar with 3D Coat for the first time. Students will receive custom user interface themes created by the instructor, as a bonus.  </p>", 
+    "end_date": null, 
+    "title": "Introduction to 3D Coat", 
+    "price": "20.00", 
+    "instructors": "Robert Alvord", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/107262_b82f_11.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-3d-coat/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-17T18:21:22Z"
+}

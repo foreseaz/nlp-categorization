@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p style=\"\">  \t  This course is a simplified course for solving recursive functions using different methods to solve them such as the Master Theorem, Iterative Substitution, and Induction. In this course the student will be able to solve the running time of a recursive function or algorithm using terms like Big-Oh, Big-Theta, or Big Omega. This course is great for anyone taking a course in computer science, computer engineering, mathematics, Information Technology or anyone who wants to understand how programmers compare code.  </p>  <p style=\"\">  \t  This course is targeted to computer science, computer engineering and Information Technology students wanting to learn how to solve recurrence relations and gain a deeper understanding about asymptotic such as Big-Oh, Big-Theta, and Big –Omega, or anyone in a technical field.  </p>  <p style=\"\">  \t  Included in the course are video lessons, quizzes, and PDF documents with examples of recurrence relation problems, and examples of how to solve them. Each quiz is a multiple-choice quiz, and each answer has an explanation for reasons why it’s wrong or right. Each document comes from the video lesson, so while the student is watching the videos s/he will be able to pause read over and review the document.  </p>  <p style=\"\">  \t  The student will learn how solve recurrence relations and come out with an understanding of Asymptotic within just 63min. that&#039;s about the time it would take for one day of a computer science class!  </p>  <p style=\"\">  \t  This course is structured first by a video lesson on the subject at hand and then a quiz afterwards to make sure the student understood the material in the video lesson. The lessons start off with an introductory lesson on recurrence relation and then each preceding lesson will build upon the previous.  </p>  <p style=\"\">  \t  Students should take this course for an easy to understand explanation of recurrence relations and different ways to solve them in less then the time it would take for a professor at a university to teach the subject.  </p>  <p style=\"\">  \t<br style=\"\">  \t<br style=\"\">  </p>", 
+    "end_date": null, 
+    "title": "Recurrence Relation Made Easy", 
+    "price": "20.00", 
+    "instructors": "Rodney Anderson", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/370248_5923.jpg", 
+    "course_url": "https://www.udemy.com/recurrence-relation-made-easy/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-14T20:25:04Z"
+}

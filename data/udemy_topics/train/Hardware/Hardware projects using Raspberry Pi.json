@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>This is a follow on course to the #1 Raspberry Pi course on Udemy - \"Introduction to Raspberry Pi\".</strong></p><p>Highlights - <strong>#2 Raspberry Pi course on Udemy in terms of students (Over 2,200 students)</strong></p><p><strong>#2 Raspberry Pi course on Udemy in terms of 5 star reviews (Over 25 )</strong></p><p><strong>#2 Raspberry Pi course of Udemy in terms of reviews (Over 40)</strong></p><p><strong>The course will be regularly updated, so that the students have something to look forward to. Latest update on 7-Nov-15.</strong></p><p><strong>All our students will get access to VIP pricing ($8) for all new courses created by Makerdemy. We currently have 10 courses under our brand and will be releasing 1 new course every 2 months.</strong></p><p>_________________________________________________________________<br></p><p>This is an intermediate course about the credit card sized computer Raspberry Pi. This course is ideal for those who are interested in exploring the possibilities of Physical computing with Raspberry Pi. The course assumes basic knowledge on computer programming. However, knowledge of Linux operating system and Python programming language would greatly help you in getting up to speed.</p><p>The GPIO pins on a Raspberry Pi are a great way to interface with physical devices like resistors and sensors with the little Linux processor. If you're a Python lover, there's a sweet library called RPi dot GPIO that handles interfacing with the pins.</p><p>You will learn 3 complete hardware projects. The first one teaches you how to build a Walky Talky to make the most of your Raspberry Pi using Linux command. You just have to enter the desired frequency and you can talk to your neighbors without paying any operator charges!</p><p>The second project involves building a light detector mechanism which let you know the amount of light available in the particular area. The Raspberry Pi hardware uses a computer program written in Python. You will hook the Pi up with light detector circuit and will use the program to know the sensor behavior upon different intensities of light.</p><p>The third project teaches you to build a motion sensor based teddy bear which laughs upon waving our hand. The motion detector circuit will be embedded inside the teddy bear and will be controlled using a program written in Python to sense the motion. </p><p>What are you waiting for? Enroll now!</p><p>The course provides the complete source code for all the three hardware projects.</p><p>The entire course can be completed over a fortnight, including the hardware assembly and coding in Python. </p><p>By the end of this course, you can build your own Raspberry Pi controlled physical devices. You will also learn how to write your own python code to interact directly with the physical world.</p>", 
+    "end_date": null, 
+    "title": "Hardware projects using Raspberry Pi", 
+    "price": "20.00", 
+    "instructors": "Venkatesh Varadachari, Satyajeet Sah", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/455592_895b_2.jpg", 
+    "course_url": "https://www.udemy.com/hardware-projects-using-raspberry-pi/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-24T10:28:01Z"
+}

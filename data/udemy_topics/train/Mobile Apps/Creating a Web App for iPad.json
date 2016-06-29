@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  This course will teach you to use standard web technologies to create an engaging, interactive user experience on the iPad.  </p>  <p>  \t  We&#039;ll be creating an eSales Aid in the course, which is a popular use for sharing information about a company or product on tablet devices. However, the possibilities of this approach are limitless. Use standard web technologies to create interactive books, catalogs, or any interactive project you can imagine. If you can create it on the web, you can create it in a Web App.  </p>  <p>  \t  And the best part is...<strong style=\"\"> no app stores</strong>!  </p>  <p>  \t  Web Apps run from any web server, and are actually web sites themselves. The main difference is in the way they load information, and define behaviors. We&#039;ll cover creating custom icons and startup screens, optimizing the user experience for touch events, and using CSS3 hardware accelerated features for smooth animations.  </p>  <p>  \t<strong style=\"\">What to expect in the course</strong>  </p>  <p>  \t  In the course we&#039;ll start by creating web graphics with Photoshop, for both standard and retina screens. There is also a &quot;skip Photoshop&quot; folder as well, in case you want to bypass working in Photoshop. We&#039;ll also be using CSS3 to detect hi-definition displays (retina screens), as well as using CSS3 transform properties to position out HTML elements across the iPad screen.  </p>  <p>  \t  The main focus of the course is the functionality needed for create an engaging user experience, which consists of JavaScript, as well as supporting HTML and graphics specific for the iPad interface. This course will teach you to code the core functionality of the Web App, while supplying plenty of code snippets to relieve you from any repetitive typing. Watch the first 4 videos in Lesson 1, they are all FREE, and provide an overview of the expectations, software, and final product we&#039;ll be creating.  </p>  <p>  \t  The project files provided in this course include a copy of the fully completed final project. Use these files to track your progress, correct any errors you may be having, or more importantly, adapt the project into your own interactive Web Apps.  </p>", 
+    "end_date": null, 
+    "title": "Creating a Web App for iPad", 
+    "price": "20.00", 
+    "instructors": "Chris Converse", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/50226_8c11_3.jpg", 
+    "course_url": "https://www.udemy.com/creating-a-web-app-for-ipad/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-04-17T15:52:57Z"
+}

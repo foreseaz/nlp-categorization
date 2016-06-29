@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Learn ArcGIS Explorer Desktop: Learn both the practical skills of how to use GIS data in ArcGIS Explorer platform with easy to follow video lectures and laboratory exercises.</p><p>This course provides overview on how to download, install, and use ArcGIS Explorer Desktop. Additionally, the course will give hands-on lab exercise on adding GIS data in ArcGIS Explorer, visualizing GIS data, localization of ArcGIS Explorer with multiple languages, and visualizing in 2D and 3D presentation.</p><p>No prior experience required. All are tailored such that anyone can follow them easily.<br></p><p>This course will provide you the necessary skills on how to use ArcGIS Explorer Desktop software to visualize and analyze your GIS data. At the end of this course, you will be able to add, visualize, and analyze GIS data in ArcGIS Explorer.</p>", 
+    "end_date": null, 
+    "title": "ArcGIS Explorer Desktop for Beginners", 
+    "price": "20.00", 
+    "instructors": "Dr. Alemayehu Midekisa (PhD)", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/655328_8476_4.jpg", 
+    "course_url": "https://www.udemy.com/arcgis-explorer-desktop-your-complete-guide/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-30T08:45:06Z"
+}

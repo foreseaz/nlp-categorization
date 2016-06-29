@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">I&#039;ve seen a lot of people struggle with adding audio and video for their apps. In this course, I want to teach you to make a media/music player app using <strong style=\"\">Xcode </strong>and the programming language <strong style=\"\">Swift</strong>. <strong style=\"\">You will learn the AVFoundation framework, it is used for working with audio and video</strong>.</p><ul style=\"\"><li style=\"\">Learn to work with sliders, button, tables, etc.</li><li style=\"\">Learn to transition between different screens.</li><li style=\"\">Learn how to work with frameworks.</li></ul><p style=\"\">We will use two screens and fill them with objects like tables, sliders, buttons.  This course is broken down into small, concise videos that are easy to follow. I guarantee that by the end of this course you will be able to add music and sound effects to your app. </p><p style=\"\">This course is meant to be understood be even absolute beginners because I will explain everything. I hope to see you in the course.</p>", 
+    "end_date": null, 
+    "title": "Make Media Player App for iOS 8 using Swift (AVFoundation)", 
+    "price": 0, 
+    "instructors": "Basit Zahid", 
+    "commitment": "44 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/451494_127e_2.jpg", 
+    "course_url": "https://www.udemy.com/make-media-player-app-for-ios-8-using-swift-avfoundation/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-19T19:05:27Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Una de las mayores barreras cuando iniciamos a desarrollar aplicaciones en Web con HTML, CSS y JavaScript, es que desconocemos las herramientas que nos harían más productiva nuestra tarea. </p><p>Lo mismo sucede cuando somos expertos en el desarrollo web, generalmente nos anclamos a un editor y desconocemos que hay otras opciones más poderosas al rededor, así como gratuitas (a mi me paso esto).</p><p>Este curso tiene como objetivo que obtengas bases firmes para seleccionar un editor de código, conocer la poderosa herramienta de codificación que es Emmet y poder utilizar con fluidez la consola de los navegadores, así como la herramienta de depuración de los mismos, conociendo los términos generales a los depuradores de cualquier plataforma.</p><p>Hicimos una selección de las herramientas a base de que fueran gratuitas, muy extendidas en su uso, que existiera una amplia comunidad a su alrededor y usuarios que desarrollen para ellas.</p><p>Desafortunadamente no hay suficiente tiempo para analizar todas las herramientas del mercado, pero estamos seguros que hemos elegido poderosas herramientas que ayudarán a aumentar tu productividad como desarrollador web.</p><p>Este curso está dirigido a desarrolladores web que maneje HTML, CSS y JavaScript, pues son los lenguajes en que se basan las herramientas que analizamos en el curso.</p><p>Si usted no utiliza estos lenguajes, o busca soporte en otros lenguajes, como PHP, .NET o Java, no le será de utilidad el presente curso.</p><p>Por último, este curso lo he querido desarrollar desde hace mucho tiempo como instructor de lenguajes web, ya que veo como el desconocimiento de dichas herramientas entorpece el aprendizaje.</p><p>Sinceramente espero que este curso te sea de mucha utilidad. <br></p>", 
+    "end_date": null, 
+    "title": "Herramientas para el desarrollador web", 
+    "price": "20.00", 
+    "instructors": "Francisco Javier Arce Anguiano", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/816736_8e89_2.jpg", 
+    "course_url": "https://www.udemy.com/herramientas-para-el-desarrollador-web/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-08T21:56:54Z"
+}

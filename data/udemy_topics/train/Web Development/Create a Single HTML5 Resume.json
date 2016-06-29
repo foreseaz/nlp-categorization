@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>The reasons to have an online resume are countless! With one click you can introduce yourself to potential employers, highlight your accomplishments and your leadership experiences, talk about your qualifications, prove you care about the job and you understand the working world. An online presence is easy to share, it makes you look good, it’s limitless, always working for you and its sole purpose is to get you an interview.</p>    <p><strong style=\"\">What this course will cover:</strong><br style=\"\">  </p>    <p>In this intermediate course you will create a single HTML5 Resume page based on the 960 grid system, a very popular streamline web development workflow used by a lot of developers and designers. </p>    <p>The course begins with an introduction of the 960 grid system, what it means, and how to use the 12 column framework. We will be creating this page together code by code, line by line, controlling typography, styling every element and utilizing the framework. This resume page is using HTML5 elements, HTML lists, CSS pseudo class selectors, and CSS positioning. Some working HTML and CSS experience is required as well as a basic knowledge of Photoshop.</p>    <p>The whole resume layout is based on a detailed layered Photoshop template which I am proving as of the exercise files to follow along. We are going to be measuring spaces, gaps, widths, heights, sampling background colors, and typographical elements.</p>    <p><strong style=\"\">Total Time</strong>: 72.04 minutes</p>  ", 
+    "end_date": null, 
+    "title": "Create a Single HTML5 Resume", 
+    "price": "20.00", 
+    "instructors": "Elias Sarantopoulos", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/34812_b0e2_4.jpg", 
+    "course_url": "https://www.udemy.com/html5-resume/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-01-06T14:18:13Z"
+}

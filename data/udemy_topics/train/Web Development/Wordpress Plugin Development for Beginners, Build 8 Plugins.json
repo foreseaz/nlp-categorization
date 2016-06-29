@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "  <p style=\"\"><em style=\"\"><strong style=\"\">  \t  25% of the Internet is powered by Wordpress - Build plugins for millions of clients!</strong></em></p>    <p style=\"\">  \t  In this course we&#039;ll cover the art and science of <strong style=\"\">Wordpress Plugin Development</strong> from scratch. By developing <strong style=\"\">8 simple plugins</strong> we will cover <strong style=\"\">everything you need to know</strong> to be able to create awesome plugins that will run in most of the web.  </p>  <p style=\"\">  \t  By following the video lessons and having a play with the <strong style=\"\">numerous downloadable examples</strong> you will get quite comfortable with the following topics:  </p>  <ul style=\"\">  \t<li style=\"\">Plugin basic structure and life cycle.</li>  \t<li style=\"\">How to use <strong style=\"\">filters</strong> and <strong style=\"\">actions</strong> to have our code executed at the right moment.</li>  \t<li style=\"\">Accessing posts through <strong style=\"\">The Loop</strong>.</li>  \t<li style=\"\">Creating your own <strong style=\"\">shortcodes</strong> to give your users superpowers and allow them to save time.</li>  \t<li style=\"\">How to add custom <strong style=\"\">metadata</strong> to posts and users.</li>  \t<li style=\"\"><strong style=\"\">Widget</strong> creation from scratch.</li>  \t<li style=\"\">Dashboard widgets.</li>  \t<li style=\"\">How to create our own <strong style=\"\">admin pages</strong> with global settings.</li>  \t<li style=\"\">Using <strong style=\"\">Ajax</strong> and external JavaScript libraries in our plugin. Including <strong style=\"\">JQuery</strong>.</li>  \t<li style=\"\">Task scheduling with <strong style=\"\">Cron</strong>.</li>  \t<li style=\"\">Creating <strong style=\"\">custom tables</strong> to extend Wordpress beyond your dreams.</li>  </ul>  <p style=\"\">  \t<strong style=\"\">No previous Wordpress experience is required</strong> to take this course. Although we do need you to be familiar and have basic knowledge of <strong style=\"\">PHP</strong>, <strong style=\"\">MySQL</strong> and web development in general.  </p>    <p style=\"\">  \t  If you&#039;ve always wanted to create your own Wordpress plugins or you need to learn how to do it quickly for work reasons, this is definitely <strong style=\"\">the best way to go</strong>.  </p>  ", 
+    "end_date": null, 
+    "title": "Wordpress Plugin Development for Beginners, Build 8 Plugins", 
+    "price": "20.00", 
+    "instructors": "Pablo Farias Navarro", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/50528_a3bf_5.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-plugin-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-04-19T13:22:00Z"
+}

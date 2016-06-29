@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p><strong>*** NEW SECTION Show How to Prep and Email Access PDF Reports ***</strong></p><p><strong>This new review says it all:</strong></p><p><em>\"This is the best Udemy class I've taken so far. The only thing better than learning by doing is to learn to do something USEFUL. This class teaches you a useful skill (email Excel reports) but it also shows you how easy and powerful VBA can be. It only took about 3 hours to gain useful knowledge of Excel, Access and VBA. Good audio/video quality plus example files and detailed PDF instructions. We need more like this!!\" - Russ Cannizzo<br></em></p><p><strong>PLUS</strong> the new section shows you how to Instantly create a PDF of any Access report (with a button on the report itself!) and email as an attachment!  Learn More VBA Tricks!<br></p><p><strong>This Course Uses Visual Basic, but in a way that makes in easy for anyone, even those who have NEVER done any programming!  This is a great way to quickly see what the benefits of using VBA are without working your way through a huge course!</strong></p><p>This Course shows you. <em><u>very quickly</u></em>,  how to use VBA programming to automate the distribution of Excel files by sending them as email attachments. By running one macro, you will <strong>update five reports in Excel</strong>, including a <strong>Pivot Table</strong>, then save and email the Excel file to as many email addresses as you have in your list. And all it takes is a few seconds!</p><p><strong>From a Student -</strong></p><p><em>\"This is a follow up course from Bruce's Access to Excel &amp; Access VBA. No disappointments in his now family consistent style of teaching - simple, clear, &amp; right to the heart of its real world application! I'm giving it 5 stars!\"</em><em> - Bare</em></p><p>The short programs we create in this course show you, step by step, how to update a link from Access to Excel using VBA, then save the Excel file and email it as an attachment by using Outlook, ALL under VBA control - all you do is enter the report dates you want and what you want to name the emailed Excel file!</p><p>* Videos show you every step of each process, including the setup of your email!</p><p>* There is no fluff and you can learn the entire method in about two hours!</p><p><strong>From another Student -</strong></p><p><em>\"I'm little rusty on VBA skills yet the instructor has explained the needed commands in a way I would listen to him for hours. And files are downloadable too so I know where to return when my business clients need this great automation.\"</em> - Matt S Rinc</p><p>The method uses VBA Programming, but anyone with just a very basic knowledge of Access and Excel can easily accomplish all the tasks in the course, since every click and keystroke is shown and a finished copy of the program is provided.  If you have never done any VBA programming, this could be a good way to get a general idea of how VBA works and the incredible power it gives you.</p><p><em><strong>Think of how much time this will save you!</strong></em> Any reports you do on a regular basis can be setup with this method and you can save many hours every month!</p><p>Once you setup your data links and your email list, the process of distributing Excel reports by email only takes a few seconds and each email is personalized and sent to one email at a time.</p><p>And remember - you don't have to know anything more than the bare basics of Access and Excel to learn how to instantly send data from Access to Excel, then email the files using Outlook. </p><p><strong>Another Student -</strong></p><p><em>\"Excellent teaching style with easy to understand explanations. Bruce is excellent when it comes to responding to queries, and is happy to hear any ideas you may have to improve (and expand) the course. Buy it!!!</em><em></em><strong>\" </strong><em>- Ray McConaghy</em></p><p>This Microsoft Access tutorial could <strong><u>greatly increase your productivity</u></strong> and help you develop skills that are in very high demand in the workplace.</p><p>Click the <strong>Take This Course</strong> button and start learning <u>right now!</u></p><p>NOTE: The course files were created using Microsoft Office 2013, but users of Office 2010 will still be able to complete the course.  Note that data slices do not work on non pivot tables in Excel 2010, so there is a separate Excel file download for Office 2010.</p>", 
+    "end_date": null, 
+    "title": "Access to Excel to Outlook: Email Excel & Access PDF Reports", 
+    "price": "20.00", 
+    "instructors": "Bruce Myron", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/482854_7c9a.jpg", 
+    "course_url": "https://www.udemy.com/access-to-excel-to-outlook-instant-email-of-excel-reports/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-22T04:36:55Z"
+}

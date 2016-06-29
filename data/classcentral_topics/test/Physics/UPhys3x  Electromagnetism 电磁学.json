@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Physics"
+    ], 
+    "description": "\n\n                    \n                    \n                    In this physics course you will learn about electromagnetism, a branch of physics, which includes the study of electric and magnetic fields.\n\nThis is a seven-week course, broken up into both basic and advanced sections. Most learners and engineering students may choose to study only the basics. Those who want to learn at the level of a physics major should study the advanced sections of the course as well. However, the final examination will only cover the basic parts.\n\n本电磁学课程主要学习电场和磁场，一般需要28学时 (7周左右)。视频分为基本内容和提高内容（打星或双星），普通学习者和工科学生只需选择基本内容学习，要达到物理专业的学习要求，则需要额外学习提高内容。最后考试只覆盖基本内容。\n\n                                    ", 
+    "end_date": "2016-04-05T00:00:00Z", 
+    "title": "UPhys3x: Electromagnetism 电磁学", 
+    "price": 0, 
+    "instructors": "Yu An, Liuwan Zhang and Xinyi Chen", 
+    "institution_name": [
+        "Tsinghua University"
+    ], 
+    "commitment": "5-6 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://www.edx.org/course/electromagnetism-dian-ci-xue-tsinghuax-uphys3x", 
+    "duration": "18 weeks", 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2015-12-01T00:00:00Z"
+}

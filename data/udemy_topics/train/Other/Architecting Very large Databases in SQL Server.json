@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">Recent Reviews from other Course: </strong></p>\n\n<p><strong class=\"redactor-inline-converted\">Clear</strong> concise and <strong class=\"redactor-inline-converted\">informative</strong> – Thomas</p>\n\n\n\n\n\n\n\n\n\n<p>Clear and <strong class=\"redactor-inline-converted\">step-by-step i</strong>nformation – Rosalia </p>\n\n\n\n\n\n\n\n\n\n<p>The course was <strong class=\"redactor-inline-converted\">well structured</strong> from <strong class=\"redactor-inline-converted\">start to finish</strong>. Keep up the good work. – Arina</p>\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Course Summary</strong></p>\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">VLDB</strong> is an <strong class=\"redactor-inline-converted\">acronym</strong>. It stands for <strong class=\"redactor-inline-converted\">Very Large Database</strong>.  The term is not specific to SQL Server. </p>\n\n\n\n\n\n\n\n\n\n<p>What constitutes a VLDB is always up for discussion.  It’s my opinion that any database <strong class=\"redactor-inline-converted\">over 100 gig</strong> should be designed and tuned much more granularly than smaller databases.  </p>\n\n\n\n\n\n\n\n\n\n<p>For the purposes of this course I’ll use the <strong class=\"redactor-inline-converted\">benchmark of 100 gig</strong> for a VLDB. </p>\n\n\n\n\n\n\n\n\n\n<p>In this course we will learn how to <strong class=\"redactor-inline-converted\">design a VLDB for SQL Server</strong>. We will also look at some additional measures you’ll need to take from a <strong class=\"redactor-inline-converted\">performance tuning perspective</strong>. </p>\n\n\n\n\n\n\n\n\n\n<p>In the course we will be <strong class=\"redactor-inline-converted\">highlighting practices</strong> you should consider implementing in order to <strong class=\"redactor-inline-converted\">maximize scale</strong> and performance of your VLDBs. </p>\n\n\n\n\n\n\n\n\n\n<p>This course will take a <strong class=\"redactor-inline-converted\">real world approach</strong>. That simply means you will be able to take what you’ve learned in the lessons and build out a real world VLDB.  </p>\n\n\n\n\n\n\n\n\n\n<p>Thanks for your interest in “<strong>Architecting </strong><strong class=\"redactor-inline-converted\">Very Large Databases in SQL Server</strong>.” </p>\n\n\n\n\n\n\n\n\n\n<p>The <strong class=\"redactor-inline-converted\">first 10 minutes</strong> are <strong class=\"redactor-inline-converted\">free</strong> on every Udemy course. Please take a moment to watch all ten minutes to ensure this course is right for you. </p>\n\n\n\n<p>It's also a good idea to <strong class=\"redactor-inline-converted\">read over the lecture titles</strong>. The titles will provide you with <strong class=\"redactor-inline-converted\">insight</strong> into what's really in the course. </p>", 
+    "end_date": null, 
+    "title": "Architecting Very large Databases in SQL Server", 
+    "price": "20.00", 
+    "instructors": "Mike West", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/853962_f167.jpg", 
+    "course_url": "https://www.udemy.com/architecting-very-large-databases-in-sql-server/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-19T12:18:13Z"
+}

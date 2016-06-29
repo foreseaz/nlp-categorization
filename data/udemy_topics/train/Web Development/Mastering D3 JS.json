@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Everyone collects data, but few ever understand their data. That&#039;s because they need a graph or a diagram to force them to notice what they never expected to see. Data is useless without a picture and D3JS is the workhorse of turning data into pictures. Most charting libraries on the Web rely on it.</p><p style=\"\">Mastering D3JS will show you everything that goes into a data visualization from start to finish. You will learn about the details of using D3JS, structuring and debugging your code, and the logic behind data visualization.</p><p style=\"\">You will start the course with some data and a goal. You will then be guided on the quest of turning that data into an interactive picture for the Web. Following the example, you will master D3 layouts, learn about adding animations and user interaction to make your visualization responsive, scrape more data when needed, and learn about making pretty maps. You will learn to use libraries such as Bootstrap, Figue, and Lo-dash to add those extra features. If an obstacle appears, you will conquer it. Finally you&#039;ll learn to debug your code and learn the best practices of this trade. You&#039;ll also see some interesting examples of good visualization and information design.</p><p style=\"\">When you finish the course, you will have mastered data visualization with D3JS. You will be an expert!</p><p style=\"\"><strong style=\"\">About the Author</strong></p><p style=\"\"><strong style=\"\"></strong><strong style=\"\"></strong><strong style=\"\">Swizec Teller </strong>is a digital nomad and full stack web engineer. He travels the world and helps startups win by setting up new teams, training juniors, and fixing spaghetti code or implementing new features. His code has been used by MasterCard, Commerzbank, Google, Mashable, Lyft, and many others. He previously published a book called Data Visualization with D3JS aimed at people learning D3JS from scratch. For the past few years he&#039;s also been working on a project to help programmers be more awesome, called Why Programmers Work at Night. Swizec&#039;s work has been featured in Business Insider, LifeHacker, Huffington Post, and several dead-tree magazines. He&#039;s spoken on BBC Radio, appeared on Slovenian national television, and given talks all over the world.</p>", 
+    "end_date": null, 
+    "title": "Mastering D3 JS", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/507870_b55c_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-d3-js/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-21T06:50:44Z"
+}

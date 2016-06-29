@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \tSASS (Syntactically Awesome StyleSheet) dosyalarının kodlanması, derlenmesi ve CSS çıktılarına dönüştürülmesi hakkında bilgi edinebileceğiniz bir kurs. Bu kursta, Visual Studio üzerinde gerekli extension&#039;larla nasıl SASS dosyaları ile çalışabileceğimizi sizlere göstereceğim.  </p>  <p>  \tAyrıca Koala App (ve benzer uygulamalar mevcut) ile visual studio olmadan da nasıl sass dosyalarını derleyebileceğimizi ve css çıktıları oluşturabileceğimizi sizlere gösteriyor olacağım.  </p>  <p>  \tSon videolarda Visual Studio 2013 için çıkarılan son güncelleme ile Update 2 CTP 2 gelen SASS desteğine de değiniyor olacağım.  </p>  <p>  \tBu kurs sonunda CSS dosyalarını artık eski tarzda oluşturmayacaksınız. Eminim ki, SASS sözdizimi aracılığı ile daha az kodla daha kullanışlı ve standartlaştırılmış CSS dosyaları oluşturacaksınız.  </p>", 
+    "end_date": null, 
+    "title": "SASS Prensipleri ve Visual Studio", 
+    "price": 0, 
+    "instructors": "Kadir Murat BAŞEREN", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/175750_e499_7.jpg", 
+    "course_url": "https://www.udemy.com/sass-yapisini-ogrenin/", 
+    "subject_name": [
+        "Design Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-03T11:22:57Z"
+}

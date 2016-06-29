@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>PHP tireless sessions allow for communication between the server and client. This allows web applications to remember the identities of visitors as well as any variables or other data. This practical and challenging project-based course will help developers take the data that PHP normally stores in plain text files and write them into a more secure database, where the records can be read and destroyed as needed. I help you set up a SQL database, define classes to open and close sessions, read and write variables, destroy sessions, and manage out-of-date records. The lessons culminate in a short project that uses tokens to recognize returning users in an auto-login scenario. </p>    <p>In this course: </p>    <ul><li>I'll show you how to store session in data in a MySQL database</li><li>How to log in returning users automatically </li><li>We'll begin with an overview of how PHP handles Sessions and stores session data in plain text files on the web server </li><li>We'll set up a database to store session data more securely</li><li>I'll show you how to define a class to open and close sessions</li><li>Read and write session variables to the database</li><li>Destroy sessions and garbage collect out-of-date records</li></ul>                <p>Sessions expire as soon as soon as the browser is closed, but the highlight of this course is an auto-login system that uses a randomly generated single use token that recognizes returning users and preserves their data between visits, even on different computers. I hope you'll find this a useful and challenging project.</p>    <p>keeping the user's data always up to date with persistent sessions is extremely convenient. But, and I can't stress this strongly enough, persistent sessions are not 100 percent secure. When using sessions, you should always use a connection over secure sockets layer, or transport layer security whenever possible. I’m going to talk about why always re-authenticate user credentials before allowing allowing access to pages with sensitive content, such as changing user account details.</p>", 
+    "end_date": null, 
+    "title": "Everything About PHP Sessions", 
+    "price": "20.00", 
+    "instructors": "Hassan Azimi", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/625888_d238_2.jpg", 
+    "course_url": "https://www.udemy.com/everything-about-php-sessions/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-29T13:39:11Z"
+}

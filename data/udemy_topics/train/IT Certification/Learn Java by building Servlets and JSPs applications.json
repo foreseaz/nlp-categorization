@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong><br></strong></p><p>In this series, we shall go through all the basics and fundamentals of Servlets and JSPs. You will gain all what is required to start building your own, next big idea.</p><p>By the end of this course, you will be trained on a practical application using all the knowledge thought throughout the course.</p><p>We will be using Apache Tomcat web server and eclipse IDE.<br></p><p>please beware that this course is not meant to be a java tutorial, and basic knowledge of java is required.</p>", 
+    "end_date": null, 
+    "title": "Learn Java by building Servlets and JSPs applications", 
+    "price": "30.00", 
+    "instructors": "Behrouz Riahi", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/602080_6ca3.jpg", 
+    "course_url": "https://www.udemy.com/learn-servlets-and-jsps-in-an-easy-and-professional-way/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-04T02:15:08Z"
+}

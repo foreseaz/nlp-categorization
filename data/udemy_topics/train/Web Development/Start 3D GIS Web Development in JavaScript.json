@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Updated on 2016-May-13:  please be noted that the 3D web API beta version has been upgraded to v.4.0</strong></p>\n\n<p>------------------------------------------------------------------------------------------------------------------</p>\n\n<p>“The world we live is full of coordinates and I love it!\" - Alfred Lam, the course instructor.</p>\n\n\n\n<p>“The essence of creating a beautiful map is balance!\" - Alfred Lam, the course instructor.</p>\n\n\n\n<p>This is a short and intensive entry-level course teaching how to build 3D GIS maps to web application using 3D ArcGIS API for JavaScript beta version. 3D is awesome and I always want to offer cool stuffs in my GIS courses here. Code provided in this course are simple and easy to learn. Just follow the course video and lecture resources files, students can spend their least time to build a 3D GIS web app easily.  </p>\n\n\n\n<p>GIS stands for Geographic Information System. It is composed of hardware, software, people, environment, and data. Therefore, students with different backgrounds can learn and use GIS. The purpose of this course is to convey a concept to students that adding a 3D GIS map to web for your clients is not difficult. You can spend your minimum time to handle it.</p>\n\n\n\n<p>If you are new to using 3D GIS maps in web development, this course is the right place for you to start. The 3D ArcGIS API for JavaScript has been developed by ESRI, which is so far the biggest vendor of GIS systems and applications in the world. Some developers may ask why do we bother to use GIS maps as we already have Google map. My answer is that the Google map is great for you to identify your locations. But its data, functionality, and flexibility are far from enough if you want to create a versatile app with various basemaps, to tell a story, to add your own map features, or to perform an analysis to your clients with a map. ArcGIS, on the other hand, is the most comprehensive and advanced GIS in the world and it is capable of performing all these tasks for you. Please be noticed that this 3D map API is still in its beta version.</p>\n\n\n\n<p>I hope this course can help expand a little bit of horizon for you. Time is precious for many web developers and programmers. This course was condensed with all necessary steps for starting a 3D GIS web app development. For those GIS users, students, iOS developers, and anyone who are interested in developing more decent mobile or web GIS apps. Please be aware of my other course announcements about Android, JavaScript, and iOS in the future.</p>\n\n\n\n<p>After completing this course and the exercises, you will be able to:</p>\n\n\n\n<ul><li>Create a 2D webMap;</li><li>Generate a 3D webMap without coding;</li><li>Build a web app loaded with 3D webMap;</li><li>Build a 3D basemap web app;</li><li>Select and switch basemaps;</li><li>Zoom to a map point;</li><li>Set a camera view position;</li><li>Add a search widget to search a location;</li><li>Add a basemap toggle widget to toggle a basemap;</li></ul>", 
+    "end_date": null, 
+    "title": "Start 3D GIS Web Development in JavaScript", 
+    "price": 0, 
+    "instructors": "Alfred Lam", 
+    "commitment": "43 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/789892_895e_5.jpg", 
+    "course_url": "https://www.udemy.com/start-3d-gis-web-development/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-11T17:50:59Z"
+}

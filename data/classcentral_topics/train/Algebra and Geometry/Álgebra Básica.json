@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Algebra & Geometry"
+    ], 
+    "description": "\n\n                    \n                    \n                    Galileo dijo: \"El Universo está escrito en lenguaje matemático y los caracteres son triángulos, círculos y otras figuras geométricas, sin las que es humanamente imposible entender una sola palabra\".\n    Para entender el Universo, es necesario plantear leyes que expliquen su comportamiento, como pueden ser las leyes de la gravedad, la propagación del calor, el electromagnetismo, la reproducción celular, el crecimiento poblacional, la propagación de las enfermedades, la variación de los precios de las acciones en la bolsa de valores, el comportamiento de las masas ante un conflicto, etcétera.\n    Todas estas leyes se plantean utilizando ecuaciones, algunas muy sencillas, otras no tanto. Para poder aplicar estas ecuaciones para resolver problemas, es necesario manipularlas  siguiendo ciertas reglas que nos da el álgebra.\n    Piensa en el álgebra como la gramática, que nos dice cómo traducir nuestras ideas al lenguaje, cómo formar frases y oraciones a partir de palabras, cómo conjugar verbos, a identificar las partes de una oración, las reglas de acentuación, etcétera.\n    En este curso aprenderás a construir expresiones algebraicas a partir de frases, lo que te permitirá resolver problemas en los que  conoces algunos datos numéricos y necesitas encontrar otros.\n    Podrás plantear y resolver ecuaciones de primer grado, ecuaciones simultáneas y ecuaciones de segundo grado.\n    Este curso te va a ser muy útil si actualmente estas llevando un curso de álgebra en la escuela y tienes problemas con él. También si ya has estudiado álgebra y necesitas repasarla, ya que necesitas recordarla para tener éxito en otros cursos más avanzados, como Geometría Analítica, Cálculo o Estadística.\n\n                                            Syllabus\n                        Introducción al álgebraAl final de este módulo:\n•\tReconocerás el álgebra como la gramática con la cual las ciencias plantean problemas y buscan soluciones a los mismos. \n•\tEscribirás expresiones algebraicas a partir de frases en el lenguaje común que expresen relaciones entre diferentes variables.\n•\tValuarás expresiones algebraicas para números concretos y simplificarlas utilizando las reglas usuales de la aritmética de los números reales.Ecuaciones de primer grado y ecuaciones simultáneasAl final de este módulo:\n•\tPlantearás  ecuaciones de primer grado a partir de problemas concretos, para resolverlas usando operaciones algebraicas elementales.PolinomiosAl final de este módulo:\n•\tEfectuarás operaciones aritméticas con polinomios a fin de simplificarlos.Productos notables y factorizaciónAl final de este módulo:\n•\tRealizarás productos y factorizaciones de expresiones algebraicas de manera eficiente utilizando las reglas conocidas como productos notables, con la finalidad de emplearlas para resolver ecuaciones de segundo grado.Ecuación de segundo gradoAl final de este módulo:\n•\tPlantearás ecuaciones de segundo grado a partir de situaciones concretas. Así mismo, podrás encontrar las soluciones de dichas ecuaciones ya sea factorizándolas como producto de dos ecuaciones de primer grado, o bien, utilizando la ecuación general de segundo grado.\n                                    ", 
+    "end_date": "2016-07-18T00:00:00Z", 
+    "title": "Álgebra Básica", 
+    "price": 0, 
+    "instructors": "Elena de Oteyza, Carlos Hernández and Emma Lam", 
+    "institution_name": [
+        "Universidad Nacional Autónoma de México"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.coursera.org/learn/algebra-basica", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-13T00:00:00Z"
+}

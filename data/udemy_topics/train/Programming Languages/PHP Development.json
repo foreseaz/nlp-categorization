@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t      This course is offered to allow for download and anytime use as well as for anybody who wishes to support my YouTube channel.  This course is still in development and by becoming a student to this course you will receive any future video within this series for FREE!  When created, they will be added to this course and you can download them as you please (This does not ensure new content).  There is also a lot of content already, which will begin your PHP experience!  By enrolling in this course I will know that there is an interest in this material and I will be motivated to create EVEN MORE!  Thank you to everyone who contributes!  </p>  <p style=\"\">  \t  About this course:  </p>  <p style=\"\">  \t  This is an introductory course that dives into the basics of many topics in PHP programming, so far including:  </p>  <ol style=\"\">  \t<li style=\"\">Introduction</li>  \t<li style=\"\">Servers and Clients</li>  \t<li style=\"\">variables and constants</li>  \t<li style=\"\">datatypes  \t<ol style=\"\">  \t\t<li style=\"\">Strings and numbers</li>  \t\t<li style=\"\">arrays</li>  \t\t<li style=\"\">etc...</li>  \t</ol>  \t</li>  \t<li style=\"\">operators</li>  \t<li style=\"\">control structures (if, while, for, etc...)</li>  \t<li style=\"\">functions</li>  \t<li style=\"\">and many of the great possibilities with PHP!  </li>  </ol>", 
+    "end_date": null, 
+    "title": "PHP Development", 
+    "price": 0, 
+    "instructors": "Caleb Curry", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/120042_147c_6.jpg", 
+    "course_url": "https://www.udemy.com/calebthevideomaker2-php-development-classes/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-14T22:36:07Z"
+}

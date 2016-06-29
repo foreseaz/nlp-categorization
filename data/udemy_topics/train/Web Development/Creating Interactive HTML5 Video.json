@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course, you will learn how to go beyond just static HTML video and allow your users to interact with your HTML videos. We will take ordinary HTML video and add interactive elements, such as clickable areas on the video that, when clicked on, could allow the user to explore concepts in more depth as well as adding timed triggers that happen at certain points of the video.. Then, you will also learn how to branch out to different parts of the video depending on the user’s choice. Finally, you will see how this interaction is viewable on all mobile and desktop devices.</p>\n\n<p>Concepts Taught:</p>\n\n\n\n\n\n<ul><li>HTML5 Video</li><li>CSS</li><li>JavaScript</li><li>jQuery</li><li>Skeleton CSS</li><li>Featherlight Lighboxes</li></ul>", 
+    "end_date": null, 
+    "title": "Creating Interactive HTML5 Video", 
+    "price": "20.00", 
+    "instructors": "Jeff Batt", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/869448_7d76.jpg", 
+    "course_url": "https://www.udemy.com/creating-interactive-html5-video/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-05T15:51:31Z"
+}

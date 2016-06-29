@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<ol><li>Welcome to this Avelx course, this course will develop your skills in maintaining structured stylesheets. Sass is a CSS preprocessor which allows a more functional approach to styling; such as variables, mixins, if statements, loops, maths, inheritance and more.</li></ol>\n\n<p>  \t          First I'll show you how to easily use the command line to keep our CSS up to date. We'll be watching our Sass files automatically for any new changes and exporting in real time. Also the command line allows real time compression to produce a smaller CSS file and converting between Sass and SCSS.  </p>\n\n\n\n<p>  \t          With projects getting larger and more detailed we need to keep our CSS maintained. This can be a handful when it comes to a standard CSS stylesheet. But with Sass everything can become a breeze!  </p>", 
+    "end_date": null, 
+    "title": "Sass Workflow", 
+    "price": 0, 
+    "instructors": "Lawrence Turton", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/382786_e67e_5.jpg", 
+    "course_url": "https://www.udemy.com/sass-workflow/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-02T06:54:55Z"
+}

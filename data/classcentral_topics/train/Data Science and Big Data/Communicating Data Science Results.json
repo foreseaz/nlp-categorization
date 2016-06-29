@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    Important note: The second assignment in this course covers the topic of Graph Analysis in the Cloud, in which you will use Elastic MapReduce and the Pig language to perform graph analysis over a moderately large dataset, about 600GB. In order to complete this assignment, you will need to make use of Amazon Web Services (AWS). Amazon has generously offered to provide up to $50 in free AWS credit to each learner in this course to allow you to complete the assignment. Further details regarding the process of receiving this credit are available in the welcome message for the course, as well as in the assignment itself. Please note that Amazon, University of Washington, and Coursera cannot reimburse you for any charges if you exhaust your credit.\n\nWhile we believe that this assignment contributes an excellent learning experience in this course, we understand that some learners may be unable or unwilling to use AWS. We are unable to issue Course Certificates for learners who do not complete the assignment that requires use of AWS. As such, you should not pay for a Course Certificate in Communicating Data Results if you are unable or unwilling to use AWS, as you will not be able to successfully complete the course without doing so.\n\nMaking predictions is not enough!  Effective data scientists know how to explain and interpret their results, and communicate findings accurately to stakeholders to inform business decisions.  Visualization is the field of research in computer science that studies effective communication of quantitative results by linking perception, cognition, and algorithms to exploit the enormous bandwidth of the human visual cortex.  In this course you will learn to recognize, design, and use effective visualizations.\n\nJust because you can make a prediction and convince others to act on it doesn’t mean you should.  In this course you will explore the ethical considerations around big data and how these considerations are beginning to influence policy and practice.   You will learn the foundational limitations of using technology to protect privacy and the codes of conduct emerging to guide the behavior of data scientists.  You will also learn the importance of reproducibility in data science and how the commercial cloud can help support reproducible research even for experiments involving massive datasets, complex computational infrastructures, or both.\n\nLearning Goals: After completing this course, you will be able to:\n1. Design and critique visualizations\n2. Explain the state-of-the-art in privacy, ethics, governance around big data and data science\n3. Use cloud computing to analyze large datasets in a reproducible way.\n\n                                            Syllabus\n                        VisualizationStatistical inferences from large, heterogeneous, and noisy datasets are useless if you can't communicate them to your colleagues, your customers, your management and other stakeholders.  Learn the fundamental concepts behind information visualization, an increasingly critical field of research and increasingly important skillset for data scientists.  This module is taught by Cecilia Aragon, faculty in the Human Centered Design and Engineering Department.Privacy and EthicsBig Data has become closely linked to issues of privacy and ethics: As the limits on what we *can* do with data continue to evaporate, the question of what we *should* do with data becomes paramount.  Motivated in the context of case studies, you will learn the core principles of codes of conduct for data science and statistical analysis.  You will learn the limits of current theory on protecting privacy while still permitting useful statistical analysis. Reproducibility and Cloud ComputingScience is facing a credibility crisis due to unreliable reproducibility, and as research becomes increasingly computational, the problem seems to be paradoxically getting worse.  But reproducibility is not just for academics: Data scientists who cannot share, explain, and defend their methods for others to build on are dangerous.  In this module, you will explore the importance of reproducible research and how cloud computing is offering new mechanisms for sharing code, data, environments, and even costs that are critical for practical reproducibility.\n                                    ", 
+    "end_date": "2016-07-11T00:00:00Z", 
+    "title": "Communicating Data Science Results", 
+    "price": 0, 
+    "instructors": "Bill Howe", 
+    "institution_name": [
+        "University of Washington"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/learn/data-results", 
+    "duration": "3 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-20T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this training video on creating Interactivity with HTML5 and CanvasJS, author and designer Mark Shufflebottom will introduce you to CanvasJS and how to use it with the HTML5 Canvas to create rich, interactive content.<br style=\"\"><br style=\"\">Throughout the course of this tutorial, Mark uses the example of an interactive game to show you how to use CanvasJS. You will build this game using EaselJS and Flash components (provided in the working files), and along the way learn how to create mouse interactions, debugging, create animation and movement, deal with collisions and much more.<br style=\"\"><br style=\"\">By the completion of this training course, you will be familiar with the Canvas tag for HTML5, and using EaselJS to create interactive content for your website. Working files are included to allow you to follow along and use the same files that the author uses throughout the training.<br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "HTML5 and CreateJS Tutorial - Learn Interactive Development", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/25111_5a6c_10.jpg", 
+    "course_url": "https://www.udemy.com/get-creative-with-html5-and-createjs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-09-19T23:11:10Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   Model-Driven Architecture (MDA) is an approach for the development of software systems. It is a set of guidelines for the structuring of specifications and are commonly shown as models.  </p>  <p style=\"\">  \t   This course will begin discussions by presenting an overview of Systems Engineering, Development Life cycle, and Model-Driven Architecture.  This course will also explain Model-Driven Architecture principles, models, tools, and processes.  </p>", 
+    "end_date": null, 
+    "title": "Model Driven Architecture", 
+    "price": "50.00", 
+    "instructors": "The Art Of Service", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/168354_30ff_2.jpg", 
+    "course_url": "https://www.udemy.com/model-driven-architecture/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-20T02:50:54Z"
+}

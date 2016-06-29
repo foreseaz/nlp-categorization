@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t            In the &quot;<em style=\"\">Mastering Oracle Database 12c SQL by example</em>&quot; course, students learn how to use SQL&#039;s best practices to query and manipulate data held in Oracle relational databases.  </p>  <p style=\"\">  \t <strong style=\"\">What distinguishes this course from others SQL courses?</strong>  </p>  <p style=\"\">  \t            This course is a media-rich learning experience! It will take your learning to the next level with lectures that will provide you an effective learning method, consisting of:  </p>  <p style=\"\">  \t <em style=\"\">A brief and summarized theoretical component</em> that will save your time reading the exhaustive Oracle SQL documentation presenting you just the fundamental and essential learning topics.  </p>  <p style=\"\">  \t<em style=\"\">A Virtual Class Module </em><strong style=\"\"> </strong>that will plug you into a class environment, where you can learn by example, with plenty of demonstrations that will show you how to implement SQL&#039;s best practices using the Oracle Database  </p>  <p style=\"\">  \t<strong style=\"\">   Practice is the key of success!</strong> You can practice the <em style=\"\">several hands-on exercises</em> available at the end of each lecture including <strong style=\"\"><em style=\"\">lecture quizzes</em></strong> at any time and anywhere you want.  </p>  <p style=\"\">  \t <strong style=\"\"><br style=\"\">  \t </strong>  </p>  <p style=\"\">  \t <strong style=\"\">Why should you take this course?</strong>  </p>  <p style=\"\">  \t            If you are <strong style=\"\">new to SQL</strong>, this course will be a <strong style=\"\">fast and effective way</strong> for you to learn this language and become a skilled SQL developer.For the<strong style=\"\"> intermediate</strong>, the advanced topics provide <strong style=\"\">new implementation approaches</strong>, including the <strong style=\"\">newest SQL 12c features</strong>, that I&#039;m sure will be a plus for your daily challenges using SQL and improve the way you perform your Oracle Database related tasks.  </p>  <p style=\"\">  \t    Since <strong style=\"\">my goal is to provide every Udemy student with an exceptional learning experience</strong>, when you enroll this course expect my online support to clarify any doubt or question you may have throughout the course.  </p>", 
+    "end_date": null, 
+    "title": "Mastering Oracle Database 12c SQL by example", 
+    "price": "50.00", 
+    "instructors": "Prof. Rui Cunha", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/93228_9a7d_14.jpg", 
+    "course_url": "https://www.udemy.com/oda-mastering-oracle-sql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-16T21:31:58Z"
+}

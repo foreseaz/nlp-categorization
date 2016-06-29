@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\">In this course, we explain the relationship between SQL and the R package dplyr.  I will show you how to query a baseball database with SQL in Microsoft Access and then show you how to do exactly the same thing with dplyr in R.  We will begin with simple queries, progress to aggregation and grouping, and finish with queries involving joins.  By the end of the course, you should be able to use dplyr to explore your own data sets.  </p><p style=\"\">At a relaxed pace, it should take about three weeks to complete the course.  The course is for beginners in SQL, R, and dplyr.  You also do not have to understand very much about baseball.  We will be using the Lahman Baseball Database, R, dplyr, and Microsoft Access.  I will show you how to install everything.</p>", 
+    "end_date": null, 
+    "title": "Baseball Database Queries with SQL and dplyr", 
+    "price": 0, 
+    "instructors": "Charles Redmond", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/524138_45df_4.jpg", 
+    "course_url": "https://www.udemy.com/baseball1/", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-09T13:04:51Z"
+}

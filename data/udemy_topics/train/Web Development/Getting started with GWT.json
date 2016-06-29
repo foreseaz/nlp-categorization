@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course, you'll be able to learn about the basics of GWT. We'll learn about the widgets, the layouting, UiBinder, Event Handlers and how to include static ressources like CSS and images. At the end of it, you'll be able to build from scratch a simple client-side GWT application that allow you to show some small messages, as in the Twitter interface.</p><p>You will have videos that alternate between theory and practice (live coding and developing of a real GWT application). We see a bit of theory, then we apply it in practice. That way, it's easier to memorize it, because you'll be able to apply it right away.</p><p>Also, you'll learn why GWT is a robust toolkit that allows you to build solid web applications with static typing inspired of Java (instead of the dynamic typing of JavaScript) and why it's good.</p><p>The content of the course is not that long (about an hour), so you'll be able to learn in no time.</p><p>Finally, you'll be in good shape to look at all the cool widgets and frameworks developed by the GWT community that will help you develop a kickass web application.</p><p>Also, a simple tip : don't only watch the videos. Type on your keyboard as we go along. It will help you learn and get your fingers trained to do GWT properly.</p><p>I hope you will have fun in this course !<br></p>", 
+    "end_date": null, 
+    "title": "Getting started with GWT", 
+    "price": "20.00", 
+    "instructors": "Olivier Lafleur", 
+    "commitment": "36 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/642496_ac35_4.jpg", 
+    "course_url": "https://www.udemy.com/getting-started-with-gwt/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-16T15:24:05Z"
+}

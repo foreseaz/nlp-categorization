@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Statistics & Probability"
+    ], 
+    "description": "\n\n                    \n                    \n                    Understanding statistics is essential to understand research in the social and behavioral sciences. In almost all research studies, statistics are necessary to decide whether the results support the research hypothesis. In this course you will learn the basics of descriptive statistics; not just how to calculate them, but also how to evaluate them. An important part of the material treated in this course will prepare you for the next course in the specialization, namely the course Inferential Statistics. We will start with the concepts variable and data, the difference between population and sample and types of data. Then we will consider the most important measures for centrality (mean, median and mode) and spread (standard deviation and variance). These will be followed by the concepts contingency, correlation and regression. All these statistics make it possible to represent large amounts of data in a clear way, enabling us to spot interesting patterns. The second part of the course is concerned with the basics of probability: calculating probabilities, probability distributions and sampling distributions. You need to know about these things in order to understand how inferential statistics work. We will end the course with a short preview of inferential statistics - statistics that help us decide whether the differences between groups or correlations between variables that we see in our data are strong enough to conclude that our predictions were confirmed and our hypothesis is supported.You will not only learn about all these concepts, you will also be trained to calculate and generate these statistics yourself using freely available statistical software.\n\n                                            Syllabus\n                        Descriptive statistics allow us to represent essential information about a large amount of data by summarizing characteristics of the data visually and numerically. They also form the basis for inferential statistics, that help us decide whether our data provide support for the research hypothesis. You will learn about the basic concepts and learn to calculate and generate these statistics yourself using freely available statistical software.In the first part of the course we will consider the basic concepts, graphs and the most important descriptive statistics that help us to spot interesting patterns. The second part of the course is concerned with the basics of probability, necessary to understand inferential statistics. We will end the course with a short preview of inferential statistics. Week 1: Exploring data \n\n\n introduction to statistics \n sample and population\n center and variability statistics\n graphical representation\n quiz and warm-up assignments (not graded)\n\nWeek 2: Association\n\n\n contingency tables\n correlation\n regression\n quiz and small assignment (graded)\n\nWeek 3: Probability\n\n\n definition of probability\n calculating probabilities\n quiz and paper on week 1 &amp; 2 (graded)\n\nWeek 4: Probability distributions\n\n\n basic concepts\n types of distributions\n normal distribution\n binomial distribution\n quiz and small assignment (graded) \n\nWeek 5: Sampling distributions\n\n\n variation in sample values \n sampling distribution for proportions \n sampling distribution for means \n quiz and paper on week 3 &amp; 4 (graded)\n\nWeek 6: Confidence intervals &amp; significance\ntesting\n\n\n statistical inference\n confidence interval for proportions and means\n significance tests for one proportion and one mean\n quiz and small assignment (graded)\n\nWeek 7: Study week\n\n\n time to ask your final questions\n time to work on last paper\n\nWeek 8: Exam week\n\n\n paper on week 5 &amp; 6 (graded), final exam (graded) and course evaluation\n\n                                    ", 
+    "end_date": "2016-02-15T00:00:00Z", 
+    "title": "Descriptive Statistics", 
+    "price": 0, 
+    "instructors": "", 
+    "institution_name": [
+        "University of Amsterdam"
+    ], 
+    "commitment": "4-8 hours", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.coursera.org/course/descriptivestats", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-01-04T00:00:00Z"
+}

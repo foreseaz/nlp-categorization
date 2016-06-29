@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p><strong></strong><strong>「関数に興味がある」</strong></p><p><strong>この講義を受けるための動機はたったこれだけで大丈夫です。</strong></p><p>そんなあなたのための1時間集中講座です。</p><p>-----------------------------</p><p>講義の内容としては、</p><p><strong>Step1 絶対覚えておきたい7つの関数（セクション1） 約60分</strong></p><p>関数の中でも特に使われているものを学習しましょう。</p><p><strong>Step2 他のセルにも関数を入力し、表を使えるように整えていく（セクション2） 約60分</strong></p><p>関数の組み合わせ（入れ子処理）による発展的な方法を学習しましょう。</p><p>-----------------------------</p><p>講義の詳細</p><p><strong>Step1 絶対覚えておきたい7つの関数（セクション1）</strong></p><p>関数の中でもよく使われている７つの関数の使用方法について、作成例を交えながら、学習をしていきます。</p><p>使用する関数</p><p>・SUM</p><p>・AVERAGE</p><p>・ROUND</p><p>・COUNT</p><p>・VLOOKUP</p><p>・IF</p><p>・LEFT(RIGHT)</p><p><strong>Step2 他のセルにも関数を入力し、表を使えるように整えていく</strong></p><p>複数の処理を１つのセルで処理をする方法や、実務で使用する場合の見栄えの調整方法について学習し、今後の実務で「スキルを活かす」方法についてご説明します。</p><p>この2ステップを通じて、関数をご自身のものにしていただきます。</p>", 
+    "end_date": null, 
+    "title": "エクセルで絶対覚えておきたい7つの関数 | たった1時間で習得できる", 
+    "price": 0, 
+    "instructors": "Takazumi Yamaguchi", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/526028_7fed_4.jpg", 
+    "course_url": "https://www.udemy.com/excelfunction/", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-11T14:10:34Z"
+}

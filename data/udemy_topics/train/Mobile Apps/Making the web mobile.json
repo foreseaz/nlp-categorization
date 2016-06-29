@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>\r\n\tYou have a website already but without the mobile version? You intend to build your new website or blog which can be accessed from mobile devices while fitting with the site content?<br>\r\n\tThis course guides you how to step by step create a mobile friendly site and extend your audience by increasing the number of your site&#039;s mobile users.<br>\r\n\t<br>\r\n\tIn the first chapter, you can see the course structure overview and the learning methodology through the entire course. In the next chapter, you can learn how to set up the working environment with WordPress installation package and the IDE. In the chapter three, you  will learn about the standard structure of a WordPress site with its templates and the concepts of jQuery mobile as well. After that, we will walk through with building your own mobile site.<br>\r\n\tIn the last chapter, you will learn about some plug-ins integration for rich content building.<br>\r\n\t<br>\r\n\tWith the built-in packed source code along with the course content, you can easily create your own mobile theme on WordPress framework and jQuery mobile.<br>\r\n\t<br>\r\n\tThe mobile trends is nowadays prevailing! Let&#039;s mobilize your site!\r\n</p>", 
+    "end_date": null, 
+    "title": "Making the web mobile", 
+    "price": "45.00", 
+    "instructors": "Ladpit Inc.", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/29146_84f0_6.jpg", 
+    "course_url": "https://www.udemy.com/mobilize-your-wordpress/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-11-09T15:11:59Z"
+}

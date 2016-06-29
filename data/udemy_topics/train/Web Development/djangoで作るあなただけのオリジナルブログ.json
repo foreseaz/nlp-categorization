@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t <strong style=\"\">djangoで作るあなただけのオリジナルブログ</strong>をご覧頂きありがとうございます。  </p>  <p>  \t このレッスンで<strong style=\"\">django</strong>と<strong style=\"\">Python</strong>を使ってあなただけの<strong style=\"\">オリジナルブログ</strong>を作ってみましょう。自分で一から作ることで、自由自在に<strong style=\"\">好きな機能</strong>をつける事ができます。世界に１つだけのあなただけのオリジナルブログを作ってみましょう！  </p>  <p>  \t 管理者だけがアクセスできる<strong style=\"\">認証用ページ</strong>の作成や、記事の<strong style=\"\">投稿</strong>・<strong style=\"\">編集</strong>・<strong style=\"\">削除</strong>といったブログに欠かせない機能を一から作っていきます。レッスンの前半ではdjangoに欠かせない<strong style=\"\">Pythonの基本的な構文</strong>を勉強しますので、初めて使う方でも安心して受講して頂けます。既にPythonを勉強済の方は、復習としてご利用ください。  </p>  <p>  \t <strong style=\"\">＜レッスンのアウトライン＞</strong>  </p>  <ul style=\"\">  \t<li><strong style=\"\">＜Python＞</strong></li>  \t<li>Pythonってなに？</li>  \t<li>printを使ってみよう</li>  \t<li>変数と文字列の結合</li>  \t<li>while文</li>  \t<li>for文</li>  \t<li>リスト</li>  \t<li>if文での条件分岐</li>  \t<li>文字列での条件分岐</li>  \t<li><strong style=\"\">＜django＞</strong></li>  \t<li>プロジェクトの作成</li>  \t<li>管理ページの設定</li>  \t<li>Bootstrap</li>  \t<li>タイトルの編集</li>  \t<li>アプリケーションの作成</li>  \t<li>エントリーの取得</li>  \t<li>詳細ページの作成</li>  \t<li>認証ページの作成</li>  \t<li>認証用リンクの追加</li>  \t<li>投稿用フォームの作成</li>  \t<li>投稿機能の作成</li>  \t<li>編集用ページの作成</li>  \t<li>編集機能の作成</li>  \t<li>削除機能の作成</li>  \t<li>Font Awesome</li>  \t<li>ページ付け</li>  \t<li>ナビゲーション・メニュー</li>  \t<li>プロフィールページの作成</li>  \t<li>他の記事へのリンクを追加</li>  \t<li>記事の文字数を取得</li>  </ul>", 
+    "end_date": null, 
+    "title": "djangoで作るあなただけのオリジナルブログ", 
+    "price": "20.00", 
+    "instructors": "Takafumi Kawai", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/229296_cbd9_3.jpg", 
+    "course_url": "https://www.udemy.com/django-blog/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-26T03:31:06Z"
+}

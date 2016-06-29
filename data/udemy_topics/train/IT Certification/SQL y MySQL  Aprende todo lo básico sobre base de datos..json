@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Más de tres horas y media de curso con explicaciones prácticas. </p><p>Curso para todos los niveles: desde personas que no han utilizado una base de datos anteriormente hasta personas con conocimiento que quieran repasar lo aprendido anteriormente.</p><p>Sólo es necesario tener acceso a un sistema con el servidor MySQL instalado (se puede instalar localmente). Alternativamente nos puedes enviar un mensaje y de forma gratuita le daremos acceso a servidor MySQL para practicar (con acceso web para que no tenga que instalar nada en su PC).</p><p>En este curso de SQL/MySQL explicaremos todo lo necesario para entender como funciona un gestor de base de datos, la arquitectura que hay detrás de un modelo de cliente-servidor y los objetos de la base de datos.</p><p>Posteriormente explicaremos el lenguaje SQL tanto para consultar, manipular datos y objetos.</p><p>Para finalizar hablaremos de MySQL y las herramientas que ofrece para optimizar las consultas, crear bases de datos y gestionar usuarios.</p>", 
+    "end_date": null, 
+    "title": "SQL y MySQL: Aprende todo lo básico sobre base de datos.", 
+    "price": "40.00", 
+    "instructors": "Proyecto Oforte", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/589356_2507_4.jpg", 
+    "course_url": "https://www.udemy.com/curso-de-sql-y-mysql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-21T12:09:13Z"
+}

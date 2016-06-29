@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t    When it comes to developing games, most people will think that you need years of study and experience in multiple programming languages to be able to make games. Well in most cases if you’re thinking of making super hard core games like Final Fantasy, Halo, etc. you need the study and experiences. But if you’re thinking of something simple 2D games like Flappy Bird, Angry Birds, etc. you can do pretty well with Construct 2 even if you know nothing about programming.  </p>  <p style=\"\">  \t    This Introductory Course focuses on the basic theories and concepts of 2D game development to help you understand exactly what it takes to make a 2D game. And with a little bit of creativity, you will be able to breakdown the requirements for your own game idea and plan for its development.  </p>  <p style=\"\">  \t    You probably won’t have enough knowledge to make it straight after the course, but by knowing how the game engine works, you can go back to explore on all the other different Objects, Behaviours, Conditions and Actions within the game engine. Almost every feature is readable with a description; it’s possible to guess your way through. The best way to learn is to try it!  </p>  <p style=\"\">  \t    For the practical portion of the course, we will be working on a <strong style=\"\">Flappy Bird</strong> example to teach the basic concepts of 2D game development. And after the explanation, I’ll be demonstrating to you how it is done using the game engine. So if you didn&#039;t catch my theory the first time round, you can also try to read and understand the logic through the demonstration. Art assets take time to create, so we&#039;ll also be giving<span style=\"\"><strong style=\"\"> </strong>a <strong style=\"\">Free Flappy Bird Clone Asset Pack </strong>for you to follow through the course!</span>  </p>  <p style=\"\">  \t<strong style=\"\"><br style=\"\">  \t</strong>  </p>  <p style=\"\">  \t<strong style=\"\">After the course, you will be able:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">Setup your Game Layout </li>  \t<li style=\"\">Add animations </li>  \t<li style=\"\">Detect for Touch inputs </li>  \t<li style=\"\">Use simple Behaviours </li>  \t<li style=\"\">Move objects </li>  \t<li style=\"\">Spawn new objects on the go </li>  \t<li style=\"\">Configure Objects </li>  \t<li style=\"\">Set Collision Polygons </li>  \t<li style=\"\">Detect Collisions </li>  \t<li style=\"\">Use Global, Local and Instance Variables </li>  \t<li style=\"\">Use Sprite fonts </li>  \t<li style=\"\">Create simple logic patterns for game rules </li>  \t<li style=\"\">Add and Play Music/Sound Effects</li>  </ul>  <p style=\"\">  \t<strong style=\"\"><br style=\"\">  \t</strong>  </p>  <p style=\"\">  \t<strong style=\"\">Intended Audiences:</strong>  </p>  <p style=\"\">  \t    This course is for people with an interest in <strong style=\"\">simple 2D game development</strong>. Preferably aged 13 and above with good understanding of Maths and basic knowledge of computers. E.g. Navigation through folders, copy, cut, paste, etc. It’s meant for people with totally no knowledge of programming at all, so certain portions might be a little too excessive or inadequate for experienced coders.  </p>  <p style=\"\">  \t<strong style=\"\"><br style=\"\">  \t</strong>  </p>  <p style=\"\">  \t<strong style=\"\">Course Requirements:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">Free or paid version of Construct 2 (We work within the limits of what is free!).</li>  \t<li style=\"\">You’ll also need a decent Windows computer to take this lesson. Minimum:  \t<ul style=\"\">  \t\t<li style=\"\">Windows XP Service Pack 3 or newer</li>  \t\t<li style=\"\">512 MB RAM</li>  \t\t<li style=\"\">1 GHz Processor</li>  \t\t<li style=\"\">Latest version of your graphics card.</li>  \t</ul>  \t</li>  \t<li style=\"\">HTML5 compatible browsers such as Internet Explorer 9+, Firefox, Chrome, etc.</li>  </ul>  <p style=\"\">  \t    Thanks for reading &amp; I look forward to seeing you guys in the class!  </p>  <p style=\"\">  \t    Jay  </p>", 
+    "end_date": null, 
+    "title": "Introductory Game Development Course with Construct 2", 
+    "price": "30.00", 
+    "instructors": "Jay Li", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/229364_fb54_3.jpg", 
+    "course_url": "https://www.udemy.com/introductory-game-development-course-with-construct-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-26T05:51:25Z"
+}

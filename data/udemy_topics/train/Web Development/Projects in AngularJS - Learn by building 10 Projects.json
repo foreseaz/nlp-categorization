@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>The most comprehensive AngularJS training program is here. We love this amazingly powerful framework for web apps and we promise you will love this course. By the end of it you will understand the concepts behind Angular design and will be able to create you own websites and apps. AngularJS was initially released in 2009 and it has been growing rapidly ever since. If you want to be a web developer you must learn AngularJS and with time it is going to be as essential as HTML. Our Angular course will focus on important features such as decoupling DOM manipulation and to decouple client side from the server side implementation in web apps. </p><p><strong style=\"\">So why use AngularJS?</strong></p><p><em style=\"\">• AngularJS uses directives to add new mark-ups to HTML and turns static HTML files in to something dynamic. It is an innovative approach to incorporating HTML and developing big web applications.</em></p><p><em style=\"\">• AngularJS organizes views, controllers, directives, filters and such other elements in to separate modules. This division becomes convenient for building and managing an application.</em></p><p><em style=\"\">• AngularJS has a built-in dependency injection system and is unit-testable.</em></p><p><em style=\"\">• AngularJS uses data-binding directives to provide a projection of the model to the application view. It automates synchronization of data between model and view components. This allows developers to avoid writing a considerable amount of boilerplate code.</em></p><p><em style=\"\">• AngularJS has a built-in template engine consisting of plain HTML pages (views) as well as controllers written in JavaScript to build rich user interfaces.</em></p><p><em style=\"\">• AngularJS uses directives to extend HTML dialect by creating new HTML elements and attributes as well as custom HTML tags that work as new widgets.</em></p><p><strong style=\"\">The Projects Developed for the Course includes:</strong></p><p> <strong style=\"\">Basic Angular Website</strong></p><p><em style=\"\">Learn to create Angular Websites and concepts such as two way binding, url routing and directives</em></p><p><strong style=\"\">Web Template Store </strong></p><p><em style=\"\">Learn creation of store based Apps with the project. Implement payment using paypal</em></p><p><strong style=\"\">myContactsApp</strong></p><p><em style=\"\">A complete CRUD application in Angular JS. Learn the use of Firebase API</em></p><p><strong style=\"\">ngSocialApp</strong></p><p><em style=\"\">Learn to use facebook APIs with Angular JS. The App uses facebook&#039;s graph API to authenticate the users </em></p><p><strong style=\"\">Job Directory</strong></p><p><em style=\"\">A complete MEAN stack project where user can post search and apply for jobs. There will also be login subscription feature.</em></p><p><strong style=\"\">Knowledgebase</strong></p><p><em style=\"\">Learn to build an Article repository with nodejs, MongoDB and Angular JS. It will teach you major aspects of both front end and backend programming using JS technologies.</em></p><p><strong style=\"\">User Authentication App</strong></p><p><em style=\"\">Learn to build a hybrid app. Learn the use of Sails framework for backend node server. learn professional web development techniques.</em></p><p><strong style=\"\">Intagram Gallery</strong></p><p><em style=\"\">Build a full fledged photo gallery application. Learn to integrate Instagram APIs</em></p><p><strong style=\"\">PubNub Chat</strong></p><p><em style=\"\">Build a real time chat application. Learn the use of PubNub data streaming API with Angular JS</em></p><p>All the above web apps have been selected to provide our students a complete walk through of Angular development environment. You can also use the source code for each project to build your own commercial apps completely royalty free. So join us now and start building the next awesome web app using AngularJS.</p>", 
+    "end_date": null, 
+    "title": "Projects in AngularJS - Learn by building 10 Projects", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "14.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/531954_7380_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-angularjs-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-19T07:01:15Z"
+}

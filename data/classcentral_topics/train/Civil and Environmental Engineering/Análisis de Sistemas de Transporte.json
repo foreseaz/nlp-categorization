@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Civil & Environmental Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    Este curso es una introducción a las metodologías fundamentales para la gestión, planificación y evaluación de sistemas de transporte de pasajeros. Se aprenderán técnicas usadas en la práctica para estimar la demanda, modelar la operación y realizar análisis económicos de proyectos de transporte. Algunos temas estudiados incluyen: modelo clásico de transporte de cuatro etapas, modelo de distribución de viajes gravitacional, modelo de elección discreta logit, teoría de colas, análisis de redes, paradoja de Braess, tarificación por congestión y evaluación social de proyectos de transporte.\n\n                                            Syllabus\n                        Conceptos básicosEl objetivo de este módulo es que puedas conocer los aspectos básicos de los sistemas de transporte, su relevancia en la sociedad y el enfoque de análisis que usaremos en este curso. Les invitamos a ver el video de introducción al curso y a responder un cuestionario inicial que nos ayudará a entender mejor cuáles son sus necesidades e inquietudes. Deseamos que disfruten del curso y ¡mucha suerte!Introducción a los modelos de demanda - Parte 1El objetivo de este módulo es que seas capaz de entender las diferentes decisiones de los usuarios al momento de realizar un viaje. Al finalizar este módulo comprenderás como estas decisiones se modelan y se relacionan matemáticamente. Podrás comparar y aplicar los diferentes modelos de generación, atracción y distribución de viajes de pasajeros, distinguiendo las ventajas y desventajas de cada uno de ellos.Introducción a los modelos de demanda - Parte 2El objetivo de este módulo es introducir los modelos desagregados de modelación de demanda y comprender su diferencia con los enfoques agregados. Al finalizar el módulo comprenderás los principales supuestos de la Teoría de Utilidad Aleatoria, y serás capaz de plantear y resolver modelos Logit Multinomial aplicados a ejemplos sencillos. A partir de los modelos anteriores podrás construir un modelo de partición modal.Teoría de colasEl objetivo de este módulo es que comprendas el concepto de variabilidad y los efectos que tiene sobre los sistemas y servicios. Al final de este módulo serás capaz de construir el diagrama de curvas de flujos acumulados para cualquier situación dada y, a partir de él, inferir información relevante. Esto te dará la información necesaria para resolver problemas de teoría de colas utilizando el Teorema de Little e identificar otro tipo de sistemas Markovianos.Equilibrio de sistemas de transporteEl objetivo de este módulo es que comprendas cómo el sistema puede alcanzar el equilibrio, y los distintos estados a los que puede llegar. A partir de esto podrás identificar y saber cómo solucionar una serie de fenómenos que aparecen en las redes de transporte.Evaluación social de proyectosEl objetivo de este módulo es que puedas aprender cómo evaluar un proyecto de transporte desde su perspectiva social. Al final de este módulo serás capaz de identificar para un proyecto específico, los diferentes actores afectados, sus costos, beneficios en diferentes cortes temporales y su valor presente. Esto te dará información relevante para identificar los mejores proyectos a ejecutar dentro de un conjunto de opciones posibles. Finalmente serás capaz de identificar y comprender los supuestos, simplificaciones e impacto de estas decisiones en la práctica.\n                                    ", 
+    "end_date": "2016-07-11T00:00:00Z", 
+    "title": "Análisis de Sistemas de Transporte", 
+    "price": 0, 
+    "instructors": "Alejandra Cuevas, Juan de Dios Ortuzar, Felipe Delgado, Ricardo Giesen and Filipa Muñoz", 
+    "institution_name": [
+        "Pontificia Universidad Católica de Chile"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.coursera.org/learn/analisis-sistemas-de-transporte", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-05-30T00:00:00Z"
+}

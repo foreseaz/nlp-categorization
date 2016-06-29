@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Personal Development"
+    ], 
+    "description": "<p style=\"\">Electronics: Voltage Dividers and Potentiometers S1W6</p><p style=\"\">This Basics Electronics Course will teach you how to solve series resistor circuits. To understand Direct Current (DC) Electronics, you need to master four resistor configurations:</p><ol style=\"\"><li style=\"\">Series Resistor Circuits</li><li style=\"\">Parallel Resistor Circuits</li><li style=\"\">Series-Parallel Resistor Circuits</li><li style=\"\">Complex Resistor Circuits</li></ol> This course will teach you to master the first category above.<ul style=\"\"><li style=\"\">Master and solve series resistor circuits using the Voltage Divider Formula.</li></ul> <ul style=\"\"><li style=\"\">Learn to correctly apply the Voltage Divider Formula to series resistive circuits.</li></ul><ul style=\"\"><li style=\"\">Understand the concept of Kirchhoff&#039;s Current Law (KCL).</li></ul><p style=\"\"><strong style=\"\">You will understand exactly how to solve series circuit voltage divider resistor problems!</strong></p><p style=\"\">The Voltage Divider Formula allows you to solve series resistive values in an electronic circuit. This information is mandatory for any hobbyist or professional who needs to understand how electronic circuits work. This course is a quality product taught by a college instructor who has been teaching electronics for over twenty years. It is the equivalent of a full week of college level training at a community college or technical university.</p><p style=\"\">The primary teaching method is instructor led lectures using PowerPoint slide presentations. Drawings, images and schematics are used to clearly illustrate each electronic principle. There are ten separate lectures that take you through the concepts of Ohm&#039;s Law and series circuits in a clear, simple manner. A number of quizzes are included test your retention of the lecture material.</p><p style=\"\">At the end of this course, you will have a solid grasp of the principles of voltage dividers and the application of this formula to the solution of electronic circuit problems.</p>", 
+    "end_date": null, 
+    "title": "Electronics S1W6: Voltage Dividers and Potentiometers", 
+    "price": "25.00", 
+    "instructors": "Richard Vannoy", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/503018_7e03.jpg", 
+    "course_url": "https://www.udemy.com/electronics-week-06/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Career Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-15T16:02:01Z"
+}

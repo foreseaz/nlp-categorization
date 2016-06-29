@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>The hardest part about computer programming is that there is a mountain of knowledge needed before you can even begin to work on some serious projects with others.  Git source control is one of the technologies you will <strong>need</strong> to learn. Git can either allow you to reach your full potential, or it can ruin your coding life if you have no idea what you are doing.  These days, you are expected to know source control.  Don't be in the position where you are expected to know Git and you're stuck searching the internet for help.  You might be asking, \"<strong>Why do I need to learn Git?</strong>\"  The answer is simple,<strong> the source code for the majority of software is stored in Git repositories.  </strong></p><p>If you really desire to understand what Git is, how it works, and how to use it to with your software, this course is for you.<br></p><p>Every lecture is taught in an easy to follow method using on-screen examples or concepts illustrated on a white board.  This course will bring you to a level of understanding that will allow you to develop skills quickly and use them at home, in school, and in the work setting.  These are practical skills.  The skills learned in this course are skills that can help you get (or keep) a job as a computer scientist, software developer, engineer, or code team management.  This course can also help you develop your own software.  </p><p>Do you want even better news?  These skills are <strong>easy</strong>.  No more confusion, no more fright, no more being a step behind everybody else in coding.  Here is just some of the information you will learn in this course:</p><ul><li><strong>The basics of Git</strong> - What is it, how to start using it, and how to set up your first repository.</li><li><strong>The Concepts of Git</strong> - Understanding how Git works.  We will study the working directory, staging area, repository, the SHA1 hash, how Git stores your files, how Git configuration works, and more.</li></ul><p><strong>Bonus!!</strong> There will be sections added as the course develops.  This course will progress from a beginner level course to a comprehensive course.  By signing up now, you gain access to all future bonus material.  Here is just some of the planned material: </p><ul><li><strong>Branching </strong>- One of the most powerful parts of Git will be explained in detail</li><li><strong>Git Configuration</strong></li><li><strong>Remote repositories</strong> (Github, for example)</li><li>And more!  </li></ul><p>This course will continually be developed and improved.  That means when you buy this course you will get lifetime access to a course that is going to grow and expand with many bonus sections.  My advise?  <strong>Buy this course as soon as possible, because with each new section there will be a price increase.</strong></p><p>I didn't create this course to sell you something that is going to waste your time.  I created this course because I have a passion for programming and I love teaching in a fun way.  <strong>This course is</strong> <strong><em>fun, </em>easy to follow, and worth every penny.</strong> <span></span><br></p>", 
+    "end_date": null, 
+    "title": "Git Source Control", 
+    "price": "20.00", 
+    "instructors": "Caleb Curry", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/711326_3520_2.jpg", 
+    "course_url": "https://www.udemy.com/git-source-control/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-30T23:39:29Z"
+}

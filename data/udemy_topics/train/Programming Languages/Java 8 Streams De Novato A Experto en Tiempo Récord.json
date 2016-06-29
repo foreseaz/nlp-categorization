@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>El más grave de los problemas al que un programador se enfrenta,<br>en el mundo del desarrollo de software, es el constante cambio<br>en los requerimientos. Cambios continuos implica modificar código<br>ya existente y el tiempo de desarrollo se triplica inmediatamente. </p><p>Imagínate poder <strong>crear código para aplicaciones Java en la mitad <br>de tiempo y sobretodo de una forma clara, concisa y además <br>que soporte constantes cambios en los requerimientos</strong>. Más aún<br>imagínate que tuvieras que hacer cambios a código desarrollado por otros <br>programadores, y ese código lo entendieras casi de inmediato y los<br>cambios los realices fácilmente.<br></p><p>Parece mágico pero todo esto es posible gracias a que Java 8 ha <br>evolucionado una vez más, y con el novedoso API de Streams <br>junto con las poderosas expresiones lambda, el dolor de cabeza, que producían <br>los constantes cambios, desaparecerá automáticamente. Y eso no es todo,<br>con el API de Streams podrás beneficiarte rápidamente de las arquitecturas<br>multicore sin la necesidad de utilizar hilos.</p><p>En resumen en este inigualable curso aprenderás fácilmente:</p><ol><li>Como ajustar el entorno de desarrollo correctamente.</li><li>Qué son las poderosas expresiones lambda y las interfaces funcionales.</li><li>Qué es el novedoso API de streams.</li><li>Cómo eliminar los bucles (for, while, do while) permanentemente utilizando las iteraciones internas de los streams.</li><li>Qué son las operaciones intermedias y terminales de los streams y como utilizarlas adecuadamente.</li><li>Como procesar información utilizando el nuevo API de streams escribiendo casi nada de código.</li><li>Como recolectar datos fácilmente por medio de los streams.</li><li>Como agrupar información casi de inmediato.</li><li>Como puedes escribir código más conciso que se puede leer muy cercano al enunciado del problema. Justo como lo hace el lenguaje SQL.</li></ol><p><br></p>", 
+    "end_date": null, 
+    "title": "Java 8 Streams De Novato A Experto en Tiempo Récord", 
+    "price": "35.00", 
+    "instructors": "Jorge Luis  Ramirez Ortiz", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/789612_681a_2.jpg", 
+    "course_url": "https://www.udemy.com/java-8-streams/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-11T13:16:51Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t<span style=\"\">El curso </span><em style=\"\">Aprende electrónica básica desde cero </em><span style=\"\">esta enfocado para todo tipo estudiantes, en especial para aquellos </span><em style=\"\">Geeks </em><span style=\"\">apasionados por la tecnología que deseen iniciar en el mundo de la electricidad y electrónica, el curso consta de una serie de video lecturas que te irán adentrando en los conceptos más fundamentales, estas video lecturas están acompañadas de la explicación de  ejercicios paso a paso en conjunto con sus correspondientes cálculos matemáticos, y como si fuera poco, en el curso también se introduce el tema de simulación de circuitos, el cual te permitirá verificar que todo lo que calculaste y solucionaste en la teoría también funciona muy bien en la practica.</span>  </p>  <p style=\"\">  \tEste curso pretende abarcar todo el espectro inicial del aprendizaje entorno a circuitos resistivos, es decir que el curso esta estructurado bajo las siguiente unidades temáticas:  </p>  <ul style=\"\">  \t<p style=\"\">  \t\t- Qué son las potencias y sus propiedades.  \t</p>  \t<p style=\"\">  \t\t- Multiplicación y división entre potencias y su relación con los números decimales.  \t</p>  \t<p style=\"\">  \t\t- Que es la notación científica y de ingeniería.  \t</p>  \t<p style=\"\">  \t\t- Que es un circuito eléctrico, y su relación con la corriente, voltaje, potencia y la ley de ohm.  \t</p>  \t<p style=\"\">  \t\t- Como se analiza un circuito resistivo en serie, paralelo y mixto.  \t</p>  \t<p style=\"\">  \t\t- Que son las leyes de Kirchhoff y cuales son estas (LVK) y (LCK).  \t</p>  \t<p style=\"\">  \t\t- Como analizar circuitos resistivos por medio del análisis nodal y de mallas, aplicando las leyes de Kirchhoff.  \t</p>  </ul>  <p style=\"\">  \tSon 13 apasionantes clases que suma alrededor de 4 horas de conocimiento de calidad especialmente diseñado para ti que eres un amante de la tecnología.  </p>", 
+    "end_date": null, 
+    "title": "Aprende electrónica básica desde cero", 
+    "price": "20.00", 
+    "instructors": "José Alejandro Franco Calderon", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/214258_40cc_3.jpg", 
+    "course_url": "https://www.udemy.com/aprende-electronica-basica-desde-cero/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-09T22:37:03Z"
+}

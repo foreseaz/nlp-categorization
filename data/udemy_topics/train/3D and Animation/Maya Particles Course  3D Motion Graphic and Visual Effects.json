@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">Experience the dynamics systems in Maya. Create, command and control particle systems, and make them interact with other areas of Maya such as with nCloth, with paint effects and with soft bodies.</p><p style=\"\">Some basics are covered before delving into unique but re-useable solutions for motion graphics and visual effects problems. And while you will become aware of some expressions which will help realize some of the effects they are explained in an easy natural way.</p><p style=\"\">The projects run like this:</p><ol style=\"\"><li style=\"\">Introduction to Nparticles and turbulence</li><li style=\"\">Making a flock of birds with advanced rotation control and short trigonometry lecture</li><li style=\"\">Smoke simulations using sprites and the Relationship Editor for multiple emitters</li><li style=\"\">A simple rain system using the collisions event editor</li><li style=\"\">Destruction using N cloth &amp; 5 or 6 systems of particles interacting and the        implementation of the inherited velocity control of emission</li><li style=\"\">Introduction to Particle goals and set driven keys</li><li style=\"\">Using softbodies and paint effects to write a singnture</li><li style=\"\">Expression controlled goals to create a man made of unravelling string</li><li style=\"\">Soft body emission and toon effects / faux Delauney triangulation effects</li></ol>", 
+    "end_date": null, 
+    "title": "Maya Particles Course: 3D Motion Graphic and Visual Effects", 
+    "price": "20.00", 
+    "instructors": "Scott Turner", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/488776_e4ab_4.jpg", 
+    "course_url": "https://www.udemy.com/mayaparticles/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-28T18:21:50Z"
+}

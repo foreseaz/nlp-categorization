@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tI have been running my own mobile game company for over a year now, creating 20+ Apps and Games available in a multitude of App Stores.  Specializing in iOS Development and Android Development primarily. This course is about building your very first mobile game using Unity.  I will walk you through the steps along the way, from setting up App ID on iOS to getting Google Play set up for Android games.  </p>  <p style=\"\">  \tThis is a step by step guide beginning with creating your first mobile project, stepping through integrating Ads and In-App Purchases, and ending off with ways to Optimize your Apps presence in the App Store that you choose.  </p>", 
+    "end_date": null, 
+    "title": "Make Mobile Games In Unity and Profit", 
+    "price": "20.00", 
+    "instructors": "Dustin Kaban", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/143688_09cd_6.jpg", 
+    "course_url": "https://www.udemy.com/mobilegames-profit/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-07T23:05:16Z"
+}

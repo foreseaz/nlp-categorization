@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\">Maravilloso curso que agrupa varios cursos en 1. </strong></p><p style=\"\"><em style=\"\">Aprende HTML5, JQuery, Javascript, Build Phonegap y Android Studio para crear aplicaciones nativas Android con tecnología HTML5 de manera sencilla, efectiva y rápida.</em></p><p style=\"\">Todo lo que aprenderás al terminar el curso es lo siguiente:</p><p style=\"\"><strong style=\"\">Módulo 1 El entorno de trabajo</strong></p><ul style=\"\"><li style=\"\">Conocer y utilizar las herramientas<strong style=\"\">: XAMPP,JQuery, Android Studio, Phonegap, </strong>que son fundamentales para crear aplicaciones web y nativas.</li></ul><p style=\"\"><strong style=\"\">Módulo 2 HTML5</strong></p><ul style=\"\"><li style=\"\">Repasar las etiquetas básicas de HTML5</li><li style=\"\">Introducirte a las nuevas etiquetas  HTML5 y CSS3</li></ul><p style=\"\"><strong style=\"\">Módulo 3. Javascript</strong></p><ul style=\"\"><li style=\"\">Manejar la sintaxis básica de javascript</li><li style=\"\">Escribir código con funciones y eventos javascript</li></ul><p style=\"\"><strong style=\"\">Módulo 4. JQuery</strong></p><ul style=\"\"><li style=\"\">Configurar el framework JQuery en aplicaciones web.</li><li style=\"\">Utilizar funciones, eventos y selectores JQuery</li></ul><p style=\"\"><strong style=\"\">Módulo 5. JQuery Mobile</strong></p><ul style=\"\"><li style=\"\">Conocer la manera de dar apariencia móvil a páginas HTML5</li><li style=\"\">Dar el formato móvil con colores, temas especiales para dispositivos móviles</li></ul><p style=\"\"><strong style=\"\">Módulo 6. Aplicaciones nativas en Android Studio</strong></p><ul style=\"\"><li style=\"\">Conocer el ambiente general de trabajo de Android Studio</li><li style=\"\">Saber cómo se compila una aplicación nativa en Android Studio</li></ul><p style=\"\"><strong style=\"\">Módulo 7. Uso de Build Phonegap</strong></p><ul style=\"\"><li style=\"\">Aprender a realizar apps nativas con Adobe Build Phonegap</li><li style=\"\">Reconocer cuáles archivos tiene una app en Build Phonegap</li></ul><p style=\"\"><strong style=\"\">Módulo 8 Google Play</strong></p><ul style=\"\"><li style=\"\">Saber cómo registrarse en Google Play</li><li style=\"\">Conocer el ambiente de trabajo en la store Google Play</li></ul><p style=\"\"><strong style=\"\">Módulo 9 Conclusiones.</strong></p><ul style=\"\"><li style=\"\">Tener las recomendaciones para desarrollo de apps</li><li style=\"\">Saber probar y depurar apps android</li></ul>", 
+    "end_date": null, 
+    "title": "Apps Nativas Android con HTML5", 
+    "price": "20.00", 
+    "instructors": "Guillermo Valle", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/519816_d33b_2.jpg", 
+    "course_url": "https://www.udemy.com/apps-nativas-android-con-html5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-04T01:44:10Z"
+}

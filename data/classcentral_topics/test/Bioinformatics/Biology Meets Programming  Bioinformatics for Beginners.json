@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Bioinformatics"
+    ], 
+    "description": "\n\n                                            Class Central Course Rank  \n                                                    \n                                #1 in Subjects\n                                                                    &gt; Computer Science\n                                                                                                    &gt; Bioinformatics\n                                                            \n                            \n                                                \n                    \n                    \n                    Are you interested in learning how to program (in Python) within a scientific setting?\n\nThis course will cover algorithms for solving various biological problems along with a handful of programming challenges helping you implement these algorithms in Python.  It offers a gently-paced introduction to our Bioinformatics Specialization (https://www.coursera.org/specializations/bioinformatics), preparing learners to take the first course in the Specialization, \"Finding Hidden Messages in DNA\" (https://www.coursera.org/learn/dna-analysis).\n\nEach of the four weeks in the course will consist of two required components.  First, an interactive textbook provides Python programming challenges that arise from real biological problems.  If you haven't programmed in Python before, not to worry! We provide \"Just-in-Time\" exercises from the Codecademy Python track (https://www.codecademy.com/learn/python). And each page in our interactive textbook has its own discussion forum, where you can interact with other learners. Second, each week will culminate in a summary quiz.\n\nLecture videos are also provided that accompany the material, but these videos are optional.\n\n                                            Syllabus\n                        Week 1Where in the Genome Does Replication Begin? (Part 1)Week 2Where in the Genome Does Replication Begin? (Part 2)Week 3Which DNA Patterns Play the Role of Molecular Clocks? (Part 1)Week 4Which DNA Patterns Play the Role of Molecular Clocks? (Part 2)\n                                    ", 
+    "end_date": "2016-07-11T00:00:00Z", 
+    "title": "Biology Meets Programming: Bioinformatics for Beginners", 
+    "price": 0, 
+    "instructors": "Pavel  Pevzner and Phillip E. C. Compeau", 
+    "institution_name": [
+        "University of California, San Diego "
+    ], 
+    "commitment": "8-12 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/learn/bioinformatics", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-13T00:00:00Z"
+}

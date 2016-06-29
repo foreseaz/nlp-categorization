@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\">\"<strong>Junior Level Data Scientist Median Salary from $91,000 and up to $250,000</strong>\".</p><p style=\"\">As an experienced Data Analyst I understand the job market and the expectations of employers. This data science course is specifically designed with those expectations and requirements in mind. As a result you will be exposed to the most popular data mining tools, and you will be able to leverage my knowledge to jump start (or further advance) your career in Data Science.</p><p style=\"\">You do not need an advanced degree in mathematics to learn what I am about to teach you. Where books and other courses fail, this data science course excels; that is each section of code is broken down through the use of Jupyter and explained in a easy to digest manner. Furthermore, you will get exposed to real data and solve real problems which gives you valuable experience!</p>", 
+    "end_date": null, 
+    "title": "Practical Data Science", 
+    "price": "20.00", 
+    "instructors": "Atul Bhardwaj", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/465432_c671_6.jpg", 
+    "course_url": "https://www.udemy.com/data-science/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-02T01:04:27Z"
+}

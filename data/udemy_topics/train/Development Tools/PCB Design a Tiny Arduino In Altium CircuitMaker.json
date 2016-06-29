@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong></strong></p><p><strong>Course Update:</strong></p>\n\n<p><em>LATEST: Course Updated For May 2016 </em>OVER 2400+ SATISFIED STUDENTS HAVE ALREADY ENROLLED IN THIS COURSE!\n</p>\n\n<p><strong>What is this course about:</strong><br></p>\n\n<p>This course is a first of its kind in which you will learn from start to finish on how to design your very own custom Tiny Arduino Printed Circuit Board (PCB). This course will help you to improve your PCB design skills which will help you to get started freelancing or to get a job in PCB design with Altium CircuitMaker being one of the top FREE PCB design tools used around the world.</p>\n\n<p><strong>What is expect in this course:</strong></p>\n\n<ul><li>I will show you how to get started in the world of PCB design using Altium CircuitMaker</li><li>I show you how to download and install Altium CircuitMaker as well as demystify the user interface.</li><li>I take you step-by-step on how to find and download the component library for the Tiny Arduino.</li><li>How to recreate the Arduino Nanite Schematic in Altium CircuitMaker as well as wiring components in Schematic view</li><li>I show you how to transfer your schematic into PCB view as well as define the board shape</li><li>Once the board shape is defined, I show you how to place components on the board, create a multilayer board ( we are going to use 4-6 layers) .</li><li>For a 4 layer board, I teach you how to route between layers and how to strategically place components on to the board design.</li><li>Show you how to autoroute, when you are faced with a complex design to save time.</li><li>Correct your design and eliminate design errors before sending them to your manufacturer. This will save you money for numerous design iterations</li><li>Finally I teach you how to create Gerber files, which are files that your manufacturer can read to create your Printed Circuit Board.</li><li><em>This course will be updated regularly with new lectures, resources, quizzes and content.</em></li></ul>", 
+    "end_date": null, 
+    "title": "PCB Design a Tiny Arduino In Altium CircuitMaker ", 
+    "price": 0, 
+    "instructors": "Ritesh Kanjee", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/741888_4b31_3.jpg", 
+    "course_url": "https://www.udemy.com/pcb-design-a-tiny-arduino-in-altium-circuitmaker/", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-26T06:39:05Z"
+}

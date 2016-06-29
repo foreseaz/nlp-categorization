@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t     En este curso aprenderás a crear y administrar tu sitio web en WordPress, comenzaremos instalando WordPress en un servidor local, de ahí iremos a la creación de Entradas, asignaremos categorías, agregaremos imágenes, etiquetas, videos, enlaces, galerías.  </p>  <p>  \t     Crearemos páginas, así como una página principal, conocerás las diferentes plantillas para las páginas y crearemos una página para un Blog y Contacto.  </p>  <p>  \t     Aprenderás a instalar Temas, Plugins y configurarlos para que cumplan tus necesidades.  </p>  <p>  \t    Veremos algunos Plugins más útiles para crear un formulario de contacto, galería, compartir en redes sociales, seguridad, lightbox, SEO.  </p>  <p>  \tConocerás algunas de las funciones mas avanzadas de WordPress como el personalizador de temas, Crear y administrar Menús, crear enlaces amigables a SEO, administrar comentarios y usuaros.  </p>  <p>  \tTambién aprenderás a tener tu sito actualizado en temas y plugins.  </p>  <p>  \tAntes de finalizar, exportaremos todo el sitio web y lo importaremos a uno nuevo.  </p>  <p>  \t    Aprenderás a utilizar las nuevas características de WordPress 4.0  </p>", 
+    "end_date": null, 
+    "title": "WordPress 4 Crea y administra tu sitio web sin programar", 
+    "price": "20.00", 
+    "instructors": "Juan Pablo De la torre Valdez", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/301406_1a31_8.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-4-crea-y-administra-tu-sitio-web-sin-programar/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-16T16:03:23Z"
+}

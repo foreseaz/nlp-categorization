@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Electrical Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    \r\n\r\nParticipants in this class will learn how to build, program, and control haptic devices, which are mechatronic devices that allow users to feel virtual or remote environments. In the process, participants will gain an appreciation for the capabilities and limitations of human touch, develop an intuitive connection between equations that describe physical interactions and how they feel, and gain practical interdisciplinary engineering skills related to robotics, mechanical engineering, electrical engineering, bioengineering, and computer science. To participate in lab assignments (which is not strictly required to receive a Statement of Accomplishment), the participant will need to acquire/build the components of a Hapkit, and assemble and program the device. Laboratory assignments using Hapkit will give participants hands-on experience in assembling mechanical systems, making circuits, programming Arduino-based micro-controllers, and testing their haptic creations. After the class, we hope that you will continue to use and modify your Hapkit, and let us know about your haptic creations. Please note that you can still participate in the online course without the Hapkit and receive a Statement of Accomplishment, but you will not be able to do most of the laboratories.\r\n\r\n\r\nSELF-PACED COURSE\r\nThis is a self-paced course, so you can complete the videos, quizzes, and lab assignments on your own schedule. Grading is automated. However, we suggest spending about one week on each of the 5 modules in the course, with each module taking about 10 hours of your time (depending on your background/experience). At the start of the course, we will release the modules once a week.\r\n\r\n\r\nPREREQUISITES\r\nThe required background for this course is high-school physics (non-calculus is fine) and pre-calculus. Beginning programming is experience is helpful. Haptic device design, robotics, and mechatronics experience are not required -- this is designed as a gateway course for these topics.\r\n\r\n\n\n                                    ", 
+    "end_date": null, 
+    "title": "Haptics: Introduction to Haptics", 
+    "price": 0, 
+    "instructors": "Allison Okamura", 
+    "institution_name": [
+        "Stanford University"
+    ], 
+    "commitment": "10 hours", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://class.stanford.edu/courses/SelfPaced/Haptics/2014/about", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Stanford OpenEdx"
+    ], 
+    "start_date": "2013-11-04T00:00:00Z"
+}

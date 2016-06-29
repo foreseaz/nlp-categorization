@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    Do you want to learn how to harvest health science data from the Internet? Or learn to understand the world through data analysis? Start by learning R Statistics!\n\nSkilled professionals who can process and analyze data are in great demand today. In this course you will explore concepts in statistics to make sense out of data. You will learn the practical skills necessary to find, import, analyze and visualize data. We will take a look under the hood of statistics and equip you with broad tools for understanding statistical inference and statistical methods. You will also perform some really complicated calculations and visualizations, following in the footsteps of Karolinska Institute’s researchers.\n\nStatistical programming is an essential skill in our golden age of data abundance. Health science has become a field of big data, just like so many other fields of study. New techniques make it possible and affordable to generate massive data sets in biology. Researchers and clinicians can measure the activity for each of 30000 genes of a patient. They can read the complete genome sequence of a patient. Thanks to another trend of the decade, open access publishing, the results of such large scale health science are very often published for you to read free of charge. You can even access the raw data from open databases such as the gene expression database of the NCBI, National Center for Biotechnology Information.\n\nWe will dive into this data together. Learn how to use R, a powerful open source statistical programming language, and see why it has become the tool of choice in many industries in this introductory R statistics course. \n\n                                    ", 
+    "end_date": "2014-11-04T00:00:00Z", 
+    "title": "KIexploRx: Explore Statistics with R", 
+    "price": 0, 
+    "instructors": "Andreas Montelius", 
+    "institution_name": [
+        "Karolinska Institutet"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2014-09-09T00:00:00Z"
+}

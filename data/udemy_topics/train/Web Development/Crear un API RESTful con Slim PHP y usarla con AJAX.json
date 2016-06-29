@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Un API RESTful es un servicio que puede usarse desde cualquier dispositivo\nque entienda el protocolo HTTP. Por ejemplo, <strong>las aplicaciones de smartphones interactúan con el\nservidor a través de un API RESTful</strong>.</p><p>En este curso<strong> vas a\naprender las bases para desarrollar APIs RESTful con PHP</strong>\nusando Slim Framework en este caso. </p><p>Veremos un ejemplo práctico en el que<strong> desarrollaremos un API RESTful desde cero</strong>\nutilizando este micro-framework y haremos un pequeño cliente web que consumirá\nese API mediante AJAX.</p><p>Podrás aprovecharlo al máximo teniendo conocimientos básicos en PHP, SQL y\njQuery.</p><p><strong>Únete al curso y\naprende a desarrollar APIs REST.</strong></p>", 
+    "end_date": null, 
+    "title": "Crear un API RESTful con Slim PHP y usarla con AJAX", 
+    "price": "20.00", 
+    "instructors": "Víctor Robles", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/684114_5b55_2.jpg", 
+    "course_url": "https://www.udemy.com/crear-un-api-restful-con-slim-php-y-usarla-con-ajax/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-29T15:49:55Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><span style=\"color: rgb(0, 0, 0);\">ZK is a Web Framework specifically designed for Java developers, allowing them to focus more on the business logic by shielding them from JavaScript and all the complexity of Ajax server-browser communication.</span></p><p><span style=\"color: rgb(0, 0, 0);\">This course is designed for beginners of ZK. Upon successful completion of this course, you will be able to set up a ZK Web project and create simple GUIs. </span></p><p><span style=\"color: rgb(0, 0, 0);\">This course will start off with a brief introduction followed by a demonstration of ZK’s live demo, an explanation of how to use ZK Fiddle and a guide to setting up and building a first login page. </span></p><p><span style=\"color: rgb(0, 0, 0);\">The instructor believes that it will be more practical if the participant works along with him, in order to achieve a more solid comprehension and experience the simplicity himself. Therefore, the course primarily consists of hands-on practices, rather than an in-depth analysis of the concepts. </span></p><p style=\"\"><span style=\"color: rgb(0, 0, 0);\"> </span><span style=\"color: rgb(0, 0, 0);\">In this course you will learn:</span></p><p style=\"\"><span style=\"color: rgb(0, 0, 0);\">1. The basics of ZK</span></p><p style=\"\"><span style=\"color: rgb(0, 0, 0);\">2. How you can search for ZK resources yourself</span></p><p style=\"\"><span style=\"color: rgb(0, 0, 0);\">3. How you can play with ZK Demo and look up corresponding source code</span></p><p style=\"\"><span style=\"color: rgb(0, 0, 0);\">4. How to create and run your own zul sample in ZK Fiddle</span></p><p style=\"\"><span style=\"color: rgb(0, 0, 0);\">5. How to create your first ZK project using Maven Archetype</span></p><p style=\"\"><span style=\"color: rgb(0, 0, 0);\">6. How to create a first Web GUI page using ZK components</span></p><p><br><span style=\"color: rgb(0, 0, 0);\">By following along with the instructor and trying everything out yourself, you will soon realize how easy it is to work with ZK. Let’s get started!</span></p>", 
+    "end_date": null, 
+    "title": "First Lesson to ZK Framework", 
+    "price": 0, 
+    "instructors": "Mr Filip Cossaer", 
+    "commitment": "29 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/667502_e051.jpg", 
+    "course_url": "https://www.udemy.com/first-lesson-to-zk-framework/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-12T04:22:08Z"
+}

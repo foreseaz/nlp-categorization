@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>¿Has creado algunos templates de WordPress y te gustaría dar un paso adelante? <strong>¡Entonces este curso es para ti!</strong></p><p>Este curso te enseñará todo lo que tienes que saber sobre Custom Post Types, Taxonomías, Términos y Metaboxes.</p><p>Durante todo el curso se crearán varios Plugins, así que si has creado Templates pero nunca has creado plugins en este curso obtendrás los conocimientos necesarios para hacerlo.</p><p>Además veremos varios ejemplos donde aprenderás a manejar WP Ajax, Plugin API y Shortcode API.</p><p>El curso incluye además Code Snippets para cada sección, además de todo el material necesario para culminar de forma correcta. ¿Tienes dudas? estoy para ayudarte, reviso el Panel de Udemy 3 veces al día para resolver cualquier pregunta que tengas sobre el curso :)</p>", 
+    "end_date": null, 
+    "title": "WordPress Avanzado Custom Post Types, Taxonomías y Metaboxes", 
+    "price": "20.00", 
+    "instructors": "Juan Pablo De la torre Valdez", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/857774_f43f.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-avanzado-custom-post-types-taxonomias-y-metaboxes/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-23T17:52:04Z"
+}

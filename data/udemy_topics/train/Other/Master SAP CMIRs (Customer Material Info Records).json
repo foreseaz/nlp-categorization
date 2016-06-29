@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<ul><li>This course will provide you with a strong foundation for understanding the SAP Customer Material Information Record, also known as CMIR.</li><li>Completing this course you will be knowledgeable and confident in using a CMIR and applying it's usage to business scenarios in the order-to-cash process.</li><li>This will help you when working with SAP; including projects, production support, analysis work, customization of solutions, and more.</li><li>The course is structured as a series of easy to follow videos, starting from the business process, and working it's way through master data, then to sales order and delivery scenarios, and finally on to data modeling and advanced program customization.</li><li>A huge benefit for students will be found in being able to apply this knowledge on SAP projects, work, interviews, and more!</li></ul>", 
+    "end_date": null, 
+    "title": "Master SAP CMIRs (Customer Material Info Records)", 
+    "price": "30.00", 
+    "instructors": "Devon Winters", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/591174_9470_4.jpg", 
+    "course_url": "https://www.udemy.com/master-sap-cmirs-customer-material-info-records/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-23T17:23:47Z"
+}

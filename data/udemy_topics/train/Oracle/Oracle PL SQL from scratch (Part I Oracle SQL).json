@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \tThis course will teach you how to start programming in Oracle PL/SQL. Course is designed to be a guide not only for those that completely new in computer programming but also for those that has quite experience in different programming languages as well as for those that had already had pleasure to code in PL/SQL.  </p>  <p style=\"\">  \tI will shoot all my lectures from my laptop by sharing the screen. At the end of most lectures I will post quizzes as well as scripts used in lecture.  </p>  <p style=\"\">  \tThe lectures are going to include mostly practical examples with explanations.  </p>  <p style=\"\">  \tI will keep adding the contest and lectures so even after you completed the course you can come back for more.  </p>  <p style=\"\">  \tCourse will have three type of lectures: beginner, intermediate and advanced. For those who are just starting with PL/SQL I would highly recommend to watch all the lectures  for beginner first before switching to the next intermediate and advanced topics.  </p>  <p style=\"\">  \tThe lectures will switch back and force between PL/SQL and SQL topics.  </p>  <p style=\"\">  \tBeginners PL/SQL developers earn $30-40 per hour USA and there is growing demand for new programmers.  </p>  <p style=\"\">  \tLittle bit about myself. I have more than 13 years of experience designing and coding in Oracle PL/SQL. I love this powerful language and I am passioned about it. I hope I will be able to infect you with my love to PL/SQL  </p>", 
+    "end_date": null, 
+    "title": "Oracle PL/SQL from scratch (Part I Oracle SQL)", 
+    "price": "35.00", 
+    "instructors": "Faig Garayev", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/85120_9b0d_6.jpg", 
+    "course_url": "https://www.udemy.com/oracle-plsql-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-28T18:26:19Z"
+}

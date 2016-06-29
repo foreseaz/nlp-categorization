@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>TypeScript gives the developer instant feedback on the code they are writing in order to catch mistakes earlier in the development process. Since it is transpiled to JavaScript, developers can take advantage of future JavaScript language features today.</p><p>Mastering TypeScript will take you on a journey from understanding and interacting with the type system to working efficiently with more advanced features of the language.</p><p>We’ll start by introducing a simple client/server application. Then use the application to demonstrate key components of the TypeScript language.</p><p>Once the sample application is set up, we’ll look in detail at TypeScript’s type system. Then we take a look at more advanced language features, learn to deal with JavaScript libraries, and finally use TypeScript to utilize static typing between parts of an application.</p><p>Mastering TypeScript will help you write better TypeScript code and gain a deeper understanding of the language.</p><p><strong>About The Author</strong></p><p><strong>David Sherret </strong>is a software developer in the healthcare industry. Within that, he leads several projects including one that supports the logistics behind specialty pharmaceuticals and maintains a patented technology for reducing health insurance fraud.<br></p><p>You can find him answering questions on the TypeScript tag on Stack Overflow.</p>", 
+    "end_date": null, 
+    "title": "Mastering TypeScript", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/708514_44c8_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-typescript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-28T12:27:46Z"
+}

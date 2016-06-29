@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will help you to master one of the most popular NoSQL databases MongoDB. This course is designed to provide knowledge and hands on skills to become a successful MongoDB expert.</p><p>Course will be updated every week with the new Lectures and Project files so that you can do hands on with those project files.</p><p><strong>Update 20 :Quiz 6: Quiz on ObjectIds in MongoDB </strong>added in <strong>Section 7</strong></p><p><strong>Update 19 : Quiz 5: Quiz on Index in MongoDB</strong><strong> </strong>added in <strong>Section 6</strong></p><p><strong>Update 18: Section 14: Map-Reduce in MongoDB added</strong></p><p><strong>Update 17: Lecture 52: Fetching Last 'n' documents from a collection added</strong></p><p><strong>Update 16:  Lecture 48-Group by using Reduce Function added in Doubt Clarification Section</strong></p><p><strong>Update 15 : Section 13 on Regular Expressions in MongoDB added</strong></p><p><strong>Update 14</strong><strong>: Doubt Clarification Section-12</strong> added which will be having lectures answering to the questions asked on Course discussion board by the learners. </p><p><span></span><strong>Update 13 </strong><strong>: </strong>Section 11 added on User/Role Management in MongoDB</p><p>                                                                                                      <strong>Update 12 </strong><strong> : </strong>Section on Doubt Clarification Section- Answers to Questions asked on Course Discussions added<strong>                                               Update 11 </strong><strong>: </strong>Lecture 46 Many-To-Many Relationship added in Section 10<strong>                                                                                                      </strong><strong>Update 10  :</strong> Section 10- Relationships in MongoDB</p><p><strong>Update 9  :</strong> Section 9- Data Modeling in MongoDB added. </p><p><strong>Week 8 Update</strong> - Section 8: Aggregation Framework in MongoDB which discusses about Aggregation Frameworks in MongoDB in detail.</p><p><strong>Week 7</strong> <strong>update</strong>: Section 7- ObjectIds in MongoDB which focuses on ObjectId(nearly same as primary key in RDMBS)</p><p><strong>Week 6 </strong><strong>update</strong>: Section 6 -Performance tuning with Indexes in MongoDB with Lecture 28,29,30,31,32</p><p><strong>Week 5 update</strong>: Lecture 25, 26 &amp; a Quiz added in section 5</p><p>Week 4 update: Lecture 22, 23, &amp; 24 added in Section 5.</p><p>Week 3 Update: Lecture 19, 20 &amp; 21 added in Section 5</p><p>Week 2 Update: Section 5 added with Lecture 17 &amp; 18.</p><p>Week 1 Update : Lecture 13, 14 &amp; 15 added in Section 4.</p><p>We will start with basics of MongoDB and then we go on learning advance concepts to build MongoDB based applications.</p><p>In this course, we will start by learning basic concepts of MongoDB, MongoDB installation process on different operating systems, creating databases, Collections, CRUD opertaions and Indexing.</p><p>You can use the exercise files attached along this course to practice and follow along the each section/chapter. There will be short quizzes after each section to test our understanding and also to revise the concepts.</p><p>At the end of this course you will be mastering MongoDB based application development.</p><p>Course Highlights</p><ul><li>Most comprehensive course on MongoDB with NoSQL database design approach</li><li>Simple, easy and well explained lectures with practical examples</li><li>Quizzes at end of the each section to test your understanding</li><li>Exercise files to help you start practicing along the course</li><li>More Lectures and projects will be added in coming weeks</li></ul><p>Course Objective</p><ul><li>Mastering MongoDB based application development</li><li>Decide where and when to use MongoDB in your application development</li><li>Design MongoDB database from start to finish</li><li>Differentiate between RDBMS and NoSQL databases</li><li>Spot key features and advantages of NoSQL database MongoDB over RDBMS databases</li></ul>", 
+    "end_date": null, 
+    "title": "Learn MongoDB : Leading NoSQL Database from scratch", 
+    "price": "20.00", 
+    "instructors": "Sunil Kumar Gupta", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/432224_923b_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-mongodb-leading-nosql-database-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-25T17:46:49Z"
+}

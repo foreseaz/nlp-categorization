@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t<span>You heard the words Spanning Tree, now it is time to understand what it is all about. We start with the very beginning, discussing how L3 uses a mechanism to prevent loops. We quickly find out that L2 does not have this mechanism and why Spanning Tree is needed. Then we enter the world of Spanning Tree. Exploring how spanning tree forms it topology and the election processes.</span>  </p>  <p>  \tFrom there we enter into a step by step process, understanding how Spanning Tree starts to build its own topology. We learn about the Root Bridge, Root Ports, Designated Ports, Blocking ports, and so on.  </p>  <p>  \tIf you want to really understand Spanning Tree, this is where you begin. I assure you that after you watch this 2.5hr lecture and take the 5 quizes, you will have a solid Spanning Tree Basics foundation.  </p>  <p>  \tThis was a class that I ran and recorded. I took that footage and edited just for Udemy students. Please let me know how you like this course, for there is more to come.  </p>", 
+    "end_date": null, 
+    "title": "Cisco CCNA Spanning Tree Basics", 
+    "price": 0, 
+    "instructors": "Kiel Martin", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/374328_b363_3.jpg", 
+    "course_url": "https://www.udemy.com/cisco-ccna-spanning-tree-basics/", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-20T05:42:05Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Marketing"
+    ], 
+    "description": "<p>  \t   In this course you will learn how to create and implement a button that allows users to log in to a website using their Twitter account, effectively bypassing the need to fill out yet another registration form. Basic programming knowledge is recommended for this course, but even beginners can follow along and develop this integration. This course is also great for entrepreneurs who are building a website for themselves.  </p>  <p>  \t <strong>How Does This Benefit a Website?</strong>  </p>  <p>  \t   Social logins are all the rage these days, and for good reason -- the signup you receive from social logins is up to 30% higher than the standard signup form.  </p>  <p>  \t   The benefit to websites is the ability to have all of your users connect automatically to social media sites to share your content.  </p>  <p>  \t<strong>Why Should You Learn It?</strong>  </p>  <p>  \t  Social media login integrations are becoming a much more important part of standard practice in web development. If you can&#039;t integrate social media logins you&#039;re being left in the dust by your competitors who can.  </p>  <p>  \t<strong>Other Important Social Media Integrations</strong>  </p>  <p>  \t  Google and Facebook are the other most common social media integrations you&#039;ll need to know, and we have courses on how to do that as well.  </p>", 
+    "end_date": null, 
+    "title": "How To Add Twitter Login Authentication To A Website", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/253208_a199_4.jpg", 
+    "course_url": "https://www.udemy.com/how-to-implement-sign-in-with-twitter/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Social Media Marketing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-30T14:38:20Z"
+}

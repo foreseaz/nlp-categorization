@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t   This short course helps a beginner to understand how to write basic SQL queries and other code statement to develop and administer SQL Server. There will be downloadable labs to follow with the lessons so you gain confidence with your new skill. When you do the steps along with the lessons you can expect this course to take between 20 and 40 hours.  </p>", 
+    "end_date": null, 
+    "title": "SQL Queries 101", 
+    "price": "30.00", 
+    "instructors": "Rick A. Morelan", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/131030_38fe_3.jpg", 
+    "course_url": "https://www.udemy.com/sql-queries-101/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-08T20:46:41Z"
+}

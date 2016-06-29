@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Aims</strong>  </p>  <p style=\"\">  \t<strong style=\"\"></strong>  </p>  <p style=\"\">  \t        To learn the development of an Android Application which utilizes an SQLite Database, Repeating Notification (Reminder), Pick from Android Contacts List and Shared Preferences and know how to publish the app to the Android Play Store.  </p>  <p style=\"\">  \t<strong style=\"\"></strong>  </p>  <p style=\"\">  \t<strong style=\"\">Learning Objectives</strong>  </p>  <p style=\"\">  \t        Learners will know how to create a new Android Application and publish to Play Store  </p>  <p style=\"\">  \t    Learners will know how to create layouts: Linear layouts and Scroll Views  </p>  <p style=\"\">  \t        Learners will know how to add TextViews, EditTexts and Buttons to layouts  </p>  <p style=\"\">  \t        Learners will know how to find views in android activities  </p>  <p style=\"\">  \t        Learners will learn how to change the look and feel of a Button  </p>  <p style=\"\">  \t        Learners will learn how to get texts from TextViews and EditTexts  </p>  <p style=\"\">  \tLearners will learn how to validate user inputs  </p>  <p style=\"\">  \t        Learners will know how to dynamically add TextViews to a Linear Layout  </p>  <p style=\"\">  \tLearners will be able to add values to the application resources: strings and colors  </p>  <p style=\"\">  \tLearners will know how to use the android spinner  </p>  <p style=\"\">  \tLearners will know how to import an image into the resources folder  </p>  <p style=\"\">  \tLearners will know how to insert an image view and assign a resource to it  </p>  <p style=\"\">  \tLearners will understand how to implement a Date Picker within an Android Application  </p>  <p style=\"\">  \tLearners will learn how to implement a Spinner and add drop down menu to it from an array using Array Adapter  </p>  <p style=\"\">  \t        Learners will learn how to create and use a Constructor – Construction of Objects  </p>  <p style=\"\">  \t        Learners will know how to pick a contact from the Android Device Contacts List into the application  </p>  <p style=\"\">  \t        Learners will learn how to create an SQLite Database  </p>  <p style=\"\">  \t        Learners will learn how to save data to the SQLite Database  </p>  <p style=\"\">  \t        Learners will learn how to get data from the SQLite Database  </p>  <p style=\"\">  \t        Learners will learn how to delete data from the SQLite Database  </p>  <p style=\"\">  \tLearners will learn how to use Content Values and Cursor in the SQLiteDatabase  </p>  <p style=\"\">  \t        Learners will know how to use the arrayList data structure to store and retrieve data  </p>  <p style=\"\">  \t        Learners will learn how to use the Alarm Manager to set a repeating alarm  </p>  <p style=\"\">  \tLearners will learn how to implement a repeating Notification  </p>  <p style=\"\">  \tLearners will learn how to implement a Broadcast Receiver within the application  </p>  <p style=\"\">  \tLearners will learn how to maintain notification on reboot of the application  </p>  <p style=\"\">  \t        Learners will know how to change the icon launcher of the application  </p>  <p style=\"\">  \tLearners will understand how to change the style of an activity  </p>", 
+    "end_date": null, 
+    "title": "Android SQLiteDatabase, Repeating Notification, Pick Contact", 
+    "price": "50.00", 
+    "instructors": "June Nwosu", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/310056_cb11_6.jpg", 
+    "course_url": "https://www.udemy.com/sqlite-repeating-notification-pick-contact-shared-prefs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-29T14:40:42Z"
+}

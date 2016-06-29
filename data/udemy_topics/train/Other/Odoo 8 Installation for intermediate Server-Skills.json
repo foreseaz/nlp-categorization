@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong></strong>In this course we will install Odoo 8 on a local machine (Host: Mac, Guest: Ubuntu 14.04 LTS). You can do that on Windows, Linux or Mac if you want. You just need Ubuntu 14.04 or a Operating System which can run Virtualbox (a free Virtualisation Software).</p><p>For all interested people in Odoo 8 this is a must have course to take. It's about a way in order to get odoo running on a local server. If you get this idea right, you can host Odoo on a local Server (let's say on your computer itself) or a server in your enterprise. Where this host will be is only limited to your infrastructure. The best thing is: you do not need to buy Odoo (SaaS) package and this installation is not limited to a specific amount of users or time range.</p><p>But we will not only install Odoo, we will install all the required software like: </p><p>- A virtualization software (VirtualBox) which is free</p><p>- The Linux Operating System Ubuntu 14.04 LTS (Long Term Support) which is also free. </p><p><br></p>", 
+    "end_date": null, 
+    "title": "Odoo 8 Installation for intermediate Server-Skills", 
+    "price": "20.00", 
+    "instructors": "WordPress, SEO & Programimerung Malte Helmhold", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/504340_f0b1_2.jpg", 
+    "course_url": "https://www.udemy.com/odoo-local-installation/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-17T10:42:53Z"
+}

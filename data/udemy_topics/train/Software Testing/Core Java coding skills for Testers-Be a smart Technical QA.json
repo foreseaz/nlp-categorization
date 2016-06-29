@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Course Launch Date : <em>April 21st -2016</em><br>\"<strong>One stop Place to learn all the core Java concepts with practical examples</strong>\"<br><br>Knowledge of Java OOPS and Coding is required in every Technical role. And this course fulfills that desire by teaching everything from zero....</p>\n\n<p><br><strong class=\"redactor-inline-converted\">Below are the contents we cover :</strong></p>\n\n\n\n\n\n<p>Java Basics,<br>Methods in java , <br> Classes,objects,<br> Strings and examples related to them<br>Arrays and MultiDimensional arrays, <br>Arrays examples, <br>Java loops and conditions<br>Code logics with practise example<br>OOPS concepts,Inheritance.polymorphism,Abstraction<br>Types of Interfaces, <br>Function overloading and overriding, <br>Constructors and their usage, <br>Super and this keywords usage, <br> Types of exceptions, <br>Try catch finally Mechanism,<br> Final variable, <br>Java collections,<br>Date and calendar classes<br></p>", 
+    "end_date": null, 
+    "title": "Core Java coding skills for Testers-Be a smart Technical QA", 
+    "price": "25.00", 
+    "instructors": "Rahul Shetty", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/570674_9b69.jpg", 
+    "course_url": "https://www.udemy.com/core-java-tutorials/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-01T04:27:25Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course is for anyone who would like to apply their technical skills to creative work ranging from video games to art installations to interactive music, and also for artists who would like to use programming in their artistic practice. \n\nThis course will teach you how to develop and apply programming skills to creative work. This is an important skill within the development of creative mobile applications, digital music and video games. It will teach the technical skills needed to write software that make use of images, audio and graphics, and will concentrate on the application of these skills to creative projects. Additional resources will be provided for students with no programming background. \n\nAt the end of this course, you will be able to:\n\n* Write creative, audiovisual programs in the Processing environment that run on desktop and mobile \n* Programatically manipulate sound in creative ways \n* Display images and image sequences\n* Generate interactive, algorithmic graphics\n* Work with a 2D physics engine to create a basic game\n\n                                            Syllabus\n                        Sonic PainterThis week we are getting up and running with the Processing IDE. We will show you the basics of writing Processing sketches then move onto some graphics and audio concepts. Mick will then introduce our first audiovisual example - SonicPainter, which allows users to interactively paint with synchronised graphics and sound. DJTubeThis week we are looking at using images and video, and also finding out how to control sound more fully in an interactive way. We're going to be showing you a really basic interactive VJ/DJ app called 'DJTube', which is a very simple example of how to create and load video, images and animations on desktops / mobile devices, and also use them as a basic user interface. \nAudio VisualiserThis week is all about creating an Audiovisualiser. This is a really popular and interesting topic that has lots of applications, from music players, to game engines, to more complex things such as DSP. We'll be learning about algorithmic graphics, audio analysis, and also about using the accelerometer features of your phone. Remember that many desktops don't have accelerometers, no matter how much you shake them! AngryDroidsThis week we will be creating a physics based game using a Physics engine based on Box2D. Physics engines are a fantastic way of creating dynamic gameplay that models the real world. Box2D is one of the most popular because it is optimised to be fast for 2D games that don't need the heavy processing of a 3D engine. It is used in many important 2D games, most famously Angry Birds. We will be using boxwrap2D which is a Java port of the original C++ version of Box2D, that is designed to work with Processing. Since boxwrap2D is java only we have created our own port to JavaScript, which interfaces to the javascript version of Box2D, but provides an almost identical interface to the Processing version. Music MachineWelcome to the final week of Creative Programming for Digital Media and Mobile apps. This week, we are going to move back to one of our favorite areas of app development - music apps. We have a very special guest this week - Martin Roth from RJDJ. Martin has lots of experience working on consumer mobile music applications, including the amazing Inception app, and The Dark Knight Rises. He shares his views on the expanding space in mobile music applications, and offers us his opinion on the WebAudio API. Meanwhile, Matt will be showing you how to create a very basic drum sequencer, and Marco will take you through the basics of sliders and multisliders, which are particularly useful for controlling parameters in music apps. Mick will then be taking you through some synthesiser examples in WebAudio, and talk you through the Music Machine example, which is a great place to kick off making a professional interactive music app for mobile.\n                                    ", 
+    "end_date": "2016-07-11T00:00:00Z", 
+    "title": "Creative Programming for Digital Media & Mobile Apps", 
+    "price": 0, 
+    "instructors": "Mick Grierson, Matthew Yee-King and Marco Gilles", 
+    "institution_name": [
+        "University of London International Programmes"
+    ], 
+    "commitment": "5-10 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.coursera.org/learn/digitalmedia", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-06T00:00:00Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">This course will cover how to:</p><ul><li>Set up a Ruby on Rails application using a Neo4j database as a backend</li><li>Start creating Rails models to allow for abstracted management of your Neo4j properties and relationships</li><li>Build simple but powerful queries using association chaining</li><li>Represent relationships with the ActiveRel module</li><li>Start building more complicated queries with the `Query` API and Neo4j's Cypher query language</li></ul>With the Neo4j and Ruby you will be able to model in a way which is intuitive and which will allow you to make complex queries on your data's relationships and structure.  An asset management portal is used as an example to show you how to start working.<p><br></p><p>If you would like another FREE resource to continue learning Neo4j I highly recommend the O'Reilly book \"Graph Databases\".</p>", 
+    "end_date": null, 
+    "title": "Building a Ruby on Rails Application with Neo4j", 
+    "price": 0, 
+    "instructors": "Brian Underwood", 
+    "commitment": "32 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/575644_04c1_2.jpg", 
+    "course_url": "https://www.udemy.com/building-a-ruby-on-rails-application-with-neo4j/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-06T12:29:21Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Selenium Webdriver</strong> is one of the most well known testing frameworks. It is an open source project that allows testers and developers alike to develop functional tests to drive the browser. <strong style=\"\">Selenium Webdriver</strong> can work on any browser that supports JavaScript, since Selenium has been built using<br style=\"\">  \t    JavaScript.<br style=\"\">  \t<br style=\"\">  \t<strong style=\"\">Chapter One</strong><br style=\"\">  \t<br style=\"\">  \t    1. Configuring Webdriver in Eclipse<br style=\"\">  \t    2. Running Sample code using Webdriver<br style=\"\">  \t    3. Firefox profile, WebDriver DesiredCapabilities Class<br style=\"\">  \t    4. Close and Quit, HTMLUnit driver<br style=\"\">  \t<br style=\"\">  \t<strong style=\"\">Chapter Two</strong><br style=\"\">  \t<br style=\"\">  \t    1. Xpath and their usage with Webdriver<br style=\"\">  \t    2. Xpath Function,Absolute and Relative Xpaths<br style=\"\">  \t    3. Xpath finding Links, Buttons, Input box, Radio buttons, Checkbox<br style=\"\">  \t<br style=\"\">  \t<strong style=\"\">Chapter Three</strong><br style=\"\">  \t<br style=\"\">  \t    1. WebDriver, WebElement Interface<br style=\"\">  \t    2. Handling drop down list using Select class<br style=\"\">  \t    3. Taking Screenshots with selenium Webdriver<br style=\"\">  \t    4. Finding whether object is present on page or not<br style=\"\">  \t<br style=\"\">  \t<strong style=\"\">Chapter Four</strong><br style=\"\">  \t<br style=\"\">  \t    1. Implicit and Explicit waits<br style=\"\">  \t    2. WebDriverWait Class<br style=\"\">  \t    3. ExpectedConditions class<br style=\"\">  \t    4. WaitUntil Condition<br style=\"\">  \t<br style=\"\">  \t<strong style=\"\">Chapter Five</strong><br style=\"\">  \t<br style=\"\">  \t    1. Handling Multiple Browser Window<br style=\"\">  \t    2. Handling JavaScript Alert<br style=\"\">  \t    3. Attaching files with Webdriver<br style=\"\">  \t    4. JavaScriptExecutor  </p>  <p style=\"\">  \t<strong style=\"\">And source code shown as part of video lecture will be provided for download</strong>  </p>", 
+    "end_date": null, 
+    "title": "Selenium Webdriver with Java Language", 
+    "price": "35.00", 
+    "instructors": "Rahul Singh Rathore", 
+    "commitment": "20 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/252560_36c6_3.jpg", 
+    "course_url": "https://www.udemy.com/test-automation-with-selenium-webdriver/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-29T11:34:34Z"
+}

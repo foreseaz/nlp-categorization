@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    How does the Web work? Under the hood of HTTP there's a whole stack of networking protocols.\n\nExplore the underpinnings of the net with tools like `traceroute`, `tcpdump`, and `nc`.Why Take This Course?As a web developer, it's handy to know a bit about the TCP/IP stack, IP addressing, DNS, and other protocols that underlie the Web technologies you use.\n\n                                            Syllabus\n                        ### Lesson 1: From Ping to HTTP\n\nIn this lesson you'll begin using command-line tools to explore the network: `ping` to check hosts, and `nc` (netcat) to manually communicate with web servers and to emulate a web server. You'll also learn about port numbers and the layering of HTTP on top of TCP.\n\n### Lesson 2: Names and Addresses\n\nIn this lesson you'll learn about the Domain Name System (DNS). Optionally, you'll register your own domain name for your web server. You'll also learn more about the binary representation of IP addresses.\n\n### Lesson 3: Addressing and Networks\n\nIn this lesson you'll learn more details about Internet addressing: network blocks, interfaces, network address translation (NAT), and IPv6.\n\n### Lesson 4: Protocol Layers\n\nIn this lesson you'll use `tcpdump` to examine the packets that make up the requests and responses for three protocols: ping, DNS, and HTTP. You'll learn more about how TCP sessions work.\n\n### Lesson 5: Big Networks\n\nIn this lesson you'll learn more about bandwidth, latency, filtering, and other properties that matter when users are accessing your application over the Internet.\n                                    ", 
+    "end_date": "2016-03-29T00:00:00Z", 
+    "title": "Networking for Web Developers", 
+    "price": 0, 
+    "instructors": "Karl Krueger", 
+    "institution_name": [], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.udacity.com/course/networking-for-web-developers--ud256?utm_medium=referral&utm_campaign=api", 
+    "duration": "2 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2016-03-15T00:00:00Z"
+}

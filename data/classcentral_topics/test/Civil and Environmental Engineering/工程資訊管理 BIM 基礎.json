@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Civil & Environmental Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    本課程教授BIM技術的基礎知識，並以貼近實務之工程案例為教學範例，教授BIM塑模之基礎觀念與操作邏輯，並讓學生能實際應用BIM工具於案例實作中。理論方面，將說明或介紹BIM技術的定義與範圍、發展與應用歷程、各類的BIM工具、與BIM資訊模型建構及管理相關之基本知識。\n\n                                            Syllabus\n                        第一講 / 蓄勢待發Video 101：如何學好本課程Page 102：課程大綱Page 103：評分方式Page 104：學習指南Page 105：課程FAQPage 106：製作團隊Video 107：Revit 2015 軟體安裝Page 108：附件第二講 / 何謂 BIM、BIM 的崛起Video 200：你將學到什麼Video 201：BIM 的定義Video 202：BIM 技術的發展現況Video 203：為什麼需要 BIM？Video 204：BIM 的崛起（一）Video 205：BIM 的崛起（二）Video 206：全世界的 BIM 發展現況Video 207：Revit 環境介紹Video 208：Revit 視圖基本操作：平移、縮放、旋轉第三講 / 建築物全生命週期的 BIM 應用Video 300：你將學到什麼Video 301：建築物全生命週期的 BIM 應用：規劃階段Video 302：建築物全生命週期的 BIM 應用：設計階段Video 303：建築物全生命週期的 BIM 應用：施工階段Video 304：建築物全生命週期的 BIM 應用：營運與維護階段Video 305：Revit 暫時隱藏元件Video 306：Revit 操作切剖模型工具第四講 / BIM 協同作業與資訊交換標準Video 400：你將學到什麼Video 401：BIM 與 IPDVideo 402：BIM 與契約及智慧財產Video 403：BIM 指引、準則與規範Video 404：BIM 執行計畫Video 405：BIM 協同作業工具Video 406：BIM 模型元件的發展程度Video 407：BIM 模型之資訊交換標準－IFCVideo 408：BIM 流程建模之標準－BPMNVideo 409：Revit 切縱/橫向段面圖Video 410：Revit 量測兩點距離第五講 / BIM 的挑戰與機會Video 500：你將學到什麼Video 501：BIM 的挑戰與機會（一）Video 502：BIM 的挑戰與機會（二）Video 503：BIM 的挑戰與機會（三）Video 504：Revit 查閱出圖圖紙資訊Video 505：Revit 查閱數量計算資訊第六講 / 下回見！Video 601：Video 602：迎接 工程資訊管理 BIM 案例\n                                    ", 
+    "end_date": "2015-09-26T00:00:00Z", 
+    "title": "工程資訊管理 BIM 基礎", 
+    "price": 0, 
+    "instructors": "謝尚賢(Shang-Hsien Patrick Hsieh) ", 
+    "institution_name": [
+        "National Taiwan University"
+    ], 
+    "commitment": "6-10 hours", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.coursera.org/course/bimconceptknowledge", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2015-08-15T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">UPDATE: </strong><span>Discount Coupon on my blog RunAstartup !!</span>  </p>  <p>  \t<strong style=\"\">Over 4 hours of succinct video tutorials + source code! <br style=\"\">  \t</strong>  </p>  <p>  \t      Want to make a website interactive but don&#039;t know where to start?  Maybe javascript intimidates you...  With jQuery you can jumpstart your user interaction skills easily.  </p>  <p>  \t             For designers or developers who want to manipulate the web - this is for you!  </p>  <p>  \t             Learn the basics of jQuery, get the proper resources, and start making projects.  User Interaction and Experience is more popular than ever and designers are high in demand!  </p>  <p>  \t             jQuery is the most popular framework because of it&#039;s flexibility and cross-browser compatibility.  Forget about writing extra code for every specific browser, jQuery does it for you. What used to require 30 lines of code in javascript can be done in 3.  </p>  <p>  \t             What else... Why should you take this course?  </p>  <p>  \t             Well you might have already seen introductions and felt overwhelmed with the amount of functions, selectors, filters, etc...  I agree, there&#039;s a lot, but honestly you&#039;re not going to need to know all of them.  80%% of the time you&#039;re going to use selectors by id and class name, then attach event listeners to them.  </p>  <p>  \t             Would you rather waste time finding every selector available or start manipulating HTML and CSS in a way that makes sense.  This is what this course provides.  </p>  <p>  \t             Current Projects include:  </p>  <ul style=\"\">  \t<li>Input tag validation</li>  \t<li>Expanding Collapsing Elements</li>  \t<li>Optical Flare Animation</li>  \t<li>Including custom jQuery files into WordPress</li>  \t<li>Publishing your own jQuery Plugin</li>  \t<li>Mouse detection and Key Press Listeners</li>  \t<li>Changing View for Responsive Design</li>  \t<li>Asynchronous Page Loading with AJAX</li>  </ul>  <p>  \t             (If you have questions or concerns, send me a message :)  </p>", 
+    "end_date": null, 
+    "title": "jQuery Mastery and Plugins", 
+    "price": "40.00", 
+    "instructors": "Tom Rutka", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/69912_c860_10.jpg", 
+    "course_url": "https://www.udemy.com/jquery-projects/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-07-26T03:26:46Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Cette mini formation d'un peu plus d'une heure vous permettra de prendre en main l'interface d'Unreal engine 4. Vous découvrirez le fonctionnement de ce puissant moteur de jeu ainsi que le fonctionnement du langage blueprint.</p><p>Nous verrons des notions basiques vous permettant de créer des projets simples pour vous faire la main sur Unreal engine 4. Une formation complète a été publiée sur Udemy pour ceux qui souhaitent aller plus loin avec unreal engine.</p>", 
+    "end_date": null, 
+    "title": "Découverte d'Unreal engine 4", 
+    "price": 0, 
+    "instructors": "Anthony Cardinale", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/838244_82c3_2.jpg", 
+    "course_url": "https://www.udemy.com/decouverte-unreal-engine-4/", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-03T07:53:01Z"
+}

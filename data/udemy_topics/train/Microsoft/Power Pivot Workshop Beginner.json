@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t The Beginner course introduces Power Pivot to any user who knows Excel and want to create reports with more complex and large data structures than a single table made by few thousand rows. Power Pivot is available in both Excel 2010 and Excel 2013, and it is the center of Power BI, the Microsoft offer for self-service analytics.  </p>  <p style=\"\">  \t The course includes almost 3 hours of video in 30 lectures. You do not need any previous experience in Power Pivot to take this course.  </p>  <p style=\"\">  \tSections included in this course:  </p>  <ul style=\"\">  \t<li style=\"\">Introduction to Self-Service Business Intelligence</li>  \t<li style=\"\">Introduction to Power Pivot</li>  \t<li style=\"\">Loading Data</li>  \t<li style=\"\">Data Modeling</li>  </ul>  <p style=\"\">  \t After this course, we suggest you to take the Power Pivot Workshop Intermediate one.  </p>", 
+    "end_date": null, 
+    "title": "Power Pivot Workshop Beginner", 
+    "price": 0, 
+    "instructors": "Marco Russo, Alberto Ferrari", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/251416_0071_10.jpg", 
+    "course_url": "https://www.udemy.com/power-pivot-workshop-beginner/", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-27T08:52:18Z"
+}

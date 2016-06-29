@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   In this course you will learn how to create a simple contact form for your website with PHP and jQuery.  </p>  <p style=\"\">  \t   You will learn how to:  </p>  <ul style=\"\">  \t<li style=\"\">create the html structure of the form</li>  \t<li style=\"\">submit request using jQuery ajax approach</li>  \t<li style=\"\">validate empty fields and display the message accordingly</li>  \t<li style=\"\">validate email address entered into the email field</li>  \t<li style=\"\">create HTML message</li>  \t<li style=\"\">send email using PHP</li>  </ul>  <p style=\"\">  \tDuring this course we will make use of the following, free resources in order to format and style our form:  </p>  <ul style=\"\">  \t<li style=\"\"><a href=\"http://www.google.com/fonts\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\">Google Fonts</a></li>  \t<li style=\"\"><a href=\"http://foundation.zurb.com/\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\">Zurb Foundation 4</a></li>  </ul>", 
+    "end_date": null, 
+    "title": "Simple Contact Form with PHP", 
+    "price": "50.00", 
+    "instructors": "Sebastian Sulinski", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/84918_13d8_12.jpg", 
+    "course_url": "https://www.udemy.com/simple-contact-form-php/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-28T08:31:05Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em style=\"\"></em>Well, we finally have a very slick UI system, for Unity 3D. This course is dedicated to Teaching you the basics of using the new UI system. The contents of these lessons is a culmination of learning how to use the new UI system, while it was in Beta, and in final release projects.</p><p>We will cover the basics of adapting your UI to multiple resolutions, on how to utilize the new Event system, and how to set up more professional UI controls. By the end of this course you will have built your own frontend UI, and learn how to develop a UI system for your own projects.</p>", 
+    "end_date": null, 
+    "title": "Getting Cozy with Unity UI", 
+    "price": "20.00", 
+    "instructors": "Gametutor :-)", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/567392_be4d.jpg", 
+    "course_url": "https://www.udemy.com/gametutor_getting-cozy-with-unity-ui/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-28T15:15:37Z"
+}

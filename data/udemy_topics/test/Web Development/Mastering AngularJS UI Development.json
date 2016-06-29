@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Developing powerful, interactive modern web applications is a complex endeavor. Enter AngularJS, the framework par excellence which has clearly emerged the winning solution, due to its simplicity and extensive range of features, including Two Way Data-Binding and Directives. These features enable a developer to write flexible and testable front-end code, and ultimately to build efficient, photogenic web applications.</p><p style=\"\">Though documentation and online tutorials are available to develop with AngularJS UI, it can be difficult to locate the resources to really take advantage of all the available options for great UI design. Mastering AngularJS UI Development takes you step by step through core AngularJS concepts by demonstrating the build of a TV Show tracking app, before showing you how to enhance and beautify the UI.</p><p style=\"\">Firstly, you will start out with a skeleton application and apply best practices for creating controllers and implementing services. Then, you will learn how to connect the application to an API and add various features to it such as search, tracking, and rating functionalities. You will also learn how to persist data with local storage. Here we move on to beautifying your app by creating various components and reusing them with the help of directives. You'll build attractive forms to validate your users and make your app secure. After that, you will learn different ways to troubleshoot issues with routes, two-way bindings, animations, and isolated scopes.</p><p style=\"\">With best practices engrained throughout, and many advanced concepts explained, after this course you will be able to build better, fantastic-looking AngularJS applications.</p><p style=\"\"><strong style=\"\">About The Author</strong><br style=\"\"></p><p style=\"\"><strong style=\"\">Leon Revill</strong> has over three years of commercial AngularJS development experience and is currently working as a Mobile Architect building complex mobile platform applications using AngularJS and other modern web technologies. As an AngularJS mentor at Thinkful, he tutors students all around the world, taking them from AngularJS novices to ninjas in just a few months.<br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Mastering AngularJS UI Development", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/601260_8eb2_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-angularjs-ui-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-03T10:22:09Z"
+}

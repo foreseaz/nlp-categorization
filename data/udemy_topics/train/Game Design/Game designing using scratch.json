@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<ul>  \t<li>use coupon GET50 to get  50% discount</li><li>Scratch has been developed by the Lifelong Learning Group at the MIT Media Lab. It is a platform that promotes mathematical and computational skills as well as creativity, reasoning and collaborative working.</li>  \t<li>Scratch can be used to make a number of multimedia applications such as      games, animations, simulations, stories and art and even program robots like play i.</li>  \t<li>Every object (sprite) that is used in a scratch project can have one or more scripts attached to it.  These scripts add behaviours to sprites and allow them to act in anyway the user feels suitable in context to the project.</li>  \t<li>The scripts are made up of building blocks that are grouped by category, such as control, motion and sensing. There is very little keyboard input required by the user as all the script blocks are dragged to the scripting area with the mouse and 'clicked' together like lego.</li>  </ul>\n\n<ul>  \t<li>All sprites and backgrounds can be created by the user using the built-in paint editor. However, Scratch also allows users to bring in content from other sources. For example, images you have scanned, photographed or taken from the web. It also comes with a library of sprites and backgrounds to get you started quickly.</li>  </ul>\n\n\n\n<ul>  \t<li>Music and sound effects are just as flexible. Either use the built sounds, record your own from within Scratch or use sounds you have created with another program.</li>  </ul>\n\n\n\n<p>  \t                                          My games made using scratch are:  </p>\n\n\n\n<ul>  \t<li>gen </li>  \t<li>island shoot </li>  \t<li>duck hunt remix(got featured in cover page of scratch official website) </li>  \t<li>table tennis (got featured in cover page of scratch official website) </li>  \t<li>flappy bird remix</li>  </ul>", 
+    "end_date": null, 
+    "title": "Game designing using scratch", 
+    "price": "20.00", 
+    "instructors": "Know Store", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/166266_4c9b_5.jpg", 
+    "course_url": "https://www.udemy.com/learn-game-designing-using-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-18T03:54:14Z"
+}

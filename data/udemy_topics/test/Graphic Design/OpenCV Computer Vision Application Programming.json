@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t      &quot;OpenCV Computer Vision Application Programming&quot; allows you to dive  into the world of computer vision and get many practical benefits from  it with minimal effort. You will learn to recognize and identify  specific faces among others, or even train your very own object detector  to use it for your own specific purposes.  </p>  <p>  \t      &quot;OpenCV Computer Vision Application Programming&quot; helps you get  started with the library by first learning how to install OpenCV  correctly on your system. You will then explore basic image processing  concepts as well as the different interfaces that you can use in OpenCV.  Develop techniques to separate foreground and background in your  images, create stunning panoramas easily by stitching normal images  together, enhance your photographs, calibrate your camera and  automatically detect common objects like faces or people on your images.  Reduce the distortion of your photographs and make straight lines of  the scene look straight instead of bent in your images.  </p>  <p>  \t      You will learn to change the perspective of your images so that it  appears that you are moving around, similar to google street view  navigation and develop a 3D representation of a scene using stereoscopic  images.  </p>  <p>  \t      On completion of this course, you will be able to mix and match the provided examples to build your own application.  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t<strong style=\"\">Sebastian Montabone</strong> is a computer engineer with a Master of Science  degree in computer vision. He is the author of scientific articles  regarding image processing and a book, Beginning Digital Image  Processing: Using Free Tools for Photographers.  </p>  <p>  \t      He uses many open source software and strongly believes in the open  source philosophy. Embedded systems also have been of interest to him,  especially mobile phones. He created and taught a course about  development of applications for mobile phones, and has been recognized  as a Nokia developer champion.  </p>  <p>  \t      If you could summarize all his areas of interest in a single concept, it  would be ubiquitous computing. Currently he is a software consultant  and entrepreneur.  </p>", 
+    "end_date": null, 
+    "title": "OpenCV Computer Vision Application Programming ", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/326338_4f66_2.jpg", 
+    "course_url": "https://www.udemy.com/opencv-computer-vision-application-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Graphic Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-24T11:36:19Z"
+}

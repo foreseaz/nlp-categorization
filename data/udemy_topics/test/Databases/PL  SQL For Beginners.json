@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>PL /SQL is Oracle database's version of the standard SQL .</p>\n\n<p>The PL in the SQL stands for Procedural language and combines it's programming abilities<br>with SQL to make Oracle database's robust and run more efficiently.</p>\n\n<p>It includes the standard SQL language as well as Oracle's proprietary extensions to the standard<br>SQL language.</p>\n\n<p>PL/SQL is high performance and portable.</p>\n\n<p>PL/SQL can also be accessed from the command line using oracle's database built in SQL*Plus.</p>\n\n<p>PL/SQL is closely integrated with SQL and supports various data types.<br> PL/SQL can also be used in developing web applications and supports object -oriented programming.</p>\n\n<p>PL/SQL allows you to create procedures ,functions ,cursors and Triggers.</p>\n\n<p>In this course we will setup a test environment from scratch by downloading and installing sample oracle database and TOAD.<br>Once we have our lab fully setup we will then start writing proper PL/SQL syntax.</p>\n\n\n\n<p>What You Will Learn in this course:</p>\n\n<ul><li>How to write PL/SQL syntax</li><li>How to write procedures</li><li>How to create functions</li><li>How to create cursors</li><li>How to create Triggers</li><li>How to insert PL/SQL comments</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>The SQL in the PL/SQL is similar to how the standard SQL is used.  The way you write a standard Create, Read (Select),update and delete is similar.<br>Oracle's procedural language is used to add extra functionalities to the SQL language.</p>\n\n<p>At the end of this course you should have the basic skills to write PL/SQL syntax and create procedures,triggers,cursors and functions.You<br>will also know how to use the delimiters.</p>\n\n\n\n<p>Welcome to the course.</p>", 
+    "end_date": null, 
+    "title": "PL /SQL For Beginners", 
+    "price": "20.00", 
+    "instructors": "Bluelime Learning Solutions", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/766390_af4f_2.jpg", 
+    "course_url": "https://www.udemy.com/pl-sql-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-18T10:19:23Z"
+}

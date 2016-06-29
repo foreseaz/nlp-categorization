@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>&nbsp;</p><p>John Resig tarafından 2006 yılında geliştirilmiş bir açık kaynak javascript kütüphanesidir.</p>  <p>jQuery bir JavaScript kütüphanesidir. Yada farklı bir JavaScript   Framework&#039;udur denebilir. jQuery yoğun olarak animasyonlarda kullanılır   Flash&#039;ın alternatifi olarak kullanılan bu teknoloji ile Flash galeri,   Tab menü, Sayfa geçişleri gibi bir çok işlem yapılmaktadır.</p>  <p><a rel=\"nofollow\" class=\"external-link\" href=\"http://jquery.com/\" target=\"_blank\" style=\"\">jQuery</a>&#039;nin   resmi sitesinden jQuery dosyasını indirip web sitenize   yükleyebilirsiniz. jQuery boyutu ufak ve işlevi çok olduğundan ayrıca   hazır eklentileride çok olduğundan çok yaygındır. 2006 Yılından beri   kullanılan jQuery 2012 yılına kadar inanılmaz bir kullanım artışı   göstermiştir. Bugün dünyanın en büyük paylaşım sitesi Facebook jQuery   teknolojisi de kullanmaktadır.</p>", 
+    "end_date": null, 
+    "title": "jQuery Giriş", 
+    "price": "20.00", 
+    "instructors": "PHP Akademi", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/56370_5ae2_7.jpg", 
+    "course_url": "https://www.udemy.com/gorseltv-jquery-giris-gorsel-egitim/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-05-25T13:25:16Z"
+}

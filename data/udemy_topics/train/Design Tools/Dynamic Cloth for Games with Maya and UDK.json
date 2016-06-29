@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \t  In this course, Justin Harrison walks us through the various methods of creating cloth elements for real-time game environments! He will be covering topics such as &#039;fake&#039; bone-driven simulations inside of Maya, interactive real-time cloth using UDK&#039;s cloth properties, as well as real-time cloth on animated characters using the APEX clothing feature inside of Maya and UDK!  </p>  <hr style=\"\">  <p style=\"\">  \t<u style=\"\"><strong style=\"\">About the Instructor:</strong></u>  </p>  <p style=\"\">  \t  Justin Harrison is a Character and Technical Animator with more than 7 years experience in the game development industry. Currently, he is working for Molten Games in Del Mar, CA on an unannounced title. Previously he has worked for for both Activision and Sony on titles such as The Bourne Conspiracy, Ghostbusters: The Game, as well as Transformers: War for Cybertron to name a few. Justin holds a BFA in Digital Art and Animation from the College for Creative Studies, and has a generalist skill set that ranges from artistic modeling and asset creation, to motion capture and keyframe animation, to technical rigging and character setup..  </p>", 
+    "end_date": null, 
+    "title": "Dynamic Cloth for Games with Maya and UDK", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/83752_087c_4.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-dynamic-cloth-for-games-with-maya-and-udk/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Design Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-26T01:33:02Z"
+}

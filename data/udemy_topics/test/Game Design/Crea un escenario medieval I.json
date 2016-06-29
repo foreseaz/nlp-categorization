@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \tEste curso es el primero de una serie de 3 cursos.  </p>  <p>  \tMediante modelado poligonal, construiremos en 3DS Max un pequeño escenario medieval para videojuego en High Poly, al que añadiremos detalles en Zbrush. Estos detalles serán la base para obtener un buen acabado final una vez exportado el escenario al motor gráfico Unreal Engine. Aprenderemos a usar el plugin “Ivy Generator” para 3DS Max, que nos facilitará la tarea de añadir vegetación a la escena. Importaremos objetos cargados de geometría a 3DS Max y los optimizaremos para trabajar de manera fluida. Crearemos un render final que nos servirá para mostrar nuestro trabajo. Zbrush es un software de modelado 3d , escultura y pintura digital que constituye un nuevo paradigma dentro del ámbito de la creación de imágenes de síntesis gracias al original planteamiento de su proceso creativo.  </p>  <p>  \t Nuke es un software de composición digital producido y distribuido por The Foundry. Se utiliza para la post-producción en el cine y la televisión. Los usuarios de NUKE incluyen a Digital Domain, DreamWorks Animation, Sony Pictures Imageworks, Sony Pictures Animation, Framestore, Weta Digital e Industrial Light &amp; Magic. NUKE ha sido utilizado en producciones como Avatar, Mr. Nobody, El curioso caso de Benjamin Button, King Kong, Jumper, I, Robot, Resident Evil: Extinction, Tron: Legacy, Alicia en el país de las maravillas y Cisne Negro, etc...  </p>  <p>  \t Este curso es impartido por Javier Arjonilla, profesional del 3d desde hace más de 12 años. Está especializado en el área de modelado y texturado de sets y props, tanto en alta como en baja poligonalización.  </p>  <p>  \t   Ha colaborado en muchos proyectos 3d, entre otros, ha modelado sets y props para un largometraje de animación que ha sido finalista en los Goya 2013, ha creado concepts de escenarios de algunos videojuegos para una desarrolladora estadounidense.<br>  \t   Actualmente posee su propia empresa de audiovisuales con la que crea animaciones para museos por toda España.  </p>", 
+    "end_date": null, 
+    "title": "Crea un escenario medieval I", 
+    "price": "50.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/181950_6fda_2.jpg", 
+    "course_url": "https://www.udemy.com/crea-un-escenario-medieval-i/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-13T17:54:37Z"
+}

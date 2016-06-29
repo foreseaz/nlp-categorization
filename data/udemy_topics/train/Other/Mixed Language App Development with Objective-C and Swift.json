@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this Mixed Language App Development with Objective-C and Swift training course, expert author Jesse Feiler will teach you how to effectively develop apps for Cocoa and Cocoa Touch with Xcode. This course is designed for users that are already familiar with Objective-C and Swift.</p><p>You will start by learning how apps are built, then jump into setting up the development environment. From there, Jesse will explore the main issues, such as brackets and dots, named parameters in Objective-C, and Objective-C nil code. This video tutorial will teach you how to work with classes, declare properties and variables, initialize objects and properties, and declare methods. You will also learn how to create functions and methods, use Tuples in Swift, mix and match Swift and Objective-C, work with switches, and override operators in Swift. Finally, you will learn how to expand your app using an extension or category, as well as how to share your code using Swift and Objective-C.</p><p>Once you have completed this computer based training course, you will be fully capable of developing your own apps for Cocoa and Cocoa Touch with Xcode.</p>", 
+    "end_date": null, 
+    "title": "Mixed Language App Development with Objective-C and Swift", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/782480_da78_4.jpg", 
+    "course_url": "https://www.udemy.com/mixed-language-app-development-with-objective-c-and-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-04T20:45:42Z"
+}

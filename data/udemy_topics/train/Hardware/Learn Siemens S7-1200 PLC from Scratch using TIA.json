@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>     This course is specifically for the people who wants to kick start their training in <strong class=\"redactor-inline-converted\">Siemens PLC</strong>. We are using <strong class=\"redactor-inline-converted\">Siemens S7-1200 PLC</strong> along with <strong class=\"redactor-inline-converted\">Siemens TIA- Total Integrated Automation software</strong> for making tutorials. You will find <strong class=\"redactor-inline-converted\">high quality videos tutorials</strong> along with copy of presentation and PLC code used in the course. </p>\n\n<p>We are teaching programming in <strong class=\"redactor-inline-converted\">Ladder Logic</strong> with touch of<strong class=\"redactor-inline-converted\"> FBD- Functional block Diagram. </strong></p>\n\n<p><strong class=\"redactor-inline-converted\">Following is the pattern of the course:</strong></p>\n\n<ul><li><strong class=\"redactor-inline-converted\">Introduction lecture</strong> of the command</li><li><strong class=\"redactor-inline-converted\">Exercise Example </strong>of the command</li><li>Factory I/O<strong class=\"redactor-inline-converted\"> Industrial Application</strong> Example in <strong class=\"redactor-inline-converted\">real 3D Dynamics environment </strong></li><li><strong class=\"redactor-inline-converted\">Quiz </strong>to evaluate your performance</li><li><strong>Copy of presentation and PLC code</strong> (if applicable) with every lecture </li></ul>\n\n<p>    This course covers the <strong class=\"redactor-inline-converted\">basic fundamentals commands of PLC</strong>. Later we have plans to upgrade this course with <strong class=\"redactor-inline-converted\">PLC advanced Instructions</strong>, <strong class=\"redactor-inline-converted\">Siemens KTP 400 PLC </strong>and <strong class=\"redactor-inline-converted\">SCADA</strong>. We would be explaining how to <strong class=\"redactor-inline-converted\">interface Siemens S7-1200 PLC with Siemens KTP 400 HMI and SCADA</strong>. </p>\n\n<p><em>If you buy the course today, the updates would be included in the course for free. </em><br></p>\n\n<p><strong class=\"redactor-inline-converted\">About Us:</strong></p>\n\n<p>NFI is an <strong class=\"redactor-inline-converted\">Industrial Automation Training Academy </strong>exists to bridge the skill gap between <strong class=\"redactor-inline-converted\">Industries </strong>&amp; <strong class=\"redactor-inline-converted\">Engineering Colleges</strong>. We train students/professionals in Automation skills that can help them in securing their path to success. NFI provides quality education in the field of industrial automation control systems that are being installed across industries. The course material is designed in a way that helps students in acquiring knowledge of these systems and use revolutionary thinking to keep the productivity and profitability high while reducing downtime of machines and troubleshoot the systems faster</p>\n\n<p>NFI offers E-Learning Industrial Automation Courses to facilitate the students &amp; engineers far across the world. NFI uses <strong class=\"redactor-inline-converted\">motivational Learning tools </strong>&amp; <strong class=\"redactor-inline-converted\">software </strong>&amp; <strong class=\"redactor-inline-converted\">Self learning Video tutorial </strong>for flexible &amp; easy learning. </p>", 
+    "end_date": null, 
+    "title": "Learn Siemens S7-1200 PLC from Scratch using TIA", 
+    "price": "50.00", 
+    "instructors": "Mr Rajvir Singh", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/811482_6630_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-siemens-s7-1200-plc-from-scratch-using-tia/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-03T13:30:58Z"
+}

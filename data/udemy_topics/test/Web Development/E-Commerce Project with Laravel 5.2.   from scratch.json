@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Bu kurusn konusu Laravel 5.2.* versiyonu kullanılarak sıfırdan  E-ticaret (E-commerce from scratch) uygulaması geliştirmek bu arada da Laraveli tüm yönleri ile ele almaktır.<br></p><p>Bu kurs yazılım geliştirme sektöründe çok büyük bir eksiklik olan e-store uygulaması ihtiyacına bir cevasp olarak, her seviyeden öğrencinin anlayıp algılayacağı bir dilde ve studyo kalitesinde hazırlanarak, bu konuda eğitim ihtiyacı olan her kes için hazırlanmıştır.</p><p>Kurs içerisinde kullanılan frontend ve backend temalar indirilebilir materyoller olarak sisteme eklenmiş ve öğrencinin birebir olarak kursu uygulama ve takip edbilme imkanı hazırlanmıştır</p><p>Ayrıca kurs tamamlandığında kaynak kodlar da siteme eklenecek böylece tüm kodlamanızı orjinali ile karşılaştırabileceksiniz</p><p>Kursun hedef tamamlanma süresi yaklaşık 3 ay olarak planlanmıştır , ancak daha önce bitirilebilmesi için yoğun olarak çalışılmaktadır.</p><p>Kurs Laravelin Homestead ile birlikte kurulumundan en son aşamaya kadar dikkatli ve detaylıca hazırlanmıştır, öğrencinin kafasını karıştıracak ve ucu açıkta kalabilecek anlatımlardan kaçınılarak hiç bilmeyen birinin kursa başladığında kursu bitirmeye geldiğinde uzman seviyesine yetişmesi planlanmıştır</p><p>Bu kursa kaydolmalısınız çünkü iddia ediyorum daha önce böylesini görmediniz :)</p><p>Başlangıç derslerinden bir kaçı fikir vermesi açısından önizlenebilir olarak açık bırakılmıştır izlemeniz ne dediğimi anlamanız için yeterli olacaktır</p><p>Kısacası pişman olmayacaksınız....<br></p><p><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "E-Commerce Project with Laravel 5.2.*  from scratch", 
+    "price": "50.00", 
+    "instructors": "Muhammed Ravullu", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/784542_dd87.jpg", 
+    "course_url": "https://www.udemy.com/e-shop-project-with-laravel-52-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-07T02:40:56Z"
+}

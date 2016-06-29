@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<ul><li>Learn the basics of Unix</li><li>Learn the basics of Shell programming</li><li>Only requirement is a computer with broadband (Nice to have own Linux OS)</li><li>Willingness to learn outside the course</li><li>Interest in programming</li></ul><p>This course will take you through the basics of Unix and the basics of Shell programming in 8 simple chapters. Each chapter is further divided into small lessons that work around simple concepts.</p><p>If you already know programming, this course will be a breeze. If you don't know programming, worry not, the course is structured in a way that even the beginner can pick up things.</p><p>This course will set you up for more advanced learning not just in Unix and Shell programming, but other languages like C, C++, Java that have their roots in Unix<br></p>", 
+    "end_date": null, 
+    "title": "Unix and Shell Programming for Beginners", 
+    "price": "20.00", 
+    "instructors": "Ram Mohan", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/607938_dc85_2.jpg", 
+    "course_url": "https://www.udemy.com/shellprogramming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-10T12:42:18Z"
+}

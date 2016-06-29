@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tThis Oracle Application Express (Oracle APEX) training course from Infinite Skills will teach you everything you need to know about Oracle&#039;s primary tool for developing web applications with SQL and PL/SQL. This course is designed for new users to Application Express, but you should have familiarity with Oracle SQL fundamentals.  </p>  <p>  \t<br style=\"\">  \tYou will start by learning how to install and administer Apex, then jump into learning the basics of creating applications and pages. This course continues with teaching you all about forms, reports, and charts, templates, and themes. This video tutorial also covers creating mobile applications, and advanced topics including security features, team development features, and the Apex listener.<br style=\"\">  \t<br style=\"\">  \tOnce you have completed this computer based training course, you will have a fundamental understanding of how to use Oracle Application Express for your own development projects.  </p>", 
+    "end_date": null, 
+    "title": "Learning Oracle Application Express ( Oracle Apex ) Training", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/264222_0b3c_6.jpg", 
+    "course_url": "https://www.udemy.com/oracle-application-express-oracle-apex-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-18T18:22:58Z"
+}

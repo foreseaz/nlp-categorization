@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\"><strong>Mobile application testing</strong> is a process by which <strong>application</strong> software developed for hand held <strong>mobile</strong> devices is tested for its functionality, usability and consistency. <strong>Mobile application testing</strong> can be automated or manual type of <strong>testing</strong>.</p><p style=\"\"><strong>This tutorial will be both an introduction and your guide to Mobile Testing. </strong>It covers topics for one to start learning mobile application testing from basics with even no prior knowledge of testing. </p><p style=\"\">Course broadly includes explanation of following sub-topics :</p><ul><li>Mobile Applications Testing Challenges, Approach &amp; Strategy</li><li>Mobile Application Landscape - Native, Hybrid &amp; Mobile Web Apps</li><li>Emulators v/s Simulators &amp; Real Mobile Device - Comparison &amp; Usage</li><li>Android Mobile Apps - Inspecting, Debugging and Analyzing With Chrome (32+)</li><li>Projecting Android Mobile Screen On Computer - Android Screen Monitor (ASM)</li></ul>", 
+    "end_date": null, 
+    "title": "Mobile Application Testing Essential Training", 
+    "price": "20.00", 
+    "instructors": "e VideoTuition", 
+    "commitment": "37 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/451430_9b52_5.jpg", 
+    "course_url": "https://www.udemy.com/mobile-application-testing-essential-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-19T17:48:18Z"
+}

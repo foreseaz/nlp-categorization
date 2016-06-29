@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Google Go Programming for Beginners (Golang)</strong></p>  <p>There are an endless number of programming languages out there, and new ones are added on an almost daily basis. To keep on top of the game and broaden your skill set, picking up a few of these new languages never hurts. Google Go (golang) is the programming language created by one of the largest technology names in the world – Google – so having Go in your arsenal is a surefire way to add to your coding credentials. This course will teach you everything you need to know about Go.</p>  <p><strong>Hands on Programming Training</strong></p>  <ul><li>Learn Go fundamentals and apply them in real world scenarios</li><li>Get to grip with advanced features like Go Language and Concurrency</li><li>Understand and develop your knowledge of programming fundamentals</li><li>Build up a knowledge foundation for more advanced programming languages</li></ul>        <p><strong>Everything you Need to Get up and Go!</strong></p>  <p>This course has been designed for anyone who is familiar with coding and programming languages, but has not yet turned their hand to Google Go. It's also perfect for beginner programmers who want to diversify their skills by learning a new language. It's not intended for complete beginners learning their first language, although it does make an excellent follow-up course.</p>  <p>The course is broken into several different sections which become increasingly more advanced as you progress. Over 41 lectures and 4 hours, you will be continuously challenged but able to move at a comfortable pace (without becoming overwhelmed). It's all about hands on training, so expect to jump right into the action and get coding with real world golang examples. </p>  <p>After you've been introduced to the Go language, you'll get to grips with its individual features, functions, structures and interfaces. You'll then expand your knowledge to elements like polymorphism, encryption and concurrency (among others) before tackling the course project. On completion, you'll be well versed in all things Go and ready to either start using it in real world applications, or move on to another more advanced programming language. </p>  <p><strong>Tools Used</strong></p>  <p><strong>LiteIDE:</strong> Lite IDE is the open source integrated development environment used in conjunction with Go to write code. If you are unable to use LiteIDE for this course, golang is a useful alternative.</p>  <p><strong>Google Go:</strong> Go is an open source programming language developed by Google and used in many of their systems (as well as in other applications not associated with Google). It is compiled in the tradition of C and C++ and is relatively simple to pick up for those with programming experience.</p>", 
+    "end_date": null, 
+    "title": "Google Go Programming for Beginners (golang)", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/653634_2e79_2.jpg", 
+    "course_url": "https://www.udemy.com/google-go-programming-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-28T17:14:18Z"
+}

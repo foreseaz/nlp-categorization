@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \t      Finally. A course that covers<strong style=\"\"> all aspects</strong> of Digital Cinema Mastering!  </p>  <p style=\"\">  \t      Do you want to prepare your short film for projection in cinemas?<br style=\"\">  \t      Or do you just want to know how hollywood blockbusters are distributed around the world?  </p>  <p style=\"\">  \t      In this software-independent course you will understand one of the most important aspects of video and film post-production.<br style=\"\">  \t     Learn essential background facts on important topics around the D-Cinema Mastering process.  </p>  <ul style=\"\">  \t<li style=\"\"> What is a <strong style=\"\">Digital Cinema Package</strong>?</li>  \t<li style=\"\"> What <strong style=\"\">resolutions</strong> and <strong style=\"\">bit depths</strong> do you choose and why?</li>  \t<li style=\"\"> Why is the <strong style=\"\">XYZ Colour Space</strong> used and what are the benefits?</li>  \t<li style=\"\"> What are advantages of the <strong style=\"\">JPEG2000</strong> codec? </li>  \t<li style=\"\"> How does <strong style=\"\">Encryption</strong> work?</li>  </ul>  <p style=\"\">  \t     ...and much more!  </p>  <p style=\"\">  \t<br style=\"\">  \t      The course is technical but is easily accessible by everyone with basic knowledge of video workflows.  </p>  <p style=\"\">  \t     This course has a strong focus on <strong style=\"\">Encryption for Digital Cinema</strong>. <br style=\"\">  \t      Mainly because (until now) it is almost impossible to find any comprehensive information that is easy to understand.  </p>  <p style=\"\">  \t      After this course you will feel confident enough to talk to any professional about the Digital Cinema Mastering process and have an in-depth understanding of it&#039;s technical aspects.  </p>  <p style=\"\">  \t      You will also be able to handle <strong style=\"\">any software product</strong> on the market that encodes <strong style=\"\">Digital Cinema Packages</strong> without getting confused about all the various terms and acronyms that are used.  </p>", 
+    "end_date": null, 
+    "title": "Digital Cinema Package (DCP) - Explained", 
+    "price": "30.00", 
+    "instructors": "Helmut Lottenburger", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/131658_ea9a_9.jpg", 
+    "course_url": "https://www.udemy.com/digital-cinema/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Design Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-10T03:34:33Z"
+}

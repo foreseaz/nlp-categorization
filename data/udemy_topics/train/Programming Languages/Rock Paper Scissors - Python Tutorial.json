@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Welcome to my 4-lecture course on how to create a rock, paper, scissors program with Python.</p>  <p><strong>Python is a command line based program which allows users to code in a lot of ways allowing them to make very advanced programs. </strong>I have been learning Python for several months now and enjoy using it to code some really cool programs.</p>  <p>This course will take you through creating the program which includes features like:</p>  <ul><li>Loops</li><li>Variables</li><li>Prints</li><li>Inputs</li><li>Randoms</li><li>Time Delay</li><li>Accounts</li></ul>              <p>The course will take you just over 30 mins and will teach you pretty much most aspects of the program. In the first lecture I show you the end result of what we will be making, this gives you an idea if you want to continue the course. In the next lectures 2-4 I design the program and in the last lecture I conclude the course.</p><p>Just to make you aware this program is made in Python 3, if you are using an older version the program may not work.</p>  <p>I am making this course FREE (at the moment) to help out everyone who wants to learn more about Python. </p>  <p>If you are unsure on anything don't hesitate to contact me. </p>", 
+    "end_date": null, 
+    "title": "Rock Paper Scissors - Python Tutorial", 
+    "price": 0, 
+    "instructors": "Christopher Young", 
+    "commitment": "42 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/695566_74ab_2.jpg", 
+    "course_url": "https://www.udemy.com/rock-paper-scissors-python/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-12T11:52:08Z"
+}

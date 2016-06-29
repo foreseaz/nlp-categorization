@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Artificial Intelligence"
+    ], 
+    "description": "\n\n                    \n                    \n                    This is an introductory course in machine learning (ML) that covers the basic theory, algorithms, and applications. ML is a key technology in Big Data, and in many financial, medical, commercial, and scientific applications. It enables computational systems to adaptively improve their performance with experience accumulated from the observed data. ML has become one of the hottest fields of study today, taken up by undergraduate and graduate students from 15 different majors at Caltech. This course balances theory and practice, and covers the mathematical as well as the heuristic aspects. The lectures below follow each other in a story-like fashion:\r\n\r\nWhat is learning?\r\nCan a machine learn?\r\nHow to do it?\r\nHow to do it well?\r\nTake-home lessons.\r\n\n\n                                            Syllabus\n                         \r\n\r\nLecture 1: The Learning Problem\r\nLecture 2: Is Learning Feasible?\r\nLecture 3: The Linear Model I\r\nLecture 4: Error and Noise\r\nLecture 5: Training versus Testing\r\nLecture 6: Theory of Generalization\r\nLecture 7: The VC Dimension\r\nLecture 8: Bias-Variance Tradeoff\r\nLecture 9: The Linear Model II\r\nLecture 10: Neural Networks\r\nLecture 11: Overfitting\r\nLecture 12: Regularization\r\nLecture 13: Validation\r\nLecture 14: Support Vector Machines\r\nLecture 15: Kernel Methods\r\nLecture 16: Radial Basis Functions\r\nLecture 17: Three Learning Principles\r\nLecture 18: Epilogue\r\n\r\n \n                                    ", 
+    "end_date": "2013-06-11T00:00:00Z", 
+    "title": "Learning from Data (Introductory Machine Learning course)", 
+    "price": 0, 
+    "instructors": "Yaser Abu-Mostafa", 
+    "institution_name": [
+        "California Institute of Technology"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "http://work.caltech.edu/telecourse.html", 
+    "duration": "10 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Independent"
+    ], 
+    "start_date": "2013-04-02T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">&gt;&gt; Learn programming in Kotlin</strong>, the most beautiful modern programming language based on Java!</p>\n\n<p><strong class=\"redactor-inline-converted\">&gt;&gt; Join this beginner-friendly course</strong> to learn to code with an awesome and easy-to-learn language!</p>\n\n<p><strong class=\"redactor-inline-converted\">&gt;&gt; Expand your expertise</strong> as a Java or Android Developer and improve the quality of your code!</p>\n\n<p><strong class=\"redactor-inline-converted\">&gt;&gt; I'll answer every question you have</strong>, help you personally if you get stuck and listen to your feedback! Join <strong>8</strong><strong class=\"redactor-inline-converted\">0</strong><strong class=\"redactor-inline-converted\">00+ happy students</strong> of mine on Udemy!</p>\n\n<p>This course will teach you programming in <strong class=\"redactor-inline-converted\">Kotlin! </strong>We begin with the basics so this course is completely <strong class=\"redactor-inline-converted\">suitable for beginners</strong>. You will put what you learn into practice in several <strong class=\"redactor-inline-converted\">coding challenges</strong>. So at the end, you'll be able to create your own applications in Kotlin.</p>\n\n<p><strong class=\"redactor-inline-converted\"><br></strong></p>\n\n<p><strong class=\"redactor-inline-converted\">Topics covered include:</strong></p>\n\n<ul><li>Variables &amp; nullable types (null safety)</li><li>Conditionals: if and when</li><li>Loops: for and while</li><li>Functions</li><li>Object orientation: classes, objects, interfaces, inheritance etc.</li><li>Data classes (a handy feature in Kotlin)</li></ul>\n\n<p><strong class=\"redactor-inline-converted\"><br></strong></p>\n\n<p><strong class=\"redactor-inline-converted\">This course also covers object-orientation</strong>, the major development paradigm you need to grasp in today's world. But we will also look at functional programming concepts that will make your life much easier.</p>\n\n<p>Once you understand these, <strong class=\"redactor-inline-converted\">you will also be able to understand other object-oriented languages</strong>, including Java, PHP, C++, C#, Scala, or Swift. They all use this same basic paradigm.</p>\n\n<p><br></p>\n\n<p>Throughout the course, <strong class=\"redactor-inline-converted\">you can always contact me personally</strong> to get help when you're stuck. I check the discussions regularly to help you at every step along the way.</p>\n\n<p>Also, <strong class=\"redactor-inline-converted\">this course will be extended and refined in the future</strong> based on student feedback. I really appreciate each and every of my students so I listen to your feedback and act on it.</p>\n\n<p><strong class=\"redactor-inline-converted\">So get in now to help shape this course and become part of the community inside!</strong></p>", 
+    "end_date": null, 
+    "title": "Kotlin Programming: Next Level Java Development", 
+    "price": "50.00", 
+    "instructors": "Peter Sommerhoff", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/669052_dd6b_2.jpg", 
+    "course_url": "https://www.udemy.com/kotlin-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-13T20:04:54Z"
+}

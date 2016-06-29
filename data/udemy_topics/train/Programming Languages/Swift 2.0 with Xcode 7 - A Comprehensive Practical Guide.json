@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>A little introduction to Swift 2.0</strong></p><p>A while ago, Apple came up with the big news of releasing out the new programming language <strong>Swift</strong>. It was a little shocker for all the developers but everyone welcomed language. Objective C is soon going to be obsolete and swift will be the choice to develop Applications for Apple products. As expected the language came up with few unfinished touch. These finishing touches came up in the swift version 2. Now the language is now more mature and more baked. </p><p><strong>A must known fact to all programmers</strong></p><p>Just wanted to let you know that if you are looking to jump into IOS development, then this is the perfect time. Swift just came up, No one is perfect and community is kind to help each other. If the syntax of Objective-C was scaring you before or you thought that things are already into speeding level, then here we are with everyone in the first gear speed. Hop in and start to understand the core syntax of the language. </p><p><strong>Will there be any updates in the course?</strong></p><p>Yes, there will be many updates in the course. Since this course is a focused and comprehensive course on programming, therefore as the things will move towards stability, more videos on advance topics will be covered. Being honest with you all, the course is more oriented towards language and not towards developing Application. We will be covering a lot more grounds on language features and not on the drag and drop application building process.</p><p>Swift is one the most powerful language around and the market for swift developer is going to pick the speed soon. Make sure that you are ready for it. Just developing application is not enough, to implement your own idea and to craft an application from it, you need comprehensive understanding of programming basics.</p>", 
+    "end_date": null, 
+    "title": "Swift 2.0 with Xcode 7 - A Comprehensive Practical Guide", 
+    "price": "20.00", 
+    "instructors": "Igneus Technologies", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/583402_6915_3.jpg", 
+    "course_url": "https://www.udemy.com/swift-online-tutorials/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-14T22:02:46Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t In this course, you will build the fundamental understanding of BI reporting using the OracleBusiness IntelligenceReporting. OBIEE training model includes all the technical procedures required to facilitate data modeling and other data related activities which also covers advanced topics like security model, multi user development environment.  </p>  <p style=\"\">  \t<a href=\"javascript:void(0)\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\"><img src=\"http://i58.tinypic.com/qzi53a.jpg\" alt=\"OBIEE Certification\" style=\" max-width:100%;\"></a>  </p>  <p style=\"\">  \t<strong style=\"\"> OBIEE </strong>is one of the most emerging reporting tool ever since Oracle has taken over Siebel. Oracle Business Intelligence Foundation Suite is a complete, open, and architecturally unified business intelligence system for the enterprise that delivers abilities for reporting, ad hoc query and analysis, online analytical processing (OLAP), dashboards, and scorecards. Users can access and interact with information in multiple ways, including web-based interactive dashboards, collaboration workspaces, search bars, enterprise resource planning (ERP) and customer relationship management (CRM) applications, mobile devices, and Microsoft Office applications.  </p>  <p style=\"\">  \t <strong style=\"\">Course Highlights </strong>  </p>  <p style=\"\">  \t ·In-depth understanding of Data Warehousing and Data Collection Concepts  </p>  <p style=\"\">  \t ·Understand the core functionality of OBIEE  </p>  <p style=\"\">  \t ·Create High-end Complex Business Reports using OBIEE  </p>  <p style=\"\">  \t ·Different views and charts on BI Presentation Server  </p>  <p style=\"\">  \t ·Repository Basics  </p>  <p style=\"\">  \t ·Building different Layer of a Repository  </p>  <p style=\"\">  \t ·Understand about exceptional OBIEE user friendly and highly processed Dashboards  </p>  <p style=\"\">  \t ·Creating extensive and efficient reports using Oracle BI Publisher  </p>  <p style=\"\">  \t ·Collect, present and deliver data in a timely and organized fashion  </p>", 
+    "end_date": null, 
+    "title": "Oracle Business Intelligence Enterprise Edition (OBIEE) 11g", 
+    "price": "25.00", 
+    "instructors": "Parallel Branch Inc", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/144404_c564.jpg", 
+    "course_url": "https://www.udemy.com/oracle-business-intelligence-enterprise-edition-obiee-11g/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-09T09:11:10Z"
+}

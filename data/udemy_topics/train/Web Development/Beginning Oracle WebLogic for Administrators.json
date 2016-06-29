@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">This course introduces the student to Oracle WebLogic 12c. Students will learn skills necessary to understand basic WebLogic concepts and administrative tasks. At the end of this course the student will learn how to install WebLogic, create WebLogic domains, and administer WebLogic. </p><p style=\"\">This course is geared toward administrators, developers, or architects who are looking to understand fundamental WebLogic concepts and how to spin up a WebLogic environment quickly. </p><p style=\"\">Screencasts will be used so the student can follow along at home. There will also be lab exercises and a quiz that can be done by the student offline to further develop their skills. </p>", 
+    "end_date": null, 
+    "title": "Beginning Oracle WebLogic for Administrators", 
+    "price": 0, 
+    "instructors": "Chris Parent", 
+    "commitment": "42 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/465870_ba1c_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-oracle-weblogic-12c-essentials/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-02T13:51:23Z"
+}

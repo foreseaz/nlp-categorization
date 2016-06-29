@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>A design pattern is a general reusable solution to a commonly occurring problem within a given context in software design. This course will give you high level insight into design patterns from the book \"Design Patterns: Elements of Reusable Object-Oriented Software\",  which is the reference on the subject.</p><p>In our experience, we believe that understanding the <strong>context (with a real world example) of a Design Pattern</strong> is more important than the precise implementation details. </p><p>In this quick course on Design Patterns, you will learn the basics of GOF Design Patterns.  Each Design Pattern will be explained<strong> in 2 to 3 minutes</strong> with a Real World Example.</p><p>You will not be bored with implementation details of each and every Design Pattern. We would touch upon them sometimes but for the most part we would focus on Real World Examples.</p><p>You will learn about Creation, Structural and Behavioral Design Patterns.</p><p><strong>Design Patterns discussed :</strong> Decorator, Factory Method, Strategy, Singleton, Adapter, Facade, Template Method, Iterator, Observer, Command,  Builder, Chain of Responsibility, Memento, Visitor, State, Flyweight, Mediator, Prototype, Proxy.</p>", 
+    "end_date": null, 
+    "title": "A Beginner's Guide to Design Patterns", 
+    "price": 0, 
+    "instructors": "in28Minutes Official", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/725258_8bd2_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-design-patterns-using-java/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-12T08:05:45Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course teaches the basics of <strong>version 2 of the Swift language</strong>. Swift is a powerful language used to develop applications for iPhone, iPad, and OS X. In this course, you’ll learn about <strong>Xcode 7</strong> (Apple’s integrated development environment), and learn to write short programs in Swift, which will prepare you to start learning to develop full applications for Macs and Apple’s mobile devices.</p><p>The course contains over <strong>5 hours</strong> of video demos and many source code examples. It is divided into six units: <br></p><p><strong>Unit 1:</strong> Xcode - covers the various parts of the Xcode interface and how to use them<br></p><p><strong>Unit 2:</strong> Swift types - covers variables and constants and the various basic data types in Swift, along with a full discussion of optionals. <br></p><p><strong>Unit 3:</strong> Collections and control structures - learn about arrays, sets, and dictionaries, which are used to group basic types into collections. Also covers loops and decision constructs in the Swift language. <br></p><p><strong>Unit 4:</strong> Functions - beginning with a discussion of value and reference types, we explore Swift function syntax, which forms the basis for methods in object oriented code. We’ll also discuss closures, and give examples of when and how to use them. <br></p><p><strong>Unit 5:</strong> Enumerations - Forget those simple C enums: Swift’s enumerations can contain methods, and the members of an enum may have underlying values, no values at all, or may be of different values altogether! <br></p><p><strong>Unit 6:</strong> Structures and Classes - In Swift, structures (as well as classes) may have both properties and methods defined. We’ll focus mainly on the property syntax here (the method syntax is the same as function syntax, covered in Unit 4). A full discussion of stored and computed properties, property observers, lazy and static properties. We’ll conclude with a demo on inheritance. <br></p><p>All units have full source code and exercises (along with answers) to test your knowledge. </p>", 
+    "end_date": null, 
+    "title": "Introduction to Swift 2 with Xcode 7", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/709470_dc07.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-swift-2-with-xcode-7/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-29T09:47:09Z"
+}

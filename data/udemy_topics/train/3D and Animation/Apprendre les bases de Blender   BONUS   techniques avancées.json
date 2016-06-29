@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \tLors de ce cours, vous allez apprendre les bases de la 3D ainsi que l'utilisation basique du logiciel Blender.  </p>\n\n<p>  \tJe vais donc considérer que vous n'avez jamais utilisé de logiciel de 3D, en commençant par expliquer les principes fondamentaux de la 3D.  </p>\n\n<p>  \tUne fois les concepts expliqués, vous pourrez alors commencer à modéliser votre premier objet, à savoir une table.  </p>\n\n<p>  \tOn continuera ensuite le cours avec la modélisation d'une chaise, que l'on dupliquera par la suite afin d'obtenir une petit scène basique.  </p>\n\n<p>  \tCette scène sera bien sur amélioré par le biais de l'éclairage, matériaux, textures et post-traitement.  </p><p>BONUS : Un fois votre première scène terminé, retrouvez en vidéos bonus la réalisation d'une lampe, d'une enceinte audio, les bases de la simulation physique dans Blender et enfin l'utilisation d'After Effects pour importer et traiter les modèles 3D.</p>", 
+    "end_date": null, 
+    "title": "Apprendre les bases de Blender | BONUS : techniques avancées", 
+    "price": "20.00", 
+    "instructors": "Costa Mickael", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/395868_019c_7.jpg", 
+    "course_url": "https://www.udemy.com/apprendre-les-bases-de-blender/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-16T16:25:32Z"
+}

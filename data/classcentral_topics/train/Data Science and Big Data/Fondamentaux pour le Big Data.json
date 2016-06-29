@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    Le big data offre de nouvelles opportunités d’emplois au sein des entreprises et des administrations. De nombreuses formations préparant à ces opportunités de métiers existent. Le suivi de ces formations nécessite des connaissances de base en statistiques et en informatique que ce MOOC vous propose d’acquérir dans les domaines de l’analyse, algèbre, probabilités, statistiques, programmation Python et bases de données.D’une part, les bases de données relationnelles ne sont pas toujours adaptées aux systèmes de données massives qui sont déployées dans les contextes big data ; ce MOOC vous explique pourquoi.D’autre part, le langage Python est un langage très utilisé dans le domaine du traitement des masses de données. Ce cours vous initie à la programmation avec ce langage, particulièrement en utilisant la bibliothèque Numpy.Enfin, le traitement des données massives et la prédiction nécessitent des analyses statistiques. Cette formation vous fournit les concepts élémentaires en statistiques tels que les variables aléatoires, le calcul différentiel, les fonctions convexes, les problèmes d'optimisation et les modèles de régression. Ces bases sont appliquées sur un algorithme de classification le Perceptron.\n\n                                    ", 
+    "end_date": "2016-01-18T00:00:00Z", 
+    "title": "Fondamentaux pour le Big Data", 
+    "price": 0, 
+    "instructors": "Pierre Senellart and Stéphan Clémençon", 
+    "institution_name": [
+        "Institut Mines-Télécom"
+    ], 
+    "commitment": "4 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.france-universite-numerique-mooc.fr/courses/MinesTelecom/04006S03/session03/about", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "France Université Numerique"
+    ], 
+    "start_date": "2015-12-07T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This is another award winning and popular course from us and we are showcasing it on Udemy for the first time. Just like our other courses, we have kept all the intro and basic course videos for free and available for preview for your convenience so please feel free to explore and test drive it. If you want to become a master in Web Services Testing using SoapUI, look no further and don't lose the opportunity.  </p>\n\n<p>  \t        Web services are basically application components that communicate over open protocols. HTTP and XML are the baseline for web services. The invention of web services opened new doors for modern web application. Nowadays, we cannot imagine any software or web applications without web services. It has become a crucial part of modern web development. Web services testing is becoming a major part of quality assurance. QA teams require to keep web services in mind while planning for testing web applications. This is why web services testing skills have become very popular in today’s IT market. It is still a new technology in the market. As a result, web services testing using SoapUI tool has become one of the most in demand jobs in QA field. Many companies are still facing troubles to find required expertise in web services testing and SoapUI. Finding a end-to-end SoapUI training solution has not been easy yet. We have brought a compact SoapUI training solution that can be affordable to everyone. Our set of SoapUI and Web service training video covered all basic and advanced level concepts of SoapUI including introduction, SoapUI FAQs, Installing SoapUI, Function testing, security testing using SoapUI, Installing local web services, SoapUi tets structure, secret tips for beginners, datadriven testing using SoapUI, JDBC connection, Groovy language, Groovy scripting in SoapUI, creating mock services, CDATA, event handlers, testing REST services, load and performance testing using SoapUI, and creating customizing reports.  </p>", 
+    "end_date": null, 
+    "title": "Web Services Testing using SoapUI", 
+    "price": "25.00", 
+    "instructors": "QAEversity .", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/286078_b85f.jpg", 
+    "course_url": "https://www.udemy.com/web-services-testing-using-soapui/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-22T18:14:57Z"
+}

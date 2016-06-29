@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>The following course will introduce to you the foundation of SQL Server Administration Part 1 as it's practiced in the production real world situations.  I have designed this course for the beginner but at the same time introduced elements that are practiced in the real world, so the student gains a faster understanding of the requirements in the production server.  Anyone interested in understanding, configuring, managing or is responsible for SQL Server systems will benefit from this course.  My first course (Free) T-SQL, while not mandatory, should be taken so you gain a better understanding of this course.  All software, SQL Scripts and documentation is provided for you.  All you need is a desire to learn and fullfill you future goals.  These courses will give you that direction.</p>", 
+    "end_date": null, 
+    "title": "SQL Server Administration Part1", 
+    "price": "20.00", 
+    "instructors": "Raphael Asghar", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/670712_65fb_3.jpg", 
+    "course_url": "https://www.udemy.com/sql-server-administration-part1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-15T23:45:58Z"
+}

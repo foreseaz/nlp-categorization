@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Learn to create <strong style=\"\">E-Commerce Website </strong>from scratch in PHP &amp; MySQLi, building an online shopping store in PHP &amp; MySQLi had never been easier from scratch before this course. </p><p style=\"\"><strong style=\"\">Building E-Commerce Website In PHP from Scratch: </strong></p><p style=\"\">E-commerce is online shopping store for selling/buying products, we&#039;ll use simple PHP and MySQLi queries to create this large project, if you are really serious about creating an ecommerce website from absolutely 0 knowledge, then this course is for you. </p><p style=\"\"><strong style=\"\">Some of the Important Sections of This Course: </strong></p><ul style=\"\"><li style=\"\">Creating the Website Layout for E-Commerce </li><li style=\"\">Inserting &amp; Displaying the Products &amp; Categories </li><li style=\"\">Creating the Shopping Cart </li><li style=\"\">Creating the User Registration &amp; Login Systems </li><li style=\"\">Creating the Checkout System </li><li style=\"\">Creating the Paypal Integration System </li><li style=\"\">Creating the Admin Panel for E-Commerce </li><li style=\"\">Uploading the E-Commerce to Online Server </li></ul><p style=\"\"><strong style=\"\">Content and Overview: </strong></p><p style=\"\">With over 18 hours of content and 85 lectures, this is a perfect course to learn creating a complete e-commerce website from absolutely scratch using PHP, MySQLi, JavaScript, HTML and CSS. If you are a beginner who really don&#039;t know how to create a mega project in PHP then this course will help you a lot. It can also help you in creating your final year project for your university or college. This course is designed for absolutely beginners, but meanwhile, you should have a basic understanding of PHP &amp; HTML. Source code of this course is attached to the last lecture, and you can download that to use in your own projects.</p>", 
+    "end_date": null, 
+    "title": "Learn E-Commerce Website in PHP & MySQL From Scratch!", 
+    "price": 0, 
+    "instructors": "Abdul Wali", 
+    "commitment": "17.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/267560_d924_11.jpg", 
+    "course_url": "https://www.udemy.com/ecommerce-website-in-php-mysqli/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-23T20:17:05Z"
+}

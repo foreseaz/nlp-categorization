@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Kurs toplam 5 bölümden oluşmaktadır.  </p>  <p>  \t  İlk bölümde html öğreneceksiniz. Html dili nedir? Html dilinin yapısı . Html 5 yenilikleri ve standartları. Vs.  </p>  <p>  \t  İkinci bölüm css bölümüdür. Bu bölümde stil sayfalarını tanıyacaksınız. Stil sayfalarını kullanarak html içerigini biçimlendirmeyi ve css 3 ile gelen animasyon gibi özellikleri tanıyacaksınız.  </p>  <p>  \t  Üçüncü bölüm javascript bölümüdür. Bu bölümde javascript dilini tanıyacaksınız ve html dokümanlarını ve css stillerini degistirmeyi animasyonlar yapmayı html atributelarını degistirmeyi ve regexp  ögreneceksiniz.Bölüm sonunda bilgimizi sınayan bir form yapacağız.  </p>  <p>  \t  Dördüncü bölüm jQuery bölümüdür. Bu bölümde jQuery kütüphanesini tanıyacak ve programlar yazabileceksiniz.  </p>  <p>  \t  Son bölümde gelişmiş javascript işlevlerine girecegiz ve javascript dilini sadece web sitelerini görselleştirmek için değil web uygulamalari yazmak için gerçek bir programlama dili olarak kullanacağız.  </p>", 
+    "end_date": null, 
+    "title": "A'dan Z'ye Front-End Geliştirme (html5 css3 javascript)", 
+    "price": "50.00", 
+    "instructors": "nikos efthias", 
+    "commitment": "19.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/384958_46c5.jpg", 
+    "course_url": "https://www.udemy.com/adan-zye-front-end/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-04T17:10:20Z"
+}

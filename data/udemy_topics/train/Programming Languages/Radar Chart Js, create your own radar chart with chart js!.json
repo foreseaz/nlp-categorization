@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>========================================================================</p><p><strong style=\"\">Radar Chart JS</strong></p><p>========================================================================</p><p>Always wanted to create a radar chart for the web? Learning how to create a chart for a website is very valuable! In this course you will learn how to create a radar chart from scratch with Chart JS! </p><p>You will be able to code one with Chart JS and learn how to adjust many aspects of the chart. And this all in a very easy pace video course. Every lecture will handle one line of coding. This makes it easy to follow and easy to check your codes. </p><p>========================================================================</p><p><span><strong style=\"\">Structure of this course</strong></span></p><p>========================================================================</p><p>The course is very structured and every section will handle a specific part of the chart! Each part is a building block of the other. You will have a firm foundation and it all connects with each other.</p><ol style=\"\"><li>In the first section you will learn how to set up your file and download the file. </li><li>In section 2 you will learn how to get your document ready to make charts. Before you can do anything your HTML framework needs to be ready. </li><li>Section 3 is writing the code in JavaScript with Chart JS library. In this section you will create your first radar chart in Chart JS! </li><li>Section 4 will be the design part of Chart JS. Having a chart is not enough it needs to be styled in a way that it looks professional! In this part you will learn how to style and color the chart. </li><li>Section 5 is the advanced feature of Chart JS. A radar chart has many options and features. In this part you will learn what features you can use and how to activate them. </li><li>Section 6 the final points and closing of this course.</li></ol><p>========================================================================</p><p><span><span><strong style=\"\">Why take this Chart JS course?</strong></span></span></p><p>========================================================================</p><p>This course is designed for anyone who want to learn the Chart JS library quick. It focus on the essentials and shows it in an easy to follow manner. Chart JS has a huge documentation without any clear explanation in videos. The challenge of reading a huge documentation can be frustrating. </p><p>I know you want to start right away with creating! Learning starts by doing and not by reading. In this course you learn how to do it in an hour. It will save you a huge amount of time that you can invest in what really matters! Making charts for your website. </p><p>And of course, data visualization is a skill that is growing quick! It is in high demand because of Big Data! Learning this skill will definitely increase your value! Due to Big Data everybody struggles with data overload. The only way to digest these huge amount of data is with a chart! Charts save time and can tell a story in a blink of an eye! </p><p>You might think Excel is already doing this, but no Excel is not flexible enough! Do you read charts on your phone with an Excel sheet? Most likely you will open the document at home on your desktop. </p><p>Excel is not flexible but a website is! However creating charts on a site is challenging! This challenge is your opportunity! Learn how to create a chart right away. Exploit this opportunity by being the one of the few experts that companies are urgently looking for! </p><p>Take this course right away! </p><p>Every second you wait you leave money on the table! Your competitor is already learning while you are &quot;thinkering&quot; about it! Click on take this <strong style=\"\">course right now</strong>!</p>", 
+    "end_date": null, 
+    "title": "Radar Chart Js, create your own radar chart with chart js!", 
+    "price": "20.00", 
+    "instructors": "Nicky Wong", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/509594_c1d2_3.jpg", 
+    "course_url": "https://www.udemy.com/radar-chart-js/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-23T13:23:00Z"
+}

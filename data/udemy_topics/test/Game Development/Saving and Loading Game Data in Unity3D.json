@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is designed to help the hobbyist game developer save and load game data between game sessions. This course shows you 5 different ways to manage your game data locally. It covers <strong>PlayerPrefs</strong>, <strong>Text File</strong>, <strong>Binary Serialization</strong>, <strong>XML Serialization</strong> and <strong>SQLite</strong>.<br><br>This course has been designed to give you the most value in the shortest amount of time. There is no need to sit through hours and hours of boring videos or hours and hours of scrolling websites, looking for the right way to save your data. We've already done the hard work and packed it all into a nice little course for you.</p>\n\n<p>We have structured the course so that you first look at a few key points to a specific data handling method, then we get into the demonstration and explanation and finally a test at the end. Each test incorporates the contents of what you learned in that data handling method.</p>\n\n\n\n<p>If you're expecting to finish this course and be as good as <strong>Mr. Miyagi</strong> from the Karate kid, then maybe this course isn't for you. In saying that though, you will have an overall understanding of the different ways to persist your data between game sessions. You will also obtain a few scripts, which can easily be deconstructed and used in your own game.</p>\n\n\n\n<p>I look forward to seeing you soon!<br></p>", 
+    "end_date": null, 
+    "title": "Saving and Loading Game Data in Unity3D", 
+    "price": "20.00", 
+    "instructors": "Dave Savic", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/799246_3110_3.jpg", 
+    "course_url": "https://www.udemy.com/saving-and-loading-game-data-in-unity3d/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-21T01:10:56Z"
+}

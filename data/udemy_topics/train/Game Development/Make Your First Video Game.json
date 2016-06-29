@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Want to make games for Xbox One, PS4, or Ipad?</strong></p><p>Awesome! That's what gamedevU is all about. We'll take you from being a gamer with zero programming experience all the way to being a Pro Indie Developer<strong></strong>, able to <strong>publish on whatever platform you want</strong>.</p><ul><li>Playstation 4</li><li>Xbox One</li><li>WiiU</li><li>iPhone</li><li>Android</li><li>Windows Phone</li><li>PC</li><li>Mac</li><li>Linux </li><li>...and more</li></ul><p>This course teaches you to start game development using GameMaker: Studio. It's a really great cross-platform game development IDE which lets you make your game once, and then publish to multiple platforms.</p><p>This course is the first part in a modular series of courses from gamedevU that will let you <strong>go from total beginner to Pro Indie Developer </strong>after taking all the courses<strong></strong>. This course is a solid first step, and it's the most important, because it will build your fundamental understanding of game development and get you started in the right direction.</p><p>This Level 1 course will have you feeling fluent with GameMaker: Studio.</p><p>You're going to make 2 games: </p><ul><li>A Whack-A-Mole game featuring Owen Wilson (more fun to whack than a mole)</li><li>A Brick-Breaker game</li></ul><p>You'll learn programming in a style that makes it easy to understand, even if you've never done any programming. Better yet, you'll never feel like you're \"studying\". The concepts are made easy and are built in to the course to where you'll pick up all the programming skills naturally.</p><p>The course includes 59 videos which will walk you through the entire process.</p>", 
+    "end_date": null, 
+    "title": "Make Your First Video Game", 
+    "price": "25.00", 
+    "instructors": "Nick Baldwin", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/566564_3f9b_2.jpg", 
+    "course_url": "https://www.udemy.com/make-your-first-video-game/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-27T22:23:18Z"
+}

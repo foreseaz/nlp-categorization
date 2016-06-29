@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Completo curso de Laravel para RESTful.</strong></p><p><strong>¡Este curso cobre las versiones 5.0, 5.1 y 5.2!</strong></p><p>  \t                          En este curso aprende a desarrollar una API RESTful profesional, usando la más reciente versión de Laravel para PHP.<em></em></p><p><em><strong>Laravel es el framework de PHP más popular</strong>, con más de <strong>1</strong><strong>5000 proyectos</strong> desarrollándose cada día con él.</em></p><p><em><em><strong>¿Por qué Laravel?</strong></em></em></p><p><em><em>Porque es sencillamente un framework hecho por programadores para programadores, <strong>expresivo, sencillo, intuitivo y potente</strong>. Millones de programadores de PHP lo usan y lo dominan cada vez más; <strong>no te quedes atrás</strong>.</em></em></p><p>En la versión 5.* de Laravel para PHP se han incluido nuevos conceptos como los <strong>Requests </strong>y los <strong>Middleware</strong>, principalmente, junto con <strong>cambios en la estructura</strong> y la funcionalidad de ciertos componentes, es un cambio radical de Laravel a su funcionamiento y ha hecho este framework aún más potente y simple que antes.</p><p>Y lo mejor es que durante el curso, aprenderás todo sobre la nueva estructura y los nuevos conceptos.</p>  <p>  \t<strong>Aprenderás esto para Laravel y para tu API RESTful:</strong>  </p>  <ul>  \t<li>Las nuevas características de PHP artisan</li>  \t<li>Middleware.</li>  \t<li>Controladores de peticiones.</li>  \t<li>Validación de peticiones.</li>  \t<li>Controladores de recursos.</li>  \t<li>Controladores REST</li>  \t<li>Manejo y control de excepciones y errores</li>  \t<li>Migraciones</li>  \t<li>Seeds (Inserción automática en bases de datos)</li>  \t<li>Validación de usuarios</li>  \t<li>Validación sin estado (stateless)</li>  \t<li>Protección contra CSRF</li><li>Paginación de resultados</li>  </ul>  <p>  \t                    Crearás una  <em>API RESTful desde cero</em>, siguiendo la arquitectura <em>REST </em>y la construcción adecuada de URLs para identificar acciones y recursos usando los controladores para recursos de Laravel.</p>  <p>  \t              Exprime al máximo las características de tus herramientas de trabajo (<em>Sublime Text 3, Git, Github, Laravel, Composer, PHP artisan</em>) y sé más productivo para un desarrollo ágil.  </p>  <p>  \t                          Veremos cómo desarrollar un proyecto local en <strong><em>Windows</em> </strong>con <em>XAMPP </em>(<em>Apache </em>y <em>MySQL) </em>y la adecuada configuración de herramientas. Veremos cómo llevar lo desarrollado en local a un entorno de producción en <em><strong>Linux</strong></em>, corriendo <em>Nginx</em>, <em>PHP </em>y <em>MySQL.</em></p>  <p>Veremos cómo usar <em>Laravel </em>por medio de la consola de <em><strong>PHP artisan</strong></em> para construir de manera muy ágil una <em>API RESTful</em> que responda a métodos de <em>HTTP </em>(<em>GET, POST, PUT, PATCH y DELETE</em>), también a poblar la base de datos y construir su estructura de manera automatizada.</p>  <p>  \t<strong>¡Y no termina ahí!</strong> Tendrás acceso de <em>por vida</em> a las <em>clases bonus</em> que se agregarán constantemente al curso.  </p>  <p>Al finalizar este curso serás capaz de desarrollar tu propia API RESTful con Laravel y PHP de una manera rápida y simple, explotando al máximo las facilidades proporcionadas por este framework para la correcta y adecuada implementación del proyecto.</p><p><strong>No esperes más</strong> para ser experto en PHP y RESTful. Únete al curso y nos vemos en clases</p>", 
+    "end_date": null, 
+    "title": "Crea tu API RESTful con Laravel, el Framework para PHP", 
+    "price": "20.00", 
+    "instructors": "JuanD MeGon", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/393166_57fb_17.jpg", 
+    "course_url": "https://www.udemy.com/api-restful-con-laravel-5-composer-apache-nginx-mysql-git-y-github/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-13T17:21:55Z"
+}

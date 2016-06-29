@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t      Would you like to create your own games for iPhone and iPad? Of course you do! This course is for you! Learn to build your own games in a fun and simple way using the latest technologies from Apple: Swift and Sprite Kit.  </p>  <p style=\"\">  \t      Did you know the most popular category in the App Store is Games? Yep. And now you have the opportunity to add your game to the global market place.  </p>  <p style=\"\">  \t      Swift is the new programming language from Apple and it is quickly becoming the favorite for iOS game developers. Discover the power and easy to use of this language in the creation of native iOS games.  </p>  <p style=\"\">  \t      Sprite Kit is Apple&#039;s 2D game development platform where you can build games with animations, sounds, physics simulation (gravity, speed, collisions, forces) and the particle generation engine.  </p>  <p style=\"\">  \t      This course is designed in a way that new programmers and experienced ones can enjoy.  </p>  <p style=\"\">  \t      You will learn:  </p>  <ul style=\"\">  \t<li style=\"\">How to use Playgrounds to test your code and experiment</li>  \t<li style=\"\">Learn Swift for game creation</li>  \t<li style=\"\">Learn Sprite Kit for game creation</li>  \t<li style=\"\">Create your first game: Tic-Tac-Toe</li>  \t<li style=\"\">And you will find something you don&#039;t get anywhere else: The mistakes you could make creating games and how to fix them.</li>  </ul>  <p style=\"\">  \t      This course includes:  </p>  <ul style=\"\">  \t<li style=\"\">11 step by step video presentations</li>  \t<li style=\"\">PDFs with more examples</li>  </ul>  <p style=\"\">  \t     At the end of the course you will have the necessary skills to create many types of games  </p>  <p style=\"\">  \t     Are you ready to learn how to create the next best seller game?  </p>  <p style=\"\">  \t     Let&#039;s get started!  </p>", 
+    "end_date": null, 
+    "title": "Swift Game Development", 
+    "price": "30.00", 
+    "instructors": "Antonio Tangarife", 
+    "commitment": "43 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/261482_510c.jpg", 
+    "course_url": "https://www.udemy.com/swift-game-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-15T01:39:45Z"
+}

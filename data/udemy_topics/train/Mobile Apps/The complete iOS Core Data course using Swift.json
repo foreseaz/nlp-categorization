@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>***** Updated For XCode7 And Swift 2.0 *****</strong>  \t                  </p><p>Are you struggling to learn how to make data driven apps for iOS and Cocoa? Do you want to learn how can you implement Core Data in your project but you don't know where to start?  Then this is the course for you.</p><p>In this course you will not learn basics of Core Data, you will learn all of the advanced features of Core Data. Core Data is a framework that apple uses for data driven iOS and Cocoa applications. </p><p>If you are an apple developer then it is essential for you to know how to implement this framework in your applications, and that's why we will not only explore how to implement core data when we check that \" Use Core Data \" check box, we will build our own Core Data Stack and that way get to know the Core of Core Data.  </p><p>We will start with a simple example of what Table Views are and how can we use them, then we will take a look at why is Core Data important in iOS programming. After that we will build our own Core Data Stack from scratch, we will get to know all Core Data components and how to use them in order to build our Core Data Stack, this will help you implement Core Data in projects where you did not check \" Use Core Data \" check box. Then we will learn to edit and delete items in core data, after that we will take a look at advanced fetching, so we will so how can we can a specific item in our data by using the items name or number, we will even sort our data in ascending and descending order using letters and numbers, and we can use advanced fetching to delete a specific item that we want. At the end we will see how can we combine TableViews with Core Data using NSFetchedResultsController. </p><p><strong>You will also benefit from my super fast response if you have any issue that you are stuck with(I check Udemy forums every day if someone posts a question). Oh and all the students taking the course will also be there to help you!</strong></p><p><strong>All project files will be included and you are free to use them for anything that you like, personal or commercial use!</strong></p><p><strong>What This Course DOES NOT Cover</strong></p><ul><li>Importing Data From Other Files(Plists etc) Into Core Data</li><li>Connecting Core Data On iCloud</li></ul><p><br></p><p><strong>What This Course Covers</strong><br></p>    <ul>  \t<li>Modeling</li>  \t<li>Fetching</li>  \t<li>Editing</li>  \t<li>Deleting</li>  \t<li>Displaying data in user interface</li>  \t<li>Sorting</li>  \t<li>Advanced Fetching</li>  \t<li>Asynchronous Fetching</li>  \t<li>Syncing table views with Core Data</li>  \t<li>Migration</li>  </ul>  <p>  \t        <strong>If you already know how to make basic iOS apps, join this course to become a professional data driven app developer.  </strong></p><p><strong>Enroll Now!! You Will Not Be Disappointed!!</strong><strong></strong></p>", 
+    "end_date": null, 
+    "title": "The complete iOS Core Data course using Swift", 
+    "price": "20.00", 
+    "instructors": "Awesome Tuts", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/317852_ab09.jpg", 
+    "course_url": "https://www.udemy.com/the-complete-ios-core-data-course-using-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-11T16:56:05Z"
+}

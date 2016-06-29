@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Le cours a pour but de fournir aux étudiants une connaissance basique mais solide des voxel engine et de leurs implémentations avec l'algorithme du Marching cubes. Il est très souvent important de pouvoir assimiler beaucoup de notions en peu de temps avec des ressrources à la pointe de la technologie. Cela permet aux étudiants de devenir rapidement expert dans certains domaines et de pouvoir eux-même à leurs guise développer leurs connaissances en profondeur.  Les documents et les ressources comme le projet Visual Studio et une appllcation de test sont fournis.<br></p>", 
+    "end_date": null, 
+    "title": "Voxel Engine simple avec DirectX", 
+    "price": "30.00", 
+    "instructors": "Nejdet ALTINISIK", 
+    "commitment": "33 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/776192_a907_2.jpg", 
+    "course_url": "https://www.udemy.com/voxel-engine-simple-avec-directx/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-27T16:59:37Z"
+}

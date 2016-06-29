@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Kursbeschreibung</strong></p><p>Du fühlst dich im Apple Universum wohl und möchtest dich darin ausprobieren, eigene Apps zu entwickeln, hattest zuvor aber keine oder kaum Erfahrung mit der Apple Programmierumgebung? Dann bist du hier genau richtig! Lerne mit mir die Basics der neuen Apple Programmiersprache Swift, die durch eine wunderschöne Schreibweise leicht zu erlernen ist.</p><p>Nach dem ersten Start mit Swift, geht es dann an die App Programmierung für iOS 9! Lernt an Beispielen von kleinen feinen Apps Xcode und Swift zu beherrschen und zu verstehen.</p><p>Nach diesem Kurs bist du in der Lage eigene Apps zu schreiben, die deinen Alltag erleichtern und besser machen werden. Mit diesem Kurs erhält du in <strong><em>44 Lektionen und ca. 6 Stunden Videomaterial</em></strong>, die genau richtige Ausgangssituation um weiter und tiefer in die Materie der App Programmierung einzusteigen.</p><p><strong>Anforderungen</strong></p><p>Du benötigst nur einen Mac mit der letzten Version von OSX, in diesem Fall Yosemite. Des Weiteren benötigt ihr die letzte Version von Xcode, die ihr im Mac App Store kostenlos herunterladen könnt. Sonst braucht ihr nur noch Lust und Laune!</p><p><br></p><p><strong>Welche Theme gehen wir durch?</strong></p><ul><li>Playgrounds</li><li>Variablen</li><li>Strings</li><li>Zahlen</li><li>Arrays</li><li>Dictionaries</li><li>Tuples</li><li>Funktionen</li><li>App Design</li><li>AutoLayout</li><li>Textfelder, Buttons, Labels</li><li>Integration von Bildern</li><li>Berechnungen </li><li>String Formatierung</li><li>Klassen</li><li>Navigation Controller</li><li>TableView</li><li>Custom Cell</li><li>Audio Streaming</li><li>Seques</li><li>Sharing Options</li><li>Quiz Game</li><li>Zufallszahlen</li></ul><p><strong><br></strong></p><p><strong>Bonusthemen</strong></p><ul><li>Sketch 3</li><li>SnippetsLab</li><li>PaintCode</li></ul><p><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "iOS 9 und Swift 2.0 Einsteiger Kurs", 
+    "price": 0, 
+    "instructors": "Marvin Böddeker", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/606344_e344_2.jpg", 
+    "course_url": "https://www.udemy.com/ios-9-und-swift-20-einsteiger-kurs/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-08T21:20:59Z"
+}

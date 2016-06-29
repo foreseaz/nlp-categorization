@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>What do you do when you need to divide a 5 digit number by a 2 digit one? You use long division. What do you do when you make a choice about what you want to eat tonight? You make a decision based on data collected from past experiences.</p>\n\n<p>In other words, you use some procedure (hint: Algorithm) upon the presented data and you get the output of a certain result. In computation, we use Algorithms all the time to solve problems. To give you a better picture of why algorithms are so important, imagine any function that you have ever written before (even the simplest ones). You send some data into it and out comes the result. The magic that occurs inside is the algorithm.</p>\n\n<p>There are some basic algorithms that every computer scientist <strong>has </strong>to know if he wishes to design solutions for applications. These algorithms involve Sorting, Searching, and storing and accessing data (data structures).</p>\n\n<p>This course is designed to equip you with the basic understanding of sorting, searching, and storing algorithms. I will be teaching you these algorithms through a popular programming language called Python. We will learn how the concept of the algorithm works, the analysis of it in terms of efficiency, and the application of it in terms of code.</p>\n\n<p>I have learned over 10 programming languages such as JAVA, Python, C++, R, Matlab, Ruby, CSS, HTML, Angular JS, Java Script. I have also had a successful freelancing career programming software and mobile applications. Since technology is changing every day, I have to learn something new every time. The best way that you can learn how to program is \"to program\".</p>\n\n<p>My job is to make this class a great and fun learning experience so that I can help you progress through your path to learning advanced Python (whether it be just programming logic...classes....backends (<em>boring</em>) or doing fun stuff like Data Science). </p>\n\n\n\n<p>There is no risk for you as a student in this course. I have put together a course that is not only worth your money, but also worth your time. This course encompasses the basics of Python programming and the main goal of this course, algorithms. I urge you to join me on this journey to learn how to dominate the entrepreneurial world with the most powerful language: Python.<br></p>", 
+    "end_date": null, 
+    "title": "Algorithms - An Intro Course in Algorithms coded in Python", 
+    "price": "20.00", 
+    "instructors": "Dhruv Bais", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/847668_ae41_3.jpg", 
+    "course_url": "https://www.udemy.com/algorithms-an-intro-course-in-algorithms-coded-in-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-13T01:58:50Z"
+}

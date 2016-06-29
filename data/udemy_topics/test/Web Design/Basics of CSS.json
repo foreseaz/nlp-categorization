@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p><strong>Cascading Style Sheets (CSS) </strong>is a style sheet language used for describing the presentation of elements within an HTML page.</p><p>This course is designed to help you learn how to use CSS within your web pages.  From an instructor with over 15 years of web development experience.</p><p><strong>Make you webpages look.... BETTER!</strong></p><p>Let me introduce you to using CSS.  I show you how to add CSS to your websites.  What CSS can do and the amazing transformation that can be done.  </p><p>Learning the CSS fundamentals will help you develop the core skills to apply styling to your HTML content.</p><p>We teach you </p><ul><li>What CSS is</li><li>How to add CSS to your websites</li><li>Add colors to fonts and backgrounds</li><li>Learn about the Box Model </li><li>How Padding, Borders, and margins work</li><li>Update your height and width</li><li>Working with text and select fonts</li><li>Working with lists</li><li>How to active your hyperlink styles</li><li>Basics of displaying content with CSS</li><li>All about CSS positioning</li><li>and much more</li></ul><p><strong>APPLY WHAT YOU'VE LEARNED</strong></p><p>At the end of the course we show you how to bring together what you've learned to transform some HTML code into a fully styled website.</p><p><strong>Create your own website from scratch</strong></p><p>All the source code is included, in addition to top resource links and everything you need to have to get started with CSS.</p><p>Lets start learning CSS.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Basics of CSS", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/788084_dee2_2.jpg", 
+    "course_url": "https://www.udemy.com/basics-of-css/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-10T03:41:35Z"
+}

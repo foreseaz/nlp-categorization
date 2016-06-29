@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Este curso se enfoca en llevarte de un nivel CERO a intermedio-avanzado en el lenguaje de programación de Oracle el PL/SQL.</p><p>Es importante recalcar, que deben de saber al menos que es un SELECT * FROM... es todo.</p><p>Conocimientos de programación no son necesarios, pero ayudaría mucho si saben algo de programación básica o estructurada.</p><p>Por qué tomar este curso? Porque cuando me enseñaron PL/SQL hace muchos años atrás, me costo mucho dominarlo, pero fue porque tuve malos asesores. Yo te aseguro que eso no te pasara a ti.</p><p>Lo mejor de todo es que en menos de 1 mes (hasta menos), tendrán un conocimiento de PL/Sql medio-avanzado. Se los garantizo.</p><p>El curso esta hecho en vídeos y tareas cortas, de rápida resolución que hasta te servirá para utilizarlo en futuras referencias.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "PL/SQL de ORACLE en Español", 
+    "price": "30.00", 
+    "instructors": "Fernando Herrera", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/687118_2cf7_2.jpg", 
+    "course_url": "https://www.udemy.com/plsql-de-oracle/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-02T15:31:50Z"
+}

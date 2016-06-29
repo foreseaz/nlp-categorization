@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Learn to create a Registration Form from Scratch PHP MySQL</strong></p><p><strong></strong><strong>Build your own login system</strong>, use AJAX to avoid page refreshes and communicates with the MySQL database.  This step by step guide will outline the process to build a custom log in system.</p>  <p>This course covers using <strong>HTML, CSS,  JavaScript, Jquery, AJAX, JSON, PHP, MySQL</strong> to create a <strong>real world project</strong>.  User account registrations are a common use and combination for various coding languages.  <strong>We show you how they all fit together to complete this popular web project.  </strong></p><p>Source code is included, and code explanations are provided as we work through the creation of this web application from scratch.  This project also includes a unique AJAX driven method to communicate with server side coding.  Connecting both front and back end coding.  Concepts demonstrated within this course will help you learn the foundations for working across different coding languages and making the connections.</p>  <p>Learn to use HTML forms to submit content to a database.  PHP code to process request data.  PHP code to connect to a MySQL database to handle user information.</p>  <ul><li>Build your HTML web form</li><li>Create a MySQL database to accept user information</li><li>Connect to your MySQL database using PHP</li><li>Send information from your web form to PHP</li><li>Insert and query database data using PHP</li><li>Create a user login form and a user registration form from scratch</li><li>Add bootstrap for styling</li><li>Use Jquery to create dynamic interaction from HTML code</li><li>Send AJAX requests to PHP code</li><li>Create PHP sessions to hold user login data</li><li>Access PHP sessions with AJAX and send the response back into Jquery</li><li>Update and create dynamic responses with Jquery</li><li>Create logout and form buttons</li><li>Process form requests using AJAX sending data to PHP backend code</li><li>Send JSON formatted responses back to Jquery using PHP server side code</li><li>Update database using PHP depending on AJAX data</li></ul>                                <p>Allow the user to log in and log out.  Create a registration form for users to register accounts into the system.  Setup a token validation system to validate emails that get registered in the registration system.</p>  <p>Everything is included to help you learn to create your own online user registration system.  Basic understanding of coding is required, such as use of PHP and Jquery.  Code is provided and we take you through explanations of the syntax.</p>", 
+    "end_date": null, 
+    "title": "Create a Dynamic User Registration Form from scratch", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/718426_7e0a_4.jpg", 
+    "course_url": "https://www.udemy.com/create-a-dynamic-user-registration-form-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-06T16:06:16Z"
+}

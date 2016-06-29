@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   You will get a conceptual understanding of various Oracle database performance issues and learn about different places to check for the performance information along with tuning approach.  </p>  <p style=\"\">  \t   Broadly this course will cover following:  </p>  <p style=\"\">  \t   1. What are common oracle database performance issues?  </p>  <p style=\"\">  \t   2. Where to check for messages / tuning information to get to bottom of issue.  </p>  <p style=\"\">  \t   3. Different tuning approaches - based on different databases (OLTP vs Data Warehouse).  </p>  <p style=\"\">  \t4. Learn about database statistics, optimizer and maintenance plan for tables and indexes.  </p>  <p style=\"\">  \t5. SQL and Instance tuning details.  </p>  <p style=\"\">  \t6. General guidelines for avoiding performance issues in Oracle database.  </p>", 
+    "end_date": null, 
+    "title": "Oracle Performance Tuning", 
+    "price": "30.00", 
+    "instructors": "Amit Arora", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/132138_aefd_3.jpg", 
+    "course_url": "https://www.udemy.com/oracle-performance-tuning/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-11T02:20:35Z"
+}

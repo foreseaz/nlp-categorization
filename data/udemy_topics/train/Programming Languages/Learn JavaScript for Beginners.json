@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t     Learn the essentials you&#039;ll need to get started with JavaScript, which is a popular programming language used to make web pages interactive.  </p>  <p style=\"\">  \t     During this course, your instructor will introduce you to executing basic JavaScript programs. You will discover the basics of the language (syntax, strings, data types), and you will understand using loops and conditional statements, and working with arrays. Additionally, this course instructs how to use various functions including scope, callback, return and anonymous functions.  </p>  <p style=\"\">  \t     Learn JavaScript for Beginners also teaches about the importance of JavaScript objects and the properties associated with objects. You will also learn details regarding the Document Object Model (DOM), a programming interface that can be accessed by JavaScript.  </p>  <p style=\"\">  \t     By the end of this course, you will be confident on the fundamentals needed to effectively program in JavaScript.  </p>  <p style=\"\">  \t<strong style=\"\">This course includes:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">Demo files</li>  \t<li style=\"\">An optional quiz to test what you&#039;ve learned</li>  \t<li style=\"\">Certificate of completion</li></ul><p style=\"\">All of our videos are high-definition videos, therefore, they are <strong style=\"\">best viewed with the HD setting on</strong>, and the videos enlarged.</p><ul style=\"\">  </ul>", 
+    "end_date": null, 
+    "title": "Learn JavaScript for Beginners", 
+    "price": "20.00", 
+    "instructors": "Simon Sez IT", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/144566_59a5_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-javascript-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-09T15:15:41Z"
+}

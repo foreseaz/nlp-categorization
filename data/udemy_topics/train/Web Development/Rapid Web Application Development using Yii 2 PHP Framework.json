@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course on 'Rapid Web Application Development with Yii 2 PHP framework' teaches you how to develop a high performing web application in a short period of time. This course is suitable for students or professionals with basic HTML and PHP knowledge. Though there are a lot of PHP frameworks in the market, Yii comes with the latest features and lessons learnt to build a modern web application in minutes. The scaffolding feature in Yii helps in generating the code, and hence the developer doesn't have to write code from scratch. This course is a short and quick course to get a glimpse of Yii framework. This course was planned to be a comprehensive one but I cut short it to see the interest of students and then make it a comprehensive one. But, this course is a short, quick and simple course for students interested in getting to know basics in a short span of time.</p>", 
+    "end_date": null, 
+    "title": "Rapid Web Application Development using Yii 2 PHP Framework", 
+    "price": "25.00", 
+    "instructors": "Karthikeyan Alagarswamy", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/487642_aa06_5.jpg", 
+    "course_url": "https://www.udemy.com/rapid-web-application-development-using-yii-2-php-framework/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-27T16:09:02Z"
+}

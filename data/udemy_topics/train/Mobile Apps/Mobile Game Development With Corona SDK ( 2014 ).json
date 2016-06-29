@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Covers App creation for iOS 8 and Android L</strong>  </p>  <p>  \t<strong style=\"\">Corona allows you to create games and apps quickly which run on both Android and iOS without the need to write 2 versions. It&#039;s by far the easiest way to create complex games and applications in the shortest possible time.</strong>  </p>  <p>  \t      This Mobile Game Development with Corona SDK from Infinite Skills will teach you how to create a mobile game with Corona SDK for iOS or Android. This course is developed for beginners, meaning no prior programming experience is required.  </p>  <p>  \t<br style=\"\">  \t      You will start by learning about the Lua language, then jump into how to display and animate images. From there, Whye will teach you about tap and touch events and how to use the widget library, including how to make buttons with widgets and create scrolling pictures. This video tutorial will also cover how to create text on the screen, manage a scene with Composer, and saving and loading files. <br style=\"\">  \t<br style=\"\">  \t      You will also learn how to display Sprites on the screen and animate them, as well as how to use music and sound effects in your game to create a scoring system. Finally, you will learn how to create three simple games: a physics-based puzzler, a memory match game, and a space shooter.<br style=\"\">  \t<br style=\"\">  \t      Once you have completed this computer based training course, you will be fully capable of creating your own game from scratch with Corona SDK. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Mobile Game Development With Corona SDK ( 2014 )", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/324304_39ac_5.jpg", 
+    "course_url": "https://www.udemy.com/mobile-game-development-with-corona-sdk-2014/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-21T17:47:41Z"
+}

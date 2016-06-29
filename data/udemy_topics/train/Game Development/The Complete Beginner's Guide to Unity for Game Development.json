@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t                     In this extensive tutorial series, instructor Alan Thorn takes us through a comprehensive look at the Unity Game Engine. If you've ever been curious about making games, or wondered what Unity has to offer, this course has everything you need to get you started with the engine. Ranging from an overview of the UI, all the way through Terrain, Lighting, Scripting, Post Processing, Debugging, and so much more!  </p>    <p><strong>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</strong>  </p>  <p>  \tMore about the Instructor:  </p>  <p>  \t       Alan Thorn is a freelance game developer and author with over 12 years of industry experience. He is the founder of London-based game studio, Wax Lyrical Games, and is the creator of award-winning adventure game Baron Wittard: Nemesis of Ragnarok.  </p>  <p>  \t       He has worked freelance on over 500 projects worldwide including games, simulators, kiosks and augmented reality software for game studios, museums and theme parks. He has spoken on game development at universities throughout the UK, and is the author of nine books on game development, including Teach Yourself Games Programming, Unity 4 Fundamentals and the highly popular UDK Game Development.</p>", 
+    "end_date": null, 
+    "title": "The Complete Beginner's Guide to Unity for Game Development", 
+    "price": "30.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/81582_8cd0_5.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-the-complete-beginners-guide-to-unity-for-game-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-21T05:46:20Z"
+}

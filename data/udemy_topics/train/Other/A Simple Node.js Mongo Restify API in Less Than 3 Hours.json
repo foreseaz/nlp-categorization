@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>*** This is an <strong class=\"redactor-inline-converted\">EARLY BIRD</strong> course with more new content added all the time ***</p><p><strong>EARLY BIRD </strong>promo<strong>: </strong>The <em>first 100 students</em> register absolutely <u>FREE</u>!</p><p>Node.js is quickly emerging a new and POWERFUL development framework -- and it's time that you learn it.</p><p>While many courses out there focus on giving you a theoretical understanding of Node.js but not much in the way of practical example, this course is the opposite. This course is a hands-on course and we'll start creating our API right off the bat. In less than a couple hours, we'll build a simple CRUD (Create/Read/Update/Delete) API that will help boost your confidence and motivate you to continue learning!</p><p>In this course, you'll learn how to build a simple but robust RESTful API using the Node.js &amp; Restify frameworks.</p>\n\n<p>You'll learn how to:</p>\n\n<ul><li>Use Node.js and Restify to create fully RESTful APIs</li><li>Leverage existing classes and frameworks to cut down development time</li><li>Create a simple API with CRUD (Create/Read/Update/Delete) functionality</li><li>Fetch user information from a remote Mongo database (DBaaS)</li><li>Sanitize and validate data using CodeIgniter's built in form validation libraries</li><li>... and much more as new lessons are released!</li></ul><p>Things that are good to have before taking this course:</p><ul><li>Javascript</li><li>MVC (Model-View-Controller)</li><li>Asynchronous callbacks and event-driven programming</li><li>Node.js (not required, but a plus)</li></ul><p><br></p>", 
+    "end_date": null, 
+    "title": "A Simple Node.js/Mongo/Restify API in Less Than 3 Hours", 
+    "price": "20.00", 
+    "instructors": "Jim Hlad", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/837880_a18f_3.jpg", 
+    "course_url": "https://www.udemy.com/a-simple-nodejs-api/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-02T20:26:49Z"
+}

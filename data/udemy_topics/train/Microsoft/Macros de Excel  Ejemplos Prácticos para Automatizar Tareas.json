@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>Se trata de un curso orientado a quienes ya poseen conocimientos básicos de programación de Excel con macros. Este curso de 6 horas te explica con todo lujo de detalles 13 ejemplos prácticos que te resultarán útiles para tus proyectos de automatización de Excel o para profundizar más en el uso del lenguaje Visual Basic para Aplicaciones.</p>", 
+    "end_date": null, 
+    "title": "Macros de Excel: Ejemplos Prácticos para Automatizar Tareas", 
+    "price": "40.00", 
+    "instructors": "Elio Reyes", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/694102_01dc_3.jpg", 
+    "course_url": "https://www.udemy.com/recursos-de-programacion-de-excel-con-macros/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-10T16:21:48Z"
+}

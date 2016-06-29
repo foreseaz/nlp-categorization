@@ -1,0 +1,25 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Databases"
+    ], 
+    "description": "\n\n                                            Class Central Course Rank  \n                                                    \n                                #3 in Subjects\n                                                                    &gt; Programming\n                                                                                                    &gt; Databases\n                                                            \n                            \n                                                \n                    \n                    \n                    \r\nLearn everything you need to know to get started building a MongoDB-based app.\r\nThis course will go over basic installation, JSON, schema design, querying, insertion of data, indexing and working with language drivers. We will also cover working in sharded and replicated environments. In the course, you will build a blogging platform, backed by MongoDB. Our code examples will be given in Python. A brief Python introduction is included in the course.\r\n\r\nPrerequisites\r\nTo take this course, you should have a working knowledge of Python. Knowledge of relational databases is not required.\r\n\n\n                                    ", 
+    "end_date": "2016-07-12T00:00:00Z", 
+    "title": "M101P: MongoDB for Developers", 
+    "price": 0, 
+    "instructors": "Andrew Erlichson", 
+    "institution_name": [], 
+    "commitment": "5 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://university.mongodb.com/courses/M101P/about", 
+    "duration": "7 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "MongoDB University"
+    ], 
+    "start_date": "2016-05-24T00:00:00Z"
+}

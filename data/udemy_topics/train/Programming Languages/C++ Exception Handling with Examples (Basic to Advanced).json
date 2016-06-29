@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Want to learn the most typical and important topic in any programming language. In this course you will learn Exception Handling in C++ covering all the basic to advanced topics with the help of great examples along the way.</p><p style=\"\">I will be using Dev C++ as a compiler but you can use any compiler of your choice. Before starting the course you should have at least basic understanding of C++ syntax - operators, functions, control structure.</p><p style=\"\">The course contains 5 section having total of 11 lectures - 2 hours of video content. Apart from that there are 9 C++ files included in the &quot;Downloadable Resource&quot; section for better understanding of its concepts. Also various MCQ&#039;s / Quizzes for better understanding of your concepts.</p><p style=\"\">Here&#039;s a list of topics covered in the course -</p><ol style=\"\"><li style=\"\"> Why there was a need for exception handling.</li><li style=\"\"><span style=\"\"></span>Basics of Exception Handling. </li><li style=\"\">How Exception handling works / mechanism.</li><li style=\"\">Use of try, catch and throw.</li><li style=\"\">Function that generates exception.</li><li style=\"\">Multiple catch statements.</li><li style=\"\"><span style=\"\"></span>How to Catch all the exceptions using (...)</li><li style=\"\">Nested exception handling</li><li style=\"\">Restricting / Specifying throw restriction</li><li style=\"\">Re throwing an Exception</li></ol><p style=\"\">      And much more along the way...</p><p style=\"\">This topic is highly recommended on the perspective of Interviews for companies  or Examination.</p>", 
+    "end_date": null, 
+    "title": "C++ Exception Handling with Examples (Basic to Advanced)", 
+    "price": "20.00", 
+    "instructors": "Anuj Kumar", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/510978_7466_2.jpg", 
+    "course_url": "https://www.udemy.com/c-plus-plus-exceptional-handling-with-examples-basic-to-advanced/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-25T15:47:46Z"
+}

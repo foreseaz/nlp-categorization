@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>UnderscoreJS is a powerful library for JavaScript developers which provides host of functional programming helpers to ease web development . It is the library which provide utility functions for common programming tasks. It has gained a lot of acceptance among professional web developers and following a great demand from our students we have created a standalone course which helps you learn this amazing tool from the ground up.</p><p>The course follows a simple and practical approach with concepts followed by coding examples. You will learn the underlying philosophy of UnderscoreJs and will be able to create web apps with underscore along with this course. This course also comes with a complete professional project which will help you assimilate everything you learnt during the course.</p><p>You will learn the following during the course:</p><p><strong>Javascript - Get a quick refresher course in JavaScript</strong></p><p><strong>Array Functions - Learn about functions such as first and last, Comparing and Compacting functions, Range and Index Functions</strong></p><p><strong>Object Functions - Learn about Key Value functions, Clone, Matching and Pick functions</strong></p><p><strong>Collection Functions - Map and Reduce Functions, Collection and query Functions, Indexing functions</strong></p><p><strong>Utilities - Wrapping functions, Utility and Templating functions</strong></p><p>Learn all this and much more on the other side of this course. So lets get started with your UnderscoreJS training </p><p><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Learn to Build Web Apps using UnderscoreJS : Code Like a Pro", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/672090_e008.jpg", 
+    "course_url": "https://www.udemy.com/learn-to-build-web-apps-using-underscorejs-code-like-a-pro/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-17T07:58:14Z"
+}

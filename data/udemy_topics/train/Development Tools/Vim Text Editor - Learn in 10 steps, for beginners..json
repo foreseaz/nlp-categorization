@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Vim is one of the most widely used text editors in the programming industry, not because it's the newest or shiniest, but because it can be found (or can be installed) on every type of system and more importantly it makes it possible to work / code must faster then you would otherwise.</p><p>Why doesn't everyone use Vim if it's so great? Well it does not have a standard GUI which means all the tools it provides must be memorized. People often think this is to much to learn at first and never try, but with this course, Jason Elbourne shows you the basic nessesities to get up and running with Vim. The cousre wont take up to much of your time and in no time at all these short videos will make your day to day coding much more productive saving you time. </p><p>Topics include:</p><ul><li>Entering and leaving vi</li><li>Understanding the Command, Insert, and Colon modes</li><li>Moving around in files</li><li>Editing text</li><li>Moving content with delete, yank, and put</li><li>Searching with regular expressions</li><li>Customizing vi</li><li>Filtering text through shell commands</li></ul>", 
+    "end_date": null, 
+    "title": "Vim Text Editor - Learn in 10 steps, for beginners.", 
+    "price": "20.00", 
+    "instructors": "Jay Elbourne", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/634026_07b5_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-vim-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-07T20:13:22Z"
+}

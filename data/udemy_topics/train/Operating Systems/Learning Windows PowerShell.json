@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \tThis Learning Windows PowerShell training course from Infinite Skills will teach you how to use this task-based command-line shell and scripting language, built on the .NET framework, designed especially for systems administration. This course is designed for the absolute beginner, meaning no prior experience with Windows PowerShell is needed.  </p>  <p style=\"\">  \t<br style=\"\">  \tYou will start by learning the basics of PowerShell, then jump into installing and setting up PowerShell. From there, Mark will teach you the PowerShell commands, including objects and classes, get-help, and get-command. You will also learn about PowerShell scripts and providers, such as the file system provider, alias provider, and environment provider. This video tutorial will also cover working with files and folders, system administration, and PowerShell version 5. <br style=\"\">  \t<br style=\"\">  \tOnce you have completed this computer based training course, you will be fully capable of using Windows PowerShell for your administrative needs. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Learning Windows PowerShell", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/328292_ec6a_6.jpg", 
+    "course_url": "https://www.udemy.com/learning-windows-powershell/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-27T17:01:00Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">This is an introductory course on Databases and SQL Querying. There are no pre-requisities for this course. If you are looking to get acquainted with the concept of Databases and Queries for maybe your next interview as an analyst, this is the right course for you. All you need is a windows machine and we will walk through step by step, right from setting up your environment to creating your first table to writing your first query. This course is structured in a way that you can follow along with me. At the end of this course, you should be comfortable writing simple queries including queries related to Dates, String manipulation, Aggregation etc. </p>", 
+    "end_date": null, 
+    "title": "Introduction to Databases and SQL Querying", 
+    "price": 0, 
+    "instructors": "Rakesh Gopalakrishnan", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/552672_e2b6_5.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-databases-and-sql-querying/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-12T18:48:01Z"
+}

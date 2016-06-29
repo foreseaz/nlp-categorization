@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Trong khoá học này các bạn sẽ được tìm hiểu và tiếp cận với thư viện ReactJS, một thư viện phổ biến hỗ trợ xây dựng các web app do Facebook phát triển. Khoá học này sẽ hướng dẫn các bạn tiếp cận React một cách cơ bản, từ việc thiết lập sử dụng tới việc tạo ra các web component để tái sử dụng và kết hợp tạo ra web app.</p>", 
+    "end_date": null, 
+    "title": "Xây dựng web app với ReactJS", 
+    "price": "20.00", 
+    "instructors": "Pete Houston", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/763056_0d23_2.jpg", 
+    "course_url": "https://www.udemy.com/xay-dung-web-app-voi-reactjs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-15T10:58:54Z"
+}

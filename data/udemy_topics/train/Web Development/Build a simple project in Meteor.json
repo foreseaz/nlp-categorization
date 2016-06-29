@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course we will be using Meteor and Angular to create a simple project.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>We will build an address book step by step and we will implement:<br></p>\n\n\n\n\n\n\n\n<ul><li>simple UI using a tabel layout and a card-based layout using Bootstrap</li><li>flash messages</li><li>user authentication with accounts-password</li><li>routes with FlowRouter and restricting access for logged-in users only</li><li>setting up a database schema and using it to generate insert and update forms</li><li>setting up search functionality</li><li>using Meteor methods and publication/subscription</li><li>using Angular with Meteor</li><li>adding custom directives in Angular\n\n</li></ul>\n\n\n\n\n\n\n\n<p><br>As requirements, you should have:<br>- Meteor already installed<br>- a code editor of your choice<br>- basic knowledge of HTML / CSS / JavaScript</p>\n\n\n\n\n\n<p>Timeline:</p>\n\n\n\n\n\n<ul><li>22.03.2016: first version</li><li>13.04.2016: Angular section added</li><li>20.04.2016: revised for Meteor 1.3</li></ul>", 
+    "end_date": null, 
+    "title": "Build a simple project in Meteor", 
+    "price": "20.00", 
+    "instructors": "Ciprian Munteanu", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/789674_4cab_2.jpg", 
+    "course_url": "https://www.udemy.com/build-a-simple-project-in-meteor/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-11T13:54:52Z"
+}

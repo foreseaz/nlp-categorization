@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This comprehensive C# course is designed for beginner programmers, as you won't be rushing through code. It focuses on the C# language rather than the graphical aspects of Windows programming. Lessons 51-127 give you a view of C# through web programming with Web Forms. This means you will also learn HTML, basic CSS and how to use a variety of controls like buttons, text boxes, drop downs lists and others.</p><p>You'll learn in a detailed and deliberate way so you can set a foundation and move from basic to more advanced concepts easily.</p><p>In addition to learning C#, you'll also cover the Microsoft Visual Studio programming environment, which will serve as the perfect complement to your newfound C# skills.</p><p>Learn C#, Visual Studio, and Object Oriented Programming</p><p>Start Using the C# Programming Language to Work with Code and Data</p><p>Understand the Microsoft Visual Studio Environment as It Relates to C#</p><p>Apply the Fundamentals of Object Oriented Programming to Data</p><p>Enhance Your Programming Skills with a Foundation in C#</p><p>Throughout this course, you'll learn the core concepts of C#, which can then be applied directly to other popular programming languages, including C++, C, Java, and JavaScript.</p><p>To put what you're learning to the test as you move through the course, you'll also complete a variety of programming assignments for hands-on practice.</p><p>Contents and Overview</p><p>You'll start this course by learning the fundamentals of C# and Visual Studio, including configuring the layout, defining variables, interacting with users, and understanding data types, data conversions, and constants.</p><p>To work with code in a more advanced way, you'll tackle how to check simple conditions using if/else blocks, as well as how to use loops to do things like repeat blocks of code to work more efficiently.</p><p>After covering various operators to evaluate and assign control structures, you'll learn how to use arrays to store collections of data.</p><p>Moving on to Object Oriented Programming, you'll create objects that contain both data and functions to make your job even easier.</p><p>By the end of this course, you'll have a solid understanding of the most important aspects of C#, Visual Studio, and Object Oriented Programming.</p><p>You'll be able to use these new skills to advance your career as a programmer, as well as become a C# developer. </p><p>There is also a section on applying some of the methods from C# to scripting in Unity.</p>", 
+    "end_date": null, 
+    "title": "A 20 Hour C# 6.0 Course With Web Forms And Intro To Unity", 
+    "price": "20.00", 
+    "instructors": "Tom Owsiak", 
+    "commitment": "20 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/513092_558d_2.jpg", 
+    "course_url": "https://www.udemy.com/beginnerscsharp2015/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-27T20:06:49Z"
+}

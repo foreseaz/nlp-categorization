@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t          CWHH level 1 Advanced is a hands on courses which teaches using different security tools on both web security testing and network security testing. The course teaches you how to use the webtools so that you can test the webportals as a tester. If you are programmer then you can use the same webtools and write secure codes.  </p>  <p>  \t  This course is for CISO, System/Network Administrators, IT managers &amp; Developers  </p>  <p>  \t        Web Security Tools: Sqlmap, tamperdata, hcon stf, firebug, hackbar  </p>  <p>  \t        Network tools: nmap, nessus, metasploit, opcrack  </p>  <p>  \t        Advanced Persistent Threat  </p>", 
+    "end_date": null, 
+    "title": "Certified White Hat Hacker Level 1 (Advanced)", 
+    "price": "20.00", 
+    "instructors": "Cyber Security & Privacy Foundation Pte Ltd", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/296946_512d_3.jpg", 
+    "course_url": "https://www.udemy.com/certified-white-hat-hacker-level-1-advanced/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-09T09:16:51Z"
+}

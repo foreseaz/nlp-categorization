@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>As we all know many of us used photoshop as our main webdesign tool to design websites. and even after the design psd files we used photoshop to slice our website to write the code for our website to make it look exactly as it's is in the psd design. But if you are a web designer you know how painful it is to write thousand line of code in the CSS to make website look exactly as it is. But think if you generate those thousand line of code with just one click it like copy paste and get the exactly same style that you design in the psd file..Is it possible ? Well the answer is yes it is possible and that's why this course are.. </p><p>The Newer version of photoshop have a new features called copy CSS. And this will convert any photoshop layer style into css with just one click. so you just copy and paste it and get the same style without write single line of code. In this course I'll teach you step by step process to used that features and get css form photoshop not only just for one layer I'll teach you how to get multilayer css , how to get vector shapes css with blending options like drop shadow , gradient , stroke, opacity. And not only that at the end I'll show you if you don't have the latest version of photoshop you can still used this features even on photoshop CS3. So thanks for watching this video and let's get started with Photoshop 2 CSS course.</p>", 
+    "end_date": null, 
+    "title": "Photoshop 2 CSS", 
+    "price": "20.00", 
+    "instructors": "Somenath Sen", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/790650_a4d0_2.jpg", 
+    "course_url": "https://www.udemy.com/photoshop-2-css/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-12T15:34:43Z"
+}

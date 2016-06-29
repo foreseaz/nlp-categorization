@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\">There are so many different trading or investing approaches as people in the market.</p><p style=\"\">Many existing tools support the most common ones, but if you really want to success with an innovative practice, you have to build it on your own.</p><p style=\"\">Due to its characteristics, Python is being adopted by the financial industry as its reference programming language.</p><p style=\"\">But Python is not expensive as other financials tools are, in fact it is completely free. And it is not difficult to learn. So, why don&#039;t give it a try?</p><p style=\"\"><strong style=\"\">Learn how to apply Python to Trading and Investing with this Hands-on Course.</strong></p><ul style=\"\"><li style=\"\">Ipython Working Environment</li> <li style=\"\">Main Data Analysis Python Libraries</li> <li style=\"\">How to import/export Financial Data</li> <li style=\"\">Data Munging</li> <li style=\"\">Customized Charts</li> <li style=\"\">Different Projects applying this knowledge</li> </ul><p style=\"\"><strong style=\"\">Improve your Programming and Investing Skills at a time.</strong></p><p style=\"\">Either if you can already program and are interested in Finance. Or if you are already a Finance practitioner and are interested in applying programming to your career. This is a course for you.</p><p style=\"\">In addition to using this new knowledge for your own investments, new opportunities will widely open up for you if you are able to combine these two disciplines.</p><p style=\"\">The volume of data is increasing at not seen before rates. And new algorithms and tools are needed to get the most of it. It is difficult to imagine a more promising skill in your career path than learning to manage and analyze data through programming.</p><p style=\"\"><strong style=\"\">Content and Overview</strong></p><p style=\"\">This course will start with a review of main Python libraries to use for Data Analysis. </p><p style=\"\">Although due to the readability of Python it is not necessary to have previous knowledge of it. It is recommended at least to have a previous contact with it.</p><p style=\"\">The main goal is to focus in the application of it to Finance concepts. So not much time will be addressed to common functions or data structures. You will be able, anyway, to send any doubt to the Instructor and if necessary new lectures will be upload replying most frequently asked questions.</p><p style=\"\">The best way to learn is doing. So in the second part of the course, actual applications with the complete code will be developed. You will be able to test and modify them with your desired parameters or strategies and even propose new ones. Building, in this way, a community around the course that will help us to grow up individually.</p><p style=\"\">New projects will be added periodically in the future, but the course price will go up accordingly. So enroll now, It will be your best investment.</p>", 
+    "end_date": null, 
+    "title": "Python for Trading & Investing", 
+    "price": "35.00", 
+    "instructors": "Ricardo Naya Arboleya", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/529828_554d_3.jpg", 
+    "course_url": "https://www.udemy.com/python-for-trading-investing/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-16T21:24:55Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This Python course starts with an Ebook which contains all the information about the Python Programming Language. We will move ahead in the next section by start building a tool in Python which is used by security analyst in their day to day job. The tool is \"Python Reconnaissance Scanner\" which can be used to scan any website that is live over internet and it can provide you with very useful information. This information includes =&gt;</p><p>1) Top level Domain Name</p><p>2) IP Address</p><p>3) Whois</p><p>4) Nmap Port Scan</p><p>5) Robots_txt</p><p>This course includes full source code of the tool and e pdf which you can go through if you are facing any problem with the video lectures.</p><p>Don't hesitate to ask questions in the discussion section as I will be always there to help you.</p><p>Join the course and start your Python Journey!</p>", 
+    "end_date": null, 
+    "title": "Python Programming - Build a Reconnaissance Scanner", 
+    "price": "20.00", 
+    "instructors": "Samarth Paboowal", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/649642_7ebf.jpg", 
+    "course_url": "https://www.udemy.com/python-programming-build-a-reconnaissance-scanner/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-24T15:35:29Z"
+}

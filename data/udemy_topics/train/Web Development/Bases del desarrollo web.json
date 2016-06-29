@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t Conoce los t&eacute;rminos b&aacute;sicos para ser un front-end y desarrolla tus primeros sitios web.  </p>  <p>  \tEn este curso aprenderas:  </p>  <p>  \t-Como se estructura un sitio web para el usuario final  </p>  <p>  \t-Como esta estructurado una pagina web para nosotros como maquetadores  </p>  <p>  \t-Aprenderas a maquetar sitios web de 1 y 2 columnas basicas  </p>  <p>  \t-Desarrollaras un proyecto completo en html5  </p>", 
+    "end_date": null, 
+    "title": "Bases del desarrollo web", 
+    "price": "20.00", 
+    "instructors": "Klinsmann Fabian", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/118030_0d74_6.jpg", 
+    "course_url": "https://www.udemy.com/bases-del-desarrollo-web/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-11T05:24:16Z"
+}

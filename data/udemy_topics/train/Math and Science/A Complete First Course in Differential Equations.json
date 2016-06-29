@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>This course will teach everything that is usually taught in the first two semesters of a university/college course in differential equations. The topics we will consider in this course are<br></p>\n\n<ol><li>First Order Differential Equations</li><li>Linear Equations of Higher Order</li><li>Laplace Transform Methods</li><li>Linear Systems of Differential Equations </li><li>Power Series Methods</li><li>Partial Differential Equations</li><li>Fourier Series</li><li>Sturm Liouville Eigenvalue Problems</li><li>Nonlinear Systems of Differential Equations</li><li>Numerical Methods</li></ol>", 
+    "end_date": null, 
+    "title": "A Complete First Course in Differential Equations", 
+    "price": "20.00", 
+    "instructors": "Chris Levy", 
+    "commitment": "30.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/599570_3506_6.jpg", 
+    "course_url": "https://www.udemy.com/a-complete-first-course-in-differential-equations/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-01T17:34:31Z"
+}

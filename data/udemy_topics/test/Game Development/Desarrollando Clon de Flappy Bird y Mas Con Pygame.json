@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Este Curso te enseñara como crear videojuegos con pygame 3.4 y python 3.4. Te explico paso a paso como puedes desarrollar un juego. Unos de los videojuegos que te vas a crear es el famoso Flappy Bird! Al Final vas a salir con uno juego que te voy a enseñar mediante el transcurso de la clase. Lo unico que necesitas es instalar pygame y python. Yo te voy a enseñar a instalar pygame y python de una manera bien sencilla. Vas a crear un juego desde cero paso a paso. No necesitas saver nada de codigo. Este curso te llevara a un nivel donde vas a quedar asombrado de que tan facil se puede hacer un juego con pygame 3.4.</p>", 
+    "end_date": null, 
+    "title": "Desarrollando Clon de Flappy Bird y Mas Con Pygame", 
+    "price": "20.00", 
+    "instructors": "Oscar Ogando", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/661262_f7ef_3.jpg", 
+    "course_url": "https://www.udemy.com/crear-juegos-usando-python-y-pygame-videojuegos/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-05T16:48:20Z"
+}

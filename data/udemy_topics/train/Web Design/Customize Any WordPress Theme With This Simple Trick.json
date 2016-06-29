@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t<strong style=\"\">NOTE: </strong>This course is not for people who use WordPress(dot)com.  You must use WordPress with paid hosting so you can access the Editor from the WordPress Appearance menu.  Before you sign up, make sure you can see the &quot;Editor&quot; option from the Appearance menu in WordPress.  </p>  <p>  \t      ---------------------------  </p>  <p>  \t                                        This is a course that <strong style=\"\">EVERY</strong> non-techy WordPress user needs!  </p>  <p>  \t                                                    Tired of not being able to change your WordPress theme&#039;s link and menu colors, text sizes and more?  <strong style=\"\">Do you avoid opening your theme&#039;s stylesheet </strong>because you&#039;re afraid you&#039;ll break your website&#039;s design?  </p>  <p>  \t                                                    This course is for anyone who uses WordPress and would like to edit parts of their site beyond the default menu options provided in the WordPress admin panel.  And don&#039;t worry, you don&#039;t need to become a programmer to change your theme&#039;s styles very easily.  </p>  <p>  \t<strong style=\"\">  You&#039;ll learn how to use a browser trick to adjust your link colors, link styling, blockquote tag, font sizes, add background styles to various sections of your site, select the exact colors you desire, style your bullets with images and more!  </strong>  </p>  <p>  \t                                                    In this course, I&#039;ll be using the Genesis WordPress theme for illustration purposes.  And while it&#039;s great if you have this theme, it&#039;s <strong style=\"\">not necessary</strong> to grasp the lessons since all WordPress themes use CSS to control the theme&#039;s design.  </p>  <p>  \t                                        And don&#039;t worry if you are not a programmer.  As you will discover, you don&#039;t have to be to do the basics. Editing your theme will be easier than you ever imagined.  </p>  <p>  \t                                                    If you&#039;re tired of not being able to edit basic parts of your WordPress theme design, this course will be a breath of fresh air!  </p>  <p>  \t<strong style=\"\">NOTE:  </strong>This is not a course for learning programming and making drastic changes to your layout (adding another column, etc). It&#039;s primarily for smaller edits like menu and link colors, adding additional styling, etc. You will pick up some basic CSS lessons along the way, however.  </p>", 
+    "end_date": null, 
+    "title": "Customize Any WordPress Theme With This Simple Trick", 
+    "price": "25.00", 
+    "instructors": "Lisa Irby", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/333692_e7d5_6.jpg", 
+    "course_url": "https://www.udemy.com/customizewp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-01T22:42:11Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This is an introductory course for the <strong>Ruby programming language</strong>, suitable for anyone who would like to make use of Ruby for virtually any purpose. Whether you want to make use of Ruby for Rails development, in the command line, or for writing GUI programs, this really is the place to begin.</p><p>The class teaches Ruby syntax. We simply presume that you've got some understanding of fundamental <strong>Object Oriented Programming</strong> (what classes and objects are and how exactly to use them). You'll learn:</p><p><span>-</span> <span>How</span> <span>to</span> <span>set</span> <span>up</span> <span>Ruby</span> <span>on</span> <span>your</span> <span>computer</span>!<br></p><p>- to create Ruby source code</p><p>- Running Ruby interactively at the command prompt<br></p><p>- Variable and constant syntax<span><br></span></p><p><span>This is the Lite version of our main course \"Learn Ruby Programming The Easy Way<span>\".</span></span></p><p>This course is for newbie programmers or developers who wish to get up to speed having the most popular language of the instant.</p><p>Ruby is enjoyable to learn, and also a very powerful tool for any serious programmer. </p><p>I am hoping you join us.</p>", 
+    "end_date": null, 
+    "title": "Learn Ruby Programming The Easy Way - Lite", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "34 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/769314_cb28_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-ruby-programming-the-easy-way-lite/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-21T06:57:53Z"
+}

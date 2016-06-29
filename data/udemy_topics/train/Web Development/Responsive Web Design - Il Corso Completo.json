@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Il corso prende in considerazione le regole del disegno web responsivo e le tecniche per la corretta visualizzazione di un template su ogni device attraverso l'applicazione delle regole di media queries.  Il corso introduce alla conoscenza dei più comuni framework il disegno responsivo e dell'architettura che li governa. Il corso prevede la progettazione completa di tre layout responsivi e di una landing page, esaminando quelle che sono le strutture dle moderno web design. Introduce alla tecnica dei flexbox, esamina e lavora con grid system di diversa struttura. Due sezioni sono dedicate al framework per eccellenza per il responisve web design: Bootstrap. In una sezione bonus si esaminano anche le novità dell'ultima versione del framework: Bootstrap 4. Il corso è molto pratico, compilando decine di esercizi dal vivo. Tutto il codice sorgente e i file dei progetti completi sarà messo a disposizione per l'esercizio e il lavoro personale. Tutte le lezioni video sono scaricabili per poter essere visionate off line in piena libertà.</p>", 
+    "end_date": null, 
+    "title": "Responsive Web Design - Il Corso Completo", 
+    "price": "25.00", 
+    "instructors": "Simona Tocci", 
+    "commitment": "16 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/795804_fede_2.jpg", 
+    "course_url": "https://www.udemy.com/responsive-web-design-il-corso-completo/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-17T13:21:07Z"
+}

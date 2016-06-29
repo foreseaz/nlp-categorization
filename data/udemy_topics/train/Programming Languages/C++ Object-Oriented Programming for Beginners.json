@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t            In this course you will learn how to become a C++ Object-Oriented programmer by learning to do programming hands-on. This course is easy to understand and will take you from not knowing any C++ Object-Oriented Programming to becoming proficient in the C++ language. The terminology is simply to understand and taught in easy to understand plain English. </p><p>You will walk through c++ source code, compile and run the examples to get a full understanding of the topics. This course is expected to take about a week (40 hours) to complete if you go through the entire examples. </p><p>The lectures are structures in a step-by-step fashion to make the concept easily understandable with solid examples. </p><p>You should take this course to help you learn one of the hottest programming languages in use today in industry. </p><p>Topics Covered: </p>  <p>  \t<strong>C++ Object-Oriented Programming:</strong>  \t<strong></strong>  </p>  <ul>  \t<li>Classes</li>  \t<li>Objects</li>  \t<li>Inheritance</li>  \t<li>Polymorphism</li></ul><ul><li>Intro. to Programming in C</li>  \t<li>Installation of a C Compiler</li>  \t<li>Variables</li>  \t<li>Arrays</li>  \t<li>Vectors</li>  \t<li>Constants</li>  \t<li>Arithmetic Operators</li>  \t<li>Value Assignments</li>  \t<li>Control Structures</li>  \t<li>For loops,</li>  \t<li>While loops</li>  \t<li>Do…while loops,</li>  \t<li>Switch &amp; break statements.</li>  \t<li>Functions</li>  </ul>", 
+    "end_date": null, 
+    "title": "C++ Object-Oriented Programming for Beginners", 
+    "price": "20.00", 
+    "instructors": "Arash OBAIDI", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/361854_b364_4.jpg", 
+    "course_url": "https://www.udemy.com/c-object-oriented-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-03T00:04:17Z"
+}

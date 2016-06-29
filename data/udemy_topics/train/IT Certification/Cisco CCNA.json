@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>One of the biggest issue with CCNAs is that they do not take their Training seriously. With this course, we will dive into the necessary technology that you will need to pass the CCNA exam and be a real CCNA at your job. CCNA is meant for anyone who wants to be in the networking field or to get certified.<br><br>Use this course along with your CCNA books and your labs. You will find that there is lots of topics and lots of training. You want to be a CCNA, here is the place to do it.<br><br>With this course you will learn the below topics and more:<br><br>Networking Fundamentals, How a switch operates, IP Address and Subnetting, Routing Protocols like RIP, EIGRP, and OSPF. You will need to practice what you have learned on real equipment which includes 3 routers and 3 switches. <br><br>If you do not have real equipment, you can purchase it off ebay. If that is sill not an option, then you can use an emulator like GNS3 but this will not allow you do perform switching is a reliable method. All configurations in this course is done on real live equipment.<br><br>This is a detailed course and requires the mindset of discipline and patience to become a CCNA. No Prior Knowlege is neeeded. </p>", 
+    "end_date": null, 
+    "title": "Cisco CCNA", 
+    "price": "50.00", 
+    "instructors": "Kiel Martin", 
+    "commitment": "63 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/708758_52a1.jpg", 
+    "course_url": "https://www.udemy.com/cisco-ccna-kiel/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-28T17:42:45Z"
+}

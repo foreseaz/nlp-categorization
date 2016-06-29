@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">Course:</strong> Searching &amp; Reporting with Splunk 6 </p>\n\n<p><strong class=\"redactor-inline-converted\">Benefits :</strong> This course focuses on Splunk's search and reporting commands. At the end of this course Students will be able to use search and reporting commands in Splunk to build braoder &amp; more complex searches to analyze Big Data in an enterprise. </p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Delivery:</strong> Online</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Agenda : </strong>This course prepares System &amp; Security administrators to configure and manage Splunk searches and reports. Topics include Search Fundamentals; Transforming Commands ; Deriving Statistics ; Creating Visualizations ; Enriching Visualizations ; Manipulating and Filtering Results; Correlating Events</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Target Audience:</strong> System Administrators, Security Administrators, Security Analysts, Data Analysts</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Pre-Requisites :</strong> Knowledge of Using Splunk, Windows &amp; Linux/Unix OS Administration</p>\n\n\n\n\n\n<p><strong>Lab Access &amp; Lab Guide :</strong> Not Included</p>", 
+    "end_date": null, 
+    "title": "Splunk 6 Search & Reporting Bootcamp", 
+    "price": "20.00", 
+    "instructors": "Security Skills Hub", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/848132_6134_2.jpg", 
+    "course_url": "https://www.udemy.com/splunk-6-search-reporting-bootcamp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-13T15:25:42Z"
+}

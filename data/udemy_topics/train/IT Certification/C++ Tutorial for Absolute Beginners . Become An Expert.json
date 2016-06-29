@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\">C++</strong> is general purpose, compiled, <strong style=\"\">object-oriented programming</strong> language and its concepts served as the basis for several other languages such as Java, Python, Ruby, Perl etc.</p><p style=\"\"><strong style=\"\">C++</strong> is not just a<strong style=\"\"> powerful programming language</strong>. It&#039;s also the basis of many other popular languages, so this knowledge will serve you well, even when you&#039;re not using C++.</p><p style=\"\">1) This is by far the most comprehensive C++ Programming course you&#039;ll find here, or anywhere else.</p><p style=\"\">2) This C++ Programming tutorial Series starts from the very basics and covers advanced concepts as we progress. This course breaks even the most complex applications down into simplistic steps.</p><p style=\"\">3) It is aimed at complete beginners, and assumes that you have no programming experience whatsoever.</p><p style=\"\">4) This C++ Programming tutorial Series uses Visual training method, offering users increased retention and accelerated learning.</p><p style=\"\">The goal of this course is to provide you with a working knowledge of C++. We&#039;ll start with the basics, including syntax, operators, loops, and functions. This Course will explain you how to use data structures and create your own Functions. This Course will show you the details of the powerful object and template systems so you can create useful classes and objects. Finally, we will cover the unique and powerful Standard Template Library, which provides you with some of the most flexible container classes available anywhere.</p><p style=\"\"><strong style=\"\">Bonus - C++ Example Codes and Exercise</strong></p><ol style=\"\"><li style=\"\">Example 1: Write a C++ program to Make Simple calculator</li><li style=\"\">Example 2: C++ program to Arrange 10 Numbers In Ascending Order</li><li style=\"\">Example 3: C++ program to calculate (n, x). 1+ (nx/1!) - (n(n-1)x^2/2!)....</li><li style=\"\">Example 4: Write a C++ program for Matrices</li><li style=\"\">Example 5: Write a C++ program that gets two strings from input and stores them in variable</li><li style=\"\">Example 6: Write a C++ program to Solve Quadratic equation</li><li style=\"\">Example 7: C++ program for Calculation of the Surface and The Volume of a Cone</li><li style=\"\">Example 8: C++ Program to show Fibonacci Series</li><li style=\"\">Example 9: C++ Program to Find Perfect Number</li><li style=\"\">Example 10: C++ program to find prime numbers in a given range</li><li style=\"\">Example 11: C++ program to find Armstrong number</li><li style=\"\">Example 12: C++ program to convert a string into upper-case or lower-case</li><li style=\"\">Example 13: C++ program to find HCF and LCM of two numbers</li><li style=\"\">Example 14: C++ Program for Printing 1 to 1000 without loop</li><li style=\"\">Example 15: C++ example for pass by reference</li><li style=\"\">Example 16: C++ Program to print half Pyramid</li><li style=\"\">Example 17: Write a C++ program that can print a temperature conversion</li></ol>", 
+    "end_date": null, 
+    "title": "C++ Tutorial for Absolute Beginners . Become An Expert ", 
+    "price": "20.00", 
+    "instructors": "Yogesh Patel", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/519260_aaa8.jpg", 
+    "course_url": "https://www.udemy.com/c-tutorial-for-absolute-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-03T16:27:05Z"
+}

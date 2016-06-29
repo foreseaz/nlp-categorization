@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><p style=\"\">En este curso vas a aprender la estructura básica de un documento HTML: qué son los elementos,&nbsp;<span>cuáles son los principales, cómo se deben emplear en el código y qué son los atributos.</span></p><p style=\"\">Aprenderás, también, a añadir textos, imágenes y vínculos (ya sea dentro del propio documento o a otras páginas). Para&nbsp;<span>optimizar el trabajo, también verás qué estructura deben mantener los archivos de nuestra página web.</span></p><p style=\"\">Para terminar el curso, vas a ver algunos de los recursos para poder validar el código HTML y asegurarte de que éste se visualiza en&nbsp;<span>todos los navegadores.</span></p>&lt;/p&gt;", 
+    "end_date": null, 
+    "title": "Introducción a HTML", 
+    "price": "25.00", 
+    "instructors": "Skeyon Formación Barcelona", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/46460_03d5_5.jpg", 
+    "course_url": "https://www.udemy.com/introduccion-a-html/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-03-19T11:47:00Z"
+}

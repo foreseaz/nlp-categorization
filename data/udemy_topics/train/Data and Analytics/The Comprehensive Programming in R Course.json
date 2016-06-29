@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\"><em style=\"\"><strong style=\"\">The Comprehensive Programming in R Course</strong></em> is actually a combination of two R programming courses that together comprise a gentle, yet thorough introduction to the practice of general-purpose application development in the R environment. The original first course (Sections 1-8) consists of approximately 12 hours of video content and provides extensive example-based instruction on details for programming R data structures. The original second course (Sections 9-14), an additional 12 hours of video content, provides a comprehensive overview on the most important conceptual topics for writing efficient programs to execute in the unique R environment. Participants in this comprehensive course may already be skilled programmers (in other languages) or they may be complete novices to R programming or to programming in general, but their common objective is to write R applications for diverse domains and purposes. No statistical knowledge is necessary. These two courses, combined into one course here on Udemy, together comprise a thorough introduction to using the R environment and language for general-purpose application development. </p><p style=\"\"><strong style=\"\"><em style=\"\"><em style=\"\">The Comprehensive Programming in R Course</em></em></strong> (Sections 1-8) presents an detailed, in-depth overview of the R programming environment and of the nature and programming implications of basic R objects in the form of vectors, matrices, dataframes and lists. <strong style=\"\"><em style=\"\"><em style=\"\">The Comprehensive Programming in R Course</em></em></strong> (Sections 9-14) then applies this understanding of these basic R object structures to instruct with respect to programming the structures; performing mathematical modeling and simulations; the specifics of object-oriented programming in R; input and output; string manipulation; and performance enhancement for computation speed and to optimize computer memory resources. </p>", 
+    "end_date": null, 
+    "title": "The Comprehensive Programming in R Course", 
+    "price": "20.00", 
+    "instructors": "Geoffrey Hubona, Ph.D.", 
+    "commitment": "25 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/584472_d901.jpg", 
+    "course_url": "https://www.udemy.com/the-comprehensive-programming-in-r-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-16T12:09:51Z"
+}

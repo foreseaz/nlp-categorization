@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \tSince the Raspberry Pi was released in 2012, it has changed the game for  both professionals and hobbyists alike. Its small size (about the size  of a credit card) and low price have made it a popular alternative to  the Arduino microprocessor for projects ranging from home automation to  web servers to mobile image processing. Its ARM processor allows it to  run a version of Debian Linux, and it can be configured to work with the  physical world via onboard GPIO pins and optional extra equipment. The newest version can even run both Windows 10 and a full Ubuntu distribution.</p>  <p>  \t<em>PiBot: Build Your Own Raspberry Pi Powered Robot</em>, is meant to be a companion course to the bestselling book of the same name on Amazon. Together with the book, students will be taken step-by-step through the process of building one, from installing the libraries needed to  access the GPIO pins to configuring a wireless adapter to some  suggestions (not explicit instructions) on how to construct the bot's  body. When you have finished, you will have a working robot that you can  log into and control remotely via command line, with the possibility of  using a shell or a Python script. All course participants will receive an electronic copy of the book to go along with the course. The newest updated version of the course includes information regarding the Raspberry Pi version 2 and how to interact with servos using a different library, PiGPIO.</p><p>If you would like to do something impressive with your Pi, but learn better from seeing and hearing rather than reading, this course is for you!  </p>", 
+    "end_date": null, 
+    "title": "PiBot: Build Your Own Raspberry Pi Powered Robot", 
+    "price": "20.00", 
+    "instructors": "Wolf Donat", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/79208_2b4e_7.jpg", 
+    "course_url": "https://www.udemy.com/raspberry-pi-pibot/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-15T18:41:02Z"
+}

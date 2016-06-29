@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    Are you ready to leave the sandbox and go for the real deal? Have you followed EX101x Data Analysis: Take It to the MAX() and EX102x Data Analysis: Visualization and Dashboard Design and are ready to carry out more robust data analysis?\n\nIn this project-based course you will engage in a real data analysis project that simulates the complexity and challenges of data analysts at work. Testing, data wrangling, Pivot Tables, sparklines? Now that you have mastered them you are ready to apply them all and carry out an independent data analysis.\n\nFor your project, you firstly get one raw dataset, which you will turn into a dashboard, step by step. You will begin with a business question, and then touch upon different business domains, such as revenue management, planning, scheduling, management, investment, etc.\n\nThe progress of the project will be gradual – in the first weeks you will be guided by quizzes to make sure that you are on track. You will engage with creating first drafts of your work and discuss them with your peers.\n\nIn the final week, you will be in charge. You will get a second dataset and a number of questions to answer, and it is up to you to design and build the perfect dashboard.\n\nThis course will allow you to practice the skills you’ve gained in previous Data Analysis XSeries courses and prove you can be an indispensable asset in data-driven organizations.\n\nBy completing this project and EX101x and EX102x, you can obtain the XSeries Data Analysis Verified Certificate. \n\nLICENSE\n\nThe course materials of this course are Copyright Delft University of Technology and are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA) 4.0 International License.\n\n                                    ", 
+    "end_date": "2016-07-20T00:00:00Z", 
+    "title": "EX103x: Data Analysis: Building Your Own Business Dashboard", 
+    "price": 0, 
+    "instructors": "Felienne Hermans", 
+    "institution_name": [
+        "Delft University of Technology"
+    ], 
+    "commitment": "3-5 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/data-analysis-building-own-business-delftx-ex103x", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-06-22T00:00:00Z"
+}

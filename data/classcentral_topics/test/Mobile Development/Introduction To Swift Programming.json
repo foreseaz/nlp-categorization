@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Introduction to Swift Programming is the first course in a four part specialization series that will provide you with the tools and skills necessary to develop an iOS App from scratch. By the end of this first course you will be able to demonstrate intermediate application of programming in Swift, the powerful new programming language for iOS. Guided by best practices you will become proficient with syntax, object oriented principles, memory management, functional concepts and more in programming with Swift. \n\nThis course is unique in its dedication to teaching Swift programming. With new features and capabilities you will be at the forefront of writing iOS apps.\n\nPlease note that to take part in this course (and the full specialization) it is required to have a Mac computer and, though not required, ideally an iPhone, iPod, or an iPad. NOTE: This course has been designed and tested (and content delivered) on a Mac. While we are aware of hacks and workarounds for running Mac in a virtual machine on windows we do not recommended a PC. \n\nWe hope you have fun on this new adventure.\n\n                                            Syllabus\n                        Introductions and Getting StartedMeet the teaching staff, get oriented to the platform, set up your work environment and get ready to program! We wish to remind you from the start that to take part in this course (and the full specialization) it is required to have Mac computer and, though not required, ideally an iPhone, iPod, or an iPad. This course has been designed and tested (and content delivered) on a Mac. While we are aware of hacks and workarounds for running OSX in a virtual machine on Windows, we do not recommended a PC. To find out of this specialization is for you, download the SHIFT Photo Editing app at http://beautifulapps.mobi and try it out.  If you take this specialization, then you will learn to create an app similar to SHIFT.Swift BasicsIn this module we will introduce the basic concepts of Swift. To begin you will learn variable declaration, different types, and program control mechanisms. Here we start to build the foundation of iOS app development with Swift. We hope you enjoy the journey.Advanced SwiftThis unit continues with further exploration of swift programming. Building on our current skill set we will work with Classes, Structs, Enums, Protocols, and object-oriented principles.Image Processing In SwiftIn this module we will wrap up with lessons targeting advanced examples in Swift. We’ll look at a detailed example of an image filter which will allow us to manipulate pixels and create filter effects (such as change contrast).Final Peer AssignmentYou did it! You've come to the end of this first course. We sum up with a capstone peer assessment assignment where you will create your own filter and demonstrate what you've learned over these weeks. Please read the instructions carefully, and have fun!OPTIONAL - Swift vs Objective COPTIONAL - In this module we compare some of the differences between Swift and Objective C programming languages. Join us as we migrate those of you familiar with Objective C to the world of Swift. Hopefully you find programming in Swift fast, easy and interactive. \n                                    ", 
+    "end_date": "2016-07-18T00:00:00Z", 
+    "title": "Introduction To Swift Programming", 
+    "price": 0, 
+    "instructors": "Parham Aarabi", 
+    "institution_name": [
+        "University of Toronto"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.coursera.org/learn/swift-programming", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-13T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  Google Tag manager es una nueva herramienta gratuita de Google que nos permite gestionar desde una plataforma centralizada, todos los códigos que deseamos insertar en nuestras páginas.  </p>  <p style=\"\">  \t  La principal ventaja de esta herramienta es que nos ofrece la posibilidad de modificar, cambiar o insertar nuevos códigos en nuestra página (p.e. el código de conversión de AdWords) de manera rápida y sencilla  sin necesidad de contar con el equipo de IT por lo que se acortan los tiempos de respuesta  </p>  <p style=\"\">  \t  Durante este curso, explicaremos cómo utilizar el Google Tag Manager para poder instalar Google Analytics Universal en nuestro sitio.  </p>  <p style=\"\">  \t  También explicaremos cómo lanzar eventos o realizar un seguimiento del ecommerce desde Google Tag Manager de forma que puedas gestionar tú mismo la instalación de Google Analytics.  </p>", 
+    "end_date": null, 
+    "title": "Instala Google Analytics Universal con Google Tag Manager", 
+    "price": "45.00", 
+    "instructors": "Fernando Gavarrón Correas", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/59205_b07b_4.jpg", 
+    "course_url": "https://www.udemy.com/instala-google-analytics-con-google-tag-manager/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other Programming"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-10T11:23:31Z"
+}

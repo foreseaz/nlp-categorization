@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course covers how to create simple and easy maintainable Python applications. You will be learning new features and how to maintain and organize Python code more efficiently. The curiosity of learning a new way to program an easier way will always make your coding days much more relaxed and less stressful. In the curriculum, we will covering each topic in details to make sure you full understand what is being taught in the lectures and how to use and apply these skills. We will be downloading and installing all the required software for this course. This software will help us create our  python applications throughout our class lectures. This will benefit you because you will know what and how to download and install the required software needed to run these high powered applications and also how to maintain and build these applications more efficiently. The most important skills you will learn throughout this course is understanding the basic concept of programming that most companies require from their programmers.</p>", 
+    "end_date": null, 
+    "title": "The Python Beginners Guid: The Basic Concepts", 
+    "price": "20.00", 
+    "instructors": "Jaddian Forte", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/826708_a1d4_3.jpg", 
+    "course_url": "https://www.udemy.com/python-for-absolute-beginners-easy-fun-learning/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-20T02:24:17Z"
+}

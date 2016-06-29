@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is designed to introduce you to using AJAX in jQuery.  </p>\n\n<p>Learning to use AJAX opens up a powerful resource for web developers.  It allows you to send and receive content from the server without page refreshes.  You can even use the response data in your code.  This allows web developers to create amazing interactive content, that can be dynamically updated.  AJAX provides a seem less interactive user experience which web visitors always enjoy.</p>\n\n\n\n<p>jQuery. has made AJAX really easy to use.  jQuery. is a powerful library that allows you to write code quicker and easier.  Its straight forward and easy to use.  Learning and know how to apply AJAX with jQuery. can really accelerate your web development process.</p>\n\n\n\n<p>Within this course you will learn how to write AJAX related functions and methods in jQuery..</p>\n\n\n\n<p>From an instructor with over 15 years of web development experience, bringing real world knowledge to this course.  I've developed hundreds of applications and websites.   I enjoy using jQuery and am always amazed at how easy it is to apply.  As a big fan of jQuery and ajax I wanted to create this course to help introduce others to this technology.  If you have never used jQuery or AJAX you don't know what you are missing.  I guarantee once you start working with it you will never look back!</p>\n\n\n\n<p>This course covers using simple convenience methods in jQuery.</p>\n\n\n\n<ul><li>Load to load files</li><li>get to get file info</li><li>get and JSON data</li><li>Post to send data to the server</li><li>ajax to do much more</li><li>bonus how to send data to you mysql database</li></ul>\n\n\n\n<p>Source files and top resources are provided, everything you need to learn how to use AJAX is provided within this course.</p>\n\n\n\n<p>I am here to help you learn jQuery AJAX and ready to answer any questions you may have.</p>\n\n\n\n<p>jQuery AJAX  is an in demand skill, and learning jQuery AJAX  will help to separate you from the crowd who don't know jQuery AJAX .</p>\n\n\n\n<p>Nothing to lose, there is a 100% Money Back if you don't like it</p>\n\n\n\n<p>Want to know more, what are you waiting for take the first step.  Join now to start learning jQuery AJAX  today.<br></p>\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "AJAX with JQuery Basics Beginner Introduction Course", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/797042_4ac2.jpg", 
+    "course_url": "https://www.udemy.com/ajax-with-jquery-basics-beginner-introduction-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-18T15:30:16Z"
+}

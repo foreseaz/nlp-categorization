@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>TYPO3 is a free and open source web content management system based on PHP. It can run on several web servers, such as Apache, Nginx or IIS, on top of many operating systems, among them Linux, Microsoft Windows, FreeBSD, Mac OS X and OS/2.<br style=\"\"><br style=\"\">TYPO3 is credited to be highly flexible. It can be extended by new functions without writing any program code. Also, the software is available in more than 50 languages and has a built-in localization system, therefore supports publishing content in multiple languages. Due to its features, scalability and maturity, TYPO3 is used to build and manage websites of different types and size ranges, from small sites for individuals or nonprofit organizations to multilingual enterprise solutions for large corporations.<br style=\"\"><br style=\"\">This course is in the English language and contains step to step instruction to learn the basics of the TYPO3 from installation to extension making. This course contains 9 lessons containing videos and Quiz. By the end of this course you will be able to know about the basics of TYPO3.</p>", 
+    "end_date": null, 
+    "title": "TYPO3 Basics", 
+    "price": "20.00", 
+    "instructors": "DRC Systems", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/488490_359d_2.jpg", 
+    "course_url": "https://www.udemy.com/typo3-basics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-28T12:09:36Z"
+}

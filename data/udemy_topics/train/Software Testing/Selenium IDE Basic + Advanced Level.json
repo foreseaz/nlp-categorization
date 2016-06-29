@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This <strong>selenium IDE course</strong> is designed for those students who wants to kick start their professional career as software automation test engineer. <strong>Selenium IDE</strong> is open source testing tool. As you know, Most of MNC are preffering to use open source tools like selenium so craze of selenium is increasing day by day. Selenium IDE is basic <strong>software testing tool</strong> which helps you to put your first leg in software automation testing world. I have covered basic and advanced level testing tutorials of selenium IDE. </p><p>Few of the points which I have covered in this course are as bellow.</p><ul><li>How to <strong>install selenium IDE</strong></li><li>Record and playback your test script</li><li>Examples and usage of different mostly commands</li><li>Javascript execution in selenium IDE </li><li>More advanced level topics. </li><li>Different element locating strategies like locate element by name, id, xpath, etc. </li><li>Examples on how to create XPath in different ways for specific element. </li></ul><p>Also If you learn selenium IDE before selenium webdriver then you will be champ in selenium webdriver as few basic things of selenium IDE are also used in selenium webdriver.<br></p>", 
+    "end_date": null, 
+    "title": "Selenium IDE Basic + Advanced Level", 
+    "price": "20.00", 
+    "instructors": "Aravind Automation Engineer", 
+    "commitment": "37 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/706248_3f30_3.jpg", 
+    "course_url": "https://www.udemy.com/selenium-ide-basic-advanced-level/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-25T09:17:46Z"
+}

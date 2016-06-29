@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  This CSS3 Transformations And Animations training course by Infinite Skills introduces you to rotating, skewing, scaling and mirroring elements in 2D and 3D space, and then combining them to create animated sequences. This course is designed for users that already have a fundamental understanding of HTML5 and CSS3.  </p>  <p>  \t<br>  \t  Craig begins this video tutorial with an examination of 2D transformation techniques Topics that he covers include; translations, scaling, rotations and skewing. Once you have grasped these fundamental transformations, Craig takes you to the next level with 3D transformations. As you continue through this video training course, you cover transitions and full-out animations. You will learn how to create keyframes, and practice what you learn by working through real animation examples with the author.<br>  \t<br>  \t  Once you have completed all the lessons for this CSS Transformations and Animations video based training course you will have a solid grasp on the techniques required to create your own spectacular animations. The author has included extensive working files to allow you to follow along throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "CSS3 MasterClass - Transformations And Animations", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/85702_ca7a_9.jpg", 
+    "course_url": "https://www.udemy.com/css3-masterclass/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-29T18:56:36Z"
+}

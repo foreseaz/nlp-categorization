@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t        Veteran game designer Christopher Orth takes you through every step of building your own first-person 3D game from scratch: from writing a game design document to whiteboxing a level the way AAA game companies do it and implementing game systems with basic AI - all without coding!</p>  <p>  \t        You'll be using the super-popular (and free!) Unity game engine together with the visual scripting tool Playmaker and the 3D modelling app of your choice to build an interactive first-person game level. Therefore, the people who'll get most out of it are those who already have some working knowledge of 3D modelling and have dabbled with Unity and Playmaker before a little and want to take their skills further. However, even absolute beginners can complete the course successfully.</p>  <p>  \t      You get:  </p>  <ul>  \t<li>More than 10 hours of high-quality lectures</li>  \t<li>3 hours of bonus video content: whitebox reviews and time-lapsed speed-modelling of hours of game level development</li>  \t<li>free access to the student version of the awesome Playmaker Unity plugin</li>  \t<li>downloadable exercise files to follow along (utility textures, 3D models, ready-made health systems, etc)</li><li>Everything you need to make your very own 3D first-person game prototype!</li>  </ul><p><strong>Important note re Unity 5</strong></p><p>The free student version of Playmaker is not currently compatible with Unity 5's new UI (user interface) system, so the Playmaker component (which is the majority of the class content) is done with Unity 4.3. We therefore recommend you use an earlier version of Unity to work with this course which you can get from the Unity Download archive, as it's possible to have more than one version of Unity installed on your computer.</p><p>The principles of what you're learning in terms of how Unity and Playmaker work are almost exactly the same between Unity 4 and 5 - it's just the mechanics that are slightly different with the new UI.</p><p>We plan on updating the course to Unity 5 as soon as Playmaker updates its plugin as well, so rest assured that if you're buying this course, we'll keep it updated for the future.</p>", 
+    "end_date": null, 
+    "title": "Rapid Game Prototyping without code using Unity & Playmaker!", 
+    "price": "40.00", 
+    "instructors": "Guido Gautsch, Christopher Orth", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/338314_a73d_5.jpg", 
+    "course_url": "https://www.udemy.com/make-your-own-fps-without-code-using-unity-playmaker/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-07T08:57:17Z"
+}

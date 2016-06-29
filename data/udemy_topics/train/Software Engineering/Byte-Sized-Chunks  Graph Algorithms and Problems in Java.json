@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Note: This course is a subset of our much longer course 'From 0 to 1: Data Structures &amp; Algorithms' so please don't sign up for both:-)</strong></p><p><strong>This is an animated, visual and spatial way to learn data structures and algorithms</strong></p><ul><li>Our brains process different types of information differently - evolutionarily we are wired to absorb information best when it is visual and spatial i.e. <strong>when we can close our eyes and see it</strong></li><li>More than most other concepts, <strong>Data Structures and Algorithms are best learnt visually. </strong>These are incredibly easy to learn visually, very hard to understand most other ways</li><li>This course has been put together by a team with tons of everyday experience in thinking about these concepts and using them at work at <strong>Google, Microsoft and Flipkart</strong></li></ul><p><strong><em>Taught by a Stanford-educated ex-Googler.</em></strong></p><p>The graph is a data structure that is used to model a very large number of <strong>real world problems</strong>. It's also an <strong>programming interview favorite</strong>. The study of graphs and algorithms associated with graphs forms an entire field of study called graph theory.</p><ul><li>Directed and undirected graphs</li><li>Adjacency matrices, lists and sets</li><li>Breadth and Depth-First traversal</li><li>Topological sort</li><li>Djikstra's algorithm</li><li>Bellman-Ford algorithm</li><li>Prim's algorithm</li><li>Kruskal's algorithm</li></ul><p>Mail us about <strong>anything</strong> and we will always reply :-)</p>", 
+    "end_date": null, 
+    "title": "Byte-Sized-Chunks: Graph Algorithms and Problems in Java", 
+    "price": "20.00", 
+    "instructors": "Loony Corn", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/783692_946c_2.jpg", 
+    "course_url": "https://www.udemy.com/byte-sized-chunks-graph-algorithms-and-problems-in-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-06T04:04:03Z"
+}

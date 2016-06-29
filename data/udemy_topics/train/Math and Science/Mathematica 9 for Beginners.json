@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p style=\"\">  \t            This is an example based course aiming to teach Mathematica at an understandable level to students in college. Advanced high school students, or students whose high school teaches Mathematica will also find this course invaluable.  </p>  <p style=\"\">  \t            It assumes no understanding of programming languages, although knowledge, even rudimentary, of C/C++/Java is a plus.  </p>  <p style=\"\">  \t            This course does NOT teach Mathematica as a programming language.  </p>  <p style=\"\">  \t            This course does NOT teach Mathematics in general. Although a textbook on Pure Mathematics will come in handy for reference.  </p>  <p style=\"\">  \t            Any high school textbook that teaches college level Pure Mathematics is recommended. College students may use their course textbooks recommended by their Professor.  </p>  <p style=\"\">  \t          Students are expected to:  </p>  <p style=\"\">  \t          1. Know basic arithmetic and algebra including basic transcendental functions (exponential and trigonometric)  </p>  <p style=\"\">  \t          2. Know what a function is, including function composition, inverse and the definition of one-to-one functions  </p>  <p style=\"\">  \t          4. How to solve equations and inequalities.  </p>  <p style=\"\">  \t          3. Know common graphs of functions  </p>  <p style=\"\">  \t          4. Basic knowledge of set theory (preferably including partitioning and powersets)  </p>  <p style=\"\">  \t          5. Knowledge of matrices and vectors, preferably also knowledge of vector fields.  </p>  <p style=\"\">  \t          6. Rudimentary knowledge of 3D functions and functions on more than one variable  </p>  <p style=\"\">  \t          7. A broad knowledge of calculus including the basics of differential equations  </p>  <p style=\"\">  \t          8. Rudimentary knowledge of complex numbers  </p>  <p style=\"\">  \t <strong style=\"\">This course is in no way affiliated with Wolfram Research, Inc. The software, the Mathematica trademark and the associated logo belongs to Wolfram Research, Inc. </strong>  </p>  <p style=\"\">  \t<strong style=\"\">ScreenFlow, the software and associated trademarks belong to Telestream, Inc.</strong>  </p>  <p style=\"\">  \t<strong style=\"\"><br style=\"\">  \t</strong>  </p>  <p style=\"\">  \t        To contact me please e-mail: 2shakilrafi@gmail.com  </p>  <p style=\"\">  \t Follow me on Twitter @2shakilrafi  </p>", 
+    "end_date": null, 
+    "title": "Mathematica 9 for Beginners", 
+    "price": "20.00", 
+    "instructors": "Shakil Rafi", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/111338_e531_6.jpg", 
+    "course_url": "https://www.udemy.com/mathematica-9-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-27T14:59:49Z"
+}

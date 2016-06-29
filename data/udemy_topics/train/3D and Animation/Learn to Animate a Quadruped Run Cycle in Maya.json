@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>In  this course, we will be animating a quadruped run cycle for a video game from  scratch. We will start by setting up  the reference plane for the in-game speed, followed by blocking all the main  poses with appealing shapes that can be read from any angle of view. From there, we will start to work with the  timing to make those poses fit on the correct frames, and progressive. We  will then add in-betweens as we continue to adjust the timing. It is going to be a progressive refining  process, and we will be moving around a lot between the animation controllers  as we refine the motion. We will also  work with some variation in speed, dynamic arcs, follow through, and how to  correct address the feeling of weight for the character. During this final polish stages, we will  begin working on the core of the body, and edit that as we begin to edit and  tweak the motion of the secondary elements. To wrap things up, we will be covering a quick trick to make the animation look  more organic by using animation layers on certain parts of the character.</p><p><strong>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</strong></p><p><strong>More about the Instructor:</strong></p><p>Thiago  is a freelance character artist an animator currently located in Paris,  France. He graduated from the  University of Sao Paulo with a degree in Architect and Urban Planning, and  also attended Animation Mentor. He has  worked on various projects in recent years including some with Brain Corps  Entertainment, Ossian studios, Swordtales, and the Dota2 Workshop.</p>", 
+    "end_date": null, 
+    "title": "Learn to Animate a Quadruped Run Cycle in Maya", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/790744_5d5c.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-learn-to-animate-a-quadruped-run-cycle-in-maya/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-12T17:20:33Z"
+}

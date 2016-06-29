@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Аудио и видео конференции, обмен мгновенными сообщениями, статус доступности и вебинары прочно вошли в нашу жизнь, причем как частную, так и корпоративную. Skype for Business Server 2015 один из флагманов компании Microsoft, который весь этот функционал позволяет реализовать в рамках вашей компании. Данный курс это вводная теория и  исчерпывающая инструкция по полноценному развертыванию Skype for Business Server  в вашей организации. Шесть часов лекций от практикующего тренера, файлы для дополнительной подготовки, лабораторная работа и многое другое ждем вас на этом курсе!</p>", 
+    "end_date": null, 
+    "title": "Планирование и установка Skype for Business Server 2015", 
+    "price": "45.00", 
+    "instructors": "Илья Рудь", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/726946_abff.jpg", 
+    "course_url": "https://www.udemy.com/plan-and-deploy-skype-for-business-server-2015/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-13T15:55:41Z"
+}

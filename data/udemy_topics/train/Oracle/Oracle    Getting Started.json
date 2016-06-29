@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>Get started using the free Oracle Express Edition database, SQL Developer, and TOAD in this beginner&#039;s walkthrough.&nbsp;</p><p>Once complete, you&#039;ll have a fully functioning database and be able to connect to a sample schema, view its objects, and examine the data held within.</p><p><span>This boot camp style course gives you the very basics needed (in just under 2 hours!) to get your foot in the door - whether you&#039;re an application developer who&#039;s just been christened App DBA, or you&#039;re a report developer who&#039;d like to get your own sandbox together to play.&nbsp;</span><br style=\"\"></p><p>&nbsp;Best of all, we&#039;re using FREE tools!<br style=\"\"></p>  ", 
+    "end_date": null, 
+    "title": "Oracle :: Getting Started", 
+    "price": "40.00", 
+    "instructors": "Charles Cranfill", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/33764_fdfc_4.jpg", 
+    "course_url": "https://www.udemy.com/oracle-getting-started/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-12-28T16:02:08Z"
+}

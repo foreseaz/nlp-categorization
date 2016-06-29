@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">PHP es un lenguaje de programación para el desarrollo web</strong>, su rapidez y flexibilidad a la hora del aprendizaje lo hacen <strong class=\"redactor-inline-converted\">ideal para el desarrollador novel, intermedio y avanzado</strong>, actualmente la mayoría de los sitios web dinámicos utilizan PHP como su lenguaje de programación nativo.\n\n  </p>\n\n<p><strong class=\"redactor-inline-converted\">Aprenderás PHP desde sus fundamentos hasta lo más avanzado con videos y presentaciones en power point en explicaciones claras y sencillas de cada procedimiento</strong>, en cada procedimiento se incluyen ejemplos para que entiendas finalmente la sintaxis de <strong>PHP</strong>. \n\n  </p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">Las clases introducción están compuestas de:</strong>\n\n  </p>\n\n\n\n<p>1.       Introducción.\n\n  </p>\n\n\n\n<p>2.       Herramientas (software) a utilizar.\n\n  </p>\n\n\n\n<p>3.       Desarrollemos la primera aplicación con PHP.\n\n  </p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">Clases Fundamentos de PHP:</strong>\n\n  </p>\n\n\n\n<p>1.       Tipos de Variables en PHP.\n\n  </p>\n\n\n\n<p>2.       Como declarar Constantes en PHP.\n\n  </p>\n\n\n\n<p>3.       Variables súper globales en PHP.\n\n  </p>\n\n\n\n<p>4.       Tipos de Operadores.\n\n  </p>\n\n\n\n<p>5.       Como usar los Tipos de Operadores.\n\n  </p>\n\n\n\n<p>6.       Sentencias Condicionales.\n\n  </p>\n\n\n\n<p>7.       Tipos de Loops.\n\n  </p>\n\n\n\n<p>8.       Break y Continue en loops.\n\n  </p>\n\n\n\n<p>9.       Arrays.\n\n  </p>\n\n\n\n<p>10.   Strings.</p>", 
+    "end_date": null, 
+    "title": "Aprende PHP desde cero y sin conocimientos previos", 
+    "price": "20.00", 
+    "instructors": "Ing. Erasmo Cesar Ortuño Morales", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/850096_83b5.jpg", 
+    "course_url": "https://www.udemy.com/aprende-php-desde-cero-y-sin-conocimientos-previos/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-15T22:06:24Z"
+}

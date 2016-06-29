@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Usando uma linguagem clara com exemplos práticos, vamos construir modelos tridimensionais, criar e aplicar materiais, estudo de sombras, gerar vistas e elevações automáticas, elaborar layouts e estilo de página para apresentação do projeto, e ainda vamos criar animações.</p><p><strong>CONTEÚDO DAS AULAS</strong></p><p><strong>Interface</strong></p><p>Criando vistas de câmera. Usando cenas para criar múltiplas visões. Configurar barras de ferramentas.</p><p><strong>Desenho</strong></p><p>Linhas e arcos. Círculos e polígonos. “Pushing and pulling” faces em 3D. Formas livres.</p><p><strong>Manter-se Organizado</strong></p><p>Manter-se organizado Agrupamento de objetos. Trabalhar em camadas. Informações da entidade.</p><p><strong>Materiais e Texturas</strong></p><p>Aplicação de materiais. Edição de materiais. Criação de Materiais. Formas de mapeamento.</p><p><strong>Manipulação de Objetos</strong></p><p>Selecionar e mover. Selecionar e rotacionar. Manipular arestas e faces. Ferramentas de seleção.</p><p><strong>Medidas</strong></p><p>Medida de fita para criar orientações. Ferramenta transferidor. Criação de etiquetas. Cotas.</p><p><strong>Trabalhando com Componentes</strong></p><p>Criação de componentes. Usando o 3DWarehouse. Opções de componentes.</p><p><strong>Render e Animação</strong></p><p>Aplicando estilos. Criação de estilos. Exportando 2D e 3D. Animação Básica.</p><p><strong>Layout</strong></p><p>Paginas de apresentação.</p>", 
+    "end_date": null, 
+    "title": "SketchUp - Ferramentas & Técnicas", 
+    "price": "20.00", 
+    "instructors": "Professor e Arquiteto Jorge Avelar", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/635974_5104_2.jpg", 
+    "course_url": "https://www.udemy.com/sketchup-ferramentas-tecnicas/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Interior Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-09T16:19:34Z"
+}

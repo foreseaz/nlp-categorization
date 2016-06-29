@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>Excel formulas and functions are the heart of Microsoft Excel spreadsheet. They are essential to manipulating data and obtaining useful information from your Excel workbooks. <br><strong></strong></p><p>Without Excel formulas and functions, Excel spreadsheet would simply be a fancy word-processing document. Welcome to my <strong>Excel Formulas and Functions</strong> course.<br></p>  <p>Let’s discuss now what you will learn from this course.<br></p>  <ol><li><strong>Operators and Precedence of Operators: </strong>I will start from zero and if you don’t know about the operators and precedence of operators that Excel uses in its formulas, then it will be tough for you to decode complex Excel formulas. So I have covered them in very details.</li><li><strong>How to use built-in Excel functions: </strong>Then you will learn how to use built-in excel functions into the Excel formulas using the Insert Function and Function Arguments dialog box. <strong></strong></li><li><strong>Subtotal Function:</strong> You will find many uses of Subtotal function if you are using Excel with your finance related jobs. So this function is covered in details at the start of the course.</li><li><strong>Relative, Absolute and Mixed Cell References:</strong> You will work with these three concepts time to time when you will build excel formulas. So, they have got a good time in the course.</li><li><strong>Formulas with Tables: </strong>Understanding how formulas work with Excel tables is very important. I have used two lectures to cover Excel formulas with tables. In the second lecture, structured referencing with Excel tables has been discussed. <strong> </strong></li><li>Then you will learn how to <strong>handle circular references</strong> with Excel formulas, how <strong>named cells and ranges</strong> work with Excel formulas, and so on.</li><li><strong>Mathematical functions</strong> are very important in your daily work with finance or any kind of jobs. In this course, you will learn about SUM, AVERAGE, MAX, MIN, INT, MOD, ROUND, RAND, and RANDBETWEEN Excel functions. Counting related excel functions are also covered in this course. </li><li>Then you will work with <strong>3-D Referencing</strong> with Excel Formulas.</li><li>In Advanced Excel formulas, you will learn: <strong>IF, IFERROR, DATE </strong>related functions<strong>, Text </strong>manipulating functions, and many more.</li><li><strong>Manipulating Text using Excel Functions: </strong>There is a section where you will learn how to manipulate text using Excel formulas and functions.</li><li>Then you have worked with VLOOKUP, INDEX, and Array formulas.</li><li>And at the end of the course, you will build a <strong>professional Excel template</strong> where you will learn how to make complex Excel formulas using Excel functions.</li><li>Here is not the end of the course. Time to time, I shall add more lectures to the course that will teach you how to face real life problems using Excel formulas and functions.</li></ol>                          So, if you are interested to learn advanced Excel formulas and functions with a real life project, then this course is for you. Thanks for reading. Enjoy the course!", 
+    "end_date": null, 
+    "title": "Learn Excel Formulas & Functions + Make a Pro Excel Template", 
+    "price": "20.00", 
+    "instructors": "Excel Academy", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/690800_d134_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-microsoft-excel-formulas-and-functions-with-examples/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-07T06:20:37Z"
+}

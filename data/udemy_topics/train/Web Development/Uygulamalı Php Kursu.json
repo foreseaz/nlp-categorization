@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Kursta her seye sifirdan hic bilmeyenler icin baslayacagiz ve ileri seviyelere kadar gidecegiz .</p><p>Bu demek oluyor ki hic bir sey bilmiyor da olsaniz daha oncesinde php ile ufak programlar yazip kendinizi gelistirmeki de istiyor olsaniz bu kurs size hitab ediyor.</p><p>Kursumuz suresince ogrenecegimiz basliklar genel hatlariyla:</p><ol><li>Php dili nedir ve nasil kurulum yapariz.</li><li>Temel php.</li><li>Php ili veri tabani programlama.</li><li>Php ile soket programlama</li><li>Iki farkli veri tabani (MYSQL,SQLITE)</li><li>ileri seviye php.</li><li>nesne yonelimli php.</li><li>soap ve restfull api kullanimi.</li></ol>", 
+    "end_date": null, 
+    "title": "Uygulamalı Php Kursu", 
+    "price": "50.00", 
+    "instructors": "nikos efthias", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/657778_ed7f.jpg", 
+    "course_url": "https://www.udemy.com/uygulamali-php/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-02T14:11:09Z"
+}

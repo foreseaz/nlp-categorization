@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t        &quot;Zabbix Network Monitoring Essentials&quot; is an extensive video course  that gives a complete introduction into the key features of the  enterprise-grade Zabbix monitoring software. Learn how to set up your  own monitoring server and leverage many useful features that are hidden  in the documentation. The course starts by showing you a fresh  installation of the Zabbix server. All relevant functionality will be  explained step by step while going through the web interface.  </p>  <p style=\"\">  \t        First you&#039;ll learn how to gather information from your servers by  using the Zabbix agent. You&#039;ll then make use of triggers to define which  conditions depict actual problems and should raise an alert.  Additionally you&#039;ll learn how to visualize the items and triggers in  screens and maps.  </p>  <p style=\"\">  \t        By the end of the course you will have set up and learnt to manage a Zabbix server like a pro.  </p>  <h4><strong style=\"\">About the Author</strong></h4>  <p style=\"\">  \t        Christoph Haas is a system administrator and web application developer  with 17 years of experience in this field. He received a diploma in  Computer Science and is currently leading the IT department of a  software company in Hamburg, Germany. In his spare time he contributes to the open source community as a Debian developer or by working on websites that he is currently refactoring in Ruby on Rails. Some of the most noticeable contributions are the mail server tutorials he maintains on his website  </p>", 
+    "end_date": null, 
+    "title": "Zabbix Network Monitoring Essentials", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/338324_54b8_2.jpg", 
+    "course_url": "https://www.udemy.com/zabbix-network-monitoring-essentials/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-07T09:10:01Z"
+}

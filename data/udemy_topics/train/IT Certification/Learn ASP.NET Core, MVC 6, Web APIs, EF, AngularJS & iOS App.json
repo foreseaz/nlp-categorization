@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>* DICOUNTED PRICE FOR A LIMITED TIME ONLY</strong></p>\n\n<p>In this new course, you will learn web application development using the new completely written from scratch framework called ASP.NET Core 1.0. I've just started building this course and my near future plans are to provide you with everything you need to become a .Net Core development Guru. I'll also be uploading lectures on how to develop your ASP.Net Core Web APIs, host them in the cloud, and then consume them from iOS (Native iPhone) App using Swift, again from scratch. And this is the future of development. Join me now to take benefit of the lower price as it may go up as more lectures are uploaded in coming days. Happy Programming!<br></p>", 
+    "end_date": null, 
+    "title": "Learn ASP.NET Core, MVC 6, Web APIs, EF, AngularJS & iOS App", 
+    "price": "20.00", 
+    "instructors": "Arfan Khan", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/764626_defe_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-aspnet-core-mvc-web-apis-ef-core-bonus-ios-app/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-16T18:56:25Z"
+}

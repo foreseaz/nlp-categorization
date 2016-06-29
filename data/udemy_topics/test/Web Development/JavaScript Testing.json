@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">In this course you&#039;ll learn how to write JavaScript applications with confidence, using the red-green-refactor workflow. You&#039;ll write comprehensive suites of tests that validate your application is functioning as intended at all times.</p><p style=\"\">You&#039;ll start by exploring how other industries use a variety of tests and the value it provides. You&#039;ll then start writing your very own tests, using the Jasmine testing framework. Finally, you&#039;ll start developing your very own address book application using the red-green-refactor workflow and explore a variety of scenarios including testing asynchronous functions.</p><p style=\"\">As your applications become more complex and you continue adding new features, you need to verify your additions haven&#039;t introduced bugs to your existing functionality. Automated testing provides this functionality and allows you to focus on.</p><p style=\"\">This course consists of 2 lessons. In the first lesson, you&#039;ll discover the importance of testing and reconsider its purpose and the value it provides. In the second lesson, you&#039;ll explore the Jasmine testing framework write your own test suites while developing an address book application.</p>", 
+    "end_date": null, 
+    "title": "JavaScript Testing", 
+    "price": "20.00", 
+    "instructors": "Samarth Paboowal", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/581062_34aa.jpg", 
+    "course_url": "https://www.udemy.com/javascript-testing/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-12T12:37:58Z"
+}

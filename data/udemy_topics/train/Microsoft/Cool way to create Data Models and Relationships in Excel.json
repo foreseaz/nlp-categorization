@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>This course enables you to develop your own data models to gather accurate, complete and timely reports from your enterprise system. Whether you are new to Excel or an advanced user, Grey Campus Power course will cover what you need to know to become a Power BI User.</p><p>In this course, we will cover the various topics about the power BI which includes:</p><ul><li>How to publish Excel Spreadsheets using SharePoint</li><li>ER diagrams</li><li>Designing a layout for Excel based data model</li><li>How to use a Power Query to create data models</li><li>Power Pivot, design and manage the newly built data model</li><li>Develop Interactive Dashboards using Power Views</li></ul><p>Each and every topic mentioned above are explained in detail in the Hands-on videos. Excercises and datasets included in this course are useful to practice and implement the concepts learned in this course.</p><p>This course is  is intended for the analysts and business users who are willing to explore the Power BI tools present in Microsoft Excel 2013. This training is best suited for all business professionals: data analysts, developers, IT professionals, project leads, and project managers.<br></p>", 
+    "end_date": null, 
+    "title": "Cool way to create Data Models and Relationships in Excel", 
+    "price": "20.00", 
+    "instructors": "GreyCampus Inc.", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/667656_5e70_2.jpg", 
+    "course_url": "https://www.udemy.com/cool-way-to-create-data-models-and-relationships-in-excel/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-12T08:56:04Z"
+}

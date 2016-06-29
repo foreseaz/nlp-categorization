@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Ein optimaler Einführungskurs in die Funktionsweise von SAP ERP. Dieser Kurs gibt einen Einblick in die SAP Terminologie und dessen Aufbau. Ein umfassender und grundlegender Überblick der wichtigsten Module hilft dabei, den SAP Dschungel zu durchblicken.</p><p>Die Lektionen bauen aufeinander auf und fangen auf einfachstem Grundniveau an. Somit sind keinerlei Vorkenntnisse notwendig. Zu jeder Lektion gibt es eine allgemeine theoretische Einführung. Im Anschluss werden Anwendungsbeispiele in SAP direkt im System gezeigt.</p><p>Nach Abschluss des Kurses sind sowohl ein grundlegendes Verständnis für das SAP System als auch eigenständige Navigation und Transaktionen sicher. <br></p>", 
+    "end_date": null, 
+    "title": "SAP ERP: Eine anwendungsorientierte Einführung", 
+    "price": "25.00", 
+    "instructors": "Sandra Schubring", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/722684_0705_2.jpg", 
+    "course_url": "https://www.udemy.com/sap-erp-eine-anwendungsorientierte-einfuhrung/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-10T11:18:43Z"
+}

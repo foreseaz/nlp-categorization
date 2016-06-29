@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Günümüzde mobil cihazların gelişmesi ile, mobil cihazlar için özelleştirilmiş içerik geliştirmek önem kazanmıştır.  </p>  <p>  \t  Bu alanda birçok programlama dili kullanılabilmektedir. Html5 ve javascript kullanarak, neredeyse tüm platformlarda çalışabilen içerikler oluşturmak mümkün olmaktadır.  </p>  <p>  \t  Bu açıdan mobil cihazlar için içerik geliştirmede html platformu tartışmasız bir öneme sahiptir. Bu eğitim içerisinde,  </p>  <p>  \t  Jquery Mobile kütüphanesini kullanarak mobil cihazlar için nasıl uygulama oluşturulur konusuna bir giriş yapılacaktır.  </p>  <ul style=\"\">  \t<li>Dreamweaver ile çalışmak</li>  \t<li>Mobile içerik yapısı</li>  \t<li>JQuery mobile ile çalışmak ve içerik oluşturmak</li>  \t<li>Mobile sayfalar oluşturmak ve yönetmek</li>  \t<li>İçerikleri yönetmek</li>  \t<li>Çoklu sayfa yapısını anlamak</li>  \t<li>Tam ekran araçları</li>  \t<li>Dinamik button ve özel simge</li>  \t<li>Liste işlemleri ve ThemeRoller</li>  \t<li>Canvas ile 2d çizim konularını temel olarak kapsamaktadır.</li>  </ul>", 
+    "end_date": null, 
+    "title": "JQuery Mobile ile Mobil Taraflı İçerik Geliştirmeye Başlayın", 
+    "price": "20.00", 
+    "instructors": "Ersin Sengul", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/373910_a61f_3.jpg", 
+    "course_url": "https://www.udemy.com/jquery-mobile-ile-mobil-tarafli-icerik-gelistirmeye-baslayin/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-19T13:26:28Z"
+}

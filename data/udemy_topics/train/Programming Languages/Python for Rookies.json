@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tYou should learn this language! Python is one of the fastest growing languages, it&#039;s even renowned as the language of the decade. You can use Python on any operating system to build whatever you like, including but not limited to GUI Applications, Web Applications, and Console Applications.  </p>  <p>  \tI&#039;ll teach you how this seemingly strange language is actually quite simple. We cover the fundamentals to writing Python code from Syntax, Datatypes, Operators, and Looping. We&#039;ll even take a look into 3rd party package management!  </p>", 
+    "end_date": null, 
+    "title": "Python for Rookies", 
+    "price": "30.00", 
+    "instructors": "Jesse Boyer", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/64851_a6a5_7.jpg", 
+    "course_url": "https://www.udemy.com/python-for-rookies/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-07-10T23:45:30Z"
+}

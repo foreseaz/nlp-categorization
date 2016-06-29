@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Student Warning: </strong>Even though this is a beginners class it's fast paced and will require some outside study on your part. </p><p>I've included <strong>4 different preview lessons</strong> so you could better gauge the speed of the course. <strong>Please</strong> take a moment to <strong>preview</strong> all of them. If those lessons are too fast then please take this course after you've taken my entry level courses. Thanks.... Mike </p><p><strong>Recent Unsolicited Testimonials</strong></p>  <p><strong>“Learned lots from this well constructed and easy to follow course - thanks Mike!” – </strong>Caroline<strong></strong></p>  <p><strong>“Feel much more confident in MSSQL now. Thanks!” </strong>Jef Yo<strong></strong></p>  <p><strong>“This short course is excellent and will give you a good understanding of the basics in SQL server administration.” </strong>Luke Dunn<strong></strong></p>  <p>In this course we are going to delve into the <strong>Query Optimizer</strong>, easily one of the most <strong>complicated</strong> pieces of software ever written. </p>  <p>The Query Optimizer is the SQL Server component that tries to give you an <strong>optimal execution plan</strong> for your queries. The Query Optimizer tries to find that execution plan as quickly as possible. <strong>Not</strong> the <strong>perfect plan</strong> but a <strong>good one</strong>. </p>  <p>The SQL Server Query Optimizer is a <strong>cost-based optimizer</strong>. It analyzes a number of execution plans for a given query, <strong>estimates</strong> the cost of each of these plans, and chooses the plan with the <strong>lowest cost.</strong> </p>  <p>The <strong>optimizer</strong> seeks to find <strong>balance</strong> between the <strong>optimization time</strong> and the <strong>quality</strong> of the selected plan.</p>  <p>The <strong>course</strong> will be a <strong>balance</strong> of hands on <strong>query performance tuning </strong>and understanding the basics of the optimizer’s architecture. </p>  <p>We are going to learn about the <strong>execution engine</strong>, statistics and cost estimation, index selection and the optimization process. </p>  <p>At the <strong>core</strong> of the SQL Server Database Engine are <strong>two major</strong> components: the <strong>storage engine</strong> and the <strong>query processor</strong> also called the <strong>relational engine.</strong> </p>  <p>In this course our sole focus  will be on the <strong>query processor</strong>.  This part of the engine accepts all queries submitted to SQL Server and creates a plan for optimal execution. </p>  <p>See you in the course!!!</p>", 
+    "end_date": null, 
+    "title": "Mastering the Basics of SQL Server Query Optimization", 
+    "price": "20.00", 
+    "instructors": "Mike West", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/727210_0ab8.jpg", 
+    "course_url": "https://www.udemy.com/mastering-the-basics-of-sql-server-query-optimization/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-13T19:35:32Z"
+}

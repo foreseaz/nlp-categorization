@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    Learn what it takes to become a data scientist.\n\nThis is the first stop in the Data Science curriculum from Microsoft. It will help you get started with the program, plan your learning schedule, and connect with fellow students and teaching assistants. Along the way, you’ll get an introduction to working with and exploring data using a variety of visualization, analytical, and statistical techniques.\n\n                                    ", 
+    "end_date": null, 
+    "title": "DAT101x: Data Science Orientation", 
+    "price": 0, 
+    "instructors": "Graeme Malcolm and Liberty J. Munson", 
+    "institution_name": [
+        "Microsoft"
+    ], 
+    "commitment": "2-4 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/data-science-orientation-microsoft-dat101x", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-05-16T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t   This video course provides invaluable insight into the practical usefulness of CoffeeScript, how it can simplify web development, and allow us to easily build web applications or re-factor existing ones.  </p>  <p>  \t      From getting acquainted with CoffeeScript all the way to using it in production, this course focuses on the practical aspects of the language. You’ll get to see all it offers, such as the simplified syntax compared to JavaScript, the impressive build tools, and the possibilities to simplify your project structure.  </p>  <p>  \t      You&#039;ll build an application while learning the specifics of the language and the many tricks CoffeeScript has up its sleeve. You will use JavaScript libraries to avoid ‘reinventing the wheel’, while inventing some wheels of our own in order to better understand some advanced concepts . We&#039;ll go through a really simple MVC framework that provides the basis of a simple document editing application that can export documents to the desktop (from the Web).  </p>  <p>  \t      The app we’ll be building is fully extensible so you can easily make it your own. Want a note-taking app? We have you covered. Want to extend the app to something more? By all means, you&#039;ll have a skeleton app which you can revamp again and again to build various apps with CoffeeScript.  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t<strong style=\"\">Darko</strong> is a developer who likes to work on the experimental side of things and enjoys exploring programming in its various shapes and sizes. His current favorite is CoffeeScript, which he uses day-to-day, both on client and server-side via nodejs.  </p>  <p>  \t  He is employed at MediaLab, a company working with various types of media, while taking part in different projects. His current obsession is functional programming, especially combinators and their practical usage.  </p>", 
+    "end_date": null, 
+    "title": "Building an Application with CoffeeScript", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/340458_8017_2.jpg", 
+    "course_url": "https://www.udemy.com/building-an-application-with-coffeescript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-10T11:12:40Z"
+}

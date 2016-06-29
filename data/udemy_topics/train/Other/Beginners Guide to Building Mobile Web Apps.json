@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">In this Beginners Guide to Building Mobile Web Apps, expert authors Chris Minnick and Eva Holland will teach you how to create mobile web apps that will be able to run on multiple mobile device operating systems. This course is designed for the absolute beginner, meaning no web development experience is required.<br style=\"\"><br style=\"\">You will start by learning about the three types of mobile apps, then jump into learning how to design an app. Throughout the course, you will be working on designing, developing, and deploying a mobile ToDo list app. Minnick and Holland will teach you how to prototype the ToDo app, then show you how to set up your development environment. This video tutorial will also cover HTML5, how to style with CSS3, how to use JavaScript and jQuery, and how to create an app with jQuery Mobile. Finally, you will learn about mobile optimization techniques, as well as how to deploy your app and upload it to the web.<br style=\"\"><br style=\"\">Once you have completed this computer based training course, you will be fully capable of creating your own mobile web app. Working files are included, allowing you to follow along with the authors throughout the lessons.<br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Beginners Guide to Building Mobile Web Apps", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/469190_0386_6.jpg", 
+    "course_url": "https://www.udemy.com/beginners-guide-to-building-mobile-web-apps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-06T18:00:44Z"
+}

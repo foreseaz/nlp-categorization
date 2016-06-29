@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t     This course will give you a solid understanding of what Sass is and how to use it to easily produce and manage your project&#039;s css files.  </p>  <p>  \t     During this course we will cover the most commonly used features of Sass and see how they can help to create the optimised stylesheets with just a few lines of code.  </p>  <p>  \t     We will complete the course by creating the set of buttons ready to use with any future project - changing colours, sizes and shapes with a simple change of the value assigned to a relevant variable.  </p>  <p>  \t     This course is suitable for those with the good understanding of Css and who want to learn how to reduce the time creating and easily manage their css files.  </p>  <h5>Update</h5>  <p>  \tThe Font-Awesome is now available at the following location: <a href=\"http://fontawesome.io/\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\">http://fontawesome.io/</a>. And in order to add icon to the &#039;i&#039; element use the class in the following way:  </p>  <p>  \t<strong><em class=\"&quot;fa\">&lt;/&gt;</strong>  </p>", 
+    "end_date": null, 
+    "title": "Easy CSS with Sass", 
+    "price": "50.00", 
+    "instructors": "Sebastian Sulinski", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/91434_1449_15.jpg", 
+    "course_url": "https://www.udemy.com/sass-css/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-12T08:35:42Z"
+}

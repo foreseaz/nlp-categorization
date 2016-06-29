@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t<em style=\"\"><strong style=\"\">Update Feb. 2015</strong>: A new Section is in preparation, recreating the basic shape of a &quot;Shell House&quot;. This will be available for all student members, so join the course now before the price is increased to $69.</em>  </p>  <p>  \t  This is a basic introduction and overview of modelling complex 3D Freeform shapes in the context of architectural design.  </p>  <p>  \t  Have you ever wondered how certain architectural designs are actually created? You might assume that it is helped by software, but which system is suited for this? In regular CAD software that architects often use, such as AutoCAD or SketchUp, the creation of organic models and surfaces is hard to impossible.  </p>  <p>  \t  We use Rhinoceros, a quite popular NURBS modelling software for McNeel. This is very popular within several innovative architectural offices where it is used for complex forms, organic architecture and extensive tweaking of 3D models. The software can also be used complementary to other architectural design software, although it is quite complete in itself.  </p>  <p>  \t  The course starts with a basic introduction and overview of the software and then a few example projects are developed. They are inspired by famous and iconic architectural projects, but are not full reconstruction. We use the examples to inspire you and focus on a certain part of element which we will strip down to the basic geometric operations, giving you insight in how to approach more complex projects.  </p>  <p>  \t  You don’t need any other software then Rhinoceros, on Windows or OSX, but be ready to try and fail, often. As many modelling tasks require a specific order of operations. We cannot prepare a solution for every possible task, but by building upon a few basic examples, you learn an approach which focuses on dividing the task at hand into smaller problems, that are easier to tackle. And these can then be applied in other situations.  </p>  <p>  \t  So come join us and learn the basics of 3D Freeform Modelling with Rhinoceros.  </p>", 
+    "end_date": null, 
+    "title": "Model complex 3D architectural geometry with Rhinoceros", 
+    "price": "30.00", 
+    "instructors": "Stefan Boeykens", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/404192_931d_2.jpg", 
+    "course_url": "https://www.udemy.com/model-complex-3d-architectural-geometry-with-rhinoceros/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-26T08:23:36Z"
+}

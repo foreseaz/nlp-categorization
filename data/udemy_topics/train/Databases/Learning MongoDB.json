@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Businesses now have access to more data than ever before, and a key challenge is how to ensure that data can be easily accessed and used efficiently. MongoDB makes it possible to store and process large sets of data in ways that drive up business value. The flexibility of unstructured storage, combined with robust querying and post processing functionality, make MongoDB a compelling solution for enterprise big data needs.</p><p style=\"\">Learning MongoDB will show you how to install, configure, and secure MongoDB to meet the demands of modern enterprise data systems. You will quickly master data management, queries, post processing, and essential enterprise redundancy requirements to achieve high availability and fast response times.</p><p style=\"\">The course begins with installation instructions and moves on to the essential features, covering advanced data manipulation and high availability. Then, topics such as backup and recovery are covered. Advanced data analysis is demonstrated using both MapReduce and the MongoDB aggregation framework with clear diagrams and examples.</p><p style=\"\">As we move to the end of the course, we delve into SSL security and programmatic access using various languages. You&#039;ll also learn about MongoDB&#039;s built-in redundancy and scale features, replica sets, and sharding.</p><p style=\"\">This video course will take you on a journey from all the downright basics of MongoDB to the deployment of a reliable, secure, and enterprise-ready big data solution.</p><p style=\"\"><strong style=\"\">About the Author</strong></p><p style=\"\"><strong style=\"\">Daniel Watrous</strong> is a 15-year veteran of designing web-enabled software. His focus on data store technologies spans relational databases, caching systems, and contemporary NoSQL stores. For the last six years, he has designed and deployed enterprise-scale MongoDB solutions in semiconductor manufacturing and information technology companies. He holds a degree in electrical engineering from the University of Utah, focusing on semiconductor physics and optoelectronics. He also completed an MBA from the Northwest Nazarene University. In his current position as senior cloud architect with Hewlett Packard, he focuses on highly scalable cloud-native software systems. He also owns a small software company and actively documents much of his work on his site.<br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Learning MongoDB", 
+    "price": "35.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/470672_1332_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-mongodb2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-08T09:26:04Z"
+}

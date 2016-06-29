@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\">  \t This quite hands-on course is designed to introduce you to the basics of using SAS programming for your analytics work.  </p>  <p style=\"\">  \t Starting with the basics of how SAS works and how it processes data, this course will build up your knowledge of SAS programming to the point where you will be able to use SAS to solve real life data and statistical analysis problems.  </p>  <p style=\"\">  \t There are 4 main sections in this course:  </p>  <ul style=\"\">  \t<p style=\"\">  \t\t ·Introduction to SAS and SAS Enterprise Guide : just to get you going  \t</p>  \t<p style=\"\">  \t\t ·Getting Started : Let´s cover the basics first to make sure you have a solid foundation  \t</p>  \t<p style=\"\">  \t\t ·SAS programming fundamentals: The Ins &amp; Outs of how the SAS language works and how you can use it to carry out a multitude of  tasks  \t</p>  \t<p style=\"\">  \t\t ·Using SAS for Statistics and Analytics: Some examples ranging from frequency analysis all the way to regression  \t</p>  </ul>  <p style=\"\">  \t This course is taught by a practitioner with many years of experience in SAS programming and analytics. The examples are derived from real world problems and during this course you will be exposed to many real life tips and advice on how to maximise the power of SAS  </p>", 
+    "end_date": null, 
+    "title": "SAS programming for analytics", 
+    "price": "50.00", 
+    "instructors": "Daniel  Marques", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/175028_263d_6.jpg", 
+    "course_url": "https://www.udemy.com/sas-programming-for-analytics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-01T22:45:57Z"
+}

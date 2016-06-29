@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>Welcome to the first community built BItcoin course! This course serves as a central point of introduction to Bitcoin for anyone interested. It assumes no special skills or knowledge nor experience in computer science. All are welcome and the course shall forever be free under a creative commons license.</p>    <p>The course is divided into several sections. The Core Lecture Path serves as a comprehensive introduction for beginners on all relevant topics necessary to have a deep understanding of Bitcoin including why Bitcoins have value, why they can be used for anonymous transactions, the current economy of Bitcoins, how they are made and distributed as well as speculation.</p>    <p>The bonus lecture path addresses specific questions students have asked and are not necessary for to satisfy the goals of the course. Feel free to request a bonus lecture at any time!  Finally, there are dedicated tracks for more in-depth analysis of the theoretical concepts of Bitcoin alongside the software that makes makes Bitcoin work well.</p>     <br>  <span>Bitcoin or How I Learned to Stop Worrying and Love Crypto</span> by Charles Hoskinson is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.   <p><br></p>", 
+    "end_date": null, 
+    "title": "Bitcoin or How I Learned to Stop Worrying and Love Crypto", 
+    "price": 0, 
+    "instructors": "Charles Hoskinson, Brian Göss", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/49798_39c2_9.jpg", 
+    "course_url": "https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-04-15T02:40:29Z"
+}

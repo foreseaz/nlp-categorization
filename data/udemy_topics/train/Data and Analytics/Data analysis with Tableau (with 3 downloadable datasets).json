@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p><strong>In this course I will make all of the datasets publicly available to encourage students to walk through the actual analysis with me! Links to each set will be provided at the beginning of each section (**links to the datasets are located in lectures 3, 7, and 11**)</strong></p><p>Tableau is a rapidly growing data visualization and analysis software application. Developing this skill set early will give you a differentiated advantage in searching for jobs and displaying data you may currently work with.</p><p>This Tableau course is meant for anyone looking to get an overview displaying the software's capability. I will be working with different types of data to show you when and how to use the different views Tableau offers, including Maps, Parameters, Calculated Fields, Bar Charts, Line Charts, and Tables (with heat map variations). I will walk through 3 separate analyses using different data sources to highlight the software's functionality.</p>", 
+    "end_date": null, 
+    "title": "Data analysis with Tableau (with 3 downloadable datasets)", 
+    "price": "20.00", 
+    "instructors": "Erik Rood", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/630578_a1b2_2.jpg", 
+    "course_url": "https://www.udemy.com/tableauwithme/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-04T17:30:56Z"
+}

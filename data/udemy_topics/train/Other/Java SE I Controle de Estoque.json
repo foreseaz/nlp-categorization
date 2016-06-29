@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">111 videoaulas gratuitas de Java SE I. Esse é meu primeiro curso de Java desktop, nele, você vai ter uma introdução ao Java (são muitos vídeos explicando o que é Java, seus principais comandos (if,switch, for, while etc), operadores, criando formulários no Braço, enfim. Você ir conhecer o NetBeans e vai criar projetos, arquivos, Menus, inser botões, lidando com o tamanho do form etc. Veja também:</p><ul style=\"\"><li style=\"\">Também aprenda a criar aplicações com o Eclipse</li><li style=\"\">Conexão com vários banco de dados (efetuando a conexão (toda orientada a objetos), criando métodos</li><li style=\"\">Lidando com Pacotes (package), importando bibliotecas, criando classes pai</li><li style=\"\">Threads, data, hora, look and feel (instalação e uso de vários layouts)</li><li style=\"\">Tudo o que você precisa saber sobre um formulário conectando com banco de dados (mostrando os dados na tela, inserindo dados, excluindo, pesquisando de diversas formas, listando em um JTable, ordenando, inserindo foto, Máscaras nos campos..</li><li style=\"\">Criando relatórios com ireport</li><li style=\"\">É maior coletânea de informações em vídeo aulas de Java no Brasil</li></ul><p style=\"\">Acompanha este curso</p><ol style=\"\"><li style=\"\">Todos os códigos Fontes</li><li style=\"\">Instalador do NetBeans + Eclipse</li><li style=\"\">Instalador do gerador de relatórios Ireport</li></ol>", 
+    "end_date": null, 
+    "title": "Java SE I Controle de Estoque", 
+    "price": "30.00", 
+    "instructors": "Neri Neitzke", 
+    "commitment": "18 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/146532_1d97_4.jpg", 
+    "course_url": "https://www.udemy.com/java-se-i-controle-de-estoque-gratuito/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-14T00:01:37Z"
+}

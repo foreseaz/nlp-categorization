@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\">Course Description</strong></p><p style=\"\">Learn the basics and create a simple Ruby on Rails Application in one hour.</p><p style=\"\"><strong style=\"\">Learn the Foundations to Creating a Rails App</strong></p><ul style=\"\"><li style=\"\">Creating Pages</li><li style=\"\">Installing Gems</li><li style=\"\">Creating a Database</li><li style=\"\">Using online tools (Bootstrap) to easily add content</li><li style=\"\">Add Links</li></ul><p style=\"\"><strong style=\"\">The Best Web development Framework Out There</strong></p><p style=\"\">Ruby on Rails has become one of the most used and well known web development frame works. Creating websites are so simple that you can easily give your prototype to a developer and there wouldn&#039;t be much of a problem for them to easily take over and continue modifying it. Or just create it and lauch it from your own sever.</p><p style=\"\"><strong style=\"\">Course Overview</strong></p><p style=\"\">If you are an entrepreneur or someone who wants to make a simple website for an idea but don&#039;t want to get too deep into programming this is for you. After this course you will be able to create your own prototype website. If you are a beginner this is a great way to practice some of the basics.<br style=\"\"></p><p style=\"\"><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Ruby on Rails for Beginners/Entrepreneurs/Non Programers", 
+    "price": "20.00", 
+    "instructors": "Jemond Patterson", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/453708_90f5_3.jpg", 
+    "course_url": "https://www.udemy.com/ruby-rails-4-begin-entrepre-nonprogram/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-22T08:56:36Z"
+}

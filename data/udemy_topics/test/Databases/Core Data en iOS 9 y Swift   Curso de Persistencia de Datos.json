@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>¿Necesitas aprender a guardar datos de manera persistente en iOS? y te has hecho las siguientes preguntas:<br></p>\n\n<ul><li>¿Es Core Data una base de datos ? </li><li>¿Es Core Data , SQLite para iOS ?</li><li>¿Los NSUserDefaults son suficientes para guardar mis datos?</li><li>¿Existe SQLite en iOS?</li><li>¿Que opciones tengo para guardar datos de manera persistente en iOS con swift?</li></ul>\n\n\n\n<p>Si en el pasado te has formulado alguna de estas preguntas, ¡quiero decirte que te comprendo! ya que personalmente batalle mucho al momento en que se me asigno un proyecto donde se requería tener una base de datos en iOS y no sabia ni por donde comenzar.</p>\n\n\n\n<p>El curso fue creado con el propósito de ayudar a todo aquel que va iniciando en el mundo de iOS con Swift y que requiere de usar tecnologías como Core Data , NSUserDefaults y SQLite para guardar datos de manera persistente en las apps.</p>\n\n\n\n<p>Recuerda que:<br></p>\n\n<ul><li>¡Este curso cuenta con <strong>Garantía</strong> del 100% de devolución de tu inversión por 30 días!, da <em><strong>clic en tomar el curso</strong></em> ahora mismo y si no es lo que esperabas Udemy te devuelve tu dinero.</li><li>Este curso no es para personas que nunca han programado, este curso es para personas que tienen bases en programación con Swift y buscan aprender a usar tecnologías de persistencia de datos en iOS.</li></ul>\n\n<p>Muchas gracias  : )</p>", 
+    "end_date": null, 
+    "title": "Core Data en iOS 9 y Swift | Curso de Persistencia de Datos ", 
+    "price": "20.00", 
+    "instructors": "Juan Villalvazo", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/393454_1780_2.jpg", 
+    "course_url": "https://www.udemy.com/persistencia-base-datos-ios-swift-core-data-sqlite/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-13T22:56:08Z"
+}

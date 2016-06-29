@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t Have you ever wondered how Udemy created their great file uploader for instructors? This course shows you how to build your own file uploader with the advanced feature of drag and drop uploading.  </p>  <p>  \t In this course you will learn how to set up your upload server, set the style of your upload page, display an upload progress bar, and write the JavaScript code to make it all come together.  </p>  <p>  \t<strong style=\"\">Technical Description</strong>  </p>  <p>  \tCreate a multiple file uploader using the HTML5 Drag &amp; Drop API, with a multiple file selection if not supported. You&#039;ll create a reusable JavaScript AJAX uploader that works with any backend language that can upload files and output JSON, although we&#039;ll be using PHP here. Finally, we&#039;ll pull this all together by using the reusable uploader code to output which files have been uploaded and which ones failed.  </p>  <p>  \t<strong style=\"\">Technologies and Languages Used</strong>  </p>  <ul style=\"\">  \t<li>PHP </li>  \t<li>JavaScript</li>  \t<li>AJAX</li>  \t<li>CSS</li>  \t<li>HTML5</li>  </ul>  <p>  \t<strong style=\"\">Real World Uses</strong>  </p>  <p>  \t This file uploader can be used in creating an online learning platform like Udemy or on any other type of website in which file uploads are important. Learning this skill we keep you head and shoulders above the rest of the web dev flock.  </p>", 
+    "end_date": null, 
+    "title": "Create a Drag & Drop File Uploader For Websites", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/217418_5c4e_3.jpg", 
+    "course_url": "https://www.udemy.com/create-a-udemy-style-drag-drop-file-uploader-for-websites/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-13T15:59:05Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p><strong>Taught by</strong> a Stanford-educated, ex-Googler and an IIT, IIM - educated ex-Flipkart lead analyst. This team has decades of practical experience in quant trading, analytics and e-commerce. <br></p>\n\n<p><em><strong>This course is a gentle yet thorough introduction to Data Science, Statistics and R using real life examples. </strong></em></p>\n\n<p>Let’s parse that.<br></p>\n\n\n\n<p><strong>Gentle, yet thorough: </strong>This course does not require a prior quantitative or mathematics background. It starts by introducing basic concepts such as the mean, median etc and eventually covers all aspects of an analytics (or) data science career from analysing and preparing raw data to visualising your findings. <br></p>\n\n<p><strong>Data Science, Statistics and R: </strong>This course is an introduction to Data Science and Statistics using the R programming language. It covers both the theoretical aspects of Statistical concepts and the practical implementation using R. <br></p>\n\n<p><strong>Real life examples: </strong>Every concept is explained with the help of examples, case studies and source code in R wherever necessary. The examples cover a wide array of topics and range from A/B testing in an Internet company context to the Capital Asset Pricing Model in a quant finance context. <br></p>\n\n<p><strong>What's Covered:</strong></p><p><em><strong>Data Analysis with R: </strong></em>Datatypes and Data structures in R, Vectors, Arrays, Matrices, Lists, Data Frames, Reading data from files, Aggregating, Sorting &amp; Merging Data Frames<br></p>\n\n<p><strong><em>Linear Regression: </em></strong>Regression, Simple Linear Regression in Excel, Simple Linear Regression in R, Multiple Linear Regression in R, Categorical variables in regression, Robust regression, Parsing regression diagnostic plots</p>\n\n<p><em><strong>Data Visualization in R</strong>: </em>Line plot, Scatter plot, Bar plot, Histogram, Scatterplot matrix, Heat map, Packages for Data Visualisation : Rcolorbrewer, ggplot2<br></p><p><em><strong>Descriptive Statistics: </strong></em>Mean, Median, Mode, IQR, Standard Deviation, Frequency Distributions, Histograms, Boxplots</p>\n\n<p><strong><em>Inferential Statistics: </em></strong>Random Variables, Probability Distributions, Uniform Distribution, Normal Distribution, Sampling, Sampling Distribution, Hypothesis testing, Test statistic, Test of significance</p><p><br></p>\n\n<p><strong></strong></p>\n\n<p><strong></strong></p><strong>\n\n<p><strong>Mail us about anything - anything! - and we will always reply :-)<br></strong></p></strong>", 
+    "end_date": null, 
+    "title": "Learn By Example: Statistics and Data Science in R", 
+    "price": "20.00", 
+    "instructors": "Loony Corn", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/783694_3216_2.jpg", 
+    "course_url": "https://www.udemy.com/statistics-and-data-science-in-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-06T04:04:58Z"
+}

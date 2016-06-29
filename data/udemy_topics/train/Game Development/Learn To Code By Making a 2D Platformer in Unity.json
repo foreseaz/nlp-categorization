@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Learn how to create your very own platformer game using Unity3D, an industry-standard program used by many large gaming studios and indie developers across the world.</strong> </p>  <p>In this course you won’t just be learning programming concepts, but <strong>tying these concepts to real game development uses</strong>. You will have access to a course forum where you can discuss the topics covered in the course as well as the next steps to take once the course is complete.</p><p>This course has been designed to be easily understandable to <strong>everyone</strong>, so whether you’re a <strong>complete beginner</strong>, an <strong>artist</strong> looking to expand their game development range or a <strong>programmer</strong> interested in understanding game design, this course will help you gain a greater understanding of development.<br></p>  <p>At the end of this course you will have developed the ability to create such game elements as:</p>  <ul><li>A character to control</li><li>Collectibles such as coins, extra lives &amp; extra health</li><li>Different types of enemies to combat</li><li>Dangers such as Spikes, Saws &amp; moving platforms</li><li>User Interface with interactive menus</li><li>Multiple levels and a level select screen</li><li>A unique and challenging boss battle</li></ul>              <p><strong><br></strong></p><p><strong>Start learning today and let me help you become a game developer!</strong><br></p>", 
+    "end_date": null, 
+    "title": "Learn To Code By Making a 2D Platformer in Unity", 
+    "price": "45.00", 
+    "instructors": "James Doyle", 
+    "commitment": "13 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/775550_453b_3.jpg", 
+    "course_url": "https://www.udemy.com/unity2dplatformer/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-26T22:10:28Z"
+}

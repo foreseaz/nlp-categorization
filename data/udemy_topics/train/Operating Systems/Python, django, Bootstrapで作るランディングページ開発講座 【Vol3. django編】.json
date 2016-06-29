@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>※このコースはベネッセコーポレーションと株式会社SharewisのサービスACTが提携し、配信しております。</p><p>※本コースは「Python, django, Bootstrapで作るランディングページ開発講座 【まとめパック】」よりdjango, Bootstrap部分を抜粋してご提供しておりますのでご注意ください。</p><p style=\"\">Macターミナル、Pythonの基礎からまなびたいという方は【まとめパック】のご受講をお勧めします。</p><p><strong style=\"\"></strong><strong style=\"\">djangoでWebページをつくってみよう</strong></p><p style=\"\">djangoではじめてのWebページをつくろう講座は、Pythonのフレームワークdjangoに全く触れたことのない初学者の方が、djangoの基本を理解し、実際のランディングページを作成していくカリキュラムになっています。</p><strong style=\"\">このコースで学べること</strong><p style=\"\">djangoの基本を学びランディングページを作ることができます。「プログラミングははじめて」という方も安心できる内容です<strong style=\"\"></strong></p><p style=\"\">合計で４５分です。</p><p style=\"\">コースは入門編になりますので、初心者の方、全く知識がない方でも始められます。このカリキュラムで学べばこれからの応用にも対応できる内容です。</p><p>djangoの基礎を学んで、プログラミングスキルを身につけましょう！</p><p>本コースとPythonの基礎コース等がセットになった、お得なコースもございますので、Pythonの基礎も合わせて学びたい方は、セットコースの受講をオススメします。</p>", 
+    "end_date": null, 
+    "title": "Python, django, Bootstrapで作るランディングページ開発講座 【Vol3. django編】", 
+    "price": "20.00", 
+    "instructors": "ACT （アクト）, Benesse Corporation", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/476740_6a96_2.jpg", 
+    "course_url": "https://www.udemy.com/djangoweb-biggner/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-15T04:47:28Z"
+}

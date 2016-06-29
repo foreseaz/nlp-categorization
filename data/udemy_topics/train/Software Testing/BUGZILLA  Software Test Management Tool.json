@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Bugzilla is an extremely popular, browser based, full featured Bug Tracking and Testing tool. It is used in thousands of installations around the world - from small software shops to some of the world&#039;s largest and most popular software products including <strong style=\"\">MOZILLA FIREFOX, Apache server, LINUX Kernel </strong>to just name a few.<strong style=\"\"></strong></p><p style=\"\"><strong style=\"\">Learn and </strong><strong style=\"\">Master Bugzilla to build a WORLD CLASS defect tracking system for your organization and team. </strong></p><ol style=\"\"><li style=\"\"><strong style=\"\"></strong>Increase your team&#039;s productivity by controlling bugs super-effectively</li><li style=\"\">Reduce product downtime - manage each and every bug in the system</li><li style=\"\">Raise customer satisfaction - empower them with a world class Bug Tracking</li><li style=\"\">Improve communications - use Bugzilla as your most powerful Project Management tool</li></ol><p style=\"\"><strong style=\"\">Bugzilla: The FREE Testing Tool used on the World&#039;s most used Software Products</strong></p><p style=\"\">Bugzilla is used by both Microsoft Tech based companies and Open Source companies alike - product companies or services or consulting firms - have benefited from the robust, scalable and no-frills Bugzilla. </p><p style=\"\"><strong style=\"\">Course Overview and Contents</strong></p><ol style=\"\"><li style=\"\">Start with a gentle introduction to Bugzilla and learn what it can do for you</li><li style=\"\">Learn how to create user accounts for yourself and your team</li><li style=\"\">Understand the PHILOSOPHY of Bugzilla - learning about the Anatomy of a Bug </li><li style=\"\">See and learn the life cycle of  a bug in Bugzilla. Understand the major and minor workflows</li><li style=\"\">Learn how to report a bug like a world class testing professional</li><li style=\"\">Get a printable &quot;Bug Writing Guidelines&quot; - and share it with your entire team</li><li style=\"\">BONUS: Get PRO level Bugzilla Tips and Tricks - learn some advanced usages</li></ol><p style=\"\"></p><p style=\"\"><em style=\"\">Upon completing this course, you will be able to use Bugzilla as a powerful tool in quality assurance and project management for your organization. You will also be able to implement end-to-end defect tracking and management for your product or project alike. </em></p><strong style=\"\"><em style=\"\"></em>NOTE</strong>: <ul style=\"\"><li style=\"\">This course is not intended to teach the installation or server maintenance of Bugzilla - as that will be out of scope for this course. However, I have provided some basic level instructions if you want to install Bugzilla for your usage on a Windows Machine. </li><li style=\"\">A free publicly available and full featured Bugzilla test installation is available on the net - you can search for &quot;<strong style=\"\">Landfill: The Bugzilla Test Server</strong><strong style=\"\"></strong>&quot;. You can use this if you do not yet have access to a Bugzilla installation. </li></ul><p style=\"\"></p>", 
+    "end_date": null, 
+    "title": "BUGZILLA: Software Test Management Tool ", 
+    "price": "20.00", 
+    "instructors": "Srikanth Shirodkar", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/488498_387b_5.jpg", 
+    "course_url": "https://www.udemy.com/bugzilla-tutorial-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-28T12:17:08Z"
+}

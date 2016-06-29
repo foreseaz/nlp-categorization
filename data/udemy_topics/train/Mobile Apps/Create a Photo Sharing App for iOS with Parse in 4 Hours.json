@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t         So you want to make an awesome social app such as Instagram, Snap Chat, Path, Airbnb but don&#039;t know where to start? This course will teach you how to <strong style=\"\">code a photo sharing app for iOS in only 4 hours.</strong>  </p>  <p>  \t         We will start from a blank project, and then cover the most important topics such as user authentication, database query, Facebook integration for building a <strong style=\"\">scalable</strong> social app. By the end of this course, you will be able to create a fully functional app <strong style=\"\">ready to handle millions of users!</strong>  </p>  <p>  \t         If you already know the basics of iOS development (ie. UITableViewController), then you are good to go. Even If you are not familiar with iOS programming yet, you can definitely follow the course as we will show you <strong style=\"\">step-by-step</strong> how to put everything together.  </p>  <p>  \t         Everything in this course will be done completely in Objective-C, something you are already familiar with. We will be making the app with the <strong style=\"\">most up-to-date</strong> version of development environment, Xcode 5 and iOS 7.  </p>  <p>  \t        We divided the course into more than <strong style=\"\">38 bite-sized video lessons</strong> for you to learn at your own pace.  </p>", 
+    "end_date": null, 
+    "title": "Create a Photo Sharing App for iOS with Parse in 4 Hours", 
+    "price": "20.00", 
+    "instructors": "Daniel Xu", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/120002_dea3_4.jpg", 
+    "course_url": "https://www.udemy.com/create-a-photo-sharing-app-for-ios-with-parse/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-14T20:50:34Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">Learn the basic concepts and functions that you will need to build multithreaded programs with the popular programming language, Java. It is definitely worth learning this part of Java as in order to process the huge amount of data nowadays, it is essential to use concurrency. And of course it will give you a strong background to more easily pick up other object-oriented languages such as C#.</p><p style=\"\"><strong style=\"\">At the end of this course, you will know </strong>Object oriented programming, How to use multithreading in real applications, GUI programming with Swing</p><p style=\"\">In the first chapter we are going to study about the basics of concurreny: synchronization, executor services, callable and runnable interfaces and why is it important to be familiar with all of these things.</p><p style=\"\">Knowing these basics are just the beginning. We will implement three applications with which you can get a good grasp of the fundamentals of multithreading and how to use it in real situtations. </p><p style=\"\">In the last chapter we will take a look at Conway&#039;s game, a very interesting and staggering simulation about the fundamental nature of our universe.</p>", 
+    "end_date": null, 
+    "title": "Java Simulations & Multithreading", 
+    "price": "20.00", 
+    "instructors": "Holczer Balazs", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/502638_f2e8_4.jpg", 
+    "course_url": "https://www.udemy.com/java-simulations-multithreading/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-15T06:50:22Z"
+}

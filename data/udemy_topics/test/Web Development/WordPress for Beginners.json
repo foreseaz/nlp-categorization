@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Course Description </strong>  </p>  <p style=\"\">  \t          Learn to build a website in WordPress and setup the preliminary foundation correctly. From plugins to child themes. For Mac only - Works on OS X Yosemite</p>  <p style=\"\">  \t          After our tutorial you will be able to comfortably navigate, manipulate and make changes to your WordPress theme locally and install it on your server or take what&#039;s existing on your server and install it locally on your Mac.  </p>  <p style=\"\">  \t          If you have an existing knowledge in WordPress this course is not for you. However if you need a refresher feel free to take it.  </p>  <p style=\"\">  \t          In this extensive WordPress course we cover everything from A to Z.  </p>  <p style=\"\">  \t       • WordPress Backups  </p>  <p style=\"\">  \t       • Word Press Blog setup  </p>  <p style=\"\">  \t    • WordPress SEO  </p>  <p style=\"\">  \t      • WordPress Website setup  </p>  <p style=\"\">  \t       • Child Themes  </p>  <p style=\"\">  \t       • Contact Form7  </p>  <p style=\"\">  \t       • CSS Basics  </p>  <p style=\"\">  \t       • Custom layouts  </p>  <p style=\"\">  \t       • htacess  </p>  <p style=\"\">  \t       • Localhost install  </p>  <p style=\"\">  \t       • Logins  </p>  <p style=\"\">  \t       • Mamp Pro  </p>  <p style=\"\">  \t       • Menus  </p>  <p style=\"\">  \t • Mobile Site  </p>  <p style=\"\">  \t   • MySQL  </p>  <p style=\"\">  \t       • Plugins  </p>  <p style=\"\">  \t       • Permalinks  </p>  <p style=\"\">  \t       • WordPress Security  </p>  <p style=\"\">  \t• Site Transfer  </p>  <p style=\"\">  \t          • Style css  </p>  <p style=\"\">  \t       • Sub Menus  </p>  <p style=\"\">  \t       • Table Prefix 1  </p>  <p style=\"\">  \t       • Troubleshooting  </p>", 
+    "end_date": null, 
+    "title": "WordPress for Beginners", 
+    "price": "25.00", 
+    "instructors": "Louis Tristan", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/186696_6f08_6.jpg", 
+    "course_url": "https://www.udemy.com/wordpress_course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-21T22:25:41Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Are you a Java developer and want to become an expert in software testing? That&#039;s the course for you! In this course, you will learn how to stop doing manual testing and start to do automated software testing.</p><p>How many times did you write a bug? How many times did you change the software and didn&#039;t test it all? Testing software is an art. And surprisingly easy! During the videos, we will see many real world classes that need to be tested. </p><p>In a nutshell, you will see that writing a test is almost like writing all those &quot;main methods&quot; you have written during your first programming lessons. Then, you will see how to do it professionally. And by professional, I mean learn how to have a good testing code, how to simulate databases using mock objects, and even how to practice Test-Driven Development, which is about writing the test code prior to the production code (and yes, that are many advantagens when doing it!).</p><p>Good developers write good code. And good code is, among many other things, code that work. Let&#039;s learn how to test software and never have a bug again!</p>", 
+    "end_date": null, 
+    "title": "Learn TDD in 24 hours", 
+    "price": "20.00", 
+    "instructors": "Maurício Aniche", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/493454_0717_3.jpg", 
+    "course_url": "https://www.udemy.com/test-driven-development-for-professionals/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-04T17:29:30Z"
+}

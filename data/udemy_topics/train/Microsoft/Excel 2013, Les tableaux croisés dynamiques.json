@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>Les tableaux et graphiques croisés dynamiques permettent de façon très simple et rapide de synthétiser des listes ou base de données de quelques centaines de lignes à plusieurs dizaines de millions. Bien que limités si on ne passe pas par des cubes OLAP, sans utiliser le VBA ou PowerPivot, les tableaux et graphiques croisés dynamiques séduisent par leur efficacité à construire des tableaux de bord simples comportant des statistiques élémentaires pour identifier des tendances et analyser des chiffres et ce de façon interactive à la manière de jouer aux LEGOTM. Avec cette formation vous allez pouvoir acquérir les techniques les plus courantes demandées dans les entreprises et administrations par les débutants et super-utilisateurs. Vous verrez comment choisir des sources de données internes ou externes de type listes ou base de données relationnelles et construire la structure de votre TCD en y choisissant les types de calculs, en créant des champs ou éléments calculés, en y définissant des mises en formes (styles, KPI, Sparklines), en ajoutant de l'interactivité simplifiée (segments) et en contrôlant les finesses des mises à jour. Cette formation reste un indispensable pour toute personne souhaitant avoir les prérequis idéaux avant d'apprendre les PowerPivot ou de façon plus générale les outils de Data Mining.</p>", 
+    "end_date": null, 
+    "title": "Excel 2013, Les tableaux croisés dynamiques", 
+    "price": "50.00", 
+    "instructors": "Alphorm Démocratise le savoir IT", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/828562_c8c2_3.jpg", 
+    "course_url": "https://www.udemy.com/excel-2013-les-tableaux-croises-dynamiques/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-21T21:08:04Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this introductionary course you will learn the basics about IPv6. Topics include:</p><ul><li>Why we should migrate to IPv6</li><li>How IP address spaces relates to eachother. There are many IPv6 addresses. But how many?</li><li>Main differences between IPv4 and IPv6 headers.</li><li>Address structure, how addresses looks like and how to shorten them</li><li>Common address types.</li></ul><p><br>After attending this short but powerful course you will know the most elementary and foundations about the new IP protocol.</p><p><br>Remember! 30 days money-back guarantee with no questions asked. I want you to be satisfied with my course. No Happy - No Pay!</p><p><br>Also, please take advantage of the free previews to see way you will get.<br></p>", 
+    "end_date": null, 
+    "title": "IPv6 - learn the basics of the new IP protocol", 
+    "price": "20.00", 
+    "instructors": "Jimmy Larsson", 
+    "commitment": "36 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/763602_c6c7_5.jpg", 
+    "course_url": "https://www.udemy.com/ipv6-basics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-15T21:08:11Z"
+}

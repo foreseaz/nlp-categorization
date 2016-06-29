@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Artificial Intelligence"
+    ], 
+    "description": "\n\n                    \n                    \n                    **Machine learning** is one of the fastest-growing and most exciting fields out there, and **deep learning** represents its true bleeding edge. In this course, you’ll develop a clear understanding of the motivation for deep learning, and design intelligent systems that learn from complex and/or large-scale datasets. \n\nWe’ll show you how to train and optimize basic neural networks, convolutional neural networks, and long short term memory networks. Complete learning systems in TensorFlow will be introduced via projects and assignments. You will learn to solve new classes of problems that were once thought prohibitively challenging, and come to better appreciate the complex nature of human intelligence as you solve these same problems effortlessly using deep learning methods. \n\nWe have developed this course with Vincent Vanhoucke, Principal Scientist at Google, and technical lead in the Google Brain team.\n\n***Note**: This is an intermediate to advanced level course offered as part of the [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) program. It assumes you have taken a first course in machine learning, and that you are at least familiar with supervised learning methods.*Why Take This Course?Deep learning methods are becoming exponentially more important due to their demonstrated success at tackling complex learning problems. At the same time, increasing access to high-performance computing resources and state-of-the-art open-source libraries are making it more and more feasible for enterprises, small firms, and individuals to use these methods. \n\nMastering deep learning accordingly positions you at the very forefront of one of the most promising, innovative, and influential emergent technologies, and opens up tremendous new career opportunities. For Data Analysts, Data Scientists, Machine Learning Engineers, and students in a Machine Learning/Artificial Intelligence curriculum, this represents a rarefied opportunity to enhance your Machine Learning portfolio with an advanced, yet broadly applicable, collection of vital techniques.\n\n                                            Syllabus\n                        **Lesson 1: From Machine Learning to Deep Learning**\n\n- Understand the historical context and motivation for Deep Learning.\n- Set up a basic supervised classification task and train a black box classifier on it.\n- Train a logistic classifier “by hand”Optimize a logistic classifier using gradient descent, SGD, Momentum and AdaGrad.\n\n**Lesson 2: Deep Neural Networks**\n\n- Train a simple deep network.\n- Effectively regularize a simple deep network.\n- Train a competitive deep network via model exploration and hyperparameter tuning.\n\n**Lesson 3: Convolutional Neural Networks**\n\n- Train a simple convolutional neural net.\n- Explore the design space for convolutional nets.\n\n**Lesson 4: Deep Models for Text and Sequences**\n\n - Train a text embedding model.\n - Train a LSTM model.\n                                    ", 
+    "end_date": "2016-04-20T00:00:00Z", 
+    "title": "Deep Learning", 
+    "price": 0, 
+    "instructors": "Arpan Chakraborty and Vincent Vanhoucke", 
+    "institution_name": [
+        "Google"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.udacity.com/course/deep-learning--ud730?utm_medium=referral&utm_campaign=api", 
+    "duration": "12 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2016-01-27T00:00:00Z"
+}

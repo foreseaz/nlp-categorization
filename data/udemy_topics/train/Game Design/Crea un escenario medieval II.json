@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \tEste curso es la segunda parte del primero de mismo título.  </p>  <p>  \tCrearemos el modelo de baja para el escenario a partir de formas básicas que iremos modelando. Intentaremos hacerlo con el menor número de polígonos posible para que en el motor de juegos pueda moverse la escena de manera fluida con un valor alto de FPS. Realizaremos el bakeado de texturas en el propio 3Ds Max, exportando los mapas de normales, alpha, difuso y ambient occlusion. Probaremos todos y cada uno de los objetos con dichos mapas dentro del programa Marmoset Toolbag para asegurarnos de tener, tanto el modelado como el baking, correctos. Al final, veremos cómo cambiar el modo de render en Marmoset para mostrar nuestros avances.  </p>  <p>  \t3Ds Max es un programa de creación de gráficos y animación 3D desarrollado por Autodesk, en concreto la división Autodesk Media &amp; Entertainment (anteriormente Discreet). Creado inicialmente por el Grupo Yost para Autodesk, salió a la venta por primera vez en 1990 para DOS. 3ds Max, con su arquitectura basada en plugins, es uno de los programas de animación 3D más utilizado, especialmente para la creación de video juegos, anuncios de televisión, en arquitectura o en películas.  </p>  <p>  \tEste curso es impartido por Javier Arjonilla, profesional del 3d desde hace más de 12 años. Está especializado en el área de modelado y texturado de sets y props, tanto en alta como en baja poligonalización.  </p>  <p>  \t Ha colaborado en muchos proyectos 3d, entre otros, ha modelado sets y props para un largometraje de animación que ha sido finalista en los Goya 2013, ha creado concepts de escenarios de algunos videojuegos para una desarrolladora estadounidense.<br>  \t Actualmente posee su propia empresa de audiovisuales con la que crea animaciones para museos por toda España.  </p>  <p>  \tEn este curso cubriremos los siguientes temas:  </p>  <ul>  \t<li>Cómo hacer un modelo de baja poligonización a partir del modelo de alta</li>  \t<li>Bakear las texturas para trabajarlas en Marmodet y sacar sus mapas</li>  \t<li>Rendering</li>  </ul>", 
+    "end_date": null, 
+    "title": "Crea un escenario medieval II", 
+    "price": "20.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/182574_eb5c.jpg", 
+    "course_url": "https://www.udemy.com/crea-un-escenario-medieval-ii/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-14T16:50:56Z"
+}

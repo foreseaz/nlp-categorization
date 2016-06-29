@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>** Updated with new articles about getting started building custom Angular directives! All code samples provided in the course are updated to the latest 1.5 version of Angular and all concepts covered are completely valid for 1.5. **</p><p>Please note that this course covers <strong>version 1.x</strong> of AngularJS.<br></p><p>There are many Angular courses on the Web now. Which one should you take? If you're looking to quickly grasp the <strong>core concepts of Angular 1 </strong>with<strong> hands-on examples </strong>and want to learn from a developer/instructor with over 15 years of experience who has also been awarded the <strong>Angular</strong> <strong>Google Developer Expert</strong> (GDE) award from Google then this is the course for you! Dan also created the popular <strong>AngularJS in 60-ish Minutes</strong> video on YouTube (over 1.2 million views) so if you enjoyed that then you'll love this course!</p><p>AngularJS is a powerful JavaScript framework that can be used to build <strong>Single Page Applications</strong> (SPAs) that run in the browser. By the time you're done with this course you'll understand how AngularJS can be used to <strong>build applications</strong>. This includes learning how to build <strong>custom controllers and re-useable services</strong>, how to<strong> bind data into views</strong>, how <strong>routing</strong> works, and also how <strong>custom animations</strong> can be used to add polish to your apps. The course even includes bonus sections on getting started <strong>building custom directives</strong>! This is a <strong>hands-on course</strong> that you can follow along with and learn by doing.<br></p><p>-----------------------------------</p><p>  \tAngularJS continues to trend upward in the number of available jobs (which typically pay quite well) and the number of applications being built. So what is AngularJS and why is it so popular? And more importantly - why should take the time to learn it?</p><p>  \tIn a nutshell, AngularJS is a robust Single Page Application (SPA) framework that can be used to build dynamic, client-centric applications that can run in desktop browsers as well as on phones and tablets. You can use AngularJS to build multi-screen applications that perform much like a desktop application but can be viewed and interacted with using a normal browser.<br>  \t<br>  \tIn this course by Google Developer Expert (GDE) Dan Wahlin you'll learn essential concepts that you need to know to get started building AngularJS applications such as controllers, scope, views, routes, factories, services and more. The course provides step-by-step walk-throughs and coding demos that you're encouraged to code along with to enhance the learning process. By the end of the course you'll understand how all of the AngularJS pieces fit together and be able to apply this knowledge to building your own custom Web applications.  </p>  <p>  \t   The AngularJS JumpStart course is broken down into 6 modules (with additional bonus modules included) with each module providing source code so that you can follow along if you'd like.  </p>  <ol>  \t<li>AngularJS - The Big Picture</li>  \t<li>Views, Directives and Filters</li>  \t<li>Controllers, Scope and Modules</li>  \t<li>Routing</li>  \t<li>Services and Factories</li>  \t<li>Animation</li><li>Bonus: Getting Started Building Custom Directives</li><li>Bonus: Shared Scope, Isolate Scope, the link() Function</li><li>Bonus: Articles on Building Custom AngularJS Directives</li>  </ol>  <p>  \t   By the end of the course you'll have walked through of all of the key components in AngularJS and built a working Single Page Application. If you're looking to \"jumpstart\" your AngularJS knowledge look no further than this course. It's a great technology to know and add to your resume!  </p>", 
+    "end_date": null, 
+    "title": "AngularJS JumpStart with Dan Wahlin", 
+    "price": "30.00", 
+    "instructors": "Dan Wahlin", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/164554_a2dd_7.jpg", 
+    "course_url": "https://www.udemy.com/angularjs-jumpstart/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-15T00:39:58Z"
+}

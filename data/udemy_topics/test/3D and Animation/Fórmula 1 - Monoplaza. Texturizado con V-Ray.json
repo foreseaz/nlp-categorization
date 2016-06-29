@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t      En este tutorial se va a texturizar nuestro modelo del F1 que comenzamos en la primera parte del cursos de esta serie. Utilizaremos el sistema de mapeado Unwrap para el chasis y las ruedas, y el mapeado standard UVWmapping para suspensiones y alerones. Se creará la textura en Photoshop y se importará a 3DS Max. Iluminaremos la escena con luces V-Ray, y realizaremos el render en el mismo motor.  </p>  <p>  \t  3DsMax es un programa de creación de gráficos y animación 3D desarrollado por Autodesk, en concreto la división Autodesk Media &amp; Entertainment (anteriormente Discreet). Creado inicialmente por el Grupo Yost para Autodesk, salió a la venta por primera vez en 1990 para DOS. 3ds Max, con su arquitectura basada en plugins, es uno de los programas de animación 3D más utilizado, especialmente para la creación de video juegos, anuncios de televisión, en arquitectura o en películas.  </p>  <p>  \t      Este curso es impartido por Daniel Bertó, dedicado a mundo del 3D desde hace más de diez años, dentro de su curriculum académico podemos destacar, un Master en Infoarquitectura, un Master en Modelado y Animación de personajes, un Master en Mudbox, así como la Carrera de Dirección de Cine Digital y efectos especiales THX. Su experiencia laboral comienza en el campo de la infoarquitectura , y posteriormente en la publicidad, los videojuegos y la dirección de un Teaser Trailer en 3D, donde dirigió un equipo de once personas y en el que coordinó los departamentos de modelado, texturizado, iluminación y render.  </p>", 
+    "end_date": null, 
+    "title": "Fórmula 1 - Monoplaza. Texturizado con V-Ray", 
+    "price": "20.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/182822_d7f1.jpg", 
+    "course_url": "https://www.udemy.com/formula-1-monoplaza-texturizado-con-v-ray/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-14T22:41:24Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Bu eğitim, mobil taraflı oyun programlama konusunda başarılı işler çıkarabileceğiniz Flash içerisinde AIR runtime  ile native olarak sunabileceğiniz oyunlar hazırlamanızı ve baştan sona TETRIS oyununu kodlamanızı anlatmaktadır.</p><p>Tetris oyunu tüm mantığını bu eğitim içerisinde bulabilirsiniz. En baştan cihaz üzerinde bitmiş halinin testine kadar anlatılmaktadır. <br>Bu eğitim oyun hazırlarken, uygulama geliştirme konusunda da ciddi bilgiler içermektedir ve size en baştan sona yol göstermektedir.</p><p>Eğitim 8 bölümden oluşmaktadır.</p><p>1. Bölüm: <br>Android, Google Play ve AIR nedir konuları ile ilk bilgiler sunulmaktadır.</p><p>2. Bölüm:<br>Yeni proje oluşturmak, bu projenin genel ayarları ve dikkat edilmesi gereken ilk bilgiler bu bölüm içerisinde sunulmaktadır.</p><p>3. Bölüm:<br>Mobil platform için herhangi bir uygulama veya oyun geliştiriyorsanız, bilmeniz gereken en temel ve önemli konular;<br>Ekran boyutlarını, dokunma min. alan büyüklüğü, oryantasyon, nesneleri kullanırken afıza boyutlarını planlamak gibi başlıklardır. Bu başlıklar bu bölümde incelenmiştir.</p><p>4. Bölüm:<br>Hazırladığınız oyunun cihaz üzerinde çalışması, arka planda çalışması, oryantasyon kontrolü v.b. konular içerisindeki davranışlarını kontrol edebileceğiniz bilgiler içermektedir.</p><p>5. Bölüm:<br>Oyun veya uygulama hazırlarken, mobil platformlarda en çok ihtiyaç duyacağınız dokunma işlemlerinin kontrolü bu bölümde anlatılmaktadır.</p><p>6. Bölüm:<br>Bu bölüm içerisinde, cihazın fiziksel sensörlerinden olan hareket sensörünü nasıl kullanacağınız anlatılmaktadır.</p><p>7. Bölüm:<br>Mobil platform için oyun hazırlıyorsanız, mutlaka bir joystick yapısına ihtiyacınız olacaktır. Bu bölüm içerisinde, tam olarak çalışan bir joystick, baştan sona örneklenmiştir.</p><p>8. Bölüm:<br>Bu bölüm en baştan sonuna kadar TETRIS oyunun hazırlanması, kodlanması, mantığı, dikkat edilmesi gereken konularla birlikte incelenmiş olan bölümdür.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Android için Baştan Sona TETRIS Oyunu Yapımı", 
+    "price": "20.00", 
+    "instructors": "Ersin Sengul", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/704886_bfe8.jpg", 
+    "course_url": "https://www.udemy.com/android-icin-bastan-sona-tetris-oyunu-yapm/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-23T15:16:23Z"
+}

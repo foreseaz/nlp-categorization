@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>NodeJs is a <strong class=\"redactor-inline-converted\">powerful JavaScript engine</strong> that can be used for a variety of tasks. In this course, we’ll learn the basics of working with NodeJS. We’ll work with the core libraries, but also learn about using npm: the <strong>Node Package Manager</strong> to load and work with any third party package that has been developed for NodeJS. We’ll also look at three ways to write and run a simple web server using node. </p>\n\n<p>The course is an hour long, and consists of two units. Topics include: <br><br>- installation<br>- testing and verifying the installation<br>- introduction to the npm<br>- using the REPL utility<br>- file input and output<br><br>The course assumes that you are comfortable writing and understanding object oriented JavaScript. </p>\n\n<p>I hope you’ll join us for this exciting introduction to NodeJS.</p>", 
+    "end_date": null, 
+    "title": "Getting Started with NodeJS for Beginners", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/842728_6747_3.jpg", 
+    "course_url": "https://www.udemy.com/getting-started-with-nodejs-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-08T12:46:55Z"
+}

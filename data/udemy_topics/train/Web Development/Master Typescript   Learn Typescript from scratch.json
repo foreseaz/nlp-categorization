@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is all about exploring TypeScript and how it makes use of Object Oriented Programming concept to create large web applications in a manageable way.</p><p>The course is for aspiring web developers as well as professional web developers who want to enhance their skillset. Those who have basic knowledge of server side programming with OOP like C# or JAVA will find it more easy to write TypeScript code which gets compiled to JavaScript</p><p>The course demonstrates the practicality of TypeScript by creating a Shopping Cart Application</p><p>Here's what you will be learning in detail about TypeScript</p><p>1. Introduction to TypeScript</p><p>2. Prerequisites &amp; Installation </p><p>3. Understanding Interfaces in TypeScript <span></span></p><p>4. Understanding Classes<span></span></p><p>5. Understanding Modules <span></span></p><p>6. Understanding Functions <span></span></p><p>7. Generics <span></span></p><p>8. Declaration Merging <span></span></p><p>9. Type Compatibility <span></span></p><p>10. Creating a Shopping Cart using TypeScript and jQuery <span></span></p><p>So lets get started with TypeScript</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Master Typescript : Learn Typescript from scratch", 
+    "price": "20.00", 
+    "instructors": "SkillBakery Studio", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/591116_8fa6.jpg", 
+    "course_url": "https://www.udemy.com/master-typescript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-23T16:18:38Z"
+}

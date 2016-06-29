@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  This course will teach anyone with a knowledge of HTML/CSS and a basic knowledge of Wordpress to develop your own custom Wordpress themes from scratch.  This will also allow you to take existing sites and move them to Wordpress with ease!  </p>  <p style=\"\">  \t  You&#039;ll learn by immersion with two projects - one very basic theme and one more advanced theme.  </p>  <p style=\"\">  \t  By the end of the course you&#039;ll know how to  </p>  <ul style=\"\">  \t<li style=\"\">Create Custom Page Templates</li>  \t<li style=\"\">Use Custom Fields To Make A User-Friendly Front End</li>  \t<li style=\"\">Create Custom Post Types</li>  \t<li style=\"\">Add Dynamic Wordpress Navigation Menus</li>  \t<li style=\"\">Add a Logo</li>  \t<li style=\"\">Add Dynamic Page Content</li>  \t<li style=\"\">Add Widget Areas</li>  </ul>  <p style=\"\">  \t  Also included at the end of the course are 2 FREE Bonuses to help extend your training.  </p>  <p style=\"\">  \t  Bonus #1 is a basic PHP Course so you can really master all of the Wordpress Functions  </p>  <p style=\"\">  \t  Bonus #2 is an in-depth Wordpress Tutorial video course that teaches you nearly every possible function and trick in the Wordpress front-end.  </p>  <p style=\"\">  \tSo what are you waiting for? Get Started Now and make sure to shoot Jon and I (Josiah) any question you have along the way:)  </p>", 
+    "end_date": null, 
+    "title": "Create Custom Wordpress Themes From Scratch", 
+    "price": "20.00", 
+    "instructors": "Josiah Mann", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/308702_4c32_3.jpg", 
+    "course_url": "https://www.udemy.com/create-custom-wordpress-themes-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-26T23:13:26Z"
+}

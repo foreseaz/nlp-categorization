@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Bu kurs ile <strong>ASP .NET MVC</strong> web projeleri geliştirme konusunda iyi bir başlangıç yapabilirsiniz. Eğitim içeriğinde <strong>ASP .NET MVC temelleri ve ileri seviyeye doğru birçok konuya değiniyor olacağım.</strong> Konular ilgili teknolojiyi öğrenmenizi kolaylaştıracak şekilde planlanmıştır. Konular ilerledikçe seviyeleri artacaktır.</p><p><strong>ASP .NET MVC yapısı ve özellikleri hakkında yeterli bilgiyi aktardıktan sonra uygulamalı örnekler ile</strong> öğrendiklerimiz pekiştireceğiz. Takdir edersiniz ki elimizdeki teknolojinin özelliklerini öğrenmeden, proje geliştirmede gerçek gücümüzü gösteremeyiz. Bu sebeple öncelikle öğrenmemiz gereken temel yapılardan başlıyor olacağız.</p><p>Eğitim içeriğinde ihtiyacımız olan <strong>CSS ihtiyaçlarını Bootstrap CSS Framework ile</strong> çözüyor olacağız ve Bootstrap yapısı hakkında da sizlere genel bir bilgi aktarıyor olacağım.</p><p><strong>Veritabanı işlemlerinde Entity Framework CodeFirst teknolojisini kullanarak</strong> işlemleri gerçekleştiriyor olacağız. Entity Framework CodeFirst yapısı ile ilgili sizlere ihtiyacımız olan bilgileri ve çok hoşunuza gidecek işlemleri gösteriyor olacağım. <strong>Micro bir Entity Framework CodeFirst eğitimi de almış olacaksınız.</strong></p><p>Eğitim içeriğinde <strong>ihtiyacımız olan Javascript işlemlerini JQuery ile</strong> çözüyor olacağız. JQuery kendini kanıtlamış bir Framework, Bootstrap ile beraber çok harika bir ikili olduklarını göreceksiniz.</p><p>Eğitim örneklerini <strong>Visual Studio Community(ücretsiz)</strong> yapabilir ve projelerinizi de bu IDE ile geliştirebilirsiniz. <strong>Visual Studio IDE 'si için çıkmış olan Update'leri yapmayı unutmayınız!</strong></p><p>Veritabanı işlemleriniz de <strong>Microsoft SQL Server 2014 Express(ücretsiz)</strong> kullanabilirsiniz.</p><p><em>Eğitim içeriği henüz tamamlanmadığı için önümüzdeki günlerde sürekli yeni eklemeleri yapıyor olacağım. Tamamlandıktan sonra da eksikliğini gördüğüm konularda videolar eklemeye devam edeceğim. Zengin içerikli bir kurs olmasını planlıyorum.</em></p><p><strong><em>Herkese iyi çalışmalar dilerim.</em></strong></p>", 
+    "end_date": null, 
+    "title": "ASP .NET MVC Yazılımcıların Yükselişi", 
+    "price": "45.00", 
+    "instructors": "Kadir Murat BAŞEREN", 
+    "commitment": "11 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/736686_3d9c_2.jpg", 
+    "course_url": "https://www.udemy.com/aspnet-mvc-yazilimcilarin-yukselisi/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-21T11:25:46Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>Thank you for visiting to </span><strong style=\"\">First simple BBs with django</strong><span>.</span>  </p>  <p>  \t   This is the lesson of <strong style=\"\">django</strong> and <strong style=\"\">Python</strong> for beginners. We will create very very simple <strong style=\"\">BBS</strong> in practice. You can learn about templates system and customizing of administration page. And also learn how to retrieve the data from database.  </p>  <p>  \t<span>If you do not have basic knowledge of <strong style=\"\">Python</strong>, <strong style=\"\">don&#039;t worry </strong>! I&#039;m going to teach you about it in the first section.</span>  </p>  <p>  \t<span>You are able to learn <strong style=\"\">basic knowledge</strong> to handle some data on django in this lecture. </span><span><strong style=\"\">Take it easy ! Enjoy learning!</strong></span>  </p>  <p>  \t<strong style=\"\">&lt;OUTLINE&gt;</strong>  </p>  <p>  \t<strong style=\"\">&lt;Python&gt;</strong>  </p>  <ul style=\"\">  \t<li>What is Python?</li>  \t<li>Print method</li>  \t<li>variable and string</li>  \t<li>while syntax</li>  \t<li>for syntax</li>  \t<li>list</li>  \t<li>conditional judgment with if syntax</li>  \t<li>conditional judgment by strings</li>  </ul>  <p>  \t <strong style=\"\">&lt;django&gt;</strong>  </p>  <ul style=\"\">  \t<li>create a project</li>  \t<li>admin page</li>  \t<li>create a model</li>  \t<li>customize admin page</li>  \t<li>Bootstrap</li>  \t<li>templates and views</li>  \t<li>get a content of post</li>  \t<li>list of posts</li>  \t<li>create a form</li>  \t<li>function to post</li>  </ul>", 
+    "end_date": null, 
+    "title": "First simple BBS with django", 
+    "price": "20.00", 
+    "instructors": "Takafumi Kawai", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/229284_fb3d_3.jpg", 
+    "course_url": "https://www.udemy.com/first-simple-bbs-with-django/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-26T02:50:04Z"
+}

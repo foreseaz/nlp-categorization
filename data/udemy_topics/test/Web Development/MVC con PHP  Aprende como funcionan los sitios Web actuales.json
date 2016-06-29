@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tEl objetivo de este curso es brindar una introducción general y básica de la programación con el lenguaje PHP utilizando el paradigma orientado a objetos y como se utiliza está técnica para crear aplicaciones web utilizando el patrón MVC - Modelo Vista Controlador.  </p>  <p>  \tPara el desarrollo del mismo empezamos con una introducción teórica de conceptos claves como:  </p>  <ul>  \t<li>Programación Orientadado a Objetos.</li>  \t<li>PHP Orientato a Objetos </li>  \t<li>El Patrón MVC - Módelo Vista Controlador</li>  \t<li>Ejemplo de aplicación.</li>  </ul>El curso está orientado a personas que ya se inician en el desarrollo de sitios web y tengan algo de experiencia con PHP, deseen profundizar el tema del desarrollo con el modelo vista controlador para crear aplicaciones web. Enmarcamos el curso en conceptos y en su aplicación para ello se alcanza el código y se explica su funcionamiento y como interaccionan cada parte del patron MVC.<p>Al culminar el curso podrás contar con los conocimientos de como funciona este módelo y poder aplicarlo en el desarrollo de tu sitio web o negocio, podrás conocer como funcionan los framework mas utilizados hoy en día para el desarrollo de sitios web utilizando PHP.</p>", 
+    "end_date": null, 
+    "title": "MVC con PHP: Aprende como funcionan los sitios Web actuales", 
+    "price": "20.00", 
+    "instructors": "Grover Vásquez", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/220048_7b3b_2.jpg", 
+    "course_url": "https://www.udemy.com/aprende-mvc-con-php/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-15T23:03:45Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>JavaScript is\nthe world most popular and wildly used  language for most  web projects. It is a client-side programming\nlanguage. Client-side means that the program code is sent into your computer\nwith the rest of the web page code then, your browser reads the code and does\nwhat it says.</p><p>This course will teach you the core knowledge you need to deeply understand what JavaScript is, learn how JavaScript works, and bestow you  knowledge that helps you avoid common downsides and drastically improve your capability to debug problems.<br></p><p><strong><em>We'll start with a simple and common things like lexical structures</em></strong><strong><em>, JavaScript Variables</em></strong><strong><em>, Objects</em></strong><strong><em>, Arrays, Functions, </em></strong><strong><em>etc.</em></strong></p><p><em><strong>Then we'll get down to more complex topics like JSON, Jquery, Ajax and many other topics. Essentially we'll cover 99% of the topics related to JavaSript.</strong></em></p><p>Each lecture contains code examples and explanation of the topic from a senior front end developer's perspective who has 11 years of programming experience.</p><p><strong><em>During the course you guys will be implementing the real world projects. No, it's not about some simple and useless projects:)</em></strong></p><p><strong><em>We'll code really useful and powerful projects with you.</em></strong></p><p>One of the projects we'll code together will get all the data from a user Instagram accounts via Instagram's API and display them on the page in a different ways. This project is splitted to 22 lessons. And here are some (not a full list of course) major functions we'll implement together with you in real time on this project:<strong><em></em></strong></p><ul><li><strong><em>Request to Instagram's API to grab\nuser-details</em></strong></li><li><strong><em>Functions to return user photos with tag dependency</em></strong></li><li><strong><em>Function to insert comments to photo</em></strong></li><li><strong><em>Function to return photo by hashtag</em></strong></li><li><strong><em>Function to insert comments to photo</em></strong></li></ul><p><strong><em></em></strong></p><p><strong><em></em></strong></p><p><strong><em><span></span></em></strong></p><p><strong><em>etc</em></strong></p><p>Full list of the functions of this project contains 26 functions which we will implement with you in real time.</p><p><br></p><p>We will end the course with a providing and explaining of number of best practices like avoiding global variables, advices for using types, etc. Also you guys will be provided with a number of little tricks in JavaScript coding from the real experts!<br></p><p><strong>Thus you\nwill find clarity in the parts that others, even experienced programmers, may find\ndifficult, odd, and at times incomprehensible.</strong> You'll learn the beauty and  power of this language that is at the\nforefront of modern software development today.</p><p>So let's get started and catch with you guys in the lessons! We have 102 lessons by the way so be patient since you'll get just amazing results for sure!:)</p>", 
+    "end_date": null, 
+    "title": "The Complete Guide to JavaScript Development", 
+    "price": "45.00", 
+    "instructors": "YWDT Your Web Development Team", 
+    "commitment": "14 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/739090_c37c_3.jpg", 
+    "course_url": "https://www.udemy.com/the-complete-javascript-development-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-23T17:38:13Z"
+}

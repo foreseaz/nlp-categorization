@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "\n\n<p><strong>UPDATE</strong>: I've added a <strong>60 page eBook</strong> to the course. It's the perfect companion when taking this course. It provides the reference material you need as you work you way through the video lectures. There are<strong> two bonus lectures for this month</strong>: <strong>installing a SSL certificate</strong> for multiple sites and speed up your WordPress page load times by <strong>installing the WordPress Redis Cache</strong>.</p>\n\n<p>Say goodbye to shared hosting and one click WordPress installers! Say goodbye to bad web hosts! Say hello to the only WordPress course that is going to put YOU in true control of your server and your WordPress sites.</p>\n\n<p>Stop relying on shared hosting with a control panel, its bloated, filled with hosts trying to sell you additional products and the cpanel consumes valuable resources that could be better served handling your website(s) visitors. As your site grows some shared hosts will throttle your site and sometimes even shut your site down if your site consumes to many resources. The more visitors you get, the more resources you are going to use. It ends badly, with you looking for a new host and wondering how to move your WordPress sites.</p>\n\n<p>What's the solution?</p>\n\n<p>Pay someone to move your site(s)? Purchase a WordPress Backup plugin for $80 - $300 per year? Use a badly coded free plugin? Do a cPanel backup?</p>\n\n<p>The solution is to move your WordPress site(s) to an unmanaged Virtual Private Server.</p>\n\n<p>The answer to the above: its all done on your server and it doesn't cost a cent! By typing a few characters on the keyboard you will be in possession of your database and site backups ready to move to your new host!</p>\n\n<p>When you take this course, you will soon realize and wonder why it took you so long to move your WordPress sites from shared hosting to an unmanaged VPS. Please don't let the word unmanaged scare you. An unmanaged VPS simply means the host keeps the network connected and the host node running, you are in control and responsible for everything else on the server. I'll guide you, step by step through the process of setting up an unmanaged VPS and then I'll also be guiding you through setting up WordPress on that VPS.</p>\n\n<p>Never used the command line before? Never edited a configuration file before? No problem, I will teach you and provide you with the knowledge you need</p>\n\n<p>I cover all aspects, no matter if your are using Windows or MACOSX. We will download the software, I'll show you how to install and configure the software and most important how to use the software. Prior to each section, I'll explain what we are doing, why we are doing it and in plain easy to understand English. You wont find any long and boring PowerPoint presentations and minute after minute looking at me talking to the camera. Its us and the command line, nothing else. The command line is easy to use, just think of terminal as a very basic word processor. I'll be there guiding you step by step.</p>\n\n<p>At the end of this course, you will have mastered how to set up an unmanaged VPS and install multiple WordPress sites on a fast and secure VPS.</p>\n\n<p>WordPress can be securely installed in under a minute on the same server. Yes!!! a single minute to set up a new WordPress site: 45 seconds to set up the database and 15 seconds to install WordPress. Additional WordPress sites, with a different domain name, can also be set up in under a minute.</p>\n\n<p>This course will give you the knowledge to:</p>\n\n<ul><li>setup your very own unmanaged VPS</li><li>you will be able to secure, harden, configure and optimized the server</li><li>setup multiple WordPress sites on that VPS</li><li>install a new WordPress site in a few seconds and secure that site on the server</li><li>update multiple WordPress sites by typing a single command</li><li>update multiple themes and plugins on multiple sites by typing a single command</li><li>setup your own scheduled backups, no plugins</li><li>move you WordPress sites whenever you need to from host to host, no plugins</li><li>you will never be stuck with a bad host again</li></ul>", 
+    "end_date": null, 
+    "title": "Step By Step - Setting Up WordPress on a VPS for Beginners", 
+    "price": "20.00", 
+    "instructors": "Andrew Eaton", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/604996_d50f_3.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-the-definitive-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-07T16:42:47Z"
+}

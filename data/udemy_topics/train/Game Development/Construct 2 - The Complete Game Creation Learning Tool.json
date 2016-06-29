@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is aiming to be a complete guide on how to create games with construct 2 program.</p><p>I am coding game for 5 years and I was using many frameworks and programs but Construct 2 is the best and the fastest way to create games.</p><p>Don&#039;t worry if you don&#039;t have any experience with programming and/or game development,I will teach you how to create games from scratch.</p><p>When you complete the course you will be able to:</p><ul style=\"\"><li>create a flappy bird clone</li><li>create a fully featured platformer game</li><li>create a match 3 game.</li><li>export construct 2 games to android and iOS </li><li>integrate mobile ads, gamecenter, google playservices, In-app-purchases</li></ul><p>What do you need to complete this course:</p><ul style=\"\"><li>a copy of construct 2(paid version for mobile exporting, free for rest)</li><li>intelXDK software(free)(for mobile export)</li></ul>", 
+    "end_date": null, 
+    "title": "Construct 2 - The Complete Game Creation Learning Tool", 
+    "price": "25.00", 
+    "instructors": "Mihai Morosanu", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/466540_482f_2.jpg", 
+    "course_url": "https://www.udemy.com/construct2-the-complete-game-creation-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-03T09:29:18Z"
+}

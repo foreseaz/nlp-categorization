@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Statistics & Probability"
+    ], 
+    "description": "\n\n                    \n                    \n                    Ce cours d'introduction aux probabilités a la même contenu que le cours de tronc commun de première année de l'École polytechnique donné par Sylvie Méléard.\n\nLe cours introduit graduellement la notion de variable aléatoire et culmine avec la loi des grands nombres et le théorème de la limite centrale. \n\nLes notions mathématiques nécessaires sont introduites au fil du cours et de nombreux exercices corrigés sont proposés.\n\nCe cours propose aussi une introduction aux méthodes de simulations des variables aléatoires comme la méthode de Monte Carlo. Des expériences numériques interactives sont également mises à votre disposition pour vous permettre de visualiser diverses notions.\n\n                                            Syllabus\n                        L'ESPACE DE PROBABILITÉ (1/3)L'espace de probabilité est l'objet du Cours 1 qui s'étale sur trois semaines. Après une introduction générale, cette semaine est consacrée à la notion d'expérience aléatoire et d'événement aléatoire, puis à la définition d'une probabilité sur un espace d'état fini.L'ESPACE DE PROBABILITÉ (2/3)Nous poursuivons le Cours 1 avec l'étude des lois de probabilités uniformes sur des espaces d'état finis. Puis nous abordons la définition générale d'une probabilité avec notamment la notion de « tribu ».L'ESPACE DE PROBABILITÉ (3/3)Nous achevons le Cours 1 cette semaine. Nous introduisons deux concepts centraux : le conditionnement et l'indépendance. Nous étudions ensuite un résultat très utilisé : le théorème de Borel-Cantelli. Enfin, nous introduisons un autre concept incontournable : celui de variable aléatoire.VARIABLES ALÉATOIRES SUR UN ESPACE FINI OU DÉNOMBRABLE (1/2)Nous commençons le Cours 2 qui dure deux semaines. Nous étudions les variables aléatoires \"discrètes\", c'est-à-dire des variables aléatoires prenant un nombre fini ou dénombrable de valeurs.VARIABLES ALÉATOIRES SUR UN ESPACE FINI OU DÉNOMBRABLE (2/2)Nous terminons le Cours 2 avec l'introduction d'un outil puissant : les fonctions génératrices. Nous étudions ensuite les couples de variables aléatoires et les variables aléatoires indépendantes.VARIABLES ALÉATOIRES RÉELLES (1/3)Le Cours 3, qui s'étend sur trois semaines, est consacré aux variables aléatoires qui prennent leurs valeurs dans les réels. Une nouvelle rubrique fait son apparition : « Méthodes de simulations et expériences numériques interactives ». Chaque séance du type « Illustration &amp; expérimentation : ... » est accompagnée d'une expérience numérique interactive que vous pouvez manipuler (« A vous de jouer ! »). VARIABLES ALÉATOIRES RÉELLES (2/3)La notion abordée cette semaine est celle d'espérance d'un variable aléatoire.VARIABLES ALÉATOIRES RÉELLES (3/3)Nous terminons cette semaine le Cours 3 avec, d'une part, un résultat important permettant de calculer la loi d'une variable aléatoire et, d'autre part, des inégalités très utiles.\n                                    ", 
+    "end_date": "2016-07-25T00:00:00Z", 
+    "title": "Aléatoire : une introduction aux probabilités - Partie 1", 
+    "price": 0, 
+    "instructors": "Sylvie Méléard and Jean-René Chazottes", 
+    "institution_name": [
+        "École Polytechnique"
+    ], 
+    "commitment": "4-6 hours", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.coursera.org/learn/probabilites-1", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-05-30T00:00:00Z"
+}

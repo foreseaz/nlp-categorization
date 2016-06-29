@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Course Summary</strong>  </p>  <p>  \t              With over 80 videos and 8 hours of content, this online training course is designed to introduce the complete beginner to computer programming using the Java language.  The course begins with definitions of basic terminology as well as the typical &quot;Hello, World!&quot; program.  You will learn about basic Java data types next so that you can declare and use variables in your programs.  From there, you will learn to read information from the user and output information to the screen.  Finally, you will learn to create and evaluate expressions using arithmetic, relational and logical operators.  </p>  <p>  \tIf you are an experienced programmer who wants to learn Java, please see our <strong style=\"\">Introduction to Java Programming</strong> course, instead.  </p>  <p>  \t<strong style=\"\">Hands On Learning</strong>  </p>  <p>  \t              Unlike other online training courses, you are encouraged to actively participate in the learning experience by running example files during lectures and performing coding challenges during labs. Each lab session includes review videos so you can compare your solution to the instructor&#039;s.  </p>  <p>  \t<strong style=\"\">Bonus Content</strong>  </p>  <p>  \t              This training course comes complete with working example and lab  solution files as well as a link to optionally purchase the workbook used in the  video at a discount.  </p>  <p>  \t<strong style=\"\">About the Instructor</strong>  </p>  <p>  \t              Jamie Romero is a dynamic instructor and expert Java programmer. He has taught over 375 classes to programmers from companies like Hewlett-Packard, Lockheed Martin, Boeing, and Walt Disney. Jamie&#039;s energetic style and up-beat attitude are just what you need for an online training course.  </p>  <p>  \t              Some recent comments about Jamie&#039;s Udemy courses:  </p>  <ul style=\"\">  \t<li>&quot;I have taken numerous courses online to learn Java but I think this course is much better than all those courses collectively. I am on my 27th Lecture and I am extremely satisfied with my progress. If you are reading this and looking for a good Java course to start, trust me take this course right now. Don&#039;t waste your time and money somewhere else.&quot;</li>  \t<li>&quot;I have subscribed to various other java tutorials online but no one does as good as Jamie Romero. Thank you for coming up with such a wonderful course , sir. You are awesome.&quot;</li>  \t<li>&quot;Jamie has a great personality and voice for teaching students. His engaging and pleasant style makes it easy and fun to follow along. The courses are never bogged down in lengthy descriptions of topics that loses the viewer.&quot;</li>  </ul>", 
+    "end_date": null, 
+    "title": "Learn to Program with Java for Complete Beginners - Part 1", 
+    "price": "50.00", 
+    "instructors": "Learn by the Byte", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/351310_72aa_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-to-program-with-java-1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-19T22:16:07Z"
+}

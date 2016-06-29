@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Subtitles are available with this course.</strong></p>\n\n<p>Design and development of a product requires great understanding of full capability of implementation language. The complexity of real world application requires the use of strength of language to provide robust, flexible and efficient solution. Python provides the Object Oriented capability and lot of rich features to stand with changing demand of current world application requirement. The course covers following topics-</p>\n\n\n\n\n\n<ul><li><strong class=\"redactor-inline-converted\">Exception Handling</strong></li><li><strong class=\"redactor-inline-converted\">Context Manager</strong></li><li><strong class=\"redactor-inline-converted\">Metaclasses</strong></li><li><strong class=\"redactor-inline-converted\">Introspection</strong></li><li><strong class=\"redactor-inline-converted\">C Extensions</strong></li><li><strong class=\"redactor-inline-converted\">Multithreading</strong></li><li><strong class=\"redactor-inline-converted\">Multiprocessing</strong></li></ul>\n\n\n\n\n\n\n\n\n\n<p>This course explains the advanced features of Python in step-wise manner. All the topics have been explained in simple way. You will also see the demonstration of source code implementation for each topic. This course will improve the Python skills of developers who have basic understanding of Python. You will learn rich features of Python which will help in providing efficient solution.</p>\n\n\n\n\n\n\n\n<p>Course will be updated with adding new topics and existing topics will be provided in detail to have good understanding of advanced features of Python to build the technical strength and shape your career.</p>", 
+    "end_date": null, 
+    "title": "Python : Empower Yourself with Advanced Python Skills", 
+    "price": "30.00", 
+    "instructors": "Suresh Kumar Srivastava", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/839142_9f3b_3.jpg", 
+    "course_url": "https://www.udemy.com/advanced-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-04T06:07:04Z"
+}

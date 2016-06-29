@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course aimed at students<strong> with beginner to intermediate skill in F#</strong>, basic understanding of the F# syntax and a light functional understanding would be beneficial. You'll also need a computer with Linux, OSX or Windows with F# installed and an internet connection.</p><p>Have you wanted to understand how to 'do' <strong>F#</strong> in your day job? Well, this course demonstrates how you can use <strong>Test Driven Development</strong> and the <strong>F# type system</strong> in tandem to write a domain for any problem you are attempting to solve.</p><p><strong>What will we do?<br></strong>We will complete an F# library project together,</p><ol><li>We will start by defining the concepts of the domain, using some tips from <strong>Domain Driven Design</strong>, but predominantly working in the area of <strong>Test-Driven Development</strong> whilst harnessing the power of the <strong>F# type system.</strong> We will explore every line of code together and point out all the important programming concept as we progress.</li></ol><p><strong>What is f#?</strong><br>F# is a mature, functional-first, general purpose language especially well suited to computer science, machine learning, distributed computing and web applications, <strong>Domain Driven Design</strong> and <strong>Test-Driven Development</strong> too. There really is no limit to what F# can do for you!</p><p>We’ve structured the course to make learning all the material as easy and accessible as possible. We’ll challenge you to complete an F# programming task in every video to make sure you’ve got a great grip on all the concepts. But don’t worry, because after every challenge, we’ll also walk you through a solution line by line.</p><p>We have structured the course to introduce you to some<strong> computer science and functional concepts</strong>, but to also encourage you to spend your own time to gain further insights into the <strong>Domain Driven, Test-Driven</strong> concepts we introduce you to.</p><p>If you want to program with a language that has computer science at its heart and want to future proof your learning then this course is for you.</p>", 
+    "end_date": null, 
+    "title": "Beta: F# in the Workplace", 
+    "price": "30.00", 
+    "instructors": "Mark Gray", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/785138_e898.jpg", 
+    "course_url": "https://www.udemy.com/workplace-fsharp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-07T16:18:15Z"
+}

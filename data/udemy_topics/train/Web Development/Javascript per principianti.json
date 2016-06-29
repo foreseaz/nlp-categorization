@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Questo corso di <strong class=\"redactor-inline-converted\">javascript </strong>è la base per lo <strong class=\"redactor-inline-converted\">sviluppo web e javascript lato server </strong>come <strong class=\"redactor-inline-converted\">NODEJS</strong> e può servire come punto di partenza per la <strong class=\"redactor-inline-converted\">programmazione</strong> in generale. Imparerai  le definizioni delle <strong class=\"redactor-inline-converted\">variabili</strong>, i diversi tipi di variabili come <strong class=\"redactor-inline-converted\">string</strong>, <strong class=\"redactor-inline-converted\">null</strong>, <strong class=\"redactor-inline-converted\">undefined</strong>, <strong class=\"redactor-inline-converted\">number</strong>, <strong class=\"redactor-inline-converted\">boolean</strong>. </p><p>Imparerai ad utilizzare i<strong class=\"redactor-inline-converted\"> cicli while e for</strong> che si trovano in tutti i linguaggi di programmazione.</p><p>Vedremo gli operatori <strong class=\"redactor-inline-converted\">matematici</strong>, <strong class=\"redactor-inline-converted\">logici</strong>, <strong class=\"redactor-inline-converted\">unari</strong>.</p><p>Vedremo i costrutti condizionale come<strong class=\"redactor-inline-converted\"> if, else if, else</strong>.</p><p>Capirai come funzionano gli <strong class=\"redactor-inline-converted\">array</strong>, come ciclarli, accedere ai loro elementi. </p><p>Imparerai come si creano gli <strong class=\"redactor-inline-converted\">oggetti</strong> in javascript col costrutti  Object e gli oggetti letterali con []. Saprai creare <strong class=\"redactor-inline-converted\">funzioni</strong> sia come <strong class=\"redactor-inline-converted\">dichiarazione </strong>che come <strong class=\"redactor-inline-converted\">espressione</strong>. Vedrai come utilizzare il costrutto <strong class=\"redactor-inline-converted\">arguments </strong>all'interno di una funzione ed <strong>estendere oggett</strong>i con le funzioni. </p>\n\n<p>Quando avrai finito questo corso, sarai pronto per cominciare a sviluppare per il web e poter proseguire con argomenti più complessi di javascipt</p>", 
+    "end_date": null, 
+    "title": "Javascript per principianti", 
+    "price": "20.00", 
+    "instructors": "Hidran Arias", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/833262_db43_3.jpg", 
+    "course_url": "https://www.udemy.com/corso-javascript-es6-per-principianti-italiano/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-27T08:50:56Z"
+}

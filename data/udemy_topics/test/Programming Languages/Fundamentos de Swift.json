@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Aprende los fundamentos del lenguaje Swift, el nuevo lenguaje de Apple para desarrollar en plataformas iOS y OS X. </p><p>Swift es un lenguaje moderno y amigable, orientado a objetos, y con características funcionales.</p><p>Entre otras cosas repasaremos:</p><ul style=\"\"><li>Que es Swift, su historia y características.</li><li>Estructura léxica.</li><li>Tipos de datos.</li><li>Control de flujo.</li><li>Clausuras.</li><li>Funciones.</li><li>Orientación a objetos.</li><li>Clases.</li><li>Estructuras.</li><li>Enumeraciones.</li><li>Protocolos.</li><li>Extensiones.</li><li>Programación genérica.</li><li>Niveles de Acceso(por llegar).</li><li>Cocoa y Objective-C(por llegar).</li></ul>Al terminar conocerás todo lo necesario para entender y escribir programas en el lenguaje Swift. Muchos programadores ya apuestan por Swift y prueba de ello son las múltiples aplicaciones que ya están entre nosotros. No esperes más y empieza tu aprendizaje del lenguaje de programación del futuro.", 
+    "end_date": null, 
+    "title": "Fundamentos de Swift", 
+    "price": "40.00", 
+    "instructors": "Autentia University", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/487358_fd55_2.jpg", 
+    "course_url": "https://www.udemy.com/fundamentos-de-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-27T09:05:34Z"
+}

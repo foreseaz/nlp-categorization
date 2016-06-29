@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Physics"
+    ], 
+    "description": "\n\n                    \n                    \n                    In Materials Science as well as in Physics, many concepts are elegantly represented in what is known as “Reciprocal Space”. As the name suggests this is inversely related to the commonly encountered and familiar everyday “Real Space”. In this course we will see how Reciprocal Space is defined. How it is mathematically related to Real Space. How the approaches used in Materials Science texts and Physics texts on this topic, relate to each other. We will also put it to use to look at specific aspects of Materials Science and Physics. \n\n                                            Syllabus\n                        Week 1: Materials Science approach to defining Reciprocal space; Diffraction and reciprocal space; Worked examples\r\nWeek 2: Ewald Sphere and lattices in reciprocal space; Wigner Sietz cells and Brillouin Zones; Worked examples\r\nWeek 3: Brillouin Zones, Diffraction and allowed energy levels; E Vs K, Brillouin zones and the Origin of Bands; Worked examples\r\nWeek 4: Mathematical representation of real space, Fourier Transforms; Reciprocal space as Fourier transform of real Space; Mathematical notation for reciprocal space\n                                    ", 
+    "end_date": "2016-02-15T00:00:00Z", 
+    "title": "Introduction to Reciprocal Space", 
+    "price": 0, 
+    "instructors": "Prathap Haridoss", 
+    "institution_name": [
+        "IIT ( Indian Institute of Technology Madras)"
+    ], 
+    "commitment": "2-3 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://onlinecourses.nptel.ac.in/noc16_mm04", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "NPTEL"
+    ], 
+    "start_date": "2016-01-18T00:00:00Z"
+}

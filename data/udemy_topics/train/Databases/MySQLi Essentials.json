@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>About a year ago, MySQLi is optional for PHP programmers. You can \nchoose not to learn it. But now, MySQLi is necessary for you. Because \nthe traditional method of using a few PHP built-in functions to operate \nMySQL database is gradually being abandoned.</p><p>For PHP programmers, \nthis basically means you only have two options left when it comes to \noperating database. You can  either choose MySQLi or PDO.</p><p>PDO is a\n lot more powerful than MySQLi. But by comparison, MySQLi is really \nsimple to use and most importantly, much easier to learn, especially for\n new learners.</p><p>This course also contains all the basic MySQL database knowledge you need to learn before you can operate it. </p><p>You will learn the structure of a database and data type used by it. Then you will learn how to design a database.<br></p><p>After you have successfully created your very first database, next we will learn how to operate the database.</p><p>MySQLi\n class is a PHP tool that can help us operate database, but it would not\n be the first tool we learn. We will learn how to use PHPMyAdmin first. </p><p>We will learn how to manage database using PHPMyAdmin:</p><ul><li>how to create and delete tables;</li></ul><ul><li>how to put new data into table;</li></ul><ul><li>how to update and delete data stored in table;</li></ul><p>After you can proficiently use PHPMyAdmin, we will start to learn MySQLi.</p><p>First, we will learn how to get connected to database using the two options provided by MySQLi class.</p><p>I\n want the skills you learn from this course to be as complete as \npossible, therefore, we will also learn how to prepare for accidents, \nmeaning what kind of pre-cautions we should take in case we cannot get \nconnected to database.</p><p>After we  can connect to database properly, we will learn the four main database operations using MySQLi class.</p><p>We will start with the most complicated operation: retrieving data from database.</p><p>Because\n I just came from the beginner stage one year ago, I still remember \nwhich parts are more likely to be confusing or tricky for new learners. \nTherefore, you will find we have lots of reviews during our study.</p><p>After\n you can retrieve data from database, we will learn how to select data \nyou want and how to organize all the retrieved data. </p><p>Next, we \nwill learn how to update and delete data already stored in the database.\n These two operations are easier and simpler by comparison.</p><p>In the\n end, we will learn how to put data into the database. You will need a \nfew HTML techniques here. If you do not have any knowledge in HTML, \ndon't worry, there is an HTML cram course for you.</p><p>In addition, we\n will also learn how to protect your database and make it as safe as \npossible, including how to deal with problems caused by special \ncharacters.</p><p>In the end, we will have a comprehensive review to make sure you have got everything.</p>", 
+    "end_date": null, 
+    "title": "MySQLi Essentials", 
+    "price": "50.00", 
+    "instructors": "OnlyKiosk Tech", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/639888_66c8.jpg", 
+    "course_url": "https://www.udemy.com/mysqli-essentials-onlykiosk/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-14T01:35:22Z"
+}

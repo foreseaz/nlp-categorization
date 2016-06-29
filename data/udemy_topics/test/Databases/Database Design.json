@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t       Whichever database application you use does not matter! This course will cover design concepts for all relational database management systems.<strong style=\"\"> This course is designed for those who want to download this course or watch it ad free</strong>.  This is a course for relational database design.  Here are some examples of the most popular databases:  </p>  <ul style=\"\">  \t<li>MySQL</li>  \t<li>Oracle</li>  \t<li>Microsoft SQL Server</li>  \t<li>PostgreSQL</li>  \t<li>SQLite</li>  \t<li>MiariaDB</li>  \t<li>and MORE!</li>  </ul>  <p>  \t      We start off this course by taking our time to first look at what a database is and how it differs from a spreadsheet, website, filing cabinet, and so forth.  We introduce SQL and talk about data definition language and data manipulation language.  After about 4 solid videos of explaining databases and SQL, we dive into learning about entities and attributes.  We apply all of these concepts to structure tables and relationships.  We learn to design all of the relationships and I explain everything in depth.  </p>  <p>  \t      Most of the videos are on my chalkboard, explaining concepts.  This is because it helps to fully understand database design before you dive into designing your own database.  Once we go over all of the concepts of database design we will be designing databases from start to finish.  </p>  <p>  \t<strong style=\"\">No programming skills are required.  </strong>This course does not program a database.  This course will only be teaching how to best design your database.  You may be wondering why such a large course is required for only designing a database.  Well, designing a database is an extremely important part of database management.  The best design will get us the best results and make programming our database really easy.  </p>  <p>  \t      After this course you should be able to tackle almost any database design project with confidence and skill.  Keep in mind though that learning database design takes a lot of time and effort.  Be sure to take notes and stop after each video to reflect on what you&#039;ve learned.  Keeping notes will make this video course a whole lot easier!  </p>", 
+    "end_date": null, 
+    "title": "Database Design", 
+    "price": 0, 
+    "instructors": "Caleb Curry", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/268632_7a4b_4.jpg", 
+    "course_url": "https://www.udemy.com/database-design/", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-25T13:42:55Z"
+}

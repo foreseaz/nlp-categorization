@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": null, 
+    "end_date": null, 
+    "title": "Build a Real Time web app in node.js , Angular.js, mongoDB", 
+    "price": "20.00", 
+    "instructors": "Arash Yahya", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/409618_cacb_2.jpg", 
+    "course_url": "https://www.udemy.com/realtime-meanstack/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-01T04:09:45Z"
+}

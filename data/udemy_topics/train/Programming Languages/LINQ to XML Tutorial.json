@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<span style=\"\">Microsoft LINQ to XML tutorial for students who are in search of a job as a dot net developer. This course assumes no prior knowledge. We will start from the basics and cover all the advanced concepts. This course helps write effective LINQ to XML queries.</span>  </p>  <p style=\"\">  \tThe first module is all about creating XML documents. In this module we will discuss the different classes available to build XML documents. We will also look at an example of creating an XML document using in-memory collection of objects.  </p>  <p style=\"\">  \tIn the next module we will discuss querying and modifying XML documents using LINQ to XML.  </p>  <p style=\"\">  \tThe final module is all about transforming XML. We will first look at an exampe of transforming XML to CSV. We will then discuss transforming XML to an HTML table, followed by transforming one XML format to another XML format. Finally we will discuss validating XML against XSD (XML Schema Definition).  </p>", 
+    "end_date": null, 
+    "title": "LINQ to XML Tutorial", 
+    "price": "20.00", 
+    "instructors": "Venkat Kud", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/281952_4fb7_3.jpg", 
+    "course_url": "https://www.udemy.com/linq-to-xml-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-16T09:33:39Z"
+}

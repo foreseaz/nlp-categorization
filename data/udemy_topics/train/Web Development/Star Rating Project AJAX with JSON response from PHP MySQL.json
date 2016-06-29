@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn how to make a image rating application from scratch!</p><p>Everything is included, source files, resources and top links to get you creating your own projects quickly.  Syntax use is explained step by step learning.</p><p>Multiple technologies are used in this course together to demonstrate how projects can be built.  HTML and CSS to create the base of the application.  How to add Jquery and setup AJAX calls.   Setup PHP files to respond back to the AJAX call sending JSON data back to the front end.</p><p>Full project from start to finish, use the source code to create your own version of this useful application.  One of the best ways to learn is to see code in action, see what it does fully explained.  MySQL database connection with front-end Jquery.</p><p>There are so many great things that can be accomplished when combining front and backend code.  Real world projects like this are useful and can also be incorporated and expanded to multiple other purposes.  </p><p>This course is designed to teach you how to create applications, better learn and understand AJAX and JSON.  </p><ul><li>HTML</li><li>CSS</li><li>MySQL</li><li>JQUERY</li><li>JavaScript</li><li>PHP</li><li>JSON</li></ul><p>Most popular tech online is demonstrated in this course.</p>", 
+    "end_date": null, 
+    "title": "Star Rating Project AJAX with JSON response from PHP MySQL", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/726290_8cfe.jpg", 
+    "course_url": "https://www.udemy.com/star-rating-project-ajax-with-json-response-from-php-mysql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-13T01:02:29Z"
+}

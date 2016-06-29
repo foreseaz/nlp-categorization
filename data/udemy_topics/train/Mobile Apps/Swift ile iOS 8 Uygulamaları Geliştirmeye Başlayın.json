@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>Swift, XCode üzerinde, iOS ve Mac OS işletim sistemleri için uygulama geliştirilebilecek bir programlama dilidir. Yeni olması sebebi ile, mükemmel bir yapıya ve esnekliğe sahiptir. </span>  </p>  <p>  \t<span>Bu eğitim ile iOS uygulamaları geliştirmek ve swift programlama diline mükemmel bir başlangıç yapabilirsiniz.</span>  </p>  <p>  \tBu eğitim içerisinde,  </p>  <ul>  \t<li><span>iOS geliştirici hesabını tanımak ve yeni hesap oluşturmak,</span></li>  \t<li><span>XCode editörünü edinmek, kurmak ve kullanmak,</span></li>  \t<li><span>Mobil uygulamanızı görsel olarak dizayn edebileceğiniz storyboard yapısını öğrenmek,</span></li>  \t<li><span>Swift programlama diline en baştan başlayıp, temel programlama bilgilerini edinmek,</span></li>  \t<li><span>iOS cihazları için uygulama geliştirebilmek için en temel bilgileri edinmek gibi bilgilere ulaşabilirsiniz.</span></li>  </ul>", 
+    "end_date": null, 
+    "title": "Swift ile iOS 8 Uygulamaları Geliştirmeye Başlayın", 
+    "price": "20.00", 
+    "instructors": "Ersin Sengul", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/368683_0c06.jpg", 
+    "course_url": "https://www.udemy.com/swift-ile-ios-8-uygulamalari-gelistirmeye-baslayin/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-12T07:53:08Z"
+}

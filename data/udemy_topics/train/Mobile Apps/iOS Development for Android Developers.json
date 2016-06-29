@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">iOS Development for Android Developers</strong> provides a through introduction to iOS app development using the wildly popular Swift programming language. <strong class=\"redactor-inline-converted\">With almost 7.5 hours</strong> of engaging video lectures and<strong class=\"redactor-inline-converted\"> all the project files used in the videos</strong>, this course is designed to take students with no experience in Swift and little experience in Android to <strong class=\"redactor-inline-converted\">accomplished and </strong><strong class=\"redactor-inline-converted\">COMPLETE</strong><strong class=\"redactor-inline-converted\"> mobile app developers</strong><strong class=\"redactor-inline-converted\">.</strong><br></p>\n\n<p>Why Swift? Since its introduction, Swift has rapidly taken its place as the successor of Objective-C for apps development. Its syntax is easy to read and understand. Its a modern programming language that supports closures, type inference, protocols, class extensions, and so much more. It is 2.6x times faster than Objective-C and 8.4x faster than Python 2.7!<br><br>Some of the top-rated iOS apps using Swift are LinkedIn, Strava, Yahoo Weather, Clear, Lyft, Khan Academy, Omvana and much more. iOS developers with strong knowledge in Swift command some of the highest salaries in the development world and are in high demand.</p>\n\n\n\n<p>This course takes a very structured approach of teaching Swift. Everything from \"Hello World\" to Protocol-Oriented Programming is covered. Students acquire skills rapidly through a deep-dive in the world of Swift and iOS development with <strong class=\"redactor-inline-converted\">three chapter projects.</strong></p>\n\n\n\n<p>All the projects are done from scratch, limiting the use of shortcuts so students can understand what's really going on under the hood of Swift applications and can design them the way they want. Then with solid knowledge and understanding already in place, rapid prototyping methods are introduced in later parts of the course through the use of CocoaPods; a dependency manager very similar to Gradle dependency manager in Android development that allows the use of external libraries, called Pods, which streamlines the process of rapid development in a professional environment.</p>\n\n\n\n<p>Some key features of this course are:</p>\n\n\n\n<ul><li><strong class=\"redactor-inline-converted\">35</strong> lectures and <strong class=\"redactor-inline-converted\">7</strong><strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">+</em></strong><strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\"> hours of video content</em></strong></li><li><strong>Swift 2.2 </strong>programming from writing your first program to say \"Hello World\" to Protocol-Oriented Programming while building multiple chapter projects along the way</li><li><strong>iOS 9 Development</strong> <strong class=\"redactor-inline-converted\">using Xcode 7 IDE </strong>which takes the student through the principles of UI development and then teaching some advanced techniques to streamline the process.  </li><li>iOS <strong class=\"redactor-inline-converted\">MVC</strong> structure in-depth - Models, Views, Controllers</li><li>How to persist your app's data using <strong class=\"redactor-inline-converted\">CoreData</strong></li><li><strong class=\"redactor-inline-converted\">Networking &amp; Concurrency</strong></li><li>Workspace management with <strong class=\"redactor-inline-converted\">Synx</strong></li><li>Better networking with <strong class=\"redactor-inline-converted\">Alamofire CocoaPod</strong></li><li>Swifty parsing of JSON files using <strong>SwiftyJSON</strong></li><li>much, much more!</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">By the end of this course, you will:</strong></p>\n\n\n\n<ul><li>Learn a new language and increase your value</li><li>Understand and transfer knowledge from Android to iOS development</li><li>Become a <strong class=\"redactor-inline-converted\">Complete Mobile App Developer</strong></li><li>Develop a library app with a catchy UI that persists data and handles networking requests</li><li>Develop a sleek YouTube player app that parses a JSON request gracefully, handles concurrency with REST API requests, and plays your favourite YouTube videos without leaving your app.</li></ul>", 
+    "end_date": null, 
+    "title": "iOS Development for Android Developers", 
+    "price": "20.00", 
+    "instructors": "Abdullah Obaied", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/828706_6c82_2.jpg", 
+    "course_url": "https://www.udemy.com/ios-for-android/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-22T00:34:43Z"
+}

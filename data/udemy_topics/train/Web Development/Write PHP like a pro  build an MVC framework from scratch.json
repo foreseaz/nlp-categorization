@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn the basic\nconcepts of using a model-view-controller framework that will make\nyour PHP projects faster, easier to write and maintain, and more\nsecure.</p><p><strong>Learn to\nStructure your PHP Code Like a Professional by Building a PHP MVC\nFramework from Scratch.</strong><br></p><ul><li>Model-view-controller\n\t(MVC) pattern concepts</li><li>Build an MVC\n\tframework in PHP from scratch</li><li>Separate\n\tapplication code from presentation code</li><li>Use namespaces\n\tand an autoloader to load classes automatically</li></ul><p><span></span></p><p><strong>Take your PHP\nProjects to the Next Level</strong></p><p>Learning how to use\nan MVC framework puts a very powerful tool at your fingertips. Most\ncommercial websites and web applications written in PHP use some sort\nof framework, and the MVC pattern is the most popular type of\nframework in use.<br></p><p>The gap between\nknowing PHP and using a framework can be huge. This course bridges\nthat gap. By writing your own framework from scratch, you'll gain an\nunderstanding of just how each component works. Frameworks like\nLaravel, Symfony and CodeIgniter all use the MVC pattern, so\nunderstanding how an MVC framework is put together will give you a\nstrong background to more easily learn frameworks such as these.<br></p><p><strong>Content and\nOverview</strong><br></p><p>I designed this\ncourse to be easily understood by programmers who know PHP but don't\nknow how to use a framework. Are you putting database code and HTML\nin the same PHP script? Want to know why this is a bad idea? Want to\nknow how to do it better?<br></p><p>Starting with the\nbasic concepts of MVC frameworks, this course will take you through\nall the steps needed to build a complete MVC framework, a piece at a\ntime.<br></p><p>Beginning with a\nsingle PHP script, each lecture explains what you're going to add to\nthe code and why, building up the framework step by step. At the end\nof this course, you'll have built a complete MVC framework in PHP,\nready to use in your own projects.<br></p><p>Complete with\nworking source code at every stage, you'll be able to work alongside the instructor\nand will receive a verifiable certificate of completion upon\nfinishing the course.<br></p>", 
+    "end_date": null, 
+    "title": "Write PHP like a pro: build an MVC framework from scratch", 
+    "price": "20.00", 
+    "instructors": "Dave Hollingworth", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/424864_ab6e.jpg", 
+    "course_url": "https://www.udemy.com/php-mvc-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-17T12:15:03Z"
+}

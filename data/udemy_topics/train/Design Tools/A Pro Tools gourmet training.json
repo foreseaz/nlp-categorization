@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t            This course is mainly for people who would like to learn more about the new features that were introduced in Pro Tools®10.  </p>  <p>  \t     You need to have a basic understanding of Pro Tools® to be able to follow the pace.  </p>  <p>  \t         This course also has a bonus section at the end, which covers:  </p>  <p>  \t1) the proper way of routing a real time reverb plug-in in your mix,  </p>  <p>  \t2) how to use automation in virtual instruments  </p>  <p>  \t3) two different &#039;bouncing to disk&#039; methods.  </p>  <p>  \tI hope you&#039;ll enjoy this tapas course as much as I enjoyed developing it.  </p>", 
+    "end_date": null, 
+    "title": "A Pro Tools gourmet training", 
+    "price": "20.00", 
+    "instructors": "Carole Issa", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/111170_032c_10.jpg", 
+    "course_url": "https://www.udemy.com/pro-tools-tapas-vol1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Design Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-26T23:59:52Z"
+}

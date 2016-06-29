@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    What you'll learn\r\n\r\nDjango\r\nDjango's project and app structure\r\nDjango's ORM and migrations\r\n\n\n                                            Syllabus\n                        Say Hello to Django\r\nBefore we can build anything, we need to get Django installed, start our project, and learn some key concepts.\r\nWhat a View!\r\nWith Django installed and a project started, we'll dive into views, URLs, and how to start an app.\r\nModel Administration\r\nWe want to be able to hold data in our application so we need to create at least one model. And once we have a model, we're going to want to be able to create instances of it. Django's ORM and Admin to the rescue!\r\nDjango Templates\r\nNo application is complete without some sort of user-facing interface. Let's see how to add and use HTML templates in our Django projects. We'll also explore using CSS assets in our project.\r\nFinal Details\r\nOur app could use another view and a bit more information for each step. We can add those and finally get some things linked up with a handy new tag.\r\nTest Time\r\nGood applications work. Great applications work and have tests to prove it. Let's see about testing our models, views, urls, and templates.\r\n \r\n \n                                    ", 
+    "end_date": null, 
+    "title": "Django Basics", 
+    "price": 25.0, 
+    "instructors": "", 
+    "institution_name": [], 
+    "commitment": "4 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "http://treehouse.7eer.net/c/259799/289767/3944", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Treehouse"
+    ], 
+    "start_date": "2016-06-07T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>2014年10月にHTMLは<strong>５回目の大幅な改定</strong>が行われ、HTML5となりました。HTML5は従来のホームページを作るものからWebアプリケーションへと進化し、ゲームやユーティリティが簡単に作成できるようになりました。</p><p>HTML5には、マークアップのタグはもちろん、デザインのCSS3、プログラムのJavaScript、さらにはいろいろな機能を提供してくれるAPIなど様々な仕様の集合体です。</p><p>このコースでは、<strong>HTML5の最大の立役者である「描画の機能」の「canvas」</strong>に焦点を当て、「canvasでどのようなことができるか」を実際のコーディングを交えてご紹介します。</p><p>この授業をきっかけに更に深くHTML5アプリケーションに興味を持っていただき、今後に開設するコースにも参加していただき、Webアプリケーションを皆さんが自由に作れるようになっていただければ幸いです。</p>", 
+    "end_date": null, 
+    "title": "ホームページに絵を描き、アニメーションする「canvas」入門", 
+    "price": "25.00", 
+    "instructors": "中島 俊治", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/662686_f973_2.jpg", 
+    "course_url": "https://www.udemy.com/canvasbeginning/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-07T04:12:27Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t   TestNG is a testing framework inspired from JUnit and NUnit but  introducing some new functionality that make it more powerful and  easier to use.  </p>  <p>  \t   TestNG is designed to cover all categories of tests:  Unit, functional, end-to-end, integration, etc.,  </p>  <p>  \t      The Video includes from setting up the environment till integration with CI tools  </p>  <p>  \t<strong style=\"\">In this training course, attendees will learn the following</strong>  </p>  <p>  \t 1. Working with TestNG Framework.  </p>  <p>  \t 2. How to use Assertion.  </p>  <p>  \t 3. How to do batch execution of testcases.  </p>  <p>  \t 4. TestNG execution Report generation.  </p>  <p>  \t <strong style=\"\">Reading the Data from CSV file</strong>  </p>  <p>  \t 1.Reading the Data from Comma separated files.  </p>  <p>  \t 2.Skipping comments.  </p>  <p>  \t 3.Skipping new lines.  </p>  <p>  \t <strong style=\"\">Basic of Ant build Tool </strong>  </p>  <p>  \t 1. What is build.xml.  </p>  <p>  \t 2. What is a target, TestNG target present in Ant.  </p>  <p>  \t 4. Integration of TestNG with Ant tool.  </p>  <p>  \t <strong style=\"\">Subversion – SVN</strong>  </p>  <p>  \t 1.Installing Visual SVN and Tortoise SVN Client  </p>  <p>  \t 2.Creating Repository.  </p>  <p>  \t 3.Importing the Project.  </p>  <p>  \t 4<strong style=\"\">.</strong>Taking Check in and Check out  </p>  <p>  \t 5. SVN Plugin for Eclipse  </p>  <p>  \t <strong style=\"\">Continuous Integration Tool Hudson</strong>  </p>  <p>  \t 1. Configuring the Hudson.  </p>  <p>  \t 2. Execution of TestNG from Hudson.  </p>  <p>  \t 3. Generating TestNG Report from Hudson.  </p>  <p>  \t 4. Integration of Ant with Hudson.  </p>  <p>  \t<strong style=\"\"></strong>  </p>  <p>  \t <strong style=\"\">And source code shown as part of video lecture will be provided for download</strong>  </p>  <p>  \t<br style=\"\">  \t <strong style=\"\"></strong>  </p>", 
+    "end_date": null, 
+    "title": "Testing Framework TestNG from Scratch with Java", 
+    "price": "25.00", 
+    "instructors": "Rahul Singh Rathore", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/191176_e720_5.jpg", 
+    "course_url": "https://www.udemy.com/learn-testng-testing-framework-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-30T08:33:04Z"
+}

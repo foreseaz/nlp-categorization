@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "\n\n\n\n<p>Grunt is everywhere. From JavaScript projects in jQuery to Twitter Bootstrap, everyone's using Grunt to convert code, run tests, and produce distributions for production. Web development activities are marked by repetitive tasks such as optimization, compilation, sprites assembling, and testing. Grunt stands on a wide number of rock solid plugins that will do the job for you, helping you to maximize your development time by reducing time spent doing repetitive tasks.</p>\n\n<p>With this course, not only will you be able to set up and use Grunt in your projects, you’ll also learn about the Grunt internals and its philosophy. The goal is to prepare you to become a Grunt expert—from complex configuration to plugin authoring.</p>\n\n<p>Using a real application as a leading thread, called Foodprint.io, we will automate most of the repetitive tasks in its workflow such as compiling SASS files, running unit tests, and bundling ES2015 code to ES5. We will start with an advanced configuration and customization of the Grunt environment, focusing on practical examples of creating a customized Grunt environment that will support large-scale web development.</p>\n\n<p>Next, we will discover one of the most powerful aspects of Grunt—using live tasks to run the application in development mode. We'll talk about LiveReload, Test Automation, Modular configuration, and combining tasks. Another crucial part of the course is dedicated to creating a Grunt plugin from scratch, and we'll cover how to scaffold plugins using Grunt init and Yeoman, how to test them with Mocha and Chai, and how to publish them so others can use them. We finally end our journey with a dedicated focus on best practices and troubleshooting.</p>\n\n<p>Full of advice, best practices, and real-life examples, the course isn’t just a combination of different Grunt configurations, it will give you all you need to architect your automation workflow, debug existing ones, and implement Grunt successfully in large and complex applications.</p><p><strong class=\"redactor-inline-converted\">About The Author</strong><br></p>\n\n<p><strong>Bertrand Chevrier</strong> is a professional JavaScript developer with 10 years of experience in large-scale software development and architecture. He uses Grunt every day for his professional and personal projects. As a Grunt plugin author, he’s part of the Grunt community and his work is widely used. He also used to teach Grunt to his team mates and speaks about Grunt in conferences and user groups.</p>\n\n\n\n\n\n<p>He's also a strong believer and advocate of free and open source software. By day he works for OAT SA, the company behind TAO, the open source e-testing platform, where he’s in charge of front-end development and architecture, and by night he contributes to open source software.</p>\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Mastering Grunt", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/870118_bfff_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-grunt/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-06T11:02:56Z"
+}

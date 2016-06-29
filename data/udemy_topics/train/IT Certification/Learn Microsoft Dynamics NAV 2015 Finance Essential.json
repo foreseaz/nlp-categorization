@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>At the end of the course, you will be able to setup financial management application area. The focus is on the key financial functions within the organization such as the Financial Management Setup, Cash Management, Journal development and transactions, the General Ledger, Payment Discount and payment Tolerance, Reminders, Finance Charge Memos, Receivables and Payables Management and Year End Closing Processes.\n\n  </p>\n\n<ul><li>Explain and set up the fields on the General Ledger Setup window.</li><li>Create and post general journal entries</li><li>Describe the Bank Account Card.</li><li>Explain the Payments FastTab on the customer and card</li><li>Explain how to apply entries to customer and vendor ledger entries.</li><li>Review the Bank Account Reconciliation window and the options for populating the bank reconciliation lines.</li><li>Show how to process a bank reconciliation</li><li>Setup Microsoft Dynamics NAV 2015 to use payment discounts.</li><li>Setup Microsoft Dynamics NAV 2015 to use reminders.</li><li>Explain how to create and issue reminders</li><li>Setup Microsoft Dynamics NAV 2015 to use finance charge memos.</li><li>Close the accounting periods for the fiscal year.</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Candidates should have a basic knowledge of how to use computer, the course does not expect the user to have basic knowledge of Finance or accounting principle, the mode of training is elementary, very easy to understand. </p>\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Learn Microsoft Dynamics NAV 2015 Finance Essential", 
+    "price": "35.00", 
+    "instructors": "Opeyemi Olorunfemi", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/849160_bdf5_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-microsoft-dynamics-nav-2015-finance-essential/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-14T16:40:52Z"
+}

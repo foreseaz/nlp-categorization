@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>At the end of this course the candidate is excepted to know:</p><p>What is Central Administration And its basic components. How to create Web application, Facts and recommendation while configuring Web application, what is SharePoint Monitoring, How to perform Backup and Restore in SharePoint 2010, Farm solutions and Users Solutions.</p><p>Report services, Requirements for Report Server, How to install and configure reporting services in SharePoint 2010. </p><p>Incoming and outgoing e-mails, Key decision for planning incoming e-mails, How to configure incoming e-mails, Key planning phases of outgoing e-mail, How to configure outgoing e-mails. Form services for SharePoint, How to configure SharePoint form services, What is user form template.</p>", 
+    "end_date": null, 
+    "title": "Microsoft SharePoint 2010 Administrator Fundamentals", 
+    "price": "25.00", 
+    "instructors": "Parallel Branch Inc", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/477784_3b21_2.jpg", 
+    "course_url": "https://www.udemy.com/microsoft-sharepoint-2010-administrator-fundamentals/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-16T07:35:53Z"
+}

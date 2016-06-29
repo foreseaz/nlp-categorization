@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This Python course will get you up and running with using Python for data analysis and visualization. You will learn how to handle, analyze and visualize data in Python by actually completing two big data analysis projects, one demonstrated through videos and another laid out through six exercises.  </p>\n\n<p>The course assumes you have no prior knowledge of Python, so you also get to learn the basics of Python in the first two sections of the course. However, if you already know Python, the first two sections can serve as a refresher before you jump into the data analysis and visualization part.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>In the course you will learn to use Python third-party data analysis libraries such as Pandas, Matplotlib, Seaborn, just to mention a few and tools to boost your productivity such as Spyder and Jupyter.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>As you progress through the course, you will be guided step by step on building a program that uses real world data containing hundreds of files and millions of records. You will learn to write Python code that downloads, extracts, cleans, manipulates, aggregates and visualizes these datasets using Python. Apart from following the video screencasts, you will also be required to write your own Python scripts from scratch for completing a data analysis project on income data.</p>", 
+    "end_date": null, 
+    "title": "Python Step by Step: Build a Data Analysis Program", 
+    "price": "20.00", 
+    "instructors": "Ardit Sulce", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/364530_eb32_3.jpg", 
+    "course_url": "https://www.udemy.com/python-step-by-step-build-a-data-analysis-program/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-06T09:37:11Z"
+}

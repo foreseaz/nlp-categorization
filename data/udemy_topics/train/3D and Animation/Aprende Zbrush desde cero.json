@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t En este curso creamos un busto de un personaje fantástico en ZBrush. Desde un documento en blanco hasta la imagen de presentación final, pasando por todas sus etapas e incluyendo trucos y consejos para su desarrollo.  </p>  <p>  \t Zbrush es un software de modelado 3d , escultura y pintura digital que constituye un nuevo paradigma dentro del ámbito de la creación de imágenes de síntesis gracias al original planteamiento de su proceso creativo.  </p>  <p>  \t Este curso es impartido por Sergio Santos, instructor certificado de Autodesk 3ds Max, ha trabajado para clientes como Ubisoft, Revistronic, Arvirago, Serena Digital, Plastic Wax, Ink Apache o Silicon Garage Arts. Además, ha intervenido en videojuegos como “Lost: Via Domus”, “Shaun White Snowboarding”, “Far Cry 2? y “Turok 2? o “X-Men 3: La decisión final”.  </p>  <p>  \t En este curso cubriremos los siguientes temas:  </p>  <ul>  \t<li>Pinceles y transformaciones básicas</li>  \t<li>Primitivas</li>  \t<li>Subtools y extracción</li>  \t<li>Shadowbox</li>  \t<li>Dynamesh</li>  \t<li>Creación de geometría a través de ZSpheres</li>  \t<li>ZSketch para ZSpheres</li>  \t<li>Detallado y esculpido HD</li>  \t<li>Importación de objetos desde otro software</li>  \t<li>Retopología</li>  \t<li>Alphas para esculpir detalles</li>  \t<li>Creación de pinceles</li>  \t<li>Uso de Stencils y posibilidades</li>  \t<li>Pintado de proyecciones</li>  \t<li>UV´s en Zbrush</li>  \t<li>Plugin de mapeado UV Master</li>  \t<li>Polygroups y uv´s</li>  \t<li>Subtool Master</li>  \t<li>Posado de personajes</li>  \t<li>Herramienta Decimation Master de reducción de polígonos para preparar modelos antes de exportarlos a otro software</li>  \t<li>Como colocar Referencias</li>  \t<li>Conexión con otras aplizazciones mediante Go Z</li>  \t<li>Fibermesh para creación de pelo</li>  \t<li>Ruidos</li>  \t<li>Deformaciones</li>  \t<li>Capas</li>  \t<li>Desplazamientos</li>  \t<li>Normal map y exportación con Multimap Exporter</li>  \t<li>Iluminación</li>  \t<li>Materiales</li>  \t<li>Animación</li>  \t<li>Render</li>  \t<li>Opciones de personalización y modelado inorgánico</li>  </ul>", 
+    "end_date": null, 
+    "title": "Aprende Zbrush desde cero", 
+    "price": "50.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/177418_441a.jpg", 
+    "course_url": "https://www.udemy.com/aprende-zbrush-desde-cero/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-05T18:02:22Z"
+}

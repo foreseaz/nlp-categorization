@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">These quick and simple video tutorials are the perfect way to break into the Arduino space. John Baichtal leads you through the fundamentals in an easy to follow learning path. In no time at all you will become familiar with the Arduino hardware and will learn how to build five easy projects. </p><p style=\"\">Instuctor John Baichtal got his start writing blog posts for Wired&#039;s legendary GeekDad blog as well as the DIYer&#039;s bible MAKE Magazine. From there he branched out into authoring books about toys, tools, robots, and hobby electronics. He is the co-author of The Cult of Lego (No Starch) and author of Hack This: 24 Incredible Hackerspace Projects from the DIY Movement as well as Basic Robot Building With Lego Mindstorms NXT </p><p style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Arduino for Beginners", 
+    "price": "40.00", 
+    "instructors": "QUE Videos", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/519360_2c3b_3.jpg", 
+    "course_url": "https://www.udemy.com/arduino-for-beginners2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-03T18:11:45Z"
+}

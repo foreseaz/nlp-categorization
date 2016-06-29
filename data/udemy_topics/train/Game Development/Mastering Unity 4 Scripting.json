@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t   Mastering Unity 4 Scripting will show you the ropes for all the tools you&#039;ll need to make just about any game. Whether it&#039;s 2D or 3D, a first-person shooter or puzzle game, everything you need to know, will be covered in this course.  </p>  <p>  \t    Mastering Unity 4 Scripting will teach you everything you need to know in order to make a wide variety of games. This course covers valuable topics such as audio, animation, saving and loading data, as well as scripting behavioral artificial intelligence - all of which will be discussed in a systematic and simple series of videos.  </p>  <p>  \t This course begins by demonstrating how to program audio, then delves into AI scripting, and then wraps up with how to save and load data.  </p>  <p>  \t Beginning with handling audio and sound effects, you then get into handling parallax backgrounds. After that, you will learn how to create an AI and character controller for a generic enemy. The course then wraps up by learning how to change levels and save/load data.  </p>  <p>  \t Mastering Unity 4 Scripting is a great course to learn all you need to get started with making your own games.  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t<strong style=\"\">Kyle D&#039;Aoust</strong> has been programming for about 10 years. In 2004, at the age of 14, he taught himself the C++ language. By the end of high school, he had learned Visual Basic and JavaScript as well. In college, he majored in game production and specialized in the Unity engine using C#.  </p>  <p>  \t<span>After graduating from college, Kyle started his career with gamifying software. He is currently working as a Serious Games Developer at Quicken Loans, creating games used as training material.</span>  </p>", 
+    "end_date": null, 
+    "title": "Mastering Unity 4 Scripting ", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/371352_7f9e_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-unity-4-scripting/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-16T17:34:28Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><span style=\"\">Unless you&#039;ve been sleeping for the last couple of years, you know that Mobile is H-O-T! &nbsp;And the most popular mobile platform in the world? &nbsp;That&#039;s Android. &nbsp;Do you have a great idea for a mobile app that you&#039;d love to get on the market? &nbsp;Does your company need a mobile app to grow it&#039;s online audience? &nbsp;Perhaps you&#039;ve always wanted to learn Android Development for fun? &nbsp;</span><br style=\"\"></p>  <p style=\"\">Whatever your reason-- Android Development for Beginners is for you. &nbsp;This course covers the skills needed to produce competent, quality, error-free Android applications. &nbsp;More importantly, this course builds the foundation you need to learn more advanced skills and create professional, quality mobile applications.</p>  <p style=\"\">While this is a course for beginners, to be successful you need to know the basics of Java. &nbsp;The course will review the more complex Java used in the Android ecosystem, but you should understand Java Basics-- Variables, Loops, Functions, Conditionals should be enough.</p>  <p style=\"\">Everything you need to participate in the course is 100% free and downloadable.</p>  <p style=\"\">Good luck-- and see you in class!</p>  <p style=\"\"></p>  ", 
+    "end_date": null, 
+    "title": "Android 101: Android Development for Beginners", 
+    "price": "30.00", 
+    "instructors": "LearnToProgram, Inc.", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/13094_5484_12.jpg", 
+    "course_url": "https://www.udemy.com/android-programming-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-01-26T02:47:44Z"
+}

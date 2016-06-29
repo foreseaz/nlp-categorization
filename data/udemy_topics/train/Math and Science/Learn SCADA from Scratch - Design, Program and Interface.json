@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>We all know <strong style=\"\">SCADA </strong>stands for <strong style=\"\">Supervisory Control and Data Acquisition</strong>, but most of us confuses that with <strong style=\"\">HMI- Human Machine Interface</strong>. </p><p><strong style=\"\">SCADA </strong>is merely a software where as HMI is a hardware. The advantage of <strong style=\"\">SCADA </strong>is we can use a computer, install the <strong style=\"\">SCADA </strong>software and can work it like an HMI as well. <br style=\"\"></p><p>This course is for those who are looking for <strong style=\"\">basic and advanced knowledge of SCADA</strong>. This course has <strong style=\"\">high quality video tutorials in SCADA </strong>features and elements. You will also get information on &quot;<strong style=\"\">How to download FREE SCADA software</strong>&quot; and link it to your PLC.  <br style=\"\"></p><p><strong style=\"\">Course Includes:</strong><br style=\"\"></p><ul style=\"\"><li style=\"\">High Quality Video Tutorials</li><li style=\"\">Link to download SCADA software</li><li style=\"\">Presentations to review the content</li><li style=\"\">Technical support.</li></ul><p><em style=\"\"></em>This course starts from the basic introduction and ends with PLC SCADA application projects. </p><p>If you looking for a course to learn and apply the gained skills immediately, this course is for you! <br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Learn SCADA from Scratch - Design, Program and Interface", 
+    "price": "50.00", 
+    "instructors": "Mr Rajvir Singh", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/442896_c97d_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-scada-in-a-day-starting-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-09T16:53:09Z"
+}

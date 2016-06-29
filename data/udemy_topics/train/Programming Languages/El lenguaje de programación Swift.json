@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">¡¡ATENCIÓN!!: Este curso se hizo con la versión beta de Xcode y no está actualizado a la última versión del lenguaje Swift para Xcode 6.1; hay ejemplos que no funcionarán correctamente y explicaciones que estarán obsoletas.<br style=\"\">  \t</strong>  </p>  <p style=\"\">  \t<strong style=\"\">En caso de duda, consultar el manual sobre Swift de Apple.</strong>  </p>  <p style=\"\">  \t<strong style=\"\"><br style=\"\">  \t</strong>  </p>  <p style=\"\">  \tEl lenguaje Swift nace como alternativa a Objective-C para desarrollar aplicaciones en plataformas iOS y OSX. Este curso es una oportunidad de conocer rápidamente todo lo relacionado con Swift, de una manera amena y estructurada, sin tener que digerir el manual en inglés de Apple.  </p>  <p style=\"\">  \t<strong style=\"\">Contenidos</strong>  </p>  <p style=\"\">  \t      Desarrollaremos todos los aspectos fundamentales de la programación en Swift, desde los más básicos como las variables y estructuras de control, hasta tareas avanzadas como la gestión de memoria o el trabajo con clausuras, tipos de datos genéricos o colecciones.  </p>  <p style=\"\">  \t    Todos los capítulos cuentan con playgrounds y proyectos de Xcode para descargar y poder probar los ejemplos que se muestran.  </p>  <p style=\"\">  \t<strong style=\"\">Esquema del curso</strong>  </p>  <p style=\"\">  \t    A lo largo del curso trataremos los siguientes temas:  </p>  <ul style=\"\">  \t<li style=\"\">Presentaremos los elementos básicos del lenguaje, desde como escribir variables y constantes, hasta qué son las tuplas o los opcionales y para qué sirven. </li>  \t<li style=\"\">Analizaremos las estructuras de control disponibles y los operadores asociados a ellas. </li>  \t<li style=\"\">Veremos el tratamiento de colecciones básicas como los arrays y los diccionarios. </li>  \t<li style=\"\">Estudiaremos como escribir funciones y clausuras en profundidad. </li>  \t<li style=\"\">Aprenderemos a crear tipos de datos personalizados, desde enumeraciones a clases y estructuras, incluyendo el funcionamiento de los mecanismos de herencia entre clases. </li>  \t<li style=\"\">Crearemos y destruiremos instancias de objetos, utilizando inicializadores y manejando el sistema de gestión de memoria ARC. </li>  \t<li style=\"\">Conoceremos como funciona el mecanismo de los protocolos y las extensiones en Swift. </li>  \t<li style=\"\">Fabricaremos tipos de datos genéricos y sobrecargaremos operadores para adaptarlos a nuestras necesidades. </li>  \t<li style=\"\">Repasaremos algunos conceptos diversos como la precedencia de operadores, los operadores de bit o la conversión de tipos de datos.</li>  </ul>  <p style=\"\">  \t<strong style=\"\">Actualizaciones</strong>  </p>  <p style=\"\">  \t      El material del curso se actualiza regularmente para tener en cuenta las novedades del lenguaje Swift a medida que van surgiendo.  </p>  <p style=\"\">  \t  Si tenéis cualquier duda, sugerencia, pregunta o encontráis algún error, no dudéis en contactar, las atenderé lo antes posible.  </p>  <p style=\"\">  \t      ¡Bienvenidos a bordo!  </p>", 
+    "end_date": null, 
+    "title": "El lenguaje de programación Swift", 
+    "price": 0, 
+    "instructors": "Ion Jaureguialzo Sarasola", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/251610_1f68_4.jpg", 
+    "course_url": "https://www.udemy.com/el-lenguaje-de-programacion-swift/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-27T15:11:07Z"
+}

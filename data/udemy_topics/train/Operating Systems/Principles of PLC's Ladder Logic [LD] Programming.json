@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">The Principles of PLC's Ladder Logic [LD]  Programming course will teach you practical aspects of industrial controls and automation. The course provides a solid background in relay logic controls, digital computer logic, ladder logic instructions and commands. </p><p style=\"\">This practical ladder logic programming class presents some of the most common ladder logic designs and programs to automate industrial processes and machines The course will provide instructions to download a working copy of three types of industrial software required to design ladder logic and program automation controllers.</p><p style=\"\">You can learn the fundamentals of ladder logic programming in matter of 5-10 hours and become knowledgeable about ladder logic programming. The course will take you from basic principles to intermediate and commonly used ladder logic programming applications.<br></p><p style=\"\">In essence you will  learn: Basic relay logic and ladder logic for PLC programming, Technical terminology about ladder logic for PLC programming, 24 Video lectures about relay logic and ladder logic PLC programming, Over 10 hours of rich relay logic and ladder logic PLC programming content, From basic PLC architecture to design and debugging of ladder logic programs, Instructions to Free industrial software for Ladder Logic Design and Programming</p><p style=\"\">Anyone interested in understanding automation and specifically industrial controls will benefit from taking the Principles of PLC's ladder logic programming.</p>", 
+    "end_date": null, 
+    "title": "Principles of PLC's Ladder Logic [LD] Programming", 
+    "price": "25.00", 
+    "instructors": "EDS. Oscar A. Rodriguez", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/502998_541b_9.jpg", 
+    "course_url": "https://www.udemy.com/principles-of-plcs-ladder-logic-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-15T15:44:06Z"
+}

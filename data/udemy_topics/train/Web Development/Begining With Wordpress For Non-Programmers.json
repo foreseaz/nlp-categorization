@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>WordPress is a CMS based on php. With wordpress it is a matter of minutes to create a website, without any knowledge of technical aspects.</p><p>In time of creating this course we kept in mind about the huge amount of non-technical personal that want to create a website by themselves. This is a video tutorial with step by step to create a website in wordpress. Because this video is directed to the non-technical personnel, we have tried to use codes at a minimum.</p><p>This tutorial is focused on creating a website with wordpress 4.1 in ubuntu 14.04. This tutorial focuses to all the students who have no knowledge in coding or designing whatsoever.</p><p>Whether you want to create a personal blog or a professional website, this course will teach you how to create your own website so you don&#039;t have to be dependent on web designers and programmers.</p><p>To begin this course you need to know about basics of website. In this tutorial we will show you how to create a website, manage it, and other important things about website. After you have completed this tutorial you&#039;ll have a basic website in front of you. And you&#039;ll do it without any knowledge about coding and design.</p><p>In this video The site we will be creating, will be a blog site. This site will have 5 pages  for different contents. The pages will be home, sample page, blogs, contact us, about us. We will begin with xampp installation, wordpress installation and make our way through page, post, menu creation and managing them. After this we will show you,how to install plugins and managing them. We will be using wordpress default plugins. </p><p>By following the step by step videos, you will be able to complete your website in no time. This is a tutorial for complete beginners in wordpress. In this video we didn&#039;t show you how to modify the core files or create a theme or plugin by yourself. For that we need to venture much deeper into the territories of wordpress. To learn about these things one has to get accustomed with wordpress. </p>", 
+    "end_date": null, 
+    "title": "Begining With Wordpress For Non-Programmers", 
+    "price": 0, 
+    "instructors": "Technical Writer Biswadeeep Ghosh", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/435384_cc27_8.jpg", 
+    "course_url": "https://www.udemy.com/begining-with-wordpress-for-non-programmers/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-01T03:17:37Z"
+}

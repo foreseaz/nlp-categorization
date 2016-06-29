@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course, you will learn to unleash the power of two most powerful frameworks, WordPress and Ionic. You will create a <strong>WordPress Blog</strong> and enable the RESTful JSON API on top of it. <em><strong>You will then create an amazing Ionic App that will interact with your WordPress blog to display information from your blog to the user of your app.</strong></em> You will learn to create amazing UI for your mobile app and at the end of it, you will have an app that will work both on Android and iOS.</p><p>You will learn...</p><ul><li>Basics of RESTful APIs</li><li>Setup a WordPress Blog and API</li><li>Retrieving JSON from WordPress</li><li>Create Ionic App with AngularJS</li><li>Creating Multiple States and Controllers</li><li>Navigate within States</li><li>Ionic Advanced Components</li><li>Save Data within Devices persistently.</li><li>Create the APK for Android</li></ul><p><em><strong><br></strong></em></p><p><em><strong>A whole module about Push Notifications is added. It will teach you how you can send Notifications to all the users of your Ionic Application from your WordPress Blog with just one click. Lean to send Push Notifications from your command prompt and also from your WordPress Blog via automation.</strong></em></p>", 
+    "end_date": null, 
+    "title": "Android and iOS Apps for Your Wordpress Blog", 
+    "price": "20.00", 
+    "instructors": "Samarth Agarwal", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/621280_ad81_2.jpg", 
+    "course_url": "https://www.udemy.com/android-and-ios-apps-for-wordpress-blog/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-24T11:41:38Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t Today&#039;s computer analysts have become a &quot;jack of all trades&quot; for a variety of computer forensic skills in order to effectively deal with ever changing technologies.  Many computer forensic analysts deal with encryption infrequently, however, as any seasoned investigator will tell you, when you do hit encryption you hit a lot of it.   Encountering protected computer systems and files is becoming more common, therefore, having the fundamental skills to effectively deal with the challenge is vital. Surviving Encryption: Essentials takes a different approach to cryptanalysis by focusing on providing students with encryption fundamentals from an investigator&#039;s or computer forensic analyst&#039;s point of view.  This is not a cryptography class- this class provides students with a working knowledge of terminology, how different types of encryption work, and examines research on common password patterns.  Learn how to exploit the weakest part of any cipher- the human using it. No matter which forensic tool you choose SUMURI will teach you how to put intelligence behind your password attack.  </p>", 
+    "end_date": null, 
+    "title": "Surviving Encryption: Essentials", 
+    "price": "50.00", 
+    "instructors": "Michael Leclair", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/164360_bff6_6.jpg", 
+    "course_url": "https://www.udemy.com/sumuri-se-es/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-14T16:08:21Z"
+}

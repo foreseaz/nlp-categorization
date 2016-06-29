@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Por que tomar este curso?</strong></p>\n\n<p>Node JS a visto un crecimiento exponencial en el desarrollo web en los últimos años gracias a su velocidad y fácilidad para aprenderlo. Escrito en Javascript, el lenguaje de programación mas usado en el mundo, lo que nos ofrece la posibilidad de ser un desarrollador full stack utilizando el mismo lenguaje de programacion.</p>\n\n\n\n\n\n\n\n\n\n<ul><li>La <strong>gran demanda en el mercado laborar</strong> por desarrolladores con buen conocimiento de Node JS</li><li>Tiene el respaldo de Google (V8)  y una gran comunidad que sigue creciendo</li></ul>\n\n\n\n\n\n\n\n\n\n<p><strong><br></strong></p>\n\n\n\n\n\n<p><strong>Sobre que es este curso?</strong><br>Este es un curso de introducción desde 0 al Node JS. Vamos a empezar desde 0 y progresivamente iremos creando ejemplos de mas complexidad<br>Este curso fue creado para personas que quieran aprender Node JS de una forma fácil y eficiente. Vamos a cubrir todos los temas básicos e intermedios como:</p>\n\n\n\n\n\n\n\n\n\n<ul><li>Que es Node JS?</li><li>Como instalarlo</li><li>El sistema de archivos</li><li>Gestionador de paquetes (NPM)</li><li>Módulos, como instalar y crear nuestros propios módulos</li><li>Servidores HTTP, como crearlos y servir páginas</li><li>Websockets, crear una aplicación 'Chat room'</li></ul>\n\n\n\n\n\n\n\n\n\n<p><strong>Que tipo de material es incluido?</strong><br>El curso cuenta con mas de 45 lecciones divididas en varios capítulos. Cada capitulo tiene uno o varios ejemplos para ayudar a comprender mejor los conceptos del mismo<br>El código fuente está incluido al final del capitulo para que el estudiante pueda comparar si hay algún problema<br>Mi intención con este curso es poder enseñar Node JS de una forma sencilla. Estaré siempre dispuesto a ayudar si tiene algún problema y si tiene algún comentario para mejorar el curso será tenido en cuenta</p>", 
+    "end_date": null, 
+    "title": "Aprende Node JS Fácilmente", 
+    "price": "20.00", 
+    "instructors": "Jonathan Cifuentes", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/748608_c85b_2.jpg", 
+    "course_url": "https://www.udemy.com/aprende-node-js-facilmente/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-01T08:18:41Z"
+}

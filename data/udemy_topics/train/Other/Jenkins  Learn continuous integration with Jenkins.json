@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Today the technology sector is experiencing a boom throughout the world. There are hundreds of startups launching every day.  In order to move fast - these startups need people who are skilled at automating as much as possible. Mostly progressive startups - favor implementing completely automated <strong class=\"redactor-inline-converted\">DevOps</strong> pipelines from the get go.  They realize that these practices of <strong class=\"redactor-inline-converted\">continuous integration (CI)</strong> and <strong class=\"redactor-inline-converted\">DevOps</strong> will yield tremendous benefits regarding speed and agility. The demand for these skills has been steadily rising over the last few years.</p>\n\n<p><strong class=\"redactor-inline-converted\">Jenkins</strong> is an award-winning open source toolset which enables us to build very sophisticated automated build pipelines very quickly. It has extensive community support which has augmented the core functionality of <strong class=\"redactor-inline-converted\">Jenkins</strong> by building and sharing hundreds of very useful plugins. Implementing continuous integration with Jenkins can help us immensely in reducing the risk within our software development lifecycle. It catches us bugs early and increases the quality of our software products. This, in turn, reduces the overall cost to develop innovative software in any environment - startups and enterprise alike.</p>\n\n\n\n\n\n<p>The demand for professionals who have experience with these tools has been growing steadily over the last few years. The salaries and consulting rates for these skills have also been rising and are only bound to go up as the demand for these skills remains steady or increases. Professionals with <strong class=\"redactor-inline-converted\">Jenkins</strong> experience can demand as much as <strong class=\"redactor-inline-converted\">$120K</strong> as their yearly compensation and these jobs pay more than majority of the jobs posted on US job boards.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>In this course we will:</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Learn about <strong class=\"redactor-inline-converted\">CI</strong> and why it is important</li><li>Learn about <strong class=\"redactor-inline-converted\">Jenkins</strong></li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Build an automated <strong>CI</strong> pipeline with <strong class=\"redactor-inline-converted\">Jenkins</strong></li><li>Learn how to version control and manage relational database schema</li><li>Run the <strong class=\"redactor-inline-converted\">CI</strong> pipeline to maintain build artifacts</li><li>Learn how to configure, secure and extend <strong class=\"redactor-inline-converted\">Jenkins</strong></li><li>Learn how to configure automated build notifications</li><li>Integrate CI builds with Git repositories hosted in GitHub</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Jenkins: Learn continuous integration with Jenkins", 
+    "price": "20.00", 
+    "instructors": "Manuj Aggarwal", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/776938_38e0_4.jpg", 
+    "course_url": "https://www.udemy.com/jenkins-learn-continuous-integration/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-28T16:36:15Z"
+}

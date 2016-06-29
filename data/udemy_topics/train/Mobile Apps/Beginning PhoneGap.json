@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    This video course shows you how to build a fully functional mobile application with PhoneGap quickly and easily. You will begin by installing PhoneGap before moving on to learn how to use PhoneGap-related tools to host, develop, test, debug, build, and release mobile application libraries. You will then dive into the core of PhoneGap application development by learning how to use CSS3, HTML5, JavaScript/Framework, and the PhoneGap API from a mobile application’s perspective. With the help of step-by-step examples, easily understandable code, and dynamic demos, you will be able to introduce mobile end-to-end solutions that integrate mobile apps into external services.  </p>  <p>  \t         By the end of the course, you will know how to use PhoneGap in a convenient manner to write powerful and fascinating apps that run anywhere, quickly.  </p>  <h4><strong style=\"\">About the Author</strong></h4>  <p>  \t<strong style=\"\">    Keyang Xiang </strong>is the tech lead and application architect in the Professional Service department of FeedHenry Ltd. He received his MSc in Software Engineering from the University of Limerick. He has been working as a software engineer for over 5 years. His working areas mainly include mobile enterprise application solutions, mobile application engineering, web application development, cloud computing, and enterprise solution development based on Java or .Net. After enjoying his teenage life in China, he is now living in Ireland and can be contacted at http://keyangxiang(dot)com.<br style=\"\">  \t<br style=\"\">  \t    Keyang’s employer, FeedHenry, provide a mobile application platform to enterprises to simplify their mobile initiatives and empower them to engage more effectively with employees, customers, and partners through the mobile channel. The platform is cloud-based and supports app development, integration to backend systems, and deployment to multiple devices as well as app management and reporting.  </p>", 
+    "end_date": null, 
+    "title": "Beginning PhoneGap", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/351892_7f5b_2.jpg", 
+    "course_url": "https://www.udemy.com/beginning-phonegap/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-20T13:25:36Z"
+}

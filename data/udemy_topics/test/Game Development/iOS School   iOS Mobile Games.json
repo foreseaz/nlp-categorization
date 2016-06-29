@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tHave an idea for a game that everyone will want to play? Do dream of becoming a game development professional? Or, perhaps, you just want to learn about the challenging game development field?  </p>  <p style=\"\">  \tIf you answered &quot;yes&quot;, and you know the basics of iOS development, then this course is for you!  </p>  <p style=\"\">  \tThis course will start you at the very beginning. You&#039;ll work with development expert Connor Denman as he shows you how to set up your environment with the Cocos2D game engine. He&#039;ll then take you on a through tour of the fundamentals of game programming-- animation, sound, character controls and even basic game physics.  </p>  <p style=\"\">  \tYou&#039;ll wrap up the course by creating a game that integrates all the elements you have learned.  </p>  <p style=\"\">  \tIf you have been thinking about learning game development-- this is where you start!  </p>", 
+    "end_date": null, 
+    "title": "iOS School:  iOS Mobile Games", 
+    "price": "30.00", 
+    "instructors": "LearnToProgram, Inc., Connor Denman", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/176216_ee66_3.jpg", 
+    "course_url": "https://www.udemy.com/mobile-game-development-for-ios/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-03T19:10:59Z"
+}

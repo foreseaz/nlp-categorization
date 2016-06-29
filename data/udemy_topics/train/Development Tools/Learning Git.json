@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Learning Git will help you gain an insight on using different features of Git to increase efficiency in a collaborative work environment.</p><p style=\"\">Start off by installing Git and learn about different version control approaches. Walk through different types of workflows available and select the one best suited for you. Initialize your first repository to start working on your project. Develop an authentication system for your repositories with the help of SSH keys. Combine your work with that of several other contributors with the help of branching and forking. Using pull requests put your work in sync with that of other patrons. Delve through various concepts like rebasing and rewriting commands to manage your commit history. Furthermore, learn to tag different versions of code to identify them easily. Finally, analyze the changes in the code and trace them to its early stage.</p> Towards the end of the course, you&#039;ll be well versed with using diverse features of Git to your own advantage!<p style=\"\"><strong style=\"\">About the Author</strong></p><p style=\"\"><strong style=\"\"><strong style=\"\"></strong></strong><strong style=\"\">Sam Slotsky</strong> is a software engineer and saxophonist originating from Sioux City, IA. He attended the University of Iowa for Computer Science and Music and is currently employed by Ackmann &amp; Dickenson, Inc. of Minneapolis, specializing in backend web applications, databases, and JavaScript. Additionally, Sam has authored and contributed to open source packages for use with the Meteor framework and makes occasional posts on Coderwall&#039;s tech blog.<strong style=\"\"></strong></p>", 
+    "end_date": null, 
+    "title": "Learning Git", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/507816_3fa2_3.jpg", 
+    "course_url": "https://www.udemy.com/learning-git2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-21T05:44:27Z"
+}

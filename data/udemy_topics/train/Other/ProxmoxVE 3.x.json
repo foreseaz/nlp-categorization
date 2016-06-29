@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Cette formation ProxmoxVE 3.x vous permettra d'acquérir les connaissances et compétences nécessaires pour configurer et gérer un environnement virtualisé OpenSource. Pour suivre cette formation ProxmoxVE 3.x, aucune connaissance de Proxmox n'est requise. Toutefois, des connaissances sur les OS et des notions sur le réseau, le stockage sont recommandés, mais pas indispensables. Durant cette formation ProxmoxVE 3.x et en se basant sur ses longues années d'expériences, Ludovic Quenec'hdu vous apprendra comment configurer administrer et également saisir les enjeux de la virtualisation libre, ainsi que de vous fournir des lignes directrices aux bonnes pratiques qui vous aideront à optimiser votre déploiement de serveur Proxmox. Avec cette formation ProxmoxVE 3.x, Ludovic vous donnera les éléments pour bien démarrer et mettre en œuvre un projet de virtualisation libre.Après avoir terminé cette formation ProxmoxVE 3.x, vous pouvez passer à la formation Proxmox VE 4.1 afin de découvrir d'autres fonctionnalités avancées.</p>", 
+    "end_date": null, 
+    "title": "ProxmoxVE 3.x", 
+    "price": "40.00", 
+    "instructors": "Alphorm Démocratise le savoir IT", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/828568_8358_3.jpg", 
+    "course_url": "https://www.udemy.com/proxmoxve-3x/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-21T21:11:43Z"
+}

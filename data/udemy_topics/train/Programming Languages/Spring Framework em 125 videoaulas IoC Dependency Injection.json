@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>125 videoaulas</strong></p><p>Muitas pessoas já ouviram falar no Spring, mas o desconhecimento desse framework afasta ou assusta os iniciantes do mundo Java. O Spring pode parecer complexo, mas para desenvolvedores mais experientes, de imediato perceber o encanto e a mágica do Spring Framework. Nesse curso (125 videoaulas) vamos desvendar um pouco desse fantástico framework.</p><p><strong>O Spring é um framework open source para a plataforma Java e trata-se de um framework não intrusivo, baseado nos padrões de projeto inversão de controle (IoC) e injeção de dependência.</strong></p><p>O Spring possui diversos módulos como Spring Data (trata da persistência), Spring Security (trata da segurança da aplicação) entre outros módulos. Mas o mais usado (core) pode ser utilizado em qualquer aplicação Java, e as principais funcionalidades são a injeção de dependência (CDI) e a programação orientada a aspectos (AOP), cabe ao desenvolvedor dizer ao Spring o que quer usar. O que faz dele uma poderosa ferramenta, pois não existe a necessidade de se arrastar todas as ferramentas do framework para criar uma aplicação simples.</p><p>No Spring o container se encarrega de \"instanciar\" classes de uma aplicação Java e definir as dependências entre elas através de um arquivo de configuração em formato XML ou ainda anotações nas classes, métodos e propriedades. Dessa forma o Spring permite o baixo acoplamento entre classes de uma aplicação orientada a objetos.</p><p>O Spring possui uma arquitetura baseada em interfaces e POJOs (Plain Old Java Objects), oferecendo aos POJOs características como mecanismos de segurança e controle de transações. Também facilita testes unitários. Com Spring, pode-se ter um alto desempenho da aplicacao.</p><p>Esse framework oferece diversos módulos que podem ser utilizados de acordo com as necessidades do projeto, como módulos voltados para desenvolvimento Web, persistência, acesso remoto e programação orientada a aspectos.</p><p><em>Em resumo, o Spring é um conjunto de soluções prontas para serem implementadas na sua aplicação: MVC, Transaction, Persistencia em conjunto com alguma ferramenta de persistência, etc.</em></p><p><strong>O que os alunos vão aprender nas 125 videoaulas:</strong></p><ul><li>Baixar, configurar e usar o Spring Framework</li><li>Dominar IoC Inversion of Control - Inversão de Controle</li><li>Dominar Dependency Injection - Injeção de dependência</li><li>Usar tanto XML quanto Annotacion</li><li>Aprenda RMI Remote Method Invocation</li><li>Spring para MVC Model View Controller</li><li>e muito mais</li></ul>", 
+    "end_date": null, 
+    "title": "Spring Framework em 125 videoaulas IoC Dependency Injection", 
+    "price": "30.00", 
+    "instructors": "Neri Neitzke", 
+    "commitment": "18.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/632450_1f8f.jpg", 
+    "course_url": "https://www.udemy.com/spring-framework-em-125-videoaulas-ioc-dependency-injection/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-06T14:43:52Z"
+}

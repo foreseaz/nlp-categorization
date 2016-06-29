@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tLearn SQL with this video training course from TeachUcomp, Inc. Mastering Introductory SQL Made Easy features 43 video lessons with over 3 hours of expert instruction. SQL is a standardized programming language that is used to create, edit and delete databases and database objects. It is also the language that is used to extract, add, update, and delete data within a database. SQL is used in nearly every aspect of database interactions. Watch, listen and learn as your instructor guides you through the “core,” or essential, statements within SQL. Variations of the core statements for the specific database systems of MySQL 5.7, SQL Server 2012, and Access 2013 will also be referenced by hyperlinks to the associated online documentation for each system. The goal of this course to give the student the knowledge of which SQL statement they will  need to use to accomplish specific tasks within a database, as well as provide links to database-specific implementations of those core statements. Reinforce your learning with the text of our printable classroom instruction manual, additional images and practice exercises.  </p>  <p>  \tWhether you are completely new to SQL or are simply in need of a refresher or excellent reference source, this course will empower you with the knowledge and skills necessary to be a proficient user. We have incorporated years of classroom training experience and teaching techniques to develop an easy-to-use course that you can customize to meet your personal learning needs.  Simply launch the easy-to-use interface, click to start a video lesson or open the manual and you are on your way to mastering SQL.  </p>", 
+    "end_date": null, 
+    "title": "Mastering Introductory SQL Made Easy Training Tutorial", 
+    "price": "20.00", 
+    "instructors": "TeachUcomp, Inc.", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/197504_6e3a_3.jpg", 
+    "course_url": "https://www.udemy.com/mastering-introductory-sql-made-easy-training-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-11T14:48:51Z"
+}

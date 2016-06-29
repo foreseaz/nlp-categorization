@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>This is a short training course about the Project Schedule Network Diagram and the Critical Path Method (CPM).</p><p>In this training course, you will learn the following topics:</p><br><ul><li>What Project Schedule Network Diagram </li><li>How to create a Project Schedule Network Diagram</li><li>How to determine the Critical Paths and calculate their length</li><li>How to determine the Near Critical Paths and calculate their lengths</li><li>What the Critical Path Method (CPM) is</li><li>How to apply the Critical Path Method (CPM)</li><li>How to perform a Forward Pass and Backward Pass on the network diagram</li><li>How to calculate the Early Start (ES) for activities</li><li>How to calculate the Early Finish (EF) for activities</li><li>How to calculate the Late Start (LS) for activities</li><li>How to calculate the Late Finish (LF) for activities</li><li>How to calculate the Float  for activities</li></ul>\n\n<p>This training course consists of 5 videos with total duration of more than 40 minutes .  The method used in this training course is narrated PowerPoint slides and step-by-step explanation.</p>", 
+    "end_date": null, 
+    "title": "Schedule Network Diagram and Critical Path Method", 
+    "price": "20.00", 
+    "instructors": "Fahad Saadah", 
+    "commitment": "43 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/825136_37d1_5.jpg", 
+    "course_url": "https://www.udemy.com/schedule-network-diagram-and-critical-path-method/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Project Management"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-18T14:38:28Z"
+}

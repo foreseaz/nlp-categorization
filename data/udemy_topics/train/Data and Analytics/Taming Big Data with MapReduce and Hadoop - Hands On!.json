@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>“Big data\" analysis is a hot and highly valuable skill – and this course will teach you two technologies fundamental to big data quickly: <strong>MapReduce </strong>and <strong>Hadoop</strong>. Ever wonder how Google manages to analyze the entire Internet on a continual basis? You'll learn those same techniques, using your own Windows system right at home.</p><p>Learn and master the art of framing data analysis problems as MapReduce problems through <strong>over 10 hands-on examples</strong>, and then scale them up to run on cloud computing services in this course.</p> <ul><li>Learn the concepts of MapReduce</li> <li>Run MapReduce jobs quickly using <strong>Python </strong>and <strong>MRJob</strong></li> <li>Translate complex analysis problems into multi-stage MapReduce jobs</li> <li>Scale up to larger data sets using Amazon's Elastic MapReduce service</li> <li>Understand how Hadoop distributes MapReduce across computing clusters</li> <li>Learn about other Hadoop technologies, like <strong>Hive</strong>, <strong>Pig</strong>, and <strong>Spark</strong></li></ul> <p><strong>By the end of this course, you'll be running code that analyzes gigabytes worth of information – in the cloud – in a matter of minutes.</strong></p><p>We'll have some fun along the way. You'll get warmed up with some simple examples of using MapReduce to analyze movie ratings data and text in a book. Once you've got the basics under your belt, we'll move to some more complex and interesting tasks. We'll use a million movie ratings to find movies that are similar to each other, and you might even discover some new movies you might like in the process! We'll analyze a social graph of superheroes, and learn who the most “popular\" superhero is – and develop a system to find “degrees of separation\" between superheroes. Are all Marvel superheroes within a few degrees of being connected to The Incredible Hulk? You'll find the answer.</p><p>This course is very hands-on; you'll spend most of your time following along with the instructor as we write, analyze, and run real code together – both on your own system, and in the cloud using Amazon's Elastic MapReduce service. <strong>Over 5 hours of video</strong> content is included, with <strong>over 10 real examples</strong> of increasing complexity you can <strong>build, run and study yourself</strong>. Move through them at your own pace, on your own schedule. The course wraps up with an overview of other Hadoop-based technologies, including Hive, Pig, and the very hot Spark framework – complete with a working example in Spark.</p><p>Don't take my word for it - check out some of our unsolicited reviews from real students:</p><p><em>\"I have gone through many courses on map reduce; this is undoubtedly the best, way at the top.\"</em></p><p><em>\"This is one of the best courses I have ever seen since 4 years passed I am using Udemy for courses.\"</em></p><p><em>\"The best hands on course on MapReduce and Python. </em><em>I really like the run it yourself approach in this course. Everything is well organized, and the lecturer is top notch.\" </em></p>", 
+    "end_date": null, 
+    "title": "Taming Big Data with MapReduce and Hadoop - Hands On!", 
+    "price": "30.00", 
+    "instructors": "Frank Kane", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/540270_9358_2.jpg", 
+    "course_url": "https://www.udemy.com/taming-big-data-with-mapreduce-and-hadoop/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-29T14:26:23Z"
+}

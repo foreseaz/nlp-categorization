@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Dans cette formation nous allons apprendre à créer des sites \"responsives\", c'est à dire qui s'adaptent aux mobiles et aux tablettes.</p><p>jQuery mobile est un framework très puissant et très populaire qui vous permet de concevoir ou d'adapter rapidement vos sites afin de les rendre compatibles avec les terminaux mobiles.</p><p>Les plus grands comme Disney ont développés la version mobile de leur site avec jQuery mobile, pourquoi pas vous ?</p>", 
+    "end_date": null, 
+    "title": "Créer des sites responsives avec jQuery mobile", 
+    "price": "20.00", 
+    "instructors": "Anthony Cardinale", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/807550_35fd.jpg", 
+    "course_url": "https://www.udemy.com/creer-des-sites-responsives-avec-jquery-mobile/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-29T19:51:57Z"
+}

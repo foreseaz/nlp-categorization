@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>CSS is great; it’s a staple of the web and it helps us to produce beautiful websites, but some parts of it are archaic, and it’s often time-consuming to get right. LESS changes that. LESS includes built-in features that allow you to speed up your development and make your stylesheets easier to produce.</p><p>Learning LESS will guide you through the basics of setting up LESS within your workflow. LESS is like CSS on steroids. This course will introduce you to the main features of the language and leave you with the know-how required to make your stylesheets more efficient and maintainable.</p><p>This course starts with the fundamentals and shows you how powerful LESS can be. We’ll start by introducing you to the language, followed by incorporating LESS into our workflow, including automation and taskrunners. You’ll learn what variables do and how to use them. You’ll then find out how to create maintainable CSS using mixins and extends, and you’ll discover the best way to organise your LESS code. We’ll look at the powerful built-in functions and finally examine the other ways to power up our front-end development workflow!</p><p>Learning LESS takes you from zero to hero, leaving you with the expertise required to produce efficient stylesheets.</p><p><strong>About The Author</strong></p><p><strong>Anthony Killeen </strong>is a veteran front-end developer who has been building websites since ‘97. In that time, he’s built websites for radio stations, music artists, photographers, communities, and businesses and he’s loved every single minute of it!<br></p>", 
+    "end_date": null, 
+    "title": "Learning LESS ", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/780936_a5b7_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-less/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-03T09:30:16Z"
+}

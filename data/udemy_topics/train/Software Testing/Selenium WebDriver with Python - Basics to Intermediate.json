@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">*******************************************************************************************************</strong>  </p>  <p>  \t<strong style=\"\">Take this course and develop solid selenium tests quickly using a scripting language like Python.</strong>  </p>  <p>  \t<strong style=\"\">This course covers:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">Selenium installation on several platforms (Windows, Mac OS X and Linux Ubuntu)</li>  \t<li style=\"\"> Locating elements on a web page using XPATH, CSS SELECTORS etc.</li>  \t<li style=\"\">The Selenium Webdriver Python API</li>  \t<li style=\"\">Organizing and refactoring your selenium tests code</li>  \t<li style=\"\">Implementing Page Objects and UI Mapping in order to make your selenium code maintainable.</li>  \t<li style=\"\">Collecting selenium tests automatically using Nose so that you don&#039;t have to create manual test suite files.</li>  \t<li style=\"\">Distributing Selenium Tests using Selenium Grid</li>  \t<li style=\"\">The best practices when writing selenium tests</li>  </ul>  <p>  \t                    All concepts are explained using hands-on examples. You will apply your skills on a real web app built especially for this course.  </p>  <p>  \t<strong style=\"\">*******************************************************************************************************</strong></p><h5>&quot;&quot;&quot;<br style=\"\"><span style=\"\"><strong style=\"\"><em style=\"\"></em></strong></span></h5><h5><span style=\"\"><strong style=\"\"><em style=\"\">This course helped me get an interview at Harvard University.</em></strong></span></h5><em style=\"\">  </em><h5><em style=\"\"><span style=\"\"></span>I have been trying to learn Selenium for ages, but I just  wasn&#039;t getting it. Then I took a Python course, followed by this  course. It was such fun! Because of this course, I was able to upload  some coding samples navigating to my Github account, where I was  navigating to the login screen and signing in using a test account I  created.</em></h5><em style=\"\">  </em><p><em style=\"\">  \tThe IT people at Harvard University liked it so much they are giving me  an interview for a junior automated testing role. I would not be able to  have been eligible without this course.  </em></p>  <p>  \t&quot;&quot;<br style=\"\"><strong style=\"\"> </strong></p><p><strong style=\"\">T.J. Maher</strong>  </p>  <h5></h5>  <h5>&quot;&quot;</h5>  <h5><em style=\"\"><strong style=\"\"></strong></em><strong style=\"\"><em style=\"\">As title says Basics to Intermediate, it covers all</em></strong></h5><em style=\"\">  </em><p>  \t<em style=\"\">Very Good course, It covers  everything from basic setup to  best practices of writing solid tests.  Best part is the use of unittest and nosetests which is very much  required if we have lot of test cases to execute.</em>  </p><em style=\"\">  </em><p>  \t<em style=\"\">course will not  only help beginners to start learning the basic concepts but will also  help intermediates to understand best practices and managing test  suites.</em>  </p><em style=\"\">  </em><p><em style=\"\">  \twaiting for advanced section :)&quot;  <br style=\"\"><strong style=\"\"></strong></em></p><p><strong style=\"\"><em style=\"\"></em>Ayush</strong>  </p>  <p>  \t<strong style=\"\"></strong> &quot;&quot;  </p>  <h5><strong style=\"\">I<em style=\"\">f you want to learn Selenium with Python Bindings, Take this Course</em></strong></h5><em style=\"\">  </em><p><em style=\"\">  \t    Awesome  course by an extremely helpful and well-organized professor. Clear  instructions, lots of good examples and exercises, thorough, logical.  Can&#039;t say enough good things. Gabiste is very helpful if you have any  questions as well. Can&#039;t recommend enough.  </em></p><em style=\"\">  </em><p><em style=\"\">  \t        &quot;&quot; </em><br style=\"\"><strong style=\"\"></strong></p><p><strong style=\"\">Matt Vaccaro</strong>  </p>  <p>  \t<br style=\"\">  \t<strong style=\"\"></strong>  </p>  <p>  \t<strong style=\"\">    *******************************************************************************************************</strong>  </p>", 
+    "end_date": null, 
+    "title": "Selenium WebDriver with Python - Basics to Intermediate", 
+    "price": "30.00", 
+    "instructors": "Gabiste Akoua", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/218944_cd29_5.jpg", 
+    "course_url": "https://www.udemy.com/selenium-webdriver-with-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-15T00:49:55Z"
+}

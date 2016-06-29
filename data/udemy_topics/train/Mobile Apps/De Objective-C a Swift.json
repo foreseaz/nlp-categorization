@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>En este curso vamos a aprender todo lo necesario para saber programar en Swift, y cómo este nuevo lenguaje de programación de Apple se compara con Objective-C.</p>\n\n<p><strong>Swift</strong> es un lenguaje de programación multiparadigma creado por Apple enfocado en el desarrollo de aplicaciones para iOS y Mac OS X. Fue presentado en WWDC 2014 y está diseñado para integrarse con los Frameworks Cocoa y Cocoa Touch, puede usar cualquier biblioteca programada en Objective-C y llamar a funciones de C. También es posible desarrollar código en Swift compatible con Objective-C bajo ciertas condiciones. Swift tiene la intención ser un lenguaje seguro, de desarrollo rápido y conciso. Usa el compilador LLVM incluido en Xcode 6. En el año 2015 pasó a ser de código abierto y Google prevee incluirlo como lenguaje de programación por defecto de sus futuras apps de Android.<br></p>\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "De Objective-C a Swift", 
+    "price": 0, 
+    "instructors": "D. Juan Gabriel Gomila Salas", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/840210_00d1_2.jpg", 
+    "course_url": "https://www.udemy.com/objective-c-a-swift/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-05T07:53:56Z"
+}

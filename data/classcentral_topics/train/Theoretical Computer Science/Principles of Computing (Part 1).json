@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Theoretical Computer Science"
+    ], 
+    "description": "\n\n                    \n                    \n                    This two-part course builds upon the programming skills that you learned in our Introduction to Interactive Programming in Python course.  We will augment those skills with both important programming practices and critical mathematical problem solving skills.  These skills underlie larger scale computational problem solving and programming. The main focus of the class will be programming weekly mini-projects in Python that build upon the mathematical and programming principles that are taught in the class. To keep the class fun and engaging, many of the projects will involve working with strategy-based games.\n\nIn part 1 of this course, the programming aspect of the class will focus on coding standards and testing.  The mathematical portion of the class will focus on probability, combinatorics, and counting with an eye towards practical applications of these concepts in Computer Science.  \n\nRecommended Background - Students should be comfortable writing small (100+ line) programs in Python using constructs such as lists, dictionaries and classes and also have a high-school math background that includes algebra and pre-calculus.\n\n                                            Syllabus\n                        Required Python knowledge, coding standards, and machine gradingThis week, we will introduce you to the structure and standards of the Principles of Computing courses.Testing, plotting, and gridsThis week, we will explain the importance of testing.  We will also learn to solve problems with grids.Probability, randomness, and objects/referencesThis we will learn how to use probability and randomness to solve problems.Combinatorics, generators, and debuggingThis week, we will learn how to use combinatorics to solve problems.Counting, growth of functions, higher-order functionsThis week, we will explain the importance of counting in solving complex problems.\n                                    ", 
+    "end_date": "2016-07-04T00:00:00Z", 
+    "title": "Principles of Computing (Part 1)", 
+    "price": 0, 
+    "instructors": "Scott Rixner, Joe Warren and Luay Nakhleh", 
+    "institution_name": [
+        "Rice University"
+    ], 
+    "commitment": "7-10 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/learn/principles-of-computing-1", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-05-30T00:00:00Z"
+}

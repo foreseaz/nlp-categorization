@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Would you like to be a ODI/ETL Developer with  ODI 12C Training? ODI 12C is a last version of Oracle's integrator tool.  In order to professionalize you at this topic, we gathered up all of the trainings and performed the application of the theorical informations to provide a better education.</p>\n\n<p>After obtaining these informations, you’ll learn ODI objects/new components and design new packages/mappings. . In this training, all of the abilities that a ETL and ODI developers  must have will be explained.  You’ll be able to have a wide range of informations over the topics listed bellow:</p>\n\n\n\n\n\n<p><strong>ODI (Oracle Data Integrator) 12C</strong></p>\n\n\n\n<ul><li>Introduction to Oracle Data Integrator 12C</li><li>ODI Studio Components</li><li>ODI Repositories</li><li>Creating Master Repository</li><li>Creating work Repository</li><li>Overview of Topology Navigator</li><li>Creating Physical Architecture</li><li>Creating a Data Server</li><li>Testing a Data Server Connection</li><li>Creating a Physical Schema</li><li>Creating Logical Architecture</li><li>New features in ODI 12C</li><li>using new components in ODI 12C </li><li>Overview of Logical Architecture and Context Views</li><li>Linking the Logical and Physical Architecture</li><li>Understanding Metadata in ODI</li><li>Understanding Reverse Engineering</li><li>Creating Models</li><li>Organizing Models</li><li>Creating Data stores</li><li>Overview of ODI Projects</li><li>Creating a New Project</li><li>Introduction to Knowledge Modules</li><li>Types of Knowledge modules</li><li>Creating a Basic Interface</li><li>Designing an Interface</li><li>Integration knowledge module (IKM) overview</li><li>Using Knowledge Modules (KM) with ODI Interface</li><li>Executing the interface</li><li>Operator Overview</li><li>Viewing the session log in operator</li><li>Exploring the code in operator</li><li>Creating simple mappings</li><li>Setting knowledge module option Truncate to True</li><li>Join Transformations</li><li>Set Operators Transformations</li><li>Creating Packages in ODI</li></ul>\n\n\n\n\n\n<p><strong>Why you should have this course?</strong></p>\n\n\n\n<p>This is not a theorical education. All of  lessons are implemented in my machine. You can find all steps that you need to know when you want to develop a project in ODI 12C. I’m moving on with examples over ODI suitable for data warehouse structure and heavily used in the real projects.<br></p>\n\n\n\n<p>With various documents and end-of-chapter quizes, I aim to reinforce the topics.<br></p>\n\n\n\n<p>As being more than 6 years in the sector and being an instructor in companies that have big DWH structures, I provide this course.</p>\n\n\n\n<p>You are choosing an instructor that can provide support for any type of questions about the training or about DWH structures that does not fall within the training.</p>", 
+    "end_date": null, 
+    "title": "ODI 12C All Steps - Become a ODI/ETL Developer", 
+    "price": "40.00", 
+    "instructors": "Mustafa Aksoy, Yusuf Arslan", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/578328_2818.jpg", 
+    "course_url": "https://www.udemy.com/oracle-data-integration12c/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-09T19:57:51Z"
+}

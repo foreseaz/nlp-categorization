@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t   If you want a step-by-step understanding of how to create an InAppManager and InAppObserver class, this is the course for you! <br style=\"\">  \t <br style=\"\">  \t   If you don&#039;t care about creating those classes from scratch and just want to jumpstart into using in-app purchases, this is <strong style=\"\">ALSO</strong> the course for you. You&#039;re welcome to skip ahead to the Quick Start guide (and copy our InAppManager and InAppObserver classes). You can begin testing purchases or creating an in-game money system within an hour. <br style=\"\">  \t <br style=\"\">  \t   Included with the tutorial movies are two source projects, one uses the Sprite Kit template and another uses the starting template for Single View Application. These projects alone make for a valuable reference, but you&#039;ll get three hours of tutorials explaining every detail! The source projects have been added to the final movie in the <strong style=\"\">Supplemental</strong> <strong style=\"\">Materials</strong> tab.  </p>", 
+    "end_date": null, 
+    "title": "In-App Purchasing with iOS 7- Consumable and Non-Consumables", 
+    "price": 0, 
+    "instructors": "Justin Dike", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/112290_ffc1_6.jpg", 
+    "course_url": "https://www.udemy.com/inappbuying/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-29T14:35:50Z"
+}

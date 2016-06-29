@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tThis jQuery UI training course from Infinite Skills will teach you how to navigate the jQuery user interface interactions, effects, widgets, and themes that are built on top of the jQuery JavaScript library. This course is designed for the intermediate user that already has a working knowledge of HTML, CSS and JavaScript to design websites.  </p>  <p style=\"\">  \t<br style=\"\">  \tYou will start by learning about the jQuery UI core and utilities, such as the core methods and selectors and the position utility. You will then learn about the various widgets available in the UI, including the accordion, progressbar, tabs, button, slider, tooltip, spinner, dialog, autocomplete, and datepicker widget. Once you have mastered the widgets, this  teaches you about the themable CSS framework in jQuery UI. This video tutorial will also teach you about the interactions in jQuery UI, including selectable, resizable, draggable, droppable, and sortable. Finally, you will learn about the UI effects, such as color animations, class transitions, and how to show and hide effects.<br style=\"\">  \t<br style=\"\">  \tBy the completion of this computer based training course, you will be fully capable of building complete interactive web applications using the jQuery UI toolset. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "JQuery UI - Interface Design In JQuery - UI Training", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/176204_5b5b_6.jpg", 
+    "course_url": "https://www.udemy.com/jquery-ui-interface-design-in-jquery-ui-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-03T18:39:48Z"
+}

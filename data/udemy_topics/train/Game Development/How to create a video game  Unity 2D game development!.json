@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course we will learn how to develop a 2D platform type of game in Unity. &nbsp;Unity is free to use and is a very powerful game engine with a lot of cool features and functionalities. &nbsp;James will walk you through how to create everything from an animated character from a sprite sheet, multiple level maps, enemies, moving platforms, camera scripting, audio&nbsp;integration, particle systems (for special effects), and much more. &nbsp;This course is tended for beginners looking to learn the basics of game development. &nbsp;</p><p class=\"PIN_1373301447986_hazClick\">This game development course is setup as a walkthrough series; developing all the components of a game from scratch. &nbsp;James will be the course instructor who is a guest teacher for mybringback.</p>", 
+    "end_date": null, 
+    "title": "How to create a video game: Unity 2D game development!", 
+    "price": "25.00", 
+    "instructors": "my bringback", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/61151_96c6_7.jpg", 
+    "course_url": "https://www.udemy.com/how-to-create-a-video-game-unity-2d-game-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-20T17:23:54Z"
+}

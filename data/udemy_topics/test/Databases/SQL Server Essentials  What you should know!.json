@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tYou learned a little SQL, but you are ready to take the next step and really understand how databases work.  Or maybe you are a complete beginner.  Here’s a little secret.  It’s not that complicated.  That’s right.  Databases are actually a very simple concept that starts with a simple Table just like a spreadsheet in Excel.  Everything else in the database is built around this little concept of a table.  </p>  <p>  \tWith a little SQL Server knowledge, you can retrieve data yourself.  You can automate your reporting.  You can help management find information and troubleshoot problems.  You can even transfer this knowledge to Oracle and MySQL.  </p>  <p>  \tIn this course, veteran consultant, Joey Blue, takes you through the essentials of SQL Server right through advanced topics such as backups, security, and indexes.  This course is recommended for all business and IT professionals that want to advance their careers by understanding their corporate database.  </p>", 
+    "end_date": null, 
+    "title": "SQL Server Essentials: What you should know!", 
+    "price": "35.00", 
+    "instructors": "Joey Blue", 
+    "commitment": "13.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/31592_2106_3.jpg", 
+    "course_url": "https://www.udemy.com/sql-server-essentials/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-12-07T17:03:34Z"
+}

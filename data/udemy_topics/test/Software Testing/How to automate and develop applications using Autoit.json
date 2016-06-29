@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "Learn how to automate boring tasks and develop added value applications in record time    using the popular scripting standard, AutoIT.  <br style=\"\"><br style=\"\"> <strong style=\"\">Master automation and application programing with this curriculum: </strong><br style=\"\">      Basic Knowledge:(Installation, Compilation...).  <br style=\"\">Core Knowledge:(Functions, Datatypes, String Management…).<br style=\"\">Advanced Techniques:(Record and Replay, XML Management, Web Services..).  <br style=\"\">Final Project:(Development of an application similar to SOAP UI of SmartBear Editor). <br style=\"\"><br style=\"\"><strong style=\"\">An opportunity to strengthen your automation techniques: </strong><br style=\"\"> AutoIT is a free standard with a wide range of functions that will make you implement     reliable solutions to automate boring tasks but also to develop added value GUI applications in record time.<br style=\"\"> Jobs in test automations are plentiful, and being able to learn AutoIT will give you a strong   and confident background to shine in QA, testing or development roles.<br style=\"\"><br style=\"\">   <strong style=\"\">Content and Overview</strong><br style=\"\">   Suitable for students and developers in tests, through this course of 17 lectures and 2 hours of content, you will learn the main techniques of automation.   <br style=\"\"> Also you will be able to develop robots and standalone applications for your repetitive tasks or scenarios.<br style=\"\">   Starting with basics and core knowledge, you will have the opportunity to learn at your own rhythm before starting the advanced techniques section.  <br style=\"\">The advanced techniques section will provide you with many assignments, examples and source codes which you can download from the course’s resources.   <br style=\"\">They will give you the ability to code similar programs and provide you with enough inspiration for your own needs and applications.<br style=\"\">   Every Section of the course ends with a Quiz to test your knowledge and understanding of the subjects covered in the lectures.<br style=\"\">   The last section is about the final project where you will apply all the knowledge we shared during the course and will make you implement a webservices client application that     summarizes a variety of techniques, AutoIT functions and coding standards.<br style=\"\">       Students completing the course will be able to automate windows tasks and develop GUI     based applications matching their needs and their requirement specifications.", 
+    "end_date": null, 
+    "title": "How to automate and develop applications using Autoit", 
+    "price": "20.00", 
+    "instructors": "Amine M Barki", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/292700_a98e_11.jpg", 
+    "course_url": "https://www.udemy.com/autoitscripting/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-02T21:42:43Z"
+}

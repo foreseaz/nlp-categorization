@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Artificial Intelligence"
+    ], 
+    "description": "\n\n                    \n                    \n                    Learn how to program all the major systems of a robotic car from the leader of Google and Stanford's autonomous driving teams. This class will teach you basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics. Extensive programming examples and assignments will apply these methods in the context of building self-driving cars.\r\nThis course is offered as part of the Georgia Tech Masters in Computer Science. The updated course includes a final project, where you must chase a runaway robot that is trying to escape!\r\n\r\n\r\nWhy Take This Course?\r\n\r\nThis course will teach you probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics.\r\nAt the end of the course, you will leverage what you learned by solving the problem of a runaway robot that you must chase and hunt down!\r\n\r\n\r\n\r\n\r\n\r\nPrerequisites and Requirements\r\n\r\nSuccess in this course requires some programming experience and some mathematical fluency.\r\nProgramming in this course is done in Python. We will use some basic object-oriented concepts to model robot motion and perception. If you don’t know Python but have experience with another language, you should be able to pick up the syntax fairly quickly. If you have no programming experience, you should consider taking Udacity’s Introduction to Computer Science course before attempting this one.\r\nThe math used will be centered on probability and linear algebra. You don’t need to be an expert in either, but some familiarity with concepts in probability (e.g. probabilities must add to one, conditional probability, and Bayes’ rule) will be extremely helpful. It is possible to learn these concepts during the course, but it will take more work. Knowledge of linear algebra, while helpful, is not required.\r\n\r\nSee the Technology Requirements for using Udacity.\r\n\r\n\n\n                                            Syllabus\n                        Lesson 1: Localization\r\n\r\nLocalization\r\nTotal Probability\r\nUniform Distribution\r\nProbability After Sense\r\nNormalize Distribution\r\nPhit and Pmiss\r\nSum of Probabilities\r\nSense Function\r\nExact Motion\r\nMove Function\r\nBayes Rule\r\nTheorem of Total Probability\r\n\r\nLesson 2: Kalman Filters\r\n\r\nGaussian Intro\r\nVariance Comparison\r\nMaximize Gaussian\r\nMeasurement and Motion\r\nParameter Update\r\nNew Mean Variance\r\nGaussian Motion\r\nKalman Filter Code\r\nKalman Prediction\r\nKalman Filter Design\r\nKalman Matrices\r\n\r\nLesson 3: Particle Filters\r\n\r\nSlate Space\r\nBelief Modality\r\nParticle Filters\r\nUsing Robot Class\r\nRobot World\r\nRobot Particles\r\n\r\nLesson 4: Search\r\n\r\nMotion Planning\r\nCompute Cost\r\nOptimal Path\r\nFirst Search Program\r\nExpansion Grid\r\nDynamic Programming\r\nComputing Value\r\nOptimal Policy\r\n\r\nLesson 5: PID Control\r\n\r\nRobot Motion\r\nSmoothing Algorithm\r\nPath Smoothing\r\nZero Data Weight\r\nPid Control\r\nProportional Control\r\nImplement P Controller\r\nOscillations\r\nPd Controller\r\nSystematic Bias\r\nPid Implementation\r\nParameter Optimization\r\n\r\nLesson 6: SLAM (Simultaneous Localization and Mapping)\r\n\r\nLocalization\r\nPlanning\r\nSegmented Ste\r\nFun with Parameters\r\nSLAM\r\nGraph SLAM\r\nImplementing Constraints\r\nAdding Landmarks\r\nMatrix Modification\r\nUntouched Fields\r\nLandmark Position\r\nConfident Measurements\r\nImplementing SLAM\r\n\r\nRunaway Robot Final Project\n                                    ", 
+    "end_date": null, 
+    "title": "CS 8802, Artificial Intelligence for Robotics: Programming a Robotic Car", 
+    "price": 0, 
+    "instructors": "Sebastian Thrun", 
+    "institution_name": [
+        "Stanford University"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.udacity.com/course/cs373", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2014-01-31T00:00:00Z"
+}

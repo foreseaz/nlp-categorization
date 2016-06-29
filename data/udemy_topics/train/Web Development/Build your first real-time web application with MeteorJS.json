@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    Meteor is quite new technology. Version 1.0 was published in October 2014.  </p>  <p>  \t    You will learn how easy it is to build real-time applications (eg. chat) with MeteorJS. And you will build your own chat application which you can share with the world.  </p>  <p>  \t                    You will practice. A lot. You will create a part of your application almost in every lesson.  </p>  <p>  \t                  Maybe you have some experience with web development, maybe you don't.  Meteor is easy to learn for everyone. Because it's JavaScript everywhere  (client &amp; server). You can even build mobile applications with Meteor. If you know JavaScript, you will learn  Meteor easily<strong>.</strong></p><p><strong><strong></strong></strong><strong>T<strong>his course also includes advanced section where you will learn tips &amp; tricks for developing Meteor applications.</strong></strong><strong></strong></p>", 
+    "end_date": null, 
+    "title": "Build your first real-time web application with MeteorJS", 
+    "price": 0, 
+    "instructors": "Tomáš Hromník", 
+    "commitment": "39 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/318424_46f8_3.jpg", 
+    "course_url": "https://www.udemy.com/build-your-first-real-time-web-application-with-meteorjs/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-12T21:27:57Z"
+}

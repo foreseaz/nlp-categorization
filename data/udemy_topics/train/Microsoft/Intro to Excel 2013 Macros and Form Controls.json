@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>This course is an introduction to Excel Macros and Form controls. The course is designed for those with some experience using Excel and now want to start using Macros and form controls in their spreadsheets. The course has three main parts, first part is all about working with and running macros, in this part you will learn how to record Macros work with and run Macros. You will learn the difference between absolute and relative references when recording your Macros and many other things you can do with Macros. The second part has to do with excel Form controls, you will learn the nine Form controls you can insert into your spreadsheets and how to define their properties to collect and work with data. The last part is us using what we have learned to create an order form application using excel formulas, form controls and macros.</p>", 
+    "end_date": null, 
+    "title": "Intro to Excel 2013 Macros and Form Controls", 
+    "price": "20.00", 
+    "instructors": "Bobson St. Pierre", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/611150_21ee_2.jpg", 
+    "course_url": "https://www.udemy.com/excelmacros/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-13T23:41:09Z"
+}

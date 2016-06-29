@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Javascript Developers: coding React is not hard, but it's not simple either.  We will walk through and learn how to use React ecosystem tooling. Tools like Git, Jenkins CI, Node Package Manager, WebPack, Babel, and Jest all need configuration specific to your application.  This can be daunting to those new to React development.  This series breaks down usage and best practice configuration for you.</p><p>Making React development even more complex, is the decision as to which Javascript Module Pattern to use.  In this tutorial, we break down two of the most popular options: CommonJS and ES2015 modules.  After this you will be armed with enough data to make an informed decision.  </p><p>Let's get started!<br><br></p>", 
+    "end_date": null, 
+    "title": "React Tooling and Development Workflow in Action ", 
+    "price": "30.00", 
+    "instructors": "John Ruffin", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/693934_5100_3.jpg", 
+    "course_url": "https://www.udemy.com/react-js-development-workflow/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-10T12:42:17Z"
+}

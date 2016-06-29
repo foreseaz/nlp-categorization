@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tLearn to build web and mobile games with HTML5.  Even if you have no experience in programming or web development, you can create your own games.  </p>  <p>  \tThis course begins with a quick overview of web development in HTML5 and shows you the basic web framework used in all modern pages.  It then teaches essential programming concepts using the JavaScript language embedded in all modern browsers.  </p>  <p>  \tIt introduces the simpleGame.js engine, showing you how the engine works and introducing a free online game development tool.  For more information on game programming, please see my other course.  </p>", 
+    "end_date": null, 
+    "title": "HTML5 Simple Game Programming Preparation", 
+    "price": 0, 
+    "instructors": "Andy Harris", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/181928_1d6c_4.jpg", 
+    "course_url": "https://www.udemy.com/free-prep-for-html5-game-development/", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-13T17:26:47Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>In this series, Emiel Sleegers is going to be covering how to sculpt and build a catacomb environment using Maya and ZBrush. For starters he will be creating and unwrapping some base meshes within Maya, and from there he will be taking said meshes into ZBrush where he will covering topics such dynamesh, additional damage sculpting, insert mesh, and more. From there, he will then export the meshes back to Maya for an optimization pass and then take everything into Marmoset Toolbag for rendering.<br></p><p><strong>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</strong></p><p>More about the Instructor:</p><p>Emiel Sleegers is a self-taught 3d artist currently residing in the Netherlands. He's been teaching himself 3D art for the past 3-4 years, and has worked as a freelance artist on numerous unannounced projects. He's a lover of all things 3d and enjoys sharing the knowledge he has obtained with others eager to learn.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Learn to Sculpt an Underground Catacomb with ZBrush", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/570500_979f.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-learn-to-sculpt-an-underground-catacomb-with-zbrush/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-31T21:43:44Z"
+}

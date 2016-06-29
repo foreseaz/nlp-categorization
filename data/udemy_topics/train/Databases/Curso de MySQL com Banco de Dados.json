@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Seja bem vindo! O curso de Mysql com Banco de Dados contém\n31 aulas. Este curso te permitirá receber todo suporte para trabalhar\ncom a criação de sites e sistemas para web com banco de dados. Através deste\ncurso completo você poderá inclusive se tornar um programador web.</p><p>Entre os tópicos que veremos durante o curso incluímos Servidor Local para banco de dados,\ncomo Iniciar e Configurar o Servidor Local, Testar a Conexão, Criar um banco\nde dados, Gerar uma Tabela, Criar a estrutura do Sistema, Gerenciar Tabelas, entre\noutras coisas.</p><p>Estarei disponível para qualquer eventual dúvida durante o curso. Um certificado será enviado para aqueles alunos que completarem todos os módulos.</p><p>Te vejo no curso!</p>", 
+    "end_date": null, 
+    "title": "Curso de MySQL com Banco de Dados", 
+    "price": "20.00", 
+    "instructors": "Hugo Vasconcelos", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/653872_ea46_2.jpg", 
+    "course_url": "https://www.udemy.com/curso-de-mysql-com-banco-de-dados/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-28T21:15:10Z"
+}

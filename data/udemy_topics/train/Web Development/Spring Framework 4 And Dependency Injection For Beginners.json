@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  If you are <strong>new to Spring Framework</strong>, or you <strong>know Spring 3 but are new to Spring 4 or Java configuration</strong>, take this as <strong>your </strong><strong>first course.</strong>  </p>  <p>  \tIn this step-by-step video tutorial, we are first going to learn how to quickly create a new Spring application, and then we are going to dive into the fundamentals of the dependency injection (IoC) features of Spring using Java and annotation based configuration, which is going to be extremely useful to you when taking any other course on Spring Framework.  </p>  <p>  \t    Dependency Injection in Spring Framework is very vast, and a common real world developer needs to be readily knowing only a handful of commonly useful features. We are going to cover that handful of useful things here, to get you started developing real world applications fast. Later, when you need, you can always refer to Spring's documentation for the less commonly used features.  </p>  <p>  \t    That said, here <strong>we are going to cover many key features useful in real world development</strong>, like <em>Spring profiles</em>, <em>externalizing configuration</em> etc., which are important for real world development, but you will not find those covered in many other tutorials.</p>  <p>  \t    Also, as a bonus, I am going to show you how simple it has become to send SMTP mails after the release of Spring Boot 1.2.  </p>  <p>  \t    If you are new to Spring 4 and Java configuration, I would highly recommend that <strong>before taking any other Spring course, you should take this course first</strong>.  </p>  <p>  \t    You should be knowing Java to be able to follow this course. Knowledge of web development will help, because in some examples we have used a bit of Spring MVC, but is not needed.  </p><p>While going through this tutorial and later, you'll be needing the e-book \"<em>Spring Framework 4 Getting Started And Dependency Injection For Beginners</em>\" as the reference material. It's FREE now, and the first lesson has instructions on how to get it.</p>", 
+    "end_date": null, 
+    "title": "Spring Framework 4 And Dependency Injection For Beginners", 
+    "price": 0, 
+    "instructors": "Sanjay Patel", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/357726_2b63_6.jpg", 
+    "course_url": "https://www.udemy.com/spring-framework-video-tutorial/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-27T12:22:32Z"
+}

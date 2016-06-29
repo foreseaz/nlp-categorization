@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this iOS Developer's Guide to Views and ViewControllers training course, expert author Jesse Feiler teaches you how to build an app using Xcode storyboards. This course is designed for users that already have user experience with iOS or OS X as well as Swift, Objective-C or another object-oriented language.</p>\n\n<p>You will start by learning how to build a project from a template, including how to customize Xcode, create a storyboard, and write the code using Objective-C and Swift. From there, Jesse will teach you about the View and ViewController structure. This video tutorial also covers how to build a storyboard, use the navigation controllers, and build bar button items. You will also learn how to use asset catalogs, and bars. Finally, you will learn how to use alerts, action sheets, and present Views modally. </p>\n\n\n\n<p>Once you have completed this computer based training course, you will be fully capable of building your own apps using Xcode storyboards. </p>", 
+    "end_date": null, 
+    "title": "iOS Developer's Guide to Views and View Controllers", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/853256_0fa7_3.jpg", 
+    "course_url": "https://www.udemy.com/ios-developers-guide-to-views-and-view-controllers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-18T17:44:16Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Are you familiar with the Java language but not quite sure how to start building applications for the real world? The Spring Framework is the standard for building applications in Java but this isn't your parents Spring Framework.</p><p>Long gone are the days of needing a PHD to setup a Spring Project. With the help of Spring Boot we can now have applications up in minutes instead of days. In this course we will take a quick moment to explain what the Spring Framework is and then move right into the fun stuff. We will learn all about Spring Boot as well how to setup our own development environment and how to use the tools that are required of us to be productive. </p><p>You will write your own Hello World application by the end of this short introduction to boot and be ready for more. What are you waiting for? This course is free and Spring is a skill employers are looking for so stop procrastinating and sign up today! </p>", 
+    "end_date": null, 
+    "title": "Introducing Spring Boot", 
+    "price": 0, 
+    "instructors": "Dan Vega", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/760202_f202_2.jpg", 
+    "course_url": "https://www.udemy.com/spring-boot-getting-started/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-11T23:44:37Z"
+}

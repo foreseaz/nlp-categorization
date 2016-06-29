@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Ever wanted to make an Instagram clone?</p><p>Before now you would have to create a server, learn PHP and image handling as well as <strong>app coding</strong>!</p><p>That's all changed now. I will take you through the Ostetso framework which is a free photo sharing network. Leverage the power of Instagram in less than an hour! I will show you how to:</p><ul><li>Install Xcode (and iOS simulator)</li><li>Install Ostetso</li><li>Import your photos into the app</li><li>Create a simple sharing function</li></ul><p><br></p><p>------------------------------------------------</p><p><strong>PLEASE NOTE: </strong>This course is designed to get you up and running with Xcode and iOS in <strong><em>record</em></strong> time. Therefore I have limited time to actually explain everything. My other courses on iOS app development explain everything we do in much more detail.<br></p><p>------------------------------------------------</p>", 
+    "end_date": null, 
+    "title": "Instagram iOS App in 44 minutes: Photo Sharing on iOS", 
+    "price": 0, 
+    "instructors": "Mr Grant Klimaytys", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/742012_36ea_2.jpg", 
+    "course_url": "https://www.udemy.com/instagram-ios-app-in-44-minutes-photo-sharing-on-ios/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-26T09:59:30Z"
+}

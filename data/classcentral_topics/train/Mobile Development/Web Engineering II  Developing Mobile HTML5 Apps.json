@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Become familiar with the challenges that come with the planning, development, testing, and maintenance of HTML5 apps. Web Engineering takes you through the concepts, methods, techniques, and tools needed for systematically developing websites and Web applications. In Web Engineering I \"Basics of Web Development\" we learned how to create a professional website, and now we take a step further as you develop your very own HTML5 app!\r\nUsing the HTML5 mobile application framework Sencha Touch, you will go online and practice handling the infrastructure and tools needed for the development and maintenance of an established Web app. In particular, you will learn the basic technical and architectural principles necessary for Web app building.\r\nLearning Objectives\r\nAt the end of the two-part course, you will be able to:\r\n\r\nDevelop a high-performance, secure and accessible website, upon a client’s request.\r\nDesign and realise an HTML5 app and upload this to app stores.\r\n\r\nPrerequisites for Course Participation\r\nYou must have a working knowledge of HTML/CSS.\n\n                                            Syllabus\n                        Web Engineering II builds upon on the material learned in the first course, Web Engineering I.\r\nEach chapter presents the following content through a series of instructional videos, screencasts and online interactive exercises. You will also work in small groups, applying and testing practical examples of key technical aspects in Web development.\r\n\r\nChapter 11: Starter Kit: Tools for the HTML5 App in the Cloud\r\nChapter 12: REST Architectural Style for Mobile Web Applications\r\nChapter 13: Interactive Exercises with JavaScript at Codecademy\r\nChapter 14: Single-Page Applications with AJAX, JSON, and REST APIs\r\nChapter 15: Overview of HTML5 and its JavaScript APIs\r\nChapter 16: Exercises with the HTML5 Mobile Application Framework Sencha Touch\r\nChapter 17: Introduction to NoSQL Databases for Web Apps\r\nChapter 18: Full-Stack JavaScript: Design and Implementation of a WebSocket App\r\nChapter 19: Preparing an HTML5 App for App Stores\r\nChapter 20: Screen Casting Web Apps for User Documentation\r\n\r\nAs a learning object for exploring and applying the course content, we will use the mobile Web-based Audience-Response SystemARSnova. It will be used as a live feedback app throughout the MOOC.\n                                    ", 
+    "end_date": "2014-03-14T00:00:00Z", 
+    "title": "Web Engineering II: Developing Mobile HTML5 Apps", 
+    "price": 0, 
+    "instructors": "Klaus Quibeldey-Cirkel", 
+    "institution_name": [
+        "Technische Hochschule Mittelhessen"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://iversity.org/courses/web-engineerihttps://iversity.org/courses/web-engineering-ii-developing-mobile-html5-apps", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "iversity"
+    ], 
+    "start_date": "2014-01-17T00:00:00Z"
+}

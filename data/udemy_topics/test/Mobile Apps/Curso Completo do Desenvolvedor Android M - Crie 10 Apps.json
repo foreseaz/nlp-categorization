@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Curso Completo do Básico até o nível mais Avançado!</strong></p><p><strong></strong>Já pensou em se especializar em desenvolvimento Android? Que tal ser um dos profissionais mais cobiçados do mercado?</p>\n\n<p>O curso é todo desenvolvido baseado em projetos reais. Vamos construir aplicativos clones de grandes apps famosos. Começaremos baixando o Android Studio e configurando o nosso emulador. Em seguida, vamos entender como funcionam as views, os layouts, a linguagem java e como utilizar a lógica de programação em seus projetos.</p>\n\n<p>Criaremos um clone do Twitter utilizando o Parse e em seguida, faremos o 7 Minutes Workout integrado com o Youtube. Vamos criar nosso clone do Tinder e descobrir como utilizar o sistema de login do Facebook. Em seguida, você vai criar um clone do Trip Advisor e aprender como trabalhar com o Google Maps e o banco de dados SQLite. E finalmente vamos criar o FlappyBird, utilizando a engine de games GDX e sprites.</p>\n\n<p>Tudo isso para depois aprender a publicar seu App na Google Play.</p>\n\n<p>Se você tiver dúvidas ao longo do curso, não se preocupe. Estaremos nos fóruns respondendo as suas perguntas!</p>\n\n<p>E aí? O que tá esperando pra começar a criar seus aplicativos? Inscreva-se agora mesmo e comece a criar aplicativos incríveis com o Android Studio!</p>\n\n<p><strong>Vantagens de se tornar um aluno</strong></p>\n\n<ul><li><strong>Acesso vitalício ao curso:</strong> assista quando e quantas vezes quiser.</li><li><strong>Download dos vídeos:</strong> através dos Apps Udemy para Android/iOS você pode fazer download dos vídeos e assistí-los offline.</li><li><strong>Certificado reconhecido:</strong> a Udemy oferece certificação de conclusão do curso, especificando o curso e a carga horária realizada.</li></ul>", 
+    "end_date": null, 
+    "title": "Curso Completo do Desenvolvedor Android M - Crie 10 Apps", 
+    "price": "40.00", 
+    "instructors": "Mirago Marketing Digital, Tito Petri, Luiz Henrique Ugliano", 
+    "commitment": "22 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/647736_2e41_6.jpg", 
+    "course_url": "https://www.udemy.com/curso-completo-desenvolvedor-android/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-22T11:58:37Z"
+}

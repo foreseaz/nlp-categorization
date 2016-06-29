@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">This course is geared for people who want to learn a little more about building web applications that have a business slant to them. Although there is some coding involved to get the budget sliders to work, you don&#039;t need a programming or a business background to create these projects. The content is explained in a very simple way.</p><p style=\"\">It will take about three hours to complete this course. There is no material that you need to download as you will create everything you need from scratch! You will access two online resources.</p><p style=\"\">This course starts out by first looking at the completed project. We then take a planned and methodical process to build one small step at a time. The lessons typically are short and you&#039;ll see yourself building momentum as you quickly progress through these lessons.</p><p style=\"\">This course is geared for people who would want to start to add interactivity to their sites. Rather than having just pictures, text and links, you can now start to build an interface that engages visitors. </p><p style=\"\">So if you&#039;re interested in learning how to create some neat interactions that has a bit of a business approach to it, this is the course for you.</p><p style=\"\">At the end, you will have a fully functioning HTML5 website that you can populate with your own content.</p>", 
+    "end_date": null, 
+    "title": "Build a HTML5 Business Web Application", 
+    "price": "20.00", 
+    "instructors": "Krista Hildner, Phil Cowcill", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/514536_cc3d_3.jpg", 
+    "course_url": "https://www.udemy.com/build-a-html5-business-web-application/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-29T12:25:20Z"
+}

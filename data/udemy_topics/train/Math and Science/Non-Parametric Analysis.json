@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>  \t     In your research, have you ever encountered one or more the following scenarios:  </p>  <ul style=\"\">  \t<li>survey data</li>  \t<li>non-linear data</li>  \t<li>“chunked” data (1-4 cm, 2-5 cm, &gt;5 cm…)</li>  \t<li>qualitative judgments measured on a ratings scale</li>  \t<li>data that don’t follow a normal distribution (this is a big one)</li>  \t<li>data that violate assumptions of ANOVA (what were those assumptions again…?)</li>  </ul>  <p>  \t     My guess is you&#039;ve run into at least a few of these on multiple occasions (and maybe you didn&#039;t even know it!).  </p>  <p>  \t                  The bad news is that your skills from parametric tests (like ANOVA) are no good in practically all of the above scenarios.  </p>  <p>  \t     Knowing even a few basic<strong style=\"\"> </strong>non-parametric stats will help you tackle these situations.  </p>  <p>  \t     Learning non-parametrics is a quick way to <strong style=\"\">double the number of tools in your stats tool belt</strong><strong style=\"\">.</strong>  </p>  <p>  \t     Here, you&#039;ll learn some of the most common non-parametric statistics used across many different fields of research. After we review the fundamentals of a test, I show you, <strong style=\"\">step-by-step,</strong> how to conduct, interpret, and report each test in SPSS.  </p>  <p>  \t                  Learning these new stats will also help you better understand the tests you already know how to run, and you’ll be ready to take on the next person that asks you why you chose to use a Kruskal-Wallis instead of a one-way ANOVA.  </p>  <p>  \t                  You’ll have lifetime access to <strong style=\"\">24+ videos totaling over 3 hours of instructional content</strong> on non-parametric statistics. As a bonus, I have an entire module showing you how to make quality box plots in SPSS that you can use in your research publications or professional presentations.  </p>  <p>  \t                  You can download all of the data sets we use in the examples and follow along or go through them on your own for practice.  </p>  <p>  \t                  If you aren’t satisfied with the course for any reason, it’s backed by the Udemy 30-day money back guarantee.  </p>", 
+    "end_date": null, 
+    "title": "Non-Parametric Analysis", 
+    "price": "20.00", 
+    "instructors": "Drew Birnie", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/147082_d00d_7.jpg", 
+    "course_url": "https://www.udemy.com/non-parametric-analysis/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-15T02:14:33Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>(This Course is still in development</strong><strong>)</strong></p>This course will introduce you to the following data structures<ul><li>Singly Linked List</li><li>Doubly Linked List</li><li>Stack</li><li>Queues</li><li>Circular Arrays</li><li>Priority Queues</li></ul><p>So why even bother learning data structures? I know everybody wants to build the latest and greatest app or build a website so why data structures? I'll give you two reason why you need to know data structures.</p><p>1) They are often common interview questions regardless of what programming field you are going to enter.<br>2) If you understand the implementations behind the scenes you will make more informed decisions the next time your programming on which underlying data structure will give you the best result.</p>", 
+    "end_date": null, 
+    "title": "Data Structures in Java for Noobs", 
+    "price": "20.00", 
+    "instructors": "Pedro Mercado", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/669366_49c8_2.jpg", 
+    "course_url": "https://www.udemy.com/data-structures-in-java-for-noobs-programming-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-14T06:03:43Z"
+}

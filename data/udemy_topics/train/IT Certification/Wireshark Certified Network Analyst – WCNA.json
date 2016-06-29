@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t  In your day-to-day role as a network engineer you will spend much of your time resolving network issues from DNS, DHCP and TCP to slow performance issues and possible hacking attempts.  </p>  <p>  \t  An essential part of your role will be the ability to capture and analyze packets travelling across the network, interpret the results and make suggestions based upon what you find.  </p>  <p>  \t  Most engineers avoid packet sniffers because they feel they are complicated but once you do understand how to do it your confidence and ability will massively improve.  </p>  <p>  \t  This course covers all you need to know about using Wireshark packet capture tool and equips you take take the highly prized exam, the Wireshark Certified Network Analyst or WCNA.  </p>  <p>  \t  Included are in-depth lectures with real world traffic examples. You also get access to sample traffic patterns from Wireshark so you can do your own labs at home.  </p>", 
+    "end_date": null, 
+    "title": "Wireshark Certified Network Analyst – WCNA", 
+    "price": "20.00", 
+    "instructors": "How To Network", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/387152_fe18_2.jpg", 
+    "course_url": "https://www.udemy.com/wireshark-wcna/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-06T22:57:29Z"
+}

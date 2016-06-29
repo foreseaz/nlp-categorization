@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Kursumuzda <strong style=\"\">C# Dilini</strong> ayrıntılı olarak öğrenip farklı platformlarda mükemmel uygulamalar geliştirebilirsiniz. İster <strong style=\"\">Web Uygulamaları</strong> ister <strong style=\"\">windows uygulamaları </strong>geliştirmek isteyin bu kurs tam size göre. Üstelik yazılım geçmişiniz olması gerekmiyor çünkü kursumuz tüm seviyelere göre hazırlanmıştır.</p><p style=\"\">Bu kursta öğreneceklerinizi onlarca kitaba sığdırmak gerçekten zor. Yorulmadan zaman kaybetmeden kısa zamanda profesyonel bir yazılımcı olup uygulama geliştirmeye başlayın.</p><p style=\"\">Kursumuzda ilk olarak C# dili ayrıntılı bir biçimde anlatılıyor.</p><p style=\"\">C# dilinin dil özellikleri 50 videodan fazla ve ortalama 5 saat içerikten oluşmaktadır. Bu bölüm Console Uygulamaları üzerinden bol örnek verilerek anlatılmaktadır.</p><p style=\"\">İlk olarak ;</p><p style=\"\">Uygulama geliştirme ortamını tanıyoruz.</p><p style=\"\"><strong style=\"\">Visual Studio</strong> nedir ve nasıl kullanırız</p><p style=\"\"><strong style=\"\">Değişken kavramı</strong> nedir ?</p><p style=\"\">Program Akış kontrollerinden </p><p style=\"\"><strong style=\"\">İf-else</strong></p><p style=\"\"><strong style=\"\">Switch</strong></p><p style=\"\">Ve döngülerden ;</p><p style=\"\"><strong style=\"\">For</strong></p><p style=\"\"><strong style=\"\">While</strong></p><p style=\"\"><strong style=\"\">Do-while</strong></p><p style=\"\"><strong style=\"\">Foreach </strong>komutları ayrıntılı olarak anlatılıyor.</p><p style=\"\"><strong style=\"\">Bütün string işlemleri</strong> anlatılıp örneklendiriliyor.</p><p style=\"\"><strong style=\"\">Aritmetik</strong></p><p style=\"\"><strong style=\"\">Mantıksal</strong></p><p style=\"\"><strong style=\"\">İlişkisel operatorler</strong> anlatılıyor</p><p style=\"\"><strong style=\"\">Diziler</strong></p><p style=\"\"><strong style=\"\">Generic List</strong> çeşitleri</p><p style=\"\"><strong style=\"\">Hata Yakalama</strong> komutları ve daha bir sürü C# özellikleri anlatılıp örneklendiriliyor.</p><p style=\"\">C# dil özelliklerini öğrendikten sonra ;</p><p style=\"\"><strong style=\"\">Windows uygulamaları</strong> oluşturup windows formları adına herşeyi uygulamalar üzerinden öğreneceğiz.</p><p style=\"\">Web tabanlı uygulamar için gereken bütün konular ayrıntılı şekilde anlatılıp sıfırdan dinamik web uygulamaları geliştireceğiz.</p><p style=\"\"><strong style=\"\">Entity Framework</strong> konusunu ayrıntılı öğreneceğiz.</p><p style=\"\"><strong style=\"\">Linq sorguları</strong> yazacağız.</p><p style=\"\"><strong style=\"\">Entity Framework Code First </strong>ile kısa zamanda veritabanımızı <strong style=\"\">C#</strong> ortamında tasarlayıp verilerimizi performanslı şekilde kaydedeceğiz.</p><p style=\"\"><strong style=\"\">C# dili programlama dünyasının en popüler en gelişmiş yazılım dilidir.</strong></p><p style=\"\">C# dilini öğrenmek artık çok basit.</p><p style=\"\">Bu kursu alarak C# diline hakim olun ve farklı platformlarda mükemmel uygulamalar geliştirip kariyerinizde farklı bir sayfa açın.</p><p style=\"\">Zamandan tasarruf yaparak kısa zamanda C# diline hakim olabilirsiniz.</p><p style=\"\">Bu kursu alarak ; C# dilinin temel konularını çabucak öğrenebilir ve farklı platformlarda yazılım geliştirip kısa zamanda kariyer yapabilirsiniz.</p><p style=\"\">İster profesyonel bir web developer olun ve dinamik web sitelerini kısa zamanda geliştirip hayallerinize kavuşun ister mükemmel windows uygulamaları geliştirin tercih sizin...</p><p style=\"\">Bu kursu alarak onlarca görsel eğitim videosuna ve uygulamalarına sahip olacaksınız.</p><p style=\"\">Artık arama motorlarında konu araştırıp gereksiz onlarca döküman ve video ile uğraşmanın anlamı yok.</p>", 
+    "end_date": null, 
+    "title": "C# Programlama Dilini Öğreniyorum : Tüm Seviyelere Uygun", 
+    "price": "35.00", 
+    "instructors": "Sadık Turan", 
+    "commitment": "13 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/526798_e3cb_3.jpg", 
+    "course_url": "https://www.udemy.com/c-sharp-programlama-dilini-ogreniyorum/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-12T14:34:22Z"
+}

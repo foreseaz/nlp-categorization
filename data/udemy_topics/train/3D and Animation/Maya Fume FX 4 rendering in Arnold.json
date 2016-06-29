@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>This course is designed to take any shot in production from start to finish. A useful pipeline of taking any geometry, making it suitable for simulation, creating the shot, rendering it, and finally putting it together quickly in a compositing package. This course is designed to teach you the method of creating any effect so you can create your own setups and effects.</p>", 
+    "end_date": null, 
+    "title": "Maya Fume FX 4 rendering in Arnold", 
+    "price": "20.00", 
+    "instructors": "Joel Berg", 
+    "commitment": "31 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/839976_a4af.jpg", 
+    "course_url": "https://www.udemy.com/maya-fume-fx-4-rendering-in-arnold/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-05T01:38:26Z"
+}

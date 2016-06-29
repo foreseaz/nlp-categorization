@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this Building Apache HBase Applications training course, expert author Jonathan Hsieh will teach you how to design and build an application using HBase's Java API. This course is designed for users that are already familiar with Hadoop. You will start by learning how to interact with HBase. From there, Jonathan will teach you how to build your first application. This video tutorial also covers the HBase data life cycle and deploying distributed HBase. Finally, you will learn about HBase application architectures, including HBase application archetypes and basic HBase tuning. </p><p>Once you have completed this computer based training course, you will have gained a solid understanding of how to build HBase applications. Working files are included, allowing you to follow along with the author throughout the lessons.</p>", 
+    "end_date": null, 
+    "title": "Building Apache HBase Applications", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/810296_ff0c_2.jpg", 
+    "course_url": "https://www.udemy.com/building-apache-hbase-applications/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-01T19:19:11Z"
+}

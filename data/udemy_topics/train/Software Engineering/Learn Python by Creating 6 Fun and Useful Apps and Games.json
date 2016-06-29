@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Why Learn Python?</strong>  </p>  <p>  \t    Python is a great way to get into Programming. In fact it is the first language I ever learnt fully. Software Engineers are required by a lot of companies to have a knowledge of this new and fun language.  </p>  <p>  \t<strong style=\"\"><br style=\"\">  \t</strong>  </p>  <p>  \t<strong style=\"\">What is in the course?</strong>  </p>  <p>  \t    In this course you will be able to learn Python 3.4 from scratch.  </p>  <p>  \t    We will be covering all of the basics from what a string is to how to manipulate it within an inch of its life.  </p>  <p>  \t    You will learn how to create a few games and utility programs throughout the Course. These include: <strong style=\"\">A calculator, and Etch A Sketch and a Black Jack Simulator!</strong>  </p>", 
+    "end_date": null, 
+    "title": "Learn Python by Creating 6 Fun and Useful Apps and Games", 
+    "price": "20.00", 
+    "instructors": "Jonathan Bartlett", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/321062_be74_3.jpg", 
+    "course_url": "https://www.udemy.com/complete-python-dev-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-16T19:15:51Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>初めまして、本講座を監修しておりますMasaaki Hatanoです。まずは本講座をご覧いただきありがとうございます。本講座では全くの初心者の方でも自分の作りたいiPhoneアプリが作れるようになるために必要な要素を全て詰め込みました。本講座を完了することで確実にiPhoneアプリを作成することが出来るようになります。<br></p><p>また、本講座では開発の手法だけでなく「何を、何故開発するのか？」という視点から既に成功しているアプリを開発している方々のインタビューを収録しております。現在アップルストアには約150万個のアプリがあると言われています、その中でダウンロードされ、使い続けられているアプリは僅かです。本講座ではただ作るだけではなく「使われるアプリ」を作ることを目指します。</p><p>では、本講座が皆様の夢を叶える事に少しでも貢献出来る事を願っています。</p><p>本講座で学ぶことの一部</p><p>＊最新のSwift2ー基本的な変数から自分独自のファンクションの開発</p><p>＊Xcode7ーダウンロードの仕方から特殊な開発技法</p><p>＊ストーリーボードの使い方</p><p>＊データーの管理方法とメモリの最小化</p><p>＊アプリへ音声、画像、アニメーションの追加の方法</p><p>＊NSタイマークラスの使い方</p><p>＊iCloudアプリの作り方</p><p>＊プッシュ通知</p><p>＊UIデザイン「アメリカでスタンダードになっているスケッチ３をマスターします」</p><p>＊様々なブラウザーへの対応</p><p>＊タイマーアプリの作り方</p><p>＊アニメで遊ぶアプリの作り方</p><p><br></p>", 
+    "end_date": null, 
+    "title": "一週間で完全マスター、０から学ぶ売れるiphoneアプリの作り方(Swift2, IOS9対応)", 
+    "price": "40.00", 
+    "instructors": "BeSomebody Masaaki Hatano, Stephen DeStefano, Andrew Eddy", 
+    "commitment": "17 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/699834_5da5.jpg", 
+    "course_url": "https://www.udemy.com/ios9-swift2-japan-besomebody/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-17T09:02:15Z"
+}

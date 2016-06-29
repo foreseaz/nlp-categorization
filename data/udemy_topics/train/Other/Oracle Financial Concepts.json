@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course teaches students about the basic Oracle Financial Concepts, including the way to to setup an organizational's functional Enterprise Structure in Oracle E-Business Suite.</p><p>It will be useful to anyone who is new to Oracle Financials and looking for understanding the basic concepts which forms the building blocks of entire Oracle E-Business Suite release 12i implementation project.</p><p>The course will start by taking a simple business scenario to understanding terms specific to Oracle Financials. Two more realistic business scenarios will be taken to demonstrate a multi-national company implementing Oracle Financials.</p>", 
+    "end_date": null, 
+    "title": "Oracle Financial Concepts", 
+    "price": "20.00", 
+    "instructors": "Kabeer Khan", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/638700_7bc9_2.jpg", 
+    "course_url": "https://www.udemy.com/oracle-financial-concepts/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-12T23:31:55Z"
+}

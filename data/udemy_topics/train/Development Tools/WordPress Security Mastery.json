@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>WordPress is the most popular Web Content Management Systems in the world and it has over 60 million websites built using WordPress CMS. Building a WordPress website is just the beginning of a website construction; protecting the website from hacking, infested with malware and spam is a daunting task.</p><p><em>By the end of this course, you will be able to enhance the overall functionality of your WordPress website. </em></p><ul><li>Protect your website in real time from hackers, malware and viruses</li><li>Loads your web site under 3 seconds</li><li>Implement a disaster recovery procedures for your website and carry out a simulated recovery for your website</li><li>Integrating Google Analytic APIs to your website and track your website visitors</li><li>Lock down A website if an intruder attempts to hack your website</li><li>Reconfigure PHP's mail function to ensure your website's email more reliable</li><li>Fight and prevent spam from automated bots attacking your website</li><li>Optimized your WordPress website and increased your website visibility to Search Engines such as Google, Bing and Yahoo</li></ul><p>This course aims for anyone who wants to learn WordPress Plugins. That is, anyone who develops website using WordPress at all level and WordPress end-user or a business owner who like to quickly and effectively use top WordPress plugins without spending days researching and testing the most commonly used WordPress plugins.</p><p>Finally, the student should have an existing WordPress web site installed on a hosting provider or on your computer so that you can carry out the plugins installation, configuration and testing of the plugins.</p>", 
+    "end_date": null, 
+    "title": "WordPress Security Mastery", 
+    "price": "25.00", 
+    "instructors": "Mike Huynh", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/530730_f761_2.jpg", 
+    "course_url": "https://www.udemy.com/top-10-wordpress-plugins-must-have-for-wordpress-website/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-17T22:11:54Z"
+}

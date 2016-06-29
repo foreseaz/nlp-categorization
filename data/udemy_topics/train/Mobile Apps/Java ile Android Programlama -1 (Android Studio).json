@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Bu eğitimden yararlanmak için hiç bir programlama bilginizin olmasına gerek yoktur. Normalde java ile android programlama için Java SE bilinmesi gerekmektedir. Bu set detaylı bir planlama ile hem Java SE hem de android programlama iç içe verilmiştir. Bu gözünüzü korkutmasın çünkü diğer Java setlerinden çok daha kolay bir anlatım vardır. Hem java SE hem de android programlama birlikte verilerek ilk dersten itibaren mobil cihazların mimarisiyle muhatap olarak android programlamaya sağlam bir giriş yapmış olacaksınız.</strong></p><p>Artık mobil aygıtlar insanların hayatında vazgeçilmez bir yer almaya başladı. Her yaş grubundan insanda akıllı telefon bulunmaktadır. Bu insanların değişik kullanım alanları ve değişik mobil uygulama ihtiyaçları bulunmaktadır. Bu devrede programcılar devreye girmektedir. Bu da şu anlama gelmekte; mobil programcılar gelecekte önemli bir yere sahip olacaklardır. Özellikle android işletim sistemine sahip akıllı telefonların piyasada daha çok bulunmasını göz önünde bulundurduğumuzda android programlamanın öneminin bir kez daha farkına varmış oluyoruz. </p><p>İçerikleri hazırlarken bir eğitmen, bir öğretmen olarak nelere dikkat edilmesi gerektiğini, eğitim sürecini nasıl yönetmek gerektiğini bilerek ve bunları göz önünde bulundurarak bir plan ile içerikleri hazırladım. Bireysel farklılıkları göz önünde bulundurarak her bireyin videoları rahatlıkla anlayabileceği düzeyde bir anlatım mevcuttur. </p><p>Eğitim setinde sadece başlangıç seviyesindeki temel konular yer almıyor. Bazı konular programlama temelinizin sağlam atılması için detaya inilerek veya daha teknik açılardan bakarak anlatılmıştır. Teknik açılardan bakıldığında dahi hiç bir programlama bilgisi olmayan bireyler göz önünde bulundurulmuştur. Fakat şunu söylemem gerekir ki, videoda yer alan her bir kavramı veya modülü mutlaka anlamanız gerekmez. Bazı terimler ve modüller dersler ilerledikçe yerine oturacaktır. </p><p>Dersler her ne kadar sadece videolardan ibaret gibi gözükse de bazı derslerde sunum gibi anlatım tekniklerinden yararlanılmıştır. Programlama sadece iyi bir şekilde kod yazmak değil iyi bir planlama ve karmaşık algoritmaların (işlem basamakları) altındak kalkmayı gerektirir. Bütün bunlar göz önünde bulundurularak içerikler hazırlanmıştır. Herkese faydalı olmasını diliyorum. </p>", 
+    "end_date": null, 
+    "title": "Java ile Android Programlama -1 (Android Studio)", 
+    "price": "20.00", 
+    "instructors": "Özgen İmrağ", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/449772_73b3.jpg", 
+    "course_url": "https://www.udemy.com/java-ile-android-programlama-1-android-stuido/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-17T20:31:52Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>CompTIA Security+, powered by Calibrate, is online, self-paced course that teaches the fundamentals of IT security. Students will learn about network and network device security, compliance and operational security, certificate management, application and social engineering security, access control and identity management, cryptography, incident response and risk management, third party data security and cloud computing, and host and physical security measures. When a student passes the CompTIA Security+ SY0-401 exam, they gain an internationally recognized credential in one of the most in-demand IT fields. In the next decade, the security administration field is set to grow by 37%!</p>", 
+    "end_date": null, 
+    "title": "CompTIA Security+: SY0-401", 
+    "price": "50.00", 
+    "instructors": "Medallion Learning", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/490498_7ca3.jpg", 
+    "course_url": "https://www.udemy.com/comptiasecurityplus/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-30T16:52:48Z"
+}

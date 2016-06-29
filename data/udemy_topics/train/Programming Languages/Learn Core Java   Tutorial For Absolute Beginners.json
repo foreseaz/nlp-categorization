@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course you will learn to create solution to real-world problems in the Java Programming Language. This course covers most essential aspects of Core Java.</p><p>By the completion of this instructional video course, you will have the base knowledge that you need to create functional and useful Java programs.</p><p>All tutorials are practical sessions where complete insight is provided into each topic being covered. Practical examples of how the various concepts are used to create solutions to real-world problems are included in the course.</p><p>Java is a set of several computer software and specifications developed by Sun Microsystems, later acquired by Oracle Corporation, that provides a system for developing application software and deploying it in a cross-platform computing environment. Java is used in a wide variety of computing platforms from embedded devices and mobile phones to enterprise servers and supercomputers.</p>", 
+    "end_date": null, 
+    "title": "Learn Core Java | Tutorial For Absolute Beginners", 
+    "price": "20.00", 
+    "instructors": "Rahul Bhatia", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/470582_f1d8_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-core-java-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-08T06:40:17Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>********************Selenium </strong><strong>TestNG </strong><strong>Course****</strong>**********************************<br></p><p>Course cover real world examples and coding them while teaching</p><p>Student will be very comfortable to use TestNG after this course</p><p>Instructor Support is available if any help is required</p><p><strong>************************************************************************************************************</strong>*</p><p>Learning Selenium and preparing good Automation Test Frameworks we need to have good knowledge of TestNG. Better understanding of TestTG results better Frameworks.</p><p><strong>TestNG</strong> is a testing framework for the Java programming language inspired by JUnit and NUnit. The design goal of <strong>TestNG</strong> is to cover a wider range of test categories: unit, functional, end-to-end, integration, etc., with more powerful and easy-to-use functionalities.</p><p>This course not only covers most features of testNG but also ANT, Fancy Reporting, generating Logs and other Framework features.</p><p><span></span>This tutorial is designed for Software Professionals, who are willing to learn TestNG Framework.</p>", 
+    "end_date": null, 
+    "title": "Selenium TestNG working with Java", 
+    "price": "20.00", 
+    "instructors": "Vaibhav Gupta", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/539934_307b_2.jpg", 
+    "course_url": "https://www.udemy.com/selenium-testng-learn-with-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-29T06:26:45Z"
+}

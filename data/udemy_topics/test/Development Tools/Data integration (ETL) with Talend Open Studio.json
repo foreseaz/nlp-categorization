@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>If you want to simplify your data interactions than Talend Studio is the right product for you, but if you don&#039;t want to spend a fortune on training or books are not your preferred method than this course is exactly for you.</p><p>Within this course over the stretch of 8 hours you will learn how to install Talend how to navigate and use the interface efficiently. How to import data into Talend and then perform various transformation of data, cleansing, filtering, lookups, concatenations and much more. You will also learn some advanced features of Talend and how to work with different databases. Finally you will learn how to debug, log job information and monitor statistics of jobs that you build and schedule to run automatically. </p><p>This course will provide more than 8 hours of video material in 720p with full voice over and every example showcased will be available to you as a zip file attachment.</p><p>So if you want to quickly learn how to efficiently use Talend sign up.</p><p><strong style=\"\">Promise:</strong></p><p>In addition to the 7 main sections of the course, each week a new video will be uploaded after the course is published for at list 13 weeks. </p><p>Those videos will cover advanced topics, obscure Talend features you might find useful and tips and tricks. For instance – How to inject other application functionality into Talend.</p>", 
+    "end_date": null, 
+    "title": "Data integration (ETL) with Talend Open Studio", 
+    "price": "35.00", 
+    "instructors": "Aleksandr Eleynik", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/471800_8c6e_3.jpg", 
+    "course_url": "https://www.udemy.com/data-integration-with-talend-open-studio/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-09T11:37:25Z"
+}

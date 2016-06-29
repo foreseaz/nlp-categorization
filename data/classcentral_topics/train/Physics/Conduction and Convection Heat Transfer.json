@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Physics"
+    ], 
+    "description": "\n\n                    \n                    \n                    This is an introductory course in conduction and convection heat transfer. The subject heat transfer has a wide scope and is of prime importance in almost all fields of engineering and biological systems. The course emphasizes the underlying concepts of the conduction and convection modes of heat transfer and enumerates the laws and governing equations relating to the rates of heat transfer, based on derivation from fundamentals. There is a well balanced coverage of physical concepts, mathematical operations along with examples and exercise problems of practical importance. After completion of the course, the students will have a strong foundation on conduction and convection heat transfer and will be able to apply the basic principles, the laws, and the pertinent equations to practical scenarios. \n\n                                            Syllabus\n                        1. Introduction; Derivation of heat conduction equation, steady state 1-D and 2-D heat conduction I2. Steady state 1-D and 2-D heat conduction II3. Steady state 1-D and 2-D heat conduction III4. Unsteady heat conduction; Assignment I5. Convection I6. Convection II; Assignment II7. Convection III8. Convection IV9. Convection V; Assignment III10. Condensation and Boiling 11. Heat Exchangers; Assignment IV\n                                    ", 
+    "end_date": "2016-04-11T00:00:00Z", 
+    "title": "Conduction and Convection Heat Transfer", 
+    "price": 0, 
+    "instructors": "Suman Chakraborty and Sankar Kumar Som", 
+    "institution_name": [
+        "Indian Institute of Technology, Kharagpur"
+    ], 
+    "commitment": "3-4 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://onlinecourses.nptel.ac.in/noc16_me06", 
+    "duration": "12 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "NPTEL"
+    ], 
+    "start_date": "2016-01-18T00:00:00Z"
+}

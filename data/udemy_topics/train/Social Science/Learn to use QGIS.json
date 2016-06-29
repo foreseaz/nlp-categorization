@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>Do you want to learn how to use an open source Geographic Information System? Join me in this course and learn how you how to get started using QGIS. QGIS is a free Geographic Information System. The course is suited for someone who is interested in using an open source GIS and want to get started.</p><p>The course consists of a series of easy to follow instructional videos, divided into modules.</p><p>I will start off with an introduction to QGIS where the user interface is explained. The introduction will also cover how to create your first map layer</p><p>The next module covers how to work with vector data. This module will take on how to load vector data and how to make modifications to data and symbology. This module also includes a video explaining how to add labels to your maps</p><p>The create maps module covers how to create maps in the QGIS map composer. I will in this video cover how to create a map with descriptions for export to for example PDF and image formats.</p><p>The “create vector data&quot; module covers how to use the relevant QGIS toolbar, and how to create a new dataset. Data sources and projections will also be introduced in this module. The last video in this video will cover how to create a basic form in QGIS.</p><p>This course also covers how to load a raster image into QGIS. Different types of raster data will be explained in this module.</p><p>The last module will demonstrate how to install and maintain plugins int QGIS. An introduction to plugins will also be given in this module.</p><p>Enrol in this fantastic course today, and see how you can make use of QGIS. QGIS is extremely powerful and free to use</p><p>Additional modules will be added to this course in the near future based on student feedback. Thanks in advance for signing up for my course!</p>", 
+    "end_date": null, 
+    "title": "Learn to use QGIS", 
+    "price": "20.00", 
+    "instructors": "Thomas Fagernes", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/149366_bf50_6.jpg", 
+    "course_url": "https://www.udemy.com/learn-to-use-qgis/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Social Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-20T03:11:55Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Have you ever thought of a cool idea for an app, just to find  out later that some punk kid built it first and became a billionaire?</strong>  </p>  <p style=\"\">  \t<strong style=\"\">What if you could jump straight into iOS and Android app  development using the tool set you already have: HTML, CSS and  JavaScript?</strong>  </p>  <p style=\"\">  \tWe live in post-pc world where <strong style=\"\">HTML5</strong> and the <strong style=\"\">Open Web</strong> technologies have become mature enough to create robust mobile applications for all platforms, sharing a single code base.  </p>  <p style=\"\">  \tIn this original <strong style=\"\">ZENVA</strong> course, <strong style=\"\">Ashley Menhennett</strong>,  web and mobile developer, designer and technical author from Australia,  is going to guide you though the basic techniques you need to know to  create professional and beautiful mobile applications.  </p>  <p style=\"\">  \tThrough out the course, you’ll not only get access to foundational knowledge on mobile HTML5, but you’ll also build an <strong style=\"\">augmented reality</strong> <strong style=\"\">HTML5 app</strong>, featuring <strong style=\"\">video camera</strong> access, <strong style=\"\">photo</strong> <strong style=\"\">shooting</strong>, <strong style=\"\">geolocation</strong> using Google Maps API v.3, and <strong style=\"\">AJAX</strong> loading of a <strong style=\"\">JSON</strong> file with app data.  </p>  <p style=\"\">  \tWhat you’ll learn in this course, among many other techniques:  </p>  <ul style=\"\">  \t<li style=\"\"><strong style=\"\">Mobile HTML5 done right</strong>: viewport tag and grid layouts</li>  \t<li style=\"\"><strong style=\"\">CSS3 Media Queries</strong>, the foundation of the mobile web</li>  \t<li style=\"\">Professional looking apps using <strong style=\"\">Topcoat</strong></li>  \t<li style=\"\"><strong style=\"\">LocalStorage</strong> to save user data offline</li>  \t<li style=\"\">Working with <strong style=\"\">AJAX</strong> and <strong style=\"\">JSON</strong>, using <strong style=\"\">jQuery 2.x</strong></li>  \t<li style=\"\">Accessing the device<strong style=\"\"> video camera</strong> and taking <strong style=\"\">pictures</strong> using just HTML5!</li>  \t<li style=\"\"><strong style=\"\">Geolocation</strong> with <strong style=\"\">Google Maps v.3 API</strong></li>  \t<li style=\"\">Creating an entire <strong style=\"\">Augmented Reality (AR)</strong> mobile application</li>  </ul>  <p style=\"\">  \t<strong style=\"\">Join more than 40,000 students that learn how to build apps, games and websites with ZENVA courses!</strong>  </p>", 
+    "end_date": null, 
+    "title": "Mobile HTML5 App and Web Development for Beginners", 
+    "price": "20.00", 
+    "instructors": "Pablo Farias Navarro, Ashley Menhennett", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/231812_bec6_2.jpg", 
+    "course_url": "https://www.udemy.com/html5-mobile-apps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-28T12:49:03Z"
+}

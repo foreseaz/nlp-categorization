@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>SharePoint is a versatile platform for building solutions that address a wide range of business needs. SharePoint is a development platform, upon which powerful and compelling portal applications can be built.</span>  </p>  <p>  \tThis course provides developers with a thorough, in-depth guide to the internals of writing code for the SharePoint platform. SharePoint programming can be divided into categories like : Programming using Server Object Model, programming using SharePoint Web Services, Programming the Web Parts etc.  </p>  <p>  \tIn this course by development expert Kameswara Sarma Uppuluri, you&#039;ll learn essential concepts that you need to know to get started building applications for SharePoint platform such as features, event receivers, web parts and more. The course provides step-by-step walk-throughs and coding demos that you&#039;re encouraged to code along with to enhance the learning process.  </p>  <p>  \tThis course is broken down into 16 modules with each module providing source code where applicable so that you can follow along with Kameswara Sarma Uppuluri. Some of the modules can be seen in the below list.  </p>  <ol style=\"\">  \t<li>Server Object Model Approach</li>  \t<li>SharePoint Web Services Approach</li>  \t<li>Features</li>  \t<li>Event Receivers</li>  \t<li>Standard Web Parts</li>  \t<li>Visual Web Parts</li>  </ol>", 
+    "end_date": null, 
+    "title": "SharePoint 2013 Development using C# - Part I", 
+    "price": "35.00", 
+    "instructors": "Kameswara Uppuluri", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/326326_0c82_2.jpg", 
+    "course_url": "https://www.udemy.com/sharepoint2013development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-24T11:27:57Z"
+}

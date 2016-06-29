@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   In this course you will learn to create solution to real-world problems in the Java Programming Language. This course covers most essential aspects of Core Java.  </p>  <p style=\"\">  \t   Right at the beginning of the course, you will be taught how to use the Eclipse IDE for writing Java code. This will help you make very rapid progress in your endeavor to learn Java.  </p>  <p style=\"\">  \t   All tutorials are practical sessions where complete insight is provided into each topic being covered. Practical examples of how the various concepts are used to create solutions to real-world problems are included in the course.  </p>", 
+    "end_date": null, 
+    "title": "Become An Awesome Java Professional", 
+    "price": "20.00", 
+    "instructors": "Pramod Saini", 
+    "commitment": "16.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/179264_b652_9.jpg", 
+    "course_url": "https://www.udemy.com/java-programming-wizard/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-09T05:53:34Z"
+}

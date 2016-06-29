@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>R is a programming language and a software environment for statistical computing and graphics. It is a very popular language in areas of statistics and analytics. With this course, you will be able to build a strong foundation in R and can later branch out into other applications of R. The course will cover a range of topics ranging from basic data types in R to statistics and plots in R. You will be able to work alongside the instructor in each lecture. This course is designed for students who are completely new to R programming or those who need quick refresher in the basics of R. This course is broken down into easy to assimilate lectures and there are two quiz sections which test your understanding of the material. By the end of this course, you will be able to write programs in R, use basic statistics to analyze data and also build plots in R.</p>", 
+    "end_date": null, 
+    "title": "Basics of R", 
+    "price": "20.00", 
+    "instructors": "Nisha Kiran", 
+    "commitment": "43 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/692608_dedd_2.jpg", 
+    "course_url": "https://www.udemy.com/basicsofr/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-09T04:10:18Z"
+}

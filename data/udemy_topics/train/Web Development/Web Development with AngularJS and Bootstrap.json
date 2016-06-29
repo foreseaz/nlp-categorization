@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">AngularJS is an open source JavaScript library built by Google that allows you to extend and dynamically change HTML. Bootstrap is an open source set of styling rules and components built by Twitter to make building web pages quick and easy. With AngularJS and Bootstrap joining forces, we get tools to quickly and easily create interactive and dynamic websites that look and behave similar to popular websites.</p><p style=\"\">This video course will take you through a journey of building your first web application with AngularJS and Bootstrap. Each video will build on the functionality already learned in the previous video, always leaving you with a new feature of the running application.</p><p style=\"\">Starting with no knowledge of AngularJS or Bootstrap, you will build up your knowledge through practical examples covered throughout the course. You will cover topics including external libraries to improve the ease of use, dynamic data bindings, dynamic styling, multi-view pages, form feedback, and AJAX form submission.</p><p style=\"\">By the end of the video course, you will be able to successfully build a fully functioning web application.</p><p style=\"\"><strong style=\"\">About the Author</strong></p><p style=\"\"><strong style=\"\"></strong><strong style=\"\">Simeon Cheeseman</strong> is a JavaScript developer primarily focussed on AngularJS and NodeJS. He started off his career coding Coldfusion HTML pages before teaching himself AngularJS and later NodeJS as they started getting traction. He has been employed building a variety of web-based applications from content management systems, phone bill re-rating programs, customer resource management, and billings systems. He is currently heavily involved in several open source AngularJS projects and when he has the time, he helps out on StackOverflow and Wizperts.<strong style=\"\"></strong></p>", 
+    "end_date": null, 
+    "title": "Web Development with AngularJS and Bootstrap", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/506862_572c_2.jpg", 
+    "course_url": "https://www.udemy.com/web-development-with-angularjs-and-bootstrap/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-20T06:41:20Z"
+}

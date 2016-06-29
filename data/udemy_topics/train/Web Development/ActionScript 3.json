@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t     Con la programación ActionScript avanzamos un paso más en cuanto a la forma de crear interactividad para nuestras animaciones, tanto web como de escritorio. Adobe realizó un cambio muy importante en la versión 3  de ActionScrpt que es el lenguaje de programación de flash, y lo rediseñó por completo para que fuera una programación orientada a objeto.  </p>  <p>  \tEn este curso aprenderemos los fundamentos básicos de este lenguaje así como una introducción a la programación orientada a objetos. Adobe ActionScript es el lenguaje de programación de la Plataforma Adobe Flash. Originalmente desarrollado como una forma para que los desarrolladores programen de forma más interactiva. La programación con ActionScript permite mucha más eficiencia en las aplicaciones de la plataforma Flash para construir animaciones de todo tipo, desde simples a complejas, ricas en datos e interfaces interactivas. La versión más extendida actualmente es ActionScript 3.0, que significó una mejora en el manejo de programación orientada a objetos al ajustarse mejor al estándar ECMA-262 y es utilizada en las últimas versiones de Adobe Flash y Flex y en anteriores versiones de Flex.  </p>  <p>  \tRodrigo Erades es experto en los campos de desarrollo web y en fotografía. Maneja diferentes lenguajes y programas de desarrollo web como html5, css3, action script y programación para Adobe Flash. Freelance desde 2006 en ambos campos ha trabajado para clientes como e grupo PRISA, el país, as, cinco días, cadena SER o canal plus. En el campo de la fotografía ha trabajado para SEUR, remodelando su imagen corporativa y en otros proyectos como el de Vision Lab.  </p>  <p>  \tEn este curso cubriremos los siguientes módulos:  </p>  <ul style=\"\">  \t<li>Primeros pasos por el programa</li>  \t<li>Variables</li>  \t<li>Funciones</li>  \t<li>Tipos de datos</li>  \t<li>Condicionales</li>  \t<li>Bucles</li>  \t<li>Operadores</li>  \t<li>Clases y objetos</li>  \t<li>Eventos</li>  \t<li>Clases dinámicas</li>  \t<li>Paquetes y organización de las clases</li>  \t<li>Herencia</li>  \t<li>Ámbito de vigencia</li>  \t<li>Interfaces</li>  \t<li>Buenas prácticas en la POO</li>  \t<li>Introducción a la lista de visualización</li>  \t<li>Utilizando un sistema debug</li>  \t<li>Eventos de stage</li>  \t<li>Manipulación de objetos</li>  \t<li>API de dibujo</li>  \t<li>Loader y cargas exteras</li>  \t<li>Animaciones (Tweens)</li>  \t<li>MovieClip</li>  \t<li>Ejercicios prácticos</li>  </ul>", 
+    "end_date": null, 
+    "title": "ActionScript 3", 
+    "price": "50.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/173746_bdee_2.jpg", 
+    "course_url": "https://www.udemy.com/actionscript-3/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-27T10:05:35Z"
+}

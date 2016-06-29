@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>\nThis course is a beginners  introduction to SQL which stands for\nstructured query language. It is the language used to communicate and\nmanipulate databases.</p><p>In this course you  will learn to C.R.U.D  using SQL. C.R.U.D  is an acronym for Create,Read,Update  and Delete. These are the main functions that\nSQL can do on any database. There are other related tasks that SQL does or can\ndo but the bulk of what it is used for is C.R.U.D.</p><p>The course is  100%\nvideo lectures structured  in an orderly\nand easy to follow manner. It is advisable that you follow the  course in the order of the lectures. The  course is just under two hours long.</p><p>This course will  give\nyou the knowledge required to create ,read ,update and delete data from any\ndatabase system using SQL.  This is\npossible because SQL is a standard language and will perform C.R.U.D  in the same way regardless of the type of database.  This course will help you understand How to\nmanipulate databases using SQL. Also you will learn how to retrieve only\nrelevant data or information you need and order them in the way you want.</p><p>What you will Learn in this course includes :</p><p>How to write  SELECT\nstatements</p><p>How to create a table and a view</p><p>How to Update existing records in a database</p><p>How to Insert  or add\nnew records or data into a database.</p><p>How to delete a record from a database table</p><p>How to create a database report and export to excel</p><p>How to restrict and sort data returned by the SELECT query</p><p>How to use the WHERE \nClause to filter data </p><p>How to use ORDER BY Clause to put retrieved data in order specified\nby  table column</p>", 
+    "end_date": null, 
+    "title": "SQL For  Databases : A Beginner's Quick Introduction", 
+    "price": "20.00", 
+    "instructors": "Bluelime Learning Solutions", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/641728_8f1b_2.jpg", 
+    "course_url": "https://www.udemy.com/sql-for-databases-beginners-quick-introduction/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-15T20:18:42Z"
+}

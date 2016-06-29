@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>If you want to learn how to perform the basic statistical analyses in the R program, you have come to the right place.</p>    <p>Now you don’t have to scour the web endlessly in order to find how to compute the statistical indicators in R, how to build a cross-table, how to build a scatterplot chart or how to compute a simple statistical test like the one-sample t test. Everything is here, in this course, explained visually, step by step.</p>    <p>So, what will you learn in this course?</p>    <p>First of all, you will learn how to manipulate data in R, to prepare it for the analysis: how to filter your data frame, how to recode variables and compute new variables.</p>    <p>Afterwards, we will take care about computing the main statistical figures in R: mean, median, standard deviation, skewness, kurtosis etc., both in the whole population and in subgroups of the population.</p>    <p>Then you will learn how to visualize data using tables and charts. So we will build tables and cross-tables, as well as histograms, cumulative frequency charts, column and mean plot charts, scatterplot charts and boxplot charts.</p>    <p>Since assumption checking is a very important part of any statistical analysis, we could not elude this topic. So we’ll learn how to check for normality and for the presence of outliers.</p>    <p>Finally, we will perform some basic, one-sample statistical tests and interpret the results. I’m talking about the one-sample t test, the binomial test and the chi-square test for goodness-of-fit.</p>    So after graduating this course, you will know how to perform the essential statistical procedures in the R program. So… enroll today!", 
+    "end_date": null, 
+    "title": "Statistics with R - Beginner Level", 
+    "price": 0, 
+    "instructors": "Bogdan Anastasiei", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/691870_c180_3.jpg", 
+    "course_url": "https://www.udemy.com/statistics-with-r-beginner-level/", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-08T08:25:28Z"
+}

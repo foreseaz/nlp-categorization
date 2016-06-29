@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>The course covers teradata in detail with some best real life examples :</p><p>The training:</p><ul style=\"\"><li>Emphasis on teaching concepts, rather than just covering topics.</li><li>Animated and pictorial PPT slides for better understanding of concepts.</li><li>Examples used are from real life project scenarios.</li><li>Sessions are theoretical as well as practical.</li><li>Practical sessions are done by sharing the Teradata environment on trainers screen and showing the exact way of doing things in Teradata Client Software.</li><li>Very Interactive sessions with best audio and screen sharing.</li></ul><p style=\"\"><br style=\"\"></p><p style=\"\">The course covers the following Topics:</p><p style=\"\">1 ) Teradata Architechture</p><p style=\"\">2) Space management and data protection</p><p style=\"\">3) Data Distribution</p><p style=\"\">4) Indexing and Explain Plan development</p><p style=\"\">5) Teradata SQL</p><p style=\"\">6) Performance turning and query optimization</p><p style=\"\">7) Teradata utilities and best practices.</p><p style=\"\"><br style=\"\"></p><p style=\"\">The Final Goal of this course is to get the student acquainted to best practices in Teradata and get them capable enough to get a certification as follows:</p><p style=\"\">1) Teradata Certified Professional</p><p style=\"\">2) Teradata Certified database Administrator</p><p style=\"\">3) Teradata Certified Technical Specialist</p><p style=\"\"><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "TERADATA: Data Warehousing technology", 
+    "price": "20.00", 
+    "instructors": "Jigar Vora", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/472444_3880_4.jpg", 
+    "course_url": "https://www.udemy.com/teradata/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-10T02:23:39Z"
+}

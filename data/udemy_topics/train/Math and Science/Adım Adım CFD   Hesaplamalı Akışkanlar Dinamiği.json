@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p style=\"\">  \t    Adım adım CFD | Hesaplamalı Akışkanlar Dinamiği kursu online olarak hazırlanmış <strong style=\"\">&quot;İlk Türkçe Hesaplamalı Akışkanlar Dinamiği kursudur&quot;</strong>. Toplamda 10 bölümden ve 6 saate yakın ders içeriğinden oluşmaktadır.  </p>  <p style=\"\">  \t    Akışkanların hareketinin incelendiği bir bilim dalı olan akışkanlar dinamiği, bilgisayar kabiliyetlerinin gelişmesi ile son dönemlerde sayısal çözüm imkanları olarak hayli yol katetmiştir. Temel akışkanlar dinamiği denklemlerinin sınırlı sayıda çözüm elemanı kullanılarak çözülmesi ve sonunda tüm akış hacmine uygulanması ile CFD sistemi çalıştırılmış olur.  </p>  <p style=\"\">  \t    CFD (Computational Fluid Dynamics) kelime grubunun baş harflerinden oluşmaktadır. Hesaplamalı akışkanlar dinamiği (HAD) bir çok mühendislik dalında çok geniş bir uygulama alanında kendine yer bulmaktadır.  </p>  <p style=\"\">  \t    Makine, inşaat, gemi inşaat, uçak-uzay, gıda, elektrik, Otomotiv ve daha bir çok alanda CFD programlarından faydalanılmaktadır. Bu kursta piyasada çok bilinen <strong style=\"\">StarCCM+</strong> programı ile uygulamalar geliştirilmektedir.  </p>  <p style=\"\">  \t    Program CFD piyasasında çok ses getiren kabiiyetleri ile dünya devi firmalar tarafından tercih edilen bir programdır.  </p>  <p style=\"\">  \t    Bu kursta sıfırdan başlayarak adım adım CFD çalışma mantığı anlaşılmakta, programın kullanılması öğretilmektedir. Bu nedenle <strong style=\"\">herhangi bir ön program bilgisi bilmeden</strong> yalnızca bu kursu satın alarak CFD dünyasına adım atmış olursunuz.  </p>  <p style=\"\">  \t    Kursta temel problemlerden başlayarak daha karmaşık problemlere adım adım anlatımlarla ilerlenmektedir. Her dersin altında o derste kullanılan geometri dosyaları da sunulmaktadır.  </p>  <p style=\"\">  \t  Gerek mühendislik öğrencilerinin CFD donanımlarının geliştirilmesi, gerekse sektörde aktif olarak görev alan profesyonellerin CFD kullanmalarını sağlamak için bu kurs çok kritik bir kilometre taşıdır.  </p>", 
+    "end_date": null, 
+    "title": "Adım Adım CFD | Hesaplamalı Akışkanlar Dinamiği", 
+    "price": "25.00", 
+    "instructors": "Ahmet Yurtseven", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/399374_1691_3.jpg", 
+    "course_url": "https://www.udemy.com/adim-adim-cfd-hesaplamali-akiskanlar-dinamigi/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-20T21:32:13Z"
+}

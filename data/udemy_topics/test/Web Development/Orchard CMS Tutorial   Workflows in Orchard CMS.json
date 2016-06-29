@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong>Hello Welcome to this course on \"Orchard CMS Tutorial : Workflows in Orchard CMS\".</strong>  </p>  <p>  \t<strong>Note : More Workflows Demos will be added soon(InProgress). </strong></p>  <p>  \t        The Workflows Module in Orchard provides us tools to create custom workflows for events or activities like Content Created, Content Published, Content Removed, Send Email, Timer and many more.  </p>  <p>  \t<strong>Types of Workflows Activities</strong>  </p>  <ul>  \t<li>Common Workflows Activities</li>  \t<li>Comments Workflows Activities</li>  \t<li>Email Workflows Activities</li>  \t<li>Users Workflows Activities</li>  \t<li>Workflows Timer</li>  \t<li>Custom Forms Workflows Activities</li>  \t<li>Dynamic Forms Workflows Activities</li>  </ul>  <p>  \t        This course shows you how to get started with Workflows in Orchard CMS. And the course consists of 7 Demo tutorial videos on Workflows and how to use workflows to create your own custom workflows for the following things :  </p>  <ul>  \t<li>Custom Form Submission + Notification using Workflows</li>  \t<li>Page Published if created by Admin if not Notify the administrator</li>  \t<li>Closing Comments using Workflows</li>  \t<li>Redirecting user after form submission using Workflows</li>  \t<li>Assigning roles for new registering user using Workflows</li>  \t<li>Comments Moderation Notification using Workflows</li>  \t<li>Comments Removal User Notification using Workflows</li>  </ul>  <p>  \t<strong>Before you join this course I would like to introduce myself to you.</strong>  </p>  <p>  \t        My name is Abhishek Luv and I'm from Mumbai, India. I'm an Orchard Dojo trainer and a contributor to the official orchard cms documentation website and I have created numerous courses and tutorial videos on orchard. I'm also the founder of Orchard Beginner. Now, orchard beginner is and will be the one-stop place where you can get started with orchard cms , but orchard beginner is still in its initial stage and it will build up pretty soon. And I'm also the founder of the orchard cms india community.</p>  <p>  \t        Thank You!  </p>", 
+    "end_date": null, 
+    "title": "Orchard CMS Tutorial : Workflows in Orchard CMS", 
+    "price": 0, 
+    "instructors": "Abhishek Luv, Orchard Beginner", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/253606_4842_2.jpg", 
+    "course_url": "https://www.udemy.com/orchard-cms-tutorial-workflows-in-orchard-cms/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-01T08:14:33Z"
+}

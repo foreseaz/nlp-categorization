@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is all about understanding how VR works using Google's Cardboard SDK and the popular Unity 3D game engine. I'm going to assume you have no previous knowledge with any of the applications or concepts and I will walk you through all the steps in creating your first VR scene that you can load onto your mobile device.</p><p>When you've completed the course you'll have the basic knowledge of how to set up a VR camera, create a user interface, setup 3D spatial sound and add basic events that will allow the end user to interact with the completed scene.</p><p>This course is not designed to show you how to make a game but rather an explanation of the components required to create a basic VR experience. This general purpose knowledge will allow you to expand your VR training to include other platforms such as the Oculus Rift or web based virtual reality.</p>", 
+    "end_date": null, 
+    "title": "First steps into learning VR", 
+    "price": "20.00", 
+    "instructors": "Russell Morgan", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/817448_4875.jpg", 
+    "course_url": "https://www.udemy.com/first-steps-into-learning-vr/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-09T19:45:50Z"
+}

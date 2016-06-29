@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tThis course will <strong style=\"\">provide</strong> you with a<strong style=\"\"> HIGH LEVEL understanding</strong> of the <strong style=\"\">Selenium</strong> tool.  </p>  <p>  \t          This course covers the following:  </p>  <ul style=\"\">  \t<li>Presentation of the selenium tools</li>  \t<li>What tests should one automate</li>  \t<li>What browsers should one test</li>  \t<li>Where to host the selenium tests</li>  \t<li>Explanation of Selenium Concepts like Page Objects and UI Mapping and how they can make your selenium tests code maintainable.</li>  \t<li>How to hire a good selenium freelancer and what you should expect from him/her.</li>  \t<li>Presentation of some cloud-based services for cross-browser testing</li>  </ul>  <p>  \t<strong style=\"\">Next Steps:</strong>  </p>  <p>  \t    After completing this course, I recommend taking my other course &quot;Selenium Webdriver with Python - Basics to Intermediate&quot; which will teach you how to automate web applications using Selenium Webdriver and Python. This course is more technical and requires some basic knowledge of the Python programming language.  </p>", 
+    "end_date": null, 
+    "title": "Selenium for Entrepreneurs: How to Use This Automation Tool", 
+    "price": "25.00", 
+    "instructors": "Gabiste Akoua", 
+    "commitment": "39 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/281184_94c1_4.jpg", 
+    "course_url": "https://www.udemy.com/selenium-for-entrepreneurs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-14T22:34:32Z"
+}

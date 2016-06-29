@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><br></p><p>This is an introductory SDN and OpenFlow course explaining different visions of what SDN actually is. The course also shows you real world implementations of SDN in very large networks as well as highly secure networks.</p><p>You will also learn about how OpenFlow separates the control and data planes of networking devices.</p><p>You will then see a practical demonstration of an application communicating with an SDN controller and Open vSwitch devices.</p><p>See the full SDN architecture as part of the demonstrations:</p><p>- SDN Applications</p><p>- SDN Controller</p><p>- OpenFlow switches</p><p>See how hosts can be blocked using OpenFlow rules.</p>", 
+    "end_date": null, 
+    "title": "Introduction to SDN and OpenFlow", 
+    "price": 0, 
+    "instructors": "David Bombal", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/467294_deca_6.jpg", 
+    "course_url": "https://www.udemy.com/sdn-openflow-nfv-introduction/", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-04T11:38:53Z"
+}

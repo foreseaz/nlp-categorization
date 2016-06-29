@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>JavaScript is the most in demand programming language on the web today.</p>\n\n<p>Learning how to implement AJAX and use data like JSON formatted data can accelerate the amazing things that JavaScript can do within your web code.</p>\n\n<p>JSON -  <strong>JavaScript Object Notation</strong> is an open standard technology that is used to transmit data in a human readable format.   JSON is language independent.  It provides a powerful way to move data back and forth.  Learning to use JSON data in JavaScript can open the door to really powerful data handling within your applications.</p>\n\n<p>AJAX - <strong>asynchronous JavaScript and XML</strong> allows you to send and receive data from other files without page refreshing.  You can display data and information in response to the User interactions within your webpages.  Dynamic content loading without page refreshes.</p>\n\n<p>This course is designed to help you learn how to use these two amazing technologies together.   Source files and all the code used within the course is included.  Step by Step instruction with examples of how to use JSON formatted data.  Turn JSON data into JavaScript objects and use them as needed within your code.  Load data the easy way.  AJAX allows you to take this data import one step further and load data on the fly within your JavaScript.   Course will demonstrate how to do this and a whole lot more.   As a bonus the course also covers how to send data to the server.</p>\n\n<p>JSON and AJAX are in demand skills and knowing how to use them will increase what you can do within your web pages.</p>", 
+    "end_date": null, 
+    "title": "JavaScript JSON and AJAX Explained JavaScript Objects", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/846270_0c09_5.jpg", 
+    "course_url": "https://www.udemy.com/javascript-json-and-ajax-explained-javascript-objects/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-11T16:56:05Z"
+}

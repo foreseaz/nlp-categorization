@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t        *** Limited Time Offer - ask us for a special discount! ***<br></p><p>This course introduces to <strong>important principles to improve performance</strong> of your nightly loading processes in BW. You will be able to understand typical shortcomings in data models.  </p>  <p>  \t      To achieve this, it covers <strong>optimization approaches for the most important data target types </strong>in BW. In addition,it introduces improvement approaches for <strong>upstream layers </strong>and provides valuable tips for ABAP optimizations related in the BW domain.  </p>  <p>  \t        You should expect this course to be <em>your companion for your very own journey </em>in your <em>own BW system</em>. Learn the principles and approaches and use them in your own system right away!  </p>  <p>  \tAt the end of this course you will be able to <strong>take your BW operations to the next level performance-wise</strong>.  </p>", 
+    "end_date": null, 
+    "title": "Improve your SAP BW Backend Performance", 
+    "price": "50.00", 
+    "instructors": "Next Level  ‾‾, Benjamin Meyer", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/215278_2901_7.jpg", 
+    "course_url": "https://www.udemy.com/improve-your-sap-bw-backend-performance/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-11T10:12:54Z"
+}

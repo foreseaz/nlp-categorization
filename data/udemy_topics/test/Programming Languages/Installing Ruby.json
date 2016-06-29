@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this tutorial you will learn how to set up easily your <strong>Mac</strong>, <strong>Linux</strong> or <strong>Windows</strong> development environment for Ruby. <strong></strong></p><p>We will start installing the necessary tools to list all the available Ruby versions. Then with these tools we will install the latest version and we will see how to keep it updated.</p><p>When you finish the course you will have an environment ready to start programming applications with <strong>Ruby</strong> and <strong>Ruby on Rails</strong>.</p><p>The course consists of videos where you will learn to set up your environment step by step, from scratch. It also includes a documentation PDF as a reference.</p><p>In less than 1 hour you will have clear concepts and practice.</p><p><strong>You will learn to:</strong> </p><p>- Install Ruby </p><p>- Create a Ruby on Rails application </p><p>- Configure an editor</p>", 
+    "end_date": null, 
+    "title": "Installing Ruby", 
+    "price": 0, 
+    "instructors": "David Morales", 
+    "commitment": "23 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/698342_e049.jpg", 
+    "course_url": "https://www.udemy.com/install-ruby/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-15T16:57:10Z"
+}

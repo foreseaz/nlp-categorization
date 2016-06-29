@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tUnity3D by example will arm you with the basic skills needed to take your beginner level programming skills and transform yourself into a full-fledged game developer capable of making games on the web, PC, Mac, iPhone or Android, using Unity3D and the C# language.  </p>  <p>  \tWith Unity3D by Example, you will go from beginning as a C# programmer to a published, multi-platform game developer with a course of a few hours.  </p>  <p>  \tAlong the way, you’ll learn a lot about the multi-platform game engine Unity3D, starting with simply understanding how it works and building on that knowledge with each segment until you know everything there is to know about basic game building. It doesn’t stop there. Along the way you’ll also learn a little bit about game AI, game publishing and even learn how to become a part of the Unity 3D Community itself.  </p>  <p>  \tWhere you go from there is up to you, but with Unity3D by Example, you will be armed with the knowledge of the pros and the skills you need to be your own game publisher!  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t<span><strong style=\"\">Adam Maxwell</strong> is the Co-Founder of Skyward* Corp., a premier provider of game development services with a focus on providing quality game design and Unity based development expertise. Skyward is also an independent game developer in its own right, developing mobile game for Android and iOS using the Unity3D platform. Prior to forming Skyward with his business partners, Mr. Maxwell has lead a storied career in the industry, working as a game designer, producer or developer for companies such as Blizzard Entertainment, Activision, Microsoft, Gazillion Entertainment and Trion Worlds. He has shipped over a dozen games in his career, including games in the popular Warcraft, Diablo and Starcraft Franchises and the MMO’s Auto Assault and Rift. In the 17 years that Mr. Maxwell has been a part of the video games industry, he is most proud of the work he has done building teams and introducing new game designers to the adventure of game development.</span>  </p>", 
+    "end_date": null, 
+    "title": "Unity 3D Game Development by Example ", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/336408_1c6b_2.jpg", 
+    "course_url": "https://www.udemy.com/unity-3d-game-development-by-example/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-05T10:11:27Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In diesem Kurs wirst du lernen in kurzer Zeit professionelle und visuell ansprechende Software zu entwickeln. Falls du schon immer mit dem Gedanken gespielt hast, eigene Software mit Benutzeroberfläche zu entwickeln, dann bietet dir dieser Kurs die einzigartige Chance dazu.</p><p><strong>JAVA FX</strong></p><p>JavaFX ist das neueste GUI-Framework für Java, entwickelt von Oracle. JavaFX ermöglicht dir deine Software Ideen innerhalb kurzer Zeit umzusetzen und zu veröffentlichen. Deine entwickelte Software kann ganz einfach für Windows, Mac OS oder Linux exportiert werden.</p><p><strong>BESSER ALS SWING</strong></p><p>Mit JavaFX kannst du das GUI deiner Applikation separat von der Programmlogik entwickeln. Dies ermöglicht flexibles updaten zu einem späteren Zeitpunkt. Die GUI ist in XML Dateien gespeichert und kann von UI Designern unabhängig erstellt und dann in die Applikation integriert werden. </p><p><strong>KURS-STRUKTUR</strong></p><p>Zu Beginn wirst du alle Grundlagen lernen die du für die Entwicklung mit JavaFX brauchst. Du wirst mit der MVC Struktur vertraut, lernst Controller Klassen und Views zu erstellen und erlernst den Umgang mit den Scene Builder Tool.</p><p>Anschließend wirst du verschiedene Nodes von JavaFX kennen lernen, um zum Beispiel einen professionellen Login Bildschirm zu entwickeln. Hier lernst du auch den Umgang mit Daten und Objekten, sowie das Styling deines Programmes mit CSS.</p><p><strong>ES IST NICHT SCHWER</strong></p><p>Es ist hilfreich wenn du bereits Erfahrung mit Java hast, aber ist es nicht zwingend erforderlich um den Inhalten in diesem Kurs problemlos folgen zu können. Eher ist es so, dass du durch diesen Kurs die Grundlagen in Java lernst. Aber das hängt natürlich vom Lerntyp ab.</p><p>Alle Tools die du für die Entwicklung mit JavaFX benötigst, sind frei verfügbar und im Kurs wird dir alles was du zu Download und Installation wissen musst beigebracht.</p><p>Die benötigten Tools sind:</p><ul><li>Java 8</li><li>JavaFX</li><li>SceneBuilder 2</li><li>Eclipse Entwicklungsumgebung (IDE)</li></ul><p><br>Jetzt loslegen. Ich freue mich dich in meinem Kurs begrüßen zu dürfen.</p>", 
+    "end_date": null, 
+    "title": "Java Programmierung: Erstelle perfekte GUI Apps mit JavaFX", 
+    "price": "20.00", 
+    "instructors": "Jonas Schindler", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/515692_4b22_7.jpg", 
+    "course_url": "https://www.udemy.com/javafx-gui-entwicklung/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-30T22:46:40Z"
+}

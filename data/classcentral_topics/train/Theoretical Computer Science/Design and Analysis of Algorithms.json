@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Theoretical Computer Science"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course will cover basic concepts in the design and analysis of algorithms.\r\n\r\n    Asymptotic complexity, O() notation\r\n    Sorting and search\r\n    Algorithms on graphs: exploration, connectivity, shortest paths, directed acyclic graphs, spanning trees\r\n    Design techniques: divide and conquer, greedy, dynamic programming\r\n    Data structures: heaps, union of disjoint sets, search trees\r\n    Intractability\r\n\n\n                                    ", 
+    "end_date": "2016-03-14T00:00:00Z", 
+    "title": "Design and Analysis of Algorithms", 
+    "price": 0, 
+    "instructors": "Madhavan Mukund", 
+    "institution_name": [
+        "Chennai Mathematical Institute"
+    ], 
+    "commitment": "2-3 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://onlinecourses.nptel.ac.in/noc16_cs04", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "NPTEL"
+    ], 
+    "start_date": "2016-01-18T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Mongoose Course: Node and Mongo Explained</strong>  </p>  <p style=\"\">  \t    If you are seeing this page, then you are somewhat related to software engineering, and we all know that for people in tech learning a new technology is important. But we often procrastinate and defer it. And it’s not our fault, because in most cases there are just no good tutorials. This is especially true for new and emerging technologies like NodeJS.  </p>  <p style=\"\">  \t<strong style=\"\">NodeJS + NoSQL = &lt;3</strong>  </p>  <p style=\"\">  \t    NodeJS (JavaScript on the server) is awesome, but some developers are confused about NoSQL when it comes to working in Node with MongoDB (NoSQL database). Do you need a better explanation of how to use Node.js with MongoDB? The most popular choice is the Mongoose library. Read on to find out why.  </p>  <p style=\"\">  \t<strong style=\"\">Why Mongoose is Your Friend</strong>  </p>  <p style=\"\">  \t    The danger of not using ORM (object-relational mapping) / ODM (object-document mapping) is that every time you make changes to the structure of the data, you have to modify the application code. In other words, if your application layer touches a database, then you’re in for a big trouble waiting to happen God forbid there are any changes to the database layer… and the chance of you having to make future changes in the software that you wrote is like 99.99%. :-( However, by using Mongoose you can mitigate this issue!  </p>  <p style=\"\">  \t    Also, you can make your application to have models, validations and at the same time organize code better with custom methods, and pre and post hooks. The additional benefit is that Mongoose methods are easier (and more fun) to use than native MongoDB driver ones.  </p>  <p style=\"\">  \t<strong style=\"\">Finally an Easy Way to Understand How to Use Node with MongoDB</strong>  </p>  <p style=\"\">  \t    Take a look at Mongoose’s extensive documentation at mongoosejs (dot) com (slash) docs. It’s fairly good, but who has time to read this documentation when you can use that time to write your own apps?! Also, reading online documentation and the library’s source code is boring. Many studies have shown that when something is boring, you learn it less effectively!  </p>  <p style=\"\">  \t    That’s why we’re working on a Mongoose course for you! This is the course on Mongoose you’ve been waiting for (as almost 200 backers of our “kickstarter” campaign proved).  </p>  <p style=\"\">  \t<strong style=\"\">  What You’ll Be Able to Do  </strong>  </p>  <p style=\"\">  \t    The Mongoose course has more than one hour of HD videos, and INSANE number of examples. After finishing lectures, answering quizzes and doing exercises outlined in the course, you’ll be able to do virtually anything with Node and MongoDB in a sane manner, using the industry’s best techniques and practices.  </p>  <p style=\"\">  \t    The course is ready and you can be access IMMEDIATELY… it’s time to take action to ensure you know the best way to use Node and MongoDB!  </p>", 
+    "end_date": null, 
+    "title": "Mongoose: MongoDB Object-Document Mapper for NodeJS Apps", 
+    "price": "20.00", 
+    "instructors": "Azat Mardan", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/348248_9ea6_2.jpg", 
+    "course_url": "https://www.udemy.com/mongoose/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-17T19:44:21Z"
+}

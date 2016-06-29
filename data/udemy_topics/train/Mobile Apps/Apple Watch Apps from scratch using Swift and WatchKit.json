@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<span style=\"\">Hi, thanks for your interest in this computer programming course, my name’s Sara and I’ll be your teacher. Can’t wait to start this amazing journey with you! In these lectures you’ll learn how to create a basic Apple Watch application from scratch.</span>  </p>  <p style=\"\">  \tBefore getting started, let me say that the course has been studied to be as understandable as possible, so let’s keep it simple and don’t worry if you’re not an expert.  </p>  <p style=\"\">  \tYou’ll learn how to download the necessary tools from your Developer Portal on Apple’s website, what WatchKit is and how to take advantage of this new framework in a concrete app.  </p>  <p style=\"\">  \tHey, what are you still waiting for? Don’t miss this chance and be one of the first developers out there, ready to run the Apple Watch gold rush!  </p>", 
+    "end_date": null, 
+    "title": "Apple Watch Apps from scratch using Swift and WatchKit", 
+    "price": "35.00", 
+    "instructors": "Sara Canducci", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/370138_bb43_3.jpg", 
+    "course_url": "https://www.udemy.com/apple-watch-apps-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-14T15:32:04Z"
+}

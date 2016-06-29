@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Won't it be cool to create your own app?  There is so much joy in seeing your app published or finding unique ways to share your content.  Although, many of us do not have coding knowledge or simply do have the time to learn a programming language.  Those obstacles should not stop us for publishing our ideas and content.  Nor should the barrier of expensive development costs - either in the form of programmers or software tools or web services.  This course has been put together to show you how you can accomplish your goal of creating and publishing your own app without enduring the pain of learning a complicated code or paying additional fees.</p><p>Based on a workshop I facilitate at conferences for Training and Development professionals, this course is aimed at those who may or may not have content created but are unable to share their content via mobile or desktop apps because of time, costs, or IT resources.  The course begins with the concepts and the design considerations one might think about when developing their app.  And since this course uses whatever free resources are currently available, time is spent discussing the limitations present.  After framing the design and objectives, the course creates apps step by step.  The course builds upon itself as it progresses.  The learning starts simple and then adds more complex content.  </p><p>At the end - and actually even at points up to the end - you will have your very of Windows app to share, use, and publish in the Windows store.   There are options to port your app over to other operating systems and platforms briefly discussed at the end.  You will have the pride and joy of knowing you accomplished something great.  It will open your mind to all the possibilities that await and ignite your creative and problem solving drive.  Ready?  Let's build something!<br></p>", 
+    "end_date": null, 
+    "title": "Create an App Using Free Tools and No Coding", 
+    "price": "25.00", 
+    "instructors": "Neal Rowland", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/793600_f5f5_2.jpg", 
+    "course_url": "https://www.udemy.com/createanapp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-15T14:03:31Z"
+}

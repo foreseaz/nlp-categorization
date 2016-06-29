@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Theoretical Computer Science"
+    ], 
+    "description": "\n\n                    \n                    \n                    La logique servait surtout la philosophie et la théologie jusqu'au 19ème siècle. Elle est apparue de manière brutale et cruciale au tournant du 20ème siècle en mathématiques, avec les paradoxes et la question des fondements. Après le théorème de Gödel et la faillite du programme de Hilbert, la logique mathématique est devenue une partie spécialisée des mathématiques pures. Mais l'âge d'or de la logique arrive ensuite avec le développement de l'informatique.\r\nL'utilisation des ordinateurs a forcé à formaliser complètement les problèmes à résoudre; la logique joue un rôle central dans les problèmes de spécification et de vérification des programmes. Du fait d'un lien surprenant entre les preuves et les programmes, la logique est aussi la base de la compréhension des calculs. Plus concrètement, la logique a été à l'origine d'avancées technologiques comme les langages de requêtes dans les bases de données. Beaucoup d'autres liens fondamentaux peuvent être évoqués: avec les circuits, avec la complexité, avec les jeux, avec la linguistique, etc. La logique est omniprésente en informatique.\r\nLe cours présentera les bases de la logique informatique: cette première partie traitera de calcul propositionnel; une seconde partie, à venir, abordera la logique du premier ordre. Un perroquet menteur et des problèmes de pavage nous permettrons d'introduire plusieurs interprétations des formules, et plusieurs systèmes de preuve formelle... et le entscheindungsproblem!\n\n                                            Syllabus\n                        Semaine 1: calcul propositionnel classique\r\nintroduction du courssyntaxesémantiquesatifaisabilitéEntscheidungsproblem\r\nSemaine 2: compacité et forme clausale\r\nthéorème de compacitéforme clausale\r\nSemaine 3: résolution\r\nun système de preuve: la résolutioncorrectioncomplétude réfutationnellecomplétude\r\nSemaine 4: logique intuitionniste\r\nsémantique: structures de Kripkeun système de preuve: le calcul des séquents LJ\r\nSemaine 5: correction et complétude de LJ\r\ncorrectioncomplétude\r\nSemaine 6: perspectives\r\ncalcul des séquents classiquecorrespondance preuve-programmeconclusion: quelques autres développements possibles\n                                    ", 
+    "end_date": "2015-12-21T00:00:00Z", 
+    "title": "Introduction à la logique informatique - Partie 1 : calcul propositionnel", 
+    "price": 0, 
+    "instructors": "Hubert Comon", 
+    "institution_name": [
+        "Université Paris-Saclay"
+    ], 
+    "commitment": "2 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.france-universite-numerique-mooc.fr/courses/ENSCachan/20004S02/session02/about", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "France Université Numerique"
+    ], 
+    "start_date": "2015-11-09T00:00:00Z"
+}

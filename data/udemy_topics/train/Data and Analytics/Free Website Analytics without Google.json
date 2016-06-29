@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>A lot of website owners are suspicious of Google's motives for offering Google Analytics and look for an alternative.  A very popular alternative is Yandex Metrica.  This course will show you how to set up Yandex Metrica tracking on your own website, and use the Dashboard to investigate, track and even spy on your website visitors.</p><p><strong>Watch over the shoulder as a visitor arrives</strong></p><p>What would you give to be able to watch over the shoulder as someone arrives on your site?  Yandex Metrica actually gives you that ability with it's Webvisor technology.  You can see a replay of every visit showing exactly what the visitor did, where they clicked, where they spent the most time, and what they skipped over.  What would you do with that information?  Modify your pages perhaps to put important calls to action in the areas of the pages that visitors seem to spend the most time looking at?</p><p><strong>What's in this course?</strong></p><p>This course starts at the very beginning and shows you how to get started with Yandex Metrica. We'll go step-by-step through the installation process to get the analytics code on your web pages. We'll also look at the Metrica Dashboard and how you can customize what is displayed using widgets.</p><p>You'll discover how to use the standard reports to see details of:</p><ul><li>Traffic, pageviews, bounce rate and more.</li><li>Sources of traffic - where do your visitors come from, which keyword did they search for to find your site, and which social networks are sending you traffic.</li><li>User demographics - find out where your visitors live and their long-term interests.  Find out age and gender, and how frequently they return to your website.</li><li>Content - which page do they enter your site through, and which one do they leave your site through.  See which external links on your pages are clicked, and which social shares a page gets.</li><li>Technology - see what browsers your visitors are using and their screen resolution.  Find out the most popular operating system and whether your visitors are on mobile devices or desktops.  Do your visitors have flash installed, or Javascript.  Do they have cookies disabled?  All this and more.</li><li>Website monitoring - check the load on your server, traffic by the minute and page load times.  Metrica can even send you an email or SMS if your site goes down.</li></ul><p>You'll also learn about:</p><ul><li>Link maps - which show you which links on a page are clicked (including exact figures), and which are not.  </li><li>Click maps - showing a heatmap of visitor mouse clicks.  Know exactly where your visitors are clicking on your pages.</li><li>Scroll maps - a special heat map that shows which areas of a web page get the most attention.  Great for knowing where to insert your most important call to action.</li><li>Form analysis - using the built in tools, you'll be able to troubleshoot your forms, knowing which parts of a form are causing your visitors a problem.</li></ul><p><strong>Segmentation</strong></p><p>You'll learn about segmentation.  You see, your visitors are made up of \"segments\" of the population, based on age, gender, location, interests, how they've interacted with your site, and lots more.  You have the power to only view specific segments of your traffic.  If you only want to see the details of visits by females aged between 18-24, you can do it. Or maybe you want to look at the webvisor recording of visits that lasted less than 20 seconds?  Reckon you could use those videos to troubleshoot pages with high bounce rates?  I do.</p><p><strong>What will you get out of this course?</strong></p><p>By the end of this course, you'll finally have your finger on the pulse of your website traffic.  You'll know how people are finding your site and what they do while they are there.  You'll finally be in control of your website, and be in a position to maximize profits by better understanding the needs and behaviour of your visitors.</p>", 
+    "end_date": null, 
+    "title": "Free Website Analytics without Google", 
+    "price": "20.00", 
+    "instructors": "Andrew Williams", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/723816_3e84_2.jpg", 
+    "course_url": "https://www.udemy.com/website-analytics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-11T10:49:11Z"
+}

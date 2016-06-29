@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t                              In this course you will learn how to build games for <strong style=\"\">iPhone, Android, PC, HTML5</strong> <strong style=\"\">and Flash</strong>. <br style=\"\">  \t<br style=\"\">  \t                              The objective of this course is to help you &quot;<strong style=\"\">a non-programmer</strong>&quot;<br style=\"\">  \t                              create games without you having any experience in game development. <strong style=\"\">If you are a programmer</strong>, you will find that this course will help you reduce the amount of time you spend developing games.<br style=\"\">  \t<br style=\"\">  \t                              This course <strong style=\"\">will enable anyone</strong> willing to enter the gaming industry and <strong style=\"\">begin making games and apps</strong>. Ride the current wave of 2D game development for PC, Steam, Tablets, Mobile devices, Micro-Consoles and Browser based games.  </p>  <p style=\"\">  \t                              In this course we will use <strong style=\"\">Clickteam Fusion</strong> to <strong style=\"\">build games without coding</strong>. We will use Clickteam Fusion&#039;s exporters to export  games to different platforms (PC, iOS, Android, HTML5, FLASH, OUYA) all with a click of a button, just like that!  </p>  <p style=\"\">  \t                              This course <strong style=\"\">is not technical or theoretical</strong>, this is a hands on training course. From lecture 1 to the last lecture you will be actively engaged as the lectures progress and the instructor reveals new material. <br style=\"\">  \t<br style=\"\">  \t                              Each lecture <strong style=\"\">contains</strong> one or more <strong style=\"\">example(s)</strong> for you to take a look an experiment yourself.   At the end of the course you will learn how to build a <strong style=\"\">Flappy Bird Clone</strong> and a <strong style=\"\">Doodle Jump Clone</strong>. We&#039;ll also review some common techniques to build games in Clickteam Fusion.<br style=\"\">  \t<br style=\"\">  \t                              Feel free to ask any questions I will be more than glad to help you. <br style=\"\">  \t<br style=\"\">  \t                              Cheers,<br style=\"\">  \t<br style=\"\">  \t                              Ron<br style=\"\"><br style=\"\">  \t* <em style=\"\">Although you can create 3D games in Fusion, this course will mainly focus on 2D game development.  </em>  </p>", 
+    "end_date": null, 
+    "title": "Learn how to make iPhone/android 2D Games without coding", 
+    "price": "20.00", 
+    "instructors": "Ron Gonzalez", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/360206_da12_12.jpg", 
+    "course_url": "https://www.udemy.com/nocode2dgames/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-01T04:12:16Z"
+}

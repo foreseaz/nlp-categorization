@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tCorona SDK is powerful game development kit developed by Corana labs. This powerful cross platform engine allows game development for iPhone, iPad and Android mobile devices. It uses Lua as the principal scripting language. It is easy to use and allows quick turnaround time for games. It is one of the preferred gaming engines for Indie mobile developers.  </p>  <p>  \tWe have designed this course as one comprehensive tutorial for mastering game development using Corona SDK. The course starts with basic introduction to the engine and will help you get use to the editor. The course will then teach you the important lua scripting concepts. You will get to know all the important features and APIs of the SDK before using it to build a real game.  </p>  <p>  \tThis course is a shortcut to get you up and ready for professional game development for mobility systems.  </p>", 
+    "end_date": null, 
+    "title": "Learn to Build Mobile Games using Corona SDK", 
+    "price": 0, 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/197834_891d_4.jpg", 
+    "course_url": "https://www.udemy.com/learn-to-build-mobile-games-using-corona-sdk/", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-12T06:59:17Z"
+}

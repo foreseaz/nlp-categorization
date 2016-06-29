@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>This course is a voyage into the extraordinary world of nonlinear systems and their dynamics, the primary focus of the course is to provide you with a coherent understanding of the origins and product of nonlinearity and chaos.</p><p>The course is designed as an intuitive and non-mathematical introduction, it explores a world of both extraordinary chaos where some small event like a butterfly flapping its wings can be amplified into a tornado, but also a world of extraordinary order in the form of fractals, self-similar structures that repeat themselves at various scales, one of nature&#039;s most ingenious tools for building itself.</p><p>Like quantum physics the world of nonlinearity is inherently counter intuitive, </p><p>it&#039;s a world where our basic assumptions start to break down and we get extraordinary results, once the domain of obscure mathematics, the concepts from nonlinear systems theory are increasingly proving relevant to the world of the 21<sup style=\"\">st</sup> century.</p><p>This course covers all the key concepts from this domain, starting by looking at the origins of how and why we get nonlinear phenomena, we go on to talk about exponential growth, power laws, chaos theory, the butterfly effect, bifurcation theory, fractals and much more.</p><p>The course requires no prior specific knowledge of mathematics or science, it is designed as an introduction presenting concepts in a non-mathematical and intuitive form that should be accessible to anyone with an interest in the subject.</p><p><strong style=\"\">Nonlinear Systems Overview</strong></p><p>In this module we start the course by giving an overview to the model of a system that will form the foundations for future discussion, we talk about linear systems theory based upon what is called the superposition principals of additivity and homogeneity. We will go on to talk about why and how linear systems theory breaks down as soon as we have some set of relations within a system that are non-additive, we also look at how feedback loops over time work to defy the homogeneity principle with the net result being nonlinear behavior.</p><p><strong style=\"\">Feedback Loops &amp; Relations</strong></p><p>In this section we introduce the key sources of nonlinearity as the type of relations between components within a system where these relations add or subtract some value to the overall system. We will talk about synergies and interference that make the system either greater or less than the simple sum of its components. We will then cover the second source of nonlinearity, what are call feedback loops that allow for both exponential growth and decay.</p><p><strong style=\"\">Exponentials, Power laws &amp; Long tail distributions</strong></p><p>In this module we will discuss the dynamics of exponentials and their counterparts power laws that represent an exponential or power relation between two entities, we talk about long tail distributions, sometimes called the fat tail, so called because it results in there being an extraordinary large amount of small occurrences to an event and a very few very large occurrences with there being no real average or normal to the distribution.</p><p><strong style=\"\">Systems dynamics &amp; Chaos</strong></p><p>For many centuries the idea prevailed that if a system was governed by simple rules that were deterministic then with sufficient information and computation power we would be able to fully describe and predict its future trajectory, the revolution of chaos theory in the latter half of the 20th century put an end to this assumption showing how simple rules could in fact lead to complex behavior. In this module we will describe how this is possible when we have the phenomena of what is called sensitivity to initial conditions.</p><p><strong style=\"\">Fractals</strong></p><p>We will have encountered many extraordinary phenomena by this stage in the course but fractals may top them all, self-similar geometric forms that repeat themselves on various scales, they can both contain infinite detail, as we zoom in and the very counter intuitive phenomena of infinite length within a finite form with this all being the product of very simple iterative rules.</p><p><br style=\"\"></p><p><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Nonlinear Systems & Chaos: An Introduction", 
+    "price": "20.00", 
+    "instructors": "Complexity Academy", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/444094_d6d9_2.jpg", 
+    "course_url": "https://www.udemy.com/nonlinear-systems-introduction/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-10T19:52:06Z"
+}

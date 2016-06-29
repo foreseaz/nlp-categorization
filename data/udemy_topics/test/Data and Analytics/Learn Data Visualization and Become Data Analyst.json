@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>Decision makers who run our world and corporations <strong class=\"redactor-inline-converted\">use data effectively</strong>, to give them clarity to take relevant and fast decisions.</p>\n\n<p>Data is considered to be the new currency and in order to use it properly, we need to know how to <strong class=\"redactor-inline-converted\">visualize it effectively</strong>.Great visualization is difficult because they consist of a good mix of <strong class=\"redactor-inline-converted\">science and art</strong>.</p>\n\n\n\n\n\n<ul><li>In this course, you will learn the process of data visualization in simple and effective<strong class=\"redactor-inline-converted\"> 7-step approach</strong>.</li><li>You will understand how to start a visualization project on a <strong class=\"redactor-inline-converted\">right note</strong>.</li><li>You will be able to <strong class=\"redactor-inline-converted\">categorize and characterize</strong> types of visualization to simplify decision-making steps in the process.</li><li>You will see in details, how to work with a <strong class=\"redactor-inline-converted\">real world visualization usecase</strong>.</li><li>You will learn how to have an <strong class=\"redactor-inline-converted\">UX-centric</strong> approach in the design phase of data visualization.</li><li>You will learn how to <strong class=\"redactor-inline-converted\">use wireframing tools</strong> to build your data visualization design for the usecase.</li><li>And finally, you will come to know how to use <strong>D3 to bring design to real life</strong>.</li></ul>", 
+    "end_date": null, 
+    "title": "Learn Data Visualization and Become Data Analyst", 
+    "price": "20.00", 
+    "instructors": "UI5 Community Network, CTO at UI5CN Ajay Nayak", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/728222_ef97_4.jpg", 
+    "course_url": "https://www.udemy.com/user-experience-ux-design-for-data-visualization/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-14T17:11:10Z"
+}

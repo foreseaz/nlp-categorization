@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>\n\t   El CANVAS de HTML5 es una poderosa herramienta que nos permitirá, entre otras cosas, procesar imágenes, crear filtros, manejar textos, dibujar, realizar animaciones, todo por medio del lenguaje JavaScript. Con el canvas de HTML5, tus aplicaciones se podrán visualizar en cualquier dispositivo móvil, incluso en el iPhone y iPad!\n</p><p>Aprenderemos desde hacer una etiqueta muy básica, hacer líneas, rectángulos y curvas Bézier, tanto cúbicas como cuadráticas, arcos y círculos. Revisaremos la forma de hacer gradientes lineales y radiales, cargar patrones de imágenes y hacer sombras.</p><p>Antes de hacer juegos, realizaremos una aplicación para dibujar en canvas y otra para cargar imágenes y aplicar filtros y efectos como el flip horizontal.</p>", 
+    "end_date": null, 
+    "title": "Desarrolla juegos HTML5 con canvas", 
+    "price": "20.00", 
+    "instructors": "Francisco Javier Arce Anguiano", 
+    "commitment": "21.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/63194_53a5_7.jpg", 
+    "course_url": "https://www.udemy.com/html5-canvas-a-profundidad/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-07-01T14:21:10Z"
+}

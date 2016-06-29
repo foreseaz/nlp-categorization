@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Do you want to create a Trivia iPhone game by yourself?</p><p>Then this course is for you.</p><p>In this course you will learn how to program a Trivia Game for iPhone using the latest iOS kit and the Swift programming language.</p><p>This course video lectures take you from the very beginning, just like if you knew nothing about programming and takes you all the way to build a working trivia game for iPhone.</p><p>You will be show every single steps and you have access to the <strong style=\"\">final source code</strong> so you have all you need to <strong style=\"\">succeed</strong>.</p><p>We will go through the following</p><p>- creating the project</p><p>- designing the user interface</p><p>- connecting the interface to the code</p><p>- learn how to read questions and answers using json technology</p><p>- learn how to play sounds</p><p>- learn how to save and retrieve the player score</p><p>- use iAd advertising banners t generate revenues.</p><p>...and much more, all using the trendy language named Swift.</p><p>This is a great opportunity to get to create a classic trivia game for iPhone while learning fundamental skills.</p><p>Join the course now . Have fun!</p>", 
+    "end_date": null, 
+    "title": "Build a Trivia iPhone game that monetizes - Swift2 and iOS9", 
+    "price": "20.00", 
+    "instructors": "Yohann Taieb", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/474938_a685_3.jpg", 
+    "course_url": "https://www.udemy.com/build-a-trivia-iphone-game-that-monetizes-swift-and-ios-8/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-13T13:25:28Z"
+}

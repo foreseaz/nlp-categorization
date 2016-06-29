@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \t <u style=\"\"><strong style=\"\">Volume 1</strong></u>  </p>  <p style=\"\">  \t   In this video we&#039;ll take an introductory look at UDK&#039;s material editor. Once we&#039;ve covered the basics of importing textures and creating our own materials we&#039;ll dive into creating some of the more common types of materials you&#039;ll encounter in today&#039;s games. We&#039;ll be creating metal surfaces with reflection, glass, blended materials such as rock and moss, a holographic animated material, and lastly realistic water, complete with animation, reflections and depth based effects.  </p>  <p style=\"\">  \t <u style=\"\"><strong style=\"\">Volume 2</strong></u>  </p>  <p style=\"\">  \t   Continuing where we left off on Materials Volume 1, Bill Kladis takes us through additional materials inside of UDK! We&#039;ll start with understanding and creating a &quot;parent&quot; material as we cover Material Instancing, dive into animated Flipbooks, discuss Opacity and how it works, explore how to apply a &quot;real&quot; video or movie to your assets, and then dive into an advanced material creating a customized and complex animated sequence!  </p>  <p style=\"\">  \t <u style=\"\"><strong style=\"\">Volume 3</strong></u>  </p>  <p style=\"\">  \t   Continuing from Materials Volume 2, Bill Kladis takes us through even more advanced materials inside of UDK! In this course we tackle the Elements! We cover &quot;Depth Bias Alpha&quot; on water, showing how to cause the normals to bend around an object, we show how to make a convincing Lava material flow down a stream and move along a path with awesome distortion effects, then move on to the motherload - procedural ice and snow on an object that points &quot;up&quot; in the direction of the object!  </p>  <hr style=\"\">  <p style=\"\">  \t<u style=\"\"><strong style=\"\">About the Instructors:</strong></u>  </p>  <p style=\"\">  \t    Ryan Smith is a Technical Artist at Gearbox Software, who specializes in technical art and visual effects. With over 10 years experience working with the Unreal Engine, he is highly proficient with 3D Studio Max, Photoshop, and Zbrush. His specialties also include Shader Authoring, Visual Effects, Technical Art, MAXScript, and Optimizing Workflows.  </p>  <p style=\"\">  \t Bill Kladis has worked in the games industry for over 7 years specializing in Realtime VFX. He currently works as a VFX Artist with shipped titles including Injustice: Gods Among Us, Mortal Kombat, Batman: Arkham City Lockdown, Lego Universe, &amp; PAIN. He also is the founder of imbueFX, a site that specializes solely on tutorials in Realtime VFX.  </p>", 
+    "end_date": null, 
+    "title": "The Complete Introduction to Materials in UDK", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/83418_a9e7_6.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-the-complete-introduction-to-materials-in-udk/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-25T05:29:06Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \tThis SAP hands-on training will teach you how to develop your own integration scenario using SAP PI Process Integration 7.31 in under 4 hours. After the SAP course YOU will be able to understand the essentials of SAP PI and even be able to start a Proof of Concept Project with your customers!</p><p>--- Updates ---</p><p><strong>UPDATE: (27 November 2015) New lecture on how to create you own instance will be up shortly!</strong><br></p><p><strong>UPDATE: (27 July 2015) Great feedback by students:</strong></p><p>\"<em>Covers Essentials, Helped Me Understand Quickly</em></p><p><em>...I knew not<strong></strong>hing about PI, but after just a few lessons, I attended a meeting with the PI team and found I suddenly understood everything they were discussing! ... Additionally, Mr. Eker delivers the lectures in a pleasant, friendly tone so they rarely ever become tedious. I'm sure the course will help you as it did me.\"</em></p>  <p><strong>UPDATE: (01 July 2015) </strong>SAP is currently not providing the tool to create your own SAP PI instance. SAP mentioned that they might provide it again in the future but for now it will not be available. What does this mean? If you have your own SAP PI system you can continue with my hands on sessions on your system. If you don't have access this course will provide you with required information that you can use in the future. Don't forget that you have <strong>LIFETIME access</strong> to this course!</p><p>--- End of Updates ---</p><p><strong>What you will get: </strong></p><p>You will be able to build <strong>your own integration </strong>using SAP PI Process Integration. From basic <strong>file-to-file scenarios</strong>, to <strong>web service-to-web services scenario</strong>. You will also learn the most common <strong>integration patterns</strong> in this hands-on training on SAP PI Process Integration.</p>  <p>  \tThe lecture starts with a short introduction to <strong>SAP, SAP NetWeaver, SAP Process Orchestration</strong> and continues with a short <strong>introduction to SAP NetWeaver PI Process Integration</strong>. After that the <strong>SAP</strong> <strong>hands-on training </strong>starts and you will start learning by doing it.  </p>  <p>  \tWe will cover over 3+ HOURS of content of SAP PI Proces Integration</p>  <p>  \tSince SAP and SAP products in general are very detailed topics I will include <strong>all kind of helpful material</strong>. From SAP Help documents to whitepapers to step by step guides.  </p>  <p>  \tAfter you complete this course you will be able to understand the practical side of SAP NetWeaver PI Process Integration.</p><p>Always keep in mind, if this course doesn't provide anything mentioned you have a 30 days money back guarantee. </p><p>Wish you the best.</p>", 
+    "end_date": null, 
+    "title": "SAP PI Process Integration - Beginner to Paid Professional", 
+    "price": "30.00", 
+    "instructors": "Arman Eker", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/109956_d3bb_7.jpg", 
+    "course_url": "https://www.udemy.com/sap-netweaver-process-integration-hands-on-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-24T06:20:42Z"
+}

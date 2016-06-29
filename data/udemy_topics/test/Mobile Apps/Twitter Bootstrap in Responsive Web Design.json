@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Responsive web design</strong> is a challenge to the designer / developer. Its a challenge because you have to change the way you think when you&#039;re going responsive and again its a daunting task to make it attractive on multiple screens. The basic idea behind it is looking the same on desktop, tablet and phone. Responsive Web Design is providing the user with best viewing experience of a website across devices of various sizes. For example, if you are viewing a website on a computer monitor and then viewing it on a smart phone, whose screen size is smaller than a computer monitor, enabling responsive design features on that website gives a smooth view of the website in both the screens.<br style=\"\">  \t<br style=\"\">  \t      Our course which covers over four hours of high quality video content explains the  basic of how to apply responsive design feature into your web layout moreso with the subject of Twitter Bootstrap. Twitter Bootstrap was created by two guys at Twitter who wanted to speed up and bootstrap their workload and code. If you visit the home page of Twitter Bootstrap they define it as: “sleek, intuitive, and powerful front-end framework for faster and easier web development.” which is a fact! The course covers the Bootstrap overview, Navigation bar, HTML5, Grids etc.  </p>", 
+    "end_date": null, 
+    "title": "Twitter Bootstrap in Responsive Web Design", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/315200_edf0_2.jpg", 
+    "course_url": "https://www.udemy.com/twitter-bootstrap-in-responsive-web-design/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-07T17:35:38Z"
+}

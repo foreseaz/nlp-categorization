@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Creating a virtual machine is easy, and once you setup your first virtual machine you may never go back to solutions such as XAMPP and WAMP.... </p><p style=\"\">We teach you how to setup the perfect LAMP stack for developers in under 5 minutes.</p><p style=\"\">Setup WordPress, Laravel and a whole lot more.   No internet connection required to run a fully configured local server.  Operating System agnostic share code and files across teams.</p><p style=\"\">Everything you need to learn about virtual machine is provided within this course.<br style=\"\"></p><ul style=\"\"><li style=\"\">exclusive resource download</li><li style=\"\">no wasted time watching someone type</li><li style=\"\">quick lessons get right to the point</li><li style=\"\">30 day money back guarantee</li><li style=\"\">new course material added regularly</li><li style=\"\">trusted name in education since 2002</li><li style=\"\">full HD easy to read source coding</li><li style=\"\">quick response support</li></ul><p style=\"\">We answer your questions to get you up and running so that you can code.</p>", 
+    "end_date": null, 
+    "title": "Virtual Machine full localhost LAMP stack setup in minutes", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/595430_5778.jpg", 
+    "course_url": "https://www.udemy.com/virtual-machine-full-localhost-lamp-stack-setup-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-27T22:59:43Z"
+}

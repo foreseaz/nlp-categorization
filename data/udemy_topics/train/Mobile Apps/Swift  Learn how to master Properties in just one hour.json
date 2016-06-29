@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Why do our courses have fewer students than most courses on Udemy - <strong>because we do NOT try to mislead our new students.</strong><br></p>\n\n<ul>\n<li><strong>100% real and paid students</strong> - We do not believe in the practice used by many instructor on Udemy that offer their courses on blackheads sites to inflate their numbers.</li>\n<li><strong>100% real reviews </strong>- We have never bought any review from other sites like fiverr or similar, which is another very common technique among instructors on Udemy.</li>\n</ul>\n\n\n\n\n\n<p>What to look for:</p>\n\n\n\n\n\n<ul>\n<li>Look for the questions on the course during the free preview, the time it took for it to receive an answer, the quality of the answer, how happy the student was with the answer.</li>\n<li>Look for the instructor profile on LinkedIn, and other places.</li>\n</ul>\n\n\n\n\n\n<p>Take a tour in the course. Get to know your future instructor before making a decision. After all, it's your future on the line!</p>\n\n\n\n\n\n<p>I am sure <strong>you will make the right choice </strong>so I will <strong>see you inside</strong>!</p>\n\n\n\n\n\n<p><strong>Is this course good value for money?</strong></p>\n\n\n\n\n\n<p>For the price of a cheap fast food burger, you can learn a skill that will stay with you forever, and save you few minutes every day. <strong>If your time is valuable,</strong> this course is a must!</p>\n\n\n\n\n\n<p><strong></strong><br></p>\n\n\n\n\n\n<p><strong>Properties are a fundamental part of programing</strong> and it is a <strong>MUST</strong> for any programmer. This course <strong>is all based on the FREE iBook from Apple</strong> that can be found in the apple store called <strong>\"The Swift Programming Language\"</strong>. It has <strong>561</strong> pages of Apple’s \"super simpler language\", but before you run and download this ibook, let me tell you what I will offer you in this series.</p>\n\n\n\n\n\n<p><strong>I read Apple's book cover to cover</strong> and I went through all the examples. I talk with many Apple evangelists and today <strong>I am what they call an \"Apple expert\". </strong>However, I explain in plain English (with accent) with easy, simple, and everyday applicable examples. And if you watch the videos, follow the examples, and still having questions, I am always here to help you.</p>\n\n\n\n\n\n<p><strong>You have two options now - </strong>you can either download Apple’s eBook that explain properties like this and have nobody to ask if you have a question:</p>\n\n\n\n\n\n<p><strong>Excerpt From: Apple Inc. “The Swift Programming Language.” iBooks.:</strong></p>\n\n\n\n\n\n<p><em>\"Properties associate values with a particular class, structure, or enumeration. Stored properties store constant and variable values as part of an instance, whereas computed properties calculate (rather than store) a value. Computed properties are provided by classes, structures, and enumerations. Stored properties are provided only by classes and structures. Stored and computed properties are usually associated with instances of a particular type. However, properties can also be associated with the type itself. Such properties are known as type properties. In addition, you can define property observers to monitor changes in a property’s value, which you can respond to with custom actions. Property observers can be added to stored properties you define yourself, and also to properties that a subclass inherits from its superclass.</em></p>\n\n\n\n\n\n<p><em>Stored Properties</em></p>\n\n\n\n\n\n<p><em>In its simplest form, a stored property is a constant or variable that is stored as part of an instance of a particular class or structure. Stored properties can be either variable stored properties (introduced by the var keyword) or constant stored properties (introduced by the let keyword).”</em></p>\n\n\n\n\n\n<p><strong>Or you can click enroll now and start to learn</strong> with me and thousands of other students from hundreds of countries that are learning with me every day.</p>\n\n\n\n\n\n<p><strong>I’ll See you Inside!</strong></p>\n\n\n\n\n\n<p><strong>What are the requirements?</strong></p>\n\n\n\n\n\n<ul>\n<li>Basic Swift programing</li>\n</ul>\n\n\n\n\n\n<p><strong>What am I going to get from this course?</strong></p>\n\n\n\n\n\n<ul>\n<li>Over 9 lectures and 59 minutes of content!</li>\n<li>Learn in full detail about properties in Swift</li>\n</ul>\n\n\n\n\n\n<p><strong>What is the target audience?</strong></p>\n\n\n\n\n\n<ul>\n<li>Anyone with basic knowledge in swift language</li>\n<li>Anyone that wants to excel in Swift programing Skills</li>\n</ul>", 
+    "end_date": null, 
+    "title": "Swift: Learn how to master Properties in just one hour", 
+    "price": "20.00", 
+    "instructors": "Icaro Lavrador", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/669958_1249_2.jpg", 
+    "course_url": "https://www.udemy.com/swift-property/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-14T22:47:15Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Backing up your website regularly is essential. Unfortunately, many new WordPress users do not take backing up as seriously as they should. In reality, if something with your website goes wrong, you could lose everything. But there is always risk of hacking, server malfunction &amp; etc. </p><p style=\"\">In this course, author introduces two plugins of wordpress to add automatic backup routines to your wordpress site, <strong style=\"\">Backup to Dropbox </strong>and <strong style=\"\">BackWPup</strong>. This course will also help you to take back of files and database manually. This procedure of taking backup is very easy &amp; you can back up your wordpress website within 5 minutes.</p><p style=\"\">How to restore website from backup is another question but you don&#039;t have to worry about this. There is a whole chapter in this course that how to restore wordpress site from backup.</p><p style=\"\"><br style=\"\"></p><p><strong style=\"\">In this extensive, very easy to follow step-by-step guide you&#039;ll learn:</strong></p><ul style=\"\"><li style=\"\">Backup Wordpress with plugins.</li><li style=\"\">Backing up Wordpress site manually.</li><li style=\"\">How to restore Wordpress site files and database.</li></ul><p><strong style=\"\">What am I going to get from this course?</strong></p><ul style=\"\"><li style=\"\">Install backup plugins.</li><li style=\"\">Schedule the automatic backup job.</li><li style=\"\">Create backup manually.</li><li style=\"\">Restore website from backup.</li></ul><p> <strong style=\"\">What is the target audience? </strong></p><ul style=\"\"><li style=\"\">Anyone who wants backup wordpress. </li><li style=\"\">Anyone that has Website security as an interest.</li><li style=\"\">Anyone who want to restore website from backup.</li></ul><p style=\"\">There is also information about professional backup services, if you want to take don&#039;t want to back up your website manually or through wordpress plugins.</p><p style=\"\">No skill is required for this course, this course is piece cake just like creating email address.</p>", 
+    "end_date": null, 
+    "title": "How To Backup & Restore Your WordPress Site Easily", 
+    "price": "20.00", 
+    "instructors": "Ahmed Waleed", 
+    "commitment": "41 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/439708_8444_3.jpg", 
+    "course_url": "https://www.udemy.com/how-to-backup-restore-your-wordpress-site-easily/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-05T18:30:36Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>The course is aimed at exploring the documentation used in a basic software testing process.</p><p>The course uses several Excel templates as a main resource. In the context of this course, templates have two main goals. First, the use of the templates makes it possible to better learn about the documentation used in the software testing process. The templates are used as a teaching resource in the course. The second goal is that students can use the templates in future professional software testing processes.</p><p>The software testing process has three main groups of activities. The groups of activities and its specific documents are the following:</p><ul style=\"\"><li>Planning (test plan),</li><li>Designing (test design, test case), and</li><li>Reporting (test log, anomaly report, test report).</li></ul><p>During the course, these templates will be presented and explained in order to teach about how to register the different components of the software testing documentation process.</p><p>Time required to completed the course is 2 Hrs.</p><p> This course is organized into eight sections and 25 lessons. Throughout the course, several quizzes will allow students to self-assess their progress.</p><p> This course is important because covers main topics required to know how to write, in a formal and exhaustive way, all the documents required by a software testing process. This course is for software practitioners who have or not QA experience and want to be able to document a software testing process.</p>", 
+    "end_date": null, 
+    "title": "Software Testing Documentation (STD)", 
+    "price": "20.00", 
+    "instructors": "Fulvio Lizano", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/476520_b157_3.jpg", 
+    "course_url": "https://www.udemy.com/software-testing-documentation/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-14T22:13:04Z"
+}

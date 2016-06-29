@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>APRIL 4, 2016 UPDATE: </strong>Udemy has introduced a new pricing structure today. Please message me with any questions you may have regarding this.<br><strong></strong></p>\n\n<p><strong>Oracle VM VirtualBox is a program for Windows, Mac OS X, Linux, and Solaris, which enables you to install alternative operating systems within your current (host) operating system.</strong></p>\n\n<p>You can run Linux side-by-side with other operating systems, including BSD, Solaris, and Windows.</p>\n\n\n\n<p>Inside the course you'll learn how to:</p>\n\n\n\n<ul><li>Download and install VirtualBox (it's 100% FREE)</li><li>Create virtual machines to run other operating systems within your current OS</li><li>Unlock guest additions that add even more powerful features to your VMs</li><li>Share files between your host and guest OS</li><li>Use mouse integration for seemless work between host and guest OS</li></ul>\n\n\n\n<p><strong>I'll walk you through 5 complete operating system installations.</strong> Each OS will be thoroughly treated, from virtual machine creation, to installation, guest additions, and more! The following guest operating systems will be covered in the course:</p>\n\n\n\n<ul><li>Windows XP Pro</li><li>Ubuntu Desktop</li><li>CentOS 7</li><li>FreeBSD</li><li>OpenSUSE</li></ul>\n\n\n\n<p><strong></strong>Get started today with Oracle VM Virtualbox, and start playing with new operating systems, learning how they function, BEFORE you perform a local installation!<strong></strong></p>\n\n\n\n<p><strong>Virtualization is a great way to familiarize yourself with new operating systems.</strong></p>\n\n\n\n<p>You can learn valuable skills, including server administration and networking, all within a safe, virtual environment.</p>\n\n\n\n<p><strong>There's no need to worry about breaking anything within a virtual machine!</strong> You can always choose to start over in VirtualBox. It's a safe. and effective way to learn just about anything. Plus, the software is free forever. So, you never need to worry about licensing or other fees.</p>\n\n\n\n<p><strong>I know you're going to love this course. As a student, you are my #1 priority. So, don't hesitate to contact me with any question you may have concerning the course. It would be my pleasure to serve you.</strong></p>\n\n\n\n<p><strong>Ready to get started? Let's go!</strong><strong></strong></p><p>Cody</p>", 
+    "end_date": null, 
+    "title": "Learn VirtualBox: Step by Step (Install 5 Operating Systems)", 
+    "price": "20.00", 
+    "instructors": "Cody Ray Miller", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/513786_a95a_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-oracle-vm-virtualbox-step-by-step-install-5-operating-systems/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-28T16:30:47Z"
+}

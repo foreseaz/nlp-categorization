@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Der Kurs ist für <strong>blutige Anfänger</strong> gefertigt.</p><p>Gemeinsam werden wir uns Schritt für Schritt die Grundlagen der Programmierung mit PHP anschauen.</p><p>Zu beginn erkläre ich dir, was PHP ist, wie es funktioniert und was man mit dieser <strong>Skriptsprache</strong> alles machen kann.</p><p>Im Anschluß daran werden wir deinen Computer für die Programmierung mit PHP vorbereiten. Du installierst Dir deinen <strong>eigenen Webserver </strong>und installierst eine <strong>Entwicklungsumgebung</strong>.</p><p>Danach schreiben wir gemeinsam Dein erstes <strong>PHP-Dokument </strong>und lassen es im Browser anzeigen.</p><p>Wenn die erste Hürde geschafft ist, werden wichtige <strong>Programmkonstrukte</strong> wie beispielsweise <strong>Schleifen</strong> und <strong>Arrays</strong> vermittelt.</p><p>Zu guter Letzt werden <strong>HTML-Formulare </strong>ausgewertet.</p><p>Damit es für Dich komfortabler ist, befindet sich der komplette Quelltext und die gezeigte Präsentation als Anhang am Ende dieses Kurses.</p><p><strong>Du hast nicht alles richtig verstanden oder hast riesige Lust alles von Anfang an erklärt zu bekommen? Worauf wartest Du noch?! Es dauert nur knapp 3 Stunden und schon beherrscht Du die Grundlagen der Programmierung mit PHP. :)</strong></p>", 
+    "end_date": null, 
+    "title": "PHP Programmierung für Anfänger - Grundlagen", 
+    "price": "20.00", 
+    "instructors": "Timo Jeske", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/288206_2438_6.jpg", 
+    "course_url": "https://www.udemy.com/php-programmierung-fur-anfanger-grundlagen/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-26T14:42:46Z"
+}

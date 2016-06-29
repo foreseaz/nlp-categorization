@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course we will create a complete Blog with the admin panel to manage content. The course is designed for anyone even the php beginners.<br>We will start by creating the user interface of the project by using bootstrap free templates then we will start to make it dynamic and database driven. You will learn the following main features :</p><ul><li>Use Bootstrap templates to build UI of the CMS</li><li>Create a Commenting System</li><li>Perform Database Operations Confidently</li><li>Build a Login/Logout System</li><li>Create an Admin Panel to Manage Content on the Blog CMS</li><li>Make Pages Private by using Sessions</li></ul>", 
+    "end_date": null, 
+    "title": "Create a Simple Blog CMS in PHP and MYSQL", 
+    "price": "20.00", 
+    "instructors": "Danyal Fayyaz", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/625574_4b39_3.jpg", 
+    "course_url": "https://www.udemy.com/create-a-simple-blog-cms-in-php-and-mysql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-29T06:54:06Z"
+}

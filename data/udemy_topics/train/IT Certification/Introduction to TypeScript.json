@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this course, we will learn about TypeScript, the new, JavaScript inspired language by Microsoft. The introductory TypeScript course will teach the student the TypeScript basics necessary for junior workplace skills.</p><p>By taking this course you will,<br style=\"\"></p><p>- Set your PC or Mac up to develop TypeScript<br style=\"\">- Be able to understand why TypeScript is used to build large web applications<br style=\"\"></p><p>- Use TypeScript&#039;s classes and error checking<br style=\"\">- Create and extend TypeScript classes<br style=\"\">- Share Code via Modules</p><p>In the first section, we will learn about what projects TypeScript is appropriate for. We will learn who makes TypeScript, and what projects use TypeScript every day.</p><p>In the second section, we will learn about using Node and NPM to install TypeScript, and how to use the command line to compile TypeScript into JavaScript. As a bonus, we&#039;ll learn a bit about TypeScript compiler errors.</p><p>In the final section, we will take a look at a few of TypeScript&#039;s many features.</p><p>We will learn about types, how they are used, what kinds are available in TypeScript, and how to make your own.</p><p>We will learn about interfaces, inheritance, and TypeScript classes. Using the module system, we will share code between TypeScript files and compile them to JavaScript.</p><p>This course includes many videos, as well as links to useful tools like the TypeScript handbook. </p><p>This course should take 3-4 hours to complete, as you may wish to pause frequently to try the many code examples provided yourself.</p><p>This code is ideal for anyone wanting a solid beginner&#039;s foundation in TypeScript, as the hands-on lecture format will ensure that any pupil has a working knowledge of the basics.</p>", 
+    "end_date": null, 
+    "title": "Introduction to TypeScript", 
+    "price": 0, 
+    "instructors": "Daniel Stern", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/468138_1b48_2.jpg", 
+    "course_url": "https://www.udemy.com/typescript/", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-05T13:18:32Z"
+}

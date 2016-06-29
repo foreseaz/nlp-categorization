@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Keeping on top of the latest progress in web development can be daunting. There are always new languages to learn, new applications to create with them, and endless possibilities. Learning web components with Dart is an excellent place to start, however. Whether you're a coding veteran or just dipping your toes, Dart will massively streamline your web development projects by eliminating endless lines of code, implementing complex features with a few clicks, and cutting down on the time and effort it takes to create top notch web components.      <strong></strong></p><p><strong> </strong></p><p><strong>Get to Grips with Web Components</strong></p><p><strong> </strong></p><ul><li>Simplify code and boost web development efficiency</li><li>Compose custom web components alongside existing ones</li><li>Learn Google's new Dart programming language</li><li>Use web components from Google and other powerhouses</li><li>Future-proof your programming skills<strong></strong></li></ul><p><strong> </strong></p><p><strong>Master Dart Programming in Just a Few Hours</strong></p><p><strong> </strong></p><p>This course has been especially designed for web developers and designers who are already familiar with javascript libraries, HTML and related concepts. While you don't need to be an expert, some background knowledge certainly helps. </p><p>Over the course of 61 lectures and 4 hours of concept you will learn all the ins and outs of the Dart  as well as how to create and implement web components using this programming language. You'll cover syntax and usage first and after establishing the groundwork, you'll move on to the nitty gritty of web components. That means learning all about their origins, advantages, features and proper use.</p><p>Following that, you'll work on a project that will allow you to put all that theory to practice, creating real world web applications using Dart. When finished, you'll have enough hands-on experience with Dart to be able to apply it to any relevant web development project.  <strong></strong></p><p><strong> </strong></p><p><strong>Tools Used</strong></p><p>Dart is a new programming language designed specifically for building web, server and mobile apps. It is class based and object oriented, but easy to follow. A wide range of tools, libraries and documentation makes it versatile and perfectly suited for modern web applications.</p>", 
+    "end_date": null, 
+    "title": "Beginning Web Components with Dart", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/712078_af94_2.jpg", 
+    "course_url": "https://www.udemy.com/beginning-web-components-with-dart/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-31T19:26:24Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Ever wonder what makes a mobile Web experience really positive? This course shows you how to build mobile Web apps that draw users into your content on their smartphones and tablets. </p>\n\n<p>Don't worry about high level coding. You won't need it for this course. You can build excellent, inviting, interactive Web apps with HTML, CSS and JavaScript with very little coding at all. The JavaScript we use in this class comes in pre-packaged widgets and there is no coding involved. Instead we use jQuery <em>widgets </em>which are included in jQuery Mobile. </p>\n\n\n\n\n\n<p>Here are key skills you're acquire in this class</p>\n\n<ul><li>HTML5, and especially new elements in HTML5 that enhance mobile design</li><li>CSS3 -- again with a focus on mobile design</li><li>jQuery Mobile. jQuery Mobile is built on jQuery, and allows you to create Web apps that have all the features of native apps which are much more expensive and complicated to create. </li></ul>\n\n\n\n\n\n<p>The course covers both technique, and design, so that you can build mobile Web apps that are as appealing as they are functional. It consists of six sessions, each with video lectures, detailed notes, and sample code. </p>", 
+    "end_date": null, 
+    "title": "Create Mobile-Friendly Web Apps With HTML", 
+    "price": "20.00", 
+    "instructors": "David Karlins", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/832948_0a85_2.jpg", 
+    "course_url": "https://www.udemy.com/create-mobile-friendly-jquery-mobile-web-apps-with-html/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-26T22:48:13Z"
+}

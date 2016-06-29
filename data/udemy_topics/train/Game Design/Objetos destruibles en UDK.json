@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \tEn este tutorial vamos a aprender a crear objetos para poder destruirlos dentro de un escenario en UDK, aprenderemos a crear sus materiales y a configurar su manera de destruirse una vez que les disparemos con el arma del jugador.  </p>  <p>  \t3dsMax es un programa de creación de gráficos y animación 3D desarrollado por Autodesk, en concreto la división Autodesk Media &amp; Entertainment (anteriormente Discreet). Creado inicialmente por el Grupo Yost para Autodesk, salió a la venta por primera vez en 1990 para DOS. 3ds Max, con su arquitectura basada en plugins, es uno de los programas de animación 3D más utilizado, especialmente para la creación de video juegos, anuncios de televisión, en arquitectura o en películas.  </p>  <p>  \tEste curso es impartido por Javier Arjonilla, profesional del 3d desde hace más de 12 años. Está especializado en el área de modelado y texturado de sets y props, tanto en alta como en baja poligonalización. Ha colaborado en muchos proyectos 3d, entre otros, ha modelado sets y props para un largometraje de animación que ha sido finalista en los Goya 2013, ha creado concepts de escenarios de algunos videojuegos para una desarrolladora estadounidense. Actualmente posee su propia empresa de audiovisuales con la que crea animaciones para museos por toda España.  </p>", 
+    "end_date": null, 
+    "title": "Objetos destruibles en UDK", 
+    "price": "20.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/185516_659d_2.jpg", 
+    "course_url": "https://www.udemy.com/objetos-destruibles-en-udk/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-19T23:47:11Z"
+}

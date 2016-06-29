@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Understanding the CSS Box model will help you better understand how CSS works.</p>\n\n<p>In web development, the CSS box model refers to the composition of a webpage or HTML page from blocks or boxes using CSS. Specifically, the box model describes how the size of each such block and its content is determined through styling instructions.</p>\n\n\n\n\n\n<p><strong>There are 4 parameters which make up the Box Model</strong></p>\n\n\n\n\n\n<ul><li>Height and width dimensions of the actual content within the element</li><li>Padding which is the spacing between the content and the border</li><li>Border line surrounding the box</li><li>margin the spacing around the border between various elements on the webpage.</li></ul>\n\n\n\n\n\n<p>All four of the above make up the entire dimensions of the element.</p>\n\n\n\n\n\n<p>This course is designed to help walk you through what the box model is and how it works.</p>\n\n\n\n\n\n<p>Fast paced get to the point training, to learn about using CSS code.  </p>\n\n\n\n\n\n\n\n<p>By the end of the course you will have the skills and know how to apply CSS box Model to your web code.   </p>\n\n\n\n\n\n\n\n<p>I am here to help you learn how to create your own websites and ready to answer any questions you may have.</p>\n\n\n\n\n\n\n\n<p>Learning how to apply CSS to design web content will help to separate you from the crowd.</p>\n\n\n\n\n\n\n\n<p>Want to know more, what are you waiting for take the first step.  Join now to start learning how you too can write your own <strong>CSS code today.</strong></p>\n\n\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "CSS Box Model Padding Margins Borders", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "37 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/835428_daae_3.jpg", 
+    "course_url": "https://www.udemy.com/css-box-model-padding-margins-borders/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Design Thinking"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-29T16:16:33Z"
+}

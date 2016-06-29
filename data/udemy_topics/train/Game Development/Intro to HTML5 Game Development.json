@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Learn from scratch to create games that run on all platforms and devices!</strong>  </p>  <p style=\"\">  \t  In this online training you will learn the basics of <strong style=\"\">HTML5 game development</strong> by creating your first Mario-style platformer game. All of it using 100% free tools and frameworks!  </p>  <p style=\"\">  \t  We’ll be using the Quintus HTML5 game framework, which is a  lightweight yet powerful JavaScript library used to create professional  2D games. This course was created by <strong style=\"\">Pablo Farias Navarro</strong>, HTML5 developer and founder of <strong style=\"\">ZENVA</strong>.  </p>  <p style=\"\">  \t  What you’ll learn in this course:  </p>  <ul style=\"\">  \t<li style=\"\">Creating levels for your game using the Tiled open source map editor.</li>  \t<li style=\"\">Loading assets in your game.</li>  \t<li style=\"\">Making a 2D platformer game that runs on phones, tablets, smart tvs, computers and maybe even cars!</li>  \t<li style=\"\">Understanding basic platformer mechanics.</li>  \t<li style=\"\">Implementing enemies and their behaviors.</li>  \t<li style=\"\">Putting it all together to create your first game!</li>  \t<li style=\"\">How to publish your finished game to the Amazon Appstore.</li>  </ul>  <p style=\"\">  \t <strong style=\"\">Don’t just make a game, publish and monetization are important too!</strong>  </p>  <p style=\"\">  \t In the course you’ll also learn how to publish your HTML5 games to the <strong style=\"\">Amazon Appstore </strong>and get access to millions of potential customers in over 200 countries!  </p>", 
+    "end_date": null, 
+    "title": "Intro to HTML5 Game Development", 
+    "price": "20.00", 
+    "instructors": "Pablo Farias Navarro", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/254186_2665_2.jpg", 
+    "course_url": "https://www.udemy.com/intro-to-html5-game-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-02T03:01:03Z"
+}

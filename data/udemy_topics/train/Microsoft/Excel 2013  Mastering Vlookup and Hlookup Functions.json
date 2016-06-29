@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \tLooking up data in Excel 2013 is a fun thing. Yet many students find it difficult to search for data in Excel due to arcane explanations provided in help files and tutorials.  </p>  <p>  \t&quot;Looking up&quot;, simply means to search a particular value from a spreadsheet or workbook against a particular value that we know before hand. It can be likened to looking up a word in a dictionary, or a record in a database.  </p>  <p>  \tExcel makes it easy to search for values, both in rows and columns. While there are advanced functions also that enable Excel users to search for data &quot;database-style&quot;, the HLookup and VLookup functions are their simpler-yet-powerful siblings. Simpler? Yeah! Because, why should you use a cannon to shoot a fly?  </p>  <p>  \tAfter this course, whether you want to calculate grades in Gradebooks, design Directories or draw-up Invoices, you&#039;ll be able to do it on your own, and in a jiffy. The course spans about 40 mins, with live examples, practice workbooks to follow along, and chalk board style logic-behind teaching.  </p>  <p>  \tSo....hit it!  </p>", 
+    "end_date": null, 
+    "title": "Excel 2013: Mastering Vlookup and Hlookup Functions", 
+    "price": "20.00", 
+    "instructors": "Adnan Ejaz", 
+    "commitment": "43 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/425932_8d86.jpg", 
+    "course_url": "https://www.udemy.com/excel-2013-mastering-vlookup-and-hlookup-functions/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-18T13:48:33Z"
+}

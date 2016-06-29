@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t      The course will guide you through the creation of an Endless Runner using Unreal Engine 4 (UE4). All the mechanics and game play elements are created in a step by step manner using videos tutorials.  </p>  <p>  \t    The video tutorials are initially geared around a specific UE4 problem / mechanic. You will see how to begin and complete each area from simple player controls to pick up interactions.  </p>  <p>  \t    As the course progresses the videos will show the exploration of deeper mechanics and algorithms to deal with procedural level design and pick up placement.  </p>  <p>  \t    Students can expect to learn a variety of techniques that will help them complete a mini arcade game in about 5 hours.  </p>  <p>  \t    We provide all the assets in two sample projects. Allowing you to focus on the games design and creation rather than the 3D modelling or asset design. This we hope will help you build a vast amount of blue print knowledge which you can apply to your own mini games and future projects.  </p>  <p>  \t    No where else can you find a lecture set that shows you the start and end to an entire developing pipeline with sensible instruction from tutors who are actively engaged in education and the industry.  </p>", 
+    "end_date": null, 
+    "title": "Master Blueprints in Unreal Engine 4 - Endless Runner", 
+    "price": "20.00", 
+    "instructors": "ThunderSteed Ltd.", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/323038_7b36_3.jpg", 
+    "course_url": "https://www.udemy.com/master-blueprints-in-unreal-engine-4-endless-runner/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-20T09:47:15Z"
+}

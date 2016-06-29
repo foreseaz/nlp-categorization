@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   Building a Website with Drupal is aimed at those with web designer skills wishing to learn how to use Drupal to build sites. Beginning with a tour of the Drupal site, the attention shifts to establishing a web test server that is setup to house the prototype. Various customization topics are covered for content types, menus, and views. Building a custom theme without writing any PHP is covered next. The final steps of this course include prep work for migration to an actual web server.  </p>  <p style=\"\">  \t   Surmount the initial learning curve associated with building sites using Drupal by studying how a community site is put together.  </p>  <h4><strong style=\"\">About the Author</strong></h4>  <p style=\"\">  \t<strong style=\"\">Irene Kraus</strong>  </p>  <p style=\"\">  \t  One facet of Ms. Kraus’s work is as an independent Drupal website builder and designer. Her experience in this field goes back more than 20 years, winning awards at times for her strong emphasis on web standards and accessibility factors within her work. She began using Drupal more than 5 years ago, developing a decided preference for it over other software because of its flexible nature.  </p>  <p style=\"\">  \t  At the same time, Ms. Kraus began building a reputation as a creator of software tutorials with an award-winning entry into a contest sponsored by Lotus in January 1995. Her background as both a leader and presenter within the computer user group community became proven assets to the development of her skills.  </p>  <p style=\"\">  \t  Ms. Kraus runs her own one-woman web consulting firm under the name Design Works Internet.  </p>", 
+    "end_date": null, 
+    "title": "Building a Website with Drupal", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/397918_90b2_4.jpg", 
+    "course_url": "https://www.udemy.com/building-a-website-with-drupal/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-19T11:19:33Z"
+}

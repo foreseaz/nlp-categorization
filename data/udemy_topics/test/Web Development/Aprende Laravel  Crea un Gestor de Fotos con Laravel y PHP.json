@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong><em>Completo curso de Laravel en español.</em></strong></p><p><strong><em>¡Este curso cubre clases sobre Laravel 5.1 LTS y Laravel 5.2!</em></strong></p><p><strong>Laravel posee más de 15000 proyectos públicos en desarrollo</strong>, mientras otros frameworks poseen menos de 10000. Sin duda<strong> Laravel es el framework más popular para PHP</strong>.</p><p>La mejor parte es que en este curso es que aprenderás <strong>Laravel</strong>, siempre agregando soporte a las versiones más recientes de Laravel para PHP.</p><p>Aprende a construir aplicaciones profesional en PHP en muy pocas horas, <strong>¡Sí, pocas horas!</strong> Así de genial es Laravel, el framework PHP<strong>, expresivo, simple y potente.</strong></p><p>En las próximas clases vas a aprender a crear <strong>verdaderas plataformas web</strong> <strong>con PHP </strong>en muy <em>poco tiempo </em>con la ayuda de Laravel. Con Laravel te centrarás en las <strong>funcionalidades </strong>y no en el código PHP.</p><p>Durante este curso de Laravel, podrás ver cómo se desarrolla una plataforma web con PHP, desde cero con Laravel el mejor framework PHP, considerando todo:</p><ul><li>El sistema de inicio de sesión.</li><li>Creación de cuentas de usuarios.</li><li>Recuperación de contraseñas.</li><li>Perfil del usuario.</li><li>Cambio y recuperación de contraseñas.</li><li>Creación de formularios.</li><li>Inserción, edición y eliminación de datos con Eloquent de Laravel.</li><li>Cómo enviar y recibir, actualizar y eliminar archivos por formularios web.</li><li>Validar las peticiones y los formularios con Requests de Laravel.</li><li>Mantener el sistema seguro y funcional con los middleware de Laravel.</li></ul><p>Siempre puedes usar el sistema de discusiones para dejar tus dudas y problemas con tus propios proyectos de PHP y Laravel, <strong>siempre respondo las discusiones en poco tiempo.</strong></p><p>Lo mejor de todo es que puedes encontrar el código del curso en un repositorio público en GitHub, así podrás validar el código del sistema y no perder el tiempo con errores de sintaxis.</p><p><strong>¿Qué es Laravel?</strong></p><p>Laravel, es el <em>framework </em>más popular para <em>PHP</em>. Con <em>Laravel </em>podrás desarrollar en muy poco tiempo aplicaciones PHP de alta complejidad en pocas horas.</p><p><em>Laravel </em>posee innumerables características que lo diferencian de múltiples framework para PHP, que permiten implementar de manera simple, tareas muy complejas, como sistemas de validación y seguridad.</p><p><strong>Acerca del curso:</strong></p><p>Si eres nuevo en <em>PHP </em>o <em>Laravel</em>, esta <strong>es tu oportunidad</strong> de iniciar con la versión más reciente de este <em>framework </em>convertirte en experto<em> PHP </em>con la ayuda de Laravel. Si ya conoces <em>Laravel o PHP</em>, es el momento de <strong>actualizar tus conocimiento</strong> y pasarte a la mejor y más reciente versión para no quedarte atrás y dominar PHP como los expertos.</p><p><strong>¿Qué es nuevo en Laravel?</strong></p><p>A partir de Laravel 5 PHP se han incluido nuevos conceptos como los <strong>Requests, Factory </strong>y los <strong>M</strong><strong>iddleware</strong> principalmente, junto con cambios en la estructura y la funcionalidad de ciertos componentes, es todo un cambio radical  para Laravel a su funcionamiento desde la versión 5.</p><p>Así que no esperes más para ser experto PHP.</p><p> <strong>Únete al curso</strong> y nos vemos en clases.</p>", 
+    "end_date": null, 
+    "title": "Aprende Laravel: Crea un Gestor de Fotos con Laravel y PHP", 
+    "price": "20.00", 
+    "instructors": "JuanD MeGon", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/450908_41c3_12.jpg", 
+    "course_url": "https://www.udemy.com/curso-laravel-5-aprender-laravel-5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-19T03:58:22Z"
+}

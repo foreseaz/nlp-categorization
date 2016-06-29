@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>VMware vSphere 6.0 is the platform businesses depend on to deploy, \nmanage and run their virtualized Windows and Linux workloads. </p><p>In this course \nyou will learn how to create and run VM Backup jobs using <strong>vSphere Data Protection,</strong> and how to hot replicate critical VMs either within your vSphere environment or to a remote (disaster recovery) vSphere Environment using <strong>vSphere Replication</strong>. vSphere Data Protection and vSphere Replication are two services available in most vSphere Licenses. With these tools, you can backup, recover and protect critical business VMs.<br></p><p><strong>Learn how to Backup and Replicate Virtual Machines<br></strong></p><p><strong><strong></strong></strong>This course covers two major topics that all vSphere 6 vCenter administrators must know:<br></p><ul><li>First, we look at how you can use <strong>vSphere Replication</strong> to select and hot replicate critical Virtual Machines to ESXi hosts either within your existing vCenter environment or to a remote vCenter environment (your Disaster Preparedness site). Periodic hot VM replication will help you successfully cope with an IT Disaster by regularly duplicating selected VMs to your remote site. Should an IT Disaster occur, you can use vSphere Replication to selectively restore critical VMs, boot them up, put them back into service to restore critical business functions. We will look at how to install the vSphere Replication appliance, how to select VMs for replication, replication policies like <strong>Recovery Point Objective</strong> (RPO) and <strong>Recovery Time Objective</strong> (RTO). We will also see how to restore replicated VMs and place them back into service.</li><li>Next we look at <strong>vSphere Data Protection</strong> - VMware's hot Virtual Machine backup and recovery tool. We will see how to install and configure the vSphere Data Protection appliance, how to create backup jobs, how to set backup retention policies and how to verify that backups are running correctly. We will see how to perform Virtual Machine Recoveries - both in place (overwriting the original VM) or to a new target location. We will also see how to perform an <strong>Emergency VM Recoveries</strong> (when vCenter is not available) and how to use the self-service <strong>File Level Recovery</strong> portal to allow VM administrators to recover individual files and directories. We will also see how to perform management tasks on the VMware Data Protection appliance.</li></ul><p><br></p><p>The skills you will acquire in this course will help make you a more effective vSphere 6 administrator.</p>", 
+    "end_date": null, 
+    "title": "VMware vSphere 6.0 Part 5 - VM Backup and Replication", 
+    "price": "20.00", 
+    "instructors": "Larry Karnis", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/733146_e528_2.jpg", 
+    "course_url": "https://www.udemy.com/vmware-vsphere-60-part-5-vm-backup-and-replication/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-18T19:06:47Z"
+}

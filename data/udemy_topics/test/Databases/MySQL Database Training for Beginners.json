@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<em style=\"\">A Certificate of Completion will be provided to all students after completing this course.</em>  </p>  <p style=\"\">  \t<em style=\"\"><br style=\"\">  \t</em>  </p>  <p style=\"\">  \t<strong style=\"\">Learn SQL language from scratch, the easy way, is designed to give a detailed introduction to using and understanding structured query language (SQL) for manipulating business data.</strong>  </p>  <p style=\"\">  \t<strong style=\"\"></strong><span style=\"\"><strong style=\"\">SQL; Structured Query Language is a special purpose programming language designed for managing data held in a relational database management system</strong></span>  </p>  <p style=\"\">  \t<span style=\"\">______________________________________________________________________</span>  </p>  <p style=\"\">  \tOriginally based upon relational algebra and tuple relational calculus, SQL consists of a data definition language and a data manipulation language. The scope of SQL includes data insert, query, update and delete, schema creation and modification, and data access control. Although SQL is often described as, and to a great extent is, a declarative, it also includes procedural elements.  </p>  <p style=\"\">  \tOnce you have completed this computer based training course, you will have a fundamental knowledge of what SQL is and how you can apply it to different database types.  </p>  <p style=\"\">  \t______________________________________________________________________  </p>  <p style=\"\">  \tThis training teaches you the basics and the advanced with and makes the subject so easy to understand and use. This training teaches you more than necessary to use and operate SQL Databases, to name a few :-  </p>  <ol style=\"\">  \t<li style=\"\">SQL Database Design</li>  \t<li style=\"\">Creation of SQL Databse</li>  \t<li style=\"\">Data Types in SQL</li>  \t<li style=\"\">Functions and Operators in SQL</li>  \t<li style=\"\">Data Integrity in SQL</li>  \t<li style=\"\">Stored Procedures and Functions in SQL</li>  \t<li style=\"\">SQL Database Administration</li>  \t<li style=\"\">Import and Export in SQL</li>  \t<li style=\"\">SQL Monitoring of Database</li>  \t<li style=\"\">SQL backup and Recovery</li>  </ol>  <p style=\"\">  \t______________________________________________________________________  </p>  <p style=\"\">  \t<span style=\"\">Take this ultimate Introductory Microsoft SQL Server Training course now and learn how to build a simple SQL Server database.</span>  </p>  <p style=\"\">  \tLet&#039;s get started and learn SQL language together. The easy way  </p>", 
+    "end_date": null, 
+    "title": "MySQL Database Training for Beginners", 
+    "price": "20.00", 
+    "instructors": "Saksham Jainani", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/408918_d837_5.jpg", 
+    "course_url": "https://www.udemy.com/mysql-database-training-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-31T11:16:27Z"
+}

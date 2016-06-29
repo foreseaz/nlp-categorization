@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<ol style=\"\">  \t<li><strong style=\"\">About the course</strong> - Cluster analysis is one of the most popular techniques used in data mining for marketing needs. The idea behind cluster analysis is to find natural groups within data in such a way that each element in the group is as similar to each other as possible. At the same time, the groups are as dissimilar to other groups as possible.</li>  \t<li><strong style=\"\">Course materials</strong>- The course contains video presentations (power point presentations with voice), pdf, excel work book and sas codes.</li>  \t<li><strong style=\"\">Course duration</strong>- The course should take roughly 7 hours to understand and internalize the concepts.</li>  \t<li><strong style=\"\">Course Structure (contents) </strong>The structure of the course is as follows.</li>  </ol>  <p>  \t<strong style=\"\">Motivation</strong> &ndash;  </p>  <ul style=\"\">  \t<li>Where one applies cluster analysis. Why one should learn cluster analysis?</li>  \t<li>How it is different from objective segmentation (CHAID / CART )</li>  </ul>  <p>  \t<strong style=\"\">Statistical foundation and practical application: Understand</strong>  </p>  <ul style=\"\">  \t<li>Different type of cluster analysis</li>  \t<li>Cluster Analysis &ndash; high level view</li>  \t<li>Hierarchical clustering &ndash;  \t<ul style=\"\">  \t\t<li>Agglomerative or Divisive technique</li>  \t\t<li>Dendogram &ndash; What it is? What does it show?</li>  \t\t<li>Scree plot - How to decide about number of clusters</li>  \t\t<li>How to use SAS command to run hierarchical clustering</li>  \t\t<li>When and why does on need to standardize the data?</li>  \t\t<li>How to understand and interpret the output</li>  \t</ul>  \t</li>  \t<li>Non-hierarchical clustering (K means clustering).<br style=\"\">  \t<ul style=\"\">  \t\t<li>Why do we need k means approach</li>  \t\t<li>How does it work?</li>  \t\t<li>How does it iterate?</li>  \t\t<li>How does it decide about combining old clusters?</li>  \t\t<li>How to use SAS command to run hierarchical clustering</li>  \t\t<li>When and why does on need to standardize the data?</li>  \t\t<li>How to understand and interpret the output </li>  \t</ul>  \t</li>  </ul>", 
+    "end_date": null, 
+    "title": "Cluster Analysis –Motivation, Theory & Practical Application", 
+    "price": "40.00", 
+    "instructors": "Gopal Prasad Malakar", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/150714_9ade_7.jpg", 
+    "course_url": "https://www.udemy.com/cluster-analysis-motivation-theory-practical-application/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-22T12:01:30Z"
+}

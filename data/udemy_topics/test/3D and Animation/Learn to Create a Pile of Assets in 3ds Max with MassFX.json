@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>In this course, we&#039;re going to jump into using MassFX to create a bone pile in 3ds Max. We&#039;ll use MassFX to set up animations simulating gravity on simple objects with general parameters and still end up with a bone pile that looks natural and based on real-world physics. Objects will interact with each other under specific parameters and will then collide with the &#039;ground&#039; and spread out into a pile that not only looks great but saves the 3D artist from having the tedious task of hand-placing each and every individual object into a pile and still make it look good. We&#039;ll examine dynamic versus kinetic versus static bodies and the way gravity affects each and then in our final example.</p><p>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</p><hr style=\"\"><p><u style=\"\">More about the Instructor:</u></p><p>Stephen Wells is an expert 3D modeler for characters, props, vehicles, weapons and environments and have created both high and low polygon assets for game productions. He has over 20 years experience in creating a variety of game assets for several different genres (fantasy, sci-fi, combat, superheroes, horror, etc) using 3ds Max, Maya, Photoshop, ZBrush, Mudbox, Topogun, and xNormal. As an enthusiastic instructor, he loves creating video tutorials on a wide variety of subjects to help students better their skillsets.</p>", 
+    "end_date": null, 
+    "title": "Learn to Create a Pile of Assets in 3ds Max with MassFX", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/441756_4cb7.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-learn-to-create-a-pile-of-assets-in-3ds-max-with-massfx/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-08T06:36:06Z"
+}

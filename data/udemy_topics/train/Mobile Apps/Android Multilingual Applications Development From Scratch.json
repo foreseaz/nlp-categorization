@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  Learn how to build an android application in multiple languages and get the following skills under your belt :  </p>  <ul style=\"\">  \t<li style=\"\">Understand Multilingual Application Development Process.</li>  \t<li style=\"\">Configure android app and activate the multilingual feature.</li>  \t<li style=\"\">Assign default application language.</li>  \t<li style=\"\">Associate Specific UI to a certain language.</li>  \t<li style=\"\">Support both LTR And RTL Languages.</li>  \t<li style=\"\">Dynamically change the application language in Runtime.</li>  \t<li style=\"\">Monetize your application with ads.</li>  \t<li style=\"\">Publish, design and manage multilingual app on Google Play Store.</li>  </ul>  <p style=\"\">  \t  In this course you will learn how to setup and configure a list of languages using the Android Studio and Android SDK.  </p>  <p style=\"\">  \t  I’ll walk you thru the process of installing and activating the Multilingual feature. We’ll connect the app with option theme settings and associate the application UI in different languages and we’ll look at the settings and configurations that give you complete control over your Multilingual android application.  </p>  <p style=\"\">  \t  In the end you will know the step-by-step process of how you can have your app seamlessly connected between all your preferred languages.  </p>", 
+    "end_date": null, 
+    "title": "Android Multilingual Applications Development From Scratch", 
+    "price": "20.00", 
+    "instructors": "Ahmad Naser", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/346002_ce7c_4.jpg", 
+    "course_url": "https://www.udemy.com/android-multilingual-applications-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-16T09:10:17Z"
+}

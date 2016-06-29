@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Music"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Course Description </strong>  </p>  <p style=\"\">  \t    Learn the basic techniques to edit and record voiceovers, narrations, live music and ambient sounds in your computer, from the beginning. Solve your audio production problems with this introductory course.  </p>  <p style=\"\">  \t<strong style=\"\"> Begin to Make Great Audio Content with Reaper </strong>  </p>  <ul style=\"\">  \t<li style=\"\">Installation and configuration explained </li>  \t<li style=\"\">Basic editing operations in detail </li>  \t<li style=\"\">Configure your PC or Mac for audio production </li>  \t<li style=\"\">Productivity tips </li>  \t<li style=\"\">One-click recording setup </li>  \t<li style=\"\">Improve your recordings with audio effects </li>  </ul>  <p style=\"\">  \t<strong style=\"\"> Your Intro to Audio Production </strong>  </p>  <p style=\"\">  \t    Learning audio editing and recording is a life-time art, but you don&#039;t have time to waste. With this basics course, you can be in charge of your audio content and quality from day one. Reaper is a fully professional software, but so intuitive and easy that my students enjoy working with it from the first minute. I have removed the technical side of audio production to make the basics as easy as possible.  </p>  <p style=\"\">  \t    This is an introductory course for musicians, actors, teachers and anyone who needs to record his own audio. Aimed at non technical users, you will learn the basics of Reaper, an all-pourpose audio editor that you can use for free with no time limit.  </p>  <p style=\"\">  \t<strong style=\"\">Content and Overview </strong>  </p>  <p style=\"\">  \t    In just ten lessons you will download, configure and use Reaper to make and edit your own recordings, improve the audio quality using effects, etc. Audio materials and links will be available for practise and to extend your learning.  </p>  <p style=\"\">  \t    The course is divided in four sections, following the natural order of your learning. In the first section you will learn how to download and install Reaper in your computer, depending if you are in Windows or Mac. You will perform a sound check and learn how to solve the possible problems that could arise during configuration. I will be available in the comments section and also in office hours to respond to your doubts. The first section ends with an overview of Reaper&#039;s User Interface, so you can get familiar with it.  </p>  <p style=\"\">  \t    The second section is about Audio Editing. You will learn how to import audio, cut, copy, paste, etc, mass-edit operations and shortcuts. Also how to organize your projects and the best formats to render your audio sessions.  </p>  <p style=\"\">  \t    Then during the third section you will setup your computer and other hardware ready to record audio into Reaper. Depending on your system, some techniques are described to improve the audio quality and performance of the computer.  </p>  <p style=\"\">  \t    In the fourth section you will learn what Audio Effects are, the most common plugin formats and how to use them in the recordings you just made. You will learn to remove background noise or change it&#039;s tonal colour through EQ, and also to add some Reverb to improve the acoustics.  </p>", 
+    "end_date": null, 
+    "title": "Audio Editing Basics with Reaper", 
+    "price": 0, 
+    "instructors": "Pedro Gonzalez", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/385016_744e_4.jpg", 
+    "course_url": "https://www.udemy.com/audio-editing-basics-with-reaper/", 
+    "subject_name": [
+        "Music Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-04T18:36:56Z"
+}

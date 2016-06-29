@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t        Have you ever wondered how complex applications are build and what is the best way to ensure that they don&#039;t have any defects. In some organizations for every application developer there are multiple testers that validate the work, which is done by developer. Sometimes testers use sophisticated software packages to manage quality assurance, but what if you don&#039;t have these expensive tools  </p>  <p>  \t                 Welcome to the course, where we teach you about software testing and how you can manage all the phases of the testing using Microsoft Excel 2010. This course shows you how to build a real-world ready documents using Microsoft Excel and how you can use them to effectively manage the quality assurance for the software development process. . Designed by HowToAnalyzeData, a global training partner, this course covers all of the best activities to get you started.  </p>  <p>  \t                      In this training class, students will to gain the necessary skills to  create on how to use Microsoft Excel to create, edit, format, and manage project  management plan, timelines, quality assurance process and will  understand how to build all required documents used in the process from  scratch. We explain you the purpose of each document , the value it delivers for software testing and quality assurance, how to build it and how to use it in the real world scenario.  </p>  <p>  \t                      Class Goals:  </p>  <li><em style=\"\">Learn about software testing and quality assurance process</em></li>  <li><em style=\"\">How to define test phases for software quality assurance project</em></li>  <li><em style=\"\">How to create a test script in preparation for testing</em></li>  <li><em style=\"\">What is the test coverage and how to make sure you cover all required scenarios using Microsoft Excel.</em></li>  <li><em style=\"\">How you can report results of quality assurance to the management and team members.</em></li>  <li><em style=\"\">Review out of the box Microsoft Access database, which comes with the product, for defects and issue management</em></li>  <br style=\"\">", 
+    "end_date": null, 
+    "title": "How to Manage Software Testing using Microsoft Excel", 
+    "price": "20.00", 
+    "instructors": "Vadim  Mikhailenko", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/219020_e782_3.jpg", 
+    "course_url": "https://www.udemy.com/how-to-manage-software-testing-using-microsoft-excel/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-15T03:25:52Z"
+}

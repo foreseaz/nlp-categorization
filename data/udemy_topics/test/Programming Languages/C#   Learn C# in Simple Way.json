@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Design and development of a product requires great understanding of full capability of implementation language. The complexity of real world application requires the use of strength of language to provide robust, flexible and efficient solution. C# provides the Object Oriented capability and lot of rich features to stand with changing demand of current world application requirement.<br></p>\n\n<p>This course explains the Object Oriented features of C# in step-wise manner. All the topics have been explained in simple way. You will also see the demonstration of source code implementation for each topic. This course will improve the C# skills of developers who have basic understanding of C#. You will learn Object Oriented features of C# which will help in providing efficient solution. Right now it covers the topics - Classes and Objects.</p>\n\n\n\n<p>This course will be expanded soon, some of the topics that will be added are-</p>\n\n\n\n<ul><li><strong>Values and References<br></strong></li><li><strong>Inheritance and Polymorphism<br></strong></li><li><strong>Abstract Classes and Interfaces<br></strong></li><li><strong>Properties<br></strong></li><li><strong>Indexers<br></strong></li><li><strong>Operator Overloading<br></strong></li><li><strong>File Handling</strong></li></ul>\n\n\n\n<p>Course will be updated with adding new topics and existing topics will be provided in detail to have good understanding of Object Oriented features of C# to build the technical strength and shape your career.</p>", 
+    "end_date": null, 
+    "title": "C# : Learn C# in Simple Way", 
+    "price": "20.00", 
+    "instructors": "Suresh Kumar Srivastava", 
+    "commitment": "42 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/658604_d6b0_3.jpg", 
+    "course_url": "https://www.udemy.com/object-oriented-csharp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-03T05:51:05Z"
+}

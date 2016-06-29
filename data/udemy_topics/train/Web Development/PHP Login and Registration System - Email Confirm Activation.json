@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>UPDATED ALL THE TIME</strong><br></p>\n\n\n\n<p><strong>NEW LECTURES ADDED ALL THE TIME,  JUST FOR FUN :)</strong></p>\n\n\n\n<p>---------------------------------------------------------</p>\n\n\n\n<p>Are you ready to learn how to build a complete login and registration system using PHP and MySQL? Then you are at the right place at the right time. </p>\n\n\n\n<p><strong>No Water cooled chatter!</strong></p>\n\n\n\n<p>We don't do a lot of chatting on this course and always go straight to point. We take a very practical approach and get things done. </p>\n\n\n\n<p><strong>We love helping!</strong></p>\n\n\n\n<p>Have a problem in one of the lectures? No problem we are here to help. Need personal assistance from a lecture? Tells us the problem and let's get it done. </p>\n\n\n\n<p><em><strong>Main Features</strong></em></p>\n\n\n\n<p>1. User activation by email</p>\n\n\n\n<p>2. Always logged in feature (Remember me)</p>\n\n\n\n<p>3. Encrypting Passwords</p>\n\n\n\n<p>4. Password Recover by email system (NICE)</p>\n\n\n\n<p>5. Token Generator security feature (Good stuff)</p>\n\n\n\n<p>6. Did I mention an awesome instructor that loves his students ? </p>\n\n\n\n<p>7. Features added to the course all the time</p>\n\n\n\n<p>-----------------------------------------------------------------</p>\n\n\n\n<p>On this course we will the use the latest PHP syntax along with the latest MySQL with the latest Bootstrap as well. You will have a lot of fun in this course and learn a lot. You can also recommend any feature you would like implemented and they will be considered to be included in the course.</p>\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "PHP Login and Registration System - Email Confirm Activation", 
+    "price": "20.00", 
+    "instructors": "Edwin Diaz", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/678142_0e59_2.jpg", 
+    "course_url": "https://www.udemy.com/php-mysql-login-and-registration-system-with-email-confirm-activation/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-23T12:12:25Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">This video course will help salesforce users learn how to administer and develop salesforce specifically for the NonProfit/NGO environment. You will learn how obtain the $15,000 software grant from the salesforce foundation along with essentials for set-up and administration for various use cases: constituent management, donor management (grants, in-kind gifts, etc.) volunteer management, event management, receipting, communications and common enhancements for nonprofit  via 3rd party applications. This course is ideal for office managers, operations directors, development personnel in organizations that cannot afford the $5,000+ price tag for hiring a consulting firm for a full-on salesforce deployment. This course will empower existing staff to deploy salesforce in a cost efficient, yet useful manner.</p>", 
+    "end_date": null, 
+    "title": "Salesforce for NonProfits & NGOs", 
+    "price": "50.00", 
+    "instructors": "Aja McClanahan", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/476300_f383_5.jpg", 
+    "course_url": "https://www.udemy.com/salesforcecom-for-nonprofits-ngos/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Salesforce"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-14T18:50:51Z"
+}

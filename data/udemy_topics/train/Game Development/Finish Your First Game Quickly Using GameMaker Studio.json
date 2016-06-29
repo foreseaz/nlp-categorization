@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course helps new GameMaker Studio users finish their first game quickly. Students will learn how to add assets to a Game Maker project, write code for different game objects, and create beautiful effects. Getting started with Game Maker has never been more fun.</p><p>It will take roughly 4 hours to complete this course.</p><p>Finishing your first game is a huge milestone. Many people never make it that far. This course is a fun and fast way to get you past that milestone and on to future projects. You don't have to worry about creating any of the assets, you can just jump right into Game Maker and get learning.</p>", 
+    "end_date": null, 
+    "title": "Finish Your First Game Quickly Using GameMaker Studio", 
+    "price": "20.00", 
+    "instructors": "Benjamin Anderson", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/729780_5fd1.jpg", 
+    "course_url": "https://www.udemy.com/make-a-game-in-a-single-afternoon-using-gamemaker-studio/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-16T05:52:56Z"
+}

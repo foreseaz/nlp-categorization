@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Hoy en día a la gran mayoría  de sitios donde vayas necesitamos tener acceso a internet y es aquí en donde  toma gran importancia lo que es un sistema Hotspot. Los equipos Mikrotik son un  gran solución porque su RouterOS nos permite tener un control total del sistema  hotspot y además podemor acoplarlo con otras soluciones como son un web cache  en sistema Linux.</p><p>&nbsp;Este Video curso está enfocado en la  configuración de un sistema hotspot utilizando equipos Mikrotik. Durante el  proceso del curso todo lo que se explica será puesto en practica, el curso esta  estructurado de tal manera que el alumno empezara desde un repaso por conceptos  basico de redes pasando por aspectos importantes como son configuración del  hotspot server, las diferentes opciones de proxy como web proxy y thundercache,  aspectos de seguridad, QoS. Además se enseñara algo importante que un  administrador de redes de saber que son las herramientas de monitoreo y  tecnicas de Troubleshooting. &nbsp;</p><p>Las practicas son realizas en equipos reales como RouterBoard 532 la cual son 8.5 horas de entrenamiento.</p><p>Para realizar la practica necesitan contar con un equipo Mikrotik como puede ser el modelo RBN951-2N con una licencia nivel 4 para poder realizar sin problema las configuraciones vistas en el curso o bien pueden descarga la version gratis de 24hrs para instalar en un cpu, les recomendamos que visiten el sitio&nbsp;<a href=\"javascript:void(0)\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\">http://wiki.mikrotik.com/wiki/Manual:License_levels</a><span>&nbsp;para leer los detalles. También van a requerir un CPU exclusivo &quot;1°a opcion&quot; para la instalacion del sistema Debian y configuracion del sistema ThunderCache o bien un CPU con recursos (2°a opcion) para poder virtualizar el sistema Debian.</span></p><p>        </p><p>Al finalizar el curso tendrán  todas las herramientas para poder implementar su propio sistema Hotspot ya sea  en su trabajo e incluso en su comunidad como Wireless Internet Service Provider  (WISP).</p>  ", 
+    "end_date": null, 
+    "title": "Mikrotik Hotspot", 
+    "price": "20.00", 
+    "instructors": "Recursos Networking", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/59375_dc8b_7.jpg", 
+    "course_url": "https://www.udemy.com/configuracion-y-administracion-de-hotspot-mikrotik/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-11T04:13:43Z"
+}

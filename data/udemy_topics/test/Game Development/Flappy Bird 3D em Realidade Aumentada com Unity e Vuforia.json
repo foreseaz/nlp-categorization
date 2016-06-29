@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t          O mundo está prestes a presenciar a explosão do uso das novas tecnologias de vestir ( <strong style=\"\">Wearable Devices </strong>) que são os “smart” óculos relógios e pulseiras como o <strong style=\"\">Google Glass</strong> e o <strong style=\"\">Apple Watch</strong>.  </p>  <p style=\"\">  \t        Em vista disso o uso de <strong style=\"\">Visão Artificial</strong> ( <strong style=\"\">Computer Vision</strong> ) e <strong style=\"\">Realidade Aumentada</strong> ( <strong style=\"\">Augmented Reality</strong> ) em aplicativos vai crescer muito gerando uma alta demanda de necessidade deste tipo de desenvolvimento.  </p>  <p style=\"\">  \t          Neste curso o aluno vai aprender a <strong style=\"\">criar do zero</strong> o seu primeiro aplicativo em <strong style=\"\">Realidade Aumentada</strong> usando a <strong style=\"\">Unity3D</strong>, a engine de jogos mais popular do mundo, desenvolvendo a lógica do jogo com a linguagem de <strong style=\"\">programação C#</strong> e usando a ferramenta de <strong style=\"\">AR</strong> mais popular do mundo, a <strong style=\"\">Vuforia</strong> da empresa <strong style=\"\">Qualcomm</strong>.  </p>  <p style=\"\">  \t        Além de gratuita para distribuição, o melhor custo benefício em relação às outras concorrentes. Possui vários tipos de recursos como <strong style=\"\">Múltiplos Marcadores</strong>, <strong style=\"\">Marcadores Cilíndricos</strong> / <strong style=\"\">Cúbicos</strong>, <strong style=\"\">Reconhecimento de Texto</strong>, <strong style=\"\">Video Player</strong> e o novo recurso de <strong style=\"\">Tracking de Objetos</strong>. Iremos abordar todos estes temas da Vuforia em aulas e exemplos isolados.<strong style=\"\">**</strong>  </p>  <p style=\"\">  \t          O curso irá abordar também a execução do aplicativo nos aparelhos <strong style=\"\">iOS</strong> (<strong style=\"\">iPhone</strong> e <strong style=\"\">iPad</strong>) e <strong style=\"\">Android</strong> e como publicar seu aplicativo na <strong style=\"\">AppStore</strong> e <strong style=\"\">Google Play.**</strong>  </p>  <p style=\"\">  \t          Os alunos não precisam ter nenhum conhecimento preliminar de programação ou criação de jogos, pois o curso é desenvolvido com uma<strong style=\"\"> linguagem clara</strong> e <strong style=\"\">sem o uso excessivo de termos técnicos.</strong> As <strong style=\"\">instruções</strong> são dadas <strong style=\"\">passo a passo</strong> em <strong style=\"\">videos</strong> e os <strong style=\"\">exemplos</strong> são fornecidos para <strong style=\"\">download</strong> junto as aulas  </p>  <p style=\"\">  \t        O aluno também poderá contar com a <strong style=\"\">ajuda do professor</strong> e <strong style=\"\">tirar suas dúvidas no fórum.  </strong>  </p>  <p style=\"\">  \t<strong style=\"\"><em style=\"\">** OBS! - Os tópicos marcados farão parte do curso, porém ainda estão em desenvolvimento! As aulas abordam o desenvolvimento utilizando a Vuforia 3.0 Por favor verificar a listagem de aulas já publicadas!</em></strong>  </p>", 
+    "end_date": null, 
+    "title": "Flappy Bird 3D em Realidade Aumentada com Unity e Vuforia", 
+    "price": "30.00", 
+    "instructors": "Tito Petri, Luiz Henrique Ugliano, Thiago Travi", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/354388_2ac4_5.jpg", 
+    "course_url": "https://www.udemy.com/augmentedreality/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-23T10:55:17Z"
+}

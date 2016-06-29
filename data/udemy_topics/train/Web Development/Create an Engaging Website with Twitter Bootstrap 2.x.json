@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  A total of<strong style=\"\"> 23</strong> lectures with a total running time of<strong style=\"\"> 74 minutes</strong>.  </p>  <p>  \t  This step-by-step approach will show you how to build a responsive, interactive, and visually engaging web page with simple and flexible HTML, CSS and JavaScript -- all built on the free, open-source framework called Twitter Bootstrap. Learn to take advantage of the many aspects of Twitter Bootsrtap, including creating your own layouts, customizing components, device-sensitive elements, auto-suggest form fields, and extend the icon sprite sheet to incorporate your own icons! <strong style=\"\">This course includes HTML, CSS, JavaScript, and Photoshop templates</strong> that you can customize for use in your own projects.  </p>", 
+    "end_date": null, 
+    "title": "Create an Engaging Website with Twitter Bootstrap 2.x", 
+    "price": "20.00", 
+    "instructors": "Chris Converse", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/19260_3680_18.jpg", 
+    "course_url": "https://www.udemy.com/create-an-engaging-website-with-twitter-bootstrap/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-06-08T22:31:14Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Qt also Pronounce “Cute” is a Cross platform application development framework.</p><ul><li>Qt is a cross-platform application and UI framework.</li><li>Using Qt, you can write applications once and deploy them across desktop, mobile and embedded operating systems without rewriting the source code.</li><li> Qt is partly C++ and partly native code depending on platform.</li><li>Qt UI APIs wrap native UI components.</li></ul><p>Why would you want to use it?</p><ul><li>Qt has a quite good penetration on different platforms.</li><li>It's fairly straight-forward to port your application to platforms where Qt is supported.</li><li>Qt has been around for a long time, so it has matured as a framework.</li><li>It adds somewhat automatic memory management on top of C++ through different means.</li><li>There's plenty of components.</li></ul><br><p>The goal of this course is to provide you with a working knowledge of Qt C++ GUI applications. We'll start with the basics, starting from installing Qt , creating our first Qt project, using widgets, signals and slots, layouts, resource file etc.<br></p><p>In the later half of the video I will also show , How sqlite database cane be used with Qt.</p><p><strong><em>So Let's get started !!!</em></strong><br></p>", 
+    "end_date": null, 
+    "title": "QT C++ GUI Tutorial For Beginners", 
+    "price": "20.00", 
+    "instructors": "Yogesh Patel", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/825268_f632_3.jpg", 
+    "course_url": "https://www.udemy.com/qt-c-gui-tutorial-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-18T18:18:55Z"
+}

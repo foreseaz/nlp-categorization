@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Vous développez des sites web régulièrement et vous en avez assez de réinventer la roue ? Vous aimeriez utiliser les bonnes pratiques de développement PHP pour concevoir des sites web de qualité professionnelle ?Ce cours vous permettra de prendre en main Symfony2, le framework PHP de référence. Pourquoi utiliser un framework ? Comment créer un nouveau projet de site web avec Symfony2, mettre en place les environnements de test et de production, concevoir les contrôleurs, les templates, gérer la traduction et communiquer avec une base de données via Doctrine 2 ?Alexandre Bacco vous montrera tout au long de ce cours comment ce puissant framework, supporté par une large communauté, va vous faire gagner en efficacité. Fabien Potencier, créateur de Symfony2, introduira chacun des chapitres par une vidéo explicative des principaux points abordés.Ce cours, écrit par Alexandre Bacco, a été conçu conjointement par SensioLabs, société éditrice de Symfony2, et OpenClassrooms. Un certificat de réussite du cours sera délivré par SensioLabs et OpenClassrooms pour les élèves qui réussiront l’ensemble des exercices.\n\n                                    ", 
+    "end_date": "2015-07-06T00:00:00Z", 
+    "title": "Développez votre site web avec le framework Symfony2", 
+    "price": 0, 
+    "instructors": "Alexandre Bacco", 
+    "institution_name": [
+        "SensioLabs"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://openclassrooms.com/courses/developpez-votre-site-web-avec-le-framework-symfony2", 
+    "duration": "5 weeks", 
+    "language_name": [], 
+    "provider_name": [
+        "OpenClassrooms"
+    ], 
+    "start_date": "2015-06-01T00:00:00Z"
+}

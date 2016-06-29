@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>This CSMF Course is a Master course that teaches <strong>New, Rapid Delivery Data Nodding methods.</strong> </p>\n\n<p>It teaches methods for developing a strategic model in a Facilitated Session with senior and middle-level business managers using strategic business plans as a catalyst to develop a strategic data model.</p>\n\n\n\n<p>This Master Certification course teaches Strategic Modeling Facilitators how to develop a strategic data map using business planning statements as a catalyst, by using business terminology, NOT technical data modeling terminology. A strategic data map is seen by senior business managers as a “picture of their business”.</p>\n\n\n\n<p>[A Strategic Data Model (or strategic data map) is an Enterprise Data Model (or enterprise data map) with every <em>many-to-many</em> association decomposed into an Intersecting (Associative) entity and two, <em>one-to-many </em>associations. The <em>many</em> end of each association touches the Intersecting entity, while the <em>one</em> end of each association touches one of the two entities originally related by the many<em>-to-many</em> association.]</p>\n\n\n\n<p>The course teaches facilitators how to identify business processes in any data map manually, rapidly and easily by visual inspection, for selection of priority processes by business managers for early delivery. The course teaches facilitators how to identify the project phase number of every entity in any data map, manually by visual inspection and how to derive project plans from any data map manually, by visual inspect<em>ion.</em></p>\n\n\n\n<p>It also teaches facilitators how manually, rapidly and easily, to derive an <em>Enterprise Architecture Portfolio Plan (EAPP),</em> for delivery into production of priority, reusable, standardized processes comprising fully-integrated databases and systems: rapidly, in 3-month increments of increasing functionality. These reusable processes, when implemented, can save large organisations hundreds of millions of dollars in annual operating costs.</p>\n\n\n\n<p>Finally, this Master Certification Course teaches facilitators how to derive Project Maps, manually, rapidly and easily, by visual inspection of any complex data map, for progressive delivery of <strong><em>Early Milestone Deliverable</em></strong> sub-projects in 3-month increments, so that business benefits can be realized from early implemented sub-projects, while later sub-projects are still being developed.</p>\n\n\n\n<p><em><em>As I have developed Parkinson's Disease since the video was first recorded in 2009 and can now no longer speak clearly, I have asked Russell Abisla of Visible Systems Corporation in Boston, MA to present the initial Introduction video on my behalf.  </em></em><br></p>", 
+    "end_date": null, 
+    "title": "6) CSMF: Certified Strategic Modeling Facilitator", 
+    "price": "50.00", 
+    "instructors": "Mr. Clive Finkelstein, Michael Cesino", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/767350_c5bd.jpg", 
+    "course_url": "https://www.udemy.com/csmf-certified-strategic-modeling-facilitator-master-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Project Management"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-19T07:14:40Z"
+}

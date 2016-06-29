@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    What is GRUNT? Basically it&#039;s a task manager. It can do all your JavaScript tasks for you. All you need to do is set it up and watch your job with JavaScript become easier and quicker.  </p>  <p>  \t    Learn to automate your work.  </p>  <ul style=\"\">  \t<li>Using GRUNT you will not have to focus as much on routine tasks.</li>  \t<li>Make team work more comfortable by bringing your code to a single standard.</li>  </ul>  <p style=\"\">  \t    If you work with JavaScript and avoid using GRUNT, you are making a big mistake. Some of the things you can simplify by using it are concatenating files, linting and testing your code, and minification. There are many other tools that can do these jobs but none can do all of them.  </p>  <p style=\"\">  \t    Complete this course and start working smart. The course consists of 6 video lessons, a little under 1 hour in total. After completing them you will know enough to install and configure GRUNT.  </p>", 
+    "end_date": null, 
+    "title": "Introduction to GRUNT js", 
+    "price": "20.00", 
+    "instructors": "JS Knights, Juriy Bura", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/406754_c7d4.jpg", 
+    "course_url": "https://www.udemy.com/grunt-js/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-28T15:30:50Z"
+}

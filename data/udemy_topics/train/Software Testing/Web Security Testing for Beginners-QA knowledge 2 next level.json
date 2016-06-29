@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  Course Launch Date  : Aug 30th 2015 -<br>**********Its Time to Protect our Websites from Security Attacks *************************</p><p> <strong>This Tutorial will give all the weapons you needed to investigate and unlock the Security Holes in the Web application</strong></p><p>Course lectures are conceptually driven with root level explanations and bring you to the level where you can bring out the security bugs </p><p><strong>Course Contents</strong>: Basics of Security Testing Terminologies involved in Security Domain Top OWASP principles Cross site Scrpiting Xss examples Cookies Importance Danger with stealing of cookies Session Hijacking Cross site forgery Attacks Parameter Tampering Methods to Intercept requests Account Management Password security guidelines Brute force mechanism Importance of Client side validations  </p><p>On course completion You will be Mastered in Web Security Testing and can implement Successfully it in your work place or will surely land on High Paying Job</p>", 
+    "end_date": null, 
+    "title": "Web Security Testing for Beginners-QA knowledge 2 next level", 
+    "price": "25.00", 
+    "instructors": "Rahul Shetty", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/543770_e2f6_2.jpg", 
+    "course_url": "https://www.udemy.com/security-testing-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-03T03:51:20Z"
+}

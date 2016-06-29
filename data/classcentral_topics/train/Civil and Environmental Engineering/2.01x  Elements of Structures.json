@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Civil & Environmental Engineering"
+    ], 
+    "description": "\n\n                                            Class Central Course Rank  \n                                                    \n                                #2 in Subjects\n                                                                    &gt; Engineering\n                                                                                                    &gt; Civil &amp; Environmental Engineering\n                                                            \n                            \n                                                \n                    \n                    \n                    2.01x introduces principles of structural analysis and strength of materials in applications to three essential types of load-bearing elements: bars in axial loading, axisymmetric shafts in torsion, and symmetric beams in bending.\n\nThe course covers fundamental concepts of continuum mechanics, including internal resultants, displacement fields, stress, and strain.\n\nWhile emphasizing analytical techniques, the course also provides an introduction to computing environments (MATLAB) and numerical methods (Finite Elements).\n\nThis course is based on the first subject in solid mechanics for MIT Mechanical Engineering students. Join them and learn how to predict linear elastic behavior, and prevent structural failure, by relying on the notions of equilibrium, geometric compatibility, and constitutive material response.\n\n                                    ", 
+    "end_date": "2016-08-31T00:00:00Z", 
+    "title": "2.01x: Elements of Structures", 
+    "price": 0, 
+    "instructors": "Simona Socrate and Alexie M. Kolpak", 
+    "institution_name": [
+        "Massachusetts Institute of Technology"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.edx.org/course/elements-structures-mitx-2-01x-1", 
+    "duration": "10 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-06-22T00:00:00Z"
+}

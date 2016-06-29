@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Learn the new features of Unity 5 in this course from Stone River eLearning that covers each of the new features. You'll learn what they are, how they work and how you can use them to create professional quality games with Unity 3D.</p><p style=\"\">Unity 5.0 is the biggest and boldest release ever. Powerful new features in Unity 5 include:</p><ul style=\"\"><li>The Physically-based Standard Shader to make your materials look consistent in any lighting environment, cross platform.</li><li>Real-time Global Illumination, built on Geomerics Enlighten technology.</li><li>The Audio Mixer, to massively improve audio in your game.</li><li>HDR Reflection Probes to enhance visual fidelity.</li><li>PhysX 3.3 to bring massive performance improvements to 3D physics.</li><li>Major updates to the animation system.</li><li>WebGL preview.</li></ul><p style=\"\">And of course, many more new features and updates. Keep reading to learn more.</p><p style=\"\"><strong style=\"\">UNITY 5 NEW FEATURES</strong></p><strong style=\"\">AI</strong><ul style=\"\"><li>NavMesh supports LoadLevelAdditive</li><li>Improved performance and reduced memory consumption:<ul style=\"\"><li>NavMeshObstacles update is multi-threaded now. Carving speed generally improved 2-4x.</li><li>NavMesh data for non-carved regions takes ~2x less memory now.</li><li>Performance improvements for multi-threaded NavMeshAgent updates.</li><li>HeightMeshes bake faster, work faster at runtime, and use ~35% less memory.</li><li>Path replanning in presence of many carving obstacles is faster and more accurate.</li></ul></li><li>Improved inspectors and debug visualizations:<ul style=\"\"><li>NavMesh Areas inspector (previously NavMesh Layers) got a facelift.</li><li>Reorganized parameters NavMeshAgent inspector.</li><li>Added carve hull debug visualisation for NavMeshObstacles.</li><li>Added visualisation on how NavMesh bake settings relate to each other.</li></ul></li></ul><ul style=\"\"><li>Improved accuracy and raised limits:<ul style=\"\"><li>NavMeshObstacle supports two basic shapes - cylinder and box for both carving and avoidance.</li><li>Improved automatic Off-Mesh Link collision detection accuracy. Note that this will change how off-mesh links placement on existing scenes.</li><li>Improved navmesh point location/mapping when height mesh is used.</li><li>Increased the height range of NavMesh baking (can build meshes for taller scenes).</li><li>Made Height Mesh query more resilient to small holes in input geometry.</li><li>NavMesh obstacle rotation is take into account when carving and avoiding.</li><li>NavMesh tile count limit lifted from 216 to 228.</li><li>NavMeshPath and NavMeshAgent paths removed 256 polygon limit.</li><li>OffMeshLink - removed restriction on tile span - previously connected only up to neighbouring tiles.</li></ul></li></ul><strong style=\"\">ANDROID</strong><ul style=\"\"><li>KitKat Immersive Fullscreen Mode. Applied by default.</li><li>Rendering to multiple displays.</li><li>Rendering to custom java surfaces. Exposed in Unity as additional displays.</li><li>AAR Support. AAR files can now be used as a replacement for Android Library Project folders.</li></ul><strong style=\"\">ANIMATION</strong><ul style=\"\"><li>State Machine Behaviours<ul style=\"\"><li>StateMachineBehaviours is a new MonoBehaviour-like Component that can be added to a StateMachine state to attach callbacks</li><li>Available callbacks are : OnStateEnter, OnStateExit, OnStateUpdate, OnStateMove, OnStateIK, OnStateMachineEnter and OnStateMachineExit</li><li>Animator.GetBehaviour(). This function return the first StateMachineBehaviour that match type T</li></ul></li></ul><p style=\"\"><strong style=\"\">STATE MACHINE BEHAVIORS</strong></p><ul style=\"\"><li>StateMachine Transitions<ul style=\"\"><li>Can now add higher level transitions from StateMachine to StateMachine</li><li>Entry and Exit nodes define how the StateMachine behaves upon entering and exiting.</li></ul></li></ul><p style=\"\"><strong style=\"\">STATE MACHINE TRANSITIONS</strong></p><ul style=\"\"><li>Asset API<ul style=\"\"><li>Allows to create and edit, in Editor, all types of Mecanim assets ( Controllers, StateMachines, BlendTree etc.)</li><li>Added API for Avatar, Motion Nodes, Events and Curve in the Model Importer</li></ul></li><li>Direct Blend Tree.<ul style=\"\"><li>New type of blend tree to control the weight of each child independently<strong style=\"\"></strong></li></ul></li></ul>", 
+    "end_date": null, 
+    "title": "What's New In Unity 5", 
+    "price": 0, 
+    "instructors": "Stone River eLearning", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/464062_f9dc_2.jpg", 
+    "course_url": "https://www.udemy.com/whats-new-in-unity-5/", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-31T14:20:33Z"
+}

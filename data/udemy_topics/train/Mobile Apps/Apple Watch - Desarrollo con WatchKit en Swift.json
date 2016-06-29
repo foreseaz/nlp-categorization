@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Tim Cook, el CEO de Apple anunció en una entrevista que la multinacional de la manzana tenía previsto lanzar en abril el revolucionario Apple Watch. ¿Tienes adaptados tus desarrollos para su funcionamiento en este nuevo hardware?  </p>  <p>  \t  En este curso aprenderás todos los conceptos necesarios para desarrollar aplicaciones del Apple Watch.  </p>  <p>  \t  La estructura que seguirás será la siguiente:  </p>  <ul style=\"\">  \t<li style=\"\">Novedades en Xcode 6.2</li>  \t<li style=\"\">Las clases de WatchKit hasta su versión 2.0</li>  \t<li style=\"\">El desarrollo de tu aplicación</li>  </ul>  <p>  \t  Vas a disponer de una serie de clases que describen todos y cada uno de los componentes que facilita WatchKit para construir aplicaciones.  Por último te enseñaremos el desarrollo de una aplicación real mediante varios screencast para que puedas seguir al pie de la letra cómo encaja todo el aprendizaje previo.  </p>  <p>  \t  Cuando termines el curso estarás preparado para empezar a construir tus propias aplicaciones para el Apple Watch.  </p>", 
+    "end_date": null, 
+    "title": "Apple Watch - Desarrollo con WatchKit en Swift", 
+    "price": "40.00", 
+    "instructors": "Autentia University", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/414914_a550.jpg", 
+    "course_url": "https://www.udemy.com/apple-watch-desarrollo-con-watchkit-en-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-06T10:02:47Z"
+}

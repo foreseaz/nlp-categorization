@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>DNS is not secure! And DNS is the most important protocol of internet! Learn how to secure DNS with DNSSec!</p><p>In this course You will learn how DNSSec works, how to implement DNSSec and how to operate DNSSec-enabled DNS-servers.</p><p>By the end of this course You will have a solid understanding of how to secure your domains and zones.</p><p><strong>What you will learn:</strong></p><ul><li>How the signing process works</li><li>Background about hashing algorithms and digital signatures.</li><li>Differences between ZSK (zone signing keys) and KSK (key signing keys)</li><li>How to operate a signed zone in bind.</li><li>The chain of trust. How Your zone information is secured all the way back to the root zone.</li></ul><p><strong class=\"redactor-inline-converted\">The requirements:</strong></p><ul><li>You really need to know how DNS works. I expect You to already know about zone files, dig, SOA-records and zone transfers.</li></ul><p><br></p><p><strong class=\"redactor-inline-converted\">Target audiences:</strong></p><ul><li>Networking engineers who operates their own DNS-servers with bind</li><li>Security aware people who wants to understand DNSSec</li><li>CCNA/CCNP students.</li></ul><p><br></p>", 
+    "end_date": null, 
+    "title": "DNSSec - Secure DNS", 
+    "price": "25.00", 
+    "instructors": "Jimmy Larsson", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/819786_db30.jpg", 
+    "course_url": "https://www.udemy.com/dnssec-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-12T13:14:39Z"
+}

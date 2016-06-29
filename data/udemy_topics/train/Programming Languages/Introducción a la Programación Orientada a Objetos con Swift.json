@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<ul><li><strong><em>Curso totalmente gratis.</em></strong></li><li><strong><em>Elaborado con Xcode 7 y swift 2.0</em></strong></li><li>Elaborado para programadores principiantes que quieran reafirmar su conocimiento. </li><li>1HR+ De video lecciones en HD.</li><li>Asesoria <strong>gratuita </strong>por medio de mensaje privado las 24 hr 7 dias de la semana.</li></ul><p>Si ya no quieres ver solo ejemplos teóricos sobre la programación orientada a objetos y quieres ver como funciona en código, este es el lugar ideal para ti.</p><p>En la primer sección te daremos la bienvenida a este curso y se te dira lo que tiene por ofrecerte.</p><p>En la segunda sección veremos como descargar el IDE Xcode y cuales son sus partes principales.</p><p>Por último en la tercer sección veremos como hacer una pequeña app que nos servira para aprender las bases de la programación orientada a objetos.</p><p>Recuerda que este curso esta elaborado con la intención de ayudar y enseñar a las personas que sean principiantes en el mundo de la programación o que quieran reafirmar sus conocimientos.</p><p>Así que si buscas aprender las bases para la programación orientada a objetos y a su vez estas interesado en el lenguaje de programación swift de Apple, este es el lugar ideal para comenzar, los únicos requisitos son una computadora donde ver estas lecciones y que tengas nociones básicas de programación (constantes, variables, funciones etc).</p><p>Te agradezco tu tiempo, espero este curso sea de tu ayuda.</p><p>Sigamos adelante.</p><ul><li><strong></strong><em><strong>Curso totalmente gratis.</strong></em></li><li><em><strong>Elaborado con Xcode 7 y swift 2.0</strong></em></li><li>Elaborado para programadores principiantes que quieran reafirmar su conocimiento. </li><li>1HR+ De video lecciones en HD.</li><li>Asesoria <strong>gratuita</strong> por medio de mensaje privado las 24 hr 7 dias de la semana.</li></ul>", 
+    "end_date": null, 
+    "title": "Introducción a la Programación Orientada a Objetos con Swift", 
+    "price": 0, 
+    "instructors": "Juan Villalvazo", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/492130_36bf.jpg", 
+    "course_url": "https://www.udemy.com/introduccion-programacion-orientada-objetos-swift/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-02T20:57:28Z"
+}

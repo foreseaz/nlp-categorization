@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t  SAP Production Planning module allows to<strong style=\"\"> plan Production and Procurement</strong>.  </p>  <p>  \t  In this course the student will <strong style=\"\">get an understanding of all involved Master Data</strong> in this process and in <strong style=\"\">how to run the Materials Requirements Planning or MRP</strong>.  </p>  <p>  \t  All lessons contain and <strong style=\"\">introductory theoretical overview and a demo in the system.</strong>  </p>  <p>  \t  For a better understanding a <strong style=\"\">simple case study</strong> has been created where we simulate the <strong style=\"\">plan of the manufacturing of a bicycle in SAP</strong>.  </p>  <p>  \tAfter an introduction and general overview, in the second section we see all involved Master Data. Then how demand is created, specially Planned Independent Requirements. Finally, we will see how to run MRP and a demo example analyzing its result.  </p>  <p>  \tThis course will allow students to get an <strong style=\"\">understanding of what this module offers and how to make a basic demo.</strong>  </p>", 
+    "end_date": null, 
+    "title": "SAP - PP - Production Planning", 
+    "price": "20.00", 
+    "instructors": "Ricardo Naya Arboleya", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/396444_34fc_2.jpg", 
+    "course_url": "https://www.udemy.com/sap-pp-production-planning/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-17T10:35:09Z"
+}

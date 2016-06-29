@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>CSS фреймворк Bootstrap - это популярный инструмент для создания сайтов. С помощью него вы очень быстро будете верстать сайты благодаря продуманной архитектуре и готовым компонентам. </p><p><br></p><p>- Более 3.5 часов видео</p><p>- По окончании курса вы научитесь работать с Bootstrap и создадите верстку сайта </p><p>- Вы научитесь создавать адаптивную верстку для вашего сайта</p><p>- В конце каждого урока вы будете получать домашние задания</p><p>- Вы получите исходный код ко всем урокам курса</p>", 
+    "end_date": null, 
+    "title": "Bootstrap на русском", 
+    "price": "20.00", 
+    "instructors": "Sergey Nikonov", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/723164_7435_6.jpg", 
+    "course_url": "https://www.udemy.com/bootstrap-ru/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-10T21:03:36Z"
+}

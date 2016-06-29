@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>Excel for business and professional services is a structured course designed to take beginner Excel users to an intermediate level - see course content below.</p><p>The teaching has also been designed to be practical in a business and professional services environment. It is suitable for jobseekers, school leavers preparing for the workplace, entrepeneurs, or for administrative people who work with excel.</p><p>The modules are engaging and interactive, and have proven to be highly effective. A number of attendees have participated in this course via webinars with the intention of \"just doing a re-cap here and there\" - and have been amazed by how much they have gained from each module.</p><p>Course Content is as follows:</p><p> <strong>1. Excel Essentials</strong> 1.1 Excel Worksheet / Workbook  - Inserting a Worksheet  - Renaming a Worksheet  - Deleting a Worksheet  - Moving or Copying a Worksheet  - Moving between Worksheets  1.2 Active Cell, Name Box, Formula Bar  1.3 Inserting Rows / Columns  - Shift Cells down / across  - Inserting a Picture / Logo  1.4 Entering Data  - Fill Series (Numbers, months, days)  1.5 Editing Contents of a Cell  1.6 Select All Button  1.7 Grouping Worksheets  1.8 Common Keyboard Shortcuts </p><p> <strong>2. Tables and Text files</strong> 2.1 Setting up a table  - Merging cells  - Sum and other calculations  2.2 Importing a Text File  - Text Import Wizard  - CSV Files  - Import example text file  - Converting Data to Numbers  - Space or comma as thousand separator  2.3 Useful Text Functions  = LEFT / RIGHT, FIND  = MID, CONCATENATE, TRIM </p><p> <strong>3. Function vs Formula</strong> - What is the difference?  3.1 Using Insert Function  = SUM / SUMIF, COUNT, COUNTA, COUNTIF  = AVERAGE, REPT, VLOOKUP  3.2 Copying and Pasting Formulae  - Editing Formulae F2  3.3 Absolute References F4 </p><p> <strong>4. Named Ranges and Paste Special</strong> 4.1 Alternative to using $  - F3  4.2 Paste Special  - All  - Formulas  - Values  - Formats, Format Painter, three semi-colons ;;;  - Column widths  - Operation  - Skip blanks  - Transpose </p><p> <strong>5. Working with Data</strong> 5.1 Freezing Row or Column Titles  5.2 Split Window  5.3 Sorting Data  - Add Levels  5.4 AutoFilter </p><p> <strong>6. Working with Data (continued)</strong> 6.1 Advanced Filter  6.2 Conditional Formatting  6.3 Remove Duplicates  6.2 Data Validation </p><p> <strong>7. Data Presentation</strong> 7.1 Tables  - Grouping  - Subtotals  7.2 Graphs  7.3 Watermarks  7.4 Save as PDF </p><p> <strong>8. View Options and Data Protection</strong> 8.1 Comparing Two Workbooks Side by Side  - Creating Multiple Views for a Workbook  8.2 Protecting Cells  - Worksheet  - Workbook  8.3 Practical tips </p>", 
+    "end_date": null, 
+    "title": "Excel for Business and Professional Services - Essentials", 
+    "price": "50.00", 
+    "instructors": "Mr Connie Muller", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/572612_df5c.jpg", 
+    "course_url": "https://www.udemy.com/excel-for-business-and-professional-services-essentials/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-03T18:06:47Z"
+}

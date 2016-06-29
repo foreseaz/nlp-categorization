@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \tEn el diseño de tarjetas electrónicas la experiencia y el consejo de los diseñadores es vital para la funcionalidad de los PCB elaborados. Este curso le enseñara las técnicas y mejores prácticas en el diseño de PCB que he aprendido en los últimos 2 años mientras he desarrollado tarjetas electrónicas de alta velocidad con SoC (System on Chip).  </p>  <p style=\"\">  \tEn este curso se mostrara como se puede diseñar tarjetas electrónicas a través del software <strong style=\"\">DesignSpark PCB</strong>. El material disponible le proporciona consejos y trucos para aprender técnicas de diseño de layout que te permitan construir tus prototipos electrónicos.  </p>  <p style=\"\">  \tEl curso es teórico-práctico, contiene material bibliográfico y además posee ejercicios prácticos para que usted construya sus propios PCB. Al finalizar usted abra podido construir su tarjeta de circuito impreso y podrá realizar diseños con <strong style=\"\">DesignSpark PCB</strong>.  </p>", 
+    "end_date": null, 
+    "title": "Diseño de circuitos impresos con DesignSpark PCB", 
+    "price": "20.00", 
+    "instructors": "Ever Quiñones", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/202572_97f9_3.jpg", 
+    "course_url": "https://www.udemy.com/diseno-de-circuitos-impresos-pcb/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Design Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-21T13:24:36Z"
+}

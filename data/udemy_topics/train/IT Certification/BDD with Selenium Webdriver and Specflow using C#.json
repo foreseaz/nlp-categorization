@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Selenium Webdriver</strong> is one of the most well-known testing frameworks. It is an open source project that allows testers and developers alike to develop functional tests to drive the browser. <strong>Selenium Webdriver</strong> can work on any browser that supports JavaScript, since Selenium has been built using<br> JavaScript.</p><p><strong>The course is not limited to following content. In future I will keep adding the new topics to this course.</strong><br> <br> <strong>Basic of C# Programming</strong></p><p><strong>In this section, we are going to discuss about basic of C# programming language</strong></p><p>1. Creating the Console Application<br> 2. Data Types in C#<br> 3. Conditional &amp; Control Statements<br> 4. Class &amp; Objects<br> 5. Inheritance </p><p><br> <strong>MsTest</strong></p><p><strong>In this section, we will discuss about MsTest attributes such as</strong><br> <br> 1. TestClass and TestMethod<br> 2. TestInitialize and TestCleanup <br> 3. ClassInitialize and ClassCleanup </p><p>So on...<br> <br> <strong>And source code shown as part of video lecture will be provided for download</strong> </p>", 
+    "end_date": null, 
+    "title": "BDD with Selenium Webdriver and Specflow using C#", 
+    "price": "35.00", 
+    "instructors": "Rahul Singh Rathore", 
+    "commitment": "26.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/426838_9b98_2.jpg", 
+    "course_url": "https://www.udemy.com/bdd-with-selenium-webdriver-and-speckflow-using-c/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-19T13:53:14Z"
+}

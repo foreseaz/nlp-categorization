@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t     This course contains series of videos to learn <strong style=\"\">Functions of Connect I/O</strong>. It includes <strong style=\"\">12 Lessons</strong> which will teach you &quot;<strong style=\"\">How to use Connect I/O</strong>&quot;  </p>  <p>  \t    Following are the topics covered in this Course:  </p>  <ul style=\"\">  \t<li>Basic <strong style=\"\">Arithmetic</strong> Functions</li>  \t<li><strong style=\"\">Making Arithmetic</strong> Expressions:</li>  \t<li>Understanding <strong style=\"\">Primary Gate Functions- OR, AND &amp; NOT</strong></li>  \t<li>Making Customize Boolean Expressions</li>  \t<li>Set &amp; Reset Function- SR &amp; RS</li>  \t<li>Comparison Commands</li>  \t<li>Timers - TON &amp; TOFF</li>  \t<li>Counters CTU, CTD &amp; CTUD</li>  \t<li>Bit to Byte Byte to Bit- <strong style=\"\">Encoding &amp; Decoding</strong></li>  \t<li><strong style=\"\">Triggers</strong>- Rising Edge &amp; Falling Edge</li>  \t<li><strong style=\"\">Assign</strong> Function- MOVE Value</li>  \t<li><strong style=\"\">DAQ</strong> Interface with <strong style=\"\">Connect IO &amp; PLC</strong></li>  </ul>  <p>  \t<strong style=\"\">       Connect I/O </strong>is a<strong style=\"\"> free SoftPLC </strong>which is able to communicate with different types of technologies.  </p>  <p>  \t  It enables the <strong style=\"\">creation and control</strong> of data flows between <strong style=\"\">input </strong>and <strong style=\"\">output </strong>points. The application can be connected to both <strong style=\"\">software </strong>and <strong style=\"\">hardware </strong>and will work as a <strong style=\"\">bridge</strong> between them.  </p>  <p>  \t<strong style=\"\">      Engine I/O </strong>allows the exchange of data with <strong style=\"\">external applications</strong>. This is how <strong style=\"\">Connect I/O </strong>interfaces with other<strong style=\"\"> Real Games software.</strong>  </p>  <p>  \t<strong style=\"\">ACCESSIBLE AND EXPANDABLE SOFTWARE</strong>  </p>  <p>  \tUse most of the<strong style=\"\"> IEC 61131-3 </strong>Standard function blocks with the <strong style=\"\">SoftPLC included </strong><strong style=\"\">in Connect I/O</strong>.The Real Games approach to simulations is to develop an open environment which can be accessed and expanded by anyone.  </p>  <p>  \tThe <strong style=\"\">Engine I/O</strong> is a <strong style=\"\">.NET Framework 2.0 assembly</strong>, which enables inter-process communication (IPC) between simulations and external technologies which can be software <strong style=\"\">(MATLAB, LabVIEW…)</strong> or hardware<strong style=\"\"> (Arduino, PICAXE, etc.).</strong>  </p>", 
+    "end_date": null, 
+    "title": "Connect I/O- A SoftPLC", 
+    "price": 0, 
+    "instructors": "Mr Rajvir Singh", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/186424_0f92_3.jpg", 
+    "course_url": "https://www.udemy.com/connectio/", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-21T12:42:41Z"
+}

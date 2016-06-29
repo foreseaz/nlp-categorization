@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<ul style=\"\">  \t<p>  \t\t<strong style=\"\">Do you want to see a live web app built on 3-Tier arch using Asp.Net MVC, jQuery, Bootstrap, C#.Net, Entity Framework and MS SQL Server?</strong>  \t</p>  \t<p>  \t\t      Here it is<strong style=\"\"> </strong><a target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\">http://linkhub.manzoorthetrainer.com</a>  \t</p>  \t<p>  \t\t<strong style=\"\">Are you really excited to learn how to develop this 3-tier web app on Asp.Net MVC and Entity Framework? </strong>  \t</p>  \t<p>  \t\t <strong style=\"\"></strong>Then you are going to learn it here with me from scratch..  \t</p>  \t<p>  \t\t        In this course we are going to learn how to break requirements into objects and find relation among them. We will then learn designing database out of this objects and relationships. Moving forward we will also see how to design arch. of the project and implement various layers.  \t</p>  \t<p>  \t\t        We are going to learn implementation of business object layer using Entity Framework and data access layer using repository design pattern and Entity Framework.  \t</p>  \t<p>  \t\t       For user interface we will see Asp.Net MVC, jQuery and Bootstrap. We will learn how bootstrap makes our application responsive.We will also see how to implement custom sorting and paging. Moving ahead you will learn forms validations and business rules validations as well. We are going to secure our app using custom membership provider and role provider and publish it on web.  \t</p>  \t<p>  \t\t       In Advance operations we will try to understand how to implement transactions, bind multiple models to single view and Ajaxyfiy  our Asp.Net web App. Finally we will also see few optimization techniques.  \t</p>  \t<p>  \t\t       You can see this web app live at<a href=\"javascript:void(0)\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\"> http://linkhub.manzoorthetrainer.com</a>  \t</p>  \t<p>  \t\t<strong style=\"\">    This is what students say about this course </strong>  \t</p>  \t<p>  \t\t<strong style=\"\"><br style=\"\">  \t\t</strong>  \t</p>  \t<p>  \t\t <img alt=\"\" src=\"https://udemyimages-a.akamaihd.net/user/50x50/2636564_b33b_4.jpg\" style=\" max-width:100%;\"><strong style=\"\">IT Analyst, .Net Developer Mohammed Mubeen</strong>  \t</p>  \t<p>  \t\t <strong style=\"\"></strong><strong style=\"\">Awesome Course : </strong><em style=\"\">Really very awesome course, this will helps mostly in Real Time Projects. very nice course. Thank you Manzoor Sir.</em>  \t</p>  \t<p>  \t\t<em style=\"\"><br style=\"\">  \t\t</em>  \t</p>  \t<p>  \t\t <img alt=\"\" src=\"https://udemyimages-a.akamaihd.net/user/50x50/anonymous.jpg\" style=\" max-width:100%;\"><strong style=\"\">Chirag Thakkar</strong>  \t</p>  \t<p>  \t\t <span style=\" color:inherit;\">Great Course for the beginners. Thank you!</span>  \t</p>  </ul>", 
+    "end_date": null, 
+    "title": "Asp.Net MVC Web App On 3 Tier Architecture", 
+    "price": "50.00", 
+    "instructors": "Microsoft Certified Trainer Mohammed Manzoor Ahmed", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/196304_edee_3.jpg", 
+    "course_url": "https://www.udemy.com/aspnet-mvc-web-app-on-3-tier-architecture/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-09T12:18:31Z"
+}

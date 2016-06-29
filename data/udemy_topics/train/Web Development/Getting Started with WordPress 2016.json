@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This is the beginners, crash course which focus on every essential topic requires to start our own website using <strong>WordPress</strong>. By taking this course any WordPress lover can host and use their own WordPress website easily. This is only 1 hour course means you don't need to wait 6 to 10 long hours to get-started.</p>\n\n<p><br><strong class=\"redactor-inline-converted\">This course covering topics</strong> like <br>Tips for how to select a perfect domain names.<br>How to select Web Hosting service provider <br>Creating database in control panel as well as in phpmyadmin in wampserver.<br>creating FTP account in control panel and connecting it using ftp client software. <br>How to download and install WampServer on your PC.<br>How to install WordPress CMS software on Shared Hosting means on Live Server.<br>How to install WordPress on locahost means on your computer.<br>Short introduction to WordPress dashboard general settings.<br>Creating post, page, categories and menus in WordPress dashboard.<br>Installing themes and plugins in WordPress dashboard.</p>", 
+    "end_date": null, 
+    "title": "Getting Started with WordPress 2016", 
+    "price": "20.00", 
+    "instructors": "Ajin Nikam", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/797832_8693.jpg", 
+    "course_url": "https://www.udemy.com/getting-started-with-wordpress-cms/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-19T09:47:52Z"
+}

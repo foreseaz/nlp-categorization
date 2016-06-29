@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  In this course you will learn to develop a practical project with Java and Spring 4 technologies. The technologies we will cover are (but not limited to) Spring Boot, Spring Core, Spring MVC, Spring Data, JPA,MySQL, Thymeleaf, Gradle, and Spring Test. At the end of this course, you will learn to integrate all these technologies so that you can start working on implementing your own idea with Spring 4.  </p>  <p style=\"\">  \tAs you follow through the course lectures, you will also find the codes in the corresponding github repository that I mention in the course. This is part one of the course but it shows a complete working project. I am working on Part 2 and will make that available as I&#039;m done with it.  </p>", 
+    "end_date": null, 
+    "title": "Practical Project with Spring 4 - Part 1", 
+    "price": "20.00", 
+    "instructors": "Mozammel Haque", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/397752_fb27.jpg", 
+    "course_url": "https://www.udemy.com/practical-java-project-with-spring-4-part-1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-19T05:29:31Z"
+}

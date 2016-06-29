@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Big Data &amp; Hadoop Developer Training course helps you learn the core techniques and concepts of Big Data and Hadoop. Learn architecture and concepts of HDFS, Hadoop Cluster setup, Map-Reduce, Hadoop 2.x and Hive to become leader in this field. The course is designed in a format that meets your convenience, availability and flexibility needs.</p>\n\n<p><strong>Why Learn Hadoop?</strong></p>\n\n<p>2.5 quintillion bytes of data is created every day. So much that 90% of the data in the world today has been created in the last two years alone (Source: IBM). These extremely large datasets are hard to deal with using legacy systems such as RDBMS as data exceed the storage and processing capacity of database. The legacy systems are becoming obsolete.<br>According to Gartner: “<strong>Big Data is new Oil</strong>”. Big Data is all about finding the needle of value in a haystack of Structured, Semi-structured and Un-structured data. Hadoop (the Solution of All Big Data Problems) has become the most important component in the data stack, which enables rapid processing of data at petabyte scale. Hadoop is expected to be at the core of more than half of all analytics software within the next two years.</p>\n\n<p>The demand for Big Data developers is outpacing the global supply as Hadoop becomes the predominant platform for data management and analytics.<br>According to Mckinsey: “The United States alone faces a shortage of 140,000 to 190,000 people with analytical expertise and 1.5 million managers and analysts with the skills to understand and make decisions based on the analysis of big data.”<br>Gartner says “Big Data will create millions of jobs by 2016”<br>GE says “Big data is the future of industry”<br>IDC Says, “Big Data market will be growing 6 times faster than the overall IT market”<br>Experfy says, “Hadoop will grow at CAGR of 58%, will reach $50 billion by 2020″</p>", 
+    "end_date": null, 
+    "title": "Big Data & Hadoop Certification Training", 
+    "price": "50.00", 
+    "instructors": "DataFlair Web Services Pvt Ltd", 
+    "commitment": "11.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/657158_1fb3_3.jpg", 
+    "course_url": "https://www.udemy.com/big-data-hadoop-certification-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-01T18:10:13Z"
+}

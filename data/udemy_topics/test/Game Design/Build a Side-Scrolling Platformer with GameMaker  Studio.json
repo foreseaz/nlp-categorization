@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t  In this course, instructor Alan Thorn will be walking through the process of creating a side-scrolling platformer game from scratch using GameMaker: Studio. Here he will be covering topics such as sprite creation, tilesets, collision detection, and any scripting necessary to get the game up and running.</p>  <p><strong>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</strong></p><p>More about the Instructor:</p><p>Alan Thorn is a game developer, author and educator with 15 years industry experience. He makes games for PC desktop, Mobile and VR. He founded 'Wax Lyrical Games' and created the award-winning game 'Baron Wittard: Nemesis of Ragnarok', working as designer, programmer and artist. He has written sixteen technical books on game development and presented ten video training courses, covering game-play programming, Unity development, and 3D modelling. He has worked in game development education as a visiting lecturer for the 'National Film and Television School', as a Lead Teacher for 'Uppingham School', and is currently a Senior Lecturer at 'Teesside University' where he helps students develop the skills needed for their ideal role in the games industry.</p>", 
+    "end_date": null, 
+    "title": "Build a Side-Scrolling Platformer with GameMaker: Studio", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/125294_52e1_4.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-build-a-side-scrolling-platformer-with-gamemaker-studio/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-25T21:42:28Z"
+}

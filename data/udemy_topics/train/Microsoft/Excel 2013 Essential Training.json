@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \tWhether you&#039;re a novice or an expert wanting to refresh your skillset with Microsoft Excel, this course covers all the basics you need to start entering your data and building organized workbooks. Author teaches you how to enter and organize data, perform calculations with simple functions, work with multiple worksheets, format the appearance of your data, and build charts and PivotTables. Other lessons cover the powerful IF, VLOOKUP, and COUNTIF family of functions; the Goal Seek, Solver, and other data analysis tools; and how to automate many of these tasks with macros.  </p>  <p style=\"\">  \t<strong style=\"\">Topics include: </strong>  </p>  <ul style=\"\">  \t<li style=\"\"><em style=\"\">What is Excel and what is it used for?</em></li>  \t<li style=\"\"><em style=\"\">Using the menus</em></li>  \t<li style=\"\"><em style=\"\">Working with dates and times</em></li>  \t<li style=\"\"><em style=\"\">Creating simple formulas</em></li>  \t<li style=\"\"><em style=\"\">Formatting fonts, row and column sizes, borders, and more</em></li>  \t<li style=\"\"><em style=\"\">Inserting shapes, arrows, and other graphics</em></li>  \t<li style=\"\"><em style=\"\">Adding and deleting rows and columns</em></li>  \t<li style=\"\"><em style=\"\">Hiding data</em></li>  \t<li style=\"\"><em style=\"\">Moving, copying, and pasting</em></li>  \t<li style=\"\"><em style=\"\">Sorting and filtering data</em></li>  \t<li style=\"\"><em style=\"\">Printing your worksheet</em></li>  \t<li style=\"\"><em style=\"\">Securing your workbooks</em></li>  \t<li style=\"\"><em style=\"\">Tracking changes</em></li>  </ul>", 
+    "end_date": null, 
+    "title": "Excel 2013 Essential Training", 
+    "price": "20.00", 
+    "instructors": "Kopilov Andrey", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/394664_40ee_10.jpg", 
+    "course_url": "https://www.udemy.com/excel-2013-essential-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-15T07:36:34Z"
+}

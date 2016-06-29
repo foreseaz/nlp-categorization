@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Appcelerator Titanium has enabled web developers to build native applications using only JavaScript, XML and CSS.  This means you can use the same elements Xcode &amp; Android uses without having to learn Objective C or Android development.  If you want to create a native mobile apps for iOS, Android, BlackBerry and soon Windows 8 all with one code base, then this course is what you are looking for.  </p>  <p>  \t     In this course, presenter Jeff Batt clearly explains how to use basic UI elements inside of Appcelerator Titanium.  One of the problems with other trainings and tutorials on Appcelerator, is that they are much to complex.  Even just to learn how to use a simple item on the stage was missing.  That&rsquo;s why Jeff created this course.  He walks you through the basics of how to use multiple mobile elements focusing just on basics.  This course will lay a solid foundation for your mobile app development.  </p>  <p>  \t<strong> NOTE</strong>: This is a course for beginners, ideally those just starting out with Appcelerator Titanium classic code or Alloy code. If you are looking for instruction on advance topics such as SQLite or any other advance topics I am currently developing a course on advanced topics.  </p>", 
+    "end_date": null, 
+    "title": "Appcelerator Titanium: Creating Apps with Classic & Alloy", 
+    "price": "20.00", 
+    "instructors": "Jeff Batt", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/92442_4951_7.jpg", 
+    "course_url": "https://www.udemy.com/appelerator-titanium-creating-apps-in-classic-and-alloy-code/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-14T19:00:28Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong></strong><br></p><p><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong></p>\n\n<p><strong> </strong><em><strong>Notice</strong></em>: <em>Course fully updated in <strong>2016</strong>, so make sure to join us now<strong> </strong><em><strong>// </strong><em><strong>30</strong> day money-back guarantee, no questions asked.</em></em></em></p>\n\n<p><em>___________________________________________________________________________________________________________________<br></em></p>\n\n<p>In this course we begin with Node's background, concepts and strategies for writing asynchronous code. We then examine Node's module system, including <strong>built-in module</strong><strong>s</strong>, <strong>application modularization</strong> as well as the <strong>NPM</strong> third party module registry. From there we tackle<strong> EventEmitters</strong> and <strong>Streams</strong>, as well as utilities for interacting with the local file system. Next we look at using Node to write both client and <strong>server</strong> web applications, as well as <strong>real time</strong> integration with<strong> Socket.I</strong>O. We wrap up with writing <strong>unit tests</strong> using both the <strong>built-in assert</strong> module and third party frameworks.<br></p><p><br></p>\n\n<p>  \tSo after this training, you will be able to judge if the particular characteristics of Node can help you in your projects.  </p>\n\n<p>  \t    And of course you can download all the resources of this training in the download area.  </p>\n\n<p><em><strong>Note again</strong>: We're very confident to give you a <strong>30 days</strong> money-back guarantee, no questions asked, so make sure to <strong>Enroll Now</strong>!</em><br></p>\n\n<p>  \t                                See you inside =)  </p>", 
+    "end_date": null, 
+    "title": "Rapid Node.js Training", 
+    "price": "20.00", 
+    "instructors": "Insane IT Skills", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/240272_4e16_12.jpg", 
+    "course_url": "https://www.udemy.com/nodejs-tutorial-from-scratch-by-examples/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-09T20:59:30Z"
+}

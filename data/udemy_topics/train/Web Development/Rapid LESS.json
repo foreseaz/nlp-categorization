@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   This course will take you through all the essential tools to begin writing better CSS with LESS.  </p>  <p style=\"\">  \t   We will begin with the basics of LESS, highlighting all the key features in easy-to-follow, step-by-step chunks, ending with some existing scenarios where LESS could be beneficial and additional publications to further your education.  </p>  <p style=\"\">  \t   Then we will cover variables, LESS&#039; way of storing repetitive data such as color values, font sizes, and more using customized names. After this, we will take a look at mixins, a CSS type function in LESS that, among other things, will greatly simplify the use of CSS3. In nesting, we will discuss how to write shorter, cleaner CSS. Finally, we’ll cover various functions and operations available within LESS that will allow you to further simplify your CSS and perform some really impressive actions you thought you’d never be able to do!  </p>  <p style=\"\">  \t   Rapid LESS will take you through LESS in a step-by-step way, so that you not only know how to write smart code, but why it’s a beneficial addition to your existing workflow.  </p>  <h4><strong style=\"\">About the Author</strong></h4>  <p style=\"\">  \t<strong style=\"\">Reme Le Hane</strong> is a frontend Web Developer with many years of experience. His expertise primarily includes HTML, CSS, LESS, and jQuery. He also has experience with JavaScript, AngularJS, BackgoneJS, and NodeJS. Some of his other experience also includes Facebook application development, SEO and CMSs such as Joomla! and WordPress. Since March 2014, he has been employed at TAG Worldwide as a frontend Web Developer. TAG is a global brands service agency that is based in Century City. Primary responsibilities include developing and maintaining clients’ access portals, as well as developing new functionality and features as per clients’specifications.  </p>", 
+    "end_date": null, 
+    "title": "Rapid LESS", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/420922_cbbe_2.jpg", 
+    "course_url": "https://www.udemy.com/rapid-less/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-13T09:17:11Z"
+}

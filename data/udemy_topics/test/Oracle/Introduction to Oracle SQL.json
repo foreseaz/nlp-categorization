@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Learn how to use Oracle SQL AND get a Certification of Completion when you finish.</strong>  </p>  <p>  \t   This course will teach you the basics of the <strong style=\"\">SQL language on an Oracle database</strong>.  </p>  <p>  \t   It uses video lectures, covering database topics such as:  </p>  <ul style=\"\">  \t<li>Setting up your Oracle environment</li>  \t<li>Basic terminology</li>  \t<li>Reading data using a SELECT statement</li>  \t<li>What can be done using a SELECT statement</li>  \t<li>Functions</li>  \t<li>Data types</li>  \t<li>Joins, set operators, subqueries</li>  \t<li>Inserting, updating and deleting data</li>  \t<li>Creating tables</li>  </ul>  <p>  \t  The course materials run for approximately 4 hours and are split into multiple sessions.  </p>  <p>  \t  It&#039;s structured into various sessions and lectures, grouped by functional areas to make it easier to lean.  </p>  <p>  \t<strong style=\"\">  Why should you take this course?</strong>  </p>  <p>  \t<strong style=\"\"></strong>You can go from absolute beginner to <strong style=\"\">capable of writing SQL statements</strong> in a matter of <strong style=\"\">hours</strong>, <strong style=\"\">without paying thousands of dollars</strong> for training. You can also <strong style=\"\">study in your own time</strong>!  </p>", 
+    "end_date": null, 
+    "title": "Introduction to Oracle SQL", 
+    "price": "20.00", 
+    "instructors": "Ben Brumm", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/85450_6c8b_6.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-oracle-sql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-29T08:38:54Z"
+}

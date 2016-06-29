@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Updated for 2016.  This course is designed for folks who want to host a blazing fast static site on Amazon AWS.  </p>\n\n<p>In order to have a really fast database driven site, such as Wordpress, you need an expensive dedicated server.</p>\n\n<p>Many of us simply cannot afford a dedicated server.  AWS gives us this power.  It is true that a static site will be faster in any case but you are still stuck with high hosting fees.  AWS again makes this very easy financially and when the time comes when you start to build a loyal following, AWS can handle high traffic.</p>\n\n<p>This course assumes you already have a static site but if you don't I will include a place you can find a very nice responsive template for free.</p><p>I have studied the vast amounts of AWS documentation and created this course as the much faster solution to understanding how to get your static site hosted on Amazon AWS.  </p>\n\n<p>So come along and let's get your beautiful website up and running.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Host A Blazing Fast Static Website On Amazon AWS", 
+    "price": "20.00", 
+    "instructors": "Christopher Lee", 
+    "commitment": "31 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/808740_d090_2.jpg", 
+    "course_url": "https://www.udemy.com/host-a-blazing-fast-static-website-on-amazon-aws/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-31T03:30:22Z"
+}

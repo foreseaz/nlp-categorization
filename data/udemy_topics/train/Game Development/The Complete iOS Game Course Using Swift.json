@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>***** <strong>Enroll Now And Master 2D iOS Game Develop</strong>ment *****</strong></p><p><strong>*****</strong> <strong>Everything is coded using the latest version of SWIFT <strong>*****</strong><span></span></strong><br><strong></strong></p><p><strong>We built an immersive game development course that teaches you all of \nthe fundamentals so you can build your own games on iOS.</strong></p><p><strong>The course is structured so that it begins slowly, giving you the basic stuff that you need to move forward, and after each video you will understand more and more fundamentals about developing games with SpriteKit.</strong></p><p><strong>We take practical approach in teaching, so we are going to build real world games that you can play after you finish building it.</strong></p><p><strong>You will also benefit from my \nsuper fast response if you have any issue that you are stuck with(I \ncheck Udemy forums every day if someone posts a question). Oh and all \nthe students taking the course will also be there to help you!</strong></p><p><strong>All project files will be included and you are free to use them for anything that you like, personal or commercial use!</strong></p><p><strong></strong></p><p><strong>Lets take a look at the games that we are going to create inside of this course:</strong></p><p>- <strong>Jack The Giant</strong> -<br><strong></strong></p><p><strong>We\n are going to start with a simple game that I call Jack The Giant. In \nthis game we are going to help Jack climb down the beanstalk, along the \nway we can jump on white clouds but we need to avoid dark clouds. \nBesides of creating our gameplay we are going to create menus, implement\n background music, save our game progress, and much much more.</strong></p><p><strong>- Flappy Bird -</strong></p><p><strong>The next game that we are going to create is Flappy Bird, and I know \nwhat you are thinking oh not another Flappy Bird clone, but this is not a\n regular Flappy Bird clone, oh no, I've added a lot of features that you\n can't find in any other flappy bird clone such as selecting a \nbird(choose between different flappy birds), using advanced features of SKActions and \nmany other features that you will see inside of the course.</strong></p><p><strong>- Cowboy Runner -</strong></p><p><strong><span>After Flappy Bird we are going to create one of the most popular \ngames out there - Infinite Runner!! In this game we are going to see how\n can we scroll our backgrounds, how can we use NSTimer to help us control our game and much much more.</span></strong><br><strong></strong></p><p><strong>What You will learn</strong></p><ol><li><strong>Basic Swift Programming</strong></li><li><strong>Intermediate Swift Programming</strong></li><li><strong>Advanced Swift Programming</strong></li><li><strong>Importing And Organizing Assets</strong></li><li><strong>Animating Sprites</strong></li><li><strong>Creating Menus</strong></li><li><strong>Creating Cool Animations</strong></li><li><strong>Understand And Use SpriteKit's Physics System</strong></li><li><strong>Saving Game Data Using NSKeyedArchiver And NSKeyedUnarchiver</strong></li><li><strong>Using Game Controllers To Control The Workflow Of Your Game</strong></li><li><strong>Play Music In Your Game</strong></li><li><strong>Using Basic And Intermediate Features Of SKActions</strong></li></ol><p><strong>That And Much More Is Awaiting For You In This Course</strong></p><p><strong></strong></p><p><strong>The course teaches everything from\n basic to more advanced stuff on how to plan, design and develop your game, however the course WILL NOT teach you every single \naspect of SpriteKit and how to use it because it's impossible to teach \neverything. </strong></p><p><strong>Using \nwhat you obtain in this course, you will be equipped with more than \nenough knowledge in order to continue improving yourself in the field of\n game development, using SpriteKit or any other game development framework.<br></strong></p><p><strong>If\n You ever had an idea for an awesome game, then enroll in this course \nand learn the tools that you need to develop Your next hit game!!!</strong></p><p><strong>What Is Your Risk  By Taking This Course?</strong></p><p><strong>Nothing!! If you are not satisfied with the course, I promise I will give you a full refund of your money NO questions asked!!</strong><br></p><p><strong>Enroll Now!! You Will Not Be Disappointed!!</strong></p><p><strong></strong></p><p><strong></strong></p>", 
+    "end_date": null, 
+    "title": "The Complete iOS Game Course Using Swift", 
+    "price": "20.00", 
+    "instructors": "Awesome Tuts", 
+    "commitment": "16 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/773652_3ba0.jpg", 
+    "course_url": "https://www.udemy.com/the-complete-ios-game-course-using-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-25T05:41:05Z"
+}

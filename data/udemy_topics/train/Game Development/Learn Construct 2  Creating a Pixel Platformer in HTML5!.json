@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong></strong>At the end of this course, you will be able to create your own Platformer game in Construct 2. I can't believe I am giving this course away for<strong> FREE</strong>! So is this course right for you?</p><p><strong>I designed this programming course to be easily understood by absolute beginners but have included further information for those who want to delve deeper into the software.</strong></p><p><strong>What is the course about?</strong></p><p>This is THE course to take if you want to get into Construct 2 game development. It is a free course that will teach you the very basics and the advanced. If you have NEVER programmed before, you will learn how to. If you have always wanted to make a game, you will! This is THE ultimate free course I could possibly provide.</p><p><strong>How is this course taught?</strong></p><p>This course is taught directly from me as if you were in the room looking over my shoulder. I prefer to teach in a way that you can get direct results. Each lecture is about getting from one point to another and moving forward. In game development, it is very easy to get caught up in your 'game ideas', 'what software you are using' etc. I show you exactly the huge benefits to sticking with Construct 2 as well as point out some of it's shortcomings. </p><p><strong>What material is included?</strong></p><p>The material included in this course can be downloaded in the resources tab!</p><p><strong>What does this course include?</strong></p><ul><li><em>Player and Enemy State engines</em><ul><li><em></em>Walking, Running, Jumping, Falling, Punching</li><li>Enemy walking and attacking</li></ul></li><li><em>Dynamic Animations</em></li><li><em>Enemy AI</em></li><li><em>Layer Parallax</em></li><li><em>HUD Elements</em></li><li><em>Collision handling</em></li></ul><p>I can't stress this enough.<strong> I wish this course was available to me when I first started programming! And that was years ago!</strong></p><p>Thanks for reading!</p><p>Your future instructor,</p><p><strong>Jeremy Alexander</strong></p>", 
+    "end_date": null, 
+    "title": "Learn Construct 2: Creating a Pixel Platformer in HTML5!", 
+    "price": 0, 
+    "instructors": "Jeremy Alexander", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/610478_7205.jpg", 
+    "course_url": "https://www.udemy.com/learn-construct-2-creating-a-pixel-platformer-in-html5/", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-13T05:10:15Z"
+}

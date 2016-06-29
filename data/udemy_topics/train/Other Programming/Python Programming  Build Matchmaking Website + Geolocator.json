@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em>Updated: July 27, 2015</em></p><p>  \t<strong>Build a Matchmaker (updated &amp; expanded)</strong></p>  <p>  \t      Computers are great for finding common interests between people. You will learn how to build your own website that matches people based off interests and questionnaires.  We'll implement a subscription model (SaaS) on this one.  </p>  <p>  \t      This is how billion dollar sites like Match and OkCupid were built...this one is adapting the same idea to a job site, it could be the start for your own recruiting empire.  </p>  <p>  \t      <strong>Create a Geolocator (It's Happy Hour Time)</strong>  </p>  <p>  \t      Build a web-based app to help find local restaurant happy hours for food/drinks. We will build a geo-locating service using Foursquare's API/Data and Google Maps.  </p>  <p>  \t      Hint: you could use the landing page created in step 1 ascertain interest in an app like that this to test whether or not this in itself could be a business.  </p>", 
+    "end_date": null, 
+    "title": "Python Programming: Build Matchmaking Website + Geolocator", 
+    "price": "45.00", 
+    "instructors": "Justin Mitchel", 
+    "commitment": "20 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/70636_dc47_11.jpg", 
+    "course_url": "https://www.udemy.com/coding-for-entrepreneurs-matchmaker-geolocator/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other Programming"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-07-28T05:18:40Z"
+}

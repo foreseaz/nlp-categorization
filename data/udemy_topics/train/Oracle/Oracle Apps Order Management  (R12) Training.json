@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>This course will be applicable for students who want to learn Oracle E-Business Suite Release 12 or Oracle E-Business Suite 12.1.</p><p>In this course, students learn about the basic order capture and order fulfillment flows that Oracle Order Management facilitates, and also learn how to perform setup steps, including transaction type, document sequence, order import, and hold setup, that enable these flows. Students learn how to perform the Oracle Inventory setup steps that support Oracle Order Management, including how to create subinventories, units of measure, and items. Students also learn how to perform required Oracle Receivables setup steps, including how to create customers, payment terms, and territories, and how to define credit checking. The course includes information about how to enable multiple organization access control (MOAC) specifically for Oracle Order Management.<br></p><p><strong>Learn To:</strong></p><ul><li>Set up Oracle Order Management</li><li>Manage exceptions and holds</li><li>Use key Sales order flows (Quote to Order, Blanket agreement to Order and other 10 such flows)</li><li>Set up Shipping Execution and basic Pricing functionality</li><li>Setup configure to order (BOM,Routing, WIP etc.) end to end flow (Model BOM,Option class and options, Option specific routing)</li><li>Setup basic pricing and integrate with order management</li></ul><p>The training mode will be real time trainer performing transaction on R12 instance and same is video recorded in 720p HD recording. Course will typically take 12+ hours of videos.</p><p>This course is advisable for any level of experienced (beginers, Intermediate or expert) as this course is very detailed and comprehensive. Ideally students looking for functional consultant role for new implementation or upgrade or support role should take this up. </p><p>It is expected that students are well aware of Oracle Apps EBS basics, Navigation</p>", 
+    "end_date": null, 
+    "title": "Oracle Apps Order Management  (R12) Training", 
+    "price": "50.00", 
+    "instructors": "Community Trainer", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/630330_11b0_2.jpg", 
+    "course_url": "https://www.udemy.com/oracle-apps-order-management-r12-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-04T13:02:23Z"
+}

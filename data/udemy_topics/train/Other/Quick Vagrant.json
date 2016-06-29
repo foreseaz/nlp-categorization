@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Vagrant is a tool for building easy to create &amp; configure ,reproducible and repeatable virtual development environment .With a simple Vagrant Up command  you will able to  install  and configure  the software &amp;  working environment is ready for you  to work  .Vagrant is a tool for managing virtual machines  by  simply using  Command  line interface and it is is written in Ruby.The course will teach you the followin </p>\n\n<p>-  What is vagrant and why vagrant</p>\n\n<p>-  Install vagrant and virtual box in  windows </p>\n\n<p>-  Manage VM</p>\n\n<p>-  Create and manage box </p>\n\n<p>-  Networking ,forward port , public &amp; private network </p>\n\n<p>-  Manual and Automated provisioning </p>\n\n<p>-  Multiple provisioner </p>\n\n<p>-  Creating  multiple vm and communicating between  vm </p>", 
+    "end_date": null, 
+    "title": "Quick Vagrant", 
+    "price": "20.00", 
+    "instructors": "Snigdha Panda", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/476548_181d_4.jpg", 
+    "course_url": "https://www.udemy.com/quick-vagrant/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-14T23:40:04Z"
+}

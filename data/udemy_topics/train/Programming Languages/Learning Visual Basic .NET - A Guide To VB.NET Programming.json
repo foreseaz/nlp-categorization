@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tThis Visual Basic .NET ( VB.NET ) training course from InfiniteSkills.com will teach you how to program from scratch with Visual Basic.  </p>  <p>  \t<br style=\"\">  \tYou will start by learning how to install and use the Visual Studio development environment. The course will then teach you how to build classes that define properties, methods, and events in VB.NET, as well as understand and use overloaded methods and operators and perform calculations. This video tutorial will also cover topics including debugging programs, working with data types, branching and looping statements, and use subroutines, functions, and object-oriented techniques. You will learn how to use LINQ to select, modify, and sort information, as well as easily read and write data in files. Finally, you will learn about printing and print previews.<br style=\"\">  \t<br style=\"\">  \tOnce you have completed this VB.NET training course, you will be fully capable of programming with Visual Basic.NET. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Learning Visual Basic .NET - A Guide To VB.NET Programming", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/261054_ca87_7.jpg", 
+    "course_url": "https://www.udemy.com/learning-visual-basic-net/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-14T14:27:48Z"
+}

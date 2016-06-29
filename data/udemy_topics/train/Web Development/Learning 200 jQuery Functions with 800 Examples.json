@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em><strong>Last updated: June 30, 2015.</strong></em></p><p>By the completion of this course, you will be able to build complete interactive web applications using the jQuery.</p>  <p>  \t<strong>Why you should learn JQuery?</strong>  </p>  <ul>  \t<li>Used by most of most visited websites, jQuery is the most popular JavaScript library in use today.</li>  \t<li>jQuery is the world's most used JavaScript library to create rich web applications that just feel natural to use.</li>  \t<li>jQuery is free, open source software. The modular approach to the jQuery library allows the creation of powerful dynamic web pages and web applications.</li>  \t<li>jQuery's syntax is designed to make it easier to navigate a document, select DOM elements, create animations, handle events and develop Ajax applications.</li>  \t<li>jQuery also provides capabilities for developers to create plug-ins on top of the JavaScript library. This enables developers to create abstractions for interaction and animation, advanced effects and high-level, theme-able widgets.</li>  </ul>  <p>  \t<strong>Whats inside this course jQuery?</strong>  </p>  <p>  \tIn this comprehensive course on jQuery, you'll learn how to use jQuery to work with the DOM, use events, effects and animations, AJAX, JSON and to create interactive AJAX forms. We start from scratch. We will introduce jQuery to you. We will show how to install and download jQuery. We will talk about different benefits of jQuery. Gradually, we will be making some demo apps with the help of jQuery.  </p>  <p>  \t<strong><em>Take this course now, and learn jQuery in easy steps.</em></strong>  </p><p><strong><em>Last updated:June 30, 2015.</em></strong></p>", 
+    "end_date": null, 
+    "title": "Learning 200 jQuery Functions with 800 Examples", 
+    "price": "35.00", 
+    "instructors": "Kiarus Enterprises", 
+    "commitment": "18.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/420982_b16f_3.jpg", 
+    "course_url": "https://www.udemy.com/jquery-foundation/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-13T11:05:36Z"
+}

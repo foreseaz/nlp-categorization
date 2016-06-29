@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>In this course we will use the tools of Revit to model a building using the structural tools Columns, Beams, Foundations, Floors, Slabs</p><p>and also we will take about Reinforcement of different structural elements</p><p><br></p><p>as beginning we will have an introduction to Building information modeling and Revit</p><p>then you will know how to start modelling by adding the levels and grids or to use an Autocad file as an underlay to your work</p><p>next comes adding all the structural elements :</p><p>columns</p><p>beams</p><p>slabs</p><p>walls</p><p>foundations</p><p>then finally we will discuss adding the reinforcement to different types of elements manually or by using the Revit extentions</p><p>Enjoy your first steps with me</p>", 
+    "end_date": null, 
+    "title": "Full project using Revit Structure - Basic Modeling", 
+    "price": "20.00", 
+    "instructors": "Mostafa Mohamed", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/562416_8447_2.jpg", 
+    "course_url": "https://www.udemy.com/rst_basics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-23T08:31:55Z"
+}

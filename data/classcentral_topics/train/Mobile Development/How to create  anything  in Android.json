@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Here is one important question Android developers ask while making apps: \"How can I do ________ in Android?\"\n\nThe following are versions of this question that we came across recently:\n\n - How can I add radio buttons to my app?\n -  How can I play a sound?\n - How can I navigate between multiple screens? \n\nThis course is a collection of such questions and their answers. \n\nBy the end of this course you will have mastered the ability to implement new Android features by reading a blog or article — this is a critical skill possessed by professional Android developers. As a result, you will also be able to use several User Interface components — like Toggle Buttons, Menus, Grid View and many more —  that are central to making functional and delightful Android apps.Why Take This Course?Android powers over 80 percent of the world’s smartphones, and represents an incredible opportunity for developers everywhere. The next billion people coming online will interact with the internet for the very first time on a mobile device. \n\nBuilding for Android gives you the best opportunity to reach these users and make an impact — both in your community, and on the world.\n\n                                            Syllabus\n                        ###Lesson 1 - User Interface Components (about 16 hours)\n\nIn this lesson, we will highlight various important components of the Android User Interface (UI) — like Radio Buttons, Grid Views and several more — that will allow you to make highly functional mobile apps. We will focus on each UI component by trying to answer the question, \"How do I use ________ in Android?\"\n\nFor each question below, we will guide you to the best Internet tutorial that will offer step-by-step instructions on how to use the UI component in a new android app. Here is the full list of questions we will answer in this course:\n\n**Interactive Controls (about 3 hours)**\n\n - How do I use a Toggle Button in Android?\n - How do I use a Radio Button in Android?\n - How do I use EditText in Android?\n - What are Arrays (or lists) in Java and how do I use them?\n - How do I show suggestions (or autocomplete) when typing into an EditText?\n - How do I use a Spinner (or drop down list) in Android?\n - How do I change the orientation of the emulator while using shortcuts?\n - How do I simulate a button click with code in Android?\n\n**Menus (about 2 hours)**\n\n - How do I automatically add missing import statements in my code?\n - How do I create an Options Menu in Android?\n - How do I add a Popup Menu in Android?\n\n**User Input Events (about 1 hour)**\n\n - How do I use onLongClick?\n - How do I drag and drop in Android?\n\n**Navigation (about 2 hours)**\n\n - How do I use the swipe gesture in Android?\n - How do I work with multiple screens (or activities) in Android?\n - How do I add tabs to my app in Android?\n\n**Layouts (about 4 hours)**\n\n - How do I use a basic ArrayAdapter?\n - How do I use the ListView in Android?\n - How do I use the GridView in Android?\n\n**Best Practices (about 2 hours)**\n\n - How do I make my app more accessible?\n - What are the best practices for designing an Android app?\n - What color schemes should I use when making an Android app?\n\n**Miscellaneous (about 2 hours)**\n\n - How do I play a sound in Android?\n - How do I display a map in my Android app?\n - How do I use the share button in my Android app?\n\n###Lesson 2 - Final Project (about 10 hours)\n\nUse the skills you have learned in this course to build an app that you will feel proud to share with your friends and family.\n                                    ", 
+    "end_date": "2015-10-08T00:00:00Z", 
+    "title": "How to create <anything> in Android", 
+    "price": 0, 
+    "instructors": "Kunal Chawla", 
+    "institution_name": [], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.udacity.com/course/how-to-create-anything-in-android--ud802?utm_medium=referral&utm_campaign=api", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2015-09-10T00:00:00Z"
+}

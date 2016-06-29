@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  In this course we&#039;ll be expanding our JavaScript knowledge. In the Introduction to JavaScript Development course we covered the foundational components and basic object primitives, so now we&#039;ll examine arrays and objects and functions and for loops.  </p>  <p>  \t  We’ll also take a look at scope and context in order to improve our ability in writing functions themselves. Finally, we’ll examine built-in functionality that browsers give us for primitive types like arrays and strings.  </p>  <p>  \t<strong style=\"\">Course Includes:</strong><br style=\"\">  </p>  <ul style=\"\">  \t<li><strong style=\"\"></strong>30 videos with over 90 minutes of lecture</li>  \t<li>4 external resource files</li>  \t<li>7 exercises to help you master intermediate JavaScript concepts</li>  </ul>  <p>  \t<strong style=\"\">What You&#039;ll Learn:</strong>  </p>  <ul style=\"\">  \t<li>Scaffolding</li>  \t<li>Yeoman</li>  \t<li>Arrays</li>  \t<li>For Loops</li>  \t<li>Objects</li>  \t<li>Functions</li>  \t<li>Named Function</li>  \t<li>Callbacks</li>  \t<li>Scope</li>  \t<li>Pure vs Impure Functions</li>  \t<li>Context (this)</li>  \t<li>String Methods</li>  \t<li>Array Methods</li>  \t<li>Additional Resources</li>  \t<li>Exercises</li>  \t<li>And Much More!</li>  </ul>", 
+    "end_date": null, 
+    "title": "Intermediate JavaScript Development", 
+    "price": "50.00", 
+    "instructors": "RefactorU LLC", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/212382_0fa8_4.jpg", 
+    "course_url": "https://www.udemy.com/refactoru-intermediate-js/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-07T15:41:58Z"
+}

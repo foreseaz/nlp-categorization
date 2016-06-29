@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Calculus & Mathematical Analysis"
+    ], 
+    "description": "\n\n                    \n                    \n                    Podemos afirmar sin temor a equivocarnos que un buen curso de Cálculo amplía la visión del estudiante en su campo y en su área de estudio, que no pertenece necesariamente al área de física o matemática, por ejemplo en fisiología para estudiantes de medicina.\n\nEl Cálculo Diferencial es el lenguaje en el que algunas leyes de la naturaleza se expresan, por ejemplo: nos permite describir el movimiento y el cálculo de trayectorias en dinámica, nos ayuda a resolver problemas de áreas y volúmenes, a resolver problemas extremales en campos como economía y matemática financiera.\n\nEn este curso se presentan los conceptos y demostraciones con extrema precisión y cuidado; se hace énfasis en los fundamentos del Cálculo para que lo que se enseña quede fundamentado y claramente explicado.\n\nSe estudia el cálculo diferencial de funciones de variable real, por lo tanto, se parte de una estructura algebraica de los números reales. Utiliza conceptos puramente métricos, por eso se introduce el concepto de distancia para explicar que nos vamos acercando a algo, es decir, se define la estructura del espacio métrico  que da paso al primer tema sucesiones de números reales continúa con sucesiones convergentes, derivadas de una función hasta llegar a problemas extremales en dos variables y multiplicadores de Lagrange.\n\nEsperamos que este curso de Cálculo logre cambiar la percepción de los estudiantes en cuanto a su aplicación e importancia.\n\n                                    ", 
+    "end_date": "2016-06-20T00:00:00Z", 
+    "title": "CMath001x: Cálculo Diferencial", 
+    "price": 0, 
+    "instructors": "Dr. Eduardo Suger", 
+    "institution_name": [
+        "Galileo University"
+    ], 
+    "commitment": "5-6 hours", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.edx.org/course/calculo-diferencial-galileox-cmath001x", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-05-09T00:00:00Z"
+}

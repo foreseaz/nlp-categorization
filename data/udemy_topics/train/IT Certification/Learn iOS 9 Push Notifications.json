@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Course Description</strong></p>\n\n<p>Learn the basic concepts of Apples Push Notification System with the Swift <br>programming language for iOS 9.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong></strong>Build a strong foundation in XCode 7 and Swift. This course helps you <br>understand and implement the Remote and Local Notification System in your own app with the latest technologies.</p>\n\n\n\n\n\n\n\n\n\n<ul><li>Swift programming language</li><li>XCocde 7</li><li>iOS 9</li><li> Apples Push Notification System (APNS)</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Professional skills and experience from an iOS Architect with over 8 years experience.</strong></p>\n\n\n\n\n\n\n\n\n\n<p>Learn the fundamentals but also tips and tricks of the experts. Learn about <br>the Apples Push Notification System. </p>\n\n\n\n\n\n\n\n<p>We will walk thru XCode setup and creation of a project iOS iPhone application that uses the Apples Push Notification System.</p>\n\n\n\n\n\n\n\n\n\n<p><strong>Content and Overview </strong></p>\n\n\n\n\n\n\n\n<p>This course explains Apples Push Notification System  for Local and Remote Notifications and how it is used with iPhone application development. We explain the overall system in detail focused on developers not the marketing folks. We explain how Notifications works and how to integrated into an application with <br>examples in Swift, Apples latest programming language for the iPhone. <br>All examples are based on iOS 9.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Why send Apple Push Notifications?</strong></p>\n\n\n\n\n\n\n\n\n\n<ul><li>Send in-app messages to your users.</li><li>Provide a message in the \"Notification Tray\" of the phone.</li><li>Keep users aware of new content.</li><li>Make users aware of required actions.</li><li>And many more uses!</li></ul>", 
+    "end_date": null, 
+    "title": "Learn iOS 9 Push Notifications", 
+    "price": "20.00", 
+    "instructors": "Tom Jay", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/805680_2ff1.jpg", 
+    "course_url": "https://www.udemy.com/ios-9-push-notifications/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-27T22:33:08Z"
+}

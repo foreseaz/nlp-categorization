@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>*** Course Updated: Sunday, 5 June 2016 ***</strong><br></p>\n\n<p>On 18 May 2016 at Google I/O, Google announced the new version of Firebase, saying that \"Firebase is expanding to become a unified app platform for Android, iOS and mobile web development.\" and they did. Now Firebase is not just a Real-Time database, but is also:</p>\n\n\n\n\n\n<ul><li>Analytics</li><li>Messaging, Storage, Config</li><li>Test Lab and Crash Reporting</li><li>Notifications, Dynamic Links, and More</li><li>Monetize With AdMob</li><li>With New Console, Documentation, and SDK</li><li>More to Come</li></ul>\n\n\n\n\n\n\n\n<p>So if you wasn't using Firebase before now is the time to start.</p>\n\n\n\n\n\n\n\n<p>In the first part of this course we will learn how to create a new application using the new Firebase, we will also learn how to update your app that uses the old Firebase to use the new one, but we will not stop there.</p>\n\n\n\n\n\n\n\n<p>With time I will add new BONUS section, completely FREE exploring the new features available on Firebase</p>", 
+    "end_date": null, 
+    "title": "Firebase: Upgrading and Creating Application on new Firebase", 
+    "price": "25.00", 
+    "instructors": "Icaro Lavrador", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/857232_ea23_2.jpg", 
+    "course_url": "https://www.udemy.com/new-firebase/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-23T06:45:36Z"
+}

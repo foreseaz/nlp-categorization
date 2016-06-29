@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Learn development in the newest SDK!</strong><br></p><p><strong>Android Studio</strong> is development environment <strong>officially supported by Google</strong>. Thanks to this you will always use the newest version of the API, tools and libraries for creating professional applications.</p><p>Android Studio provides a convenient application development for wide variety of mobile devices, such as: smartphones, tablets, watches, glasses and many others. During this course the trainer discusses sequential elements of SDK and shows practical examples.</p><p><strong>From Beginner to Professional</strong> </p><p>Android Studio training is designed for people who want to start learning development of mobile applications.</p><p><strong>You already know Java? Great! You accomplish this training faster.</strong></p><p><strong>You don't know Java? Don't worry! Repeat material with the trainer</strong>, and thanks to scrupulous learning, you will quickly mastered the principles of programming.</p><p>From this training will also benefit people who already have basics of android development, but would like to better understand the capabilities of Android Studio SDK.</p><p><strong>Build complex application!</strong></p><p>Android Studio training shows step-by-step how to build applications and demonstrate the best practices in programming. <strong>You will create from scratch complex and fully working TODOexpert application</strong>, which allows to show a broad range of Android functionalities and progressive application development process.</p><p>Application created during training seems to be a simple task or shopping list. However, it enables to present multiple mechanisms that you will use for your own projects, such as: login using the server, database support, or creating HTTP connections.</p><p><strong>Why to choose this training?</strong></p><ul><li><strong>8 hours of HD quality video</strong></li><li><strong>professional trainer</strong></li><li><strong>quizzes after each module</strong></li><li><strong>source code and useful notes attached to the course</strong></li><li><strong>knowledge only for practical usage</strong></li></ul><p>Android Studio environment is equipped with the newest solutions directly from Google. Skills of creating apps in this IDE are the basis of Android developers work. <strong>So do not hesitate, start learning today!</strong><strong></strong></p>", 
+    "end_date": null, 
+    "title": "Learn coding on Android Studio by making complete apps!", 
+    "price": "20.00", 
+    "instructors": "Educativo Trainings, IT Security Academy", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/481540_5243_2.jpg", 
+    "course_url": "https://www.udemy.com/android-studio-from-scratch-build-mobile-apps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-20T20:43:59Z"
+}

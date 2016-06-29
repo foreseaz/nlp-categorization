@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In questo corso andremo a vedere come <strong>creare il tuo primo marketplace con Ruby on Rails</strong>.</p><p><strong>Ogni mese</strong> andremo ad aggiungere <strong>nuovo materiale al corso</strong> per permetterti di imparare in maniera graduale approfondendo tutti i passaggi necessari a creare un progetto completo.</p><p>Questo corso è <strong>pensato per chiunque voglia imparare a programmare</strong>, infatti non servono delle basi e andremo a vedere nel dettaglio tutti i passi necessari per creare una Web App con Ruby on Rails.</p><p>Per la fine del corso sarai in grado di creare un marketplace completo con Ruby on Rails, avendo le basi per costruire la tua Web App in autonomia.</p>", 
+    "end_date": null, 
+    "title": "Impara a programmare con Ruby on Rails e crea un marketplace", 
+    "price": "50.00", 
+    "instructors": "Daniele Ugolini", 
+    "commitment": "11 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/683378_7d97.jpg", 
+    "course_url": "https://www.udemy.com/impara-ruby-on-rails/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-28T15:43:42Z"
+}

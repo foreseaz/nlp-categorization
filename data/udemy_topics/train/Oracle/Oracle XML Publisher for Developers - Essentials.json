@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>In this course you are going to learn about the Oracle XML Publisher which is a template-based publishing solution, it is present with the Oracle E-Business Suite. </p><p>It offers us a new method for designing report and then publishing it by integrating Word processing tools that are present inside the E-Business Suite data reporting.</p><p>This course includes:</p><li> XML Publisher </li><li> Classic Reporting Paradigm</li><li> XML Publisher Reporting Paradigm</li><li> Practical demonstration on creating XML Report</li><li> RTF Template</li><li> Practical demonstration on creating RTF Template</li><li> Template Manager</li><li> Creating the Template</li><li> Practical demonstration on using template manager</li>", 
+    "end_date": null, 
+    "title": "Oracle XML Publisher for Developers - Essentials", 
+    "price": "20.00", 
+    "instructors": "Parallel Branch Inc", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/418236_8334_3.jpg", 
+    "course_url": "https://www.udemy.com/oracle-xml-publisher-for-developers-essentials/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-10T12:24:37Z"
+}

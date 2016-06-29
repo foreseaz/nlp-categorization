@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Yii is the premium PHP framework for developing web applications. It provides components to simplify every aspect of web development, including authentication, authorization, and automated testing, offering a comprehensive ORM called ActiveRecord, and the option to perform performance tuning. We can use all of these features out-of-the-box, or even customize them based on our project requirements.</p><p>The more applications we develop for the web, the more aware we become that we’re spending time on the same repetitive tasks. Learning Yii 2 demonstrates how it is entirely possible to write quality applications fast. This course will show you how to create a basic but fully functional dating site for monsters. All this with minimal effort on your part, because the Yii framework simplifies the overhead work.</p><p>We’ll start by installing Yii's basic application template via Vagrant. Before you know it, you’ll have a fully-functional web application that is ready to be customized. You’ll learn to generate Models, Views, and Controllers, and debug and test them with the Debug Toolbar and Codeception. As we continue, you’ll learn to modify that generated code to create a registration page, a profile page, and a listing page, as well as a search interface using ActiveQuery and TypeAhead. We’ll also use ACF and RBAC to boost the security of our website.</p><p>By the end, you’ll be comfortable using Yii 2 to develop your own personal and professional web applications.</p><p><strong>About The Author</strong><strong></strong><br></p><p><strong>Matthew Beaumont </strong>has been interested in technology since his father brought home a Radio Shack TRS-80 in the late 1980s. After six years in music school, he returned to the technology field and founded Beaumont Web Development, LLC, which is a boutique web-development firm located just across the Hudson River from New York City. In addition to his development work, he also plays classical percussion and has appeared in concerts at Lincoln Center, Carnegie Hall, and Radio City Music Hall. He has also published several articles on web development for Sitepoint.<span><br></span></p><p><strong><br></strong></p>", 
+    "end_date": null, 
+    "title": "Learning Yii 2", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/660940_2e67_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-yii-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-05T10:09:39Z"
+}

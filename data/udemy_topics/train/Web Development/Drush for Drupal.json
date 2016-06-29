@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Time saving</strong> is always a great practice for Developers<strong>, Drush</strong> is a command line tool<strong>, Drush</strong> can make your life easier when you are working with<strong> drupal</strong> content Management system . You can manage your site by putting up just simple <strong>Drush</strong> commands, It can even directly download and install software and modules for you, so that you don't have to do it yourself, Even you can install a new instance of <strong>drupal</strong> with all of your required modules , themes and configuration settings with just simple commands ,  that's Amazing!</p><p>In this course we will learn  almost everything about drush tool, We will start this course from the introduction to drush and goes through the major commands, installation of drush on localhost and on live server (Cpanel), Also we will take a complete practice of every command on a testing drupal website, in this way you will get complete benifit of the course and you can notice the problems you face and post them into the discussion forum, </p><p>I hope you will enjoy this course So, let's get start to explore the drush  </p>", 
+    "end_date": null, 
+    "title": "Drush for Drupal", 
+    "price": "20.00", 
+    "instructors": "Abdul Rehman", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/608860_9e42_4.jpg", 
+    "course_url": "https://www.udemy.com/drush-for-drupal/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-11T06:45:05Z"
+}

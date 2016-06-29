@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t      This course is about advanced algorithms focusing on graph traversal, shortest path problems, spanning trees and maximum flow problems and a lots of its applications from Google Web Crawler to taking advantage of stock market arbitrage situations.  </p>  <p>  \t  The course is going to take approximately 7 hours to completely but I highly suggest you typing these algorithms out several times in order to get the grasp of it. You can download the source code of the whole lecture at the last video.  </p>  <p>  \t  In the first section we are going to talk about the main graph traversal algorithms and its applications of course such as WebCrawler or topological ordering. The next section is about shortest paths: there are several applications which we are going to be familiar with from image processing to stock market. The third chapter is about minimum spanning trees and clustering algorithms. Lastly, we are going to learn about the maximum flow problem, maybe the most important algorithm in this course.  </p>  <p>  \t  You should <span>definitely </span><span>take this course if you are interested in advanced topics concerning algorithms. There are a bunch of fields where these methods can be used: from software engineering to scientific research.</span>  </p>", 
+    "end_date": null, 
+    "title": "Advanced Algorithms in Java", 
+    "price": "30.00", 
+    "instructors": "Holczer Balazs", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/427148_531f_6.jpg", 
+    "course_url": "https://www.udemy.com/advanced-algorithms-in-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-19T19:42:22Z"
+}

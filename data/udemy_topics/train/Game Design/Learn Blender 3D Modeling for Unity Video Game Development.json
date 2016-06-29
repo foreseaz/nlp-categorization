@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>This course was designed for Unity developers who want to extend their capabilities to include 3D modeling in Blender. Whether you're interested in designing unique 3D props for your games, building awesome levels, or tweaking your existing Unity Assets, this course can help you get through the learning curve and put you in the driver's seat. You'll learn to Blend like a pro with a good working knowledge of all of the most common tools for editing video game props and level design. We cover all the basic terms, keyboard shortcuts, best practices, time-saving tips, as well as a comprehensive introduction to animating without the use of bones or rigging, applying materials quickly with seamless textures or fine tuning your final product with ambient occlusion texture maps. Understand how to UV Unwrap 3D objects, apply your own graphics and more!<br></p>", 
+    "end_date": null, 
+    "title": "Learn Blender 3D Modeling for Unity Video Game Development", 
+    "price": "20.00", 
+    "instructors": "Billy McDaniel", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/625846_e25b.jpg", 
+    "course_url": "https://www.udemy.com/learn-blender-3d-modeling-for-unity-video-game-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-29T13:07:55Z"
+}

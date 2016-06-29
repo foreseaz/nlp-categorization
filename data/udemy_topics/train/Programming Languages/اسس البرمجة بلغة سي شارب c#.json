@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>الدورة تهدف الى تعليم اسس البرمجة بلغة سي شارب بشكل مبسط وسلس من خلال العديد من الامثلة وحل التمارين المختلفة.</p><p>الدورة تشمل مجموعة من التمارين التي يتوجب عليك حلها وبالتالي تطبيق المواد التعليمية المختلفة.</p><p>الدورة مبنية من الصفر ولا تتطلب اي معرفة مسبقة.</p><p>الدورة مكونة من مجموعة دروس قصيرة -حتى 15 دقيقة- وكل درس يخطي مجال او موضوع معين بشكل واضح</p><p>لا تتردد في الاشتراك في الدورة وتعلم البرمجة بلغة سي شارب.</p><p>التحق اليوم واحصل على كل المواد المطلوبة في موضوع الحاسوب ضمن امتحانات الوزارة وامتحانات الجامعات.</p>", 
+    "end_date": null, 
+    "title": "اسس البرمجة بلغة سي شارب c#", 
+    "price": "50.00", 
+    "instructors": "Shadi Mahameed", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/613538_196f.jpg", 
+    "course_url": "https://www.udemy.com/csharp_stepbystep/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-16T08:29:31Z"
+}

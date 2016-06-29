@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  ==============================================================  </p>  <p style=\"\">  \t<strong style=\"\">EXTREMELY USEFUL TO UNDERSTAND THE SQL AND DBA CONCEPTS</strong>  </p>  <p style=\"\">  \t  ===============================================================  </p>  <p style=\"\">  \t  At the end of this course, you will get the knowledge of...  </p>  <p style=\"\">  \t  How to write SQL queries to access data stored in an Oracle Database schema. Learn to manipulate data and use various types of functions for customizing data output.  </p>  <p style=\"\">  \t  You will learn essential SQL skills that allow developers to write queries against single and multiple tables, manipulate data in tables, and create database objects.  </p>  <p style=\"\">  \t  Learn to use single row functions to customize output, use conversion functions and conditional expressions  </p>  <p style=\"\">  \t  Oracle Applications R12 Overview, Oracle Applications Components, Oracle Applications Architecture &amp; Installations, Oracle Applications Administration, Oracle Applications Patching,Cloning,Monitoring and Troubleshooting.  </p>", 
+    "end_date": null, 
+    "title": "Oracle SQL 11g + Oracle Apps R12 DBA", 
+    "price": "25.00", 
+    "instructors": "Parallel Branch Inc", 
+    "commitment": "20 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/172694_e59d_3.jpg", 
+    "course_url": "https://www.udemy.com/oracle-sql-11g-oracle-apps-r12-dba/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-25T11:57:59Z"
+}

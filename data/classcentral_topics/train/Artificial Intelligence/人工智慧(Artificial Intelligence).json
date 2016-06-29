@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Artificial Intelligence"
+    ], 
+    "description": "\n\n                    \n                                            \n                            PSA: This Course will no longer be available June 30th 2016 onwards\n                            Coursera announced that they will be shutting off their old platform on June 30th. Over  400 courses that are part\n                                of the old stack will be no longer be available. You can find the  complete list here.\n                            \n                            \n\n                            \n                                Read this guide to learn how to download this course before the old platform shuts down. \n\n                                The guide provides two ways to download the courses - Chrome Plugin and Python Script. Depending on which method you use, check the appropriate sections below for further details.\n                            \n                            \n                            \n                                To download this course you need to be enrolled in the course.\n                                                                    You can enroll for the course here:\n                                    https://www.coursera.org/course/ai\n                                                            \n\n                            Chrome Plugin\n\n                                                            You can download the course materials for this course by visiting the following url (you need to be logged in):\n                                                                        https://class.coursera.org/ai-001/lecture\n                                \n                            \n                            Python Script\n                            \n                                                                For the python script to work you will need a class name. Pick one from below:\n                                                                    ai-001\n                                \n                                \n                                If more than one class name below, pick the last one. If the script fails, pick the one above that and try again. Not all of these class names are guranteed to work.\n\n\n                            \n\n\n\n\n\n\n                        \n                    \n                    人工智慧可分為強人工智慧及弱人工智慧。強人工智慧著重於模擬人類智能，而弱人工智慧則著重於類似智能的應用表現。達成智能的表現有許多方法，其中一種快速有效的方法即為搜尋，也是這門課的重點。本課程將給予人工智慧一般性的介紹，並且深入探索三種常用的搜尋：不利用問題特性的uninformed search，使用問題特性的informed search，及針對零和對局的adversarial search。課程中除了講解各種搜尋的技術之外，也會同時探討它們的優缺點及應用範圍，使同學易於應用其相關技術。另外，常使用在專家系統中的邏輯也將於此次課程一併介紹。我們會從最基本的證言邏輯開始，進而介紹現實生活中相當實用的一階邏輯，並著重在其中系統性的推論過程，同時我們還會介紹不同推論演算法的特性及它們的能力。最後，將會介紹人工智慧常用的邏輯性語言prolog， 以及它的實作，讓同學們能在本次課程中，對人工智慧領域有更進一步的認識。\n\n                                            Syllabus\n                        Introduction &amp; Intelligent agentsUninformed searchInformed searchBeyond classical searchAdversarial searchPropositional LogicFirst Order Logic\n                                    ", 
+    "end_date": "2014-12-17T00:00:00Z", 
+    "title": "人工智慧(Artificial Intelligence)", 
+    "price": 0, 
+    "instructors": "于天立(Tian-Li,Yu) ", 
+    "institution_name": [
+        "National Taiwan University"
+    ], 
+    "commitment": "3-5 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/course/ai", 
+    "duration": "7 weeks", 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2014-10-29T00:00:00Z"
+}

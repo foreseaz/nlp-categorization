@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t    This course will show you how to use Gradle effectively and will help  you overcome these issues with the build tool called Gradle. The  authors, Ryan and Lee, will take the user from a point of having just a  basic development background to being able to implement Gradle in a  variety of languages, utilizing Gradle in some beneficial ways including  continuous integration and artifact management.  </p>  <p style=\"\">  \t    You will learn to build and deploy your code effectively. Gradle is  quickly becoming the de facto build tool for Java, Groovy, C++, and  other platforms, and is rapidly replacing Maven and Ant systems. Learn  how to integrate your IDE, leverage Ant or Maven build assets, deploy  artifacts, and integrate with continuous integration servers. You can  follow along with step-by-step instructions for the most common IDEs,  programming languages, and artifact servers to implement.  </p>  <p style=\"\">  \t    You will leave the course feeling like you have a good handle on  Gradle and confident to begin planning and building your implementation.  </p>  <h4><strong style=\"\">About the Author</strong></h4>  <p style=\"\">  \t<strong style=\"\">Lee Fox</strong> is a technologist with a strong background in software  development. He has served in architecture roles for companies like 3M,  AT&amp;T Wi-Fi Services, Borland, and Pervasive. His software  development history has always focused on maintaining quality. He is an  Agile pragmatist as he strives to help organizations become more  effective in their technical and software development implementations  while maintaining a high degree of quality. Lee received his Bachelor of  Science in Computer Science from Southwest Texas State University. He  is also a Certified ScrumMaster and Trained Innovation Games  Facilitator. Lee is co-founder of Xan Endeavors.  </p>  <p style=\"\">  \t<strong style=\"\">Ryan</strong> is the Chief Systems and Software Architect and Director of  Products at ReachForce, and was formerly Lead Architect. He maintains the grails-quartz plugin, GVPS Grails plugin, and Struts 1  plugins, and is co-chair of the Austin Groovy and Grails User Group in  Austin, TX. Ryan is currently building a Grails infrastructure for ReachForce as  well as teaching Grails to the developer team. Ryan is also the co-founder of Xan Endeavors, LLC, a collaboration of  software development, consulting, coaching, and innovation games. In the past, Ryan has architected a Grails solution that allows rapid deployment of Developer Program  portals for all kinds of companies, specializing in the mobile industry.  He has also built Java- and Linux-based webcasting for events such as  SXSW, built telecom software, and SaaS systems for the financial sector.  </p>", 
+    "end_date": null, 
+    "title": "Effective Gradle Implementation", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/355058_63f8_2.jpg", 
+    "course_url": "https://www.udemy.com/effective-gradle-implementation/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-24T06:48:14Z"
+}

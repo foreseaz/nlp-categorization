@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this Hybrid Mobile App Development with Ionic training course, expert author Chris Griffith will teach you how to use the Ionic framework to create hybrid mobile applications. This course is designed for the absolute beginner, meaning no experience with mobile app development is required.</p>\n\n<p>You will start by learning how to build apps with the Ionic framework. From there, Chris will teach you how to build a to do application, a weather app, and a national park guide app. This video tutorial will then teach you how to debug and test Ionic applications, including working with emulators, testing on iOS and Android devices, and using Ionic view. Finally, you will finish up your Ionic application by preparing it for submission, code signing for iOS and Android, and generating app icons and splash screens.</p>\n\n\n\n<p>Once you have completed this computer based training course, you will have learned how to build hybrid mobile applications with the Ionic framework. Working files are included, allowing you to follow along with the author throughout the lessons.</p>", 
+    "end_date": null, 
+    "title": "Hybrid Mobile App Development with Ionic", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/858844_9d3e_3.jpg", 
+    "course_url": "https://www.udemy.com/hybrid-mobile-app-development-with-ionic/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-24T17:49:59Z"
+}

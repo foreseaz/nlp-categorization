@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>When developing this course I wanted to really focus on the new developer.  I have set things up so you can come into this course with no experience and once you complete the lessons you will be able to construct and deploy a Ruby on Rails application.  The focus is on <strong><em>how </em></strong>to construct an application and not on \"building a <em>'Time Machine'</em> using Rails\".  </p><p>Some areas covered include: MVC, CRUD, Github, Heroku, Rails Console, Cloud 9, Rails Generators, Gems and other important topics.<br></p><p>Once you have completed this course you will have this skill to build out your very own application using a \"step by step\" approach or by using Rails generators. </p><p>Our first Model is our \"User\", we cover how this \"Model\" can be anything you desire.</p><p>We then look at styling your site using Gems and Bootstrap.  I also show you resources on where to find cool Bootstrap layouts that you can simply drop into your application.  </p><p>We then cover how to build association between a \"User Model\" and a \"Article Model\".  This is an important step in any applications as it gives the ability to associate objects in your database.</p><p>Each Video comes with a text lecture and PDF which allows you to download the code that relates to each video.</p><p>We all need to walk before we run and so I hope you will join me on this walk into Ruby on Rails a Beginners Guide.  </p>", 
+    "end_date": null, 
+    "title": "Ruby on Rails a Beginners Guide ", 
+    "price": 0, 
+    "instructors": "Stephen Chesnowitz", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/778084_8595_2.jpg", 
+    "course_url": "https://www.udemy.com/ruby-on-rails-a-beginners-guide-free/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-29T19:18:21Z"
+}

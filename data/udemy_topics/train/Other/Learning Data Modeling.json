@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \tTruly effective database design depends on having a coherent data model to work from. This course will help you learn the theory and process of creating data models suitable for everything from small business to enterprise and data center environments. Michael Blaha will teach you how to plan and construct data models, as well as build upon those models through an actual database. You will start by learning about the data modeling development process, then jump into basic and advanced data modeling. From there, Michael will teach you how to create a UML data model, including finding classes, adding attributes, and simplifying the model.  </p>  <p>  \tThis video tutorial also covers how to translate a UML data model into an IE data model, model quality, the different kinds of data models, and database design. You will also learn how to create an SQL server database, an MS-Access database, and develop frameworks. Finally, Michael will teach you about data modeling patterns and database reverse engineering. Once you have completed this computer based training course, you will be fully capable of creating your own data models.  </p>", 
+    "end_date": null, 
+    "title": "Learning Data Modeling", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/357982_1a3a_4.jpg", 
+    "course_url": "https://www.udemy.com/learning-data-modeling/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-27T18:53:41Z"
+}

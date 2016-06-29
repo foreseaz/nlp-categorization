@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t This iOS course is aimed to provide a through and clear understanding of the iOS programming. We start with basic Hello world for iOS and cover the most important topics which will provide you a firm base to build your iOS Apps. This lecture uses the latest IOS SDK and uses an example based approach to teaching. We have kept the learning curve simple and focus is on conceptual learning rather than just teaching how to use  a particular API. After completing the course you will understand the principle behind the API patterns and why a particular control behaves the way it does. We will cover topics like  </p>  <p>  \t Objective C Concepts  </p>  <p>  \t Controls and Templates in iOS  </p>  <p>  \t Xcode interface  </p>  <p>  \t Views and View Controllers  </p>  <p>  \t Target Action and Controls in iOS  </p>  <p>  \t Delegation  </p>  <p>  \t Navigation Controllers  </p>  <p>  \t Categories and Extensions</p>", 
+    "end_date": null, 
+    "title": "Learn iOS Programming - The Basics", 
+    "price": 0, 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/54259_410c_8.jpg", 
+    "course_url": "https://www.udemy.com/learn-ios-programming-the-basics/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-05-15T16:05:24Z"
+}

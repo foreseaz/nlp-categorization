@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>New! You can now acquire and process sensor data from your Android device using MATLAB! Impress your coworkers or other students, build some cool programs, and take your MATLAB skills to a new level with this interactive course. You’ll learn how to capture and utilize data from 5 different sensors without the need to buy additional software or hardware.</p>\n\n<p>Please Note: THIS COURSE IS VERY SIMILAR TO “Build MATLAB Projects with iOS Sensors” </p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">Build 6 Android Sensor Projects (Source Code Included)</strong></p>\n\n<p>In this course, you will master the MATLAB® Support Package for Android Sensors by building a unique set of projects which enable you to:</p>\n\n<ul><li>Build Your Own 3D Compass</li><li>Rotate 3D Objects Using Your Android Phone</li><li>Detect Whether Android Devices is Facing Up or Down</li><li>Track Position and Speed of A Car</li><li>Detect Shaking</li><li>Count Your Steps While Walking</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Don’t struggle. I’ll show you step-by-step.</strong></p>\n\n<p>Getting set up is a little tricky, but, don’t worry, I’ll walk you through it. And if you have any problems you can ask for help through the discussion forum.  I’ll show an easy method to enable and acquire data from all 5 Android sensors including:</p>\n\n<ul><li><strong class=\"redactor-inline-converted\">Acceleration Sensors </strong>- Learn how to use abrupt changes in your Android phone’s movement</li><li><strong class=\"redactor-inline-converted\">Magnetic Field Sensors</strong> - Explore magnetic fields used by the compass and other input devices</li><li><strong class=\"redactor-inline-converted\">Orientation Sensors</strong> - See how you can detect your Android phone’s state and control virtual items</li><li><strong class=\"redactor-inline-converted\">Angular Velocity Sensors</strong> - Detect your Android phone’s movement and use to control software</li><li><strong class=\"redactor-inline-converted\">Position Sensors</strong> - Capture your GPS position and speed and build location based apps</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n<p><strong><br></strong></p><p><strong>What You Get in This Course:</strong></p>\n\n<ul><li>Instructional Videos</li><li>Interactive Exercises</li><li>6+ Sample Projects</li><li>Source Code</li><li>24/7 Instructor &amp; Student Access</li><li>30 Day Guarantee</li><li>Lifetime Course Access</li></ul>\n\n\n\n<p>To execute the code and examples, you will need:</p>\n\n<ul><li>MATLAB R2015a or later, for creating the connection to the application and logging sensor data.</li><li>Android OS 4.0 or later on your device.</li><li>Wifi Network for connecting your computer and Android device.</li></ul>\n\n<p>There’s no better time to expand your MATLAB skills and use your Android device to collect and process data.  Enroll in this course and get started today!</p>", 
+    "end_date": null, 
+    "title": "MATLAB Projects with Android Phone Sensors", 
+    "price": "30.00", 
+    "instructors": "Joe Papa", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/820102_cfd9_3.jpg", 
+    "course_url": "https://www.udemy.com/matlab-android-sensors/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-12T18:03:15Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>データベースを作るときに１番困るのは、<strong style=\"\">入力する人によって入力方法がばらばらなこと</strong>です。ユーザーに自由に入力させているとデータベースがあるにも関わらず、活用できないデータになってしまいます。</p><p>【悩み事】</p><p>・データの形式がバラバラで集計ができない</p><p>・全角、半角が入り混じっている</p><p>・入力して欲しい情報が入っていない</p><p>など、後のことを考えると非常に困難な問題です。</p><p>【どうすればいいのか？】</p><p>そこで、少しでもそのような誤差が出ないように、入力フォーム（ユーザーフォーム）を利用して、入力方法を強制的に一律になるようにします。</p><p>そのために使用するのが、ユーザーフォームで、どんな人がデータを入れても一律のデータベースが出来上がるように仕上げていくことが出来ます。</p><p>そうすることで、活きるデータを作成することが出来ます。</p><p>【この講座でやること】</p><p>１．入力フォームの作り方</p><p>２．入力フォームからデータベース（エクセルのシート）へデータを登録する方法</p><p>以上の２点について学習することが出来ます。</p>", 
+    "end_date": null, 
+    "title": "エクセルVBAのユーザーフォーム作成を3時間で学ぶ | エクセルのマクロを活用したデータベースのつくり方", 
+    "price": "20.00", 
+    "instructors": "Takazumi Yamaguchi", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/566174_d3d2_2.jpg", 
+    "course_url": "https://www.udemy.com/excelform/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-27T15:21:20Z"
+}

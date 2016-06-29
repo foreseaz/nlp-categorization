@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This six hour Swift and Sprite Kit tutorial series has an one big theme tying each example project together: gameplay that can go on as long as the player can manage to stay alive. The challenge of an endless-style game isn&#039;t to beat up as many street thugs as possible, it taps into something more addictive. An endless game tests your reflexes and makes you struggle to best yourself again, and again, and again. Modern classics like Crossy Road or Banana King are two great examples of endless-style games we&#039;ll try to emulate in this series. Along the way, you&#039;ll learn some key concepts every Swift and Sprite Kit developer should have in their arsenal of knowledg</p><p><strong style=\"\"></strong><strong style=\"\">Session 1 – The Endlessly Moving World Node</strong></p><p>In this first project we will populate a perpetually moving “world” node with randomly generated physics objects. We also look at converting CGPoint locations in Swift from the worldNode coordinates to scene coordinates, enumerating through every child in the scene, adding and clearing out nodes as needed, and much more!</p><p><strong style=\"\">Session 2 – Endless Level Units</strong></p><p>In this series of videos we will modify the project from the first section and create “level units”, for example, sections or modules of a level that each can contain their own objects and be generated as needed or removed when they become out-of-view. The finished example project creates a kind of elevator style game where the character hops from platform to platform as long as possible. We will also look at the code to randomly move each platform (or any object) up and down and switch direction if it exceeds the visible screen area, as well as some ever-useful code to always center a world node on the player.</p><p><strong style=\"\">Session 3 – An Endless Frogger Project</strong></p><p>In these video tutorials we will create an endless game similar to Frogger or Crossy Road. Level units will again be created on the fly, with the distinction now of being either a “road” unit or “water” unit, each one having their own type obstacles. Physics-wise we will have four Body types: road, water, roadObject (cars) and waterObject (lilypads), and leave the door open to many more!</p><p><strong style=\"\">Session 4 – Endless RPG Style Level</strong></p><p>In this session we will convert the previous project to an endless top-down viewed RPG style world. The player can wander endlessly through randomly generated worlds, possibly to avoid objects or collect them. We will setup an array to track “level unit” locations that have already been added, then as the character wanders around, create new level units as needed. We will also include the option to remove level units the character has left (which could replace those units when the character walked back to them)</p><p><strong style=\"\">Session 5 -An Endless Runner</strong></p><p>Modeled after the very-popular Banana Kong game, this 5th project builds upon our previous ones in the series with a few notable changes, and ironically some simplifications. This session begins by limiting character movements to only one direction. Then we&#039;ll give our character some typical side scroller controls (jumping, running, sliding and gliding). We&#039;ll add a looping parallax background, and adjust our LevelUnit and Object classes to create ground/water planes and obstacles for a 2D platform world. And finally we&#039;ll finesse our collision detection code so the character can drop down through Platforms when swiping down, break certain objects when sliding, and of course get killed when running into other objects.</p>", 
+    "end_date": null, 
+    "title": "Endless Worlds with Swift and Sprite Kit", 
+    "price": "30.00", 
+    "instructors": "Justin Dike", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/534328_8954_5.jpg", 
+    "course_url": "https://www.udemy.com/endless-worlds-with-swift-and-sprite-kit/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-22T17:34:22Z"
+}

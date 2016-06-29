@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong style=\"\">Adding more security to protect user data</strong></p><p>Security and privacy are becoming more and more important to App users. A trustworthy chat application is therefore obliged to protect it&#039;s user data to the best of its abilities.</p><p> In a completely new section you are going to learn how to use ACLs (Access Control Lists) and Roles to protect your users&#039; data.</p><p>  \t<strong style=\"\">1,5 h new video material</strong>  </p>  <p>  \tSince this is a community course, the requests of the participants resulted in 1,5 h of additional video material.  </p>  <p>  \tNew features:  </p>  <ul style=\"\">  \t<li>editable user data (profile image, first name, last name, ...)</li>  \t<li>unread messages indicator</li>  </ul>  <p>  \t<strong style=\"\">A Community Course</strong>  </p>  <p>  \t    This course is all about communication. We are going to create an awesome Chat App that will include features like push notifications and real time updates.  </p>  <p>  \t    This course is also<strong style=\"\"><em style=\"\"> completely about you</em></strong>. When you have completed this course you will have created a fully working Messaging App. However this will <strong style=\"\">not</strong> be the end.  </p>  <p>  \t<strong style=\"\">Share your ideas</strong> on how to enhance the Community Chat App even further in the Course Discussion Board. The course community is going to vote for new features that should be implemented. For the most popular feature requests <strong style=\"\">I am going to release new Videos every month</strong>.  </p>  <p>  \t<strong style=\"\">Course Abstract</strong>  </p>  <p>  \t    After outlining the challenges we are facing when creating a messaging application we are going to compile all the resources we are going to need to create our CommunityChat App. Using Parse as a backend service, we will then start developing a possibility for users to login and register for the CommunityChat.  </p>  <p>  \t    As important as a way to register to a messaging service is an intelligent way to find users that we want to talk to. So we will also implement a great search feature.  </p>  <p>  \t    The core of our CommunityChat App is of course a great user interface for exchanging messages. After setting up a iMessage-like UI we will focus our efforts on efficiently loading and sending messages.  </p>  <p>  \t    Since there is no way around a real time feeling when it comes to text messaging, we will add support for push notifications into our app.  </p>", 
+    "end_date": null, 
+    "title": "Create a Swift iOS Chat App from Scratch", 
+    "price": "25.00", 
+    "instructors": "Daniel Autenrieth", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/380128_f68b.jpg", 
+    "course_url": "https://www.udemy.com/swift-ios-chat-app-from-scratch-community-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-29T16:51:55Z"
+}

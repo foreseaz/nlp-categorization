@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course is intended for anyone who would love to get introduced to controlling electronic components with JavaScript for IoT, robotics or even home automation projects. </p><p>This course will give an introduction on how to control components connected to an Arduino with a JavaScript framework called Cylon JS.<br></p><p>I will start off by taking you through an overview as to why I picked JavaScript as the language of choice, as well as some of the tools you will see throughout the course. </p><p>I will then guide you through the basics of the Arduino microcontroller and how you can get set up to develop with it using JavaScript.</p><p>The Cylon JS framework will then be introduced, and sample circuits will be constructed to demonstrate how to interact with them using Cylon.</p><p>All of the code from the demos I show, slideshows, circuit diagrams, and necessary links will be added as resources that can be accessed and/or downloaded at any point.</p><p>The development is done on a Windows platform, though only minimal code demonstrated is Windows-specific. I will point out where you might need to veer off if you're using a different OS.<br></p>", 
+    "end_date": null, 
+    "title": "JavaScript Robotics: An Introduction to Cylon JS", 
+    "price": "20.00", 
+    "instructors": "Tony Thorsen", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/618056_3597_5.jpg", 
+    "course_url": "https://www.udemy.com/javascript-in-a-makers-world/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-21T12:41:24Z"
+}

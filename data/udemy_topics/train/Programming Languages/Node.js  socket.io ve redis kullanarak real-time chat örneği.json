@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t Merhaba ben facebook friendfeed&#039;i 45 milyon dolara satın alıp friendfeed&#039;in alt yapısındaki realtime teknoloji olan tornado&#039;yu açık kaynak yapıp ücretsiz olarak paylaştığından beri gerçek zamanlı sistemler yazıyorum. O zamanlar tornado node.js &#039;ten daha hızlı ve güvenilir sayılıyordu fakat geçen zaman zarfında node.js gerçek zaman konusunda dünya devlerinin tercih ettiği bir teknoloji oldu dolayısıyla bende tüm sistemlerimi node.JS teknolojisine geçirmek zorunda kaldım.  </p>  <p>  \t Bu kursu aldığınızda ilk başta node.JS &#039;in ne olduğunu tam olarak kavrayacaksınız.  </p>  <p>  \t Ardından web socket teknolojisi hakkında bilgi sahibi olacaksınız ve socket.io &#039;nun rolünü kavrayacaksınız ve nodejs ve socket.io kullanarak nasıl gerçek zamanlı bir chat sistemi yapacağınızı 0 dan benim ile beraber yazarak öğreneceksiniz.  </p>  <p>  \t Ardından redis veya mongoDB &#039;ye neden ihtiyacımız var bunu tam olarak sizlere kavratacağım ve Node Redis kullanımını öğrenerek yazdığınız chat sisteminde profil resmi ve kullanıcı adı gibi extralarda kullanabilecek ve neden bunları kullanırken redise ihtiyaç duyduğunuzuda tam olarak anlaycaksınız.  </p>  <p>  \t Şimdiye kadar internette ingilizce eğitimlerde dahil hepsinde Node.js ve socket.io dersleri verildi fakat + mongo veya redis dersleri veren yok denecek kadar az sayıda bu videoyu aldığınız taktirde node.js , socket.io gibi konularda profesyonelim diyebileceksiniz çünkü tüm detaylarını öğrenmiş olacaksınız..  </p>", 
+    "end_date": null, 
+    "title": "Node.js  socket.io ve redis kullanarak real-time chat örneği", 
+    "price": "20.00", 
+    "instructors": "Yasin Aktimur", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/244382_81f5_2.jpg", 
+    "course_url": "https://www.udemy.com/nodejs-socketio-ve-redis-kullanarak-real-time-chat-ornegi/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-16T19:40:44Z"
+}

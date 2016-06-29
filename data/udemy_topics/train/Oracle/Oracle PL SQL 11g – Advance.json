@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t==============================================================  </p>  <p>  \t<strong>EXTREMELY USEFUL TO UNDERSTAND THE ADVANCE PL/SQL 11g CONCEPTS</strong>  </p>  <p>  \t===============================================================  </p>  <p>  \tAt the end of this course, you will get the knowledge of...  </p>  <p>  \tPackages in PL/SQL,  </p>  <p>  \tOracle Supplied Packages,  </p>  <p>  \tOracle Large Objects,  </p>  <p>  \tPerformance and Tuning,  </p>  <p>  \tImproving Performance with Caching,  </p>  <p>  \tAnalyzing PL/SQL Code,  </p>  <p>  \tProfiling and Tracing PL/SQL Code,  </p>  <p>  \tSafeguarding Your Code Against SQL Injection Attacks  </p>", 
+    "end_date": null, 
+    "title": "Oracle PL/SQL 11g – Advance", 
+    "price": "20.00", 
+    "instructors": "Parallel Branch Inc", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/157106_e7c2_8.jpg", 
+    "course_url": "https://www.udemy.com/oracle-plsql-11g-advance/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-03T10:54:02Z"
+}

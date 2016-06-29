@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em>NOTE: THE COURSE IS STILL UNDER DEVELOPMENT AND NEW CONTENT IS CONSTANTLY BEING ADDED. <strong class=\"redactor-inline-converted\">GET THE COURSE NOW</strong> WHILE IT'S AT <strong class=\"redactor-inline-converted\">ITS LOWEST PRICE</strong> AND <strong class=\"redactor-inline-converted\">GET FUTURE CONTENT AT NO EXTRA CHARGE.</strong></em></p>\n\n<p><strong class=\"redactor-inline-converted\">Master the fundamentals of Angular 2 and TypeScript using easy-to-follow examples and sample apps.</strong></p>\n\n\n\n\n\n<p><br><strong class=\"redactor-inline-converted\">Angular 2 is going to be a game changer in the Web Development</strong><strong> world</strong> and would enable you to architect large scale and maintainable software. Angular 2 embraces web technologies and best practices in software development which means that your software will be future proof. Not to mention its performance and blazingly fast internals that would make it the first choice for making mobile applications.<br><br>At this point Angular is still in developer preview but you can get started learning the basic concepts and get ahead of the curve. This course introduces you the basic concepts of Angular 2 namely Components, Annotations, Views, Event Handlers and Directives. In Angular 2 everything is a Component and this course takes a component-centric approach. We will use Components as the main point of discussion and learn about other concepts in Angular 2 in the context of Components.<br><br>Even though Angular 2 is still in developer preview, you should set learning Angular 2 as your top priority because not only is Angular 2 going to be the future of web, but also there are a lot of new concepts in Angular 2 that require time to internalize. Also note that this course will be continuously updated as new changes come out. Don't worry about the API changes that much as long as you learn the semantics of the framework, syntax and API changes won't be as important.</p>\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">As an awesome bonus of joining the course, you’ll get my ebook: Angular 2 for beginners for FREE</strong>. Please check out the book on leanpub to get access (the link is in the video).<br><br>Start learning today and get ahead of the game.</p>", 
+    "end_date": null, 
+    "title": "Angular 2 Demystified", 
+    "price": "20.00", 
+    "instructors": "Amin Meyghani", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/500628_a962.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-angular2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-13T03:15:50Z"
+}

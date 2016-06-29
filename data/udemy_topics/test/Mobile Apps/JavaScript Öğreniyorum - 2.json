@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    JavaScript içerisinde function nedir?, body ile head tag&#039;leri arasına yazılan function arasındaki farklar nelerdir?, gerçek hayat örnekleri, açılır kapanır menü örneği, etkileşimli üyelik formları, textbox kontrolleri yapmak ve son olarak harici javascript dosyaları ile çalışmaya kadar uzanan gerçek hayat örneklerini bularak kalıcı öğrenmeyi ve JavaScript ile ilgili bir daha hayatınız boyunca sıkıntıya girmeyeceğiniz bir eğitimin ikinci bölümüdür.  </p>  <p>  \t     JavaScript eğitimini iki bölüme ayırdım. Bu iki  bölümü tamamladığınızda, kendinizde tekrar ederek ve üzerinde çalışarak artık JavaScript ile ilgili web geliştirme süreçlerinde herhangi bir sorun yaşamayacaksınız.  </p>", 
+    "end_date": null, 
+    "title": "JavaScript Öğreniyorum - 2", 
+    "price": "20.00", 
+    "instructors": "Mahmut Can Sözeri", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/205030_8266_2.jpg", 
+    "course_url": "https://www.udemy.com/sifirdan-profesyonel-javascript-ogreniyorum-2-gorsel-egitim-video-set/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-25T12:46:00Z"
+}

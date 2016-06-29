@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Adding to its data management system Microsoft has come up with a new Server, <strong style=\"\">Microsoft SQL Server 2012 </strong>which familiarizes us with the construction and usage of databases in SQL Server platform. This course is the successor of Microsoft SQL Server 2012, a step higher into the administration of the data sytem. It is an excellent platform for students to build and implement a data warehouse. The course intends to target all data professionals including data analysts and other aspiring professionals who wants to get ready for exam 70-463, also known as <strong style=\"\">Implementing a Data Warehouse with SQL Server 2012</strong><strong style=\"\">.</strong> </p><p>Towards the end of this course our participants will have a thorough knowledge on <strong style=\"\">data warehouses</strong> and the uses of <strong style=\"\">dimensions. </strong>Apart from that our learner will also understand the <strong style=\"\">importance of Fact Table</strong> along with the various concepts that are involved in the <strong style=\"\">implementation of Data Warehouse with SQL Server 2012</strong>. This course also looks into the <strong style=\"\">different elements of Control Flow</strong> and allows the learner to comprehend how to work with <strong style=\"\">variables</strong>. In this course you will learn about the <strong style=\"\">different types of Transforms available in SSIS</strong>, apart from how to deploy and manage packages. Finally you will understand <strong style=\"\">how to debug and secure packages.</strong></p><p>This course is that is the basis for all other SQL Server-related disciplines—<strong style=\"\">Database Development, Database Administration, and Business Intelligence</strong>. The main idea of this course is to make our students cognize <strong style=\"\">SQL Server 2012 databases administration</strong>. You will be comprehending a lot about the various issues and other decisions that are part of SQL Server installation and configuration. SQL Server 2012 is a prevailing platform that is widely used in the enterprise and cloud. There are many critical systems based on it. This Exam 70-463 is also a part of the series of certifications to master this platform.</p><p>Apart from this as a student you will keen to look into the various operations involved including building and managing data warehouse and architecturing and implementing dimensions.</p><p>You will also find it both challenging and interesting to work with various variables. There will also be a discussion on some of the important topics namely, <strong style=\"\">instance, database and object security strategies. You will be also interested in implementing and automating ETL Solution. S</strong>ome of the high availability technologies will also be discussed as part of the training by looking into deploying and managing packages along with debugging and securing them</p><p>Our training is broken down to 90 lecture sessions that will cover all objectives. As add ons, we are also providing demos on other major concepts so that participants understand how the steps learned are implemented in real time.</p>", 
+    "end_date": null, 
+    "title": "Implementing a Data Warehouse with SQL Server 2012 ", 
+    "price": "20.00", 
+    "instructors": "Compaq learning", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/425086_1350.jpg", 
+    "course_url": "https://www.udemy.com/implementing-a-data-warehouse-with-sql-server-2012/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-17T17:18:31Z"
+}

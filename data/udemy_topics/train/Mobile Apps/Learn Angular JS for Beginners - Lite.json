@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This class was created to assist one in understanding the basic principles of AngularJS in a methodical and fast manner. It extends the scope of HTML with new and added topics, making it a more comprehensive and easily understandable lesson that can produce straightforward results, since HTML was never designed to be for the masses. AngularJS can be tricky to understand, therefore learning it can be daunting. Every attribute of it can be changed depending on the conditions.</p><p>To learn AngularJS, you must have a basic knowledge of IT, including JavaScript, CSS, and HTML. In the lecture, you'll have access to all the sources you need (wherever appropriate).</p><p>Unlike conventional classes that concentrate primarily on theory, we will take a practical \"how-to\" approach to working with information.</p><p>And, of course, you will have access to all the sources of the lecture (wherever applicable).</p><p>In this course we will cover AngularJS Expressions, data binding, Directives etc.</p><p>This course is a lite version of our AngularJS course.</p>", 
+    "end_date": null, 
+    "title": "Learn Angular JS for Beginners - Lite", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "36 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/680482_86dd.jpg", 
+    "course_url": "https://www.udemy.com/learn-angular-js-for-beginners-lite/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-25T12:44:13Z"
+}

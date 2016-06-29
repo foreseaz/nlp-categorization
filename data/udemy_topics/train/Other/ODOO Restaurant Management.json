@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>ODOO POS for Restaurant Management is very enhanced system works with POS terminal hardware and tablets. This course contains all configuration and setup required for ODOO POS. Configuration and features operations of POS.</p><p>Whoever wish to implement ODOO for their organisation and clients in food industry, Bars, Cafe shops can get benefit from this course.</p><p>It contains video series for configuring posbox with raspberry pi board, pos sessions configuration for printers, virtual keyboard, barcodes and payment menthods.</p><p>Products and category configuration to display on pos screens.</p><p>Table and floor management with multiple floor management, Shape of the tables, colour intimation for the available and occupy tables, Manage table capacity.</p><p>Loyalty program management with points configuration based on category, product and quantity.</p><p>Generating pin numbers for discount so that managers having discount pin can only apply discounts on the bills, Normal cashier can not generate bills.</p><p>Split of bills by item at the time of payment so we an have multiple order running on single table.</p><p>Customised product on order using product property for example : while ordering pizza user can select toppings, cheese and bread. </p><p>Manage BOM for product and manage raw material inventory so sales of one product will deduct inventory of raw material too.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "ODOO Restaurant Management", 
+    "price": 0, 
+    "instructors": "Mr. Husen Daudi, Mr. Jay Vora", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/666560_a8b9_2.jpg", 
+    "course_url": "https://www.udemy.com/odoo-restaurant-management/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-11T07:32:27Z"
+}

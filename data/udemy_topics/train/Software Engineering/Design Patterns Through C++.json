@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Subtitles are available for Introduction, Case Study and </strong><strong>Design Patterns Concepts.</strong><br></p>\n\n<p>  \tDesign and architecture of any software/solution provides the base and makes it flexible, extensible for future requirements. A good designed software/solution makes it easy to understand and maintain. Design patterns are known as best practices to design software for problems which are repeated in nature.  </p>\n\n\n\n<p>  \t        This course \"Design Patterns Through C++\" gives you understanding of all <strong>23 patterns</strong> described in Gang Of Four book - \"Design Patterns: Elements of Reusable Object-Oriented Software\", by Gamma, Helm, Johnson and Vlissides.  </p>\n\n\n\n<p>  \t        Each pattern is explained in a simple way with intent, problem, solution and structure. Also the information of participants, collaboration, consequences and implementation are explained for each one. The pattern structure or example implementation of C++ source are explained to understand how it will be implemented in Object Oriented language C++.  </p>\n\n\n\n<p>  \t        The course also provides <strong>C++ source code</strong> of each pattern to understand it in better way. This helps in applying the variation on implementation to see how it can resolve some other implementation bottleneck. There are quizzes after Creational, Structural and Behavioral patterns to check your understanding.  </p>\n\n\n\n<p>  \t        This course will help to understand the best practices for design and apply them to do the better design of software/solution in C++.  </p>\n\n\n\n<p>  \t        It will be good to have the Gang Of Four book - \"Design Patterns: Elements of Reusable Object-Oriented Software\", by Gamma, Helm, Johnson and Vlissides as a reference book for this course.  </p>\n\n\n\n<p><strong>Design Patterns C++ implementation source code is available to download.</strong></p>\n\n\n\n<p><strong>Course Update-</strong><br></p>\n\n\n\n<p>4 Feb 2016</p>\n\n\n\n<ul><li>Added Subtitles for following-<ul><li>Introduction</li><li>Case Study</li></ul><ul><li>Design Patterns Concepts</li></ul></li></ul>\n\n\n\n<p>17 Aug 2015</p>\n\n\n\n<ul><li>Added Case Study</li><li>Updated Introduction</li></ul>", 
+    "end_date": null, 
+    "title": "Design Patterns Through C++", 
+    "price": "30.00", 
+    "instructors": "Suresh Kumar Srivastava", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/309548_0302_7.jpg", 
+    "course_url": "https://www.udemy.com/design-patterns-through-cpp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-28T18:03:47Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<ul style=\"\"><li style=\"\">Do you want to learn how to read and write your own Asterisk dialplans?</li><li style=\"\">Have you been trying to build your own Asterisk auto attendant but don&#039;t know where to start?</li><li style=\"\">Do you want to create your own custom recordings for auto attendant greetings?</li><li style=\"\">Do you want to setup a call center queue with dynamic agents?</li><li style=\"\">Are you looking to configure ACD (automatic call distribution) for your inbound phone calls?</li></ul><p style=\"\">Learn how to tackle all of these configuration items and more by taking this advanced Asterisk course. During the course you will learn details about how create your own auto attendant and adding different digit options to route calls within your Asterisk phone system.</p><p style=\"\">Go from an Asterisk beginner to an expert and write all your own unique dialplan code. I will show you how to write dialplans and make test phones calls showing you the result of the changes made.</p><p style=\"\">If you want to learn by doing then you need to take this course to learn how to use the different Asterisk applications to create a truly unique dial plan for you or your clients.</p><p style=\"\">To take the course you should have a working Asterisk or AstLinux system so you can go in and write your own dialplan to follow along with the lessons. </p>", 
+    "end_date": null, 
+    "title": "Learn to Write Your Own Asterisk VOIP Dialplans and Queues ", 
+    "price": "25.00", 
+    "instructors": "Jon Manning", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/533036_37f9_2.jpg", 
+    "course_url": "https://www.udemy.com/how-to-write-asterisk-dialplan-auto-attendant-menu-queue-configuration/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-20T18:40:34Z"
+}

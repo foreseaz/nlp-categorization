@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>SAP BsuienssObjects is one of the BI leader software in the market as per Gartner report. SAP BO provides many BI modules like Web intelligence, crystal reports, Dashboards, Lumira ...etc. Each module target a specific set of users based on the nature of their daily use for BI. All these modules are based on SAP BO semantics layer which known as Universe. SAP <strong>Universe </strong>is a translation layer between physical data-base and business model.</p>\n\n<p>In this course we will have a fast track course focusing on the most important features that can help you to start building this layer and then consume it in your BI documents. A separate detailed advanced course will be published to cover all details and help you to be advanced user.</p>", 
+    "end_date": null, 
+    "title": "Creating Universes Using SAP BusinessObjects IDT(Fast Track)", 
+    "price": "20.00", 
+    "instructors": "Eng. Taha Mahmoud", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/600242_20a5_2.jpg", 
+    "course_url": "https://www.udemy.com/creating-universes-using-sap-businessobjects-idtfast-track/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-02T10:45:42Z"
+}

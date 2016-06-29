@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Sie möchten Webseiten bauen, die modernen Anforderungen an flexibles Design genügen? Der beliebte Autor und IT-Dozent Peter Müller zeigt Ihnen, wie Sie flexible Webseiten von Grund auf erstellen, die auf allen Anzeigegeräten gut aussehen und funktionieren. Egal, ob Mobile First, flexible Grids, Media Queries, HTML5 oder Gestaltung mit CSS3 – in diesem Video-Training erfahren Sie, wie Sie moderne Webtechniken und Design-Konzepte für eigene Webprojekte nutzen.</p><ul><li><strong>Eigene Websites entwickeln mit HTML5 und CSS3</strong></li><li><strong>Responsive Webdesign verstehen und einsetzen</strong></li><li><strong>Mobile Navigation, Media Queries und Gridlayouts</strong></li></ul>Peter Müller arbeitet seit vielen Jahren als IT-Dozent und versteht es, komplizierte Sachverhalte auf einfache und unterhaltsame Weise darzustellen. Er ist als Autor des CSS-Bestsellers »Little Boxes« bekannt, dessen neueste Auflage unter dem Titel »Einstieg in CSS« beim Rheinwerk Verlag erschienen ist.", 
+    "end_date": null, 
+    "title": "Flexible Boxes – Eine Einführung in moderne Websites", 
+    "price": "40.00", 
+    "instructors": "Rheinwerk Verlag", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/587756_74f1.jpg", 
+    "course_url": "https://www.udemy.com/flexible-boxes-eine-einfuehrung-in-moderne-websites/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-19T20:06:35Z"
+}

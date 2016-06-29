@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>How many times you waste your time in finding some examples useful to<strong class=\"redactor-inline-converted\"> resolve your VHDL</strong> problems and didn't get anything useful?</p>\n\n<p>Nowadays we are in a “lucky period” because we can get any information we need with few clicks of the mouse. With respect to few years ago, when the<strong class=\"redactor-inline-converted\"> access to the information</strong> was very difficult, now we can have the possibility to have good material fast and for free.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>But… <em>There is the other side of the coin</em>.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>It is true that we have a lot of information for free, but not all the information we have is a good stuff. Many times we need a huge amount of time to filter good stuff from a useless material. Even if we get the information for free we often don't think about to the <strong class=\"redactor-inline-converted\">time we are wasting </strong>and to the \"<em>equivalent </em><em>money</em>\" we are losing wasting this time.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>In Surf-VHDL, we have more than 18 years in <strong class=\"redactor-inline-converted\">FPGA/ASIC VHDL design</strong>.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>In this course, you will learn the <strong class=\"redactor-inline-converted\">basic rules</strong> to implement and <strong class=\"redactor-inline-converted\">efficient hardware design</strong> and how to apply these rules using VHDL.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>You will learn all the basic of the VHDL syntax:</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Entity / Architecture pair definition</li><li>Concurrency</li><li>VHDL Coding Style: Structural, Behavioral, Sequential</li><li>Event and Transaction</li><li>Delay Modeling: Inertial vs Transport delay</li><li>Concurrent Conditional Signal Assignment</li><li>Understanding Driver &amp; Source concept</li><li>Parametric Design: Generics</li><li>VHDL Types and Data object</li><li>VHDL Types of Data Object: Signal, Variable, Constant and FILE</li><li>Type bit vs ulogic vs std_logic</li><li>Signed and Unsigned Data Types</li><li>Type Conversion and Type Casting</li><li>Subtype definition</li><li>Process Statement</li><li>Sequential Conditional Statement: IF and CASE</li><li>Sequential-Iterative Statement: FOR and WHILE</li><li>The Assert Statement</li><li>Sequential WAIT Statement</li><li>Sensitivity List vs WAIT Statement</li><li>Procedure and Function</li><li>Packages</li><li>Concurrent iterative Statement FOR GENERATE</li><li>Concurrent conditional Statement IF GENERATE</li><li>TextIO package: Read/Write from file</li><li>Test bench design and simulation</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>In the <strong class=\"redactor-inline-converted\">LAB section</strong> you will learn how to implement:</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li><strong class=\"redactor-inline-converted\">Heart-bit</strong> design: let's start with a blinking led</li><li><strong class=\"redactor-inline-converted\">Seven segment display</strong>: write a VHDL code and drive a seven segment display</li><li><strong class=\"redactor-inline-converted\">UART</strong>: learn how to implement a <strong class=\"redactor-inline-converted\">UART 16650 compatible </strong>with internal FIFO</li><li><strong class=\"redactor-inline-converted\">Command Parser</strong>: VHDL design that contains the LAB above. Connect your board to a PC and start communicate with it.</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>All the LABs are provided with the <strong class=\"redactor-inline-converted\">VHDL code</strong> that you have to complete and simulate.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>In the LAB videos there will be addressed the exercise solution: you will learn how to implement the lab VHDL code, simulate and layout on FPGA<br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Enjoy the course!</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\"><br></strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">P.S.</strong></p>\n\n\n\n\n\n\n\n<p>This course will <strong class=\"redactor-inline-converted\">NOT participate</strong> in the Udemy promotion program. For more information on PROMO and BONUS <strong>please visit our website just</strong> <strong class=\"redactor-inline-converted\">clicking on the \"World\" icon below!</strong> </p>", 
+    "end_date": null, 
+    "title": "FPGA Design  Learning  VHDL", 
+    "price": "50.00", 
+    "instructors": "SURF VHDL", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/690392_ae51_3.jpg", 
+    "course_url": "https://www.udemy.com/fpga-design-learning-vhdl/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-06T16:53:22Z"
+}

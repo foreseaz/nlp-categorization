@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Este curso aborda temas esenciales sobre virtualización y abarca el análisis e implementación de una solución de máquinas virtuales.<br>Compuesto por  más de 30 videos con ejemplos prácticos claros, reales y concretos sobre las posibles soluciones a inconvenientes reales, este curso enseña como utilizar KVM y OpenVZ para Linux, Windows y otros sistemas operativos, al mismo tiempo de que aporta conocimiento específico sobre redes (NAT, Firewalls, Bonding, Briding, VLANs y mas). <br>Proveemos documentación sobre el uso de diferentes sistemas de archivos y como trabajar con cada uno de estos. <br>Se muestra en forma detallada como utilizar Proxmox en Cluster y en alta disponibilidad.</p><p><br></p><p>This course will teach you essencials about virtualization and help you with dimensioning and setting up the whole environment.</p><p>With +30 vids of examples and real cases this course includes KVM and OpenVZ installations of Windows and Linux, as well as provides advanced concepts of networking.<br><br>Also you will receive a book (a really free one) of how to work with Linux -from the scratch till advanced techniques.<br><br><br></p>", 
+    "end_date": null, 
+    "title": "Aprende Proxmox desde cero!", 
+    "price": "20.00", 
+    "instructors": "Juan Ignacio Ciriaco", 
+    "commitment": "15 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/603718_ad89_2.jpg", 
+    "course_url": "https://www.udemy.com/aprende-proxmox-desde-cero/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-06T03:11:17Z"
+}

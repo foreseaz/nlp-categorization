@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This is the Windows 7 installation walkthrough course.</p><p>This course is designed for:</p><ul><li>novices and beginners</li> <li>Learners who would like to know what it takes to install the Windows 7 operating system</li> <li>Learners who have never installed Windows 7 from scratch before</li></ul><p>This course introduces users to a high level view of the Windows 7 operating system. Helpful links will be provided in case you need additional help from Microsoft of the community. Also, a high level overview of the different Windows 7 version options is also discussed to help you purchase and install the right version. Lastly, a step by step walk through of a basic deployment of Windows 7 to a computer (also works on a virtual machine) will be provided. The walkthrough will wrap up with steps necessary to keep your Windows 7 patched and up to date. Security software will also be discussed with web sites you can visit for free versions of security software.</p><p>A screen step by step installation walkthrough is provided.</p><p>At the end of the course, a document containing all of the URL links discussed in the course is attached to the lecture.</p><p>If you view this course from end to end, it will take you about 45 minutes. If you are following along as you install Windows 7, and complete your post install updates, maybe 4 hours plus more if you are downloading your install rather than purchasing it and also it depends on the speed of your hardware and your ability to navigate around the operating system.</p><p>This course has been designed so that you can follow along step by step in your own Windows 7 installation.</p><p>   You should take this course if you have never worked with or installed Windows 7 before and are looking to start but aren't sure what to purchase or how to answer the questions asked during the installation process. You will also benefit from instructions for keeping your Windows 7 up to date through official software patches from Microsoft</p>", 
+    "end_date": null, 
+    "title": "How to Install Windows 7", 
+    "price": "20.00", 
+    "instructors": "Dean Barnes", 
+    "commitment": "40 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/574340_c972_2.jpg", 
+    "course_url": "https://www.udemy.com/how-to-install-windows-7/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-05T06:54:24Z"
+}

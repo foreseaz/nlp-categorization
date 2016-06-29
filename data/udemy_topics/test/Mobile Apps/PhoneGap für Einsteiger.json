@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t                        In diesem Kurs lernen Sie PhoneGap und alle wichtigen Bestandteile kennen. Was Sie beachten müssen, wie Sie Apps entwickeln und exportieren, wie PhoneGap funktioniert, wie Sie ein Plugin installieren und natürlich auch das App auf Ihr Gerät übertragen.  </p>  <p>  \t          Die Apps werden mit HTML, CSS und JavaScript erstellt, sprich es ist wichtig für alle weiteren Apps, sich diese Kenntnisse anzueignen. Für diesen Kurs ist es aber nicht notwendig, da es Primär um das Erstellen der App geht und nicht um die Ausarbeitung der App Funktionen.  </p>  <p>  \tDer Sinn dieses Kurses ist, den Grundstein Ihrer Fähigkeiten, im Bereich App Development, zu setzen. Eine solide Grundlage ist für jede professionelle und gute Dienstleistung wichtig.  </p>  <p>  \t<strong style=\"\">Inhaltsübersicht:</strong>  </p>  <ul style=\"\">  \t<li><strong style=\"\"></strong>PhoneGap kennenlernen</li>  \t<li>Xcode &amp; Android SDK installieren</li>  \t<li>PhoneGap installieren</li>  \t<li>Terminal kennenlernen</li>  \t<li>PhoneGap Projekt mit jQuery &amp; Twitter Bootstrap erstellen</li>  \t<li>PhoneGap Projekt mit Xcode und Android SDK kompilieren</li>  \t<li>App auf ein Device übertragen und testen</li>  \t<li>Hilfreiche Tipps / Tricks / Links </li>  </ul>  <p>  \t            Ich würde mich freuen, wenn Sie sich für diesen Kurs entscheiden würden und ich Ihnen PhoneGap näher bringen dürfte. Viel Spaß!  </p>", 
+    "end_date": null, 
+    "title": "PhoneGap für Einsteiger", 
+    "price": "20.00", 
+    "instructors": "Jonathan Schneider", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/302062_b159_5.jpg", 
+    "course_url": "https://www.udemy.com/phonegap-fuer-einsteiger/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-17T12:35:24Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t     JIRA 6 Essentials will show you how to use and manage your Atlassian JIRA instance. Starting from the basics of working with JIRA projects and issues, the course will introduce and explain advanced topics that any JIRA administrator will need to know to better understand and configure JIRA for their organizations.  </p>  <p>  \t        This video course will introduce and explain important concepts in JIRA, and ultimately show you how to plan and design your own implementation. You will learn how to customize JIRA to adapt to your organization and add value to your business.  </p>  <p>  \t     In this course you will learn how to understand and create your own workflows, implement access control with different security settings, manage user and group memberships, integrate with LDAP, set up a notification email system, extend JIRA&#039;s default functionalities with add-ons, integrate JIRA with other Atlassian applications or use JIRA as a general-purpose feedback collection system, as well as customize screens and field setups to capture data that really makes sense.  </p>  <p>  \t     JIRA 6 Essentials covers everything that you need to know in order to set up a fully-functional implementation.  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t<strong style=\"\">Patrick Li</strong> is the cofounder and senior engineer of AppFusions. AppFusions is the leading Atlassian partner specializing in integration solutions with many enterprise applications and platforms, including IBM Connections, Jive, Google Apps, Box, SugarCRM, and more.  </p>  <p>  \t    He has worked in the Atlassian ecosystem for over five years, developing products and solutions for Atlassian platform and providing expert consulting services. He is one of the top contributors to the Atlassian community, providing answers and suggestions on the Atlassian user forum.  </p>  <p>  \t    He is extensively experienced in designing and deploying Atlassian solutions from the ground up, and customizing existing deployments for clients across verticals such as Healthcare, Software Engineering, Financial Services, and Government Agencies.  </p>", 
+    "end_date": null, 
+    "title": "JIRA 6 Essentials", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/392998_504c_2.jpg", 
+    "course_url": "https://www.udemy.com/jira-6-essentials/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-13T12:57:12Z"
+}

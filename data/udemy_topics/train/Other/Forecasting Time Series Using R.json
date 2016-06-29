@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>Learn about forecasting/time series starting right from the basics of forecasting until the advanced forecasting methodologies. Learn about the process steps involving defining goal, collecting data, exploring data series, forecasting using various techniques by splitting the data into training &amp; validation data sets, evaluating the model and finally deploying the model. Also learn about the following steps in details:</p>\n\n<ul><li>Learn about what &amp; why do we need forecasting &amp; who does forecasting</li><li>Learn about the 8 steps of forecasting strategy which will help successful project implementation</li><li>Learn about the 6 measures of errors which will help in deciding on the best forecasting technique</li><li>Learn about Autoregressive, Exponential smoothing, Moving average, ARMA, ARIMA and various other techniques in forecasting</li>\n</ul>\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Forecasting/Time Series Using R", 
+    "price": 0, 
+    "instructors": "ExcelR Solutions", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/885114_26cb_5.jpg", 
+    "course_url": "https://www.udemy.com/forecastingtime-series-using-r/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-22T10:34:50Z"
+}

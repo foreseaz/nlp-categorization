@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>你/妳好，我們是六角學院！</p>\n\n<p>如果你沒有 JavaScript 基礎，但又想要快點為網頁上添增動畫效果，<br>那麼 jQuery 是你的最佳選擇！<br></p><p>我們在課堂期間提供的服務有：</p><ol><li>無限期、無限次數地觀看線上教學影片</li><li>隨時可提問的 udemy 發問社群</li><li>每週三晚上七點半都會舉辦線上問答會，讓學生們提問網頁技術上的問題</li><li>提供二次檢視網頁程式碼</li></ol>\n\n\n\n<p>若想看我們提供的其他服務與課程，<br>歡迎 Google 關鍵字搜尋「六角學院」搜尋我們的粉絲頁，<br>瀏覽更多有關於我們的訊息！</p>", 
+    "end_date": null, 
+    "title": "使用  jQuery 打造互動性網頁動畫效果", 
+    "price": "45.00", 
+    "instructors": "廖洧杰 liao, 王志誠 Wang, 六角學院 hexschool", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/829292_66ca_4.jpg", 
+    "course_url": "https://www.udemy.com/jquery-learning/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-22T17:28:17Z"
+}

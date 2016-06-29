@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>VMware vSphere 6.0 is the platform businesses depend on to deploy, manage and run their virtualized Windows and Linux workloads. </p><p>In this course \nyou will learn how to add <strong>vCenter </strong>management services to your stand alone ESXi environment. Once you have vCenter working, we will show you how to rapidly deploy new VMs via <strong>Templates and Clones</strong>, how to control vCenter access with <strong>Permissions</strong>, how to monitor your inventory with <strong>Alarms</strong> and how to migrate workloads into your new vSphere environment with <strong>VMware vCenter Converter.</strong></p><p><strong>Learn vCenter and Core vCenter Features<br></strong></p><p><strong><strong></strong></strong>This course covers five major topics that all vSphere 6 vCenter administrators must know:<br></p><ul><li>First, we start by learning how to <strong>install and configure vCenter</strong> including <strong>vCenter for Windows</strong> and <strong>vCenter Server Appliance</strong> (vCSA). \n From there, learn how to create vCenter's inventory hierarchy, how to join vCenter to an <strong>Active Directory</strong> domain, how to import an ESXi host into vCenter management, how to connect to and use <strong>Web Client</strong>. We will also learn how to access VM consoles using both the VMware Remote Console application and the Web Client Console.</li><li>vCenter enables rapid, effective VM deployment using both <strong>Templates and Clones</strong>. We will see how to perform cold/hot VM cloning to make a one-time copies of VMs. We will then see how to create <strong>Template VMs</strong> - which are used for rapid copy-and-customize VM deployments. We will look at vCenter's <strong>Guest OS Customization Wizard</strong> and use it to easily establish new Name and Network properties for our rapidly deployed VMs.</li><li>Next,we will learn how to manage access and <strong>Permissions </strong>on both standalone ESXi hosts and in vCenter managed environments.</li><li>vCenter has extensive ESXi host, Storage, VM and Cluster monitoring capabilities. We will learn how to use <strong>vCenter Alarms</strong> to identify exactly the inventory objects we wish to monitor, what conditions we need to check and what actions we want vCenter to take when exceptional circumstances are detected.</li><li>In the final chapter of this course, we will learn how to install and use <strong>VMware vCenter Converter</strong>. Converter is a workload migration and consolidation tool that lets you migrate Windows or Linux workloads from source physical or foreign virtual machines (e.g. Hyper-V or XenServer) to ESXi Virtual Machines.</li></ul><p>The skills you will acquire in this course will help make you a more effective vSphere 6 administrator.</p>", 
+    "end_date": null, 
+    "title": "VMware vSphere 6.0 Part 2 - vCenter, Alarms and Templates", 
+    "price": "20.00", 
+    "instructors": "Larry Karnis", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/720094_3b70_2.jpg", 
+    "course_url": "https://www.udemy.com/vmware-vsphere-60-part-2-vcenter-alarms-and-templates/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-07T22:03:37Z"
+}

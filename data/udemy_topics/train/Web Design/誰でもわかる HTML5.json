@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>このコースでは、Webページを作成するためのマークアップ言語であるHTML5について解説します。いままでHTMLを使用してきた方はもちろん、これから始める方にも有効な内容となっています。</p><ul><li>セクション1では「HTML5の基礎知識」として、HTML5の特徴について解説します。</li><li>セクション2では「HTML5によるセマンティックなマークアップ」として、XHTMLでコーディングしたサイトと比較しながら、HTML5でのマークアップについて解説します。</li><li>セクション3では、Microdataの利用や動画の利用方法、ドキュメントのバリデートなどについて解説します。</li></ul><p>セクション2と3には演習ファイルが付属しており、実習に使うことができます。</p><p>デザイナーを目指す方なら、既に公開中の「Adobe Dreamweaver」の講座とあわせて視聴すれば更に効果的でしょう。</p>", 
+    "end_date": null, 
+    "title": "誰でもわかる HTML5", 
+    "price": "40.00", 
+    "instructors": "アテイン 株式会社", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/635508_abbb_2.jpg", 
+    "course_url": "https://www.udemy.com/daredemowakaru-html5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-09T03:14:14Z"
+}

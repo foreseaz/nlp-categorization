@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>Logistic Execution is one of the core activity of any company. Increasingly, companies are required to execute more complex processes as a means of keeping their competitive advantage. </p><p>The objective of this course is to explain both the business and SAP process within the Logistic Execution area. It is aimed to provide students a deepdive into the subject in an easy, comprehensive, course that can be applied in today's workplace.</p><p>For this course we will be deepdive into the following areas</p><ul><li>The best way to use the Logistic Execution Processes</li><li>The configuration behind the Logistic Execution module (Distribution module)</li><li>Packaging core concepts</li><li>System demonstrations</li></ul><p>The course will cover the following SAP functionality</p><ul><li>How to create and\nuse Outbound deliveries effectively</li><li>The mass creation of Outbound delivery in the foreground and background, and how to use it in the context of the business</li><li>Route determination and why it is important</li><li>Picking strategies and how\nthey are executed in SAP</li><li>Executing Picking in Inventory management and warehouse management (IM and WM)</li><li>When to use Packing and how to execute it in Handling Unit management (HU)</li></ul><p></p><p>It is not just SAP details that this course will be covering, the course also covers</p><ul><li>The process from the perspective of the business and users.</li><li>The integration and context of Supply Chain Management .</li><li>How to run these process in SAP and why do we execute them in a particular way.</li><li>SAP \"Best Practice\".</li></ul><p>This course is part of the larger SAP Supply Chain course, but has been segregated as to provide a targeted, deepdive session into the SAP functionality of Logistic Execution.</p>", 
+    "end_date": null, 
+    "title": "SAP Logistic Execution", 
+    "price": "50.00", 
+    "instructors": "Abdul Maulud", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/513054_830e_4.jpg", 
+    "course_url": "https://www.udemy.com/sap-logistic-execution-r3/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-27T19:20:43Z"
+}

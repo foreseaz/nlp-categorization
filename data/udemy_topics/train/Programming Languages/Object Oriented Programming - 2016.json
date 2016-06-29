@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Object oriented programming. What is it?</p><p>That was my biggest question when I started programming.</p><p>It took me many months to get the object oriented programming concept fully cemented in my mind. Now I will help you get object orientation in less than an hour. Avoid needlessly complicated explanations that you find on the internet, as I explain everything in PLAIN language.</p><p>Object Oriented programming (OOP) is used in almost every popular language out there, be it Java, C#, Javascript or PHP. You’ll also need it for iOS and Android apps if you make those!</p><p>-----------<strong>Review of this course</strong>--------------</p><p><em>Very good explanations and organisation of material. A good companion while learning the code in other courses to get a complete approach to programming in an object orientated way.<br></em></p><p>------------------------------------------------------</p>    <p>When I  learnt object oriented programming it was from videos made by <strong>boring</strong> instructors. I wanted it to be fun and that’s why everything I explain is illustrated using Lego. Lego is the perfect tool because it is exactly like programming – they both are construction tools, used to build a final product.</p>    <p>We will do a little light programming during the course to demonstrate what OOP is. Our language of choice is C# because we can write it in the excellent (and free) cross platform software: Xamarin. Xamarin allows us to learn object oriented programming in C# on PC, Mac or Linux.</p><p> You do not need to know any C# (or even basic programming) beforehand.</p><p><strong></strong></p><p><strong>Course highlights</strong><br></p>  <ul><li>Fundamental object oriented programming concepts are explained</li><li>A few more advanced ideas are covered too</li><li>Some homework to get you thinking</li><li>Fantastic Lego illustrations</li></ul>    <p><strong><br></strong></p><p><strong>What are the requirements?</strong></p><strong>  </strong><ul><li>A PC with internet access to set up Xamarin (an open source .Net engine)</li><li>You can also run Xamarin on a Mac (or Mono-Develop on Linux)</li></ul>    <p><strong><br></strong></p><p><strong>What will you get from this course?</strong></p><ul><li>12 carefully sculpted lectures, complete with excellent Lego illustrations!</li><li>Learn to code by thinking in an Object Oriented manner</li><li>Make beautiful, concisely written code – the number one asset coveted by anyone looking to hire developers</li><li>Make a start in professional software development (freelance rates in the USA are $60 - $150 per hour)</li></ul>      <p><br></p><p><strong>Who is the target audience?</strong></p><ul><li>Anyone that wants to earn a very healthy living writing and creating software</li><li>People looking to improve their own knowledge of object oriented concepts</li></ul>", 
+    "end_date": null, 
+    "title": "Object Oriented Programming - 2016", 
+    "price": "20.00", 
+    "instructors": "Mr Grant Klimaytys", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/674552_02a3.jpg", 
+    "course_url": "https://www.udemy.com/master-object-orientation-with-lego-illustrations/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-19T15:30:26Z"
+}

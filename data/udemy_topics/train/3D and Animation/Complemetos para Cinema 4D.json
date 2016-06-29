@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t  En este curso aprenderemos a componer una secuencia a través de los pases que nos oferece el render de Cinema 4D en After Effects y Nuke. También veremos como funciona el plug-in de la casa de The Foundry, montado en After Effects, para poder sacar el vector de movimiento de la cámara, e importarlo a Cinema 4D, lo que nos permitira recrear el movimiento de la cámara en 3d para asi  poder insertar elementos renderizados en nuestro video de manera creible. Para continuar con importaciones a Cinema 4D, utilizaremos el Plug-in de Real Flow para poder importar las mallas o partículas de las simulaciones  que generamos en dicho programa a Cinema 4d. Para terminar, veremos el uso de Turbulece FD sobre Cinema 4d para poder hacer simulaciones de humos y fuego, algo muy utilizado en la industria cinematográfica.  </p>  <p>  \tCINEMA 4D Studio es lo mejor para ofrecer a los artistas profesionales del 3D. Si quiere hacer gráficos avanzados en 3D pero necesita un apoyo para asegurarse de crear asombrosos gráficos de forma rápida y fácil, entonces esta es la opción ideal.  </p>  <p>  \tEste curso es impartido por Edgar Suarez. Es licenciado en bellas artes, audiovisual y diseño por la escuela de arte Fernando Estévez. Su trabajo abarca un campo amplio de las artes visuales como motion graphics, compositing, diseño gráfico, fotografía, edición y postproducción de video. Ha desarrollado su actividad en empresas  como Intricate Production S.L. donde ha trabajado como freelance illustrator y digital compositor y 3D. Ha trabajado como operador Cinema 4D en Hankook. Actualmente trabaja como grafista en Zeppelin TV.  </p>", 
+    "end_date": null, 
+    "title": "Complemetos para Cinema 4D", 
+    "price": "40.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/188616_14fb_2.jpg", 
+    "course_url": "https://www.udemy.com/complemetos-para-cinema-4d/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-25T17:52:10Z"
+}

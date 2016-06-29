@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p><strong></strong><strong>Overview</strong></p>  <p>This is a one-hour course that is intended for Excel users who want to learn how to automate their tasks. Excel, as well as other Microsoft Office programs, come with a powerful scripting language known as VBA. With a little bit of programming knowledge, complex tasks can be fully automated and completed in seconds. This course assumes no programming experience; only a reasonable level of familiarity with Excel.</p>  <p><strong>Prerequisites</strong></p>  <p><u>Microsoft Excel</u> : This courses uses Excel 2007 for the demonstrations, and comes with .xlsm files for the code examples. These demos and files will be compatible with later versions of Excel as well. If you are using Excel 2003, you will not be able to open the .xlsm files, but you will be able to follow along with the demos. </p>  <p><strong>What you will learn</strong></p>  <p>The course begins with an introduction to macros. You will learn how to record a sequence of actions, how to run the recorded macro, and how to inspect the VBA code that gets generated from this process.</p>  <p>You will then learn how to use numbers in VBA. There are different types of numbers which are used in different situation, so you'll be a given an overview of the differences between them. You will be shown how to do simple arithmetic operations inside your VBA code.</p>  <p>You will then be introduced to strings. Strings are used in programming to represents words and characters. For example, \"hello world\" could be stored in your VBA code as a string. You could then perform various operations on your string, such as converting it to upper-case, replacing a word, counting the number of characters, and many others.</p>  <p>Then you will look at booleans, if-statements and loops. These concepts will allow you to create complex behaviors that would not have been possible by simply recording a macro. You will able to write code that  implements logical rules and makes decisions.</p>  <p>Ranges and Worksheets will be introduced next. These objects are what will allow you to read and manipulate your Excel data from your VBA code. We will then move on to subs and functions. These will allow you to organize your code into small, cohesive pieces, making it easier to reason about complex tasks.</p>  <p>Finally, we will end the course with a simple, practical exercise. We will take a list of phone numbers that are in inconsistent formats, and write some code that will convert them into a standard format at the press of a button. </p>", 
+    "end_date": null, 
+    "title": "Become an Excel VBA Expert for Beginners", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/652950_6a6a.jpg", 
+    "course_url": "https://www.udemy.com/become-an-excel-vba-expert-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-28T01:36:50Z"
+}

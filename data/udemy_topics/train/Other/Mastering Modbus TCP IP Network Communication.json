@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>If you deal with Automation and Process Control equipment, chances are that you are very familiar with terms like RS232, RS485, 4-20mA, DI, DO, AI and on and on. However, standards in Information Technology have been making their way into the fields of Automation and Process control. Modbus falls into that category as well. </p><p>Modbus has traditionally been used on RS485 networks. However, Modbus TCP/IP has gained in popularity and is being implemented more and more. Here is where the challenge exists. As a tech or engineer in the automation field, in order to implement, maintain and troubleshoot Modbus TCP/IP networks, you will need to know about certain technologies in the field of IT work. The latter can be a BIG challenge since the field of IT is so expansive and you don't have the time to learn all of it.</p><p><strong class=\"redactor-inline-converted\">That is what this course is for.</strong></p><p>In this course, I am going to take your <strong class=\"redactor-inline-converted\">existing knowledge of Modbus RTU</strong>, combine it with what you need to know from the <strong class=\"redactor-inline-converted\">world of IT</strong> and give you all that you need to <strong>build, maintain and troubleshoot Modbus TCP/IP networks</strong>. And I am going to do that in the shortest possible time and in the most practical way that I know</p>", 
+    "end_date": null, 
+    "title": "Mastering Modbus TCP/IP Network Communication", 
+    "price": "50.00", 
+    "instructors": "Emile Ackbarali", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/854042_5143_3.jpg", 
+    "course_url": "https://www.udemy.com/mastering-modbus-tcpip-network-communication/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-19T14:10:08Z"
+}

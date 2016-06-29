@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tThank you for visiting <strong style=\"\">First commercial site with django.</strong>  </p>  <div style=\"\">  \t<p>  \t\tIn this lesson, You can learn how to use <strong style=\"\">Mac terminal</strong>. If you want to create web site or web application, sometimes you have to use terminal. In this lesson, we will teach basic important commands of terminal. And you can also learn some basic syntax of <strong style=\"\">Python</strong>.  \t</p>  \t<p>  \t\tAfter you learn some basic knowledges, let create <strong style=\"\">your first commercial site with django</strong>! In this lesson we will create a fictional website of beauty salon. You are able to learn how to create simple booking system. And also you can create a photo gallery to show your some products. Take it easy! Enjoy learning!  \t</p>  </div>", 
+    "end_date": null, 
+    "title": "First commercial site with django", 
+    "price": "20.00", 
+    "instructors": "Takafumi Kawai", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/238142_f7c7_2.jpg", 
+    "course_url": "https://www.udemy.com/first-commercial-site-with-django/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-06T02:02:36Z"
+}

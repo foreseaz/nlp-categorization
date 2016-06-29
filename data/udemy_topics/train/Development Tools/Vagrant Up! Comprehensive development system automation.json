@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Vagrant UP  </p><p>  \t             This is a comprehensive course designed to show how to setup local development environments using Vagrant and related tools.  </p><p><strong>Just Updated</strong>: May 25, 2015! New bonus section added (Chef Solo).</p>  Course Outline  <p>  \t<strong>Introduction</strong> provides an overview for the course, cover the core concepts for Vagrant, how to get the course materials.  </p>  <p>  \t<strong>Installation</strong> provides step-by-step instructions on how to setup Vagrant, VirtualBox, and other tools needed for the rest  of the course on both Windows and Mac platforms.  </p>  <p>  \t<strong>Getting Started</strong> walks through the basics of using Vagrant and how to version control (using Git) a project using Vagrant.  </p>  <p>  \t<strong>Boxes</strong> covers how to find, manage and use Vagrant boxes.  </p>  <p>  \t<strong>Plugins</strong> walks through finding, using and managing plugins in Vagrant in order to extend Vagrant's functionality.  </p>  <p>  \t<strong>Provisioning</strong> covers how to write file and shell provisioners to automatically install software when Vagrant first runs or on demand. After learning the basics of provisioning, this section ends with a full-fledged LAMP-stack provisioned.  </p>  <p>  \t<strong>Multiple Virtual Machines</strong> walks through using Vagrant with a multiple VM configuration, when we dissect the LAMP stack in the  previous section and create two virtual machine definitions within one configuration file.  </p>  <p>  \t<strong>Conclusion</strong> has some final thoughts on Vagrant and provides links to resources for additional learning.  </p>  <p>  \t<strong>Bonus!</strong> sections feature advanced topics like creating custom Vagrant boxes and using the Chef Solo provisioner.</p>  Course Features  <p>  \t<strong>Presentations</strong> provide audio/video training of conceptual ideas in each major area or introduction of new concepts.  </p>  <p>  \t<strong>Screencasts</strong> provide a video of the instructor's computer system with any actions, commands, or screens displayed and narrated. There are several hours of screencat video content -- it makes up the vast majority of the course. Any <strong>command line</strong> based screencast will include  a command listing in the lecture downloads.  </p>  <p>  \t             Several <strong>attachments</strong> throughout the course provide supplemental information, illustrations, or other reference material.  </p>", 
+    "end_date": null, 
+    "title": "Vagrant Up! Comprehensive development system automation", 
+    "price": "25.00", 
+    "instructors": "Jason Taylor", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/298108_3f58_3.jpg", 
+    "course_url": "https://www.udemy.com/vagrant-up/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-11T03:09:38Z"
+}

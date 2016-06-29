@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Apache Spark is a fast cluster computing framework. It is used for large scale data processing. Our course provides an introduction to this amazing technology and you will learn to use Apache spark for big data projects. This introductory course is simple to follow and will lay the foundation for big data and parallel computing. The technology based on in memory primitives makes it almost 100 times faster than Hadoop and Mapreduce. </p><p style=\"\">The following content is covered in the course</p><p style=\"\"><strong style=\"\">- Apache Spark Applications</strong></p><p style=\"\"><strong style=\"\">- Machine Learning and Graph X</strong></p><p style=\"\"><strong style=\"\">- Run time modes like Yarn Cluster and Mesos Cluster</strong></p><p style=\"\"><strong style=\"\">- Learn to setup HortonWorks VM</strong></p><p style=\"\"><strong style=\"\">- Introduction to Spark Scala API</strong></p><p style=\"\"><strong style=\"\">- Execute Apache Spark Tasks</strong></p><p style=\"\"><strong style=\"\">- Configuring Apache Spark</strong></p><p style=\"\"><strong style=\"\">- Building and Running Spark Applications</strong></p><p style=\"\"><strong style=\"\">- Write Spark applications for visualization, machine learning, streaming SQL</strong></p><p style=\"\"><strong style=\"\">- Resilient Distributed datasets</strong></p><p style=\"\"><strong style=\"\">- Application Submission and Spark Driver</strong></p><p style=\"\"><strong style=\"\">- Lambda Architecture</strong></p><p style=\"\"><strong style=\"\">- Spark Streaming and Dstream</strong></p><p style=\"\">Learn all this and much more in this unique course with abundant practical tips and theoretical rigor to master Apache Spark.</p><p style=\"\"><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Learn Apache Spark from Scratch", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/475806_33bb_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-apache-spark-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-14T08:31:13Z"
+}

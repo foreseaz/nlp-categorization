@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>  \t          According to Machiavelli, “the introduction of a new order of things” is fraught with difficulty, risk, and uncertainty. He obviously was referencing Information Technology (IT) projects when he wrote this often-quoted statement in 1505. Getting effective, scoped, and well-expressed requirements statements goes a long way toward reducing the inherent uncertainty. Unfortunately, that alone is not enough. Business and Stakeholder Requirements define the business need in business terminology that all involved parties can understand, but the devil lies in the detail. Solution Providers (i.e., those responsible for building, buying, assembling, or configuring an IT application) need to know what the application has to do, what data it will deal with, and what qualities it has to possess to meet the business needs. In other words, they need functional and non-functional requirements at a level of detail that most subject matter experts can only provide when prompted and lead.  </p>  <p>  \t           Exposing Functional AND Non-Functional Requirements offers a tried-and-true approach for analyzing any set of requirements expressed in simple sentences. Applying the presented techniques will significantly improve the communication between those tasked with defining the need (aka “the one wearing the Business Analysis Hat”) and Solution Providers, thereby reducing the risk of misunderstandings.  </p>  <p>  \t           This course is the third and last in our series “How to Write Effective Requirements for IT Solutions” that will dramatically reduce the failure rate of projects suffering from poor requirements. Regardless of your job title or role, if you are tasked with communicating your future needs to others, this course will help.  It is interactive (includes exercises with instant feedback), instructionally designed (based on modern learning theory), and &quot;intellimated™&quot; (uses animated visuals with an accompanying audio track) to hold your interest and increase retention.  </p>", 
+    "end_date": null, 
+    "title": "Exposing Functional and Non-Functional Requirements", 
+    "price": "20.00", 
+    "instructors": "Tom and Angela Hathaway, Daniel Myers", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/288590_b264_5.jpg", 
+    "course_url": "https://www.udemy.com/identify-functional-and-non-functional-requirements/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Project Management"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-27T00:00:07Z"
+}

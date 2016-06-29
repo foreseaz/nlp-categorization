@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>\n\t     เรียนรู้การเขียนโปรแกรมโดยใช้ Yii Framework ซึ่งเป็น PHP Framework ที่กำลังได้รับความนิยม โดยมีการทำงานแบบ MVC ที่รวดเร็วมาก ทำให้การเขียนโปรแกรมทำระบบด้วย PHP นั้นมีความเป็นระบบระเบียบมากยิ่งขึ้นเหมาะสำหรับการทำงานเป็นทีม โดยมีการแยกส่วนของการออกแบบ User Interface และ ส่วนของ Business Logic ออกจากกัน ทำให้สามารถสร้างระบบที่มีโปรแกรมเมอร์ได้หลายคนได้ และยังมีความสะดวกรวดเร็วในการเขียนเพราะ Yii มี Gii Generator ที่สามารถ Generate Code สำหรับ CRUD ได้อย่างรวดเร็วอีกด้วย\n</p><p>\n\tสำหรับการทำงานของ Yii Framework นั้นจะเป็นแบบ MVC หรือ Model, View, Controller โดยมีการแบ่งการทำงานออกในส่วนของการออกแบบการติดต่อผู้ใช้ และส่วนของโปรแกรมออกจากกัน\n</p><p>การเรียนรู้รูปแบบการพัฒนา Web Application ในรูปแบบ Framework จะช่วยให้คุณสามารถพัฒนา Project Web Application ของคุณได้อย่างรวดเร็วมากยิ่งขึ้น</p>", 
+    "end_date": null, 
+    "title": "Basic Yii Framework สำหรับผู้เริ่มต้น", 
+    "price": 0, 
+    "instructors": "Manop Kongoon", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/179270_eaed_2.jpg", 
+    "course_url": "https://www.udemy.com/basic-yii-framework/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-09T06:54:46Z"
+}

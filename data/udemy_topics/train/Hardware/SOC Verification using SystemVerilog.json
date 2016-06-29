@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t            This course introduces the concepts of System on Chip Design Verification with emphasis on Functional Verification flows and methodologies. The course also teaches how to code in SystemVerilog language - which is the  most popular Hardware Description Language used for SOC design and verification in semiconductor industry.  The course is organised into multiple sections and each uses short video lectures to explain the concepts. After every few other lectures -lab exercises are provided and students will be guided to practically code, simulate and verify using a free browser based Simulator and Waveform viewer. Quizzes are also added to test the students knowledge and progress.  </p>  <p style=\"\">  \t    Part 2 of the course covering  advanced and industry standard verification methodologies like OVM//UVM will follow based on feedback on this course  </p>", 
+    "end_date": null, 
+    "title": "SOC Verification using SystemVerilog", 
+    "price": 0, 
+    "instructors": "Ramdas Mozhikunnath M", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/156022_a428_6.jpg", 
+    "course_url": "https://www.udemy.com/soc-verification-systemverilog/", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-31T17:26:55Z"
+}

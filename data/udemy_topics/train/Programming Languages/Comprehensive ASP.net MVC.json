@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t Comprehensive ASP.NET MVC is an introduction to Microsoft’s ASP.NET MVC web development framework. Assuming no knowledge of ASP.NET or ASP.NET MVC, we will create a data-driven blog engine from scratch. This 14 hour series is all you need to get started quickly with building real, production-ready, web applications using Microsoft’s .NET framework.  </p>  <h5 style=\"\">Why learn ASP.NET MVC?</h5>  <p style=\"\">  \t ASP.NET MVC is one of the most popular web development frameworks today. It is built and maintained by Microsoft, and provides us with a lean, modern environment for making our web development projects a reality. In addition, the tooling support from Visual Studio is second to none.  </p>  <p style=\"\">  \t Finally, ASP.NET MVC allows us to develop web applications using any .NET language. We will be using the expressive, powerful, and modern language C#. Although there are other web development frameworks available for .NET, ASP.NET MVC is a first class citizen in the .NET ecosystem - giving it a powerful edge over alternatives.  </p>  <h5 style=\"\">What will we build?</h5>  <p style=\"\">  \t This series is organized in a project-focused manner. We will build up a simple blog engine that supports users, roles, posts and tags.  </p>  <p style=\"\">  \t The straightforward and well understood nature of a product like this allows us to focus on what matters: ASP.NET MVC. Building a complete, production-ready product from scratch makes our content much more interesting and fluid, and, above all else: practical.  </p>  <h5 style=\"\">What will you learn in this series?</h5>  <p style=\"\">  \t This series goes over the most important features of ASP.NET MVC: routing, areas, asset bundling, controllers, the Razor view engine, data binding and validation. We also will be using the mature and very powerful nHibernate OR/M to access our database; and the Fluent Migrator database migration framework to version our database schema in source control. In this series we also take a look at security issues - from CSRF and XSS attacks, to making sure our errors aren’t displayed to our customers.  </p>  <p style=\"\">  \t Although this is not a frontend web development series, we will be using both jQuery and Bootstrap 3 to substantially speed up our development and provide a modern, sleek, user interface for our product. The foundation we lay can serve as a launching point for your own design needs.  </p>  <p style=\"\">  \t If that isn't enough, we also take a look at deployment to a real Windows server. In addition to configuring IIS and showing how to run our migrations to populate its schema - we introduce Web Deploy. Web Deploy is a product that allows us to publish our web application right from inside of Visual Studio (or even a command line tool if you wish to integrate this with your Continuous Integration server). We install Web Deploy on the Windows server, show some common pitfalls and get everything up and running from inside of Visual Studio.  </p>  <h5 style=\"\">What do you need to follow this series?</h5>  <p style=\"\">  \t All code in this series can be written using the free express editions of Visual Studio 2012 or later. The deployment process outlined in this series can be applied to Windows Server 2012 - but can also be used with normal, desktop versions of Windows for development purposes.  </p>  <p style=\"\">  \t We will also be using MySQL as our database. In addition, to manage our database, we use the free MySQL Workbench product that is available via the same MySQL installer that includes the database itself. We assume that Visual Studio, MySQL and MySQL workbench are installed on your machine.  </p>  <p style=\"\">  \t We also assume an understanding of C# up to basic object orientation. We won’t be using any advanced features of the language, except for our limited use of LINQ to query our database.  </p>", 
+    "end_date": null, 
+    "title": "Comprehensive ASP.net MVC", 
+    "price": "30.00", 
+    "instructors": "3D BUZZ Programming and Digital Art training", 
+    "commitment": "14 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/106856_0edc_5.jpg", 
+    "course_url": "https://www.udemy.com/comprehensive-aspnet-mvc/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-16T20:43:33Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Electrical Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course is an introduction to amplifiers using transistors. Students will be introduced to MOS transistors, their characteristics, techniques for biasing them, and amplifiers using them. The basic transistor amplifier stages are seen as realizations of different controlled sources using negative feedback. Small- and large-signal characteristics of each amplifier will be discussed. At the end of this course, students should be able to recognize and analyze the basic amplifiers and biasing arrangements using MOS or bipolar transistors.\n\n                                    ", 
+    "end_date": "2015-08-26T00:00:00Z", 
+    "title": "Analog Circuits", 
+    "price": 0, 
+    "instructors": "Nagendra Krishnapura", 
+    "institution_name": [
+        "IIT ( Indian Institute of Technology Madras)"
+    ], 
+    "commitment": "2-3 hours", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://onlinecourses.nptel.ac.in/noc15_ee02/preview", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "NPTEL"
+    ], 
+    "start_date": "2015-07-01T00:00:00Z"
+}

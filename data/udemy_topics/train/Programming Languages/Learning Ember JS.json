@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  This hands-on course will walk you through the entire process of creating a single-page interactive web app using Ember JS. Throughout the course, you will be working on building a functional grocery shopping list app. This course is designed for users who have experience with HTML, CSS, and JavaScript, although no experience with Ember JS is needed.  </p>  <p>  \t<br style=\"\">  \t  You&#039;ll start by learning about the concepts for making the app, including setting up the wireframe, then jump into learning the basic styles for creating and displaying categories. From there, Jason will teach you how to build the model for categories and create category pages. This video tutorial will also cover creating and displaying items, and how to work with categories. Finally, you will learn how to delete and edit items and categories. <br style=\"\">  \t<br style=\"\">  \t  Once you have completed this training, you will be fully capable of using Ember JS to create your own ambitious apps.  </p>", 
+    "end_date": null, 
+    "title": "Learning Ember JS", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/392412_891c_5.jpg", 
+    "course_url": "https://www.udemy.com/learning-ember-js/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-12T20:44:09Z"
+}

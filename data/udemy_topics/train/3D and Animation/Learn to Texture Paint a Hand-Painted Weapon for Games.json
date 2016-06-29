@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>During this course we will utilize a combination of Maya and Photoshop to  take a concept for a stylized weapon and translate that into a fully realized  low poly hand painted asset for use within a videogame environment.  We'll start by briefly analyzing the  concept, deciphering the different elements which will make up the model, and  then from there, give ourselves some realistic constraints to adhere to. By  utilizing the default set of tools available in Maya we will create a low poly  mesh which maintains the character of the concept and move on to assign it a  UV unwrap of which will be easy to read and more user friendly paint in  Photoshop.  We'll also take a look at  some of the process and techniques used to create the texture map being sure  to replicate the crafted look of the concept. Tools such as clipping masks,  Variations and Dilation will be utilized to help keep our texture easy to  maintain and looking neat for potential future revisions. Throughout the  creation process we'll also touch upon how things relate to a production  environment whilst also pointing out any areas which are likely to generate  the need for some problem solving.</p><p><strong>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</strong></p><p>More about the Instructor:</p><p>Lance Wilkinson a  freelance/contract character artist in the games industry, based in  Manchester, UK and a graduate of the University of Bolton on 2013. Previously having worked for TT games and Cloud Imperium on titles such as LEGO Batman 3, LEGO  Jurassic World and Star Citizen, he also recently contributed to the upcoming  Walking Dead game from Overkill as well as indie titles such as GRAV and APT. Lance is currently fulfilling a contract for Rebellion Developments on their yet  unannounced title.</p>", 
+    "end_date": null, 
+    "title": "Learn to Texture Paint a Hand-Painted Weapon for Games", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/711212_4f64.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-learn-to-texture-paint-a-hand-painted-weapon-for-games/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-30T21:46:32Z"
+}

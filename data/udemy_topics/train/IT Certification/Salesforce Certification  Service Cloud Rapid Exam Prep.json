@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course will help you to pass the <strong>Service Cloud Consultant </strong>Salesforce Certification exam. <strong>Prepare to be challenged</strong> by 40 sample test questions with video explanations of the correct and incorrect answers.  These questions are designed to be tougher than the real exam, so once you master these questions, you can take the real exam with confidence.</p><p><strong>Take this course if:</strong></p><ol><li>You are preparing for the Salesforce Service Cloud Certification Exam</li><li><span></span>You want to save study time and only focus on areas where you need help</li><li>You want to prep with an instructor who wrote and edited questions <strong>on the actual exam</strong></li></ol><p><strong><br></strong></p><p><strong>Prerequisites:</strong></p><ul><li>Salesforce Administrator Certification - Required to get the certification and to understand this course</li><li>Understanding of Salesforce terminology - If you don't know what a workflow rule is, you are not ready for this course.</li><li>Some experience configuring Service Cloud functionality and familiarity with features</li></ul><p><br></p><p><strong>Course Format:</strong></p><p>This course is organized to match the Salesforce-published exam study guide.  We walk through sample questions grouped by each of the topic areas in the study guide:<br></p><ol><li>Industry Knowledge</li><li>Case Management</li><li>Solution Design</li><li>Interaction Channels</li><li>Knowledge Management</li><li>Implementation Strategy</li><li>Contact Center Analytics</li><li>Integration and Data Management</li></ol><p><br></p>", 
+    "end_date": null, 
+    "title": "Salesforce Certification: Service Cloud Rapid Exam Prep", 
+    "price": "30.00", 
+    "instructors": "Bobby Buntin", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/593202_423c_7.jpg", 
+    "course_url": "https://www.udemy.com/salesforce-certification-service-cloud-rapid-exam-prep/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-25T18:16:17Z"
+}

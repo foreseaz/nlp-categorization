@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t This course focuses on how to record and re-use Macros in Excel without programming skills. You’ll learn to work in Excel’s Developer Tab and learn where macros are stored. You look at the differences between absolute and relative macros and how to move macros between workbooks.  </p>", 
+    "end_date": null, 
+    "title": "Microsoft Excel - Recording Macros", 
+    "price": "20.00", 
+    "instructors": "eLearnExcel", 
+    "commitment": "44 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/93488_b872_6.jpg", 
+    "course_url": "https://www.udemy.com/microsoft-excel-recording-macros/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-17T11:04:55Z"
+}

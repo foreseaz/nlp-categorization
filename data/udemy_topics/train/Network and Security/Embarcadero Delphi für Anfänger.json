@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Sie sind Programmieranfänger? Sie kennen Delphi nur namentlich, wissen aber nicht, damit umzugehen? Sie müssen vielleicht sogar beruflich Delphi anwenden, finden aber nicht den Einstieg?</p><p>Hier ist Ihre Rettung! Ich erkläre Ihnen den Anfang der Erstellung eines kompletten, netzwerktauglichen Programms, wie man mit der IDE von Delphi umgeht und wie man Prozeduren und Funktionen erstellt. Sie erfahren, was \"netzwerktauglich\" bedeutet, was Events sind, wie man Messages behandelt und wie man einem Benutzer des eigenen Programms die Bedienung möglichst einfach macht.</p><p>\"Benutzerfreundlich\" und \"netzwerktauglich\" stehen bei Ihnen an erster Stelle, Sie wissen aber nicht, wie man es umsetzt? Kein Problem, nachdem Sie diesen Kurs absolviert haben.</p><p>Sie befürchten, dass Sie zwar lernen, dieses Projekt zu erstellen, sind aber der Meinung, anschließend keine Hilfe für das eigene Projekt zu finden? Auch kein Problem. So weit es mir möglich ist, gebe ich gern Tipps und helfe weiter.</p><p>Sie brauchen für diesen Kurs lediglich mindestens Delphi 7 Professional. Alles Andere können Sie entweder aus dem Internet herunterladen oder im Kurs erhalten.</p><p>Wir beginnen bei Level 0. Absolutes Nicht-Wissen ist gefragt. Ich werde die IDE erklären und Schritt für Schritt zeigen, wie man ein Programm entwickelt. Ich zeige, welche sichtbaren und unsichtbaren Objekte für unser Projekt notwendig sind, wie man sie positioniert und wie man sie anspricht.</p><p>Anschließend werden wir eine Datenbank inklusive dazugehörendem Index designen, und ich zeige, wie das Programm diese Datenbank selbst erstellt und die Indizes aufbaut.</p><p>Sie werden nach \"Embarcadero Delphi für Anfänger\" in der Lage sein, Delphi zu bedienen, netzwerktauglichen Quellcode zu schreiben, Fehler zu finden und geschwindigkeitsoptimierte Funktionen und Prozeduren zu erstellen. Sie werden verstehen, was Objekte sind, wie sie miteinander kommunizieren, wie man netzwerktauglich programmiert und wie man schwere Fehler abfängt.</p><p>Sie werden ein komplett lauffähiges, netzwerkfähiges Vokabelabfrageprogramm programmiert haben, das Sie Vokabeln, Sätze, Phrasen und Konjugationen abfragt sowie Fremddaten importiert. Ganz nebenbei werden Sie durch dieses Programm nicht nur das Programmieren lernen, sondern auch noch eine Fremdsprache.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Embarcadero Delphi für Anfänger", 
+    "price": "20.00", 
+    "instructors": "Delphi-Programmierung André Schaberick", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/735854_db86_5.jpg", 
+    "course_url": "https://www.udemy.com/embarcadero-delphi-fuer-anfaenger/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-20T18:21:18Z"
+}

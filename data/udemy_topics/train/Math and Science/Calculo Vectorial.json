@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>  \t En este curso aprenderemos los siguientes temas,  </p>  <ul style=\"\">  \t<li>Campos vectoriales. Gradiente.</li>  \t<li>Integrales de l&iacute;nea. </li>  \t<li>Teorema fundamental de las integrales de l&iacute;nea. Independencia de la trayectoria.</li>  \t<li>Teorema de Green.</li>  \t<li>Rotacional y divergencia.</li>  \t<li>Superficies param&eacute;tricas y sus &aacute;reas. </li>  \t<li>Integrales de superficie. </li>  \t<li>Integrales de superficie sobre campos vectoriales. </li>  \t<li>Integrales de flujo.</li>  \t<li>Teorema de Stokes.</li>  \t<li>Teorema de divergencia.</li>  </ul>  <p>  \t El curso esta todo en v&iacute;deos muy ilustrativos.  </p>", 
+    "end_date": null, 
+    "title": "Calculo Vectorial", 
+    "price": "20.00", 
+    "instructors": "Carlos Zelada", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/126128_9261_5.jpg", 
+    "course_url": "https://www.udemy.com/calculo-vectorial-practico/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-27T15:51:49Z"
+}

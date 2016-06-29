@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this Web App Optimization with JavaScript training course, expert author Alex Vanston teaches you how to improve the performance and user experience of web apps with JavaScript. This course is designed for users that are already familiar with creating web applications.</p><p>You will start by learning about raw speed, then jump into learning about browser flow, including understanding the paint cycle and DOM manipulation. From there, Alex will teach you user experience enhancements, such as preloading, incremental updates, and utilizing local storage. Finally, you will learn about mobile enhancements, including mobile debugging and benchmarking, conditional assets, and handling low quality networks. </p><p>Once you have completed this computer based training course, you will have learned how to improve the performance and user experience of your products. </p>", 
+    "end_date": null, 
+    "title": "Web App Optimization with JavaScript", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/795106_7533_4.jpg", 
+    "course_url": "https://www.udemy.com/web-app-optimization-with-javascript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-16T20:47:25Z"
+}

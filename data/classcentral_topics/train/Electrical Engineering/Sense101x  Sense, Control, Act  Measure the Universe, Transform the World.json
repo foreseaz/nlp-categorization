@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Electrical Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course will journey through sensor physics, electronic instrumentation, signal processing, and basic control strategies. A wide variety of applications will be presented and the common underlying principles of sensing, signal processing and control will be the key learning areas. \n\nA series of design &amp; build activities is a key part of this course. To complete the “build” aspects of these activities, you will need an electronics kit.  Although the kit is not essential to complete the course, it will allow you to reinforce what you learn in the videos by direct application. Details of the kit are available here.\n\n                                    ", 
+    "end_date": "2015-05-27T00:00:00Z", 
+    "title": "Sense101x: Sense, Control, Act: Measure the Universe, Transform the World", 
+    "price": 0, 
+    "instructors": "Michael Kearney, Stephen Wilson and Surya Singh", 
+    "institution_name": [
+        "University of Queensland"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://www.edx.org/course/sense-control-act-measure-universe-uqx-sense101x", 
+    "duration": "7 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2015-04-08T00:00:00Z"
+}

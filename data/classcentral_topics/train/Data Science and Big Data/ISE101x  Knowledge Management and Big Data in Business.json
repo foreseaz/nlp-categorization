@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    The business landscape is changing so rapidly that traditional management, business and computing courses do not meet the needs for the next generation of workers in the business world. Most traditional methods are of a repetitive, rule-based nature and will be gradually replaced by Artificial Intelligence. In the knowledge era, the most value added job will be to manage knowledge, which includes how knowledge is created, mined, processed, shared and reused in different trades and industry. At the same time, the amount of data and information (prerequisites of knowledge) is exploding exponentially. By 2020, IDC projects that the size of the digital universe will reach 40 zetabytes from all sources including, websites, weblog, sensors, and social media. Big data will transform how we live, work and even think. These trends and more will have a profound effect on how we see the world and create policies. In this course, the following topics are covered:\n\nWhat is knowledge management?\n\tHow is knowledge captured, elicited, organized and created in business?\n\tWhat is big data and how can we use data analytics from a laymen perspective?\n\tWhat is Open Linked Data and how can it support machine reasoning?\n\tWhat defines the era of Science 2.0?\n\tHow can new knowledge be mined from big data?\n\tWhat are the technical and social problems with big data?\n\tWhat is cloud computing and cloud services?\n\tWhat are examples of applications and case studies?\nThe course is offered by the Knowledge Management and Innovation Research Center (KMIRC) of the Hong Kong Polytechnic University. Most of our research is company and industry based. Capabilities and competencies of the KMIRC are further strengthened by the international alliances it has formed with leading practitioners, many of which are regarded as members of the \"Hall of Fame\" in knowledge management, and renowned worldwide. The course is suitable for participants with a background in humanities, management, social science, physical science or engineering. No prior technical background is needed.\n\n                                    ", 
+    "end_date": "2016-10-18T00:00:00Z", 
+    "title": "ISE101x: Knowledge Management and Big Data in Business", 
+    "price": 0, 
+    "instructors": "Usama Fayyad, Klaus Tochtermann, W.B. Lee and Eric Tsui", 
+    "institution_name": [
+        "Hong Kong Polytechnic University"
+    ], 
+    "commitment": "4-6 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/knowledge-management-big-data-business-hkpolyux-ise101x-1", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-09-06T00:00:00Z"
+}

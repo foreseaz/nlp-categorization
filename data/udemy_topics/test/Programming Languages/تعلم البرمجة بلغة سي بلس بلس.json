@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">هذا المقرر يغطي أساسيات لغات البرمجة مع تطبيقات على لغة السي بلس بلس ، في هذا المقرر لا أفترض اي معرفة سابقة لدى الطالب بأي لغة برمجة حيث أبدأ من الصفر والتدرج مع الطالب نحو طرق حل المشكلات ، يمكن تطبيق نفس المبادئ على أي لغة برمجة أخرى ، أنا أعتبر هذه الدورة مثل نقطة البداية يمكن بعدها الدخول على أي لغة أخرى لأن لغة سي تعتبر أساس لكثير من اللغات الأخرى.</p><p style=\"\">ستكون إن شاء الله بأييدي أمينة مع الدكتور عبدالله المطوع حيث هو متخصص في تدريس لغات البرمجة وهو استاذ جامعي درس هذه المادة أكثر من 40 مرة<br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "تعلم البرمجة بلغة سي بلس بلس", 
+    "price": 0, 
+    "instructors": "Abdullah Mutawa", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/472208_4abc_2.jpg", 
+    "course_url": "https://www.udemy.com/cplusplus/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-09T20:38:35Z"
+}

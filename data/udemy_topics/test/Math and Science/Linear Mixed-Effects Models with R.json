@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p><span><strong><em>Linear Mixed-Effects Models with R</em> </strong>is a 7-session course that teaches the requisite knowledge and skills necessary to fit, interpret and evaluate the estimated parameters of linear mixed-effects models using R software. Alternatively referred to as <em>nested</em>, <em>hierarchical</em>, <em>longitudinal</em>, <em>repeated measures</em>, or <em>temporal </em>and <em>spatial pseudo-replications</em>, linear mixed-effects models are a form of least-squares model-fitting procedures. They are typically characterized by two (or more) sources of variance, and thus have multiple correlational structures among the predictor independent variables, which affect their estimated effects, or relationships, with the predicted dependent variables. These multiple sources of variance and correlational structures must be taken into account in estimating the \"fit\" and parameters for linear mixed-effects models.</span></p><p><span>The structure of mixed-effects models may be additive, or non-linear, or exponential or binomial, or assume various other ‘families’ of modeling relationships with the predicted variables. However, in this \"hands-on\" course, coverage is restricted to linear mixed-effects models, and especially, how to: (1) choose an appropriate linear model; (2) represent that model in R; (3) estimate the model; (4) compare (if needed), interpret and report the results; and (5) validate the model and the model assumptions. Additionally, the course explains the fitting of different correlational structures to both temporal, and spatial, pseudo-replicated models to appropriately adjust for the lack of independence among the error terms. The course does address the relevant statistical concepts, but mainly focuses on implementing mixed-effects models in R with ample R scripts, ‘real’ data sets, and live demonstrations. No prior experience with R is necessary to successfully complete the course as the first entire course section consists of a \"hands-on\" primer for executing statistical commands and scripts using R.</span></p>", 
+    "end_date": null, 
+    "title": "Linear Mixed-Effects Models with R", 
+    "price": "20.00", 
+    "instructors": "Geoffrey Hubona, Ph.D.", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/591852_098f_3.jpg", 
+    "course_url": "https://www.udemy.com/linear-mixed-effects-models-with-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-24T13:42:39Z"
+}

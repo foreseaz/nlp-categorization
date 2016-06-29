@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \tThe objective of this Oracle 11g training course is to provide an introduction to develop database server-side PL/SQL program units within an Oracle database. The areas covered include understanding the basic form and structure of program units stored within the database, building and maintaining stored procedures, functions, packaged programs, and database triggers.  Additional topics include taking advantage of advanced programming techniques such as cursor variables and cursor expressions.  This Oracle 11g course will prepare students for the Oracle certification exams (OCP).  </p>", 
+    "end_date": null, 
+    "title": "Oracle 11g PL/SQL Fundamentals II", 
+    "price": "30.00", 
+    "instructors": "CompuWorks Trainers", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/126134_5078_7.jpg", 
+    "course_url": "https://www.udemy.com/cworacle-11g-plsql-fundamentals-ii/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-27T16:12:10Z"
+}

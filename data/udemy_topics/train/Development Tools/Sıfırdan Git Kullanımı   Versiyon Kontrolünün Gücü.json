@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Kurs bitince cok buyuk projelerde versiyon kontrolu ile nasil korkmadan degisiklik yapabileceginizi nasil takim halinde calisabileceginizi ve branclarla calismanin gucunu ogreneceksiniz. Kurs suresince temelden hic bilmeyenler icin baslayacagiz ve degisik platformalrda (mac,windows,linux,bsd) git kurulumuna deginip git mantigini tamamen kavrayacagiz.</p><p>Ardindan ileri seviye git komutlarini ,git kullanim alanlarini,git ayarlarini ,git serverlarina baglanmayi ,git serverlarindan veri cekmeyi ,git serverlarina veri gondermeyi ,branching sistemini ve daha bir cok konuyu ogrenecegiz.</p><p>Ozetle kurs suresince git hakkinda 0dan baslayim her seyi ogrenmis olacagiz.</p>", 
+    "end_date": null, 
+    "title": "Sıfırdan Git Kullanımı : Versiyon Kontrolünün Gücü", 
+    "price": "20.00", 
+    "instructors": "nikos efthias", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/545434_fbf7.jpg", 
+    "course_url": "https://www.udemy.com/0dan-git/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-05T13:35:35Z"
+}

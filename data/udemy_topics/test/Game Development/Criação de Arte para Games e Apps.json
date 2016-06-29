@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    Esse é o <strong style=\"\">Curso de Criação de Arte para Games e Apps.</strong>  </p>  <p>  \t    Nesse Curso demonstro e explico<strong style=\"\"> </strong>o processo de criação de um <strong style=\"\">Sprite</strong><em style=\"\"> (uma ilustração para jogo)</em> em 3 estilos diferentes:  </p>  <ul style=\"\">  \t<li><strong style=\"\">Cell-Shaded/Visual de Vetor:</strong> um estilo que dá ênfase nas linhas, cores e sombreamento chapado.<br style=\"\">  \t</li>  \t<li><strong style=\"\">HD / Visual de Pintura:</strong>  àquele visual de pintura <em style=\"\">(painterly) </em>muito utilizado em jogos da Blizzard, Valve e Ilustrações Digitais.<br style=\"\">  \t</li>  \t<li><strong style=\"\">Pixel-Art: </strong>o método mais antigo e tradicional de criação de <em style=\"\">Sprites </em>que voltou com força total nos jogos da Appstore / Google Play Store.</li>  </ul>  <p>  \t<br style=\"\">  \t    Também apresento uma ferramenta inovadora para <strong style=\"\">animação 2D</strong>: a Spine da Esoteric Software. <br style=\"\">  \t    Ensino o <em style=\"\">workflow</em> básico e <strong style=\"\">faço</strong> um <em style=\"\">loop</em> de animação para mostrar como esse sistema de movimento por <em style=\"\">Bones </em>(ossos) funciona na prática.<br style=\"\">  \t<br style=\"\">  \t    Além do passo-a-passo na criação dos Sprites, sempre que um novo conceito ou idéia é abordada (Teoria de Cores, por exemplo), faço uma demonstração de como aplicar a teoria. <br style=\"\">  \t<br style=\"\">  \t    Enfim. Compilei em um <em style=\"\">workshop</em> <strong style=\"\">direto-ao-ponto</strong> o que sei sobre criação de arte para games. Do Rascunho à Animação, usando uma linguagem simples e sem foco algum em software específico.<br style=\"\">  \t<br style=\"\">  \t<strong style=\"\">    E claro. Tudo isso em Português. Do Brasil. :)</strong><br style=\"\">  \t<br style=\"\">  \t    Se você já desenha ou pinta no computador esse Curso vai servir como uma <strong style=\"\">excelente referência</strong> de como a produção de arte pra games é feita hoje em dia.<br style=\"\">  \t<br style=\"\">  \t    E se você está começando a se interessar pela área só agora ou é um Desenvolvedor que precisa<strong style=\"\"> conhecer todas etapas no processo de criação</strong>, esse Curso vai ser útil da mesma forma.<br style=\"\">  \t<br style=\"\">  \t    Espero -realmente- que gostem do curso.<br style=\"\">  \t<br style=\"\">  \t    Acompanhe os vídeos. Replique as idéias e Faça seus próprios Sprites...<br style=\"\">  \t    &quot;<em style=\"\">Conhecimento só cristaliza com Prática.&quot;</em><br style=\"\">  \t<br style=\"\">  \t    Vamos lá ?<br style=\"\">  \t<br style=\"\">  \t    - Dado<br style=\"\">  </p>", 
+    "end_date": null, 
+    "title": "Criação de Arte para Games e Apps", 
+    "price": "30.00", 
+    "instructors": "Tito Petri, Dado Almeida", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/354412_da2e_7.jpg", 
+    "course_url": "https://www.udemy.com/arteparagames/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-23T11:46:49Z"
+}

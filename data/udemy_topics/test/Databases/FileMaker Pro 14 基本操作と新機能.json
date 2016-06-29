@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>このコースでは、FileMaker Pro 14の基本的な使い方と、追加された新機能を学び、データベースの作り方を知ることができます。内容は「基本操作編」と「新機能編」に分かれており、ソフトの基本操作を十分に学んでから、今回のバージョンで追加された豊富な新機能を学ぶことができます。</p><p>FileMakerではデータベースのことをソリューションと呼び、本コースで作成するソリューションは、機材の貸出を管理するソリューションとなります。</p><p>●機材の貸出管理ソリューションを作成するストーリー<br>貸出NO・貸出日・返却日がカレンダーから選択できるようになっており、顧客NOをドロップダウンリストから選択すると、自動的に顧客名と担当者名が呼び出される仕組みです。そして、１件の票の中で、複数の貸出機材が登録でき、こちらも、機材NOをドロップダウンリストから選択すると、自動的に機材名と単価が入力される仕組みです。そして、数量を入力することで、小計と合計金額が更新される仕組みとなっています。</p><p>機材の追加は、iPadからも行えるようになっており、ボタンをタップして、カメラを起動して写真を追加できます。このようなソリューションの作成を通じて、FileMaker Pro 14の基本操作を学習します。</p>", 
+    "end_date": null, 
+    "title": "FileMaker Pro 14 基本操作と新機能", 
+    "price": "25.00", 
+    "instructors": "アテイン 株式会社", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/653264_7988.jpg", 
+    "course_url": "https://www.udemy.com/filemakerpro14/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-28T10:00:07Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong></strong><strong></strong>In this course you will learn how to install WordPress on various platforms such as windows Linux and a mac.  </p><p>This course is divided into two sections, the first section is about installing WordPress on Windows and in the second section we will cover how to install WordPress on Linux and mac.</p>  <p>We will not only be learning how to install WordPress we will also see how you can install themes and plugins to your locally hosted wordpress site.</p>  <p>We will see what problems might arise with local servers and WordPress and we will look at ways to troubleshoot them.</p>  <p>Lastly we will take a look at how to backup you locally installed wordpress site so you do not lose your data.</p><p><strong>Course Topics</strong></p><ul><li><strong></strong>Installing WAMP and XAMPP</li><li>Installing WordPress</li><li>Installing Plugins and Themes</li><li>Problems and Troubleshoot</li><li>Backing Up WordPress</li><li>Restoring BackUp</li></ul><p><br></p><p><strong>What will you learn from this course ?</strong></p>  <ul><li>This course covers how you can install WordPress on your computer, be it Windows, Mac or Linux. </li></ul>  <ul><li>After taking this course you will be able to install WordPress locally on your computer. </li></ul>  <ul><li>You will also learn about some of the possible problems that might come with a local install of WordPress and ways to troubleshoot them.</li></ul>  <ul><li>You will also see how to Back-Up a local install of WordPress and how to Restore the Back-Up.</li></ul>  <ul><li>We will be using two of the most popular local server software to install wordpress, We will use WAMP for windows and XAMPP for windows mac and Linux</li></ul><p><br></p>Note: I will be using Windows for the entire course but if you are using Mac or Linux you would be able to follow along just fine.", 
+    "end_date": null, 
+    "title": "Installing WordPress Locally For Windows / Mac / Linux", 
+    "price": "25.00", 
+    "instructors": "pointDeveloper .com", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/646726_edfa.jpg", 
+    "course_url": "https://www.udemy.com/installing-wordpress-locally-for-windows-mac-linux/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-21T12:34:17Z"
+}

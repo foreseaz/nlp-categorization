@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t  This course is about managing a LAMP server using Amazon Web Services.  </p>  <p>  \t        It is a step-by-step guide to install Linux, Apache, PHP, MySQL and more stuff on Amazon Web Services EC2 instance  </p>  <p>  \t      The course is even suitable for a novice who has little or no experience using Amazon Web Services.<br style=\"\">  \t      The course contains all the examples which have been shown in the lectures to help you manage your linux server easily and efficiently  </p>", 
+    "end_date": null, 
+    "title": "Amazon Web Services - LAMP Setup - Step By Step", 
+    "price": "20.00", 
+    "instructors": "SkillBakery Studio", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/133236_6e52_6.jpg", 
+    "course_url": "https://www.udemy.com/amazon-web-services-lamp-setup-step-by-step/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-13T18:07:01Z"
+}

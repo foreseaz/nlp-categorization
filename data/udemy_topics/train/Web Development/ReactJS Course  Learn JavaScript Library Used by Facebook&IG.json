@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Stop struggling to code front-end the hard way. React is performing fast DOM manipulations and is easy to learn. No more events attached to the DOM elements. Just declare in React and it will do the necessary manipulations for you (declarative style).</p><p>This course is designed for web developers who are familiar with JavaScript and interested in using React as a view layer for their front-end web apps.</p><p><strong style=\"\">Warning: React by Facebook is Taking Over The World</strong></p><p>I stumbled upon some guy from Zurich, Switzerland who was arguing that you <strong style=\"\">don&#039;t need MVC (model, view, controller) with Reactjs</strong>. </p><p>What? </p><p>I love controversial topics! How refreshing to hear such a brave opinion after almost a decade of MVC-domitaion.</p><p>Anyway, I really <em style=\"\">suck at Angular. </em></p><p>It&#039;s just weird to me to use directives in HTML. </p><p>It&#039;s almost like using HTML to code JavaScript. </p><p>I never got used to it. At the same time, I keep hearing good things about React.</p><p>That&#039;s why I had this idea of learning myself and teaching you Reactjs (with this course). </p><p>I used the same approach 4 years ago when I wrote my first book on Nodejs. </p><p>It became Amazon #1 Best Seller in the Client-Server category and helped a few thousand engineers.</p><p><strong style=\"\">7 Ways To ROCK With Reactjs</strong></p><p>Reactjs is a JavaScript library. </p><p>It&#039;s used for creating user interfaces (UIs). </p><p>It&#039;s created and used by giants such as Facebook and Instagram. </p><p>Millions of people use apps built on Reactjs. </p><p>Think of Reactjs as the View in Model, View, Controller.</p><p>The difference between Backbonejs, Angularjs and Reactjs is that Reactjs creates its own virtual DOM (Document Object Model) for pages&#039; components. </p><p>You work with them, not the DOM. </p><p>This provides tremendous flexibility and awesome performance,</p><p>because Reactjs knows the needed changes beforehand and updates the DOM tree accordingly. </p><p>This allows to avoid unnecessary DOM operations and makes updates more effective.</p><p>Here are some of other advantages of Reactjs:</p><ul style=\"\"><li>Decoupling</li><li>Increased cohesion using a component model </li><li>Abstraction, </li><li>Composition</li><li>Expressivity </li><li>Virtual DOM &amp; Synthetic events (which basically means they completely re-implemented the DOM and its event system) </li><li>Enables modern HTML5 event stuff on IE 8 Server-side rendering Testability Bindings to SVG, VML, and &lt;canvas&gt;</li></ul><p><strong style=\"\">Only Wise People Can Qualify</strong></p><p>Smart people learn on their mistakes while wise learn on mistakes of others. Save time with this course...</p><p>I published nine books on JavaScript and Nodejs that have been downloaded or bought by over 10,000 developers. </p><p>In addition to that, I have <strong style=\"\">experience in online courses</strong>. </p><p>Three of my courses have over 2,000 students enrolled. </p><p>I&#039;m not bragging. </p><p>I&#039;m only making a point that I am capable of delivery once the demand is proven by the campaign. :-)</p><p>I worked with Backbonejs before. I&#039;m not an expert on Reactjs. I haven&#039;t build anything production-ready with it (yet). </p><p>This will give me the advantage of a beginner&#039;s mind. </p><p>That is I won&#039;t have the knowledge curse and will be able to explain everything in the layman&#039;s terms.</p><p>Join me on this journey and learn Reactjs by backing this campaign with $50. </p><p><strong style=\"\">High Performance JavaScript Without The Headache—Limited Time Offer</strong></p><p>The course will have at least 1 hour of HD video, and examples on the following topics:</p><ul style=\"\"><li>React custom components</li><li>Communication between React components</li><li>Integration of React with jQuery UI / Bootstrap components</li><li>React Router and routing in React </li><li>Rendering React on the server</li><li>React and server / mBaaS</li></ul><p><strong style=\"\">PS: Reactjs is hot, hot, hot. Learn it with me. Take this course and get the confidence in Reactjs that everyone will envy.</strong></p>", 
+    "end_date": null, 
+    "title": "ReactJS Course: Learn JavaScript Library Used by Facebook&IG", 
+    "price": "30.00", 
+    "instructors": "Azat Mardan", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/543346_b85d_2.jpg", 
+    "course_url": "https://www.udemy.com/react-js/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-02T17:45:43Z"
+}

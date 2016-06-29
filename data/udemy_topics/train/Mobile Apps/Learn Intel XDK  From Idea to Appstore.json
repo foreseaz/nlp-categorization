@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    Screens are big, apps are big, and life as we know it is on its head again. In a world that&#039;s increasingly social and open, mobile apps play a vital role, and have changed the focus from what&#039;s on the Web, to the apps on our mobile device. Mobile apps are no longer an option, they&#039;re an imperative. As the world is turning digital more and more manufacturers want a piece of this pie. You see a variety of hundreds of devices being launched by many manufacturers on various platforms. Just taking the different types of operating systems into account you have Android, iOS, Blackberry OS Symbian, Windows Phone in terms of market presence. Then you have a lot of new operating systems pooping up and getting a lot of feedback from the developer’s community like Firefox OS, Sailfish OS, Tizen, Ubuntu Touch, Bada OS, Web OS, MeeGo.  </p>  <p>  \t    This is just in terms of operating systems, don’t even get me started on the different hardware components you have for various devices. For a new developer it is hard to understand one platform leave alone so many, but the primary aim being that his application should be out there on as many devices as possible.  </p>  <p>  \t        Like Goldilocks, you may have to try a couple beds that are too soft or too hard, before you find the one that’s just right. And sometimes there’s just no perfect choice. Each development scenario has its pros and cons, and those might in be inline, or at odds, with your means. Unlike Goldilocks, there are no bears to contend with.  </p>  <p>  \t        You need a mobile app, but where do you start? Now obviously it not expected of you to start from scratch for every available platform out there. Instead you can just use I<strong style=\"\">ntel XDK, which is a cross-platform development suite which provides integrated approach for all your needs, end-to-end</strong>. You can start developing your distinctive and dynamic application on this platform using simple drag and drop tools. This application developed will inbred to mostly all the available platforms out there and run just as smoothly as native apps. The devices are becoming more and more powerful but hardly utilizing the resources it has got. <strong style=\"\">This tutorial series aims to kick-start your way into application development without any programming background</strong> as such and in less than one hour, yes you read it right within 60 minutes you will be able to design, develop and build your cross platform application, along with step by step instructions on how to build your application for various platform like iOS, Android, Windows Phone, Tizen, Nook, Amazon and also how you can convert your application into a WebApp for Chrome, Facebook or to run on your website.  </p>  <p>  \t<strong style=\"\"><em style=\"\">What will you learn in these 60 minutes?</em></strong>  </p>  <ul style=\"\">  \t<li>Installation of Work Environment</li>  \t<li>Editor</li>  \t<li>Emulation</li>  \t<li>Deployment</li>  </ul>  <p>  \t<strong style=\"\"><em style=\"\">This Course includes:</em></strong>  </p>  <ul style=\"\">  \t<li>Crisp 60 minutes of video tutorials</li>  \t<li>Project files</li>  \t<li>Quizzes to test your understanding</li>  </ul>  <ul style=\"\">  \t<p>  \t\t<strong style=\"\"></strong>  \t</p>  </ul>", 
+    "end_date": null, 
+    "title": "Learn Intel XDK: From Idea to Appstore", 
+    "price": "20.00", 
+    "instructors": "Yoda Learning", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/265458_d281_5.jpg", 
+    "course_url": "https://www.udemy.com/learn-intel-xdk/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-21T04:48:32Z"
+}

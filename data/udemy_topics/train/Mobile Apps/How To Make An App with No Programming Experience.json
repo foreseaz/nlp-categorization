@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Welcome!  </p>  <p>  \t  If you’re new to programming, you’ll soon discover that with a little practice, it’s not as hard as people make it out to be! You can definitely teach yourself how to code iPhone apps and before you know it, you’ll be submitting your own app into the App Store.  </p>  <p>  \t  You’ll be introduced to programming terminology, Swift code and iOS development basics one building block at a time. By the end of the following lessons, I guarantee that you’ll be surprised at how much you’ve been able to accomplish from scratch!  </p>  <p>  \tThis introductory course is broken up into two modules.  </p>  <p>  \tIn Module 1: Basics  </p>  <ul>  \t<li><span>You&#039;ll be introduced to Xcode 6 and all of the various other tools/resources we&#039;ll be using. </span></li>  \t<li>You&#039;ll learn all of the components that go into any iPhone app</li>  \t<li><span>You&#039;ll get your feet wet with writing Swift code</span></li>  \t<li><span>You&#039;ll build your first iPhone app!</span></li>  </ul>  <p>  \tIn Module 2: Art of war  </p>  <ul>  \t<li>You&#039;ll dive right into building a simple card game called War!</li>  \t<li>You&#039;ll learn Swift programming concepts</li>  \t<li>You&#039;ll learn how to use Auto Layout to build your user interface</li>  \t<li>You&#039;ll learn how to handle button taps in your app</li>  \t<li>You&#039;ll learn how to display images!</li>  \t<li>You&#039;ll add logic and write code to determine a winner</li>  \t<li>You&#039;ll learn how to use graphics and style the app</li>  </ul>  <p>  \tThe lessons are short and focus on being practical. If you&#039;re practicing what you learn on your own computer, you&#039;ll learn a lot faster so I highly recommend that you follow along!  </p>", 
+    "end_date": null, 
+    "title": "How To Make An App with No Programming Experience", 
+    "price": 0, 
+    "instructors": "Chris Ching", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/326514_becb_2.jpg", 
+    "course_url": "https://www.udemy.com/how-to-make-an-app/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-24T17:03:40Z"
+}

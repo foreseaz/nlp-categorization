@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong>Skill&amp;Training</strong>  </p>  <p>  \t            É muito fácil aprender a programar e com esse curso você aprenderá o significado das diversas expressões utilizadas na programação, como por exemplo, laços, matrizes,  funções, etc. <br>  \t                       A linguagem C serviu como base para desenvolver outras linguagens muito utilizadas hoje em dia como C++, Java, C# , Objective C, e muitas outras.  <br>  \t                       Neste curso você responderá a vários questionários no final de cada assunto abordado e saberá o quanto conseguiu absorver do que foi ensinado. Também poderá tirar dúvidas com o instrutor do curso e com outros alunos.  </p>  <p>  \t                           Assuntos abordados:  </p>  <ol>  \t<li>Constantes e variáveis</li>  \t<li>Ponteiros</li>  \t<li>Operadores</li>  \t<li>Laços (for, while, do-while)</li>  \t<li>Comandos de decisões (if , else, switch)</li>  \t<li>Estruturas (Struct e Union)</li>  \t<li>Funções</li>  \t<li>Matrizes e Strings</li>  \t<li>Operações com arquivos em disco</li>  \t<li>Pré-Processador / Macros</li>  </ol>", 
+    "end_date": null, 
+    "title": "Programação em C - Iniciante", 
+    "price": "20.00", 
+    "instructors": "Sr. Ezequiel A. Ribeiro", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/262816_36cb_6.jpg", 
+    "course_url": "https://www.udemy.com/curso-de-programacao-iniciante/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-16T19:39:51Z"
+}

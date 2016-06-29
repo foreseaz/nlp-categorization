@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t  UserForms is an advanced and powerful feature in Excel that allows for automation through the creation of Excel macros using VBA (Visual Basic for Applications). Userforms are custom forms that you can create to complement and interact with your worksheet, in some cases your userforms can completely replace interaction with your worksheet.  </p>  <p>  \t            With userforms you can create custom forms with fields where input values can be selected from a dropdown, or checkboxes, create command buttons etc. Such forms can be created for those who are not comfortable working on an Excel sheet thereby making their interaction with excel to the bare minimum.  </p>  <p>  \t            In this course, we take you through the various components that can be included in a custom form and most importantly we cover the various steps whereby you can ensure that data entered is always validated.  </p>  <p>  \t            Needless to say to take this course you need a good working knowledge of Excel and VBA macros. If you would like to brush up your Basic Excel and VBA skills you can take our course on Excel for Beginners to Intermediate and our Excel Automation course.  </p>", 
+    "end_date": null, 
+    "title": "Create your own App in Excel", 
+    "price": "20.00", 
+    "instructors": "ATI - Analytics Training Institute", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/151190_22cd_3.jpg", 
+    "course_url": "https://www.udemy.com/create-your-own-app-in-excel/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-23T06:49:45Z"
+}

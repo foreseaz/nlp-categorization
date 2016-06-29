@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">Learn how to create highly detailed and accurate 3D models with texture by means of <em style=\"\">Photogrammetry</em>, that is 2D images processed into 3D models.</p><p style=\"\"><strong style=\"\">Create accurate and high resolution models with ease with this course.</strong></p><ul style=\"\"><li style=\"\">Create highly detailed and accurate models of real world objects.</li><li style=\"\">Save time and effort by this new way of creating 3D-models.</li><li style=\"\">Generate high resolution textures for your model.</li></ul><p style=\"\"></p><p style=\"\">The benefit of using this method for creating a 3D model is that you will get highly accurate representations of a real world object when it comes to proportions and texture. With the right workflow and pipeline this method can potentially also save you much time in comparison to modelling and texturing manually. Several big production companies use this method for creating their 3D content for these reasons.</p><p style=\"\">After completing this course you will be able to create a 3D model with texture of your own using Agisoft PhotoScan. The same basic principals apply to other photography based photogrammetry software as well.</p><p style=\"\">This course is aimed towards those who have no prior experience working with photogrammetry or Agisoft PhotoScan. At the end of the course we will also briefly look at how you can approach retopologizing/decimating your model to fit your end needs, i.e. creating a version of the models with your desired about of polygons.</p><p style=\"\">The only prerequisite you will need for this course is a fairly capable computer running Windows, MacOS or Linux to participate. Preferably you also own or have access to a digital camera to work with your own unique projects, but you will get access to a few series of photos that you may use for learning purposes. Agisoft PhotoScan is available as a trial and a demo version for those who do not own the software yet or just want to try it out. These versions will work perfectly fine for this course*.</p><p style=\"\"><em style=\"\">* The demo version cannot export the results and therefor you cannot try out the retopology/decimation parts of this course with it.</em></p>", 
+    "end_date": null, 
+    "title": "Generate a 3D model from photos using Agisoft PhotoScan", 
+    "price": "20.00", 
+    "instructors": "TGA Digital", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/511574_0eaf_4.jpg", 
+    "course_url": "https://www.udemy.com/generate-a-3d-model-from-photos-using-agisoft-photoscan/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-26T07:39:56Z"
+}

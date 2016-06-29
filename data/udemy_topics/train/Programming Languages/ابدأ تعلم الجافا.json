@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>سلسلة ابدأ تعلم الجافا تستهدف كل المتعلمين العرب الراغبين في تعلم البرجمة بلغة الجافا، وخلالها ستتعلم الأساسيات الخاصة باللغة كالمخرجات والمدخلات والمتغيرات، <br><br>لا تشترط السلسلة أي خلفية سابقة في البرمجة بغلة الجافا ولا بغيرها من لغات البرمجة، ولذا دعونا فقط نبدأ تعلم الجافا.</p>", 
+    "end_date": null, 
+    "title": "ابدأ تعلم الجافا", 
+    "price": 0, 
+    "instructors": "Mousa Alhaddad", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/282480_07a1_3.jpg", 
+    "course_url": "https://www.udemy.com/start-learning-java/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-17T11:28:56Z"
+}

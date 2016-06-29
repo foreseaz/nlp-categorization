@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">As part of the user interface, it is important that data visualizations are context aware and should adjust according to screen size, media type, and other similar aspects. To tackle this, it is essential for web developers to ace at both D3 and responsive design using Bootstrap to make visualizations responsive across different viewing platforms. D3 is currently the go-to data visualization library, offering greater integration with web standards, and better customizability than other data visualization libraries available.</p><p style=\"\">This video course starts out by describing ways in which D3JS fits into existing web standards to provide data visualization solutions that can be easily integrated. After working through the basic flow of simple visualizations, we&#039;ll start adding features: tooltips, axes, and scales. We&#039;ll take a look at interactivity and transitions. Then we&#039;ll walk through the use of external data sources, including CSV, TSV, JSON, and GeoJSON, which will prepare us for more in-depth visualizations.</p><p style=\"\">Further on we&#039;ll tackle responsive design, covering all the basic concepts, and then work our way through a site mockup the old fashioned way, looking for breakpoints and using media queries to provide smooth screen size transitions. Our work with responsive design will then be applied to a number of our early data visualizations.</p><p style=\"\">We&#039;ll resume our focus on responsive design later in the course when we&#039;ll cover using Bootstrap and PymJS, a JavaScript library that enables the embedding of responsive iFrames. The data visualizations we&#039;ll tackle in the final sections of the course will include mapping with Topo and GeoJSON.</p><p style=\"\">By the end of this course, you will have an armoury full of tools to create feature-rich data visualizations with D3JS that are responsive on different platforms.</p><p style=\"\"><strong style=\"\">About the Author</strong></p><p style=\"\"><strong style=\"\">Merrill Cook</strong> is currently a freelance data journalist, who has helped to strategize, implement, and market infographics, interactive graphics, interactive maps, scrolling story pages, and a variety of other online media types. He is also the manager of an independent online course and online course platform ranking site.</p>", 
+    "end_date": null, 
+    "title": "Building Responsive Data Visualizations with D3 JS", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/525114_0a93_2.jpg", 
+    "course_url": "https://www.udemy.com/building-responsive-data-visualizations-with-d3js/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-10T13:25:55Z"
+}

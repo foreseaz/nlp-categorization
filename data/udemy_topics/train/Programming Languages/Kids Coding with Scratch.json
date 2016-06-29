@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>SCRATCH is a programming language designed for children who want to learn about computer programming. It was created with the purpose of teaching them the concepts of programming at an early age and helps develop their creative abilities that are needed to invent their own stories, animations, music, games and more. The best part of learning to program using SCRATCH is that it's  not necessary to write code, you only need to be familiar with the blocks or instructions in the Scratch tool. These blocks; which have default behaviors assigned to them, can be selected,  dragged  and assembled  to create full programs, presentation and games.</p>\n\n<ul><li>Step by step exercises.</li><li>Targeted for kids ages 8 through 16 but it can be used for anyone wanting to learn computer programming.</li><li>Explained using easy to follow instructions.</li><li>Designed for kids to follow but they may require some parental assistance if any issues are encountered.</li><li>Recommended for parents who want to teach the fundamentals of visual programming to their children.</li></ul>\n\n\n\n\n\n\n\n", 
+    "end_date": null, 
+    "title": "Kids Coding with Scratch", 
+    "price": "30.00", 
+    "instructors": "Gabriel Serrano, MBA", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/782248_17c7_3.jpg", 
+    "course_url": "https://www.udemy.com/scratch-programming-for-kids/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-04T16:25:30Z"
+}

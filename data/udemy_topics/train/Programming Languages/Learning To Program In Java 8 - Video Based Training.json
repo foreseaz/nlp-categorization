@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tThis Java 8 training course from Infinite Skills teaches you the tools and functions of the latest Java platform.  </p>  <p style=\"\">  \t<br style=\"\">  \tYou will start by learning how to install the Java development kit, then move onto creating a project and package and writing and running your first Java class. This course then teaches you how to create a scrapbook page, define variables, work with integers and floating point variables, and document project fields. This video tutorial also covers using the passenger class, writing test methods and the flight class, passing data between objects, storing objects in ArrayLists, using the console for user input, and deploying your application. Finally, you will learn how to create and finish the subclass, read and write to a file, and add logging statements.<br style=\"\">  \t<br style=\"\">  \tBy the completion of this computer based training course, you will have gained the knowledge and skills necessary to create your own fully functional programs using Java 8. Working files are included, allowing you to follow along with the author throughout the lessons  </p>", 
+    "end_date": null, 
+    "title": "Learning To Program In Java 8 - Video Based Training", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/267476_0765_5.jpg", 
+    "course_url": "https://www.udemy.com/learning-java-8/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-07-23T18:00:58Z"
+}

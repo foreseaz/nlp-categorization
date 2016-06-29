@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>It's a Beginner level course. No prerequisites required. All the more It's better if you haven't coded before. If you know how to use a computer and want to learn programming this is it.</p><p>Once started you will become addicted to short and beautiful syntax of python but don't we fooled by it's simplicity we will look at some of the very challenging problems and solve them in just few lines of code. </p><p>The course vastly differs from others in the practical approach we take here. We don't just teach syntax, we work along with you to solve a assorted collected to problem sets and solve ~50 of these. Students often lack in the problem solving capability and are just aware of the syntax. This course fills this gaps by working out each and every exercise and giving multiple approaches to solve similar problems. It makes you a hardcore programmer. </p><p>We start from basics like printing, looping to advanced features like regular expressions, algorithmic complexity. As part of the core language you won't feel missing as the course is comprehensive in nature.</p><p>Brief list of topics covered. </p><p>1. List</p><p>2. Strings</p><p>3. Dictionaries</p><p>4. Sets</p><p>5. Tuples</p><p>6. Regular Expression</p><p>7. List Comprehensions</p><p>8. Higher Order Functions</p><p>9. Input/Output operations</p><p>10. Algorithmic Complexity</p><p>11. Recursions</p><p>12. Collections</p><p>13. OOPs</p><p>14. Competitive Programming<br></p><p>We recommend to first solve each of the problem yourself then only look at the solution. Remember you can always pause, forward and rewind the video. </p><p>But \"All work and no play makes JACK a DULL boy\". Therefore in the end we will look at some cool and mischievous projects. We will make a GMAIL bomb, FACEBOOK bomb, YOUTUBE downloader.</p><p>*All instructions taught here are meant for educational purposes only. </p>", 
+    "end_date": null, 
+    "title": "Python for Beginners: Solve 50 Exercises Live", 
+    "price": "20.00", 
+    "instructors": "Tanmay Garg", 
+    "commitment": "19 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/492808_0bcc_2.jpg", 
+    "course_url": "https://www.udemy.com/python-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-03T22:43:57Z"
+}

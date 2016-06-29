@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Grunt, an industry-standard JavaScript task runner, is used by professionals to tame and automate the most repetitive parts of the workflow. It is loaded with a wealth of free plugins that are available online empowering you to maximize your development time and minimize human error; just what every developer wants!</p><p>Learning Grunt is a systematic guide that will help you build up your workflow from installing and using Grunt to a basic degree, to advanced configurations and creating your own plugins.</p><p>We'll start off by creating our development area and getting Node and Grunt installed. Then, we'll move on to look at some Grunt basics including defining and running tasks as well as working with configuration. Next we'll dive into getting the first iteration of our workflow setup, with a focus on running basic tasks. From there, we'll evolve our workflow into a more advanced build system focusing on tasks such as loading modules better using RequireJS, and testing our application using Karma and Jasmine. Lastly, you'll learn how to create your very own plugins in order to make your workflow unstoppable.</p><p>This course will give you the workflow you need to help you focus on building high-quality applications and sites instead of wrestling with manual processes.</p><p><strong>About the Author</strong></p><p><strong>Dan Wellman</strong> is a JavaScript developer based in the UK. He has a decade of hard-earned experience working for companies big and small including local boutique design agencies, and more recently, the Skype division of Microsoft.</p><p>Dan has written and co-written nine books for Packt, mostly centered on jQuery and jQuery UI, and he regularly creates immersive video tutorials for various websites and companies.</p>", 
+    "end_date": null, 
+    "title": "Learning Grunt", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/574350_ce85_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-grunt/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-05T07:05:06Z"
+}

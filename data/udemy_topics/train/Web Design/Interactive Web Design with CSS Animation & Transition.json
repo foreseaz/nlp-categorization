@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">With the<strong style=\"\"> CSS3 transition properties</strong>, it is possible and easy to add interactivity and enhance the user experience of your webpage by using CSS only. <strong style=\"\">CSS3 transitions</strong> allows you to change property values smoothly over a given duration.</p><p style=\"\">In this course, we will explore the different options of animation techniques that you can use to bring elegant animations and life to a webpage. </p><p style=\"\">The course covers a range, from simple to complex, of demonstrations  and examples that you can use in your own work or project to impress your audience.</p><p style=\"\">The course also includes a challenge assignment as well as a final project  to apply what you have learned and put all of it in practice.</p><p style=\"\"><strong style=\"\">Topics include:</strong><br style=\"\"></p><ul style=\"\"><li style=\"\">The CSS transition fundamentals</li><li style=\"\">The transition properties<ul style=\"\"><li style=\"\">transition-duration</li><li style=\"\">transition-delay</li><li style=\"\">transition-timing-function</li></ul></li></ul><ul style=\"\"><li style=\"\">Browser support and performance with the CSS vendor prefixes</li><li style=\"\">A challenge assignment </li><li style=\"\">Project : a portfolio page</li></ul><div style=\"\"><br style=\"\"></div><p style=\"\"><strong style=\"\">You will learn how to:</strong><br style=\"\"></p><ul style=\"\"><li style=\"\">Create smooth transition to animate property changes</li><li style=\"\">Use the shorthand</li><li style=\"\">Use the transition-timing-function to control the speed of the curve</li><li style=\"\">Animate color changes</li><li style=\"\">Fade elements in and out</li><li style=\"\">Create multiple transition effects</li></ul><div style=\"\"><br style=\"\"></div><div style=\"\"><strong style=\"\">By the end of the class</strong>, your will be able to use the concepts and examples presented to impress your audience with fancy animation effects.</div><div style=\"\"><strong style=\"\">if you are developer,</strong> you will know how to create nice animation effect with CSS.</div><div style=\"\"><strong style=\"\">if you are a designer</strong>, you will take your CSS skills to the next level and learn to add interactivity to a web page without jQuery</div><div style=\"\">Join me in <strong style=\"\">Interactive Web Design with CSS Animation &amp; Transition</strong> to learn how to create an enhanced user experience and take your web design skills to the next level with CSS transition.  </div>", 
+    "end_date": null, 
+    "title": "Interactive Web Design with CSS Animation & Transition", 
+    "price": "20.00", 
+    "instructors": "Sandy Ludosky", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/450756_1688.jpg", 
+    "course_url": "https://www.udemy.com/interactive-web-design-with-css-animation-transition/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-19T00:43:10Z"
+}

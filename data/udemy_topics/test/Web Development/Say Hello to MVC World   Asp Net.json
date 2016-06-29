@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>MVC is the most popular framework for building great web application.</p><p>Say Hello to MVC World and start to develop MVC based Web Application.</p><p>By Enrolling in this course you will learn all about MVC Web Programming Pattern.</p><p>First of all You will learn the fundamentals about MVC then start building real web applications.</p><p>if you want to develop web application using last technology then just enroll in because all sector about web programming starts to build their application using MVC. Because many reasons there are...</p><p>Model view controller (MVC) is a very useful and popular design pattern. If you&#039;re writing software, you should know it.</p><p>In a typical MVC Web application you will find these three fundamental parts:</p><ul style=\"\"><li>Data (Model)</li><li>An interface to view and modify the data (View)</li><li>Operations that can be performed on the data (Controller)</li></ul><p>So you will learn all of them.</p>", 
+    "end_date": null, 
+    "title": "Say Hello to MVC World : Asp Net", 
+    "price": "20.00", 
+    "instructors": "Sadık Turan", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/542254_4fb8.jpg", 
+    "course_url": "https://www.udemy.com/mvc-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-01T14:47:48Z"
+}

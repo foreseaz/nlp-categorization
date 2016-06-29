@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Electrical Engineering"
+    ], 
+    "description": "\n\n                    \n                    \n                    El curso está pensado para alumnos sin conocimientos previos de electricidad, por lo que se comenzará introduciendo los conceptos básicos necesarios para el aprovechamiento del resto del curso.  A continuación se irán presentando los contenidos  y herramientas más importantes desde el punto de vista eléctrico. Se trata de un curso con un contenido marcadamente práctico, por lo que cada concepto irá acompañado de aplicaciones prácticas y, siempre que sea posible se relacionará con problemas concretos habituales en el mundo real (desde entender una factura eléctrica a dimensionar una instalación fotovoltaica). Aun cuando el nivel de partida sea básico, no se trata de un curso de divulgación científica, por lo que los contenidos se profundizarán a un nivel adecuado para aquellos alumnos que deseen realizar cursos que requieran conocimientos previos de electricidad.\n\n                                    ", 
+    "end_date": "2015-12-07T00:00:00Z", 
+    "title": "Electricidad: conceptos básicos y aplicaciones", 
+    "price": 0, 
+    "instructors": "Ernesto Pereda de Pablo", 
+    "institution_name": [
+        "Universidad de La Laguna"
+    ], 
+    "commitment": "3 hours", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "course_url": "https://miriadax.net/web/electricidad-conceptos-aplicaciones", 
+    "duration": "7 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Miríada X"
+    ], 
+    "start_date": "2015-10-19T00:00:00Z"
+}

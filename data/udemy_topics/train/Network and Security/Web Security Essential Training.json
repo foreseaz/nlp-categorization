@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t Learn about the most important security concerns when developing websites, and what you can do to keep your servers, software, and data safe from harm. We explain what motivates hackers and their most common methods of attacks, and then details the techniques and mindset needed to craft solutions for these web security challenges. Learn the fourteen fundamental principles that underlie all security efforts, the importance of filtering input and controlling output, and smart strategies for encryption and user authentication. We also covers special considerations when it comes to credit cards, regular expressions, source code managers, and databases.  </p>  <p>  \t <br style=\"\">  \t This course is great for developers who want to secure their client&#039;s websites, and for anyone else who wants to learn more about web security.  </p>  <p>  \t Topics include:  </p>  <ul style=\"\">  \t<li>Why security matters</li>  \t<li>How to write a security policy</li>  \t<li>Cross-site scripting (XSS)</li>  \t<li>Cross-site request forgery (CSRF)</li>  \t<li>SQL injection</li>  \t<li>Session hijacking and fixation</li>  \t<li>Passwords and encryption</li>  \t<li>Secure credit card payments</li>  \t<li>Much more</li>  </ul>", 
+    "end_date": null, 
+    "title": "Web Security Essential Training", 
+    "price": "20.00", 
+    "instructors": "QScutter Tutorials", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/164480_1fd4_3.jpg", 
+    "course_url": "https://www.udemy.com/web-security-essential-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-14T20:57:35Z"
+}

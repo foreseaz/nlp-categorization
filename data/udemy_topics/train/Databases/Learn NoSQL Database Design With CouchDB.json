@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong>CouchDB i</strong>s the database for the web. CouchDB is a powerful system which uses JSON for storing your documents.  You can also use the power of JavaScript to index combine and transform your documents using this amazing technology. It is one of the most effective tools to serve web apps across various devices and it is feature packed qualities make it easy even for beginners to churn out applications and solutions for the web.  </p>  <p>  \tEduonix brings to you a complete and unique course which will quickly help you to get started with CouchDB helping you learn all that you will need to make use of this amazing technology in your own projects. The course will teach you the following among various other things  </p>  <ul>  \t<li><strong><span>The NoSQL Database Design Techniques</span><br>  \t</strong></li>  \t<li><strong><span>How a SQL system is different from a Document based system</span><br>  \t</strong></li>  \t<li><strong><span>What are the most amazing features of CouchDB and how to use them in your project</span><br>  \t</strong></li>  \t<li><strong><span>The Role of JavaScript and JSON in CouchDB</span><br>  \t</strong></li>  \t<li><strong><span>CouchDB features and attributes</span></strong></li>  \t<li><strong>Database design using CouchDB</strong></li>  \t<li><span><strong>A hands on project development using CouchDB</strong></span></li>  </ul>  <p>  \tWith a concept based approach and its practical focus this course will help you be the CouchDB ninja. So click on and get started..  </p>", 
+    "end_date": null, 
+    "title": "Learn NoSQL Database Design With CouchDB", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/365696_1276_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-nosql-database-design-with-couchdb/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-08T09:41:07Z"
+}

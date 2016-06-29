@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t                    Grunt is a command-line task automation tool that speeds up your development workflow by taking all the repetitive “grunt work” out of your work. <strong style=\"\">If you&#039;re a front-end developer, Grunt is a must have tool to add to your skillset.</strong> With Grunt you can:  </p>  <ul style=\"\">  \t<li>Build websites faster</li>  \t<li>Avoid repetitive work like minifying files or optimizing images</li>  \t<li>Ensure consistency within your team</li>  </ul>  <p>  \t          In this course you&#039;ll learn how to automate web development tasks with Grunt so you can build websites faster.  </p>  <p>  \t                Grunt can perform tasks on your code in the background to automatically take the repetitive, time consuming tasks out of your workflow! If you want to take your career to the next level as a front-end developer then you need to learn Grunt.  </p>  <p>  \t                    Grunt will perform the tasks you assign it through a Grunt configuration file. Some tasks Grunt can perform include: minification, concatenation, SASS and LESS processing, live reloading, image optimization, unit testing, linting, desktop notifications, page speed testing, and sooo much more!  </p>  <p>  \t          At the end of this course you&#039;ll:  </p>  <ul style=\"\">  \t<li>Understand Grunt and all the concepts mentioned above</li>  \t<li>Be able to use Grunt in all of your projects and build websites faster</li>  \t<li>Improve your skills as a web developer</li>  \t<li>Learn how to properly prepare your files before pushing a website live</li>  </ul>  <p>  \t<strong style=\"\">This course is for even the beginning web developer!</strong> Grunt is still growing in popularity and is used by some of the biggest names on the web. Learn Grunt to save time and put yourself ahead of the competition.  </p>", 
+    "end_date": null, 
+    "title": "Learn Grunt with Examples: Automate Your Front End Workflow", 
+    "price": "20.00", 
+    "instructors": "Matt Jones", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/330900_348d_7.jpg", 
+    "course_url": "https://www.udemy.com/learn-grunt-automate-your-front-end-workflow/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-29T19:43:21Z"
+}

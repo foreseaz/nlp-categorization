@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \tThis Oracle 11g RAC training course from Infinite Skills explains Oracle&#039;s Real Application Clusters (RAC) and provides a detailed look at installing and configuring Oracle&#039;s RAC environment. This course is designed for an aspiring Oracle database administrator (DBA) or a currently practicing DBA.  </p>  <p>  \t<br style=\"\">  \tThis RAC training course starts out by teaching you the system, Oracle, and host requirements. You then jump right into learning how to install ASM and Grid Infrastructure Software, create disk groups, and tuneing RAC. The course will take you through RAC diagnostics and how to identify potential RAC problems and troubleshoot. He will teach you about the RAC and Cluster utilities, RAC architecture, and how to add and remove nodes.<br style=\"\">  \t<br style=\"\">  \tBy the completion of this video based training course, you will have a fundamental understanding of how to install, configure, and maintain Oracle&#039;s RAC environment. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Learn Oracle 11g - Real Application Clusters ", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/202620_e6ea_7.jpg", 
+    "course_url": "https://www.udemy.com/oracle-11g-real-application-clusters/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-21T15:32:48Z"
+}

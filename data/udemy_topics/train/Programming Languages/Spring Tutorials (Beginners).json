@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Spring Framework</strong> is a <strong style=\"\">Java </strong>platform that provides comprehensive infrastructure support for Developing Java Applications. Spring handles the infrastructure so you can focus on <strong style=\"\"><em style=\"\">Your</em></strong> Application.  </p>    <p style=\"\">  \t                                         This <strong style=\"\">Spring Framework Course </strong>comes in <strong style=\"\">Two Parts</strong> and <em style=\"\">together Both Parts act as a <strong style=\"\">Beginners </strong>Primer to the Core of the Spring Framework</em>.</p>  <p style=\"\">  \t<strong style=\"\">Part 1:</strong> Introduces Spring;  </p>  <p style=\"\">  \t                        What is it? How and Why Spring came About?  </p>  <p style=\"\">  \t                                       I then look at some of the Best Practices for Java Application Design and Development which are <em style=\"\">used and encouraged by the Spring way of doing things!</em>  </p>  <p style=\"\">  \t                                Then jump into setting up an Integrated Development Environment (IDE) for Spring Development and teach you some of the <em style=\"\">Very Fundamentals of Spring Configuration and Development.</em>  </p>  <p style=\"\">  \t<strong style=\"\">By the end of Part 1 of this Spring Course: 101</strong>, You will Understand What Spring is for and Why it came About, Understand Springs History up to today, have enough knowledge to start using<strong style=\"\"> Spring Tool Suite</strong> and<strong style=\"\"> be confident </strong>enough to start writing your own basic<strong style=\"\"> Spring based Java Applications.</strong>  </p>", 
+    "end_date": null, 
+    "title": "Spring Tutorials (Beginners)", 
+    "price": "20.00", 
+    "instructors": "Bruce E. Hilton", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/253036_1ee2_5.jpg", 
+    "course_url": "https://www.udemy.com/springcore/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-30T09:02:09Z"
+}

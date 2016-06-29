@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p><strong>The Original Price of the Course is $99, But If you join now it is only $19, This Offer is Valid until this month end till 30-09-2015</strong></p><p>  \t<strong> </strong>ALV stands for ABAP List Viewer. ALV gives us a standard List format and user interface to all our ABAP reports. ALV is created by a set of standard function modules provided by SAP.  </p>  <p>  \t        OOALV is ALV using object oriented ABAP, SAP has created standard classes and methods which can be used for the ALV, Which makes programmers in abap to write ALV Programs easily without need to write long codings.  </p>  <p>  \t        SAP has introduce a class called cl_salv_table which has all the methods required for writing ALV reporting, In this course you will learn how to use this methods in your programs to write out the output with formats required. You will learn all the functionality and methods with example programs in this course.  </p>", 
+    "end_date": null, 
+    "title": "SAP ABAP OO ALV with Real time examples", 
+    "price": "20.00", 
+    "instructors": "DoEdu IT Educations", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/389310_1991_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-sap-abap-oo-alv-alv-using-abap-objects/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-09T08:46:29Z"
+}

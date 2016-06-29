@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Joomla! se ha convertido rápidamente en un estándar de la industria. Este CMS (Content Manager System o Sistema de Manejador de Contenidos) ha sido premiado internacionalmente por su sencillés y potencia. Podrás realizar sitios web muy complejos sin necesidad de escibir una línea de código y además es GRATUITO y de código abierto. Miles de desarrolladores en el mundo han escrito módulos y plantillas a su alrededor. En este curso aprenderemos desde los conceptos básicos de la instalación del paquete, crear contenidos de diferentes tipos creando categorías y artículos con imágenes y ligas a otras páginas, añadir módulos como un buscador, las migas de pan o imágenes aleatorias, componentes poderosos como el control de las direcciones web o administrar la lista de contactos, manejar plantillas tanto del sitio como las del back-end, administrar usuarios creando nuevas categorías y colocando contenido que sea restringido sólo a los usuarios firmados en nuestro sistema y liberar nuestro sitio en la web aprendiendo a hacer respaldos de la aplicación, así como de la base de datos, y repito:<strong style=\"\"> sin necesidad de programar</strong>.</p>", 
+    "end_date": null, 
+    "title": "Aprende Joomla 3.4. sin dolor", 
+    "price": "20.00", 
+    "instructors": "Francisco Javier Arce Anguiano", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/467898_c041_2.jpg", 
+    "course_url": "https://www.udemy.com/aprende-joomla-34-sin-dolor/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-05T03:31:19Z"
+}

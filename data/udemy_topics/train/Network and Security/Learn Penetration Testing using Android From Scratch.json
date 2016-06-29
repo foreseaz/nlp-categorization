@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><em>Notes: </em></p><ul><li><em>All the videos in this course are <strong>downloadable</strong></em><em>.</em></li><li><em>This <strong>price is only for the 2nd 1000 students</strong>, the price will go up after that.</em></li></ul><p>In this course you will start <strong>as a beginner</strong> with no previous knowledge about penetration testing. The course will start with you from scratch, from preparing your Android device and computer, installing the needed apps and will finish up with examples of real life scenarios when testing the security of computer systems.</p><p>This course just like my other courses focuses on the <strong>practical side penetration testing</strong> without neglecting the theory behind each attack, for each attack you will learn how that attack works and then you will learn how to practically launch that attack, this will give you full understanding of the conditions which allow this attack to be successfully executed, this knowledge <strong>will help you to detect and sometimes prevent this attack from happening</strong>. The the attacks explained in this course are launched against real devices in my lab.</p><p>The Course is Divided into four main sections:</p><ol><li><em>Preparing</em>: this section will take you through the steps of of preparing your computer and <strong>installing NetHunter</strong> (an Android penetration testing platform) on your Android device. You will also learn how to use the main menus of NetHunter, and as a bonus I added three lectures to teach you how to <strong>install Kali Linux</strong> (a penetration testing OS) on your computer.</li><li><em>Information Gathering:</em>in this section we still don't know much about penetration testing , all we have is an Android device with NetHunter installed on it, you will learn how to start <strong>gathering information about WiFi networks</strong> around you, not only that but you will also learn how to <strong>map your current networking</strong>, displaying the connected devices and information about them such as <strong>their IP address, Mac Address, OS and running services/programs</strong>. You will also learn how to connect an external wireless card to your Android device and <strong>prepare it to be used to pentest WiFi keys</strong>.</li><li><em>Spying</em>: I this section you will learn what is meant by MITM (Man In The Middle), how people achieve that and how detect if you are being MITM'ed. We will disscuss <strong>three methods to become the MITM</strong>, these methods are: <strong>Bad USB MITM, ARP Poisoning and using a Honeypot point. </strong>When somebody becomes the MITM packets will flow through their device, you will learn how to store these packets, and analyse them later using <strong>Wireshark</strong>.</li><li><em>Exploitation</em>: In this section we will have a look on a number of exploitation methods that can be used to compromise your device <strong>weather it runs Windows/Linux/OSX.</strong> First you will learn why you should never leave your computer locked on a login screen as you will see <strong>login screens can be bypassed on both </strong><strong>OSX and Windows.</strong> You will also see why you should be careful when allowing people to charge their Android device from your computer as they can gain full access to your computer as soon as you an Android device is connected to it via USB. You will also see how <strong>downloaded files can be </strong><strong>backdoored on the fly,</strong> this means that you should be very careful when downloading files from the internet even if you were downloading them from a trusted website, make sure the link is HTTPS and use the discussed ARP Spoof detection method to ensure that you are not being MITM'ed .</li><li><em>Detection &amp; Protection: </em>In this section you will learn <strong>three methods to detect ARP Spoofing/ ARP Poisoning Attacks</strong>, you will also learn how to user <strong>Wireshark to detect other suspicious activities</strong> in your network. We will also discuss how to <strong>protect against these MITM attacks</strong> and prevent them from happening.</li></ol><p><strong>NOTE: This course is totally a product of Zaid Sabih and No other organization is associated for certification exam for the same. Although, you will receive Course Completion Certification from Udemy, apart from that No OTHER ORGANIZATION IS INVOLVED.</strong></p>", 
+    "end_date": null, 
+    "title": "Learn Penetration Testing using Android From Scratch", 
+    "price": "25.00", 
+    "instructors": "Zaid Sabih", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/377716_8ade_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-hackingpenetration-testing-using-android-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-25T23:04:13Z"
+}

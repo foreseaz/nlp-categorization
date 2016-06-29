@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Information Technology"
+    ], 
+    "description": "\n\n                    \n                    \n                    Interested in gaining the basic skills needed to go beyond simple IP address management? It may be time to consider management tools like DHCP and DNS in your quest to optimize your network infrastructure management.\n\nThis self-paced computer science course is an introduction to working with Dynamic Host Configuration Protocol (DHCP) in a Windows Server networked environment where you’ll have an opportunity to learn the basics of IP address management, DHCP scope creation and configuration and how to manage and maintain a DHCP infrastructure.\n\nThis fundamentals course will prepare you for more advanced courses in Windows Server administration.\n\nYou can take this course before or after course Implementing DNS in Microsoft Windows Server. Both courses provide essential skills for working with networks.\n\n                                    ", 
+    "end_date": "2016-02-16T00:00:00Z", 
+    "title": "INF201.31x: Implementing DHCP in Microsoft Windows Server", 
+    "price": 0, 
+    "instructors": "Eamonn Kelly and Tony Jamieson", 
+    "institution_name": [
+        "Microsoft"
+    ], 
+    "commitment": "2-4 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/implementing-dhcp-microsoft-windows-microsoft-inf201-31x", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-01-05T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Introduction to SQL</strong><strong style=\"\"> </strong>  </p>  <p>  \tHave you found yourself interested in learning all of the basics of writing SQL queries? We have the course for you. <strong style=\"\">Designed by Webucator, a global training partner, this course covers all of the best activities to get you started</strong>. And it&#039;s packed with readings, trainer presentations, and exercises!  </p>  <p>  \tThis SQL training course is designed for students new to writing SQL queries. <strong style=\"\">A typical student will need to learn SQL to build applications or to generate business reports.</strong>  </p>  <p>  \t For the most part, the SQL learned in the course is applicable to all major databases. In the few cases in which there are differences between the databases, these differences will be pointed out.  </p>  <h5>Class Goals</h5>  <ul style=\"\">  \t<li>Understand how relational databases work</li>  \t<li>Learn to use SQL to output reports</li>  \t<li>Learn to write queries getting data from multiple tables.</li>  </ul>  <p>  \tThis engaging course also comes with template exercise files ready to start using right away. To download, visit: http://www.webucator.com/portal/wiki/index.cfm/SQL101.  </p>", 
+    "end_date": null, 
+    "title": "Introduction to SQL Training", 
+    "price": "50.00", 
+    "instructors": "Webucator Training", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/17492_98ff_5.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-sql3/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-05-09T18:12:08Z"
+}

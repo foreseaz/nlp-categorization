@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<em style=\"\">Los sitios web y apps de HTML5 deben ser dinámicos, interactivos y entregarle una buena experiencia al usuario.</em>  </p>  <p style=\"\">  \t<strong style=\"\">jQuery</strong> es la librería de JavaScript más utilizada en  el mundo. Desde que apareció ha cambiado la web al permitir crear  interactividad que funciona en todos los navegadores. En este curso  completo de jQuery aprenderás a utilizar esta librería partiendo desde  cero. Veremos cómo utilizar <strong style=\"\">jQuery</strong> para manipular y <strong style=\"\">animar</strong> <strong style=\"\">el DOM</strong>, usar <strong style=\"\">AJAX</strong> para cargar datos remotos, trabajar con <strong style=\"\">JSON</strong>, y crear <strong style=\"\">formularios interactivos</strong>.  </p>  <p style=\"\">  \t<strong style=\"\">Este curso es además 100% compatible con jQuery 2.x!</strong>  </p>  <p style=\"\">  \tMás de 20.000 personas están aprendiendo a programar con los cursos de Zenva, incluyendo por supuesto nuestra aclamada serie <strong style=\"\">C<strong style=\"\">ó</strong>mo Programar para Emprendedores</strong>. Este curso es la continuación de esta serie, sabiendo ya HTML, CSS y JavaScript nos movemos ahora a crear <strong style=\"\">sitios web</strong> y <strong style=\"\">apps de HTML5</strong> interactivas y que pueden cargar datos remotos.  </p>  <p style=\"\">  \tAlgunas de las cosas que aprenderás en este curso:  </p>  <ul style=\"\">  \t<li style=\"\">Cuándo usar jQuery 1.x o 2.x.</li>  \t<li style=\"\"><strong style=\"\">Selectores de CSS</strong> y funciones para <strong style=\"\">atravesar el DOM</strong> para seleccionar el elemento que deseas.</li>  \t<li style=\"\">Cómo <strong style=\"\">manipular el DOM</strong>. Agrega o quita código HTML en cualquier elemento de tu página.</li>  \t<li style=\"\">Trabajando con <strong style=\"\">eventos</strong>, incluyendo escuchar campos de formulario como inputs, listas y checkboxes.</li>  \t<li style=\"\"><strong style=\"\">Animaciones</strong> y <strong style=\"\">efectos</strong> con jQuery, incluyendo fade, show, slide.</li>  \t<li style=\"\"><strong style=\"\">AJAX</strong> desde cero para cargar archivos HTML y JSON desde un servidor remoto.</li>  \t<li style=\"\">Cómo trabajar con <strong style=\"\">JSON</strong> cargado del servidor.</li>  \t<li style=\"\">AJAX y el cache.</li>  \t<li style=\"\"><strong style=\"\">Formularios</strong> interactivos con jQuery.</li>  \t<li style=\"\">Ingreso de formulario con AJAX y procesamiento de los parámetros.</li>  </ul>  <p style=\"\">  \t<br style=\"\">  \t<strong style=\"\"></strong>  </p>  <p style=\"\">  \t<strong style=\"\">Pablo Farías Navarro</strong> es emprendedor y desarrollador. Como founder de Zenva, tenemos experiencia enseñando a programar con ya <strong style=\"\">más de 20 mil alumnos</strong>, por lo que estarán en buenas manos!!  </p>  <p style=\"\">  \t<strong style=\"\">No esperes más! COMIENZA HOY y transforma esas ideas en realidades!</strong>  </p>", 
+    "end_date": null, 
+    "title": "jQuery y AJAX Desde Cero - La Guía Definitiva", 
+    "price": "20.00", 
+    "instructors": "Pablo Farias Navarro", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/184026_39af_3.jpg", 
+    "course_url": "https://www.udemy.com/curso-de-jquery/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-17T16:09:23Z"
+}

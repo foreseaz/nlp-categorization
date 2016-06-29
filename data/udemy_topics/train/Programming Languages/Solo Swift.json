@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Mi curso de pago: ¡¡¡ Ahora GRATIS!!!</p>\n\n<p>  \t  Swift es el lenguaje de programación de Apple para crear Apps para iOS, y todo tipo de software para OS X.  </p>\n\n<p>  \t  En este Curso descubrirás Swift, conocerás su sintaxis, el uso de sus elementos, y las buenas prácticas para aprender uno de los lenguajes que con total seguridad, será de los más usados y demandados en unos meses.  </p>\n\n<p>  \tEn este Curso aprenderás:  </p>\n\n<ul>  \t<li>Sintaxis del lenguaje</li>  \t<li>Tuplas</li>  \t<li>Closures</li>  \t<li>Funciones</li>  \t<li>Méodos</li>  </ul>\n\n<p>  \tY muchas cosas más que deberás conocer si quieres crear aplicaciones para iOS y OS X con el nuevo lenguaje de programación Swift.  </p>\n\n<p>  \tAprende este lenguaje que te permitirá crear fantásticas aplicaciones para iPhone e iPad, así como software para OS X  </p>\n\n<p>  \tDeclarar variables, usar la nueva herramienta de Xcode PlayGround, todo ello está incluido en este Curso.  </p>\n\n<p>  \tMás de 6 horas de contenido que se irán actualizando con las novedades que Apple implementa en el lenguaje de vez en cuándo.  </p>\n\n<p>¡Vamos a aprender Swift!</p>", 
+    "end_date": null, 
+    "title": "Solo Swift", 
+    "price": 0, 
+    "instructors": "Sergio Becerril", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/336522_cac1_4.jpg", 
+    "course_url": "https://www.udemy.com/solo-swift/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-05T14:05:32Z"
+}

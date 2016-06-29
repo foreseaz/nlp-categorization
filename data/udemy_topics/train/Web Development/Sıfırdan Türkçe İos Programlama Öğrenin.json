@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  İos uygulamaları yazabilmek için bir mac bilgisayara sahip olmalı ve objective-c dilini öğrenmelisiniz. Bu dersin içeriğinde objective-c dilinin püf noktaları ve ios uygulamalarının nasıl yazılacağına dair bilgiler türkçe olarak en yalın biçimde yer alıyor.  </p>  <p style=\"\">  \t Dersin sonunda ana arayüz elementlerini, table view controller i ve view controller ları kullanarak kendi veritabanınıza yada web servisler aracılığıyla uzak veritabanlarına veri yazabilen uygulamalar oluşturabileceksiniz.  </p>", 
+    "end_date": null, 
+    "title": "Sıfırdan Türkçe İos Programlama Öğrenin", 
+    "price": 0, 
+    "instructors": "Yunus Kocyigit", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/137046_8972_4.jpg", 
+    "course_url": "https://www.udemy.com/sifirdan-ios-programlama-ogrenin/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-23T10:21:08Z"
+}

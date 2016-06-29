@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    We increasingly rely on networked computer systems and smart cards to support our everyday activities, and everything we do generates data – whether buying bread at the supermarket, taking a ride on public transport, or calling a friend for a chat.\n\nThis data is opening up a new era for our understanding of human behaviour – and also for policy making and business processes which depend upon this understanding. Research has shown how data can give us insight into the risk of an upcoming stock market crash; decrease delays in measuring the spread of illness; or even allow us to predict where crimes might occur.\n\nThis course will help you understand and unlock the power of these new datasets. You will gain an overview of the state of the art in big data research across a range of domains, including economics, crime and health.\n\nHow you’ll study big data\n\nThe course is broken down into nine weeks: eight weeks of study with a break for reflection in Week 5. Each week contains a sequence of individual steps for you to complete. You will be learning by watching videos as well as reading materials and articles, taking part in discussion activities, and a weekly quiz.\n\nWe will cover the following topics:\n\n\n  What is big data?\n  Measuring and predicting behaviour with big data\n  Big data and the stock markets\n  Big data, crime and conflict\n  Big data and health\n  Big data and happiness\n  Big data, mobility and disasters\n\n\nYou will also acquire some basic practical skills for data science, learning to write basic programs in R, create basic data visualisations and carry out simple analyses. By the end of the course, you will be able to find out and analyse what people have been looking for on Google and Wikipedia.\n\nWhat previous big data learners say\n\nOver 16,000 learners from across the world have previously joined this course. Below are some examples of the impact it had on them:\n\n\n  “A thought-provoking course. I liked it because it exposed me to aspects and applications of Big Data that I hadn’t thought of.” - Brian Greiner\n\n\n\n  “The big and “brave new world” of Big Data is going to change our world so much and in relatively short time. It’s literally and metaphorically breath talking in it”s scope and delivery! This course has given me a great taster of what’s happening right now with Data collection, how [Big Data] is changing and shaping our lives and the lives of our children, and what “ possibly” might be just around the corner.” - Charles J McEleavy\n\n\n\n  “It was an interesting course addressing some key aspects of this area and opening my eyes both to the possibilities and the dangers. The studies going on and the spreading of this knowledge, making people more aware is, in my opinion, a great protection against the potential dangers. A well informed population will be more prepared to handle these issues.” - Paula Santos\n\n\n\n                                    ", 
+    "end_date": "2016-05-09T00:00:00Z", 
+    "title": "Big Data: Measuring and Predicting Human Behaviour", 
+    "price": 0, 
+    "instructors": "", 
+    "institution_name": [
+        "The University of Warwick"
+    ], 
+    "commitment": "4 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "http://www.futurelearn.com/courses/big-data?utm_campaign=Courses+feed&utm_medium=courses-feed&utm_source=courses-feed", 
+    "duration": "9 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "FutureLearn"
+    ], 
+    "start_date": "2016-03-07T00:00:00Z"
+}

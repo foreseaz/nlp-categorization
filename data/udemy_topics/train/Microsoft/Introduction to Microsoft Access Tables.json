@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \tDuring this introductory course on using Microsoft Access tables, we&#039;ll teach you the basics for working with them – in both Microsoft Access 2010 and Access 2013.  </p>  <p style=\"\">  \tWe’ll start with some basic concepts to help you understand how a table organizes information into rows and columns. Then we’ll provide an easy to follow example using some fairly straightforward data. We’ll then move into some of the more advanced aspects of database tables including creating relationships between tables, one of the fundamentals concepts of database design and management.  </p>  <p style=\"\">  \tNote: All videos are high-definition and are therefore <strong style=\"\">best viewed enlarged and with the HD setting on</strong>.  </p>", 
+    "end_date": null, 
+    "title": "Introduction to Microsoft Access Tables", 
+    "price": "20.00", 
+    "instructors": "Simon Sez IT", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/90140_aa75_5.jpg", 
+    "course_url": "https://www.udemy.com/how-to-use-microsoft-access-tables/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-09T15:42:03Z"
+}

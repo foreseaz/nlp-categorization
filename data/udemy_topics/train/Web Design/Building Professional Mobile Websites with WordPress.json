@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<h5>Do you want to learn how to create stunning mobile website using WordPress?&nbsp;  </h5>    <p>In this training course from Infinite Skills, you will learn how to create websites using WordPress that look great no matter what device or screen size you are viewing them with. Responsive web design allows you to build and maintain one website, but have it respond according to the device that it is being viewed on. This tutorial will show you how to create a responsive website by way of customizing a WordPress template. Some experience and familiarity with WordPress and CSS is suggested in order for you to get the most out of this training.<br style=\"\">  <br style=\"\">   The core of responsive design lies in media queries, and that is where the course starts you off. You will learn how to setup media queries using CSS to detect what styles to apply to your website, based on the resolution of the device that is accessing the page. The training videos will show you how to create your high, medium and low resolution designs using wireframing, and then how to hand code each of those designs in WordPress, creating a website that responds to all kinds of mobile devices.<br style=\"\">  <br style=\"\">   By the time you have completed this computer based training course for mobile website design with WordPress, you will have a clear understanding of how to modify WordPress templates to make your site responsive to a wide variety of resolutions and devices. Working files are included, allowing you to follow along with the author throughout the lessons.<br style=\"\">  </p>", 
+    "end_date": null, 
+    "title": "Building Professional Mobile Websites with WordPress", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/46978_fc85_7.jpg", 
+    "course_url": "https://www.udemy.com/building-mobile-websites-with-wordpress/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-03-22T15:49:08Z"
+}

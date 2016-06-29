@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>IBM SPSS Statistics is most widely used statistical analysis software in social sciences and business research. From simple statistical analyses like descriptive statistics, graphs, cross tabulation, correlation, regression analysis to hypothesis testing techniques like t-test, chi-square, ANOVA, and multivariate analysis like factor analysis, cluster analysis, conjoint analysis, Multiple ANOVA, Multiple Regression, Hierarchical Linear Models can be calculated with few clicks. At the same time tests of normality like K-S test, Shapiro-Wilk test, Levene’s Test of Homogeneity of Variances, Fishers Least Significant Difference (LSD) test, Cronbach’s scale reliability and many other complex statistical techniques can be calculated with ease.</p><p>In this course we cover, univariate, Bivariate statistical techniques and hypothesis testing tools like Chi-Square, one sample t-test, paired t-test, independent t-test, and ANOVA. The course also covers normality tests, test of homogeneity, and multiple comparison tests. All the data files used in this course are real time business data. This course has 18 chapters in all and covers intermediate statistics.</p><p>After attending this course you would be able to create SPSS file, define variables, enter data, run descriptive statistics, create graphs, find out relationship between variables, test the linearity and normality of the data, run hypothesis testing and interpret the results. With this knowledge you can run data analysis in short time.</p><p>Enroll now, and enhance your career opportunities.</p>", 
+    "end_date": null, 
+    "title": "IBM SPSS: Statistical Data Analysis Made Easy", 
+    "price": "20.00", 
+    "instructors": "Prof. Rama Krishna Yelamanchili", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/787400_6aba_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-statistical-data-analysis-with-ibm-spss/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-09T14:59:18Z"
+}

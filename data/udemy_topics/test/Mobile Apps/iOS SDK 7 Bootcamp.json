@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><b>If you need iOS work done, please e-mail me at tony.frizalone@gmail.com. Available for freelance.</b></p><p>  \t   This is a 10 video-tutorial series that teaches developers with no iOS app development experience the core concepts for iOS app development. Using Xcode 5 and iOS SDK 7, you start with a simple Hello World video and work your way all the way up to interacting with a remote server.  </p>  <p>  \t   Each video focuses on a particular topic. The goal at the start of each video is very clear. The videos are very detailed, well-edited, and are very explicit.  </p>  <p>  \t   Tony Friz, the author of the series, has been a self-taught iOS developer for 5 years. He knows just about everything there is to know when it comes to writing iOS applications.  </p>  <p>  \t   All apps created in the videos are created for iOS 7 - you're getting the latest and greatest.  </p>", 
+    "end_date": null, 
+    "title": "iOS SDK 7 Bootcamp", 
+    "price": 0, 
+    "instructors": "Tony Friz", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/119000_2988_9.jpg", 
+    "course_url": "https://www.udemy.com/tony-friz-ios-sdk-7-bootcamp/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-12T23:55:02Z"
+}

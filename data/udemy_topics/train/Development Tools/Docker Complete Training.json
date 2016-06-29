@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<strong style=\"\">What is Docker?</strong>  <p>  \tDocker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments. As a result, IT can ship faster and run the same app, unchanged, on laptops, data center VMs, and any cloud.<strong style=\"\"></strong>  </p>  <p>  \t<strong style=\"\">Why do developers like it?</strong>  </p>  <p>  \tWith Docker, developers can build any app in any language using any toolchain. “Dockerized” apps are completely portable and can run anywhere - colleagues’ OS X and Windows laptops, QA servers running Ubuntu in the cloud, and production data center VMs running Red Hat.  </p>  <p>  \tDevelopers can get going quickly by starting with one of the 13,000+ apps available on Docker Hub. Docker manages and tracks changes and dependencies, making it easier for sysadmins to understand how the apps that developers build work. And with Docker Hub, developers can automate their build pipeline and share artifacts with collaborators through public or private repositories.  </p>  <p>  \tDocker helps developers build and ship higher-quality applications, faster.  </p>  <p>  \t<strong style=\"\">Why do sysadmins like it?</strong>  </p>  <div style=\"\">  \t<p>  \t\tSysadmins use Docker to provide standardized environments for their development, QA, and production teams, reducing “works on my machine” finger-pointing. By “Dockerizing” the app platform and its dependencies, sysadmins abstract away differences in OS distributions and underlying infrastructure.  \t</p>  \t<p>  \t\tIn addition, standardizing on the Docker Engine as the unit of deployment gives sysadmins flexibility in where workloads run. Whether on-premise bare metal or data center VMs or public clouds, workload deployment is less constrained by infrastructure technology and is instead driven by business priorities and policies. Furthermore, the Docker Engine’s lightweight runtime enables rapid scale-up and scale-down in response to changes in demand.  \t</p>  \t<p>  \t\tDocker helps sysadmins deploy and run any app on any infrastructure, quickly and reliably.  \t</p>  </div>", 
+    "end_date": null, 
+    "title": "Docker Complete Training", 
+    "price": "20.00", 
+    "instructors": "QScutter Tutorials", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/246378_e4d8_3.jpg", 
+    "course_url": "https://www.udemy.com/docker-essential-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-19T08:14:44Z"
+}

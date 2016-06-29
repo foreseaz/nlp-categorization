@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course provides you with a practical approach to Node.js. The main focus of this course is to get you familiar with Node and ensure that you are ready to build cool new web applications using Node in no time.<br></p><p>In this course we will be covering fundamentals of JavaScript first so that it becomes easier to understand the different concepts and syntax that one uses in Node.JS<br></p><p>In this course we will covering following topics</p><ol><li>Fundamentals of JavaScript and HTML 5 Communication API</li><li>Fundamentals of Node.js</li><li>Creating and Publishing Modules</li><li>Using Node Package Manager</li><li>Creating a Webserver using Node</li><li>Learning how to use Express</li><li>Understanding how to work with Databases like MySQL and MongoDB</li><li>Deploying our Web application on Heroku, Azure and Amazon EC2</li><li>Learning how to make use of Socket.IO</li><li>Creating a cool chat application</li><li>Learn how to implement authentication using Express,Mongoose and Passport</li><li>A brief introduction to MEAN Stack and creating a hello world MEAN application<br><strong><br></strong>So what are you waiting for lets get started with Node</li></ol><p><span></span></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Master NodeJs : A Practical Approach To Node JS", 
+    "price": "20.00", 
+    "instructors": "SkillBakery Studio", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/643800_5937_2.jpg", 
+    "course_url": "https://www.udemy.com/master-node-js/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-18T06:52:13Z"
+}

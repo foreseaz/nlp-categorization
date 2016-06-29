@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Biology"
+    ], 
+    "description": "\n\n                    \n                    \n                    Brain and behavior are inextricably linked in neuroscience. The function of the brain is to govern behavior, and the aim of this course is to causally link biophysical mechanisms with simple behaviors studied in mice. The brain processes information through the concerted activity of many neurons, which communicate with each other through synapses organised in highly dynamic networks. The first goal of the course is to gain a detailed understanding of the structure and function of the fundamental building blocks of the mammalian brain, its synapses and neurons. The second goal is to understand neuronal networks, with specific emphasis on the interactions of excitatory glutamatergic and inhibitory GABAergic neurons. The third goal is to place neuronal network function in the context of sensory processing ultimately leading to behavioral decisions and motor output.\n\n                                    ", 
+    "end_date": "2018-06-18T00:00:00Z", 
+    "title": "BrainX: Cellular Mechanisms of Brain Function", 
+    "price": 0, 
+    "instructors": "Carl Petersen", 
+    "institution_name": [
+        "École Polytechnique Fédérale de Lausanne"
+    ], 
+    "commitment": "5 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://www.edx.org/course/cellular-mechanisms-brain-function-epflx-brainx-1", 
+    "duration": "144 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2015-09-14T00:00:00Z"
+}

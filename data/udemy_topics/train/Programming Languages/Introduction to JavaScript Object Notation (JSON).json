@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t            JSON stands for JavaScript Object Notation. JSON has become a widely accepted and popular format for data due to it’s platform neutral nature, lightweight format, and it’s ability to convert directly to native JavaScript Objects.  JSON is being used everywhere from Web APIs, to noSQL databases, to server side language libraries and client side frameworks.  </p>  <p>  \t             This course will give you a low level understanding of JSON syntax, data types, and formatting, followed by a high level introduction into the many applications of JSON out in the world today.  This course will also address security concerns with JSON, so you can use JSON in your own applications with confidence.  </p>  <p>  \t            Putting JSON in your tool-belt is the first step.  This course will give you not just an understanding of JSON syntax, but and understanding the role JSON is currently playing in the web today.  </p>  <p>  \t     In Web Development there are a lot of buzzwords buzzing like:  </p>  <ul style=\"\">  \t<li>JSON Web APIs</li>  \t<li>Single Page Applications</li>  \t<li>Client Side Model-View-Controller (or MVC)</li>  \t<li>NoSQL Databases</li>  </ul>  <p>  \t         This course seeks to inspire you in how you can use the new JSON in your toolbelt through exposing you to the role JSON plays in these technologies.  Join me, Marie Taylor, and learn JSON today.  </p>", 
+    "end_date": null, 
+    "title": "Introduction to JavaScript Object Notation (JSON)", 
+    "price": "20.00", 
+    "instructors": "Marie Taylor", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/200824_a678_23.jpg", 
+    "course_url": "https://www.udemy.com/json-training-a-javascript-object-notation-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-17T18:45:37Z"
+}

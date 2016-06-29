@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t In this OS X Mavericks Server training course, expert author Chris Tarnowieckyi will take you deep into the technical aspects setting up an OS X 10.9 server. This course is designed for users that already have experience with Mac OS X and are comfortable with the command line interface.  </p>  <p style=\"\">  \t <br style=\"\">  \t You will start the course with an introduction to the Server app, and then dive into learning advanced tools and management. You will learn about the network infrastructure services such as DHCP configuration, DNS server configuration, and configuring network time. Chris will teach you how to secure services with certificates, create and manage an open directory master, export, import, and manage users and groups, and explore and create open directory replicas. This video tutorial also covers topics such as managing updates and apps, and how to configure file sharing and the mail, web, wiki, calendar, contacts, and message server. Finally, you will learn how to configure the NetInstall and Xcode service.<br style=\"\">  \t <br style=\"\">  \t By the conclusion of this video based training course, you will have an extensive understanding of the OS X 10.9 Mavericks server, ranging from basic server installation and administration to more challenging subjects such as DNS, security certificates, and Directory Services. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Apple OS X Mavericks Server Training - A Definite Guide", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/149650_c9ce_6.jpg", 
+    "course_url": "https://www.udemy.com/mavericks-server/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Apple"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-20T16:58:51Z"
+}

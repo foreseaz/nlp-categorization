@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>This course teaches soil and water district technicians and junior engineers how to model small watersheds for conservation and stormwater management structures.  Three hydrological models are presented:  EFH2, TR-20/TR-55, and the rational method.  The course includes a blend of GIS and by-hand analysis methods.  For the GIS portions, parallel workflows are presented for ArcGIS (Spatial Analyst extension), and for QGIS.  The EFH2 software is presented for rural hydrology while HydroCAD (Free Sampler edition) is used for urban projects.  The course culminates in two design examples to allow students to implement what they've learned.          </p>", 
+    "end_date": null, 
+    "title": "Basic Hydrology", 
+    "price": 0, 
+    "instructors": "Tim Clark, PE", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/523362_c04d_2.jpg", 
+    "course_url": "https://www.udemy.com/basic-hydrology/", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-08T15:12:28Z"
+}

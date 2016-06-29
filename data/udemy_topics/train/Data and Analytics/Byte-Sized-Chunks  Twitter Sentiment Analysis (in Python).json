@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p><strong><strong><strong><strong>Note: This course is a subset of our 20+ hour course 'From 0 to 1: Machine Learning &amp; Natural Language Processing' so please don't sign up for both:-)</strong></strong></strong><br></strong></p><p><strong>Sentiment Analysis (or) Opinion Mining </strong>is a field of NLP that deals with extracting subjective information (positive/negative, like/dislike, emotions). <br></p><ul><li>Learn why it's useful and how to approach the problem: Both Rule-Based and ML-Based approaches. </li><li>The details are really important - training data and feature extraction are critical. Sentiment Lexicons provide us with lists of words in different sentiment categories that we can use for building our feature set. </li><li>All this is in the run up to a serious project to perform <strong>Twitter Sentiment Analysis</strong>. We'll spend some time on Regular Expressions which are pretty handy to know as we'll see in our code-along.</li></ul><p><strong><em>Sentiment Analysis: </em></strong></p><ul><li>Why it's useful, </li><li>Approaches to solving - Rule-Based , ML-Based </li><li>Training &amp; Feature Extraction</li><li>Sentiment Lexicons</li><li>Regular Expressions</li><li>Twitter API</li><li>Sentiment Analysis of Tweets with Python</li></ul>", 
+    "end_date": null, 
+    "title": "Byte-Sized-Chunks: Twitter Sentiment Analysis (in Python)", 
+    "price": "20.00", 
+    "instructors": "Loony Corn", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/783676_9986.jpg", 
+    "course_url": "https://www.udemy.com/sentiment-analysis/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-06T03:57:36Z"
+}

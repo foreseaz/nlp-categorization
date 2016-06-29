@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t <strong style=\"\">What if you could turn that great game idea into a real game  that could be played on the web, on desktop, iOS, Android and all other  platforms?</strong>  </p>  <p style=\"\">  \t <strong style=\"\">Stop postponing your dreams and get started TODAY</strong>. Learn at your own pace how to create <strong style=\"\">HTML5</strong> games in this course that follows the <strong style=\"\">learn by doing</strong> approach.  </p>  <p style=\"\">  \t   Through out the course, we&#039;ll make an <strong style=\"\">educational game</strong> with the <strong style=\"\">Quintus HTML5</strong>  framework, one of the most powerful and lean game frameworks out there  that allows you create games that work on phones, desktop, smart tvs and  any HTML5 supporting devices!  </p>  <p style=\"\">  \t   These are just some of the many things you&#039;ll learn in this course:  </p>  <ul style=\"\">  \t<li style=\"\">Creating simple 2D games for the web, mobile and all devices.</li>  \t<li style=\"\">Working with modules to keep your code organized.</li>  \t<li style=\"\">Creating 2D tile-based worlds.</li>  \t<li style=\"\">Using sprites and spritesheets in your games.</li>  \t<li style=\"\">Collision detection.</li>  \t<li style=\"\">2D physics basics.</li>  \t<li style=\"\">Game flow: game over and restart game.</li>  \t<li style=\"\">Loading level data from JSON objects.</li>  \t<li style=\"\">Putting it all together in a simple demo!</li>  </ul>  <p style=\"\">  \t   This course was created by <strong style=\"\">Pablo Farias Navarro</strong>, founder of <strong style=\"\">ZENVA</strong> and active contributor to the Quintus open source project, the same library we use in this course.  </p>  <p style=\"\">  \t <strong style=\"\">After  teaching over 30.000 people how to code games, apps and websites we&#039;ve  gained valuable insight on how online education should be. </strong>  </p>  <p style=\"\">  \t <strong style=\"\">We  are putting it all in practice on this course and we are sure it will  give you the tools you need to get your game ideas up and running.</strong>  </p>", 
+    "end_date": null, 
+    "title": "HTML5 Mobile Game Development by Example - Educational Game", 
+    "price": "20.00", 
+    "instructors": "Pablo Farias Navarro", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/195982_8e9f_2.jpg", 
+    "course_url": "https://www.udemy.com/html5-game-development-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-08T22:57:21Z"
+}

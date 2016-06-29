@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Learn the concepts and functions that will provide you with solid skills about Networking in IBM Mainframe environment. </p>  <p><strong>Build a strong foundation in VTAM with this tutorial for beginners. </strong></p>  <p>VTAM is the software component of IBM Communications Server that permits mainframe applications to get access to the network. After many years VTAM keeps on playing a key role in a z/OS infrastructure. SNA and TCP/IP architectures are used simultaneously in z/OS, and VTAM helps both to be implemented.</p>  <p><strong>A Powerful Skill at Your Fingertips </strong><br> Learning the fundamentals of VTAM gives you a solid understanding about how a IBM mainframe network  functions, and the basic skills to go forward in the networking area. </p>  <p><strong>What am I going to get from this course? </strong></p>  <p>Students completing the course will have the knowledge to display, configure and operate network resources implemented by VTAM. </p>  <ul><li>Over 6 lectures and 1 hour of content!</li><li>Learn in a short time very specialized matters only      available, up to now, attending private and expensive courses.</li><li>First, you will start learning where VTAM is placed      into z/OS Communications Server, then SNA architecture will be reviewed,      and traditional concepts, such as PU, LU and SSCP will arise.  PUs and LUs are still of common use today      in modern mainframe networks, and it is needed to know which kind of      resources they represent. </li><li>VTAM implements SNA architecture and permits TCP/IP to      use the hardware network adapters. VTAM concepts and operations lectures      will give us the means to configure PUs and LUs in major nodes, and      commands to display sessions or activate interfaces.</li><li>The class will end with a demo that will show you how      to configure two VTAMs in order to establish a connection.</li></ul>", 
+    "end_date": null, 
+    "title": "VTAM overview", 
+    "price": "25.00", 
+    "instructors": "Fran Rubi", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/705796_def5_3.jpg", 
+    "course_url": "https://www.udemy.com/vtam-overview/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-24T14:52:01Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Tired of seeing endless 'How to code 10,000 iOS apps in 10 days' courses?</p><p>Ever just wanted to <strong>get stuck in to iOS app making right away</strong>?</p><p>Well, that's why I created this course! No other course takes you from beginner (with no experience) to a full app in less time than it takes to make a sandwich! I will show you how to:</p><ul><li>Install Xcode (and iOS simulator)</li><li>Setup the graphical look of your app using Storyboards</li><li>Connect graphical elements like buttons and Text Fields to your Swift code using outlets</li><li>Manipulate images (pinch to zoom) within iOS apps</li></ul><p><strong><br></strong></p><p><strong>This course is for you if you:</strong></p><ul><li>Are a beginner or novice to iOS App development in Xcode 7 and Swift</li><li>Want to understand iOS apps in a short period of time</li><li>Love proceeding at an awesomely brisk pace!</li></ul><p><strong><br></strong></p><p><strong>This course is not for you if:</strong></p><ul><li>You are an expert or intermediate programmer</li></ul><p><strong><br></strong></p><p><strong>What software do you need?</strong></p><ul><li>Xcode (free) which runs on Max OS X (or an OS X virtual machine)</li></ul><p><strong><br></strong></p><p><strong>Do you need experience?</strong></p><ul><li>No. I assume you are a complete beginner to apps and development in general</li></ul><p><strong><br></strong></p><p><strong>What makes this course different?</strong></p><p>It's just <strong><em>so</em></strong> quick! Take i right now and you'll learn iOS apps before you can even blink! Everyone used to tell me apps were hard to make - but they're wrong. It's probably because they had bad teachers - join me and I'll show you what good teaching is!</p><p>------------------------------------------------</p><p><strong>PLEASE NOTE: </strong>This course is designed to get you up and running with Xcode and iOS in <strong><em>record</em></strong> time. Therefore I have limited time to actually explain everything. My other course on iOS app development explains everything we do in much more detail.<br></p><p>------------------------------------------------<br></p><p><strong>ALSO NOTE: </strong><span>THIS IS A FREE COURSE. I gave up about a week of my time to put it together and now you can learn for <strong>free</strong>. Some people in the reviews section think that means I have reply to every single thing they request. If I don't reply then they drop me a bad review - all because I didn't give them personalised attention.</span></p><p><span>I'm sure that you, the reader, know what kind of people these are...</span></p><p><span>I reply to all my <strong>paid</strong> courses as a <strong>priority</strong> and then to my free ones if time allows. Please understand this <strong>before </strong><span>taking this course.</span><br></span></p>", 
+    "end_date": null, 
+    "title": "Mobile App Development in 27 Minutes: iOS App", 
+    "price": "20.00", 
+    "instructors": "Mr Grant Klimaytys", 
+    "commitment": "34 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/695492_9563.jpg", 
+    "course_url": "https://www.udemy.com/iso-app-development-tutorial-in-27-minutes/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-12T09:44:41Z"
+}

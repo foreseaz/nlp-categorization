@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Overview</strong></p><p><strong></strong>This is a comprehensive course designed to show how to use the Terminal app in Mac OS X and many Bash shell commands, many overlap with Linux or other *nix variants.</p><p><span></span></p><p>The course currently covers the following:</p><ul><li>Setup and installation of tools used in this course (outside the Terminal app)</li><li>How to navigate while in the Terminal (file and directory oriented)</li><li>How to manage files and directories (create, edit, delete, etc)</li><li>Temporarily elevating to admin rights when needed</li><li>Changing permissions on files and folders</li><li>Writing simple Bash scripts</li></ul><p>Each one of these concepts is demonstrated in a methodological, step-by-step manner so you can follow along for easy learning.</p><p><strong>Course Outline</strong></p><p><em>Introduction </em>provides an overview for the course.</p><p><em>Installation </em>provides step-by-step instructions on how to setup Terminal and all the related tools for the course.</p><p><em>The Basics</em> provides the first look at several core or foundational commands. While learn how to get around, manage files and even some simple ways to use the output of commands.</p><p>After the basics are covered, we dive into permissions related concepts by assuming admin user while we change permissions on files and folders.</p><p>Finally, we cover some more Advanced topics like writing a Bash shell script and customizing the Bash environment.</p><p><strong>Course Features</strong><br></p><p>Presentations provide audio/video training of conceptual ideas in each major area or introduction of new concepts.</p><p>Screencasts provide a video of the instructor's computer system with any actions, commands, or screens displayed and narrated. There are several hours of screencat video content -- it makes up the vast majority of the course. Any command line based screencast will include a command listing in the lecture downloads.</p><p>At the end of each section is a document lecture with a listing of commands or a brief tutorial regarding the video content covered during that section.</p>", 
+    "end_date": null, 
+    "title": "Unleashing the Mac OS X Terminal for Absolute Beginners", 
+    "price": "20.00", 
+    "instructors": "Jason Taylor", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/487226_c48d.jpg", 
+    "course_url": "https://www.udemy.com/mac-bash-terminal/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-27T04:30:22Z"
+}

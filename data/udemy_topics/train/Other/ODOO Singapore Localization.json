@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course is for the HR, Payroll and Accounting configuration in ODOO. It has detail configuration available for HR, Payroll, Accounting with Salary rule configuration in ODOO, Leave Management, Holidays in ODOO, Account and Tax configuration in ODOO. It will show demo of the Multi currency transaction in ODOO and multi currency configuration. IRAS report generation and GST reports printing.</p><p>ODOO Consultants, Partners, Developers, Entrepreneur who are using or planning to use ODOO in their Organization can subscribe in this course.</p><p>This course contains video tutorials for the configuration, Operations and report generation of HR Payroll and Accounting. This course will help you to configure ODOO fresh database for the Employee, Employee Contracts, Workshifts, Design Salary structures and generate payslips in batch. COnfiguring COA, Tax charts, Generate GST and tax audit reports.<br></p>", 
+    "end_date": null, 
+    "title": "ODOO Singapore Localization", 
+    "price": 0, 
+    "instructors": "Mr. Jay Vora, Mr. Husen Daudi", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/665550_8e50_4.jpg", 
+    "course_url": "https://www.udemy.com/odoo-singapore-localization/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-10T05:50:26Z"
+}

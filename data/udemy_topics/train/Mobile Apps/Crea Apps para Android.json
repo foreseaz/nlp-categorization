@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tEl curso <strong>“Crea Apps para Android\"</strong> tiene como objetivo que las personas que ya tienen las bases de android puedan <strong>desarrollar aplicaciones de mejor forma</strong>, esto lo lograran con los elementos que tocamos en el temario: Listview, Arrayadapter, Menu, Sharedpreference, Dialog, Llamadas, sms entre otros.  </p>  <p>  \t<strong>Las lecciones cuentan cada una con su video</strong> en donde se explica a detalle lo que necesitamos saber para utilizarlas de forma correcta.  </p>  <p>  \tEste curso se hizo como continuación para las personas que ya tomaron el curso de Desarrollo “Android básico\" pero <strong>si tienes las bases de android no debe existir ningún problema en tomarlo </strong>y asimilar el contenido.  </p>  <p>  \tEste  curso es a un bajo costo con el afán de compartir con la mayoría de personas posibles, tratare de estar pendiente y les  pido pacienciaa todos los que lo toman para responder sus dudas, también<strong> invito a otros miembros del curso que si pueden colaborar con respuestas</strong> y  manteniendo así la participación de todos como comunidad y que es una forma de aprender mucho más.  </p>", 
+    "end_date": null, 
+    "title": "Crea Apps para Android", 
+    "price": "20.00", 
+    "instructors": "José Luján", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/303942_c6aa_3.jpg", 
+    "course_url": "https://www.udemy.com/android-intermedio/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-19T23:38:09Z"
+}

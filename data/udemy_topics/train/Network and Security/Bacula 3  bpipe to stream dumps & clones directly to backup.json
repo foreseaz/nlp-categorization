@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong style=\"\">*This s the continuation of the course Bacula 1: Open Source Backup Software, available at Udemy\"</strong><br style=\"\"></p><p>Using bpipe is the fastest, easiest, most automated and economic way of doing hot backups of specific application such Postgresql, Mysql, Firebird, Oracle databases; Xen and Kvm Virtual Machines export / snapshots; tar packages with several files; and more!</p><p>The bpipe plugins automatically creates, writes and reads from a FIFO, and is able to restore information <strong style=\"\">directly</strong> to your application. E.g.: restore a database directly from Bacula, without the need to do any further operation. And you can do that with Bacula Community or Enterprise.</p><p>Any information that I send though the echo it goes but is not really stored on the FIFO; it is read directly by the Bacula and written into backup volume. You don't use disk space for that.<br style=\"\"></p><p>Training example applications: </p><ul style=\"\"><li>MySQL</li><li>PostgreSQL</li><li>Firebird</li><li>LDAP</li><li>XenServer</li><li>Tar</li><li>Echo </li><li>etc.</li></ul>", 
+    "end_date": null, 
+    "title": "Bacula 3: bpipe to stream dumps & clones directly to backup", 
+    "price": "30.00", 
+    "instructors": "Heitor Medrado De Faria", 
+    "commitment": "34 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/595492_fa46.jpg", 
+    "course_url": "https://www.udemy.com/bacula-3-bpipe-plugin-hot-backup-en/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-28T00:48:49Z"
+}

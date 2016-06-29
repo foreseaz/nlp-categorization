@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>More and more people are realising the vast benefits and uses of analysing big data. However, the majority of people lack the skills and the time needed to understand this data in its original form. That's where data visualisation comes in; creating easy to read, simple to understand graphs, charts and other visual representations of data. Python 3 and Matplotlib are the most easily accessible and efficient to use programs to do just this. </p><p><strong>Learn Big Data Python</strong></p><p>Visualise multiple forms of 2D and 3D graphs; line graphs, scatter plots, bar charts, etc.</p><p>Load and organise data from various sources for visualisation</p><p>Create and customise live graphs</p><p>Add finesse and style to make your graphs visually appealling</p><p><strong>Python Data Visualisation made Easy</strong></p><p>With over 58 lectures and 6 hours of content, this course covers almost every major chart that Matplotlib is capable of providing. Intended for students who already have a basic understanding of Python, you'll take a step-by-step approach to create line graphs, scatter plots, stack plots, pie charts, bar charts, 3D lines, 3D wire frames, 3D bar charts, 3D scatter plots, geographic maps, live updating graphs, and virtually anything else you can think of!</p><p>Starting with basic functions like labels, titles, window buttons and legends, you'll then move onto each of the most popular types of graph, covering how to import data from both a CSV and NumPy. You'll then move on to more advanced features like customised spines, styles, annotations, averages and indicators, geographical plotting with Basemap and advanced wireframes. </p><p>This course has been specially designed for students who want to learn a variety of ways to visually display python data. On completion of this course, you will not only have gained a deep understanding of the options available for visualising data, but you'll have the know-how to create well presented, visually appealing graphs too. </p><p><strong>Tools Used</strong></p><p><strong>Python 3: </strong>Python is a general purpose programming language which a focus on readability and concise code, making it a great language for new coders to learn. Learning Python gives a solid foundation for learning more advanced coding languages, and allows for a wide variety of applications.<strong></strong></p><p><strong>Matplotlib: </strong>Matplotlib is a plotting library that works with the Python programming language and its numerical mathematics extension 'NumPy'. It allows the user to embed plots into applications using various general purpose toolkits (essentially, it's what turns the data into the graph).</p><p><strong>IDLE: </strong>IDLE is an Integrated Development Environment for Python; i.e where you turn the data into the graph. Although you can use any other IDE to do so, we recommend the use of IDLE for this particular course. </p>", 
+    "end_date": null, 
+    "title": "Data Visualization with Python and Matplotlib", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/549328_6def_2.jpg", 
+    "course_url": "https://www.udemy.com/data-visualization-with-python-and-matplotlib/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-08T19:07:55Z"
+}

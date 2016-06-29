@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>If you want to learn how to perform real advanced statistical analyses in the R program, you have come to the right place.</p>    <p>Now you don’t have to scour the web endlessly in order to find how to do an analysis of covariance or a mixed analysis of variance, how to execute a binomial logistic regression, how to perform a multidimensional scaling or a factor analysis. Everything is here, in this course, explained visually, step by step.</p>    <p>So, what’s covered in this course?</p>    <p>First of all, we are going to study some more techniques to evaluate the mean differences. If you took the intermediate course- which I highly recommend you – you learned about the t tests and the between-subjects analysis of variance. Now we will go to the next level and tackle the analysis of covariance, the within-subjects analysis of variance and the mixed analysis of variance.</p>    <p>Next, in the section about the predictive techniques, we will approach the logistic regression, which is used when the dependent variable is not continuous – in other words, it is categorical. We are going to study three types of logistic regression: binomial, ordinal and multinomial.</p>    <p>Then we are going to deal with the grouping techniques. Here you will find out, in detail, how to perform the multidimensional scaling, the principal component analysis and the factor analysis, the simple and the multiple correspondence analysis, the cluster analysis (both k-means and hierarchical) , the simple and the multiple discriminant analysis.</p>    <p>So after finishing this course, you will be a real expert in statistical analysis with R – you will know a lot of sophisticated, state-of-the art analysis techniques that will allow you to deeply scrutinize your data and get the most information out of it. So don’t wait, enroll today!</p>", 
+    "end_date": null, 
+    "title": "Statistics with R - Advanced Level", 
+    "price": "20.00", 
+    "instructors": "Bogdan Anastasiei", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/691894_1aec_3.jpg", 
+    "course_url": "https://www.udemy.com/statistics-with-r-advanced-level/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-08T08:53:06Z"
+}

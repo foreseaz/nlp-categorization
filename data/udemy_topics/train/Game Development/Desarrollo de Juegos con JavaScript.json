@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tEl mundo de los juegos es enorme y fascinante, hay muchas tecnologías y posiblidades para crearlos y una de la más potentes es JavaScript, para que tus juegos puedan estar en la web, accesibles a todo el mundo desde dispositivos tan extendidos como tablets, smartphones o los clásicos PCs. Por ello en este curso aprenderas a programar con JavaScript diferentes rutinas y funciones enfocadas al desarrollo de un juego, aunque tales conocimientos igualmente puedes orientarlos a otros objetivos.<br style=\"\">  </p>  <p style=\"\">  \tEn este completo videocurso online vas a aprender diferentes facetas  que son la base de cualquier juego de dos dimensiones. Entre otras cosas aprenderás a:  </p>  <ul style=\"\">  \t<li style=\"\">Administrar el entorno de juego</li>  \t<li style=\"\">Administración de Cronómetro</li>  \t<li style=\"\">Situaciones aleatorias</li>  \t<li style=\"\">Control de movimientos</li>  \t<li style=\"\">Restricción de movimientos</li>  \t<li style=\"\">Casillas Bonus</li>  \t<li style=\"\">Creación de niveles</li>  \t<li style=\"\">Mensajes PopUp</li>  \t<li style=\"\">Temporizador de Mensajes</li>  \t<li style=\"\">Botones de twitter dinámicos y personalizados</li>  </ul>  <p style=\"\">  \tUsaremos conceptos de programación como variables de uso global, llamadas a funciones, invocación a diferentes scripts, bucles anidados, matrices y arrays, manipulación del DOM desde javascript o cambio de diseño css desde javascript entre otros, va desde cero, pero no es un curso básico. Además se ven varios factores en un juego que, no estando tan relacionados con la programación, sí ayudan a que se difunda para que tenga más exito, como por ejemplo la difusión por redes sociales personalizada con los resultados de las partidas.  </p>  <p style=\"\">  \t  El juego que aprenderás a desarrollar es real, está publicado en la web y cada día es visitado por muchos usuarios, además es de código abierto por lo que tú mismo podrías hacer cambios en el diseño o los patrones del juego si accedes a él en github. El enlace tanto al sitio web del juego como al proyecto github lo tendrás dentro del curso.  </p>  <p style=\"\">  \t  Todos los pasos estan explicados desde cero, y podrás comprobar la secuencia a seguir en la estructuración de un juego complejo.  </p>  <p style=\"\">  \t  Seguro que tras este curso, tú mismo podrías desarrollar algún tipo de entretenimiento muy interesante y pasar de jugador y espectador a creador de juegos.  </p>  <p style=\"\">  \t Atrévete !!  </p>", 
+    "end_date": null, 
+    "title": "Desarrollo de Juegos con JavaScript", 
+    "price": 0, 
+    "instructors": "Jose Javier Villena", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/338364_e4f8_2.jpg", 
+    "course_url": "https://www.udemy.com/desarrollo-de-juegos-con-javascript/", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-07T10:32:12Z"
+}

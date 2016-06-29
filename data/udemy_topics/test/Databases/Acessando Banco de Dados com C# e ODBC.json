@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Curso de C# e .NET para desenvolver aplicações que comunicam-se com banco de dados relacional. A maioria das aplicações em C# e .NET atualmente acessam e armazenam as informações de bancos de dados relacionais, por exemplo, SQL Server, Oracle, MySQL, PostgreSQL, sendo imprescindível este curso a qualquer desenvolvedor. </p><p>Neste curso veremos as boas práticas do mercado para acessar e armazenar as informações nos bancos de dados, como evitar o SQL Injection etc. Utilizaremos o Visual Studio, SQL Server e SQL Server Management Studio. </p><p>Apesar de utilizarmos o SQL Server, todos os conceitos e conteúdos vistos podem ser aplicados facilmente a outros bancos de dados, como Oracle, MySQL, PostgreSQL etc. Este curso é recomendável a qualquer desenvolvedor, independente do banco de dados a ser utilizado.</p>", 
+    "end_date": null, 
+    "title": "Acessando Banco de Dados com C# e ODBC", 
+    "price": "20.00", 
+    "instructors": "Rafael Cosentino, Jonas Hirata, Marcelo De Rezende Martins, K19 Treinamentos", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/775560_5245.jpg", 
+    "course_url": "https://www.udemy.com/acessando-banco-de-dados-com-csharp-e-odbc/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-26T22:25:29Z"
+}

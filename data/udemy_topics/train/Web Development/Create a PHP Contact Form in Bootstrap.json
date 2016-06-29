@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Learn the basic concepts, tools, and functions that you will need to build fully functional Contact Form using PHP markup within bootstrap 3 or 4!</strong></p><p>You will work through these lectures and build a fully working contact form that you can apply to any website through the use of HTML, CSS &amp; PHP. Ideal for getting feedback, answering questions or even collecting emails for a mailing list.</p><ul><li>Create a working PHP form in the bootstrap 3 or 4 framework</li><li>Add success &amp; error message to increase user experience</li><li>Add custom styles to your form via CSS</li></ul><p><br>We will work our way through the entire process so you can easily add a contact form to your current bootstrap page, bootstrap website or add contact forms to your bootstrap templates to increase conversions, and you’ll soon realize that it isn't actually as difficult as it may seem, and it will give you page a whole new feature.</p><p>This course will walk you through the entire process, from setting up your page, to applying the form through HTML, then applying what PHP you need to 'plug' the form into your page. You will then add styles to the form through CSS so you can easily match it to any style of page you want to create, or have already created.<br></p><p>You will code the whole form from start to finish, and get a\nsolid understanding of how easy it is to build a contact form within the\nbootstrap framework and how to apply PHP markup so you’ll be receiving messages\nthrough your site in no time at all. </p><p><strong>So enrol on this course today and give\nyour landing pages or sites a new feature with a fully working contact form!</strong><br></p>", 
+    "end_date": null, 
+    "title": "Create a PHP Contact Form in Bootstrap", 
+    "price": "20.00", 
+    "instructors": "Andy Clarke", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/654422_48b1_2.jpg", 
+    "course_url": "https://www.udemy.com/bootstrap-php-contact-form/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-29T11:32:42Z"
+}

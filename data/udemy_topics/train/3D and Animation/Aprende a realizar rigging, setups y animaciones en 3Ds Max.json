@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t  En este curso aprenderas los conceptos necesarios para adentrarte en el mundo del rigging, los setups y la animación.  </p>  <ul>  \t<li>Aprenderás las bases y herramientas para realizar un Rigging con Bones a nuestros personajes en 3dsMAX, estudiando las reglas básicas y realizando una práctica para aplicar todos los conocimientos adquiridos. </li>  \t<li>Veremos cómo realizar un rigging a un personaje con Character Studio, utilizando tanto envolventes como pesado por vértices para completar el rig. </li>  \t<li>También veremos como animar con Character Studio diferentes tipos de claves, como utilizar los puntos de pivote, al igual que familiarizarnos con su interface, combinar animación con capas y un primer contacto con Motion Mixer para poder combinarlas. </li>  \t<li>Por último realizaremos el setup de un cuerpo gelatinoso utilizando bones y el controlador spring para conseguir ese efecto tan característico que posee la gelatina de una manera relativamente rápida.</li>  </ul>", 
+    "end_date": null, 
+    "title": "Aprende a realizar rigging, setups y animaciones en 3Ds Max", 
+    "price": "20.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/188780_d79e.jpg", 
+    "course_url": "https://www.udemy.com/aprende-a-realizar-rigging-setups-y-animaciones-en-3ds-max/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-25T22:20:20Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">¡Aprende todo lo que necesitas saber sobre Desarrollo Web aunque nunca hayas  programado antes!</strong>  </p>  <ul style=\"\">  \t<p>  \t\t            ·Lo Básico: HTML, XHTML, CSS y JavaScript  \t</p>  \t<p>  \t\t            ·Desarrollo BackEnd: PHP, MySQL, XML y JSON  \t</p>  \t<p>  \t\t            ·Desarrollo FrontEnd: AJAX, jQuery, HTML5 y CSS3  \t</p>  </ul>  <p>  \t<strong style=\"\">Únete a más de 36,000 estudiantes y aprende a construir una multitud de </strong><strong style=\"\">páginas y proyectos web a partir de cero. </strong>  </p>  <p>  \t            En más de 45 horas de contenido, este extenso curso sobre programación te enseñará todo lo que necesitas saber sobre cómo convertirte en un desarrollador web. &quot;Desarrollo Web&quot; es el término utilizado para definir todo el trabajo involucrado en la creación de una página o aplicación web. Desarrollo web puede ir desde la creación de una página web simple y estática hasta las aplicaciones web más complejas, como por ejemplo: Facebook, Ebay, o Google Maps.  </p>  <p>  \t            Este curso es actualizado periódicamente y contiene tutoriales en vídeo, ejercicios, manuales y recursos que te ayudarán a tener éxito. Cualquier persona que quiera aprender desarrollo web debe inscribirse hoy mismo - no necesita experiencia previa.  </p>  <p>  \t<strong style=\"\">Contenidos y Visión General </strong>  </p>  <p>  \t            El curso empieza enseñando cómo funciona internet, con una introducción a HTML, XHTML, y CSS. Aprenderás cómo crear texto, listas, enlaces, metadatos, imágenes, tablas, cell-spacing y más. En la segunda Sección pasarás a JavaScript donde aprenderás cómo utilizar scripts externos, comentarios, variables, loops, arrays y alertas, así como otras funcionalidades de JavaScript. La tercera Sección trata sobre PHP y MySQL: strings, números, constantes, matrices, operadores, sesiones, paginación, bases de datos, cookies, etc (como puedes ver, el curso es EXTENSO - para más detalles mira la lista de abajo). Las cuarta y quinta Secciones tratan sobre XML y JSON, pasando después para AJAX. La sétima Sección trata sobre jQuery: efectos, eventos, funciones de devolución de llamadas, menús desplegables, autocomplete y cajas de diálogo. La octava Sección pasa para HTML5 y CSS3: artículos, elementos, jerarquías, pseudo clases y non-pseudo clases, animaciones, transformaciones y más. Este curso te dará un conocimiento fundamental sobre desarrollo web - incluso hay un certificado de finalización al final.  </p>  <p>  \t            &quot;<strong style=\"\">¡Desarrollo Web Desde Cero!</strong>&quot; te dará una nueva perspectiva sobre cómo funciona internet. Después de haber completado el curso, tendrás la amplitud de conocimientos que te permitirán ser capaz de crear tus propias páginas y aplicaciones web con la tecnología más reciente.  </p>", 
+    "end_date": null, 
+    "title": "Desarrollo Web Desde Cero", 
+    "price": "30.00", 
+    "instructors": "Victor Bastos", 
+    "commitment": "41 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/21679_e097_35.jpg", 
+    "course_url": "https://www.udemy.com/aprende-desarrollo-web-curso-completo/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-07-24T10:05:36Z"
+}

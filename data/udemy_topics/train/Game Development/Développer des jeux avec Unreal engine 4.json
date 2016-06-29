@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Vous souhaitez vous lancer dans le <strong class=\"redactor-inline-converted\">développement de jeux avec Unreal engine 4</strong>, le meilleur <strong class=\"redactor-inline-converted\">moteur de jeux</strong> au monde ? Alors cette formation est faite pour vous !</p><p>Dans ce cours vous allez apprendre à utiliser <strong class=\"redactor-inline-converted\">Unreal engine 4</strong> ainsi que ses différents outils intégrés afin de <strong>créer des jeux 3D</strong>. Que vous soyez débutant ou développeur Unity (ou tout autre moteur de jeu) cette formation est faite pour vous. </p><p>Vous apprendrez à créer des niveaux, à créer votre personnage, à programmer avec l'éditeur de code visuel \"Blueprint\" et à concevoir des interfaces utilisateur. Vous n'avez pas besoin de connaître la programmation pour suivre ce tutoriel car nous allons tout apprendre depuis le début.</p><p>Nous découvrirons :</p><ul><li>L'interface</li><li>Le launcher</li><li>Le level design</li><li>La programmation</li><li>La création du personnage joueur</li><li>La gestion des collisions</li><li>La création d'interfaces</li></ul><p>Et bien plus !</p>", 
+    "end_date": null, 
+    "title": "Développer des jeux avec Unreal engine 4", 
+    "price": "35.00", 
+    "instructors": "Anthony Cardinale", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/833428_bbb2.jpg", 
+    "course_url": "https://www.udemy.com/creer-des-jeux-avec-unreal-engine-et-blueprint/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-27T12:53:01Z"
+}

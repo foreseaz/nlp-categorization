@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>SQL Server Integration Services <strong>(SSIS) </strong>is a tool that we use to perform ETL operations; i.e. extract, transform and load data.</p><p>We will also sort out the various <strong>versions</strong> and <strong>name changes</strong>. For example, in SQL Server 2014 Microsoft decided to no longer include <strong>SQL Server Data Tools </strong>(Another Visual Studio shell for SSIS) as part of the normal install. This confused everyone. To make matters worse, you now download and install different tools depending on what you have already.</p><p>This <strong>course</strong> will provide you with a solid foundation of <strong>SQL Server Integration Services.</strong> We will cover everything from the designer to crafting high quality packages.</p><p>While <strong>ETL processing</strong> is common in data warehousing (DW) applications, SSIS is by <strong>no</strong> means limited to just Data warehousing approaches.</p><p>For example, when you create a <strong>Maintenance Plan</strong> using SQL Server Management Studio (SSMS) <strong>an SSIS package is created</strong>.</p><p>You'll learn all the <strong>vernacular</strong> associated with SSIS as well as all the <strong>core components.</strong></p><p>We'll cover the package in detail. The package is the <strong>unit of work</strong> that is retrieved, executed, and saved.</p><p>At a high level, <strong>SSIS</strong> provides the ability to retrieve data from just about any source, perform transformations on data, <strong>covert</strong> data from one type to another, <strong>load data </strong>into just about any source and define complex workflows that move disparate data throughout any organization.</p><p>In this course you'll learn how to use SSIS to <strong>develop</strong> data integration, migration and consolation packages that you as a DBA or developer can use in any organization that has data.</p><p>In the course we will cover the <strong>integration</strong> with other SQL Server products like<strong> SSMS.</strong> SQL Server Management Studio provides the Integration Services service that you use to manage packages, monitor running packages, and determine impact and data lineage for Integration Services and SQL Server objects.</p><p>I look forward to <strong>seeing you</strong> in the course. </p><p><strong>Join Now!!!!!</strong></p>", 
+    "end_date": null, 
+    "title": "Mastering the Fundamentals of SSIS", 
+    "price": "20.00", 
+    "instructors": "Mike West", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/753500_8958.jpg", 
+    "course_url": "https://www.udemy.com/mastering-the-fundamentals-of-ssis/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-05T15:44:45Z"
+}

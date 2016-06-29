@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this Programming in Microsoft C# - Exam 70-483 training course, expert author Mark Long will teach you the fundamental aspects of C#, and help you prepare for Microsoft&#039;s 70-483 certification exam. This course is designed for the absolute beginner, meaning no experience with C# is required. </p><p>You will start by learning about the Visual Studio setup, then jump into learning the C# basics, such as classes, objects, C# types, and value and reference types. From there, Mark will teach you how to work with C# types, such as how to use properties and fields, access modifiers, and understand and use constructors. This video tutorial also covers how to implement class hierarchies, understand delegates and events, and garbage collection basics. Finally, you will learn about asynchronous programming and data security, such as how to encrypt user files and hash data. </p><p>Once you have completed this computer based training course, you will have gained a solid understanding of the fundamental aspects of C#, as well as be able to complete the 70-483 certification exam.</p>", 
+    "end_date": null, 
+    "title": "Programming in Microsoft C# - Exam 70-483", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/451360_decc_4.jpg", 
+    "course_url": "https://www.udemy.com/programming-in-microsoft-c-exam-70-483/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-19T16:41:30Z"
+}

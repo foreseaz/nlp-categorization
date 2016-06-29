@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Algebra & Geometry"
+    ], 
+    "description": "\n\n                    \n                    \n                    From simulating complex phenomenon on supercomputers to storing the coordinates needed in modern 3D printing, data is a huge and growing part of our world. A major tool to manipulate and study this data is linear algebra. This course is part 1 of a 2-part course.  In this part, we’ll learn basics of matrix algebra with an emphasis on application.  This class has a focus on computer graphics while also containing examples in data mining. We’ll learn to make an image transparent, fade from one image to another, and rotate a 3D wireframe model.  We’ll also mine data; for example, we will find similar movies that one might enjoy seeing. In the topic of sports ranking, we’ll be ready to participate in March Madness and submit our own mathematically generated brackets to compete against millions of others.  The lectures are developed to encourage you to explore and create your own ideas either through your own programming but also with online tools developed for the course.  Come to this course ready to investigate your own ideas.\n\n                                    ", 
+    "end_date": "2015-03-30T00:00:00Z", 
+    "title": "D003x.1: Applications of Linear Algebra Part 1", 
+    "price": 0, 
+    "instructors": "Bruce Scates", 
+    "institution_name": [
+        "Davidson College"
+    ], 
+    "commitment": "1 hours", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2015-02-23T00:00:00Z"
+}

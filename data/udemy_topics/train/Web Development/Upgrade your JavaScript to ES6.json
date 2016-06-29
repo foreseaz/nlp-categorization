@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">This course has been created for developers interested in learning ES6 or who are JavaScript developers and would like to upgrade their current skills and learn the latest specification of the most widely used programming language.</p><p style=\"\">The course currently consists of 9 modules, each of them packed with examples and explanations on specific ES6 topics.</p><p style=\"\">The course takes about 2-3 hours to complete.</p>", 
+    "end_date": null, 
+    "title": "Upgrade your JavaScript to ES6", 
+    "price": "20.00", 
+    "instructors": "Full Stack Training Ltd", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/536524_8e83_9.jpg", 
+    "course_url": "https://www.udemy.com/fst-ecmascript-6/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-24T20:22:52Z"
+}

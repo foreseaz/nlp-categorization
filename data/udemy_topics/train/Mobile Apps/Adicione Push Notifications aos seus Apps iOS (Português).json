@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  Você é desenvolvedor iOS e quer fazer sucesso na App Store? Este curso é pra você!  </p>  <p style=\"\">  \t<strong style=\"\">O que vou aprender?</strong>  </p>  <p style=\"\">  \t      A desenvolver Apps que recebem Push Notification de forma simples e descomplicada.  </p>  <p style=\"\">  \t  Você aprenderá de forma simples como realizar todas as etapas desde as configurações do Member Center da Apple (Certificados e Provisioning Profiles) até a parte de código no Xcode.  </p>  <p style=\"\">  \t<strong style=\"\">E onde posso aplicar isto?</strong>  </p>  <p style=\"\">  \t      Em seus projetos de desenvolvimento de aplicativos. Apps com Push Notification tem estatística muito maiores de engajamento dos usuários e geram entre 60 e 70% a mais de receita aos desenvolvedores.  </p>  <p style=\"\">  \t  Adicionando Push Notifications, seus Apps ficam mais sociais. Usuários serão ativados a usar seu App com mais frequência e seus aplicativos terão um aumento exponencial na utilização e na geração de receita.  </p>  <p style=\"\">  \t  Push Notifications são complicadas. Você precisa gerar certificados, criar perfis, configurar seu App e etc. Nossa missão é descomplicar este processo! Você terminará o curso capaz de realizar todas as configurações necessárias e enviar push notifications sem gastar nada!  </p>  <p style=\"\">  \t<strong style=\"\">Como funciona o curso?</strong>  </p>  <p style=\"\">  \t      O curso é dividido em duas etapas, uma teórica e outra prática. A teórica dá informações preciosas para que você implemente com sucesso uma estratégia de push notification em seus apps. A prática põe a mão na massa e descomplica o processo de enviar push notifications.  </p>  <p style=\"\">  \t      No curso, descomplicamos o processo de gerar certificados e configurar a interface com a APN (Apple Push Notification) API. Em poucos passos, você conseguirá configurar os certificados e começar a enviar push notifications.  </p>  <p style=\"\">  \t<strong style=\"\">E, a melhor parte é que...</strong>  </p>  <p style=\"\">  \t      Este curso foca no uso de ferramentas mBaaS (Mobile Backend as a Services) TOTALMENTE GRATUITAS. Ou seja, você não precisará pagar por servidores, hosting e não terá nenhum custo para enviar push notifications aos seus usuários!  </p>", 
+    "end_date": null, 
+    "title": "Adicione Push Notifications aos seus Apps iOS (Português)", 
+    "price": "20.00", 
+    "instructors": "Manoel Costa", 
+    "commitment": "39 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/414968_9594_2.jpg", 
+    "course_url": "https://www.udemy.com/push-notification-ios/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-06T11:44:53Z"
+}

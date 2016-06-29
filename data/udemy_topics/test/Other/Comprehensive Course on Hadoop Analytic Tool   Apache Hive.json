@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<ul><li>Comprehensive Course on Apache Hive provides Knowledge about\nthe Hadoop Analytic tool in order to analyze humongous data and hiding\nthe complexity of MapReduce Programs.</li><li>Learners, at the end of this training will learn to access,\nhandle, manipulate and analyze large data sets present in the Hadoop cluster. They\nwill be able to solve real case studies and work on Projects with live data. Writing\nHiveQL statements for the same as you write MapReduce program and writing UDFs\nin order to solve the complex problems will be easy after this course\ncompletion.</li><li>This course contains lectures as videos. Quizzes and\nAdditional Exercises are present for the learners for practice and to test their\nknowledge. The high-quality content bestows opportunities to learners to help\nto acquire essential skills needed to pertain the knowledge of this analytic\ntool.</li><li>This course is for developers who want to analyze large and\ncomplex data sets, Software professionals, analytic Professionals and ETL\ndevelopers. It is for all those who want to begin working humongous and complex\ndata with comfort and ease. <br></li></ul><p><br></p>", 
+    "end_date": null, 
+    "title": "Comprehensive Course on Hadoop Analytic Tool : Apache Hive", 
+    "price": "20.00", 
+    "instructors": "Easylearning guru", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/620348_8ba1_3.jpg", 
+    "course_url": "https://www.udemy.com/comprehensive-course-on-hadoop-analytic-tool-apache-hive/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-23T14:39:37Z"
+}

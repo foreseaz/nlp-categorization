@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">This <strong style=\"\">comprehensive, step-by-step</strong> course will teach you basic steps of how to build a <strong style=\"\">Rails</strong> <strong style=\"\">app</strong> with understanding of MVC model and host it on Heroku. After completing the course, you will be able to create a basic Rails app even you&#039;re newbies.</p><p style=\"\"><em style=\"\">Within just 1.5 hour of videos, &quot;<strong style=\"\">Building Rails app with Wistia and Heroku for Newbies</strong>&quot; will give you the skills set you need to start off your Rail world quickly without much knowledge required.</em></p><p style=\"\">With easy to follow, step-by-step videos, this course will give you an easy and quick way to start your learning curve with Ruby on Rails and build something real, this including;</p><ul style=\"\"><li style=\"\"><em style=\"\">Learn how to quickly build a web application without much knowledge required</em></li><li style=\"\"><em style=\"\">The structure is very easy to follow and you create from empty folder</em></li><li style=\"\"><em style=\"\">Learn Ruby on Rails with practical code &amp; design</em></li><li style=\"\"><em style=\"\">Learn how MVC model work in Rails</em></li><li style=\"\"><em style=\"\">Learn how work with Wistia Video APIs</em></li><li style=\"\"><em style=\"\">Learn how to design your web app with Material Design</em></li><li style=\"\"><em style=\"\">Learn how to embed Twitter Widget and Google Map API into your website</em></li><li style=\"\"><em style=\"\">Go Live with Heroku to share your work with this world</em></li></ul>", 
+    "end_date": null, 
+    "title": "Building Rails app with Wistia and Heroku for Newbies", 
+    "price": 0, 
+    "instructors": "Leo Trieu", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/537712_6911_2.jpg", 
+    "course_url": "https://www.udemy.com/building-rails-app-with-wistia-and-heroku-for-newbies/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-26T04:53:02Z"
+}

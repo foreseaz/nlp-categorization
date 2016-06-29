@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tIn this Java web application  tutorial  I'll show you how to create dynamic websites using the core technologies of  Java web programming. If you want to create your own interactive websites, if  you know some Java and you want to take your skills to the next level, or if  you want hot skills for the job marketplace, this Java web application  tutorial  course is for you.  </p>  <p>  \tIn this Java web application  tutorial course you'll learn how to:  </p>  <ul style=\"\">  \t<li>Leverage the power of Java to create dynamic websites</li>  \t<li>Deploy your applications for free on the Internet</li>  \t<li>Use and understand core server-side Java web technologies</li>  </ul>  <p>  \tI'll show you how to  take your basic Java knowledge and use it to create websites using the same  technologies (servlets, JSPs and JSTL) that everyone from self-employed web  developers to huge corporations use to create modern interactive web sites.  </p>", 
+    "end_date": null, 
+    "title": "Servlets and JSPs Tutorial: Learn Web Applications With Java", 
+    "price": "35.00", 
+    "instructors": "John Purcell", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/23742_3580_8.jpg", 
+    "course_url": "https://www.udemy.com/javawebtut/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-08-28T09:42:50Z"
+}

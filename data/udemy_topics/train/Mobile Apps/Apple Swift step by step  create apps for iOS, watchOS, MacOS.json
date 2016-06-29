@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t# last update oct 5th 2014  </p>  <p style=\"\">  \tWelcome to Swift, the <strong style=\"\">brand new</strong> programming language from Apple. If you approached iOS development and always felt that Objective-C was a bit too complicated, then Swift will make your life a lot <strong style=\"\">easier</strong>.  </p>  <p style=\"\">  \t        According to Wired &quot;<strong style=\"\">it will instantly remake computer programming</strong>&quot; and it will be the core of <strong style=\"\">iOS8</strong> programming and further.  </p>  <p style=\"\">  \t        Even if you already know Objectve-C you will find great productivity advantages in starting to use Swift.  </p>  <p style=\"\">  \t        The only pre-requisite is to have familiarity with basic programming concepts (i.e. what is a variable, what is a control structure, etc.); we&#039;ll take care of the rest along the course.  </p>  <p style=\"\">  \t        More sophisticated concepts related to object-oriented programming will be dealt with in the curriculum.  </p>  <p style=\"\">  \t        The course <strong style=\"\">will keep growing along time</strong> with new topics added. As new more advanced topics are added, the price will increase; so the sooner you enroll, the less you pay ! You will get all future updates at <strong style=\"\">no extra cost</strong>.  </p>  <p style=\"\">  \t        The plan is to keep adding two new topics per month; these could be <strong style=\"\">real app examples</strong> or explanations of <strong style=\"\">Cocoa frameworks</strong>.  </p>  <p style=\"\">  \t        After a few months of beta testing Swift has finally reached version 1.0: this means you can develop and submit real apps to the App Store. After studying the language basics, it will be time to learn dealing with the <strong style=\"\">Cocoa</strong> and <strong style=\"\">Cocoa Touch</strong> APIs; finally you will be introduced to building <strong style=\"\">real apps</strong> using Xcode. For a <strong style=\"\">Flappy Bird</strong> alike game is used to get into the inner workings of Sprite Kit.  </p>  <p style=\"\">  \t        Almost every language module is conceived as two parts: an introductory and theoretical session with slides, followed by practical programming examples.  </p>  <p style=\"\">  \t        Of course we need and we appreciate your feedback to improve the course. And if you feel like we missed some topics or you&#039;d like some explained, just let us know !  </p>", 
+    "end_date": null, 
+    "title": "Apple Swift step by step: create apps for iOS, watchOS, MacOS", 
+    "price": "20.00", 
+    "instructors": "Fulvio Massini", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/237064_b79c_20.jpg", 
+    "course_url": "https://www.udemy.com/swiftdeveloper/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-04T10:36:50Z"
+}

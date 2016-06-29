@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This is a follow on course from <strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">\"Maven 101 - Stop Building Java Programs the Hard Way!\"  </em></strong>and continues where Maven 101 left off ...</p>\n\n<p>By the end of this course you will understand how and why Java and the Apache Maven Build Tool work so well together.\n\n  </p>\n\n\n\n\n\n\n\n<p>You’ll be able to work competently with the Apache Maven Build Tool by taking the knowledge you gained from course <strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">\"Maven 101 - Stop Building Java Programs the Hard Way!\"</em></strong> the next level;\n\n  </p>\n\n\n\n\n\n\n\n<p>Course based on using <em class=\"redactor-inline-converted\">Maven</em> with <em class=\"redactor-inline-converted\">Eclipse IDE</em> and <em>command line</em>.<br></p>\n\n<p><em class=\"redactor-inline-converted\">Some of the things covered are;</em><br></p>\n\n\n\n\n\n\n\n<p>Understanding <em class=\"redactor-inline-converted\">What a Parent POM is and Why your Projects really needs one</em>. How to use Maven Build Properties and Profiles and How they can work together to make your life as a developer so much easier.\n\n  </p>\n\n\n\n\n\n\n\n<p>We take a deep dive into Multi-Module Projects and Discover the difference between mavens <em class=\"redactor-inline-converted\">'Inheritance'</em> mechanism and its <em class=\"redactor-inline-converted\">'Aggregation'</em> mechanism and How to get the best out of both with simple and clear examples. </p>\n\n\n\n<p>We look at Design considerations required when organizing and designing Multi-Module Projects, so you can <em class=\"redactor-inline-converted\">avoid</em> some <em class=\"redactor-inline-converted\">common</em> and <em class=\"redactor-inline-converted\">expensive</em> pitfalls for <em class=\"redactor-inline-converted\">your</em> projects.\n\n  </p>\n\n\n\n\n\n\n\n<p>We take another deep dive when we look at the<strong class=\"redactor-inline-converted\"> Maven Release Process</strong> and how it works; Looking at performing <strong class=\"redactor-inline-converted\">SNAPSHOT</strong> releases too full blow <strong class=\"redactor-inline-converted\">Releases</strong>. What are they and how they work in the Maven way of doing things! </p>\n\n\n\n<p>We look at the whole build life-cycle from the Development Team perspective to the Build Manager <em class=\"redactor-inline-converted\">Preparing</em> and <em class=\"redactor-inline-converted\">Performing</em> a <em class=\"redactor-inline-converted\">Full Release</em> of a <em class=\"redactor-inline-converted\">Multi-Module Project</em>, including a project web site also built by Maven. </p>\n\n\n\n<p>We look at some other Tools that work along with Maven; How to set up your very own <strong class=\"redactor-inline-converted\">Nexus Repository Manager</strong>. How to integrate maven with SCM (<em class=\"redactor-inline-converted\">Source Control Management</em>) system, such as <strong class=\"redactor-inline-converted\">GitHub</strong>.</p><p><em>You will be up and running <strong>Releasing</strong> code through Maven in under <strong class=\"redactor-inline-converted\">5</strong><strong class=\"redactor-inline-converted\"> hours</strong>!!</em><br></p>", 
+    "end_date": null, 
+    "title": "Java Maven :102 The Truth About Building Java Programs", 
+    "price": "20.00", 
+    "instructors": "Bruce E. Hilton", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/860394_0fa0_8.jpg", 
+    "course_url": "https://www.udemy.com/apachemaven2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-26T08:56:41Z"
+}

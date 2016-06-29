@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t  En este curso aprenderemos a realizar un kit modular para implementarlo en nuestro motor de videojuegos favorito. Realizaremos modelado en alta y en baja con aplicación de las últimas técnicas para videojuegos, apoyándonos en los plugins, para photoshop, de la empresa Quixel. Además nos valdremos de los softwares Maya y ZBrush, para terminar exportando nuestro kit al motor de videojuegos UDK.  </p>  <p>  \t  Maya® es una potente solución integrada de modelado 3D, animación, efectos y renderización. Dado que Maya se basa en una arquitectura abierta, es posible programar o aplicar guiones sobre sus trabajos utilizando una API (Interfaz de programación de aplicaciones) extensa y bien documentada, o uno o dos lenguajes de programación integrados. Esto, combinado con el mejor conjunto de herramientas 3D del sector, hace de Maya una solución que le permitirá hacer realidad sus ideas creativas.  </p>  <p>  \t  Este curso está impartido por Jose Luis Quirós. Con más de 15 años de experiencia en producciones audiovisuales y en 3D, comenzó de forma autodidacta y gracias a la carrera profesional de diseño industrial creó mis primeros modelos 3D; estudió 3ds max, maya y softimage. Ha trabajado en largometrajes de animación, videojuegos, publicidad y cine y ha dirigido proyectos como los Marcatoons y participado en cinco largometrajes, el último de ellos nominado a los premios Goya.  </p>", 
+    "end_date": null, 
+    "title": "Crea un kit modular para videojuegos", 
+    "price": "35.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/184266_71c7.jpg", 
+    "course_url": "https://www.udemy.com/crea-un-kit-modular-para-videojuegos/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-17T22:24:50Z"
+}

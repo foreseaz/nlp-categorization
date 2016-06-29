@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tThis course is offered to allow for download and anytime use as well as for anybody who wishes to support my YouTube channel.  </p>  <p style=\"\">  \tAbout this course:  </p>  <p style=\"\">  \tThis is an introductory course that dives into the basics of many topics in databasing, including:  </p>  <p style=\"\">  \tDatabase Design  </p>  <p style=\"\">  \tDatatypes  </p>  <p style=\"\">  \tInserting and manipulating data  </p>  <p style=\"\">  \tJoins  </p>  <p style=\"\">  \tCharacter sets and collations  </p>  <p style=\"\">  \tStorage engines  </p>  <p style=\"\">  \tfunctions  </p>  <p style=\"\">  \tand much more.  </p>  <p style=\"\">  \tThis master course has 3 sub-courses with a total of over 100 videos teaching the absolute basics, intermediate topics, and the start of many advanced databasing concepts that will have you programming databases in no time.  </p>", 
+    "end_date": null, 
+    "title": "Database Design and MySQL", 
+    "price": 0, 
+    "instructors": "Caleb Curry", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/64404_eb10_5.jpg", 
+    "course_url": "https://www.udemy.com/calebthevideomaker2-database-and-mysql-classes/", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-07-08T13:43:32Z"
+}

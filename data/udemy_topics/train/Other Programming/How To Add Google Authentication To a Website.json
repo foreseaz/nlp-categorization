@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Have you ever logged in to a website for the first time by simply clicking a &#039;Signin with Google&#039; button? Ever wonder how they did that? This course walks you through the process of developing an integrated Google login system for any website from scratch.  </p>  <p>  \t This course includes everything you&#039;ll ever need to know about creating an integrated Google Signin system, including source files to make the development process more efficient. You don&#039;t even have to write the code yourself.  </p>  <p>  \t A basic knowledge of web development is suggested for this course. The technologies used in this course are PHP and MySQL.  </p>", 
+    "end_date": null, 
+    "title": "How To Add Google Authentication To a Website", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/222914_afa2_4.jpg", 
+    "course_url": "https://www.udemy.com/how-to-add-google-authentication-to-a-website/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other Programming"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-19T15:04:23Z"
+}

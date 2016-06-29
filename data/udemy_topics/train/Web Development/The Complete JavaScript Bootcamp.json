@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course you will learn very popular programming languages like JavaScript, jQuery, AngularJS and NodeJS\n\n  </p>\n\n<p>JavaScript is a programming language that can be run by all modern web browsers. It is downloaded alongside the HTML code of a webpage. Unlike HTML, which can only be used to display content, JavaScript allows web designers to add functionality and interactivity to their websites.\n\n  </p>\n\n<p>JQuery is a popular JavaScript library that is used extensively in modern websites. This library facilitates common JavaScript tasks such as animations, event handling, manipulating HTML content, and communication with external servers. In addition to its easy-to-use features, JQuery also takes care of many cross-browser compatibility issues automatically.\n\n  </p>\n\n<p>AngularJS is basically a JavaScript framework (an open source web application framework) library, which is distributed as JavaScript file. Mainly used in developing Single Page Application (SPA). It extendes HTML with additional new attributes hence making simple development and making it more responsive at user’s end, since HTML was never design for dynamics views. AngularJS is very easy to understand hence learning it is a fun. \n\n  </p>\n\n<p>NodeJs is a powerful JavaScript engine that can be used for a variety of tasks. In this course, we’ll learn the basics of working with NodeJS. We’ll work with the core libraries, but also learn about using npm: the<strong class=\"redactor-inline-converted\"> </strong>Node Package Manager<strong class=\"redactor-inline-converted\"> </strong>to load and work with any third party package that has been developed for NodeJS. We’ll also look at three ways to write and run a simple web server using node. \n\n  </p>\n\n<p><strong>Course Topics</strong>\n\n  </p>\n\n<ul><li>JavaScript</li></ul>\n\n<ol><li>Numbers</li><li>Variables</li><li>String</li><li>Arrays</li><li>Functions</li><li>Conditions</li><li>Loops</li><li>Events</li></ol>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>jQuery</li></ul>\n\n<ol><li>Selectors</li><li>Events</li><li>Effects</li><li>Animations</li><li>DOM</li><li>Ajax</li></ol>\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>AngularJS</li></ul>\n\n<ol><li>Expressions</li><li>2 way data handling</li><li>Form submissions</li><li>Filter search</li><li>Form validation</li></ol>\n\n\n\n\n\n\n\n\n\n<ul><li>NodeJS</li></ul>\n\n<ol><li>Installtion</li><li>Intro to NPM</li><li>REPL utility</li><li>File input and output</li></ol>\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\"><br>Prerequisites</strong>\n\n  </p>\n\n<p>HTML:<strong> </strong>The student must know how to use HTML tags and attributes. Only a very basic understanding of HTML is assumed.\n\n  </p>\n\n<p>Notepad++ (Recommended): Notepad++ is a free, open-source text editor. Although JavaScript and HTML can be written using any text editor, Notepad++ is highly recommended because of features such as syntax highlighting and auto-complete.</p>", 
+    "end_date": null, 
+    "title": "The Complete JavaScript Bootcamp", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/882128_4d97_2.jpg", 
+    "course_url": "https://www.udemy.com/the-complete-javascript-bootcamp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-19T06:22:59Z"
+}

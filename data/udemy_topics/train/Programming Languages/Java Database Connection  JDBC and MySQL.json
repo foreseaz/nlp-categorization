@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>This course assumes you have some knowledge of databases.</strong></p><p>----------  \t<strong><strong></strong></strong></p><strong>Join 15,000+ highly engaged students</strong>    <p>  \t<strong><br>All source code is available for download</strong>  </p>  <p>  \t<strong>Responsive instructor available to answer your questions.</strong>  \t<strong></strong>  </p>  <p>  \t<strong></strong>----------</p><p><strong>Excellent 5-Star Reviews!  </strong></p><strong></strong><em>Very well designed course. I like clarity and delivery of contents. I wish there were more courses from Chad !!!!</em><p><em>- Satish Jain</em></p><em>I have to say that I was extremely pleased to note that his lecture material was straightforward and to the point. I was also impressed with how well he structured the contents! His presence was felt as he periodically showed interest in my progress. I would definitely recommend his material to anyone interested in expanding their programming knowledge with additional tools.</em><p><em></em><em>- Marc-Alexandru</em><em></em></p><p><em>If you want to learn everything about JDBC - this is the course for you! Excellent content. Brilliant explanation. </em></p><p><em>- Vishal Kumar</em></p><p>----------</p><p>In this  course, you <strong>learn how to connect to a MySQL database using Java JDBC</strong>.  </p>  <p>  \t              The course starts with an overview of the JDBC API. Then you learn how to <strong>set up your development environment</strong> with the appropriate MySQL database drivers. Next the course shows you how to <strong>submit a SQL query and process the result set</strong>. Also, you learn how to perform <strong>SQL insert, updates and deletes</strong>.  </p>  <p>  \t              The course moves on to <strong>advanced topics</strong> such as <strong>Prepared Statements</strong> to handle SQL paramaters. You also learn how to call <strong>stored procedures</strong> using various parameter types (IN, INOUT, OUT and ResultSet). Next, the course shows you how to process large data types such as <strong>BLOBs and CLOBs</strong>. Finally, the course wraps up with a section on reading database connection information from a configuration file.  </p>  <p>  \t<strong>Who Is This Course Suitable For?</strong>  </p>  <ul>  \t<li>Java developers: beginner, intermediate or advanced</li></ul><p><strong><em>Note: This course assumes you have some knowledge of databases.</em></strong><em></em></p><em>    </em><p><em>  \t</em><strong><em></em>You Will Learn How To</strong>  </p>  <ul>  \t<li>Connect to a MySQL Database with Java</li>  \t<li>Submit SQL statements to insert, update and delete data</li>  \t<li>Handle SQL parameters with Prepared Statements</li>  \t<li>Calls stored procedures and handle various parameter types (IN, INOUT etc..)</li>  \t<li>Read and write BLOB and CLOB data files</li>  \t<li>Configure your database connection information with properties files</li>  </ul>  <p>  \t<strong>Source Code</strong>  </p>  <ul>  \t<li>All source code is available for download</li>  \t<li>All database scripts are available for download</li>  </ul>  <p>  \t<strong>Course Requirements</strong>  </p>  <p>  \t              You should have the following software already installed.  </p>  <ul>  \t<li>MySQL Database</li>  \t<li>Java Development Kit</li>  </ul>", 
+    "end_date": null, 
+    "title": "Java Database Connection: JDBC and MySQL", 
+    "price": 0, 
+    "instructors": "Chad Darby", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/366280_5908.jpg", 
+    "course_url": "https://www.udemy.com/how-to-connect-java-jdbc-to-mysql/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-09T02:48:40Z"
+}

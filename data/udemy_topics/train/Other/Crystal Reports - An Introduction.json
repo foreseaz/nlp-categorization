@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Hello, and welcome to Crystal Reports 2008-2016 - An Introduction.</p>\n\n<p>In this course we'll be looking at SAP Crystal Reports, and how to use it.</p>\n\n\n\n\n\n\n\n\n\n<p>This course starts right at the beginning, and so is good for absolute beginners, but would also be useful for you if you have previously used it, perhaps viewing reports or making basic reports, and would like to improve your skills.</p>\n\n\n\n\n\n\n\n\n\n<p>You don't need to have Crystal Reports on your computer, as first of all we will install a trial version of Crystal Reports for free, so that you can use it on your computer free for 30 days. This way, you can practice with your new skills, experiment with your own data and create your own reports.</p>\n\n\n\n\n\n\n\n\n\n<p>This course is separated into 7 levels, each getting progressively more deeper into Crystal Reports. They are:<br></p>\n\n\n\n\n\n\n\n\n\n<ol><li>Creating your first report,</li><li>Adding grouping, sorting and filtering, also known as Selecting.</li><li>Formatting,</li><li>Adding user interaction through parameters,</li><li>Graphs and charts,</li><li>Subreports, and</li><li>Formulas.</li></ol>\n\n\n\n<p>All of this will be taken at a fairly leisurely pace, so you can really get familiar with the menus and icons.<br></p>\n\n\n\n<p>By the end, you will be able to develop your own reports, and start to explore other people's. And there's a Certificate of Completion available if you complete the course.</p>", 
+    "end_date": null, 
+    "title": "Crystal Reports - An Introduction", 
+    "price": "20.00", 
+    "instructors": "Phillip Burton", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/863086_ec7c_4.jpg", 
+    "course_url": "https://www.udemy.com/crystal-reports-an-introduction/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-29T19:46:53Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Python is becoming the language of choice for pretty much every \narena. It is a very simple yet extremely powerful programming language. \nIt is a scripting language that is widely used for prototyping to get \nwork up and running in a short amount of time.</p>\n\n<p>This course assumes no programming experience and slowly builds the \ntools you need to take on larger challenges. Once this is done, we dive \ninto the fundamentals of Python programming with variables, numbers, \nstrings, and so on. You'll learn to make decisions on your programs with\n conditional statements and discover that Python has the ability to \niterate over the items of any sequence such as a list or a string with \nloops.</p>\n\n\n\n<p>You will see how functions play a major role to provide a high degree\n of code reusing. Along with the built-in functions, you will be able to\n build your own functions as well. When you've done all this, you'll be \nready to create modules in Python all by yourself. Finally, you'll \nenhance your skills by performing some very interesting manipulations on\n images.</p>\n\n\n\n<p>Speed up your journey with the Pythonic way of programming. By the \nend of this course, you will be a mature Python programmer. Make use of \nthe freedom to design programs of your choice and be ready to take your \nPython skills in any direction that you need.</p><p><strong class=\"redactor-inline-converted\">About The Author</strong></p><p><strong>William Fiset </strong>is a Mathematics and Computer Science Honors \nstudent at Mount Allison University with in interest in competitive \nprogramming. William has been a Python developer for +4 years, starting \nhis early Python experience with game development. He owns a popular \nYouTube channel that teaches Python to beginners and the basics of game \ndevelopment.</p>", 
+    "end_date": null, 
+    "title": "Beginning Python", 
+    "price": "40.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/863540_b442_2.jpg", 
+    "course_url": "https://www.udemy.com/beginning-python-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-30T09:57:04Z"
+}

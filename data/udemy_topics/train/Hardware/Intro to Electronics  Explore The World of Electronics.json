@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Have you ever looked at an electronic device and wondered how it worked? Welcome to this course on electronic fundamentals. This course will give you a foundational understanding on how electronics work. This course is created for the developer, designer, inventor or really anyone who wants to know how electronics work. </p><p>This introductory course on electronics will cover basic theory, a brief history, DC and AC \nelectrical circuits. We will also go into electronic components, circuit design, and circuit \nconstruction methods. </p><p>Towards the end of the course we will do some demonstrations of real world electronic circuits, then we will get into prototyping and circuit building techniques. </p>", 
+    "end_date": null, 
+    "title": "Intro to Electronics: Explore The World of Electronics", 
+    "price": "20.00", 
+    "instructors": "ElecTech Edu", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/662569_f4ea.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-electronics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-07T00:02:13Z"
+}

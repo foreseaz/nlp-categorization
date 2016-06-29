@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Section 1:  Basic to Advance SQL</strong><br></p><ul><li>While testing big data application, we have to play with huge amount of data every data</li><li>Which could be raw data or processed data.</li><li>To work with data in bigdata testing we will have to write and execute lot of queries in </li><li>SQL is a pre-requisite to learn HiveQL</li></ul><p><strong>Section 2: Python</strong></p>  <p>Python is a powerful, flexible, open-source language that is easy to learn, easy to use, and has powerful libraries for data manipulation and analysis. Python is a popular, general-purpose programming language with an emphasis on being readable and allowing programmers to use fewer lines of code to accomplish tasks than in older languages. Libraries such as NumPy, SciPy, and Matplotlib make it useful for scientific computing.</p>  <p>Python is an excellent tool for data analysis for four reasons:</p>  <ul><li>Open source</li><li>Speed</li><li>Support</li><li>Scope</li></ul><p><strong>Section 3 </strong><strong>Big Data demands better shell skills</strong></p><p>Complete Big data architecture would be setup on Unix machine, If we have prior understand of Unix and Shell script, it will be easy for us to work smoothly</p><p>This course if very useful for professional who are looking opportunities in Manual and Automation Testing.<br></p>", 
+    "end_date": null, 
+    "title": "Road to Big Data testing(Cover all Prerequisite)", 
+    "price": "20.00", 
+    "instructors": "Nitin Tyagi, Testing World", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/722134_8ce7_2.jpg", 
+    "course_url": "https://www.udemy.com/big-data-testing-prerequisite/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-09T20:05:21Z"
+}

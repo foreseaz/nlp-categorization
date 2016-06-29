@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Authentication for traditional web applications is fairly straight-forward: we send our credentials to the server, a session is created, and a cookie is returned to be saved in the browser. This method works well for round-trip applications, but it isn't a good way to do authentication in modern single page apps, like those built with AngularJS.</p><p>In this course we are going to learn about the challenges associated with traditional authentication and how to use what is arguably the best alternative: the JSON Web Token.</p><p>Using that knowledge, we'll implement authentication in an AngularJS app that makes calls to an Express API. We'll cover how to address all the challenges associated with keeping a single page application in check when it comes to stateless authentication. This can be a tricky matter since the front end and backend apps are effectively separated, but we'll find out how to leverage our user's JWT to address the challenges.<br></p><p>We'll use Auth0 as an identity and authentication server so that we don't have to roll our own.</p>", 
+    "end_date": null, 
+    "title": "AngularJS Authentication: Secure Your App with Auth0", 
+    "price": 0, 
+    "instructors": "Ryan Chenkie", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/808622_92f4.jpg", 
+    "course_url": "https://www.udemy.com/angularjs-authentication-with-auth0/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-30T23:50:51Z"
+}

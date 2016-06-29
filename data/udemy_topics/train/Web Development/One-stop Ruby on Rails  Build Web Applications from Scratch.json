@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t                          Project based learning is the most effective type of learning.  </p>  <p style=\"\">  \t                          Whether you&#039;re learning to code to become a web developer, or just looking to prototype your MVP, we believe working on projects is the most effective way to learn. Instead of being taught theory, you’ll learn by building working applications. You understand the big picture concepts before filling in the details. You learn to build apps the way developers do — one feature at a time.  </p>  <p style=\"\">  \t                          Most people feel demotivated when they take traditional programming classes, but with our course, you’ll make rapid progress on your projects so you always stay engaged. Along the way, you learn in-demand tech skills through practice and solving problems with available resources, not through brute memorization.  </p>  <p style=\"\">  \t                           Our course walks you through building four comprehensive web applications you will launch live on the web including:  </p>  <p style=\"\">  \t<strong style=\"\">            1) A restaurant review site for people to browse and rate local eateries:  </strong>  </p>  <p style=\"\">  \t                        Admin users can add new restaurants while signed in users can leave star ratings with a review. Anyone can search through the listings index for specific restaurants.  </p>  <p style=\"\">  \t<strong style=\"\">            2) A two-sided marketplace for buyers and sellers:  </strong>  </p>  <p style=\"\">  \t                        Sellers will be able to upload listings with images, manage their inventory through a dashboard, and charge credit cards with the Stripe API. You&#039;ll learn how to take a small percentage cut of each transaction and transfer payments to your sellers.  </p>  <p style=\"\">  \t<strong style=\"\">            3) A web scraper to collect data:  </strong>  </p>  <p style=\"\">  \t                        Access a webpage&#039;s HTML and identify proper selectors for parsing through data. Write a script in the Ruby programming language to scrape Wikipedia and Airbnb and export the information into a database.  </p>  <p style=\"\">  \t<strong style=\"\">            4) Apartment Rental Site like Craigslist:  </strong>  </p>  <p style=\"\">  \t                        Gather data through an API and use that data to build a custom Ruby on Rails web app. You&#039;ll write a script in the Ruby programming language to collect and process the data you receive, then save the information to a database, and build a front-end interface for users to interact with it. By the end of the course, you&#039;ll have learned to automate the data collection process and have an app that&#039;s live on Heroku.  </p>  <p style=\"\">  \t<strong style=\"\">5) Bonus Feature videos:</strong>  </p>  <p style=\"\">  \t            Learn how to code your site in multiple lanugages, add social media features, and more with a series of bonus features to feature customize your app.<br style=\"\">  </p>  <p style=\"\">  \t<strong style=\"\">Web development topics covered:  </strong>  </p>  <ul style=\"\">  \t<li style=\"\">Ruby on Rails</li>  \t<li style=\"\">HTML and CSS</li>  \t<li style=\"\">jQuery</li>  \t<li style=\"\">JSON</li>  \t<li style=\"\">Bootstrap</li>  \t<li style=\"\">Coffeescript</li>  \t<li style=\"\">Stripe API</li>  \t<li style=\"\">Google Maps API</li>  \t<li style=\"\">Git and Github</li>  \t<li style=\"\">Heroku</li>  </ul>  <p style=\"\">  \t<strong style=\"\">  Web scraping topics covered:  </strong>  </p>  <ul style=\"\">  \t<li style=\"\">Data scraping</li>  \t<li style=\"\">SQlite</li>  \t<li style=\"\">CSV databases</li>  \t<li style=\"\">Data analysis</li>  \t<li style=\"\">Data scraping</li>  \t<li style=\"\">Data cleaning</li>  \t<li style=\"\">Parsing data files</li>  \t<li style=\"\">CSV databases</li>  \t<li style=\"\">Script automation</li>  </ul>  <p style=\"\">  \t                          By the end of this course, your web applications will be ready for real users and you can start collecting payments through Stripe immediately. You&#039;ll have the skills, experience, and portfolio to get a job as a web developer or build out any idea of your own.  </p>  <p style=\"\">  \t      [Note: This is the BaseRails bundler pack of four projects included in this one course. You may start with any project as each course is self-contained.]  </p>", 
+    "end_date": null, 
+    "title": "One-stop Ruby on Rails: Build Web Applications from Scratch", 
+    "price": "45.00", 
+    "instructors": "Alex Yang", 
+    "commitment": "18.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/369132_258f_5.jpg", 
+    "course_url": "https://www.udemy.com/build-etsy-yelp-craigslist-and-a-web-scraper-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-12T21:00:19Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Data Science using Tableau is designed to cover majority of the capabilities of Tableau from Analytics &amp; Data Science perspective, which includes the following:</p>\n\n<ul><li>Learn about the basic statistics, including measures of central tendency, dispersion, skewness, kurtosis, graphical representation, probability, probability distribution, etc.</li><li>Learn about scatter diagram, correlation coefficient, confidence interval, Z distribution &amp; t distribution, which are all required for Linear Regression understanding</li><li>Learn about the usage of Tableau for building Linear Regression</li><li>Learn about building logarithmic, exponential &amp; polynomial regression models using Tableau</li><li>Learn about the K-Means clustering algorithm &amp; how to use Tableau to accomplish the same</li><li>Learn about the science behind text mining, word cloud, sentiment analysis &amp; accomplish the same using Tableau</li><li>Learn about Forecasting models including AR, MA, ES, ARMA, ARIMA, etc., and how to accomplish the same using Tableau Trend Lines</li><li>Learn about Logistic Regression &amp; how to accomplish the same using Tableau</li>\n</ul>", 
+    "end_date": null, 
+    "title": "Data Science using Tableau", 
+    "price": "30.00", 
+    "instructors": "ExcelR Solutions", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/880832_493b_2.jpg", 
+    "course_url": "https://www.udemy.com/data-science-using-tableau/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-17T10:42:54Z"
+}

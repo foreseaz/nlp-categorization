@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Are you new to SQL, or looking to relearn the basics?</p><p>HANDS-ON SQL For Beginners is the course to get you started! This course teaches you SQL through short instruction with accompanying SQL practice problems.</p><p>So there are a lot of beginner SQL courses on the internet. What makes this one different?</p><p>The thing is, most courses just teach the material, and at best, show you a few examples. Even if they ask you to solve a problem, there isn't anywhere for you to actually enter your answer, so most people end up skimming past that section without actually applying themselves.</p><p>This course takes it to the next level by including hands-on practice for each topic that you learn. There's no way to finish the course without actually putting pen to paper (in this case, hands to keyboard), which forces you to think critically about what you've learned.</p><p>Each topic has a few practice problems to ingrain what you have learned, and the course is topped off with 10 practice problems to bring everything together.</p><p>But enough of us talking about it. What are our users saying about this course?</p><p>\"<em>It goes over the introductory concepts very well. Great explanations! The course also provides good examples to help you learn and remember the concepts. Top notch!</em><em></em>\"</p><p><em>- Earlyn</em></p><p><em>\"I had no idea that SQL can be so easily understood. All you need is good teacher and format.\"</em></p><p><em>- Ivan</em></p><p><em>\"Content is great and the length of time it will take to finish is just right. Wonderful refresher course on the SELECT statement.\"</em></p><p><em>- Stefan</em></p><p><em>\"I know absolutely nothing about SQL, or anything computer related, and yet I’m finishing this course feeling very confident about my beginners knowledge on SQL. I highly recommend this course!\"</em></p><p><em>- Katie</em></p><p>Nearly 12,000 students have gone through our SQL courses, and we want you to be the next one. Join today!</p>", 
+    "end_date": null, 
+    "title": "HANDS-ON SQL For Beginners (SELECT, FROM, & WHERE)", 
+    "price": 0, 
+    "instructors": "Taylor Chiu", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/741404_6907_2.jpg", 
+    "course_url": "https://www.udemy.com/hands-on-sql-for-beginners-select-from-where/", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-25T20:05:53Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Hola, les doy la más cordial bienvenida al curso: <strong style=\"\">Creación de páginas web con HTML y CSS</strong> durante este curso, veremos cuáles son, para qué sirven y como se utilizan las etiquetas HTML y conforme vayamos avanzando, iremos viendo el uso de los selectores en CSS.</p><p>Les recomiendo ampliamente descargar el material complementario, ya que les proporcionará las referencias para futuros proyectos. Dentro de este material complementario encontrarán la descripción y uso de las etiquetas <strong style=\"\">html</strong> así como de las propiedades y atributos utilizados en <strong style=\"\">CSS</strong></p><p>Es necesario mencionar que por ser un curso básico, no se abordarán todas las propiedades de css, sino que solo veremos las que se utilizaron en este proyecto.</p>", 
+    "end_date": null, 
+    "title": "Realiza Tu Primer Pagina Web, (HMTL5, CSS & Responsive)", 
+    "price": "35.00", 
+    "instructors": "Investigacion y  Estudio Empresariales", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/445314_c071_2.jpg", 
+    "course_url": "https://www.udemy.com/realiza-tu-primer-pagina-web-hmtl5-css-responsive/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-11T23:47:38Z"
+}

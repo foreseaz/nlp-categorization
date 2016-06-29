@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>このコースは、Pythonを使ってデータを解析し可視化するために必要なスキルを網羅しています。Pythonと科学計算のためのライブラリの使い方が完璧に理解できるようになっています。</p><p>このコースを習得すれば、次のような事ができるようになります。</p><p>- Pythonプログラミングへの知識が深まります。</p><p>- numpyを使って、アレイを使った数値計算ができるようになります。</p><p>- pandasを使った効果的なデータ解析ができるようになります。</p><p>- matplotlibとseabornを使って、出版にも使えるほど綺麗なデータの可視化が可能になります。</p><p>- Pythonを使って実際にデータを解析する方法論が身につきます。</p><p>- 機械学習への理解が相当高まります。</p><p>- すべてのコードはPython3に完全対応しています。</p><p><strong>20時間以上、100本を超えるビデオと、すぐに使えるPythonコードがまとまった資料が用意されていますので、データサイエンスに関する知識が飛躍的に高まります。</strong></p>", 
+    "end_date": null, 
+    "title": "【世界で2万人が受講】実践 Python データサイエンス", 
+    "price": "50.00", 
+    "instructors": "Shingo Tsuji, Jose Portilla", 
+    "commitment": "17.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/625078_b756_3.jpg", 
+    "course_url": "https://www.udemy.com/python-jp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-28T19:54:38Z"
+}

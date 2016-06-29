@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tThis iOS iCloud training course from Infinite Skills will teach you how to set up your app to use iCloud, and how to work with iCloud files. This course is designed for users that already have a working knowledge of building apps and using iOS xCode.  </p>  <p style=\"\">  \t<br style=\"\">  \tYou will start by learning how to work with the local file system and the iOS archiving feature. Keith will teach you about working with directories, file management, and reading and writing iCloud files. This video tutorial will introduce you to iCloud, and will cover topics including updating, deleting, and renaming iCloud files, synchronization, and multiple file documents.<br style=\"\">  \t<br style=\"\">  \tOnce you have completed this computer based training course, you will be fully capable of setting up your app to use iCloud, which will allow users to share their data among all of their devices. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Mastering iOS Development - Integrate iOS Apps With iCloud ", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/158630_2fed_8.jpg", 
+    "course_url": "https://www.udemy.com/integrate-ios-apps-with-icloud/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-05T15:23:54Z"
+}

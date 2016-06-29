@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p><strong style=\"\"><em style=\"\">Extra Fundamentals of R</em></strong> is an extension of the Udemy course <strong style=\"\"><em style=\"\">Essential Fundamentals of R. Extra Fundamentals of R</em></strong> introduces additional topics of interest and relevance utilizing many specific R-scripted examples. These broad topics include: </p><p>(1) Details on using Base, GGPlot and Lattice graphics;</p><p>(2) An introduction to programming and simulation in R; and</p><p>(3) Character and string processing in R.</p><p>All materials, scripts, slides, documentation and anything used or viewed in any one of the video lessons is provided with the course. The course is useful for both R-novices, as well as to intermediate R users. Rather than focus on specific and narrow R-supported skill sets, the course paints a broad canvas illustrating many specific examples in three domains that any R user would find useful. The course is a natural extension of the more basic Udemy course, <strong style=\"\"><em style=\"\">Essential Fundamentals of R</em></strong> and is highly recommended for those students, as well as for other new students (and for practicing professionals) interested in the three domains enumerated above.</p><p>Base, GGplot and Lattice (or &quot;trellis) graphics are the three principal graphics systems in R. They each operate under different &quot;rules&quot; and each present useful and often brilliant graphics displays. However, each of these three graphics systems are generally designed and used for different domains or applications.</p><p>There are many different programming and simulation scenarios that can be modeled with R. This course provides a good sense for some of the potential simulation applications through the presentation of &#039;down-to-earth,&#039; practical domains or tasks that are supported. The examples are based on common and interesting &#039;real-world&#039; tasks: (1) simulating a game of coin-tossing; (2) returning Top-Hats checked into a restaurant to their rightful owners; (3) collecting baseball cards and state quarters for profit: (4) validating whether so-called &quot;streaky&quot; behavior, such as have a string of good-hitting behavior in consecutive baseball games, is really unusual from a statistical point of view; (4) estimating the number of taxicabs in a newly-visited city; and (5) estimating arrival times for Sam and Annie at the Empire State Building (&quot;Sleepless in Seattle&quot;).</p><p>R is likely best known for the ability to process numerical data, but R also has quite extensive capabilities to process non-quantitative text (or character) and string variables. R also has very good facilities for implementing powerful &quot;regular expression&quot; natural-language functions. An R user is bested served with an understanding of how these text (or character) and string processing capabilities &quot;work.&quot;</p><p>Most sessions present &quot;hands-on&quot; material that make use of many extended examples of R functions, applications, and packages for a variety of common purposes. RStudio, a popular, open source Integrated Development Environment (IDE) for developing and using R applications, is utilized in the program, supplemented with R-based direct scripts (e.g. &#039;command-line prompts&#039;) when necessary.</p>", 
+    "end_date": null, 
+    "title": "Extra Fundamentals of R", 
+    "price": "20.00", 
+    "instructors": "Geoffrey Hubona, Ph.D.", 
+    "commitment": "12.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/580200_91e6.jpg", 
+    "course_url": "https://www.udemy.com/extra-fundamentals-of-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-11T14:52:25Z"
+}

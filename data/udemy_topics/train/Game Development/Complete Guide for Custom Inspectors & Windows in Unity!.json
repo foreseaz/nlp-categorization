@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Exposing properties to the editor is useful, but it can't be used to create complex things.</p>\n\n<p>By creating custom inspectors and editors, you'll have full control over how Unity looks and exposes itself to Game Designers and people who are there to balance the game and play around with your scripts. Your job is to make their job easier, and this can be a good start point!</p>\n\n\n\n\n\n<p>This course expects some proficiency in programming, so you should be comfortable with C# for Unity before you get started.</p>\n\n\n\n\n\n<p>This unique content will get you through the whole process of creating nice looking custom inspectors for your scripts, windows and custom properties, but it will also cover quick ways to change the appearance of a script's inspector by using variable and method attributes.</p>", 
+    "end_date": null, 
+    "title": "Complete Guide for Custom Inspectors & Windows in Unity!", 
+    "price": "25.00", 
+    "instructors": "José Augusto Thomas", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/456364_23db_4.jpg", 
+    "course_url": "https://www.udemy.com/unity-custom-inspectors-guide/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-25T01:47:27Z"
+}

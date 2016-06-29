@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  Appcelerator Titanium is an open, extensible development environment for creating beautiful native apps across different mobile devices and OSs including iOS, Android, and BlackBerry, as well as hybrid and HTML5.  </p>  <p style=\"\">  \t  In this course you will learn how to develop mobile applications for the Android platform and deploy them to the Google Play store. Later courses will show you how to take the same code you have built in this course and deploy your application to the iPhone and iPad with minimal changes to your code base.  </p>  <p style=\"\">  \t  There are a number of other ways to write mobile applications that will run on all flavours of devices, and these are generally based on the idea of developing web apps that will run on a browser on the phone or tablet. Titanium is different – its code is evaluated at run-time and uses native UI calls to provide the user interface so that the user experience retains a much better native look and feel on each device.  </p>  <p style=\"\">  \t  Most courses tend to focus on what the product can do and pay little attention to what you can do with the product. I’m a software developer and trainer with over 20 years experience of implementing real-world solutions for corporate clients with real business needs, and I fully understand that people who enrol on this course will want to get results from Titanium and not simply be able to perform a collection of loosely connected exercises. For that reason, this course covers the complete workflow from installing Titanium, setting up your project, building an app, creating the required graphics resources and publishing your app on the Google Play store.  </p>  <p style=\"\">  \t  This course will focus on developing a sample app that can form the basis of working, profitable, apps of your own and will continue to be supplemented over time to add features and functions demanded by the marketplace of today.  </p>", 
+    "end_date": null, 
+    "title": "Android Development with Appcelerator Titanium - Quick Start", 
+    "price": "40.00", 
+    "instructors": "unplugNgo Learning", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/34067_30ff_7.jpg", 
+    "course_url": "https://www.udemy.com/android-development-with-appcelerator-titanium-quick-start/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-01-02T10:11:37Z"
+}

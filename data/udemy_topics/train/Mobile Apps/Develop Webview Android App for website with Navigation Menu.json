@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Update 2:</strong></p><p>Course has been updated for Android Studio 2.0</p><p><strong>Update 1:</strong></p>\n\n<p><strong>As Parse is set to retire on January 28, 2017, Course has been updated to include Onesignal push. </strong><br></p>\n\n\n\n<p>This course will guide you step by step to create Webview Android app for your website with lots of features.</p>\n\n\n\n<p>1. So what is Webview?</p>\n\n\n\n\n\n<p>Android WebView is a system component for the Android operating system (OS) that allows Android apps to display content from the web directly inside an application. An app developed using Webview is called WebView app. It is native app which could be downloaded from app stores.</p>\n\n\n\n\n\n<p>2. Am I going to learn and write codes?</p>\n\n\n\n\n\n<p>No, absolutely not. This course include source code for Webview and many other features. All you need to do is to import the source code in Android Studio and replace some lines.</p>\n\n\n\n\n\n<p>3. How long will it take to create an app for my website?</p>\n\n\n\n\n\n<p>If you don't have any previous experience with Android Studio, it will take about an hour. After that creating Webview app won't take more than 5-10 minutes.</p>\n\n\n\n\n\n<p>4. What features can I have in my app?</p>\n\n\n\n\n\n<ul><li>Navigation Menu</li><li>Push notifications</li><li>Pull to refresh</li><li>Google analytics</li><li>Admob etc...</li></ul>\n\n\n\n\n\n<p>5. Will I be able to publish the app on Google Play Store?</p>\n\n\n\n\n\n<p>Yes, off course. For that you have to register as Google developer, which will cost $25. I have mentioned these step in video. </p>\n\n\n\n\n\n<p>6. How will I be able to send push notifications?</p>\n\n\n\n\n\n<p>Wordpress website owners can install plugins available in Wordpress repository to send push directly from wp-admin. Other can send it via Parse account.</p>\n\n\n\n\n\n<p>7. How many push notifications can I send for free?</p>\n\n\n\n\n\n<p>With parse you can send 1,000,000 unique ip address. This means you can send 100 times, 100000 times or even more notifications to 1 million devices.</p>\n\n<p>With onesignal there is no limit on push notifications.</p>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Source Code Worth $99 is included.</strong></p>\n\n\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Develop Webview Android App for website with Navigation Menu", 
+    "price": "25.00", 
+    "instructors": "Mr. Dhiraj Rahul", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/754884_7ce7_3.jpg", 
+    "course_url": "https://www.udemy.com/develop-webview-android-app-for-website-with-navigation-menu/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-07T04:28:48Z"
+}

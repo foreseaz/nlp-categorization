@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t<strong>Join the 1% Excel users who know how to use the most powerful features in Excel.</strong>  </p>  <p>  \t    In this short course learn to create a powerful interactive Excel dashboard for Human Resource data using simple drag and drop technology.  </p>  <p>  \t    This course is for Excel 2010 and 2013 users and for Human Resource practitioners.  In the course you will learn how to construct a dashboard using Pivot Tables and Pivot Charts with no VBA programming.  </p>  <p>  \t    The course uses an Employee Master file of 49 employees.  You will learn to create Key Metrics such as Total Number of Employees, Average Age, Average Length of Service and Average Salary.  </p>  <p>  \t    In addition you will learn to create a Trend graph displaying the number of employees by hiring date.  You will also learn how to analyze age and salary by buckets such as age groupings of 20 to 30, 30 to 40 and salary of 20K to 30K, 30K to 40 etc.  </p>  <p>  \t    You will learn how to create interactive dashboards using powerful slicer technology.  Slicers are an easy to use technology that make it easy for users to ask questions of their data.  </p>", 
+    "end_date": null, 
+    "title": "Excel Interactive Human Resource Data Dashboard", 
+    "price": "20.00", 
+    "instructors": "Ian Littlejohn", 
+    "commitment": "41 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/362818_d13b_5.jpg", 
+    "course_url": "https://www.udemy.com/excel-interactive-human-resource-data-dashboard/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-04T04:46:19Z"
+}

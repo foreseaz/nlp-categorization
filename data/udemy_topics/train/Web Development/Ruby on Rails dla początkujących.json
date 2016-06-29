@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Witamy w nowo powstałym wideo kursie o Ruby on Rails 4.2<br style=\"\"></p><p>Po ukończeniu kursu zdobędziesz wiedzę pozwalającą na samodzielne tworzenie stron internetowych oraz będziesz miał gotową aplikację, która jest podstawą dużej części istniejących stron. </p><p>Instalacja i konfiguracja środowiska pracy RVM (MAC OS)<br style=\"\"></p><p>Budowa aplikacji od podstaw<br style=\"\">Współczesna architektura aplikacji: MVC i CRUD<br style=\"\">Tworzenie bazy danych zintegrowanej z twoją aplikacją <br style=\"\">CMS - dodawanie, usuwanie, edycja ogłoszeń, dodawanie zdjęć, tworzenie galerii. <br style=\"\">Gemy - potęga RoR<br style=\"\">Bootstrap - twoja strona na telefonach i tabletach <br style=\"\">CKEditor - zawansowane wprowadzanie tekstu <br style=\"\">Devise Konto administratora - logowanie, rejestracja, mail potwierdzający, przypominanie hasła. <br style=\"\">Konfiguracja serwera SMTP (serwer pocztowy)<br style=\"\">HTML, JavaScript, JQuery - Pomocne technologie.</p><p>Podczas kursu powstanie serwis internetowy pozwalający na wystawienie ogłoszeń z mieszkaniami do wynajęcia. <br style=\"\"></p><p>Powodzenia w nauce!</p>", 
+    "end_date": null, 
+    "title": "Ruby on Rails dla początkujących", 
+    "price": "20.00", 
+    "instructors": "Andrey Sevostyanov", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/461978_7204_4.jpg", 
+    "course_url": "https://www.udemy.com/ruby-on-rails-dla-poczatkujacych/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-29T10:37:06Z"
+}

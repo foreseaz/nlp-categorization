@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Angular is a front end JavaScript framework that allows you to rapidly develop robust, single page web applications. In this course you’ll learn the basics of how to get an Angular application set up and running. Additionally, you’ll get a strong conceptual overview and foundation in Angular. You’ll be able to use the knowledge gained from this course to start your own applications or to easily jump in on existing large scale applications.\r\n \r\nWhat you'll learn\r\n\r\nAngular Application Structure - MVC without saying MVC\r\nTemplates/Views\r\nDirectives\r\nScope\r\nControllers\r\nBasic built-ins\r\nng-repeat\r\nng-show\r\nng-hide\r\nng-click\r\nRequesting data with $http\r\n\n\n                                            Syllabus\n                        Getting Started with Angular \r\nAngular is one of the most exciting technologies around. It’s a web framework that’s been adopted by fast growing startups, as well as large companies. But, as awesome as Angular is, it has a very steep learning curve!\r\nIn this stage we'll get aquainted with Angular concepts, and its often times confusing vernacular.\r\nControllers and Scope\r\nControllers are the glue that holds your application together. Using controllers you can create functions that do everything from handle how the user interface should look based on user interactions, to changing data in the application.\r\nUsing Angular's Built In Directives \r\nAngular has built in directives that make all sorts of tedious development tasks easy and straight forward. In this stage, you'll learn how to use these directives.\r\nServices in Angular\r\nWhere controllers are the set of application logic that control the user interface and operate within a limited scope, services allow you to create a reusable set of functions and values that can be passed across the application. Services are useful for getting data from a database, as well as firing save, edit, and delete operations.\r\nIn this course, you'll learn how to add services to your application.\r\nImproving Our Todo App \r\nIn the following videos, we'll add some fine improvements to our application. We'll improve the overall user experience of our application and enhance our usage of angular's built in directives.\n                                    ", 
+    "end_date": null, 
+    "title": "Angular Basics", 
+    "price": 25.0, 
+    "instructors": "", 
+    "institution_name": [], 
+    "commitment": "3-4 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "http://treehouse.7eer.net/c/259799/289740/3944", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Treehouse"
+    ], 
+    "start_date": "2016-06-07T00:00:00Z"
+}

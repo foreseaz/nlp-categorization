@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>This course is for beginners in Algorithmic Trading who want to use online platforms and brokers to trade their strategies algorithmically. </p><p>The course discusses a simple Pair Trading Strategy from the scratch, including theory and statistics involved. This strategy is coded in Python on a free online backtesting platform, Quantopian. The lectures are designed in a fashion that even the newbies in programming find it easy to understand the code and learn to tweak it. The difficulty level in programming skills required to complete the exercises is gradually increased so that by the end of the course, the learners are able to build their own basic automated trading strategy. </p><p>The course includes exercises and practice sessions on a sample code before it is implemented in the live markets. The course will take between 5 to 10 hours depending on your familiarity with any programming language. </p>", 
+    "end_date": null, 
+    "title": "Automate your trading strategies in live markets", 
+    "price": "45.00", 
+    "instructors": "QuantInsti Quantitative Learning", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/523866_8ca3_3.jpg", 
+    "course_url": "https://www.udemy.com/automated_retail_trading_course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-09T04:18:46Z"
+}

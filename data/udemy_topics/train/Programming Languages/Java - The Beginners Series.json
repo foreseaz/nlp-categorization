@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t As a college student who did not have the best professor in my intro to java course, I understand the important of visual hands on learning.  So I kept in mind, when formatting this course, how I would have best understood something initially and the order I would have comprehended best.  This course covers the basic concepts of Java to get you started and comfortable programming.  You shouldn&#039;t rush too fast through the course, but rather use some of what I am teaching and plugging in different values or using the concepts in different ways.  Also, code things that interest you.  Explore the Java API to see what all you can do with objects already available in Java&#039;s vast library.  I barely scratched the surface to the things java can do.  Be on the look out for my follow up intermediate series where I will get a little bit more advanced.  This course is for anyone who is taking a programming course in school, at any level, and needs supplementary help or someone that is just interested in programming.  Java is arguably the best language to start off learning now a days.  </p>", 
+    "end_date": null, 
+    "title": "Java - The Beginners Series", 
+    "price": 0, 
+    "instructors": "Michel McAlexander", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/127656_b25f_6.jpg", 
+    "course_url": "https://www.udemy.com/java-the-beginners-series/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-01T15:33:05Z"
+}

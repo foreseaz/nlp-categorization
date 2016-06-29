@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    So you’ve heard mobile is kind of a big deal, and you’re not sure how to transform your traditional desktop-focused web apps into fast, effective mobile experiences. This course is designed to teach web developers what they need to know to create great cross-device mobile web experiences. This course will focus on building mobile web apps, which will work across multiple platforms including Android, iOS, and others.Why Take This Course?After completing this class, you’ll have built a web application with a first-class mobile experience. You’ll understand what it takes to build great web experiences on mobile devices, have gained experience with the tools you need to test performance, and be able to apply your knowledge to your own projects in the future.\n\n                                            Syllabus\n                        In this course, you will learn how to build web experiences that adapt to the different screen sizes and capabilities that mobile devices offer, and how to scalably optimize media for mobile and desktop.  We will cover programming touch interaction, as well as how to optimize form field input for mobile devices and use APIs like geolocation and the accelerometer, and ensuring your web experiences work great when network conditions are sub-optimal.  Finally, you’ll gain the tools to investigate performance in mobile applications, with a strong understanding of mobile networking, battery usage patterns and optimizing paint techniques to build smooth animations on mobile.\n\n### Lesson 01: Syllabus\nWe’ll start with a high-level overview of the course and what to expect in it. We’ll also go into more depth on what we mean by mobile web development, and why you should care about it.\n\n### Lesson 02: Mobile Development Tools\nWorkflow and tooling is incredibly important for building great web apps, and this carries over to mobile web development. This lesson will show you how to use the Chrome Developer Tools to develop for the mobile web.\n\n### Lesson 03: Mobile UX and Viewport\nDesigning for the mobile web is all about a smooth user experience. This lesson will get you thinking about how to achieve that on mobile, and we’ll introduce the first of many tools you need to achieve this: the viewport.\n\n### Lesson 04: Fluid Design\nMobile means lots of different devices and form factors. We’ll discuss how to make your site responsive, clean, and user-friendly on multiple devices and layouts.\n\n### Lesson 05: Media Queries\nSometimes different devices call for fundamentally different layouts. This lesson will teach you how to achieve this using media queries.\n\n### Lesson 06: Responsive Images\nMedia requirements are different in mobile - network constraints and very high resolution screens set up a conflict that can be challenging.  We’ll talk about how best to integrate media into your mobile web applications, and adaptively scaling images based on the environment.\n\n### Lesson 07: Optimizing Performance\nUsers expect a fast, seamless experience on mobile. We’ll go over optimizing various performance metrics to improve that experience, such as network, cpu, rendering, and battery performance.\n\n### Lesson 08: Touch\nTouch input is fundamentally different from mouse input, and requires you to think about your user interactions differently. We’ll go over UX concerns with touch-based interaction, and how to design user interactions that work across devices.\n\n### Lesson 09: Input\nUsing a keyboard on mobile is awful. We’ll discuss ways to improve it, using semantic input for form data, and other user input options on mobile.\n\n### Lesson 10: Device Access\nMobile devices have a full array of sensors typically unavailable on desktop. We’ll talk about camera access, geolocation, and other sensors and feedback you have access to on mobile.\n\n### Lesson 11: Offline and Storage\nIt’s an unfortunate reality that mobile users aren’t always online. We’ll go over using the local cache as well as local storage APIs to give your users a great offline (and partially-online) experience as well.\n\n### Lesson 12: Wrap-up\nWe’ll finish up the class by talking briefly about other topics to consider, such as app experience, monetization, deployment and distribution. We’ll also point you to other resources to look at moving forward in your career.\n                                    ", 
+    "end_date": "2014-02-17T00:00:00Z", 
+    "title": "Mobile Web Development", 
+    "price": 0, 
+    "instructors": "Peter Lubbers and Chris Wilson", 
+    "institution_name": [
+        "Google"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.udacity.com/course/mobile-web-development--cs256?utm_medium=referral&utm_campaign=api", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2014-01-06T00:00:00Z"
+}

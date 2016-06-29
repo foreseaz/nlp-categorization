@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Al finalizar de este curso, tendrás todos los conocimientos necesarios para crear FÁCILMENTE sitios web dinámicos con Dreamweaver, Fireworks, hojas de estilo CSS, PHP y base de datos MySql.</p><p style=\"\">Entenderás el cómo funcionan famosos sitios web como Facebook, Youtube,   Wikipedia, Yahoo, etc., y serás capaz de emprender tu propio proyecto.</p><p style=\"\">Aprenderás a utilizar las poderosas herramientas que Adobe Dreamweaver nos ofrece para hacer webs fácil y rápidamente.</p><p style=\"\">Aprenderás desde cómo instalar un servidor de pruebas en tu   computador, configurar un nuevo sitio, nociones de HTML y CSS, hasta el   uso y la puesta en marcha de sistemas web que interactúan con bases de   datos.</p>  ", 
+    "end_date": null, 
+    "title": "Aprende a crear SITIOS WEB con PHP y MySql", 
+    "price": "20.00", 
+    "instructors": "Jorge Arcos", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/26006_c86d_22.jpg", 
+    "course_url": "https://www.udemy.com/aprende-a-crear-sitios-web-con-php-y-mysql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-10-04T19:46:37Z"
+}

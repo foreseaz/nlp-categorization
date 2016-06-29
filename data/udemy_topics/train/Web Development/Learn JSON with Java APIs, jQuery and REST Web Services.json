@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">Welcome to JSON with Java APIs, jQuery and REST </strong>udemy<strong class=\"redactor-inline-converted\"> course.</strong><br><br><strong class=\"redactor-inline-converted\">After attending this useful and practical course, </strong><strong class=\"redactor-inline-converted\">you are going to learn how to develop </strong>web-based applications with <strong class=\"redactor-inline-converted\">JSON, jQuery and RESTful Web Services.</strong><br></p>\n\n<p><strong class=\"redactor-inline-converted\">***Live JSON samples are coded from scratch***  <br>***Your questions will be answered within 24 hours***<br>***Source codes of the sample applications are included***</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>The following technologies are explained with examples; <strong class=\"redactor-inline-converted\">JSON, Jackson JSON API, jQuery(AJAX), Apache Jersey REST and Eclipse</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>The <strong class=\"redactor-inline-converted\">benefits </strong>of attending this <strong class=\"redactor-inline-converted\">udemy</strong> course are listed like as below;<br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>You will learn the latest parsing technologies for <strong class=\"redactor-inline-converted\">JSON </strong>data format</li></ul>\n\n<ul><li>Learn how to send <strong class=\"redactor-inline-converted\">AJAX </strong>request to application server</li><li>You will learn how to send and receive <strong class=\"redactor-inline-converted\">JSON </strong>data along with <strong>jQuery </strong>and <strong class=\"redactor-inline-converted\">REST</strong></li></ul>\n\n\n\n<ul><li>Learn how to download and configure <strong class=\"redactor-inline-converted\">Apache Tomcat 8</strong> in order to test REST services</li></ul>\n\n\n\n<ul><li>Learn how to import <strong class=\"redactor-inline-converted\">Eclipse </strong>based projects into Eclipse Workspace</li><li>You will learn how to download and install <strong class=\"redactor-inline-converted\">Java JDK 8</strong></li><li>Learn how to add jar dependencies to projects using <strong class=\"redactor-inline-converted\">Apache Maven build tool</strong> and pom xml</li></ul>\n\n<ul><li>We will only use <strong class=\"redactor-inline-converted\">FREE </strong><strong class=\"redactor-inline-converted\">Open Source Software tools </strong>during the development of components in this course.</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Please feel free to ask me questions regarding the lectures if you attend this udemy course. I will try to answer your questions as soon as possible.</strong> <br><br><strong class=\"redactor-inline-converted\">HD quality (full screen) recorded course content and you will be able to see the source code clearly (HD format) if you attend this udemy course as a student.</strong></p>", 
+    "end_date": null, 
+    "title": "Learn JSON with Java APIs, jQuery and REST Web Services", 
+    "price": "20.00", 
+    "instructors": "Tuna Tore", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/832478_6833_5.jpg", 
+    "course_url": "https://www.udemy.com/learn-json-with-java-apis-jquery-and-rest/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-26T15:00:48Z"
+}

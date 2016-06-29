@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Por que aprender Linux?</strong></p>\n\n<p>É muito comum esse questionamento, porque devo investir tempo e dinheiro para estudar Linux, esse questionamento é comum devido a grande maioria dos computadores pessoais possuíram o Windows instalado.</p>\n\n\n\n<p>A resposta é simples, SIM devo aprender Linux pelas seguintes razões:</p>\n\n\n\n<p>1)     O LINUX é o sistema operacional que mais cresce no mundo: O mercado ainda é pequeno, em se tratando de computadores pessoais, mas uma grande quantidade de empresas estão adotando o LINUX para redução de custos de software. Vale também lembrar que empresas públicas e militares utilizam o Linux como sistema operacional.</p>\n\n\n\n<p>2)     O mercado profissional para LINUX está em alta: Recentemente a Linux Foundation, divulgou uma pesquisa sobre empregos na área de tecnologia que demandam profissionais qualificados em Linux, entre os principais detalhes da pesquisa está que 93% dos gerentes pretendem contratar um profissional Linux nos próximos 6 meses.</p>\n\n\n\n<p>3)     Linux está presente em 1/3 dos servidores do mundo e em 98% dos computadores mais rápidos do planeta.</p>\n\n\n\n<p>Sendo assim, é inegável a importância de se estudar Linux no atual cenário tecnológico. Estudar Linux só agregará ao seu currículo um importante diferencial competitivo.</p><p><strong>Linux Ubuntu</strong><br></p>\n\n<p>Ubuntu é uma das distribuições de Linux mais famosas do mundo, que apresenta lançamentos semestrais para seus usuários. Conquistando um número cada vez maior de máquinas, o sistema é integração com a web, possui interface amigável e soluções simples para a instalação e remoção de aplicativos.</p>\n\n<p>No curso você aprenderá a criar um ambiente virtual para estudo, instalar o Linux via DVD ou Pendrive, conhecerá a área de trabalho Unity, trabalhar com janelas, instalar e desinstalar programas, realizar backups, conhecer os comandos básicos do terminal, configurar o sistema operacional e muito mais.</p>\n\n<p><strong>Libre Office</strong></p>\n\n<p>Neste mesmo curso você aprenderá o essencial do Libre Office, como criar textos, jornais, revistas, cartazes, aprenderá também a criar planilhas, fórmulas matemáticas, financeiras, condicionais etc. Vale ressaltar que os arquivos salvos no Libre Office são totalmente compatíveis com o Microsoft Office.</p>", 
+    "end_date": null, 
+    "title": "Linux Ubuntu e Libre Office", 
+    "price": "35.00", 
+    "instructors": "Denilson Bonatti", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/803732_6bc0.jpg", 
+    "course_url": "https://www.udemy.com/linux-ubuntu-e-libre-office/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-25T13:01:16Z"
+}

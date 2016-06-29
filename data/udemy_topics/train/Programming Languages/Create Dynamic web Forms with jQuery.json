@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>jQuery is a great way to add<strong> amazing functionality and dynamic effects </strong>onto your web pages.   jQuery provides great functionality when it comes to forms, and creating forms is an essential skill within web development.</p>\n\n<p>Together with HTML forms jQuery can do so much.</p>\n\n\n\n\n\n<p>This course will cover how to match two form fields to check if the content is the same which is a useful code snippet to help provide form content vetting.</p>\n\n\n\n\n\n<p>Use check-boxes to trigger events such as TOS windows and more.   Check-box interaction within a form is a much needed piece of functionality.</p>\n\n\n\n\n\n<p>Learn to make AJAX calls to the server with drop down values, checkboxes and radio buttons triggering events.   Dynamic form interaction allows you to provide each user a more customized form experience.</p>\n\n\n\n\n\n<p>Add jQuery UI auto complete and populate the auto complete with dynamic JSON data.   JQuery UI has many pre-built capabilities that are easy to add to your web projects.</p>\n\n\n\n\n\n<p>By the end of the course you will have the skills and know how to <strong class=\"redactor-inline-converted\">apply jQuery within your website</strong>.   </p>\n\n\n\n\n\n<p>I am here to help you learn how to create your own websites and ready to answer any questions you may have.</p>\n\n\n\n\n\n\n\n<p>JavaScript and jQuery are in <strong class=\"redactor-inline-converted\">demand skills</strong>, and<strong class=\"redactor-inline-converted\"> learning how to use them </strong>will help to separate you from the crowd.</p>\n\n\n\n\n\n\n\n<p>Want to know more, what are you waiting for take the first step.  Join now to<strong class=\"redactor-inline-converted\"> start learning how you too can utilize jQuery within your website today.</strong></p>\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Create Dynamic web Forms with jQuery", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/835426_4b0d.jpg", 
+    "course_url": "https://www.udemy.com/create-dynamic-web-forms-with-jquery/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-29T16:16:33Z"
+}

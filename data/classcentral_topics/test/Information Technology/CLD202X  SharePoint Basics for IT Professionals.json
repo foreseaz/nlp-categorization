@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Information Technology"
+    ], 
+    "description": "\n\n                    \n                    \n                    Learn from Microsoft experts the necessary skills to implement SharePoint in your organization. This introductory course is ideal for IT Professionals seeking to understand how to plan and implement SharePoint collaboration tools within their organizations. The course covers the robust features of SharePoint sites, enterprise content management, and search.\n\nYou will learn how to plan and establish a server farm for on-premise and cloud, set up site collections, implement an Enterprise Content Management Solution, search, and design Managed Metadata/Term Store.\n\n                                    ", 
+    "end_date": "2015-09-15T00:00:00Z", 
+    "title": "CLD202X: SharePoint Basics for IT Professionals", 
+    "price": 0, 
+    "instructors": "Christina Singletary", 
+    "institution_name": [
+        "Microsoft"
+    ], 
+    "commitment": "2-4 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/sharepoint-basics-it-professionals-microsoft-cld202x", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2015-08-04T00:00:00Z"
+}

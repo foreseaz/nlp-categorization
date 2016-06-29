@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Daha önce veritabanı konusunda herhangi bir bilgiye sahip olmasan bile bu kurs bittiğinde :</p><ul><li>Veritabanı  ve  mimarisi hakkında temel bilgileri elde edeceksin. Kullanıcı tanımlama (<strong>Create User</strong>)  ve rol oluşturma metotlarını (<strong>Rol,Grant, Revoke</strong>), veri türlerini ve kullanım alanlarını öğreneceksin. </li><li><strong>Normalizasyon</strong> adımları (1NF, 2NF, 3NF) hakkında bilgi sahibi olacaksın. </li><li>Tablo oluşturma, silme, düzenleme (<strong>Create,Alter,Drop,Truncate</strong>),Oluşturduğun tablolara kayıt ekleme, silme ve düzenleme (<strong>Insert, Update, Delete</strong>),</li><li>Tablolar arası ilişkileri oluşturma, silme ve düzenleme (<strong>Primary Key, Foreign Key</strong>) işlemlerini rahatlıkla yapabileceksin.</li><li><strong>Select</strong> sorguları,<strong> Join</strong> işlemleri, <strong>Alt sorgulama</strong> yapma, <strong>İç içe sorgulama</strong> yapma, <strong>Tek-satır </strong>işlemleri,<strong> Çok-satır</strong> işlemleri, <strong>Grup </strong>işlemleri, <strong>Veri gruplandırma</strong> işlemlerini rahatlıkla yapabiliyor olacaksın.</li><li>Oracle nesnelerinden olan  <strong>View</strong>, <strong>Sequence</strong> ve<strong> Index </strong>oluşturmayı öğreneceksin.</li></ul><span></span>", 
+    "end_date": null, 
+    "title": "Oracle SQL' e giriş", 
+    "price": "20.00", 
+    "instructors": "Kod Dünyası", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/754270_9d78_3.jpg", 
+    "course_url": "https://www.udemy.com/oracle_sql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-06T12:00:23Z"
+}

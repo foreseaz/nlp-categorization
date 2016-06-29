@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    Python is the language of choice for many data scientists.  In this practical computer science course, you will build on your existing Python skills and learn how to manipulate data using Pandas, and build machine learning solutions in Python using the scikit-learn package.\n\n                                    ", 
+    "end_date": "2016-08-15T00:00:00Z", 
+    "title": "DAT210x: Programming with Python for Data Science", 
+    "price": 0, 
+    "instructors": "Authman Apatira", 
+    "institution_name": [
+        "Microsoft"
+    ], 
+    "commitment": "3-4 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/programming-python-data-science-microsoft-dat210x", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-07-04T00:00:00Z"
+}

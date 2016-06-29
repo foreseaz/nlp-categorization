@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Subtitles are provided with this course.</strong><br></p>\n\n\n\n<p>Design and development of a product requires great understanding of full capability of implementation language. The complexity of real world application requires the use of strength of language to provide robust, flexible and efficient solution. C# provides the Object Oriented capability and lot of rich features to stand with changing demand of current world application requirement. The course covers following topics-</p>\n\n\n\n\n\n<ul><li><strong>Delegates and Events</strong></li><li><strong>Multithreading</strong></li><li><strong>Generics</strong></li><li><strong>Exception Handling</strong></li><li><strong>Extension Methods</strong></li><li><strong>Nullable Types</strong></li><li><strong>Lambda Expressions</strong></li><li><strong>Reflection</strong></li></ul>\n\n\n\n\n\n<p>This course explains the advanced features of C# in step-wise manner. All the topics have been explained in simple way. You will also see the demonstration of source code implementation for each topic. This course will improve the C# skills of developers who have basic understanding of C#. You will learn rich features of C# which will help in providing efficient solution.</p>\n\n\n\n\n\n<p>This course will be expanded soon, some of the topics that will be added are-</p>\n\n\n\n\n\n<ul><li><strong>Dynamic Binding</strong></li><li><strong>Asynchronous programming</strong></li></ul>\n\n\n\n\n\n<p>Course will be updated with adding new topics and existing topics will be provided in detail to have good understanding of advanced features of C# to build the technical strength and shape your career.</p>\n\n\n\n\n\n<p><strong></strong></p>", 
+    "end_date": null, 
+    "title": "Advanced C# : Empower Yourself with Advanced C# Skills", 
+    "price": "30.00", 
+    "instructors": "Suresh Kumar Srivastava", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/617406_056b_2.jpg", 
+    "course_url": "https://www.udemy.com/advanced-object-oriented-csharp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-20T17:50:17Z"
+}

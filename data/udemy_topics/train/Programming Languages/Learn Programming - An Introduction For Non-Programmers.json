@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tThis course will help you unlock the mysteries of programming. We will step-by-step look at the fundamental building blocks found in almost all programming languages. We will use Python as our tool, but this is not an introduction to Python, our focus is on the concepts of programming.  </p>  <p>  \tAfter this course you will have a solid foundation to learn any programming language as you will recognize everything you learned during this course.  </p>", 
+    "end_date": null, 
+    "title": "Learn Programming - An Introduction For Non-Programmers ", 
+    "price": "20.00", 
+    "instructors": "Joakim Wassberg", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/343156_fe2e_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-programming-an-introduction-for-non-programmers/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-13T11:39:46Z"
+}

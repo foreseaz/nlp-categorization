@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Com o conhecimento adquirido neste curso será possível tirar seus projetos do papel, criando incríveis aplicações web com Python/Django além de utilizar as melhores práticas do mercado, pois iremos desenvolver uma aplicação real chamada Django E-Commerce - uma plataforma de comércio eletrônico. Vamos passar por diversos problemas encontrados no desenvolvimento web, desde a concepção do projeto ao deploy num servidor real.</p>\n\n<p>O curso está organizado em módulos que serão liberados progressivamente a cada semana, no final de cada módulo iremos escrever testes automatizados para o que foi desenvolvido no módulo e iremos colocar o nosso progresso em produção no servidor real do Heroku (que oferece uma cota gratuita).</p>\n\n<p>Os módulos do curso serão:</p>\n\n\n\n\n\n\n\n<ul><li>Introdução e o Ambiente de Desenvolvimento Python/Django</li><li>Cadastrando e exibindo os produtos (Django Admin)</li><li>Melhorando nosso projeto com Class-based views e Django Forms</li><li>Criando a aplicação de Usuários</li><li>Aplicação de Carrinho de Compras e Pedidos</li><li>Finalizando a compra (sistema de pagamento)</li><li>Tópicos Avançados (cache, middleware, ajax)</li></ul>\n\n\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Construa um E-Commerce com Python 3 e Django", 
+    "price": "35.00", 
+    "instructors": "Desenvolvedor e Professor Gileno Alves Santa Cruz Filho", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/836832_7b19_3.jpg", 
+    "course_url": "https://www.udemy.com/construa-um-e-commerce-com-python-3-e-django/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-01T17:40:41Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Course Description</strong></p>  <p>Learn how to use Python to test the back-end of web services or APIs. We use industry standard real eCommerce API to practice testing using Python programming language.</p><p><br><strong></strong></p><p><strong>Critical addition to your resume</strong></p>  <p>If you are getting into the QA world or you are looking to advance your career, having API testing skill will accelerate your success. Python is one of the most popular languages to use in software testing, and knowing how to use it for API/Backend testing will expand your pool of possibilities.</p>  <p>In addition to using Python for API/Backend testing, the tools we will use are great addition to your resume. We will be using industry standard tools that can be applied to several tasks beyond API testing.</p>  <p>After completion of this course you will be able to go through interview as if you have API testing experience. You will also have plenty of APIs to test and practice.</p><p><br></p><p><strong>Content and Overview</strong></p>  <p>In this course we will spend some time creating an eCommerce application on our local machine. We will install a package that includes web server and database. Using this package we will install WordPress and install necessary plugins to make it an eCommerce application. The eCommerce application gives us all the APIs we will test. </p><p>We have access to the database so we will test API data against the \ndatabase. We will create a efficiently structured test framework and \nlearn how to use Python to perform our verification.</p>  <p>We will \nalso learn how to use a Python test runner tool \"pytest\" see why test \nrunner tools are critical for automation testing.<br></p><p><br><strong></strong></p><p><strong>What am I going to get from this course?</strong></p>  <ul><li>35 + lectures (continuously adding more examples)</li><li>Plenty of APIs (endpoints) for you to practice with      beyond this class</li><li>Enough material and examples to be able to create a      project and maintain a GitHub repo</li><li>Industry standard tools to add to your resume. <ul><li>Like<ul><li>MySQL Workbench</li><li>AMPPS (package with Apache, MySQL, PHP, ....)</li><li>WordPress</li><li>WooCommerce</li></ul></li></ul></li></ul>", 
+    "end_date": null, 
+    "title": "Backend  / API Testing  with Python", 
+    "price": "40.00", 
+    "instructors": "Admas Kinfu", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/648448_73af.jpg", 
+    "course_url": "https://www.udemy.com/backend-api-testing-with-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-23T02:07:06Z"
+}

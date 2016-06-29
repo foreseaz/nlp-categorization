@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p><strong>Who should take this course:</strong></p><p>Any one with little knowledge of AutoCAD can take this course, this course does not require you to be a veteran in AutoCAD. </p><p><strong>About this course:</strong></p><p>In this course you will learn methods of making actual 2D and 3D engineering drawings along with some representation drawings. the first section of this course will take you to the basics of AutoCAD drafting and annotation workspace and you will learn to use basic 2D drawing and modify commands.</p><p>The second section focuses on 3D modelling workspace and here you will make 3D engineering drawings using draw and modify commands of 3D workspace. The drawings are used in such a way that you have to use most of the tools for making them and each practice drawing will some specific command sin detail.</p><p>The last section has some 3D solid model and surface modelling drawings with complex geometries. These are mainly representation drawings and not standard engineering drawings, the drawings are focussed at teaching key concepts around some specific draw and modify commands of 3D modelling workspace.</p><p><strong>At the end of this course you will be able to: </strong></p><ul><li>Apply skills learnt in AutoCAD to real world scenario. </li><li>learn multiple applications of AutoCAD tools</li><li>Draw 2D and 3D complex drawings</li></ul>", 
+    "end_date": null, 
+    "title": "AutoCAD 2D and 3D practice drawings", 
+    "price": 0, 
+    "instructors": "Jaiprakash Pandey", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/719318_9c19_2.jpg", 
+    "course_url": "https://www.udemy.com/autocad-2d-and-3d-practice-drawings/", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-07T07:39:17Z"
+}

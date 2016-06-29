@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>A detailed demonstration of the development of a multi-echelon supply chain model in Microsoft Excel is provided.&nbsp; First, the conceptual model for the supply chain is explained and developed in Microsoft PowerPoint.&nbsp; The monthly bucketed supply chain model is then developed in Microsoft Excel starting with a blank workbook.&nbsp; Inventory coverage, inventory value, replenishment planning, production planning, etc is covered at multi-levels of the supply chain.&nbsp; The student should leave the course with an understanding of the key requirements for modeling a supply chain as well as how to create a model in Excel. &nbsp; &nbsp; <br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "How to Build a Supply Chain Model in Microsoft Excel", 
+    "price": "20.00", 
+    "instructors": "Eric Moore", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/27706_7fb9_3.jpg", 
+    "course_url": "https://www.udemy.com/how-to-build-a-supply-chain-model-in-microsoft-excel/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operations"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-10-25T01:22:36Z"
+}

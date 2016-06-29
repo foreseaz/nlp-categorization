@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t<span style=\"\">Durante este curso, aprenderás lo que es un dataguard, cuales son las diferentes opciones de configuración y ejemplos de uso. Montaremos juntos un active dataguard gracias a 2 maquinas virtuales separadas. Este montaje nos permite simular lo mas posible la realidad ya que tendremos 2 servidores físicamente separados. Usaremos técnicas avanzadas de instalación con rman duplicate for standby y el broker para la gestión.&lt;br /&gt;Ven, este curso te va a encantar, no te lo puedes perder.</span>  </p>  <p style=\"\">  \tDurante el curso aprenderéis palabras clave como:  </p>  <p style=\"\">  \tDataguard (DG)  </p>  <p style=\"\">  \tRman duplicate  </p>  <p style=\"\">  \tListener  </p>  <p style=\"\">  \tOracle net  </p>  <p style=\"\">  \tBroker  </p>  <p style=\"\">  \tPassword file  </p>  <p style=\"\">  \tswitchover  </p>  <p style=\"\">  \tfailover  </p>  <p style=\"\">  \talta disponibilidad  </p>  <p style=\"\">  \tEl curso se compone en mayoría de videos, también encontrareis la hoja de ruta de la creación del dataguard, en forma de fichero texto con todas las querys y comandos útiles.  </p>  <p style=\"\">  \tEl curso dura 4 horas y media y esta dividido en 4 bloques. Cada bloque con sus diferentes capítulos.  </p>  <p style=\"\">  \tEl primer bloque es una presentación de lo que es un dataguard y en que diferentes situaciones os puede salvar la vida tener uno montado. También explica las ventajas que podéis sacar de un dataguard si comparamos con lo fácil que es de montar, mantener y monitorizar.  </p>  <p style=\"\">  \tEl segundo bloque trata del montaje del DG en si. Usaremos 2 máquinas virtuales para obtener una simulación mas real, ya que cada máquina virtual sera un centro diferente del otro. Simularemos que tenemos una base en Madrid y a otra en Barcelona.  </p>  <p style=\"\">  \tMontaremos el DG a partir de una duplicación de la base primaria.  </p>  <p style=\"\">  \tEl bloque 3 se dedica a como se configura y se usa el broker. El broker es una herramienta que permita la fácil y intuitiva gestión del DG.  </p>  <p style=\"\">  \tEl ultimo bloque trata de monitoring y de la gestión de los backups y mas en concreto de los archivers.  </p>  <p style=\"\">  \tEste curso es aliado de lujo para todos los DBA que quieren montar un sistema de alta disponibilidad y aun no tienen bien como hacerlo y con que tecnología. Gracias a este curso ya no tendrán dudas y podrán disfrutar de un salva vidas de alta tecnología y muy fácil de montar.  </p>", 
+    "end_date": null, 
+    "title": "Oracle active dataguard", 
+    "price": "20.00", 
+    "instructors": "Luis Diaz", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/298600_a81b_3.jpg", 
+    "course_url": "https://www.udemy.com/oracle-active-dataguard/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Oracle"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-11T20:27:29Z"
+}

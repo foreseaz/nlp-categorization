@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Welcome everyone to the T-SQL course.  T-SQL is also popularly referefered to as T-Sequel .In this course you will learn all the basics of T-SQL. We will discuss the T-SQL features step by step. We will be using SQL Server Express 2014 (which is a free download). As a sample, we will use AdventureWorks 2014 as our database. Along the way, we will be creating our own t-SQL queries to get data into a database and also out of a database.  But AdventureWorks 2014 will be our main focus. As far as T-SQL, we will start with the simple select statements and add new features as we go. I will introduce you to the data types available so you can make the appropriate selection when creating a column. Then, we will talk about joins, functions, tables, procedures, triggers, indexes, and much more. By the time you are done with this course, you will be very comfortable using T-SQL. <br>This course will provide you with the basic knowledge and skills to create queries using Transact-SQL. It will teach you how to select, filter and sort data from multiple tables and how to use views and stored procedures. You will also be familiar with SQL Server Management Studio 2014 also known in the tech industry as SSMS. This is the tool you will use to write and see the output of your T-SQL queries.<br><br>What You Will Learn in this course includes:<br><br></p><ul><li>Query Multiple Database Tables</li><li>Change query output column names using case expressions</li><li>Perform Various table joins</li><li>Filter records and remove duplicates</li><li>Write basic T-SQL Statements</li><li>Understand T-SQL TOP Command</li><li>Understand Normalisation</li><li>Know how to use SSMS</li><li>Create Views</li><li>Create Stored Procedures</li><li>Understand NULL Values</li><li>Data Types</li><li>Functions</li></ul><br>This is a video based course of about hours with lots of practical hands on examples to follow along.<br>", 
+    "end_date": null, 
+    "title": "T-SQL For Beginners: Learn to Query  SQL Server Databases", 
+    "price": "20.00", 
+    "instructors": "Bluelime Learning Solutions", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/653920_e173_2.jpg", 
+    "course_url": "https://www.udemy.com/t-sql-for-beginners-learn-to-query-sql-server-databases/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-28T22:10:00Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t  This course will give you a basic understanding of the fundamentals of database administration and will concentrate on the &quot;administration&quot; part, and will give you a solid understanding of the database internals which will put you in the right path to being a successful database administrator. And I will immediately dive into the hands-on part after every lecture.  </p>  <p style=\"\">  \t  I will primarily use oracle&#039;s 11g version but the concepts and techniques apply to past and future versions of Oracle. I will try to use less GUI interface(except in the install) as possible since in the real world, database issues doesn&#039;t pop up when your in the office sipping coffee at 2pm, it usually pops up when you are sleeping soundly at 3am, waking up then remotely connecting to your work VPN, where speed is key, you will not be using a GUI to troubleshoot.  </p>  <p style=\"\">  \t  I will also share my scripts that I use daily in my 10 years as a production DBA.  </p>", 
+    "end_date": null, 
+    "title": "Become an Oracle DBA from scratch in a flash", 
+    "price": "20.00", 
+    "instructors": "Dexter Kwan", 
+    "commitment": "39 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/352714_eb06_6.jpg", 
+    "course_url": "https://www.udemy.com/become-an-oracle-dba-in-a-flash/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-21T07:04:46Z"
+}

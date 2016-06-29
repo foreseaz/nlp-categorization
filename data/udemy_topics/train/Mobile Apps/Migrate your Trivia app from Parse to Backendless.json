@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>First of all I want to tell you that this course is only for those, who want to change the backend service of their iOS trivia app from Parse to Backendless.</p><p>This Course is about how can you improve your current trivia app in order to monetise it better and give the user a better user experience.</p><p>The Things I've changed:</p><p>- Parse is shutting down in 2017 so I've replaced the Parse backend service with Backendless, to give the app a \"longer life\"</p><p>- Also IAd will be discontinued this summer so in order to get our app approved by Apple we need to remove IAd from our apps. In  the source code that's already done too.</p><p>- At several questions(you set when) the app is going to ask the user if he/she likes the app, and he does, the app redirects him to the review section of your app in the app store. After implementing this functions I've got more reviews from my users.</p><p>- I've also added an extra function at the In-App Purchases. If the user buys the most expensive in app purchase he will get the ads removed too. This makes the user more likely to buy the $10 IAP, because he also gets a bonus.</p><p>Besides of not being a native English speaker I talk very clear and detailed so it's very understandable, but if you don't understand something, you can always ask for help by posting a new question or sending me a private message.</p>", 
+    "end_date": null, 
+    "title": "Migrate your Trivia app from Parse to Backendless", 
+    "price": "20.00", 
+    "instructors": "Kristof Kovács", 
+    "commitment": "32 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/763228_735b_2.jpg", 
+    "course_url": "https://www.udemy.com/migrate-your-trivia-app-from-parse-to-backendless/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-15T15:05:28Z"
+}

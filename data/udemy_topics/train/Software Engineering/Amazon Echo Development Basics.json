@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is for developers who want to develop Amazon Echo skills/apps. You will be taken through Amazon Alexa examples to get started. Examples touched on this course are the well known hello world, wikipedia reading articles from a day of the year in history, and back and forth dialog from Pulp Fiction the movie. Nodejs, Amazon Lambda, and the Alexa developer portal are the main technologies used in this course. The goal of this course is for you to walk away knowing how to create basic skills for Amazon Echo. If you purchased an Echo and want to show off your development skills to friends and family this will get you started!</p>", 
+    "end_date": null, 
+    "title": "Amazon Echo Development Basics", 
+    "price": "50.00", 
+    "instructors": "Wesley Lorenzini", 
+    "commitment": "34 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/573956_bd06_2.jpg", 
+    "course_url": "https://www.udemy.com/amazon-echo-development-basics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-04T21:39:27Z"
+}

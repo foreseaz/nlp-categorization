@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>This course offers a systemetic method of decison making. Decison making process invloves formulation of decison alternatives, states of nature and payoffs. These elements are explained in this course in detail.</p><p>Decison making under uncertainty where you have idea of various states of nature and you are not in position to provide probability estimate, this course will tell you about various criterion by which you can make decison.</p><p>Decison making under risk where you are you are not only aware about the various states of nature but also you have probability estimates for these states of nature. In this situation how you can make decison using expected monetary value approach.</p><p>This course also talk about decison tree. It's non-technical.</p>", 
+    "end_date": null, 
+    "title": "Decision Science", 
+    "price": "50.00", 
+    "instructors": "Dr. Ash Narayan Sah", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/676540_a60e_7.jpg", 
+    "course_url": "https://www.udemy.com/decison-science/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-21T16:18:33Z"
+}

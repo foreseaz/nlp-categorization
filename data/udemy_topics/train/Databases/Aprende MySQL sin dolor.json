@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tMySQL es la base de datos más utilizada en Internet, sin duda alguna. Se estima en más de 6 millones de instalaciones al rededor del mundo. En este curso aprenderás a utilizarla desde las instrucciones más básicas, hasta hacer querys complejos.</p><p>Esta base de datos es la más usada para hacer aplicaciones Web conectándola con lenguajes como PHP.</p>", 
+    "end_date": null, 
+    "title": "Aprende MySQL sin dolor", 
+    "price": "20.00", 
+    "instructors": "Francisco Javier Arce Anguiano", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/150082_eace_3.jpg", 
+    "course_url": "https://www.udemy.com/aprende-mysql-sin-dolor/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-21T12:58:21Z"
+}

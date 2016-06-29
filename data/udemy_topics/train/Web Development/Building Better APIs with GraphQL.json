@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course teaches you everything you need to know about GraphQL. GraphQL was open sourced by Facebook in 2015 and is a fresh new approach to API development. <br></p><p><strong>GraphQL will replace REST in the coming years</strong>. Don't just take my word for it though, here's what some other folks on Twitter are saying:<br></p><p><em>\"Just watched a talk on GraphQL, I want this thing and I want it by yesterday\" –</em> @sunesimonsen<br></p><p><em>\"I long for the day when GraphQL will be the new API standard.\"</em><em> – </em>@xinron<br></p><p><em>\"GraphQL is the King. Long Live the King! (R.I.P. REST)</em><em>\" – </em>@scbarrus</p><p>––––––––––––––––––––––</p><p><strong>About this course:</strong></p><ul><li>We build two projects from scratch so you have everything you need to know to use GraphQL</li><li>Full, free lifetime access</li><li>Unconditional Udemy 30 day money-back guarantee - that's my personal promise of your\n\n\t\t\t\t\t\t\tsuccess! </li><li>On-screen, over my shoulder view of where to go, what to click on, and how to set everything up from start to finish</li></ul><p><strong><br></strong></p><p><strong>What you'll learn:</strong></p><ul><li>How the GraphQL schema works so you can use GraphQL on your own servers</li><li>How to query GraphQL so you can access and mutate your data</li><li>We'll start simple, creating a schema with dummy data</li><li>Then we'll hook up our with schema to a live Star Wars API</li><li>We'll learn how to query the data, filter the data, and optimize the queries with DataLoader</li><li>We'll cover how to put the schema on an Express server so you can get access to your data with just HTTP requests</li><li>Then we'll get started with mutations, the GraphQL version of POST, PUT, and DELETE of REST</li><li>We'll build a blog API using just GraphQL mutations and queries, tying everything we've learned so far</li><li>We'll cover the state of GraphQL Subscriptions, an emerging and evolving standard</li></ul><p>So you've read this far! Thank you.</p><p><em>One final and important point</em></p><p>If you've ever had trouble working with REST in the past, it's not your fault. It's been the recommended way of building APIs since 1996. There are countless articles on creating \"thoughtful RESTful APIs\", but none of them ever seem to apply to what you're working on. GraphQL offers a way out of this madness. </p><p>I've been running a GraphQL server in production for the last 3 months and it's sped up our response time, simplified our architecture and made it easier to access our data. I am not alone. Many multi-million dollar companies are also seeing the benefits of GraphQL in production including the Financial Times, Artsy, and Facebook.<br></p><p>Let's get started. Click the \"Take this Course\" button in the top-right corner right now and I'll see you on the other side.</p><p>Matthew Mueller</p>", 
+    "end_date": null, 
+    "title": "Building Better APIs with GraphQL", 
+    "price": "50.00", 
+    "instructors": "Matthew Mueller", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/679992_9e0a_3.jpg", 
+    "course_url": "https://www.udemy.com/building-better-apis-with-graphql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-24T23:03:55Z"
+}

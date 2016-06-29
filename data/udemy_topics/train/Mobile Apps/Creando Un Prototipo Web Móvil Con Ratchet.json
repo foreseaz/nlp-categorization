@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>En este curso aprenderás a construir prototipos web móviles, implementando paso a paso el diseño front-end con Ratchet.</p><p><strong>Aprende a Crear Aplicaciones Web Móviles</strong></p><ul><li>Instalando el ambiente de desarrollo.</li><li>Incorporando Rachet en tu proyecto web.</li><li>Implementando componentes</li><li>Creando enlaces y transiciones entre páginas utilizando Push JS</li><li>Conociendo la estructura HTML y clases CSS.</li></ul><p><strong><br></strong></p><p><strong>Potencia Tus Habilidades</strong><br></p><p><strong></strong>Si eres diseñador, desarrollador o simplemente quieres potenciar tus habilidades aprendiendo nuevas cosas, este curso te entrega las herramientas para lograrlo.</p><p>Después de tomar este curso, serás capaz de crear y diseñar el front-end de tus propias aplicaciones web móviles, mezclándolas con el lenguaje de programación que más te guste, sin necesidad de conocer código nativo para Android o IOS.</p><p><strong>Contenido General</strong><br></p><p>Ratchet es un framework para diseñar prototipos de aplicaciones móviles, que parecen nativas para iOS o Android, pero están creadas con tecnologías familiares para casi todos los diseñadores y desarrolladores web: HTML, CSS y JavaScript.</p><p>En este curso aprenderás a crear tus propios prototipos web móviles con Ratchet, desde el inicio, creando tu primera página, hasta lograr un diseño funcional, incluyendo la navegación entre páginas con la biblioteca JavaScript PushJS. También exploraremos los distintos temas CSS que ofrece Ratchet.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Creando Un Prototipo Web Móvil Con Ratchet", 
+    "price": "20.00", 
+    "instructors": "Ricardo R", 
+    "commitment": "33 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/567716_c989_2.jpg", 
+    "course_url": "https://www.udemy.com/creando-un-prototipo-web-movil-con-ratchet/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-28T21:37:05Z"
+}

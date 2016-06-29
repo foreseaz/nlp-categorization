@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>EV3 Basic (Microsoft Small Basic with the EV3 extension) lets you control your Lego EV3 robot using a programming language that is superior to the standard Lego software in two main ways: it has many functions that are not available in the standard software and it is text-based, like the languages used by programming professionals.</p><p>This is a first course in EV3 Basic, designed simply to get you started with this language so that you can then begin writing your own programs, going beyond what is possible with the standard Lego EV3 software. Installation is easy and free, and is explained in one of the lectures. Installing EV3 Basic and running your first program should take less than an hour and I estimate that it might take 5-10 hours to work through the entire course, but as you try out the programs that appear in this course you will no doubt want to try modifying them (it's Lego after all!) so it's hard to make an accurate estimate.<br></p><p>Most sections have a video, a PDF lecture and quiz. Enjoy the course!<br></p>", 
+    "end_date": null, 
+    "title": "EV3 Basic: Getting Started", 
+    "price": 0, 
+    "instructors": "Nigel WARD", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/668946_0fa6_5.jpg", 
+    "course_url": "https://www.udemy.com/ev3-basic-getting-started/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-13T17:44:27Z"
+}

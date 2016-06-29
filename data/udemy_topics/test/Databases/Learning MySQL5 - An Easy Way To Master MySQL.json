@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<h5>A Verifiable Certificate of Completion is presented to all students who undertake this course.</h5>  <p>MySQL is the world&#039;s most popular relational database solution used in businesses and independent projects, with thousands of new developers and users coming on board every day. Because it continues to evolve and integrate into the biggest technologies on the web, there has never been a better time to learn, and this hands-on MySQL 5 tutorial course makes it easy. With a step-by-step approach tailored for beginners, course author Jason Gilmore introduces the fundamental concepts underlying relational databases and helps you learn how to build your own functional database and manage it using standard techniques and tools. You&#039;ll get 91 lessons taking you from MySQL installation and configuration through learning and using different data types, retrieving and filtering data, working with functions, performing backup and security tasks and more. No prior experience is needed. Matching work files are included so that you can follow the course point by point through the development process.</p>  <p><br style=\"\" /> <strong style=\"\">What You Will Learn</strong></p>  <p>- The basic building blocks of relational databases and how they apply, including strings, numerical data types, primary and foreign keys, functions and queries.<br style=\"\" /> - How to install and set up a usable MySQL server on Windows.<br style=\"\" /> - How to access, modify and manage your data within a MySQL database.<br style=\"\" /> - How to use relational databases to solve problems in business and software or web development.</p>  <p><br style=\"\" /> <strong style=\"\">Who Should Take This Course</strong></p>  <p>- Anyone who wants to learn to create functional, flexible databases for archival, organization or software development purposes.<br style=\"\" /> - Users moving from software-centered solutions such as Microsoft Access or FileMaker looking for a greater degree of control.<br style=\"\" /> - Anyone who wants to increase their employment or promotion prospects by learning a current, relevant technology standard.</p>  <p><br style=\"\" /> <strong style=\"\">What People Are Saying</strong></p>  <p><em style=\"\">&quot;I thought MySQL was over my head...the books I&#039;d bought didn&#039;t help but these videos have already made a huge difference in what I can do.&quot;</em><br style=\"\" /> - Darrel Nixa</p>  <p><em style=\"\">&quot;Jason is awesome as a teacher, and I can&#039;t say enough how helpful having the files were in following along.&quot;<br style=\"\" /> </em>- Rachel Black</p>  <p><em style=\"\">&quot;The section on optimization is where it really came together for me...there&#039;s some serious power here if you&#039;ve got a lot of data to work with.&quot;</em><br style=\"\" /> - Tom Leippi</p>", 
+    "end_date": null, 
+    "title": "Learning MySQL5 - An Easy Way To Master MySQL", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/16167_8306_10.jpg", 
+    "course_url": "https://www.udemy.com/learning-mysql5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-04-10T19:03:09Z"
+}

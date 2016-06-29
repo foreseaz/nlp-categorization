@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t This course is several hours in length and will cover Layer 2 switching in detail. I will explain the Technology and media access control method for Ethernet networks, network segmentation, switching concepts and the operation of Cisco switches.  </p><p><strong>DISCLAIMER:   </strong><strong>Please note that the simulators/emulators used in this course are not part of the course. It is the students responsibility to have these to practice with. The Cisco Packet Tracer and/or VIRAL (Virtual Internet Routing Lab) are Cisco proprietary software and can only be obtained through Cisco. It is up to each student to obtain the simulator/emulator of their choice to study along with this course.</strong><br></p>\n\n<p>  \t Students will get a thorough understanding of switching and how we would implement it in a real world environment.  </p>\n\n<p>  \t We will discuss the following concepts switching services and rules we should follow when segmenting networks. We will also compare bridging vs. LAN switching focusing in great detail on the Spanning-tree protocol. We will look at the switch Functions at layer two, such as how a switch learns about the nodes on the network and how it makes its decisions to forward the information and most definitely how to secure our ports on the switches.  </p>\n\n<p>  \t Once get an understanding of how switches work and their administrative configurations we will then go into explain and creating vlans and inter-vlan connectivity and what would be the benefits of using VLANs on our network. You will learn the different port types and encapsulation methods we use when using vlans, and will fully understand the difference between trunking a port and the VTP protocol.  </p>\n\n<p>  \t This is a lecture based course using the Touch-IT Technology Smart board, which will make learning very interactive and engaging. Hands on labs will be used to drill down the concepts learned in each lecture using Cisco’s Packet Tracer.  </p>\n\n<p>  \t My method will make you feel like you are sitting in a classroom environment and give the most needed hands on experience!  </p>\n\n<p>  \t Handouts will be available to facilitate learning and practice.  </p>\n\n<p>  \t This course will help the student become familiar with layer 2 switching and vlans and how to implement them in your environment…but it will also help in preparing for any networking certification or Computer Science Degree; not to mention the fact that for those already in the field, it will further improve routing decisions in their particular networks.  </p>", 
+    "end_date": null, 
+    "title": "Layer 2 Switching & VLAN's for Cisco CCNA", 
+    "price": "35.00", 
+    "instructors": "Lazaro Diaz", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/92308_b0ac_10.jpg", 
+    "course_url": "https://www.udemy.com/layer-2-switching-vlans/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-14T09:20:59Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>We take a pragmatic look at the Gang of Four design patterns with special focus on students being able to understand each pattern very quickly. To achieve this, I will keep it simple and only teach you what you need to know.</p><p>You say why do I need to learn design patterns? Well, solving software engineering problems is integral to your job as a software engineer, design patterns gives you a set of re-usable template for doing this.</p><p>Consider this scenario, you walk into an interview, the interviewer asks you to give examples of design patterns and how you have used them, you mention the 23 Gang of Four patterns from memory, you then describe in detail how and when to use them. That will be impressive. In this course, I will give you the formula to be able to do just that.</p><p>I start you off with the master quiz, use this to guage your understanding before and after the course.<br></p><p>This course focusses on the Gang of Four design pattern and clearly explains each pattern using the structure:</p><p><em>- Explanation</em></p><p><em>- Real World Example</em></p><p><em>- UML</em></p><p><em>- Code Example</em></p><p><em>- When to use/When not to use</em></p><p>This is followed by a memory exercise aimed at giving you a simple technique for remembering all Gang of Four design patterns from memory.</p><p>To take this course, you should be familiar with Object Oriented design. It will use UML and Java, so familiarity with these in particular will be helpful.</p><p>At the end of the course, students will be able to use design patterns to find solutions to recurring problems of system architecture. They will have personal practical experience of all Gang of Four design patterns, recognise them and can begin incorporating them into their own code.</p><p>OK, let's get started, please enjoy and let me take you on a learning journey.</p>", 
+    "end_date": null, 
+    "title": "Design Patterns, A Pragmatic Approach", 
+    "price": "20.00", 
+    "instructors": "Peter Fajemisin", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/587210_dbb4_2.jpg", 
+    "course_url": "https://www.udemy.com/design-patterns-a-pragmatic-approach/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-19T10:03:30Z"
+}

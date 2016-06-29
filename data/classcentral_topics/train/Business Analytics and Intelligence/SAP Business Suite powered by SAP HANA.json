@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business Analytics and Intelligence"
+    ], 
+    "description": "\n\n                    \n                    \n                    SAP Business Suite software comprises a set of fully integrated applications such as SAP ERP, SAP CRM, SAP SCM, and SAP SRM that enable enterprises to run their core business operations more efficiently. It provides end-to-end process support for areas such as customer engagement, finance, human resources, manufacturing, procurement, logistics, and IT management. Whenever technological evolution and customer demand led to new market categories, SAP has delivered enterprise applications that transform technology into practical, everyday business value across 26 industries.\r\n\r\nWith SAP HANA, SAP offers the first full in-memory platform in the cloud today, and has taken the lead in making the concept of a real-time enterprise a reality.\r\n\r\nSAP Business Suite powered by SAP HANA not only brings together transactions and analytics on a single in-memory platform; it completely redefines the concept of real time (which the ‘R’ in R/1, R/2 and R/3 has always stood for). It enables business processes be re-thought, drives real-time business transformation, and generates customer value both for business and IT.\r\n\r\nIn this course, we’ll learn about the value of SAP Business Suite powered by SAP HANA for lines of business and industries, and how to best exploit this value.\n\n                                    ", 
+    "end_date": null, 
+    "title": "SAP Business Suite powered by SAP HANA", 
+    "price": 0, 
+    "instructors": "", 
+    "institution_name": [], 
+    "commitment": "", 
+    "subject_name": [
+        "Business & Management"
+    ], 
+    "course_url": "https://open.sap.com/courses/s4h1-1", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "openSAP"
+    ], 
+    "start_date": "2015-10-28T00:00:00Z"
+}

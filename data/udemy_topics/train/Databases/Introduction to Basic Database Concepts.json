@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><span style=\"color: rgb(51, 51, 51);\">Databases are  used in applications or devices with software\nthat stores and retrieves information. Applications like\nFacebook, Twitter,Instagram,Pinterest,Snapchat,Google </span><span style=\"color: rgb(51, 51, 51);\">Hotmail Mobile phones and other portable devices\nall have the ability to store and retrieve data. They all are able to achieve\nthis using a database. Places like Banks,Hospitals,Airlines Supermarkets all\nuse databases to store and retrieve data or information. Things like your\nSocial security number ,Hospital Records number or Bank account number are all\nstored in a database .</span></p><p><span style=\"color: rgb(51, 51, 51);\">There are several concepts associated with\ndatabases and we will explore some of them in this course. We will learn about\nprimary keys,foreign keys,schemas,Flat file database,hierarchial databases.</span></p><p><span style=\"color: rgb(51, 51, 51);\">We interact with databases daily in our lives like\nwhen we read our emails or post something on Facebook or twitter .</span><span style=\"color: rgb(53, 53, 53);\"> This course will teach you the very basics of some database concepts\nand the course is video based and less than1 hour.</span></p><p><span style=\"color: rgb(53, 53, 53);\"> </span></p><p><span style=\"color: rgb(53, 53, 53);\"><strong>What You Learn in this course:</strong></span></p><p><span style=\"color: rgb(53, 53, 53);\"> </span></p><ul><li><span style=\"color: rgb(53, 53, 53);\"> What is a Client – Server Computing</span><span style=\"color: rgb(51, 51, 51);\"></span></li><li><span style=\"color: rgb(53, 53, 53);\">What you will learn includes</span></li><li><span style=\"color: rgb(53, 53, 53);\">What is a database </span></li><li><span style=\"color: rgb(53, 53, 53);\">What is a Flat file database </span></li><li><span style=\"color: rgb(53, 53, 53);\">What is a Flat hierarchical database</span></li><li><span style=\"color: rgb(53, 53, 53);\">What is a RDMS</span></li><li><span style=\"color: rgb(53, 53, 53);\">What is a Database schema</span></li><li><span style=\"color: rgb(53, 53, 53);\">What is a Primary Key</span></li><li><span style=\"color: rgb(53, 53, 53);\">What is a Foreign key</span></li></ul><span style=\"color: rgb(53, 53, 53);\"></span><span style=\"color: rgb(53, 53, 53);\"></span>", 
+    "end_date": null, 
+    "title": "Introduction to Basic Database Concepts", 
+    "price": "20.00", 
+    "instructors": "Bluelime Learning Solutions", 
+    "commitment": "41 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/670310_edb9_3.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-basic-database-concepts/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-15T13:34:31Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>O SAP ABAP é uma Linguagem de Programação Empresarial desenvolvida pela Empresa SAP e utilizada nas maiores Organizações do Mundo!</p>\n\n<p>O SAP ABAP:</p>\n\n<ul><li>Está baseado na programação estruturada;</li><li>É uma linguagem interpretada e não compilada, mesmo podendo-se gerar versões compiladas;</li><li>É utilizada para desenvolver dois tipos de programas: os que executam em modo reporting e os que executam em modo diálogo; existem conjugações que permitem comutar entre os dois modos;</li><li>Está dirigida por eventos;</li><li>Está integrada por completo no sistema SAP R/3;</li><li>Está preparada para que seja multi-idioma;</li><li>Incorpora elementos que permitam declarar dados, elementos de controle interno, elementos operacionais e acesso a base de dados</li></ul>\n\n<p>Neste curso, você vai aprender com o Eduardo Gorges (+ 18 anos de experiência em ABAP) tudo o que você precisa para criar seus Programa.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "SAP ABAP Programação para Iniciantes", 
+    "price": "50.00", 
+    "instructors": "Empresa EvolutoSolutions Treinamento, Consultoria e Coaching, Eduardo Gorges", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/822034_faff_2.jpg", 
+    "course_url": "https://www.udemy.com/sap-abap-programacao-para-iniciantes/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-14T15:21:04Z"
+}

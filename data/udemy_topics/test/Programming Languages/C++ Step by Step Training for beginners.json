@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t      A language like C++ gives a great introduction into  what being a computer scientist is really about. It may not be as  glamorous a language as Java, Ruby etc, but it allows you to gain a core  understanding of important program features such as pointers and memory  management. Even if it is not a language you plan or want to use for  the rest of your life, you will appreciate it in years to come when you  start to find your desired programming path. C++ is the intellectual  predecessor of Java and C#.  </p>  <p style=\"\">  \t    There are Infinite reasons explaining why learning C++ is Important, Some are:  </p>  <ul style=\"\">  \t<li style=\"\">    Nearly all of the books in science and technology have their code samples written in C/C++. </li>  \t<li style=\"\">C/C++ compilers are known to produce more efficient machine code  than any other compilers (with fortran perhaps being the exception). </li>  \t<li style=\"\">There are billions of lines of code already written in C++. Your possibilities for code reuse are huge!  </li>  \t<li style=\"\"> Well defined ISO standard that is updated by a group of experts from time to time. (It&#039;s not a &quot;frozen&quot; language). </li>  \t<li style=\"\">Supported on most platforms, from microcontrollers (actually C language) to cellphones. </li>  \t<li style=\"\">Virtually all of the operative systems are coded in C s</li>  \t<li style=\"\">It&#039;s like learning Latin to understand English better. A lot of  languages were modeled on the syntax and constructs, for example C#,  Java, JavaScript, etc. Picking up C++ will give you a head start by  teaching you the common denominator between all those languages.</li>  \t<li style=\"\">Understanding the things that are abstracted away from you in other  languages (pointers, basic data structures, garbage collection)  theoretically makes you a better programmer even if you don&#039;t directly  tinker in the details.</li>  \t<li style=\"\">It doesn&#039;t happen every day, but one day you are going to need to  connect directly to a C++ program API from your high level language. It  will help if you have at least a passable knowledge of C++ when this  happens.</li>  </ul>", 
+    "end_date": null, 
+    "title": "C++ Step by Step Training for beginners ", 
+    "price": "20.00", 
+    "instructors": "Prateek Singh", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/418986_3a68_2.jpg", 
+    "course_url": "https://www.udemy.com/c-plus-plus-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-11T05:04:39Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Atom 是目前眾多的文字編輯器之一，你可以選擇的它的原因有<sub>：</sub></p>\n\n<ul><li>多樣套件：這些額外的套件，讓您更能調適出屬於您開發的環境。</li><li>易於上手：透過 GUI 的方式，讓使用者不必在混亂的介面中管理套件。</li><li>美感：有各種美麗的主題樣式供您選擇。<sub></sub></li><li>開源：因為開源，所以眾多的擴充功能不斷的在演進中。</li></ul>\n\n\n\n<p>這門教學僅需花費您一個小時就可以上手，並且達到許多其他編輯器沒有的功能，還不明白？先預覽看看課程吧!!</p>", 
+    "end_date": null, 
+    "title": "一套用到底的文字編輯器 Atom", 
+    "price": 0, 
+    "instructors": "王志誠 Wang, 廖洧杰 liao, 六角學院 hexschool", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/812402_e076.jpg", 
+    "course_url": "https://www.udemy.com/atom-hexschool/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-04T14:03:40Z"
+}

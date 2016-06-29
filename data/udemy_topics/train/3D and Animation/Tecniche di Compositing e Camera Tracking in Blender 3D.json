@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \tQuesto videocorso consiste di 14 videotutorials, per più di 2 ore di videolezioni, tra cui le puntate esclusive su Camera  Tracking e Mask Layer, e 6 scene .blend esclusive da scaricare per le  vostre prove.  </p>  <p>  \t<br style=\"\">  \tIl videocorso ha un approccio pratico: oltre ad alcuni elementi su interfaccia e teoria, vengono presentati dei casi tipici, ciascuno con dei file .blend forniti insieme al videocorso (infatti di ogni lezione potete scaricare il file zip con videotutorial, trascrizione pdf, file .blend delle scene e file immagini delle textures utilizzate), per cui potrete ricreare personalmente gli effetti mostrati nei video e personalizzarli.  </p>  <p>  \t<br style=\"\">  \tIn particolare, ecco il piano delle lezioni:  </p>  <ul style=\"\">  \t<li>nella prima lezione, una panoramica delle principali novità introdotte con le release 2.6;</li>  \t<li>nella seconda lezione, utilizzando la scena della natura morta parleremo dei Render Passes per Blender Render e per Cycles, quindi utilizzeremo l'ID Mask e un esempio di gruppi per isolare elementi;</li>  \t<li>nella terza lezione, una trattazione teorico-pratica, usando un rendering, parleremo di Gamma, RGB Curves, livello di bianco e di nero, spazio Y Cb Cr, intensità e contrasto;</li>  \t<li>nella quarta lezione, utilizzando la scena della console dj, parleremo di effetti tipici come soft glow, hard glow, mixaggio screen, defocus e profondità di campo;</li>  \t<li>nella quinta lezione, utilizzando la scena del drago con la simulazione Smoke per fiamme e fumo, vedremo come isolare gli elementi con i Render Layers e come cambiare l'aspetto di alcuni oggetti di rendering, come il fumo, in Compositing, senza ri-renderizzare e senza influenzare gli altri elementi;</li>  \t<li>nella sesta lezione, con la scena delle montagne e quella dei giocattoli nel prato, vedremo alcuni esempi di Compositing “davvero 3D”, con l'utilizzo delle informazioni Z per la sfocatura sulla distanza, i file EXR e lo Z Combine di elementi pre-renderizzati;</li>  \t<li>nella settima lezione, con la scena dell'albero, esempi di utilizzo del Nodo Time per animare gli effetti di Compositing, più lo schema per l'effetto Vignette;</li>  \t<li>nell'ottava lezione, uno degli effetti più interessanti: il Green Screen, la rimozione sfondo verde, ora con il nuovo Nodo Keying, introdotto con la release 2.64;</li>  \t<li>nella nona lezione, un videotutorial esclusivo sul Camera Tracking in Blender 3D, 20 minuti di video con tips &amp; tricks sulla scelta dei punti chiave, il filtraggio delle tracce meno precise e altri trucchetti per ridurre il Solve Error e ottenere velocemente una mappatura in scala della scena 3D sulle riprese reali;</li>  \t<li>nella decima e ultima lezione, partendo da una ripresa reale e un mix con Camera Tracking, parleremo delle Masks, novità introdotta a partire dalla release 2.64, per isolare facilmente elementi della ripresa reale e porli sopra il rendering digitale. </li>  </ul>", 
+    "end_date": null, 
+    "title": "Tecniche di Compositing e Camera Tracking in Blender 3D", 
+    "price": "20.00", 
+    "instructors": "Francesco Milanese", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/353998_fac5_2.jpg", 
+    "course_url": "https://www.udemy.com/tecniche-di-compositing-e-camera-tracking-in-blender-3d/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-22T19:37:17Z"
+}

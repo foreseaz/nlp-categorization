@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<h5 style=\"\"><strong style=\"\">Front-End Development</strong></h5>  <p style=\"\">  \t   Si quieres conocer a fondo las nuevas capacidades de HTML5 y CSS3, y enriquecer tu <strong style=\"\">trayectoria profesional</strong>, no puedes perderte este curso para convertirte en un front-end developer, uno de los perfiles cada vez <strong style=\"\">más demandado </strong>en las empresas, tanto a nivel nacional como internacional.  </p>  <h5 style=\"\"><strong style=\"\">HTML5</strong></h5>  <p style=\"\">  \t   La palabra de moda, el lenguaje de moda, ¡lo más! Todo el mundo quiere adaptar su <strong style=\"\">web</strong> a HTML5, todo el mundo quiere hacer su <strong style=\"\">aplicación móvil</strong> en HTML5  ¿Quieres hacer un juego multiplataforma? ¡Hazlo en HTML5!  </p>  <h5 style=\"\"><strong style=\"\">CSS3</strong></h5>  <p style=\"\">  \t   El mejor compañero y fiel aliado de HTML5, no pueden vivir solos, depende el uno del otro, se complementan y añaden valor. CSS3, la nueva especificación para hacer tus <strong style=\"\">sites especiales</strong>.  </p>  <h5 style=\"\"><strong style=\"\">Javascript</strong></h5>  <p style=\"\">  \t   Lleva ya mucho tiempo con nosotros, pero es ahora cuando más ha aumentado su uso de un forma espectacular. La comunidad de desarrolladores crece de manera exponencial gracias a las nuevas librerías y funciones que aparecen cada poco tiempo. ¿El lenguaje del futuro?  </p>  <p style=\"\">  \t <strong style=\"\">Durante el curso veremos:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">Breve repaso a HTML</li>  \t<li style=\"\">Introducción a HTML5. Novedades respecto a HTML4</li>  \t<li style=\"\">Sintaxis de HTML5</li>  \t<li style=\"\"><strong style=\"\">Layout HTML5. Elementos básicos. HEADER, NAV y SECTION</strong></li>  \t<li style=\"\">Layout HTML5. Tags FOOTER y ARTICLE</li>  \t<li style=\"\">Layout HTML5. Otros elementos básicos</li>  \t<li style=\"\">Creación de formularios HTML5</li>  \t<li style=\"\">Vídeo y audio en HTML5</li>  \t<li style=\"\"><strong style=\"\">Introducción a JavaScript</strong></li>  \t<li style=\"\">Conceptos básicos de programación en Javascript</li>  \t<li style=\"\">El elemento CANVAS. Gráficos SVG</li>  \t<li style=\"\"><strong style=\"\">Usando CSS3</strong></li>  \t<li style=\"\">CSS3 Media Queries</li>  \t<li style=\"\">Programación de APIs de HTML5 en JavaScript</li>  \t<li style=\"\">Offline Storage</li>  \t<li style=\"\">Geolocalización</li>  \t<li style=\"\">Drag&amp;Drop</li>  \t<li style=\"\">Application Cache. Acceso offline.</li>  \t<li style=\"\">HTML5 Microdata</li>  \t<li style=\"\">Renderizado de HTML5 en los navegadores</li>  \t<li style=\"\"><strong style=\"\">Introducción a uso de frameworks: Twitter Bootstrap</strong></li>  </ul>", 
+    "end_date": null, 
+    "title": "HTML5, CSS3 y Javascript", 
+    "price": "25.00", 
+    "instructors": "HardCoconut Formación, Alberto Aldao", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/96482_069d_5.jpg", 
+    "course_url": "https://www.udemy.com/html5-css3-y-javascript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-24T11:38:45Z"
+}

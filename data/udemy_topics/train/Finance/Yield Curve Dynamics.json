@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>  \t      This comprehensive course will cover a variety of issues relating to yield curves,  their construction, and their use in a variety of analytical  applications to assess risk and return.  </p>  <p>  \t      The course consists of 19 lectures among 5 sections, including topics within:  </p>  <ul style=\"\">  \t<li>Introduction to Yield Curves</li>  \t<li>Duration and its Applications</li>  \t<li>The Level of Rates and Shape of the Yield Curve</li>  \t<li>Spot Rates and Forward Rates</li>  \t<li>Total Return Analysis</li>  </ul>", 
+    "end_date": null, 
+    "title": "Yield Curve Dynamics", 
+    "price": "50.00", 
+    "instructors": "Paul Siegel", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/180384_fddc_3.jpg", 
+    "course_url": "https://www.udemy.com/yield-curve-dynamics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-11T14:56:23Z"
+}

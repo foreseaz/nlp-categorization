@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Esse é meu 3º e mais trabalhoso curso de Delphi 7, demorei 30 dias só para conseguir fazer funcionar a parte de Biometria, mas que agora está mastigado para vocês. Que tal você criar um sistema com captura de impressão digital (biometria) ? Isso é realmente fantástico, você simplesmente coloca o dedo no leitor e a mágica acontece.</p><p>Por ser um curso avançado, mostrei um pouco de tudo, não só a parte de biometria, então abaixo segue outras coisas interessantes:</p><p><strong>XML: </strong>Aprenda a manipular arquivos XML, tão importantes hoje em dia principalmente por causa dos Webservices.</p><p><strong>Criptografia: </strong>Todo sistema deve se preocupar com a parte de segurança, é por isso que eu ensinei criptografia nesse curso.</p><p><strong>Relatórios: </strong>Gerar relatórios é uma das coisas mais importantes, para poder mostrar os dados, e nesse curso mostrei como fazer para instalar, configurar e usar os relatórios Rave Report, Fast Report e Report Builder</p><p><strong>Orientação a Objetos: </strong>A maioria dos programadores Delphi vieram das gerações de clipper, ou seja, trabalharam de forma estruturada, e mesmo migrando para Delphi, continuaram a programar de forma estruturada. É por isso que nesse curso eu ensinei como programar de forma orientada a objetos, com certeza vocês vão se impressionar e programar de forma como nunca imaginaram antes.</p><p><strong>Criação de Componentes: </strong>Programadores delphi estão acostumados a irem na paleta e pegarem os componentes comuns como Label, Edit, arrastarem para a tela do formulário e usarem eles. Mas, e que tal você mesmo criar seus próprios componentes. Você ser o responsável por ele, imagine um LabelNeri, kkkk, isso é demais.</p><p>Conexão com vários bancos de Dados: por ser um curso avançado, eu não poderia deixar de mostrar como fazer para conectar com vários bancos de dados, então você vai ver como conectar com Oracle, SQL Server, MySQL, PostgreSQL e Firebird, ou seja, conexão com os principais bancos de dados existentes, e para essa comunicação com os bancos de dados, foram usados muitos componentes como Zeos, Ado, DBExpress e BDE <span></span></p><p>Esse é de fato um curso avançado, para quem quer dominar e fazer coisas incríveis com o delphi.  Abaixo segue um pequeno resumo do que foi explicado acima.</p><ul><li>Criar sistemas com biometria (impressão digital)</li><li>Manipular arquivos XML</li><li>Usar Criptografia</li><li>Manipular relatórios com Rave report</li><li>Manipular relatórios com Fast Report</li><li>Manipular relatórios com Report Builder</li><li>Aprenda muito de orientação a objetos</li><li>Veja como criar componentes</li><li>Aprenda a criar conexões com Oracle, SQL Server, MySQL, PostgreSQL e Firebird</li><li>Aprenda Zeos, Ado, DBExpress e BDE para comunicação com Banco de Dados</li><li>Ainda: controle de login, tabelas virtuais</li></ul><p><strong>Pré-requisito:</strong></p><p>Conhecer delphi ou ter meus cursos de Delphi I e Delphi II</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Delphi III - Super Avançado Biometria POO etc", 
+    "price": "30.00", 
+    "instructors": "Neri Neitzke", 
+    "commitment": "19 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/615172_8e3c.jpg", 
+    "course_url": "https://www.udemy.com/delphi-iii-super-avancado-biometria-poo-etc/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-17T19:46:12Z"
+}

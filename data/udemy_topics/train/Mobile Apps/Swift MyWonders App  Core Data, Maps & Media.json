@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><em>Note: Xcode 7.3 &amp; Swift 2.2 Videos.</em><br></p><p>The <strong>Swift Core Data, Maps &amp; Media </strong>course is unique, because the <strong>ultimate deliverable is already delivered!</strong> The course app, <strong>MyWonders</strong>, is similar to 8Apps published 8Wonders app, which already fulfilled all strict Apple's App Store requirements &amp; guidelines. <br></p>\n\n<p>The course is structured in a step-by-step approach, utilizing advanced instruction methodologies and techniques (including videos with annotations &amp; visual special effects, crystal clear slides of major code text and colorful diagrams) ending with a <strong>fully-functional iOS Swift app</strong> that you can either publish as is on Apple's App Store, or use as a template for your own ideas. The foundation will be set; you can then build on it many varied and interesting apps.</p>\n\n<p>The course offers a coherent application, which seamlessly allows the user to add their data records and associate them with <strong>notes, maps and <u>unlimited</u> photos, audios and videos.</strong>  MyWonders is a collection of the wonders in your world. It's deliberately fast, simply elegant and totally practical, as you can use it on your own iPhone every day while you are building it. </p>\n\n<p>All course videos are recorded in <strong>Full HD 1080p</strong> and audios with a <strong>Blue Yeti microphone</strong>. All major code segments are presented in the videos twice: in Xcode during recording and then PowerPoint slides for <strong>crisp crystal clear text and images</strong>.<br></p>", 
+    "end_date": null, 
+    "title": "Swift MyWonders App: Core Data, Maps & Media", 
+    "price": 0, 
+    "instructors": "Mazen Kilani", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/696762_580a_5.jpg", 
+    "course_url": "https://www.udemy.com/core-data-maps-media-swift-app-developer/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-14T01:50:52Z"
+}

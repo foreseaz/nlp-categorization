@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Leveraging Unity's build in 2D tools we are going to take a look at how can we create some of the most popular arcade games.</strong></p><p><strong>We are going to dive directly into game development so pre-knowledge is required. I'm going to assume that anyone who takes this course knows C#(You don't have to be an expert coder but I do expect that you know what are classes, objects, inheritance, arrays among other things).</strong></p><p><strong><strong>You will also benefit from my super fast response if you have any issue that you are stuck with(I check Udemy forums every day if someone posts a question). Oh and all the students taking the course will also be there to help you!</strong></strong></p><p><strong>All project files will be included and you are free to use them for anything that you like, personal or commercial use!</strong></p><p><strong>The Games That We Are Going To Create Are:</strong></p><p><strong>Brick Breaker</strong></p><p><strong>Brick Breaker is the remake of the famous Arkanoid game where you have a paddle that you can move in order to hit the ball and the ball bounces off that paddle. The goal of the game is to hit all the bricks that are in the game and when the last brick is hit the game is over. We are going to see how can we leverage the power of unity's physics system in order to make the ball move in our level and how can we calculate the direction where the ball needs to go when we hit the paddle.</strong><br></p><p><br></p><p><strong>Space Shooter</strong></p><p><strong>Space Shooter games exist since 1980, and they are very popular. In our game we are going to take a look at how can we create a space shooter game with all of its features. We are going to implement scrollable background to simulate an infinite background effect, we are going to spawn enemies which are going to have their own AI and they are going to try and destroy our ship. The ship that we are going to control is going to be able to move left and right and shoot the attacking ships.</strong><br></p><p><br><strong></strong></p><p><strong>Minesweeper</strong></p><p><strong>Old and famous windows game where you need to click on the mine field in order to win the game, but be careful if you stumble upon a mine then game over!! We are going to see how can we dynamically create levels e.g easy, medium and hard, and how can we layout our mines through our code. We are going to use two dimensional arrays in order to store the </strong><strong>mine fields, and we are going to use the indexes e.g rows and columns to retrieve those mine fields. </strong><strong>We are going to use the famous Flood-Fill algorithm which is the algorithm that is used in order to create games such as minesweeper.</strong></p><p><br><strong></strong></p><p><strong>Pacman</strong></p><p><strong>The good old Pacman was released back in the 1980s, its a cool game where you need to feed the pacman but in the same time avoid the monsters attacking pacman. The most interesting thing that we are going to learn is the AI implemented for the monsters. We are going to program the movement of the monsters so that they determine on their own where they want to go. We will use linecasting to achieve this feature.</strong><br></p><p><strong><br></strong><strong></strong></p><p><strong>Enroll Now!! You Will Not Be Disappointed!!</strong></p>", 
+    "end_date": null, 
+    "title": "Create Old Arcade Games With Unity Game Engine", 
+    "price": "20.00", 
+    "instructors": "Awesome Tuts", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/565840_654d_4.jpg", 
+    "course_url": "https://www.udemy.com/make-mobile-games-for-kids-with-unity/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-27T07:58:50Z"
+}

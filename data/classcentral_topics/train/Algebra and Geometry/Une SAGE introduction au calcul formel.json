@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Algebra & Geometry"
+    ], 
+    "description": "\n\n                    \n                    \n                    L'ordinateur peut-il nous aider à résoudre des problèmes mathématiques ? Oui grâce au calcul formel ! Le calcul formel manipule des objets mathématiques abstraits, il permet de faire du calcul algébrique, de conjecturer des formules et même d'en démontrer quelques unes.\r\nLe logiciel de calcul formel choisi pour ce cours est SAGE. C'est un logiciel très puissant, gratuit et facile à prendre en main. Il ne s'agit pas d'un cours de maths classique : le but est de vous faire manipuler des objets mathématiques, d'expérimenter, en adoptant le point de vue du calcul formel.\n\n                                            Syllabus\n                        Semaine 1 : \"Premier pas avec Sage\" et \"Structures de contrôle\"Semaine 2 : \"Suites récurrentes et preuves formelles\"Semaine 3 : \"Suites récurrentes et visualisation\"Semaine 4 : \"Algèbre linéaire\"Semaine 5 : \"Courbes et surfaces\" et \"Calculs d'intégrales\"Semaine 6 : \"Polynômes\" et \"Équations différentielles\"\n                                    ", 
+    "end_date": "2016-05-10T00:00:00Z", 
+    "title": "Une SAGE introduction au calcul formel", 
+    "price": 0, 
+    "instructors": "François Recher, Niels Borne and Arnaud Bodin", 
+    "institution_name": [
+        "Université Lille 1"
+    ], 
+    "commitment": "2-4 hours", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.france-universite-numerique-mooc.fr/courses/lille1/54003/session01/about", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "France Université Numerique"
+    ], 
+    "start_date": "2016-03-29T00:00:00Z"
+}

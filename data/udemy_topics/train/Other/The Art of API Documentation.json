@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Course Description</strong></p><p>This is the third in a series of courses for technical writers who want to learn how to write API documentation. The first two courses are called \"Learn API Technical Writing: JSON and XML for Writers\" and \"Learn API Technical Writing: REST for Writers\", and it's recommended that you first take those courses, unless you are very familiar with API documentation, and how to document reference material.</p><p>This course teaches how to write conceptual API documentation, such as overviews, getting started sections, and tutorials. For the most part, no programming experience is required, but technical writers with programming experience will still find it useful.</p><p>In addition to conceptual material, this course covers guidelines for good sample code, tools for making REST requests, and how to find an open source project to document as a way to get into the field of API writing.</p><p><strong>What are APIs?</strong></p><p>APIs (Application Program Interfaces) define how software systems talk to each other, and API documentation is a rapidly growing field. There is a strong need for writers who can understand APIs and explain them so that software developers can understand how to use them. API writers get to be in on the cutting edge of technology in high-paying positions.</p><p><strong>What is Conceptual Material?</strong></p><p>API documentation consists of reference material and conceptual material. Reference material describes the details of the API: what are the pieces of each request and response, or each class and member. Conceptual material orients developers so that it's easy for them to get started with a new API. </p><p><strong>What is in This Course?</strong></p><p>By the end of the course, you will understand how to write good API conceptual material, how to make REST calls using GUI and command-line tools, and how to find an open source project to document. In this course you'll find:</p><ul>\n<li>8 videos that:<ul>\n<li>Describe how to write good conceptual material</li>\n<li>Provide guidelines for good sample code</li>\n<li>Demonstrates how to use tools to make REST calls</li>\n<li>Leads you through examples of how to find open source projects on the internet</li>\n</ul></li>\n\n<li>2 hands-on exercises to lead you through making REST requests using tools</li>\n<li>PowerPoint presentations as a resource for every video lecture</li>\n<li>A PDF with resources for finding open source projects</li>\n</ul><p>The course takes approximately 1 hours and 30 minutes to complete, depending on how fast you are with the exercises.</p>", 
+    "end_date": null, 
+    "title": "The Art of API Documentation", 
+    "price": "25.00", 
+    "instructors": "Peter Gruenbaum", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/703232_be45.jpg", 
+    "course_url": "https://www.udemy.com/the-art-of-api-documentation/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-21T20:10:54Z"
+}

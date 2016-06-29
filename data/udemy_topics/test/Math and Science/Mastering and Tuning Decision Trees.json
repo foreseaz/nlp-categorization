@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>\r\n\t        IBM SPSS Modeler is a data mining workbench that allows you to  build predictive models quickly and intuitively without programming.  Analysts typically use SPSS Modeler to analyze data by mining historical  data and then deploying models to generate predictions for recent (or  even real-time) data.\r\n</p>\r\n<p>\r\n\t<strong>Overview:</strong> Mastering and Tuning Decision Trees is a  series of  self-paced videos that discusses the decision tree methods (CHAID, C5.0, CRT, and QUEST) available in IBM SPSS Modeler. These techniques produces a rule based predictive model for an outcome variable based on the values of the predictor variables. Students will gain an understanding of the situations in which one would this technique, its assumptions, how to do the analysis automatically as well as interactively, and how to interpret the results. Particular emphasis is made on contrasting CHAID and C&amp;RT in detail. Tuning – the adjusting of parameters to optimize performance – is demonstrated using both CHAID and C&amp;RT.\r\n</p>", 
+    "end_date": null, 
+    "title": "Mastering and Tuning Decision Trees", 
+    "price": "50.00", 
+    "instructors": "Sandy Midili", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/204520_9d20_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-and-tuning-descision-trees/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-24T14:18:58Z"
+}

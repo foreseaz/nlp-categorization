@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>IMPORTANT: This course has been completely updated for Meteor 1.3.</strong></p><p>  \t                  Meteor is an <strong class=\"redactor-inline-converted\">AMAZING</strong> framework for building modern, real-time web applications with JavaScript, and this course covers <em>everything</em> you need to get started. Inside, you'll find:  </p>\n\n<ul>  \t<li><strong class=\"redactor-inline-converted\">Detailed training material that's carefully constructed for beginning developers</strong>. I assume as little as possible and take you every tiny step of the process.</li>  \t<li><strong class=\"redactor-inline-converted\">A proven method for learning Meteor quickly</strong>. I've written a book about Meteor (available on Amazon) and it's overwhelmingly positive reviews all confirm that there's no better option available.</li>  \t<li><strong class=\"redactor-inline-converted\">Ongoing updates as Meteor evolves</strong>. The course is already current and it's going to remain that way. Meteor is growing quickly and you'll receive free updates as the course adapts to future changes.</li>  </ul>\n\n<p>  \t  The course itself contains 2 hours of video training content, all of which is focused on building a single web application with Meteor.  </p>\n\n<p>  \tThis approach means:  </p>\n\n<ul>  \t<li>You can feel the satisfaction of building something <em>real</em>.</li>  \t<li>We can explore a range of Meteor's most central features.</li>  \t<li>You won't struggle to progress <em>beyond</em> the course.</li>  </ul>\n\n<p>  \t  Because, ultimately, I intend for this course to act as a bridge. It won't just teach you the basics of Meteor. It'll prepare you for self-education as a developer, and that's a powerful place to be.  </p>", 
+    "end_date": null, 
+    "title": "A Beginner's Guide to the Meteor JavaScript Framework", 
+    "price": "50.00", 
+    "instructors": "David Turnbull", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/221920_dc8b_3.jpg", 
+    "course_url": "https://www.udemy.com/meteorjs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-18T13:14:43Z"
+}

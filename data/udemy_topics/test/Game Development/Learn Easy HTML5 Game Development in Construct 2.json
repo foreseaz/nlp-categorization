@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course has been designed by industry and education experts to show you how to easily develop a 2D video game in HTML5 completely from scratch, without having to write a single line of code, by using the WYSIWYG game designer, Construct 2. Construct 2 is an extremely easy to use game maker, designed to make it possible for anyone to make a game, so if you are a beginner, artist, designer, hobbyist and student, you can learn how to build your own HTML5 games easily and quickly, without having to learn programming, or hire a programmer, by taking this course. Of all the 2D game creators and game engines available on the software market today, Construct 2 is without doubt one of the easiest and fasted for complete beginners to get started making their own games, and this online game development course, filled with 3 hours of professional HD quality training content, will show you how to use the great features that come with the C2 game engine to make your very own game ideas come to life before your eyes! </p>\n\n<p><strong>What You Will Learn</strong></p>\n\n\n\n\n\n\n\n\n\n<p>The majority of the course takes the format of a step by step tutorial, whereby you will be guided through the various stages of building a ‘run and gun’, platformer style game. I chose this genre as the development process to create such a game demo covers all of the basic tools, features and concepts which are most fundamental to HTML5 game development with Construct 2. This means that by the end of the course, you will have learned an amazing amount, such as:</p>\n\n\n\n\n\n\n\n<ul><li>How to import and configure backgrounds and sprites.</li><li>How to use layers for organizational purposes.</li><li>How to create Parallax scrolling effects using layer properties.</li><li>How to configure multiple frame based animations, and switch between them in-game.</li><li>How to create game logic and game mechanics without programming, using events and actions.</li><li>How to craft gameplay.</li><li>How to implement game rules</li><li>How to restart, or switch between layouts (game levels)</li><li>How to import simple NPCs (Non Player Characters)</li><li>How to import and play Sound Effects</li><li>How to import and play music</li><li>and much, much more...</li></ul>\n\n\n\n\n\n\n\n\n\n<p>By the end of this series of over 30 high quality Construct 2 video lessons – which is thought by a game development and game design training expert with over 10 years of game industry experience and 7 years of teaching experience – you will have gained all the fundamental skills and knowledge necessary to start making your own 2D video games! So there’s no longer any need to google things like ‘how to create a game’, or ‘create my own game’, or ‘how to make my own game’. You can start making 2d games right now, just click that 'Start Learning Now' button  and you’ll be making computer games in no time at all!</p>", 
+    "end_date": null, 
+    "title": "Learn Easy HTML5 Game Development in Construct 2", 
+    "price": "20.00", 
+    "instructors": "Richard Sneyd", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/809896_3e0a_7.jpg", 
+    "course_url": "https://www.udemy.com/learn-easy-2d-html5-game-development-in-construct-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-01T10:37:23Z"
+}

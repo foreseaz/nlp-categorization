@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>This class is about lighting an interior scene from morning to night in 3DS Max and VRay. By the end of this course:.</p><ul><li>You will learn basic render setting in VRay. </li><li>You will be able to lit any interior scene physically accurate with VRay.</li><li>You will learn VRay Sun, VRay Sky and VRay light for artificial lighting. </li><li>You will learn how to prepare your final render for high quality still image.</li><li>You will be able to use Adobe Photoshop for post production.</li></ul><strong> In this 2 hours course:</strong><ul><li>We will discover how to lit an indoor scene with a single HDR Image.</li><li>We will practice sun rise and sun set moods with VRay Sun and VRay Sky.</li><li>We will lit our indoor scene with 2 different artificial light sources.</li><li>We will setup the lighting to simulate a fireplace.</li><li>We will learn how to setup render setting to generate high quality still images while keeping a balance between render time and render speed.</li><li>The last part of this lesson will focus on the use of Photoshop to do the final tweaks to your work.</li><li>We will see some tricks to increase the quality of our final work.</li></ul>", 
+    "end_date": null, 
+    "title": "Interior lighting in 3DS Max and VRay", 
+    "price": "20.00", 
+    "instructors": "Hani Mohammadi", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/534084_6bf3.jpg", 
+    "course_url": "https://www.udemy.com/interior-lighting-in-3ds-max-and-vray/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-22T11:58:45Z"
+}

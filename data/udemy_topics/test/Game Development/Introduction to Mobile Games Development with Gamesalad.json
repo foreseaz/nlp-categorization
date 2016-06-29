@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t   Since the launch of the Apple App Store in 2008, games have been one of the most downloaded categories of apps for iOS devices, the same holds true for the Android App Stores. Most people seem to think games are very hard to build because they require a lot of difficult to learn programming knowledge. But in this class I will teach you how easy it is to make your own games with <strong>NO programming knowledge</strong> at all.  </p>  <p>  \t <strong>No</strong> prior programming or game development experience is needed for this class. In this class you will learn how to use Gamesalad Creator to create three different video games. You'll learn:  </p>  <ul>  \t<li>How to set up and use <strong>Gamesalad's</strong> development environment</li>  \t<li>How to <strong>think</strong> like a game developer</li>  \t<li>About <strong>key game elements</strong> like sprites, behaviors, audio, and more</li>  \t<li>How to set up different kinds of <strong>player interaction</strong>, keyboard for desktop games and touch controls for mobile games</li>  \t<li>How to add <strong>physics</strong> to your games</li>  \t<li>How to <strong>publish</strong> your games as HTML 5 and post it on your own webpage</li>  </ul>  <p>  \t   The three games that you will have completed by the end of class are:  </p>  <ul>  \t<li>Classic Pong</li>  \t<li>An Endless Runner</li>  \t<li>And a Physics Puzzle game</li>  </ul>  <p>  \t <strong>All three games can be previewed for FREE from the lecture outline below!</strong>  </p><p><strong>Learn Gamesalad Book! </strong>I have recently published a book titled <em>\"Learn Mobile Game Development in One Day Using Gamesalad\"</em>. While it is <em><strong>NOT</strong></em> required to complete this class it is a great companion to learn more details about Gamesalad and also contains four entirely different game building exercises. Udemy does not allow live links in this area so if you are interested in the book, simple do a Google search and it should pop right up for you.</p>  <p>  \t   Some features of Gamesalad Creator include:  </p><p>Gamesalad offers a <strong>FREE</strong> <strong>15 day free trial</strong> of their software which should be plenty of time to work through the lessons in this class. After the 15 day free trial you are able to continue using Gamesalad on a monthly or yearly basis through various subscription plans.</p>  <ul>  \t<li>IOS and Android Publishing</li>  \t<li>Web Publishing with HTML 5</li>  \t<li>Publish to Macintosh and Windows computers</li>  \t<li>Publish to both the Kindle and the Nook </li>  \t<li>Built in Physics engine</li>  \t<li>Simple Drag &amp; Drop user interface</li></ul>  <p>  \t <strong>Sign up</strong> now and you'll have all the knowledge you need to create and publish your own video games in no time!  </p>  <p>  \t <strong>Note:</strong> Gamesalad has versions that work on both the Macintosh and Windows operating systems. This course uses the Macintosh version for all of the lessons, while all of the functionality is the same between operating systems, the interface is different so Windows users will see different window and menu layouts in their software. If you are a Windows user consider watching the free preview of Lecture 3 where I discuss the differences between the Windows and Macintosh versions.  </p>  <p>  \t <strong>If you are a Windows user please be sure and watch and read the Windows lectures in Section 8 Bonus Material first!</strong>  </p>", 
+    "end_date": null, 
+    "title": "Introduction to Mobile Games Development with Gamesalad", 
+    "price": "40.00", 
+    "instructors": "Jamie Cross", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/48756_6182_6.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-mobile-games-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-04-06T19:06:13Z"
+}

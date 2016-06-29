@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this class you will learn:</p><ul><li>how to use R in a distributed environment</li><li>create Spark clusters on Amazon's AWS</li><li>perform distributed modeling using GLM</li><li>measure distributed regression and classification predictions</li><li>access data from csv's, json, hdfs, and S3</li></ul><p>All our examples will be performed on real clusters - no training wheels, single local clusters or third-party tools. </p><p>Note 1: you will need to know how to SSH to your Amazon AWS instance (I will show how I do it using the Mac but Windows or Linux isn't covered)</p><p>Note 2: There is a minimal cost involved when using Amazon's AWS instances. This biggest machine we will use is around 0.05 US cents/hour/machine.</p>", 
+    "end_date": null, 
+    "title": "Supercharge R with SparkR - Apply your R chops to Big Data!", 
+    "price": "30.00", 
+    "instructors": "Manuel Amunategui", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/659118_372e_5.jpg", 
+    "course_url": "https://www.udemy.com/supercharge-r-with-sparkr/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-03T17:05:55Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p></p><h5>STRADDLE &amp; STRANGLE OPTION STRATEGIES</h5><p>Straddles and Strangles are also Volatility strategies and are very popular strategies. Both these strategies are non-directional, so its possible to profit from a movement in either direction. But the move must come fairly quickly, because we have two Long Options (one on the Call side and one on the Put side), and so our time decay exposure is doubled. Additionally, Vega exposure can be quite large, so this is something to watch for. In general, its best to put on Straddles and Strangles in times of low volatility as measured by the individual Implied Volatility of the stock itself as well as observing the level of the VIX Index. We also look at the &quot;Valley of Death&quot; where the trade can fall into trouble.</p><p>Straddles and Strangles fall into two categories of Strategies - 1) Non-directional strategies and 2) Volatility strategies.</p><p>&nbsp;In non-directional strategies, you don’t care if the Stock goes up or down. Your strategy profits from a move in either direction. The strategy starts out Delta Neutral – or at least you should try to construct it that way. But this does not mean your position will remain Delta neutral forever. In fact, your position will achieve a +ve Delta or a -ve Delta bias, depending on the stock’s movement. But these strategies have one clear advantage over others. You don’t have to be right in forecasting the direction of stock movement, and that fact alone put Straddle &amp; Strangle strategies in our Favorites.</p><h5>What you will master</h5><p></p><p></p><ul style=\"\"><li><span>Why are Straddles and Strangles very popular</span><br style=\"\"></li><li><span>The pluses and minuses of these strategies</span><br style=\"\"></li><li><span>Why these strategies can be deceiving for newcomers to these  strategies</span><br style=\"\"></li><li><span>What is a good environment for these trades</span><br style=\"\"></li><li><span>What is the difference between a Straddle and Strangle</span><br style=\"\"></li><li><span>Is one better than the other in certain situations</span><br style=\"\"></li><li><span>What are the advantages and disadvantages of these trades</span><br style=\"\"></li><li><span>Why is Vega exposure critical</span><br style=\"\"></li><li><span>What  is the &quot;Valley of death&quot; and how can we avoid it</span><br style=\"\"></li><li><span>Detailed  analysis of the Straddle setup using Priceline and SPY ETF</span></li><li><span>Actual  trade execution of the SPY Straddle</span><br style=\"\"></li><li><span>Trade  Management of the SPY Straddle</span><br style=\"\"></li><li><span>Adjustments  to the SPY Straddle</span><br style=\"\"></li><li><span>Learnings  from the Straddle trade</span><br style=\"\"></li><li><span>Tackling the negatives of the  Straddle</span><br style=\"\"></li></ul><p></p>                                                            <p></p><p></p>  ", 
+    "end_date": null, 
+    "title": "Straddles and Strangles - Volatility moves in any direction", 
+    "price": "30.00", 
+    "instructors": "Hari Swaminathan", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/42651_5b3e_6.jpg", 
+    "course_url": "https://www.udemy.com/straddles-and-strangles/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-02-20T22:26:10Z"
+}

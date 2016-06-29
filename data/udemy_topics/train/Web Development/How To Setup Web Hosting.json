@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">This course is all about teaching you how to setup your first web hosting account.  In &quot;How To Setup Web Hosting&quot; I show you step by step how to get your domain, get your hosting account and get them to &quot;talk&quot; to each other, how to configure the domain and hosting settings and much more.</p><p style=\"\">In the first part of the course I show you the simple process of claiming and obtaining a domain name and how to configure it to associate with your hosting account.</p><p style=\"\">Next, I show you how to setup your first Web Hosting account and add your new domain to your hosting.</p><p style=\"\">I then walk you through the various settings of your hosting account and show you different relevant configurations and changes, etc, you can do within your account.  </p><p style=\"\">Last, I teach you how to use an FTP client to do your first basic uploads and downloads and even some basic edits within your new Hosting Account.</p><p style=\"\">This course is designed for the beginner and no previous experience is necessary.  If you&#039;re looking for a simple, easy to follow, step-by-step guide on getting your first web hosting setup and configured...and even using FTP for the first time, then this course is for you!</p><p style=\"\"></p>", 
+    "end_date": null, 
+    "title": "How To Setup Web Hosting", 
+    "price": 0, 
+    "instructors": "John Westbrook", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/540724_e0cb_2.jpg", 
+    "course_url": "https://www.udemy.com/how-to-setup-web-hosting/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-29T23:17:54Z"
+}

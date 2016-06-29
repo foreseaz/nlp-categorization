@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Chemistry"
+    ], 
+    "description": "\n\n                    \n                    \n                    Molecular Spectroscopy is a fundamentally important branch of Physical Chemistry and is vital for all practicing chemists, biologists and material scientists. It is also the field providing experimental verification of a large number of quantum mechanical concepts and enables researchers to obtain some of the most basic and important information about molecules such as bond length, bond angles, bond strengths, optical and magnetic properties. Primarily studied through the interaction of molecules with electromagnetic radiation of different types, molecular spectroscopy is studied through responses of molecules to radiation. \n\n                                            Syllabus\n                        Week 1: Introduction to SpectroscopyWeek 2: Introductory Quantum MechanicsWeek 3: Elementary introduction to Vibrational (Infra-red) Absorption Spectroscopy of Diatomic MoleculesWeek 4: Vibrational (Infra-red) Absorption Spectroscopy of Polyatomic Molecules: Normal ModesWeek 5: Vibrational Raman Spectra of Diatomic and Polyatomic MoleculesWeek 6: Microwave Spectroscopy of Diatomic moleculesWeek 7: Microwave Spectroscopy of Polyatomic Molecules and Elementary Electronic SpectroscopyWeek 8: Molecular Interactions and Rotation-Vibration and Vibration-Electronic Coupling\n                                    ", 
+    "end_date": "2016-03-14T00:00:00Z", 
+    "title": "Chemistry - II", 
+    "price": 0, 
+    "instructors": "Mangala Sunder Krishnan", 
+    "institution_name": [
+        "IIT ( Indian Institute of Technology Madras)"
+    ], 
+    "commitment": "2-3 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://onlinecourses.nptel.ac.in/noc16_cy01/preview", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "NPTEL"
+    ], 
+    "start_date": "2016-01-18T00:00:00Z"
+}

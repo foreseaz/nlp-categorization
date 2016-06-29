@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \tThis Autodesk Maya 2015 training course from Infinite Skills teaches you the core features and concepts of Maya. This course is for the absolute beginner, meaning no prior experience with Maya is necessary.  </p>  <p>  \t<br style=\"\">  \tYou will start by touring the Maya interface, then jump into learning about nodes and transformations. Todd will teach you how to model a polygon, including creating the basic structure, extrude faces, and bevel. This video tutorial will cover topics including UV mapping, applying custom textures, rendering, painting and mirroring weights, and rigging. You will learn how to create animations and work with the graph editor. Finally, Todd teaches you how to render your finished product using Mental Ray.<br style=\"\">  \t<br style=\"\">  \tOnce you have completed this computer based training course, you will be fully capable of using Maya 2015 to create your own models from start to finish, using the key concepts and techniques that Todd has taught you. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Learning Autodesk Maya 2015 - A Practical Hands On Course", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/222094_acb0_6.jpg", 
+    "course_url": "https://www.udemy.com/maya-2015/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-18T19:16:37Z"
+}

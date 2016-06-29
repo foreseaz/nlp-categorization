@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Overview</strong></p><p>JavaScript is a programming language that can be run by all modern web browsers. It is downloaded alongside the HTML code of a webpage. Unlike HTML, which can only be used to display content, JavaScript allows web designers to add functionality and interactivity to their websites.</p><p><strong>What you will learn</strong></p><p>We will begin the course by learning where to write JavaScript. We will look at writing JavaScript directly inside an HTML tag, then inside of a &lt;script&gt; tag, and then finally in a file separate from the HTML document. We will discuss some of the reasons for using each method.</p><p>After that, we will learn about how to manipulate some basic data types. We will learn about how to do simple arithmetic, and also look at some of JavaScript's built-in mathematical capabilities. Then, we will learn about working with words and characters, using a data type known as the \"string\". We will also cover the Boolean type, which is a representation of True and False inside of a programming language.</p><p><strong>Prerequisites</strong></p><p><u>HTML</u>: The student must know how to use HTML tags and attributes. Only a very basic understanding of HTML is assumed.</p><p><u>Google Chrome</u> (Recommended): Google Chrome is a free web browser and it will be</p><p>used to execute all the examples in this course. Although all browsers can run JavaScript, Chrome has extensive built-in developer tools. In the course, we will be using Chrome's JavaScript console, which will allow us to run quick little examples without the need to create and edit files.</p><p><u>Notepad++</u> (Recommended): Notepad++ is a free, open-source text editor. Although JavaScript and HTML can be written using any text editor, Notepad++ is highly recommended because of features such as syntax highlighting and auto-complete.</p>", 
+    "end_date": null, 
+    "title": "Learn Essential Javascript Fundamentals - Lite", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "39 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/652376_6e92_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-essential-javascript-fundamentals-lite/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-27T13:57:50Z"
+}

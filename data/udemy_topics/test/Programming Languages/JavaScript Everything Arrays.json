@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learning how to use arrays within JavaScript will help you better develop JavaScript code. <strong>Arrays are one of the fundamental building blocks of JavaScript!</strong></p>\n\n<p>Learn how to store values in arrays and how to work with arrays to utilize data.</p>\n\n<p>Storing Values Working with Arrays</p>\n\n<p>Lets you store multiple values in single variable</p>\n\n<ul><li>creating Arrays</li><li>literal array</li><li>JOIN()</li><li>PUSH()</li><li>SORT()</li><li>FOREACH()</li><li>POP()</li><li>SHIFT()</li><li>SPLICE()</li><li>REVERSE()</li><li>TOSTRING()</li></ul>\n\n\n\n<p>By the end of the course you will have the skills and know how to <strong>apply arrays within you website</strong>.   </p>\n\n\n\n<p>I am here to help you learn how to create your own websites and ready to answer any questions you may have.</p>\n\n\n\n<p>JavaScript is the most in <strong>demand skills</strong>, and<strong> learning how to use JavaScript </strong>will help to separate you from the crowd.</p>\n\n\n\n<p>Want to know more, what are you waiting for take the first step.  Join now to<strong> start learning how you too can create arrays within your website today.</strong></p>\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "JavaScript Everything Arrays", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "44 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/846272_1cd4.jpg", 
+    "course_url": "https://www.udemy.com/javascript-arrays/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-11T16:56:05Z"
+}

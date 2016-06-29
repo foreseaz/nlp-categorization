@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t  This course will guide you, from the installation of the proper modules to the configuration of basic to complex purchase processes in Odoo.  </p>  <p>  \t  This course is intended for anyone wanting to learn, implement or analyse purchasing with Odoo. If you are a beginner or if you already have some experience with Odoo, you will surely benefit from this course as it goes deep in the explanation of the processes and demonstrates each step in the system.  </p>  <p>  \t  The best way to use this course is to have an Odoo system available in order to reproduce the examples shown.  </p>  <p>  \t  Apart from the presentation that you will be able to download, you will also get access to have course related answers within 48 hours.  </p>  <p>  \t  Register for this course and get started!  </p>", 
+    "end_date": null, 
+    "title": "Purchase management with Odoo V8", 
+    "price": "25.00", 
+    "instructors": "Eva Pinter", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/389218_5087_4.jpg", 
+    "course_url": "https://www.udemy.com/purchase-management-with-odoo-v8/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-09T05:47:07Z"
+}

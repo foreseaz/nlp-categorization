@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Calculus & Mathematical Analysis"
+    ], 
+    "description": "\n\n                    \n                    \n                    Este curso forma parte de una secuencia con la que se propone un acercamiento a la Matemática Preuniversitaria que prepara para la Matemática Universitaria.\nEn él se asocia un significado real con el contenido matemático que se aprende y se integran tecnologías digitales en el proceso de aprendizaje. \nEl contexto real de llenado de tanques permitirá hacer una primera transferencia de significado y recapitularemos contenidos preuniversitarios relacionados con el Modelo Cuadrático.\n\n                                            Syllabus\n                        Concibiendo un movimiento MUARetomaremos el Movimiento Rectilíneo Uniforme para con él concebir un movimiento en el que la velocidad varíe uniformemente. En esto la tecnología tendrá una participación decisiva. Podremos entonces hablar de un Movimiento Uniformemente Acelerado.De un MUA transferimos a un CUAHablaremos nuevamente de la importante acción de transferencia cuando aprendemos Matemáticas. El conocimiento generado en el contexto real del movimiento en línea recta lo vamos a transferir a otros contextos reales con la intención de, posteriormente, generalizar al contexto matemático.Ecuaciones y funciones cuadráticasHablaremos de las ecuaciones cuadráticas y de la fórmula general para resolverlas. Ahí recordaremos nuestra clasificación de los números que resultan como solución. Vamos a dar significado a estas ecuaciones al relacionarlas con funciones cuadráticas que modelan matemáticamente una situación real.Función cuadrática y su derivada linealHablaremos del Modelo Cuadrático desde la perspectiva del Cálculo, considerando su derivada. Con esto podremos retomar el tema de la parábola vertical y reconocer su utilidad para la identificación de puntos máximos y mínimos en una gráfica. Hablaremos de la construcción y optimización de funciones como aplicación de lo que hemos aprendido.\n                                    ", 
+    "end_date": "2016-07-18T00:00:00Z", 
+    "title": "2.- El Cálculo - Modelo Cuadrático", 
+    "price": 0, 
+    "instructors": "Dra. Patricia Salinas Martínez", 
+    "institution_name": [
+        "Tecnológico de Monterrey"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.coursera.org/learn/calculo-2", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-20T00:00:00Z"
+}

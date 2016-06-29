@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Bu eğitim içerisinde; mobil , web ve masaüstü platformlar için 3 boyutlu oyun geliştirmek istediğinizde başvuracağınız Unity3D uygulaması anlatılmaktadır.</p><p>En baştan başlayarak, gerekli olan tüm temel bilgiler bu eğitimde bulunmaktadır. Seviye olarak, başlangıç seviyesini kapsasa da ilk etap için gerekli bilgileri bu eğitimde edinmiş olacaksınız.</p><p>Eğitim içerisinde 6 bölüm bulunmaktadır.</p><p>1. Bölüm:<br>Unity3D ile ilk tanışanlar için gerekli bilgiler bulunmaktadır. Unity 3D nedir, nasıl kurulur, proje ve 3. parti örnekler gibi bilgiler  içermektedir.</p><p>2. Bölüm:<br>Unity3D ile ilk çalışmaya başlamak, projelerinizi organize etmek, sahne  ve nesneler hakkında bilgiler içermektedir.</p><p>3. Bölüm:<br>Unity3D içerisinde kullanacağınız arazi hakkında bilgiler içermektedir. Arazi geometrileri, topografi, dokular, ağaçlar ve ormanlar, çim, halı ve 3d geometrik boyama bilgileri içermektedir.</p><p>4. Bölüm:<br>Bu bölüm içerisinde çevresel yapılar ele alınmıştır. Güneş, gökyüzü, sis ile birlikte tek kişilik kontroller ve yayınlama için proje ayarlarına değinilmiştir.</p><p>5. Bölüm:<br>Unity içerisinde kullanılan script hakkında gerekli bilgiler ve örnekler bu bölüm içerisinde sunulmaktadır. Komut dosyası, değişkenler, rotasyon ve zaman fonksiyonları, hareket fonksiyonları ve etkileşim üzerine temel bilgiler içermektedir.</p><p>6. Bölüm:<br>Bu bölüm içerisinde oyun objeleri ve bileşenleri ile çalışmak incelenmiştir. Obje oluşturmak, engeller için çarpıştırıcılar belirlemek ve parçacık yapısı anlatılmaktadır.</p>", 
+    "end_date": null, 
+    "title": "Unity3D ile Oyun Hazırlamaya Başlamak", 
+    "price": "20.00", 
+    "instructors": "Ersin Sengul", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/705056_ee0f.jpg", 
+    "course_url": "https://www.udemy.com/unity3d-ile-oyun-hazrlamaya-baslamak/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-23T17:29:29Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>The <strong>PHP Zend certification</strong> is well recognised in the industry as a standard of knowledge for PHP engineers. It is a certification that shows that the programmer knows the ins and outs of the PHP programming language. </p><p>This course is the first in a series of courses designed to cover the exam syllabus.  It focuses on the first of the three most important sections of the syllabus.</p><p>This course is designed for programmers with some programming experience (preferably in PHP) who want to prepare for their Zend Certified Engineer 5.5 exams.</p><p>Although this course has the word “basics” it’s not a beginners course and is not aimed at people who have no programming experience. It's more about the basics of PHP than it is about the basics of programming.</p><p>Programmers who have a good amount of experience in another language should be able to use this course to pick up the idiosyncrasies of the worlds most popular web programming language.</p><p>This course includes quiz questions and PDF notes drawn from my book.</p>", 
+    "end_date": null, 
+    "title": "PHP 5.5 Zend Certification - PHP Basics", 
+    "price": "20.00", 
+    "instructors": "Andy Beak", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/738834_1126_7.jpg", 
+    "course_url": "https://www.udemy.com/zend-certification-php-basics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-23T12:42:56Z"
+}

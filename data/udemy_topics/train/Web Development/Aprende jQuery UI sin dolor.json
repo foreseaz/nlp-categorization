@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    Jquery UI (User Interface) es una poderosa herramienta de desarrollo Web que nos permitirá hacer, desde animaciones muy sencillas que enriquecerá a nuestras páginas Web, hasta aplicaciones completas y complejas, como juegos interactivos o lectura de datos.  </p>  <p>  \t    En este curso revisaremos todas las iteraciones y widgets y realizaremos pequeñas aplicaciones con ellas, así como la relación que hay entre los diferentes widgets y las interacciones, por ejemplo, cómo hacer un acordeón &quot;ordenable&quot; o hacer un selector de colores con los &quot;deslizadores&quot;. Deberá contar con conocimientos medios de JavaScript y de preferencia, conocimientos básicos de jQuery.  </p>", 
+    "end_date": null, 
+    "title": "Aprende jQuery UI sin dolor", 
+    "price": "20.00", 
+    "instructors": "Francisco Javier Arce Anguiano", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/253106_4f87_4.jpg", 
+    "course_url": "https://www.udemy.com/aprende-jquery-ui-sin-dolor/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-30T11:05:27Z"
+}

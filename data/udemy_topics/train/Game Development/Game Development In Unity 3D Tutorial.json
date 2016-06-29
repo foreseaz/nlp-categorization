@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this Advanced Unity 3D Game Development training course, Infinite Skills  teaches you how to use some of the advanced features available to you within the Unity 4 game engine. This course is designed for the experienced Unity developer. You should have a working understanding of the Unity 4 engine and features before taking this tutorial.<br><br>You start the training with a quick review of the basics of Unity 4. The course then jumps right into advanced, Multi-player Network Gaming. He shows you how to implement not only Internet based Network Gaming, but also LAN based using .NET Sockets. You will create a network chat system, learn how to skin Avatars, synchronize pickups and drops, and then you will move on to the Social API. Robert covers specific iOS Game Center features such as the Leaderboard and Achievements, as well as in-app purchasing. To complete this Unity 3D video tutorial, Robert covers using a batch mode Unity game as a stand alone server, and as an alternative, third party solutions Photon and Smart Fox.<br><br>By the time you have completed this advanced Unity 3D tutorial you will have an in-depth understanding of advanced Unity 4 features. You will understand network gaming and how to implement it, as well as how to integrate social gaming and in-app purchasing to your project. This Unity 4 video training includes Working Files, allowing you to follow along with the author throughout the lessons.<br></p>", 
+    "end_date": null, 
+    "title": "Game Development In Unity 3D Tutorial", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/62377_d836_9.jpg", 
+    "course_url": "https://www.udemy.com/game-development-in-unity-3d-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-06-26T13:51:42Z"
+}

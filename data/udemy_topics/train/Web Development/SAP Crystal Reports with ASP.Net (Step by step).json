@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong style=\"\">Course Description:</strong></p><p>Learn the <strong style=\"\">easiest </strong>and basic method to work with <strong style=\"\">SAP Crystal Reports</strong> 2013 in Microsoft Visual Studio 2012 connected to MS SQL Server 2008 Database.</p><p>Let&#039;s make the first move to design &amp; display one simple Crystal Report for the professional presentation of data in a web browser, in a manner that could be used for decision making by the management.</p><p><strong style=\"\">Course Specialty:</strong></p><p>This course will help software developers <strong style=\"\">to</strong> <strong style=\"\">get rid-off writing complex &amp; lengthy code</strong> for displaying Crystal Report in a web browser. This course demonstrates a &quot;<strong style=\"\">Developers-Friendly</strong>&quot; method of:-</p><ul style=\"\"><li>adding Crystal Reports to Microsoft Visual Studio Project, </li><li>Connecting the report to the Database. </li><li>working with the layout interface of Crystal Report Designer and</li><li>using the &quot;<strong style=\"\">Crystal Report Viewer Control</strong>&quot; in ASP.Net.</li></ul><p><strong style=\"\">Software/s and their versions used in this course:</strong><br style=\"\"></p><ol style=\"\"><li><strong style=\"\">Software</strong>: SAP Crystal Reports 2013, Developers Version</li><li><strong style=\"\">Platform</strong>: Microsoft Visual Studio 2012</li><li><strong style=\"\">Framework</strong>: ASP.Net 4.5</li><li><strong style=\"\">Language</strong>: C #</li><li><strong style=\"\">Database</strong>: Microsoft SQL Server 2008</li></ol><p><strong style=\"\"><br style=\"\"></strong></p><p><strong style=\"\">Contents and Overview:</strong></p><p>In <strong style=\"\">only one hour duration</strong> with only five videos this course covers most of the SAP Crystal Reports essentials, fundamentals and terminologies along with the best practice of passing structured Query to retrieve data from the database.</p><p>In this course you will see how easy it is to use the <strong style=\"\">Graphical User Interface</strong> of SAP Crystal Report for <strong style=\"\">placing data</strong> chunks into proper <strong style=\"\">sections of the report.</strong></p><p>You will also learn to <strong style=\"\">summarize </strong><strong style=\"\">data </strong>by inserting &quot;running-total&quot; fields into the report.</p><p>In order to display the report, this course provides a <strong style=\"\">short programming code</strong> written in C#, which is easy, tested and error free.</p><p>Upon completion you will be able to design any type of report on your own and will be working independently with both Microsoft Visual Studio and SAP Crystal Reports.<br style=\"\"></p><p><strong style=\"\">What are the requirements?</strong></p><ul style=\"\"><li>Basic knowledge of programming in C#</li><li>A familiarity of Microsoft Visual Studio</li><li>Concepts of database tables &amp; views</li><li>General knowledge of Web Applications</li></ul><p><strong style=\"\">At the end of this course you will be able to:</strong></p><ul style=\"\"><li>Create  &amp; configure a <u style=\"\"><strong style=\"\"><strong style=\"\">DataSet</strong>  </strong></u>Object in Microsoft Visual Studio 2012</li><li>Add  a blank Crystal report to the project</li><li>Bind the Crystal report with the DataSet</li><li>Design  &amp; Format the Crystal report</li><li>Add  a WebForm to the project</li><li>Drag &amp; drop a <strong style=\"\"><u style=\"\">Button &amp; a CrystalReportViewer control</u></strong> on the WebForm</li><li>Add  C# code behind the <strong style=\"\"><u style=\"\">Button Click event</u></strong> to display the report in  browser</li></ul><p><strong style=\"\"><br style=\"\"></strong></p><p><strong style=\"\">What is the target audience?</strong></p><ul style=\"\"><li>Students of Software Engineering</li><li>University students who are working on their final year project</li><li>Database Applications Developers, Internees and students</li><li>Web Developers</li><li>E.R.P Developers</li><li>Database Administrators</li><li>IT professionals and managers whose job is to implement SAP ERP systems in their organizations</li></ul><p><br style=\"\"></p><p><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "SAP Crystal Reports with ASP.Net (Step by step)", 
+    "price": 0, 
+    "instructors": "Mansoor Bari", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/436496_3412_4.jpg", 
+    "course_url": "https://www.udemy.com/sap-crystalreports-for-beginners/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-02T13:33:43Z"
+}

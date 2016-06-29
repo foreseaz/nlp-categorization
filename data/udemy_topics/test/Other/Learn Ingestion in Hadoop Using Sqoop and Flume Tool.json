@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Apache Sqoop is a tool designed to transfer data between Apache Hadoop and RDBMS. Apache Sqoop tool is used to import data from traditional databases such as MySQL, Oracle to Hadoop Distributed File System, and export from Hadoop Distributed file system to RDBMS. This course covers these topics of Apache Sqoop and Flume tool:</p><p>Overview of Apache Hadoop</p><p>Sqoop Import Process</p><p>Basic Sqoop Commands</p><p>Using Different File formats in Import and Export Process</p><p>Compressing Imported Data</p><p>Concept of Staging Table</p><p>Architecture and Features of Sqoop2 Tool</p><p>Flume Architecture</p><p>Flume Events</p><p>Interceptors and Channel Selectors</p><p>Sink Processors<br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Learn Ingestion in Hadoop Using Sqoop and Flume Tool", 
+    "price": "25.00", 
+    "instructors": "Digitorious Technologies", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/792236_495f_3.jpg", 
+    "course_url": "https://www.udemy.com/apache-sqoop-and-flume/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-14T10:52:19Z"
+}

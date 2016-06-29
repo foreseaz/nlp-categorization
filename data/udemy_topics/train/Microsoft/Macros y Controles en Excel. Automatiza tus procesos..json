@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t    Este curso esta sacado de mi curso completo de Excel 2010, también disponible en Udemy.  </p>  <p>  \t    En este curso, descubriremos de la mano de un profesor certificado por Microsoft como Microsoft Office Master Specialist.  </p>  <ul style=\"\">  \t<li>Las macros de Excel que nos permiten automatizar tareas</li>  \t<li>El uso de formularios y de los numerosos controles y objetos que es posible agregarles. <br style=\"\">  \t</li>  </ul>  <p>  \t    ¡Toma este curso y empieza a automatizar tareas y mejorar de manera notable la entrada de datos en las hojas de cálculo!  </p>  <p>  \t  + una sección BONUS incluida en este curso: Aprende a revisar, proteger y compartir tu libro de cálculo.  </p>  <p>  \t<strong style=\"\">I. Trabajar con Macros</strong>  </p>  <ol style=\"\">  \t<li>Grabar y guardar una macro</li>  \t<li>Ejecutar una macro</li>  \t<li>Usar referencias relativas o absolutas</li>  \t<li>Eliminar una macro</li>  \t<li>Guardar y abrir libros con macros</li>  \t<li>Modificación básica del código Visual Basic</li>  </ol>  <p>  \t<strong style=\"\">II. Insertar controles</strong>  </p>  <ol style=\"\">  \t<li>Los controles de formulario</li>  \t<li>Ejecutar una macro a través de un botón</li>  \t<li>Crear un formulario de datos</li>  \t<li>Controles ActiveX</li>  </ol>  <p>  \t<strong style=\"\">III. Revisar, proteger y compartir tu libro de cálculo</strong>  </p>  <ol style=\"\">  \t<li>Revisión del contenido</li>  \t<li>Administrar comentarios</li>  \t<li>Proteger la hoja de cálculo</li>  \t<li>Controlar la edición de celdas</li>  \t<li>Dar acceso a rangos específicos</li>  \t<li>Proteger el libro</li>  \t<li>Otras opciones de protección</li>  \t<li>Preparar la combinación de documentos</li>  \t<li>Combinar libros</li>  \t<li>Preparar para compartir</li>  \t<li>Guardar y enviar</li>  </ol>  <p>  \t<br style=\"\">  </p>", 
+    "end_date": null, 
+    "title": "Macros y Controles en Excel. Automatiza tus procesos.", 
+    "price": "20.00", 
+    "instructors": "Nicolas Laczka", 
+    "commitment": "43 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/407002_b02f_3.jpg", 
+    "course_url": "https://www.udemy.com/macros-y-controles-en-excel-automatiza-tus-procesos/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-28T19:13:37Z"
+}

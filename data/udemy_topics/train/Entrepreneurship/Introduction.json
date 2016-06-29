@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut interdum ex quis dui pulvinar efficitur. Quisque in neque sed massa suscipit porttitor a vitae purus. Nunc ac aliquam mauris, et hendrerit velit. Vestibulum ex ipsum, dapibus vitae diam vitae, bibendum hendrerit turpis. Aliquam placerat elit metus, eget finibus ipsum euismod eu. Sed bibendum turpis a tellus scelerisque pellentesque. Duis semper lorem a mi suscipit, eu gravida quam efficitur. Donec aliquet convallis tortor, vel cursus odio ultricies id. In at tellus convallis, tincidunt nulla sed, tempus risus. Cras quis massa at orci malesuada mollis at non lorem. Sed sit amet nisi laoreet, iaculis orci a, semper mauris. Etiam a dui sed odio egestas convallis quis eget risus. Suspendisse eu hendrerit leo, quis interdum augue. Integer elementum nunc nulla, id dictum quam interdum id. In consectetur volutpat urna non aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>", 
+    "end_date": null, 
+    "title": "Introduction", 
+    "price": 0, 
+    "instructors": "A C", 
+    "commitment": null, 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/559678_8f8a_8.jpg", 
+    "course_url": "https://www.udemy.com/learn-growth-hacking-in-30-minutes/", 
+    "subject_name": [
+        "Entrepreneurship"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-20T18:49:57Z"
+}

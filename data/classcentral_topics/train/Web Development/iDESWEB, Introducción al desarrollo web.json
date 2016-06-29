@@ -1,0 +1,25 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    El curso está compuesto por una serie de temas que hemos considerado que son el mínimo que debe conocer cualquier persona que quiera tener una visión introductoria del desarrollo web actual. Al finalizar el curso, si el alumno ha asimilado correctamente todos los contenidos y ha completado todas las actividades de forma satisfactoria, será capaz de desarrollar aplicaciones web. El curso comienza con las tecnologías que en la actualidad son consideradas el estándar de la programación de la parte cliente de las aplicaciones web: HTML, CSS, JavaScript y DOM. Además, se proporcionan conocimientos sobre diseño, usabilidad y accesibilidad en general y en particular sobre su aplicación al desarrollo web. La última parte se dedica a la programación de la parte servidor con la tecnología PHP.\n\n                                    ", 
+    "end_date": "2013-04-25T00:00:00Z", 
+    "title": "iDESWEB, Introducción al desarrollo web", 
+    "price": 0, 
+    "instructors": "", 
+    "institution_name": [], 
+    "commitment": "", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.miriadax.net/web/introduccion_desarrollo_web", 
+    "duration": "12 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "Miríada X"
+    ], 
+    "start_date": "2013-01-31T00:00:00Z"
+}

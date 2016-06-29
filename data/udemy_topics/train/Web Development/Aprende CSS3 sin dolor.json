@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  En este curso aprenderás las nuevas características de los estilos en cascada, como a manejar las fuentes web, animaciones, transformaciones, el nuevo esquema de caja, sombras, entre muchas otras características que han llevado a CSS3 a ser una poderosa herramienta en el desarrollo de páginas Web.  </p><p>Estudiaremos los selectores nuevos y los que ya se utilizaban en la versiòn 2.1. con los cuales tendremos completo control en nuestras páginas web.</p><p>Trataremos a profundidad los nuevos comandos para los colores, como los formatos CMYK y HSL, asi como el manejo de la transparencia.</p><p>En CSS3 podemos manejar fuentes externas, y no limitarnos a las fuentes que se encuentren instaladas en la computadora del usuario. Veremos diferentes páginas donde se pueden descargar las mismas.</p><p>Analizaremos las potentes reglas para manejar la maquetación o layout de nuestras páginas con CSS3.</p><p>Asímismo, estudiaremos las nuevas características del modelo de caja en el nivel 3, como modificar las esquinas de una caja, crear sombras, posicionar las imágenes en el background, etcétera.</p><p>También realizaremos transiciones, transformaciones y animaciones con CSS3 en cualquier elemento HTML, cosa que era impensable hacerla con los estilos en cascada.</p><p>Finalmente estudiaremos una de las propiedades más revolucionarias en los estilos en cascada: realizar páginas que se adapten al tamaño de la pantalla donde se despliegan, conocido como \"páginas responsivas\".</p><p>Para este curso es deseable que cuente con conocimientos básicos de HTML y CSS.</p>", 
+    "end_date": null, 
+    "title": "Aprende CSS3 sin dolor", 
+    "price": "20.00", 
+    "instructors": "Francisco Javier Arce Anguiano", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/23928_0bd3_2.jpg", 
+    "course_url": "https://www.udemy.com/css3-basico/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-08-30T23:51:08Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p><strong>What is this course about?</strong></p>\n\n<p>Discrete Mathematics (DM), or Discrete Math is the backbone of Mathematics and Computer Science. DM is the study of topics that are discrete rather than continues, for that, the course is a MUST for any Math or SC student. The topics that are covered in this course are the most essential ones, those that will touch every Math and Science student at some point of their education. Discrete Mathematics gives students the ability to understand Math language and based on that, the course is divided into 8 sections. The sections are:</p>\n\n<ol><li>Symbols</li><li>Sets</li><li>Logic</li><li>Arithmetic</li><li>Proofs</li><li>Functions</li><li>and Relations</li><li>Probability </li></ol>\n\n<p>.</p>\n\n<p>.</p>\n\n<p><strong>How is it delivered?</strong></p>\n\n<p>I know visually seeing a problem getting solved is the easiest and the most direct way for a student to learn so I designed the course keeping this in mind. The materials are delivered mostly through videos to make complex subject easy to comprehend. More details on certain lessons are delivered through text files to provide more explanation or examples. The course is taught in plane English, away from cloudy, complicated mathematical jargons and that is to help the student learn the material rather than getting stuck with fancy words. </p>\n\n<p>.</p>\n\n<p>.</p>\n\n<p><strong>How do I learn better?</strong></p>\n\n<p>There are quizzes after each section so you can test your knowledge and see how much of the material has sank in. I suggest you go through each lesson several times to better understand the content.</p>", 
+    "end_date": null, 
+    "title": "Discrete Mathematics ", 
+    "price": "50.00", 
+    "instructors": "Miran Fattah", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/614832_e3b0_2.jpg", 
+    "course_url": "https://www.udemy.com/discrete-math/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-17T14:12:15Z"
+}

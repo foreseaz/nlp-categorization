@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">Course: </strong>Palo Alto Networks ACE Certification Bootcamp</p>\n\n<p><strong class=\"redactor-inline-converted\">Benefits : </strong>Successful completion of this course will enable the student to install, configure, and manage the entire line of Palo Alto Networks™ Next-Generation firewalls. </p>\n\n<p><strong class=\"redactor-inline-converted\">Delivery:</strong> Online</p>\n\n<p><strong class=\"redactor-inline-converted\">Agenda :</strong> Students attending this introductory-level class will gain an in-depth knowledge of how to install, configure, and manage their firewall, as well as configuration steps for the security, networking, threat prevention, logging, and reporting features of the Palo Alto Networks Operation System (PAN-OS). </p>\n\n<p><strong class=\"redactor-inline-converted\">Target Audience:</strong> Firewall Administrators, Security Administrators, Security Analysts, </p>\n\n<p><strong class=\"redactor-inline-converted\">Pre-Requisites :</strong>Students must have a basic familiarity with networking concepts including routing, switching, and IP addressing. Students should also be familiar with basic port-based security concepts. Experience with other security technologies (IPS, proxy, and content filtering) is a plus. </p>\n\n<p><strong>Lab Access &amp; Lab Guide :</strong> Not Included. But a complimentary 2 hour access will be given to every enrolled student.</p> ", 
+    "end_date": null, 
+    "title": "Palo Alto Networks Firewall Training", 
+    "price": "25.00", 
+    "instructors": "Security Skills Hub, Secuskills Secuskills", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/521472_454a_4.jpg", 
+    "course_url": "https://www.udemy.com/palo-alto-networks-ace-bootcamp/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-05T18:47:27Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Digital Media & Video Games"
+    ], 
+    "description": "\n\n                    \n                    \n                    The device or \"platform\" that a game is developed for and played on has a massive impact on the game development process. In this hands-on course you will explore how to develop a game for a variety of modern platforms, including Web, Windows, Mac OS X, iOS, and Android. While building a complete game, you will learn intermediate and advanced game development techniques in the Unity game engine.  By the end of the course, you will understand how to develop, refine, package, and prepare your game for distribution on a variety of game platforms. Particular attention will be given to developing a 2D platformer game that supports multiple forms of input (keyboard/mouse, controller, and touch), works across multiple forms of output (screen size, screen resolution, sound), and performs well on a variety of computing devices.\n\n                                            Syllabus\n                        Starting the ProjectHello game developers!\n\nAcross this course, we will build a complete 2D platformer game as a vehicle to talk about how to develop, refine, package, and prepare games for distribution on a variety of game platforms.  This week we will launch right into the thick of it and set up our 2D game, create our player, and give the player control.\n\nIf you are having troubles with a concept, quiz, or technical issue with Unity, you should post on the Discussion Forum to ask for help.  Remember to be a good Coursera community member and help others out when you can.\n\nLet’s get started!Getting the Game PlayableWelcome back!\n\nThis week we will continue to build our 2D platformer game, getting into some level design and gameplay enhancements, including adding an enemy to our game. Along the way we will start to introduce some Unity Editor tips and tricks and some more advanced programming concepts.\n\nAs always, if you are having troubles with a concept, quiz, or technical issue with Unity or the project, you should post on the Discussion Forum to ask for help.  Remember to be a good Coursera community member and help others out when you can.\n\nOnward!Building Out the GameHi!\n\nThis week we will finish our example game, bringing in some visual polish and UI, adding a game manager, and making sure our game controls work across multiple platforms.  We will continue to introduce additional design and programming concepts along the way.  And, at the end of this week, you will start the process of modifying the game and transforming it into your own creation!  How exciting!\n\nAs always, if you are having troubles with a concept, quiz, or technical issue with Unity or the project, you should post on the Discussion Forum to ask for help.  Remember to be a good Coursera community member and help others out when you can.\n\nGo! Go! Go!Preparing to Ship!Welcome back game developers!\n\nThis week, while you work on your game, we will discuss how to polish, balance, and optimize your game (and future games), build the game for various modern platforms, as well as bring the game to market.  These lectures and readings contain a wealth of game making goodness that I hope will inspire and excite you. \n\nAs always, if you are having troubles with a concept, quiz, or technical issue with Unity or the project, you should post on the Discussion Forum to ask for help.  Remember to be a good Coursera community member and help others out when you can.\n\nLet the final crunch commence!\n                                    ", 
+    "end_date": "2016-07-18T00:00:00Z", 
+    "title": "Game Development for Modern Platforms", 
+    "price": 0, 
+    "instructors": "Brian Winn and Casey O'Donnell", 
+    "institution_name": [
+        "Michigan State University"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Art & Design"
+    ], 
+    "course_url": "https://www.coursera.org/learn/gamedev-platforms", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-06-20T00:00:00Z"
+}

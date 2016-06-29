@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course helps any WordPress developer save time by copying and pasting WordPress API code into any theme or plugin. Video lectures show developers how to customize the code to make it their own.</p><p>This course will constantly evolve with new \"recipes\" on everything from shortcodes, custom post types, and manipulation of popular plugins including Contact Form 7.</p><p>This course is best for those who already know PHP and some WordPress development skills, but if you are just getting into WordPress theme or plugin development, the code resources will help you add more powerful functionality to your already-existing code.</p><p>In this WordPress cookbook course, code recipes are already available for:</p><ul><li>post and page content manipulation</li><li>automatically creating new menu locations in themes</li><li>custom post types</li><li>displaying random posts on the fly</li><li>manipulation of the contact form 7 plugin</li><li>and more</li></ul>", 
+    "end_date": null, 
+    "title": "WordPress Developer's Cookbook", 
+    "price": "20.00", 
+    "instructors": "Bruce Chamoff", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/755436_a7ea_3.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-developer-cookbook/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-07T22:27:51Z"
+}

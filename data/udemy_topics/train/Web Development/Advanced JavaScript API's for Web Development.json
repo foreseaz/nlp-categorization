@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>The number of JavaScript APIs grows every day. It&#039;s hard to believe so many APIs are supported in every new version of browsers. In this course, we will go through some of the well supported advanced JavaScript APIs.</span>  </p>  <p>  \tAs there are so many APIs, we have selected the most popular and supported ones. We will teach every API by building a simple application using that API. All the APIs taught in this course work on mobile and desktop browsers.  </p>  <p>  \tThe APIs we cover in this course are not a part of HTML5 specification. These are APIs belonging to other specification.  </p>  <p>  \t<strong><em>This course content will be updated regularly as new APIs arrive and are supported.</em></strong>  </p>", 
+    "end_date": null, 
+    "title": "Advanced JavaScript API's for Web Development", 
+    "price": "20.00", 
+    "instructors": "QScutter Tutorials", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/273422_c554_2.jpg", 
+    "course_url": "https://www.udemy.com/advanced-javascript-apis/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-02T13:28:29Z"
+}

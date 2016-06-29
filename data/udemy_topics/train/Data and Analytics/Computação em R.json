@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>  \t   O mercado de trabalho demanda profissionais que tenham desenvoltura em <strong style=\"\">ambientes computacionais para resolução de problemas</strong>. Destacam-se entre estas habilidades, dominar o poder de processamento para explorar e analisar os dados disponíveis bem como uma linguagem de programação para otimizar e automatizar as análises.  </p>  <p>  \t Este curso deseja oferecer a vocês a base da programação em ambiente R  bem como o desenvolvimento de soluções para análise e modelagem de dados.  </p>  <p>  \t A primeira versão deste curso foi ministrado em formato de disciplina condensada na Universidade Federal dos Vales do Jequitinhonha e Mucuri, na cidade de Diamantina, através do apoio do professor Márcio L. Romarco de Oliveira. Uma semana antes do curso, um colega também professor da UFVJM havia adquirido uma câmera de vídeo e para testar resolvemos gravar toda a semana de curso.  </p>  <p>  \t Com a experiência adquirida ministrando o curso presencial e com todo o material gravado, códigos e base de dados, recriamos as video-aulas e restruturamos o curso pensando numa versão MOOC. O produto deste esforço vc confere aqui. Agradecemos às centenas de alunos que já participaram deste curso e deram valiosas sugestões de melhoria.  </p>  <p>  \tAproveitem o material e desejamos um excelente curso.  </p>  <p>  \tBom divertimento,  </p>  <p>  \tEric  </p>", 
+    "end_date": null, 
+    "title": "Computação em R", 
+    "price": 0, 
+    "instructors": "Eric Görgens", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/101960_5456_8.jpg", 
+    "course_url": "https://www.udemy.com/computacao_r/", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-05T19:19:11Z"
+}

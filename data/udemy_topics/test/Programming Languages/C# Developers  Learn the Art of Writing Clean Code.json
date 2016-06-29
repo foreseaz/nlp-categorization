@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>&quot;Any fool can write code that a computer can understand. Good programmers write code that humans can understand.&quot;  - Martin Fowler<br style=\"\"><br style=\"\"></p><p>Poorly written code is hard to understand, maintain and test. But what separates poorly written code (aka code that smells) from beautiful code that talks? In this course, Mosh walks you through common code smells found in C# programs and how to refactor them using ReSharper. Refactoring is changing the design of the existing code without changing its external behaviour. </p><p><br style=\"\">In every lecture, you&#039;ll see an example of a popular code smell with Mosh&#039;s explanations about what is wrong about that code and why. You&#039;ll then learn how to change the code in a safe and step-by-step fashion while minimising breaking changes. All the source codes presented  in the lectures are available for download so you can practice these techniques on your own. <br style=\"\"><br style=\"\"><br style=\"\">This course is packed with techniques and is a must for any C# developer who wants to improve the quality of their code. </p><p><br style=\"\"></p><p>By the end of this course, you&#039;ll be able to<br style=\"\"> </p><ul style=\"\"><li style=\"\">Spot the smells in your code</li><li style=\"\">Refactor your code using safe and fast refactoring techniques with ReSharper</li><li style=\"\">Write clean code that is more readable and maintainable</li></ul><p style=\"\"><br style=\"\"></p><p style=\"\"><br style=\"\">In particular, you&#039;ll learn how to <br style=\"\"><br style=\"\"></p><ul style=\"\"><li style=\"\">Break long methods into smaller, more maintainable ones</li><li style=\"\">Simplify nested / complex conditional blocks</li><li style=\"\">Design the proper signature for your methods </li><li style=\"\">Remove duplicated code</li><li style=\"\">Refactor switch statements into an object-oriented design using polymorphism</li><li style=\"\">Write C# code using the standard naming convention</li><li style=\"\">And more...</li></ul><p style=\"\"><br style=\"\"></p><p><br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "C# Developers: Learn the Art of Writing Clean Code", 
+    "price": "20.00", 
+    "instructors": "Mosh Hamedani", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/466296_2fdd_2.jpg", 
+    "course_url": "https://www.udemy.com/clean-code/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-03T00:13:28Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t<span>By the end of this course you will be able to write basic SQL queries using Oracle Applications Database. This will ultimately complement your job of an Oracle Functional Consultant.</span>  </p>  <p>  \tThe entire course has been delivered by the way of a realistic business scenario, and has been demonstrated over Oracle Applications Database.  </p>  <p>  \tThis course covers following sub-modules within it:  </p>  <p>  \t+ Overview of Oracle Applications Database and SQL  </p>  <p>  \t+ Download and Install SQL Developer  </p>  <p>  \t+ Retrieving Data using the SQL SELECT Statement  </p>  <p>  \t+ Finding information about database objects from front-end Oracle Application forms  </p>  <p>  \t+ Finding database tables linked to Oracle Applications database Views  </p>  <p>  \t+ Entity Relationship (ER) Diagrams for Oracle Applications database tables  </p>  <p>  \t+ Retrieving Data using SQL from Multiple Tables  </p>  <p>  \t+ Restricting and Sorting Data  </p>", 
+    "end_date": null, 
+    "title": "SQL Fundamentals for Oracle Functional Consultants", 
+    "price": "20.00", 
+    "instructors": "Kabeer Khan", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/379786_3b39_2.jpg", 
+    "course_url": "https://www.udemy.com/sql-fundamentals-for-oracle-functional-consultants/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-29T07:40:20Z"
+}

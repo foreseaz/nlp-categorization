@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t          When working with server-side code, it’s very important to be able to persist data across the site. Databases exist to help solve this problem by providing easy ways to integrate and store data. We’ll be looking at MongoDB, one of the leading NoSQL database systems. By storing data as JSON (Javascript Object Notation) objects, integration with NodeJS is very easy! We&#039;ll cover how to implement MongoDB and work with the different systems that they provide and then we’ll start integrating it with our Node applications by using Mongoose, a library that has been built specifically for interacting with MongoDB.  </p>  <p style=\"\">  \t<strong style=\"\">Course Includes:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">8 videos with over 40 minutes of lectures and explanations.</li>  \t<li style=\"\">3 external resource files.</li>  \t<li style=\"\">2 exercises to help you master MongoDB concepts.</li>  </ul>  <p style=\"\">  \t<strong style=\"\">What You&#039;ll Learn:</strong>  </p>  <ul style=\"\">  \t<li style=\"\">Setting Up MongoDB in Command Line</li>  \t<li style=\"\">Getting Started with Mongoose in Node</li>  \t<li style=\"\">Integrating with a Form</li>  \t<li style=\"\">Advanced Mongoose</li>  \t<li style=\"\">Instance Methods</li>  \t<li style=\"\">Additional Resources</li>  \t<li style=\"\">Exercises</li>  \t<li style=\"\">And More!</li>  </ul>", 
+    "end_date": null, 
+    "title": "Working with MongoDB", 
+    "price": "30.00", 
+    "instructors": "RefactorU LLC", 
+    "commitment": "42 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/212396_09ac_6.jpg", 
+    "course_url": "https://www.udemy.com/refactoru-intro-mongodb/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-07T15:44:42Z"
+}

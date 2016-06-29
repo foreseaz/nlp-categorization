@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>Network theory is one of the most exciting and dynamic areas of science today with new breakthroughs coming every few years as we piece together a whole new way of looking at the world, a true paradigm shift that is all about connectivity. The study of network theory is a highly interdisciplinary field, which has emerged as a major topic of interest in various disciplines ranging from physics and mathematics, to biology and computer science to almost all areas of social science.</p><p>From the metabolic networks that fuel the cells in our body, to the social networks that shape our lives, networks are everywhere, we see them in the rise of the internet, the flow of global air traffic and in the spread of financial crises, learning to model and design these networks is central to 21st century science and engineering.</p><p>This is an introductory course where we present topics in a non-mathematical and intuitive form that should not require any specific prior knowledge of science as the course is designed to be accessible to anyone with an interest in the subject. During the course we will explore all the major topics including:</p><p><strong style=\"\">Networks Overview: </strong>In this first section to the course we are going to give an overview to network theory that will also work as an overview to the structure of the course and the content we will be covering. We talk about what we called the network paradigm that is the whole new perspective that network theory offers when we look at the world through the lens of connectivity.</p><p><strong style=\"\">Graph theory: </strong>In this second section we lay down the basics of our language for talking about graphs by giving an introduction to graph theory, we talk about a node&#039;s degree of connectivity and different metrics for analyzing a nodes degree of centrality and significance within a network</p><p><strong style=\"\">Network Structure: </strong>In the third section we explore the overall topology to a network by talking about connectivity, that is how connected the whole network is, diameter, density and clustering all key factors in defining the overall structure to a network.</p><p><strong style=\"\">Types Of Networks: </strong>In this section we will be looking at different models to networks by starting out with a randomly generated network we will see how most network are in fact not random but have some distinct structure, here we will be talking about a number of different models such as centralized scale free networks and the small world phenomena.</p><p><strong style=\"\">Network Diffusion &amp; Dynamics: </strong>In the last section to the course we touch upon how networks change over time, in particular looking at the different parameter affecting the generation of a network, how something spreads or fails to spread across it and finally wrap-up by talking about network robustness and resilience.</p>", 
+    "end_date": null, 
+    "title": "Network Theory: Introduction", 
+    "price": "20.00", 
+    "instructors": "Complexity Academy", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/456210_ae7d_2.jpg", 
+    "course_url": "https://www.udemy.com/network-theory-introduction/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-24T22:47:42Z"
+}

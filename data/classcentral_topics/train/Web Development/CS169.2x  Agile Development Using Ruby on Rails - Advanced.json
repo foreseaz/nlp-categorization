@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Part 2 of the UC Berkeley Agile Development Using Ruby on Rails XSeries Program will teach you to use JavaScript to enhance applications and create more sophisticated apps by adding relationships between models within the Ruby on Rails framework. You will also learn about what happens after the apps are deployed to real users, including how to monitor performance, identify and fix common performance problems, and avoid compromising customer data. Finally, learners will see how to apply Agile techniques to enhance and refactor legacy code and practice app deployment to real users to monitor performance, identify and fix common performance problems, and avoid compromising customer data. \n\n \n\nOther topics covered in this software engineering course include:\n\nHow to form, organize and manage small programming teams\n\tIntroduction to design patterns: what they are and how to recognize opportunities to apply them\n\tUsing Rails for more advanced features like third-party authentication and elegantly expressing design patterns that arise frequently in SaaS\nThere will be three homework assignments: two programming assignments and one assignment about operations/deployment. There will also be several short quizzes. The videos and homework assignments used in this offering of the course were revised in October 2013.\n\n                                    ", 
+    "end_date": "2017-03-21T00:00:00Z", 
+    "title": "CS169.2x: Agile Development Using Ruby on Rails - Advanced", 
+    "price": 0, 
+    "instructors": "Armando Fox and David Patterson", 
+    "institution_name": [
+        "University of California, Berkeley"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x", 
+    "duration": "26 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-09-20T00:00:00Z"
+}

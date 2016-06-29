@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Math & Science"
+    ], 
+    "description": "<p>The goal of this course is for you (an absolute beginner) to learn all the fundamentals of Electrical Engineering in the most simple, effective and fast way. Instead of giving you every information at the beginning and bore you with all the details, <strong>I will add information as you start to question and start to need it</strong>. This is proven to be the best way to learn languages and I believe it's the best way to learn anything. <strong>So please ask questions and learned actively!</strong></p>\n\n<p>This course starts with explaining what all the sub-fields in Electrical Engineering (e.g. Signal Processing, Control System, Power System, Telecommunication, Photonics, Microelectronics) are and what Electrical Engineers do. Then you will learn the characteristics of the most basic and common components used in Electrical Engineering (i.e. resistors, capacitors, inductors, power supplies, voltmeters and ammeters). Before you can understand Ohm’s Law and DC Circuit Analysis (e.g. Kirchoff’s Voltage Law and Kirchoff’s Current Law), I will demonstrate what electrical voltage, current, charge and power means with examples. \n\n  </p>\n\n\n\n\n\n\n\n<p>The second section of the course covers active circuit elements (i.e. operational amplifiers, diodes and transistors). You will learn their characteristics and typical applications. Then we will revisit the passive components and see how they behave in AC circuits. In this part, you will learn why complex numbers exist in AC circuits, how to perform complex number algorithms, and what phase shift is. The last part of this section focuses on power generation, losses and distribution. Here we will introduce fuses and transformers.\n\n  </p>\n\n\n\n\n\n\n\n<p>Lastly, we will look at practical circuits and follow a few guidelines to help you start building your own circuits. </p>\n\n\n\n", 
+    "end_date": null, 
+    "title": "Introduction to Electrical Engineering", 
+    "price": "20.00", 
+    "instructors": "Jung-Chang Liou", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/863716_6032_4.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-electrical-engineering/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-30T14:33:33Z"
+}

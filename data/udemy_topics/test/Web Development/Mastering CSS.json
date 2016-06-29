@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">CSS is a deceptively simple presentation language that has significantly developed over the last few years. Frontend developers need to keep style sheets manageable and organized by taking a modular approach to building a website. They can either wrestle with it, or learn how to master it in order to easily apply layouts and styles with precision.</p><p style=\"\">This web development video course has been designed to help you build your knowledge of CSS and master one of the most valuable tools in modern web design.</p><p style=\"\">We start off with a brief review of the foundations of CSS by using a good text editor to automate your authoring and set up a CSS baseline. We then move on to creating a layout with floats and a functioning menu with dropdowns, taking a modular-organized approach to CSS. We&#039;ll also go into detail about CSS3 properties such as transforms, transitions, and animations. By the end, you&#039;ll have an understanding of responsive web design, web fonts, icon fonts, and techniques used to support retina devices; all things a modern frontend web developer must know.</p><p style=\"\">We deep dive into a lot of details of CSS in this course, from creating a modern looking ghost button and a big call-to-action button to the supposedly difficult and scary SVG. Mastering CSS will arm you with all the knowledge, tips, and tricks you need to make you stand out in the world of developing complex, responsive, feature-rich web applications.</p><p style=\"\"><strong style=\"\">About the Author</strong></p><p style=\"\"><strong style=\"\">Rich Finelli </strong>is a husband and a father living in Piscataway, NJ, working as a frontend developer. He&#039;s truly passionate and excited for all frontend technologies and enjoys learning about web design and development. He also teaches two courses on CSS at Mercer County Community in NJ, and writes about web design on his blog.</p>", 
+    "end_date": null, 
+    "title": "Mastering CSS", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/530092_a8b2_3.jpg", 
+    "course_url": "https://www.udemy.com/mastering-css/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-17T06:35:25Z"
+}

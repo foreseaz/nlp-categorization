@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Bioinformatics"
+    ], 
+    "description": "\n\n                    \n                    \n                    Biostatistics is the application of statistics to different topics in biology including medicine, pharmacy, public health science, agriculture and fishery. It involves the analysis of data from experiments; its interpretation and drawing conclusion from the results. It is very relevant to all UG and PG level degree programmes majoring in Biotechnology and allied fields as well as practicing scientists. It involves the application of statistical theory to real-world problems, the practice of designing and conducting biomedical experiments and clinical trials. Design of experiments is planning experimental strategy, screening a large number of parameters and selecting the important ones, determining the minimum number of experiments and deciding on the mode and manner in which experiment have to be conducted. The course encompasses topics such as distribution of data, sample size, tests of significance, data reduction, regression analysis, comparison of performance of drugs in clinical trials, design of experiments, screening and second order designs. \n\n                                            Syllabus\n                        Module 1 Introduction to statistics (various distributions)Normal distribution Sample and populationSample and population\r\nModule 2 Z distributionZ distribution/confidence intervalTests of significance – t testTests of significance – t test\r\nModule 3 Tests of significance – t testTests of significance – t testTests of significance – t testTests of significance – t test\r\nModule 4 F testANOVA\r\nModule 5 2 test/Odds ratioNon parametric testsOther tests\r\nModule 6 Design of experiment- introductionDesign of experimentScreening designsScreening design - Data analysis\r\nModule 7Screening design - Data analysisHigher order designsHigher order designsHigher order designs\r\nModule 8 Regression analysisRegression analysisData reductionData reduction\n                                    ", 
+    "end_date": "2016-03-14T00:00:00Z", 
+    "title": "Biostatistics and Design of experiments", 
+    "price": 0, 
+    "instructors": "Mukesh Doble", 
+    "institution_name": [
+        "IIT ( Indian Institute of Technology Madras)"
+    ], 
+    "commitment": "2-3 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://onlinecourses.nptel.ac.in/noc16_bt01/preview", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "NPTEL"
+    ], 
+    "start_date": "2016-01-18T00:00:00Z"
+}

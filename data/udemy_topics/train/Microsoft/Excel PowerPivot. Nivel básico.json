@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t En este curso de PowerPivot 2013 nos introduciremos en el manejo de PowerPivot para Excel 2013, dándole a conocer las posibilidades y funciones básicas que ofrece éste complemento, tales como procesar millones de filas con casi el mismo rendimiento que mil filas, sacar el máximo partido de los procesadores de varios núcleos, integrar datos procedentes de muy diversos orígenes y analizar de forma interactiva mediante las funciones nativas de Excel 2013 para crear tablas dinámicas espectaculares. PowerPivot es un complemetno de Excel 2013 que se puede usar para realizar un análisis de datos eficaz y crear modelos de datos sofisticados. PowerPivot permite combinar grandes volúmenes de datos de orígenes diferentes, realizar análisis de la información rápidamente y compartir puntos de vista con facilidad.  </p>", 
+    "end_date": null, 
+    "title": "Excel PowerPivot. Nivel básico", 
+    "price": "20.00", 
+    "instructors": "Trazos_TV Videoformación online especializada en diseño digital", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/172690_7941_2.jpg", 
+    "course_url": "https://www.udemy.com/excel-powerpivot-nivel-basico/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-25T11:55:42Z"
+}

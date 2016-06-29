@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>If you are new to programming and unfamiliar with concepts such as files and variables, this course is where you should begin. </p><p>The course will give you an overview of the topics within SAS programming </p><p><strong>Learn how to</strong></p><ul><li>plan and write simple SAS programs to solve common data analysis problems</li><li>create simple list reports</li><li>define new data columns (variables)</li><li>execute conditional code.</li></ul><p>Who should attend Beginning computer users who want to write simple SAS programs Prerequisites No SAS experience or programming experience is required although you should have some computer experience and the need/desire to learn how to program beyond point-and-click techniques. Specifically, you should be able to</p><ul><li>log on and off a computer</li><li>use a keyboard or mouse</li><li>identify the operating system you use or will use to access the SAS System.</li></ul>", 
+    "end_date": null, 
+    "title": "SAS Overview", 
+    "price": 0, 
+    "instructors": "Jigar Vora", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/577654_2670_7.jpg", 
+    "course_url": "https://www.udemy.com/sas-overview/", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-08T20:51:17Z"
+}

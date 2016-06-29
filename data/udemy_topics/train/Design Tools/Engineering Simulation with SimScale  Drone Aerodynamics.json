@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>The cornerstone of this course is engineering simulation and I will use an example focusing on the aerodynamics of drones to teach you how simulation can be incorporated in engineering and design.  </p>\n\n<p>For this course, we will be using SimScale, which is a browser-based software. The platform can be directly accessed at www.simscale.com </p>\n\n\n\n\n\n\n\n\n\n\n\n<p>We will start off the course with a very short introduction to aerodynamics and how a propeller works.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>Then we will jump into creating the physics-based simulation of a 3D printed mini quadcopter using SimScale. </p>\n\n\n\n\n\n\n\n\n\n\n\n<p>To conclude the course we’ll take what we have learned and discuss how engineering simulation can be used to optimize the design of the propellers. In the hand-on exercises you will be using SimScale to simulate the quadcopter with 2 different propeller designs so that we can compare their aerodynamic performance.</p>\n\n\n\n\n\n\n\n<p>Prior knowledge of basic engineering concepts and CAD design are helpful but not required for success in this course.</p>", 
+    "end_date": null, 
+    "title": "Engineering Simulation with SimScale: Drone Aerodynamics", 
+    "price": 0, 
+    "instructors": "Anna Flessner", 
+    "commitment": "32 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/770362_e8fa.jpg", 
+    "course_url": "https://www.udemy.com/engineering-simulation-with-simscale-drone-aerodynamics/", 
+    "subject_name": [
+        "Design Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-22T09:31:05Z"
+}

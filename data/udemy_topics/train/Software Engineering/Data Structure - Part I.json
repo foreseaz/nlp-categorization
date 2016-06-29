@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Data Structures is a core course in a typical undergraduate Computer Science course. The topics covered in the course are among the most fundamental material in the field of computer science. Yo become a successful computer scientist or software programmer, you should have strong understanding of Data Structure and this course will polish your skills.</p><p>In this course we will work together and implement well-known data structures such as dynamic arrays, linked lists, stacks, queues, tree and time complexity analysis.</p><p>We tried our best to designed this course to be easily understood by absolute beginners. </p>", 
+    "end_date": null, 
+    "title": "Data Structure - Part I", 
+    "price": 0, 
+    "instructors": "Log(n)  Academy", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/447758_7825_3.jpg", 
+    "course_url": "https://www.udemy.com/data-structures-part-1-lognacademy/", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-15T10:20:15Z"
+}

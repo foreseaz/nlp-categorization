@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Every current web designer will most likely have mastered CSS long ago. But believe it or not, some have not yet realised the enormous benefits Sass can add to CSS – for one thing, it opens up a whole range of features not available in CSS. Couple that with the fact that it makes CSS concise and readable, and it's a sure fire way to make CSS better as well as more fun!</p><p><b>Learn the Most Powerful CSS Extension Language in the World</b></p> <ul><li>Compile and work with the core features of Sass<b></b></li> <li>Learn a stylesheet language compatible with any CSS version<b></b></li> <li>Organise your CSS to make it more readable <b></b></li> <li>Configure Sass for development and master CSS efficiency<b></b></li></ul> <p><b>Course Overview</b></p><p>This course is intended for web designers, web developers, and anyone else who already has a working knowledge of CSS. It does not cover Sass installation or configuration of a text editor, but instead jumps straight ahead to working with practical, real world examples of Sass in action. Therefore this course is not suitable for students who have limited or no knowledge of CSS.</p><p>During this course you will get to grips with core features of Sass like variables, inheritance, nesting and mixins, amongst others. You will learn how to build alert panels, how to configure Sass for development, and how to master CSS efficiency with Sass, making your code more readable and more concise.</p><p>After just 40 minutes, you will finish up this course with a solid knowledge of Sass which you will be able to implement immediately. And better yet, you will have rediscovered what made CSS fun in the first place!</p><p><b>About Sass</b></p><p>Sass (Syntactically Awesome Stylesheets) is a stylesheet scripting language, first emerging in 2007 and now used all over the web. Industry approved, compatible with all versions of CSS, and with more features and abilities than another CSS extension language, it's the most stable and powerful language of its kind in the world. By mastering Sass, you'll be able to create effortless and beautiful websites with a sleek, professional look. </p>", 
+    "end_date": null, 
+    "title": "Introduction to Sass for CSS", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "42 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/493856_a908_3.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-sass-for-css/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-05T04:14:25Z"
+}

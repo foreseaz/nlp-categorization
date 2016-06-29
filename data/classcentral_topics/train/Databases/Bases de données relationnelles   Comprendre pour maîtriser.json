@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Databases"
+    ], 
+    "description": "\n\n                    \n                    \n                    Les systèmes de gestion de bases de données relationnels (SGBDR), avec des produits phares comme le système commercial Oracle Serveur, ou un open source comme MySQL, font partie des logiciels les plus populaires au monde. Le Mooc \"Bases de données relationnelles : comprendre pour maîtriser\" ( #BADOR ) a pour ambition d’expliquer comment fonctionnent ces systèmes. Il permettra à leurs utilisateurs de mieux les maîtriser, notamment en comprenant les problèmes de performance que ces systèmes peuvent rencontrer.\n\n                                            Syllabus\n                        Semaine 1: Transactions et concurrenceUne application qui utilise un SGBD doit pouvoir fonctionner (i) sans courir de risque en cas de panne, et (ii) sans être perturbée par d’autres applications qui s’exécutent en même temps. Nous présenterons le concept fondamental pour garantir que c’est le cas, la transaction, et des techniques pour garantir que plusieurs applications ne puissent se gêner mutuellement.Semaine 2: IndexationUn index permet de retrouver une information élémentaire dans une grande collection. Nous présenterons les deux structures de données les plus standards pour implémenter efficacement des index, l’arbre B, et la table de hachage. Ces structures sont au cœur de l’optimisation de requêtes que nous considèrerons dans la semaine suivante.Semaine 3: Exécution et optimisationUne des fonctionnalités les plus puissantes et les plus appréciables des SGBD est leur capacité à engendrer à la volée un programme d’évaluation très performant quand une requête leur est soumise. Cela décharge l’utilisateur de cette tâche complexe, et surtout cela garantit une adaptation constante aux ressources disponibles et au contexte. Nous expliquerons comment une requête SQL est transformée en un plan d’exécution, les principaux opérateurs constituant ce dernier, et les méthodes d’optimisation pour arriver au meilleur plan possible.Semaine 4: Contrôle d’accèsLe contrôle d'accès permet de définir qui a le droit d'accéder à certaines informations de la base, afin d'assurer la confidentialité des données.Semaine 5: Reprise sur panneUn système informatique est sujet aux pannes, qui peuvent être légères (coupure électrique) ou graves (dégradation générale ou locale d’un disque). Un des rôles des SGBD est d’assurer la pérennité des données, même en cas de panne. Nous expliquons les techniques et méthodes permettant de reprendre le fonctionnement d’un SGBD après une panne, en garantissant l’absence de perte de donnéesSemaine 6: Bases de données distribuéesLes données d’une application sont très souvent distribuées entre plusieurs systèmes. Le but de cette partie est d’expliquer pourquoi, dans le cadre de la gestion de données, on distribue des données ou des calculs entre plusieurs machines, et comment une telle distribution est réalisée.\n                                    ", 
+    "end_date": "2016-02-29T00:00:00Z", 
+    "title": "Bases de données relationnelles : Comprendre pour maîtriser", 
+    "price": 0, 
+    "instructors": "Philippe Rigaux, Benjamin Nguyen and Serge Abiteboul", 
+    "institution_name": [
+        "Inria (French Institute for Research in Computer Science and Automation)"
+    ], 
+    "commitment": "3-5 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.france-universite-numerique-mooc.fr/courses/inria/41008/session01/about", 
+    "duration": "6 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "France Université Numerique"
+    ], 
+    "start_date": "2016-01-18T00:00:00Z"
+}

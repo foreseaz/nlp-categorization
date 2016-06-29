@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>Processingを用いてオブジェクト指向プログラミングを行います。具体的にはボールのオブジェクトを作成し運動のシミュレーションを行います。これらの学習を通じて科学的思考を養っていきます。</p>\n\n<p>Ex-Gram（エクスグラム）プログラミング実教室での延べ1000人・時間にわたる指導経験をベースにした豊富なサイエンスビジュアルコンテンツで楽しく学べます。</p>\n\n<p>Ex-Gram（エクスグラム）プログラミング実教室のコースとの対応は下記のとおりです。<br>初級Aコース 「Scratchで学ぶ科学的思考プログラミング」 前編、後編<br>初級Bコース 「プログラミングで科学を学ぼう！」 Vol.1, 2<br>中級1Aコース 「プログラミングで科学を学ぼう！」 Vol.3, 4, 5<br>中級1Bコース 「プログラミングで科学を学ぼう！」 Vol.6, 7, 8<br>中級2Aコース 「プログラミングで科学を学ぼう！」 Vol.9, 10, 11<br>中級2Bコース 「プログラミングで科学を学ぼう！」 Vol.12, 13, 14<br>上級Aコース 「プログラミングで科学を学ぼう！」 Vol.15, 16<br>上級Bコース 「プログラミングで科学を学ぼう！」 Vol.17, 18</p>", 
+    "end_date": null, 
+    "title": "プログラミングで科学を学ぼう！ Vol. 10", 
+    "price": "25.00", 
+    "instructors": "平山 雄三", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/865944_cdaa.jpg", 
+    "course_url": "https://www.udemy.com/ex-gram-vol-10/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-01T16:42:21Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Necesitas iniciarte en el mundo del código? <em><strong>Python</strong></em> es un lenguaje de fácil comprensión y estructura simple que puede otorgarte los fundamentos para explorar lenguajes mas complejos. Ademas todo el curso esta conformado en <em>idioma Español</em>, podrás tener un mejor entendimiento, <strong>preguntar y tener respuestas en tu idioma</strong>. El idioma ingles ya no sera un impedimento para aprender a Programar.</p><p>En este curso te mostrare lo simple que es la sintaxis de Python y porque es una de las mejores opciones si estas iniciando en lenguajes de programación. Te mostrare también las funciones básica, ciclos o loops, condicionales y la generación de Clases para hacer las rutinas mas flexibles y de esta manera reducir el numero de lineas de código.</p><p>Estaremos utilizando un programa adicional que nos ayudara a escribir el código ya que utiliza de manera automática multiples colores para identificar palabras clave, variables o nombres de funciones, al mismo tiempo que cuenta con texto productivo que nos ayudara a prevenir errores o ahorrar tiempo en exhibir palabras completas.</p><p>Python puede ejecutarse en casi todos los sistemas operativos, en este caso me estaré enfocando en los sistemas Mac y Windows.</p><p>Python es un lenguaje diseñado en EEUU, por lo que todas las instrucciones fueron creadas en idioma ingles y es por ello que se dificulta para muchos de nosotros el aprender Programación, sin embargo trato de explicar su operación y aplicación en español para después escribir nuestras lineas.</p><p>Por naturaleza Python incluye su propio editor de código, pero la aplicación que estaremos utilizando nos facilita su escritura, ejecución y detección de errores.</p><p>Tendremos un pequeño muro de comentarios y/o consultas donde estaré en comunicación directa contigo para aclarar tus dudas y que este curso sea de tu entera satisfacción y comprensión.</p>", 
+    "end_date": null, 
+    "title": "Aprende Python en Español", 
+    "price": "25.00", 
+    "instructors": "Ing. Heriberto Garcia", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/624922_60c6_5.jpg", 
+    "course_url": "https://www.udemy.com/aprende-python-en-espanol/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-28T17:43:31Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p></p><p><strong style=\"\">An  Advanced Java Tutorial</strong><strong style=\"\"> aimed </strong><strong style=\"\">towards</strong><strong style=\"\">  the Developer Who Already </strong><strong style=\"\">has</strong><strong style=\"\">  Learned the Fundamentals of Java Programming.</strong></p>    <p>In this Advanced  Java Programming training course, expert content provider  Infinite Skills builds on the beginners Java course, and goes deeper into  programming topics that help you to understand these more advanced Java  concepts. Designed for the more experienced Java developer, you should have a  good working knowledge of the Java programming language before going through  this tutorial.<br style=\"\">  <br style=\"\">  Some of the advanced topics that you will cover in this <strong style=\"\">Advanced  Java Tutorial</strong>includes;  generic programming, sequential and associative data structures, classic data  structures, sorting and searching, exception handling, database programming  with JDBC, networking programming GUI development using Swing and an overview  of Multithreading. You will also explore Java Applets, web applications  (Servlets), advanced input and output classes, more advanced strings, regular  expressions, Java graphics, and finally, closing off with a look at using  Eclipse.<br style=\"\">  <br style=\"\">  By the conclusion of this training course, you will have a clear understanding  of each of the topics of Advanced Java Programming, which will allow you to  go more in-depth with the concepts of your choice. Working files are included  to allow you to learn the concepts using the same files that the author does  throughout this computer based training course.</p>&lt;/p&gt;  ", 
+    "end_date": null, 
+    "title": "Advanced Java Programming", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/28373_c170_9.jpg", 
+    "course_url": "https://www.udemy.com/advanced-java-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-11-01T16:35:48Z"
+}

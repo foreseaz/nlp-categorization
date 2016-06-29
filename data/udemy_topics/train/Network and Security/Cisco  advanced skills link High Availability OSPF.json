@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">we have learned to set up links with high redundancy dynamic routing protocol OSPF also have conducted verification tests which occur in the reality of any company.</p><p style=\"\">The network administrator will be in charge of giving priority to the link that provides the best performance</p><p style=\"\">at end of the course: </p><p style=\"\">You will be able to configure OSPF with Link Redundancy</p><p style=\"\">configure Redundancy Link high availability</p><p style=\"\">You will be able to test routes principal and backup</p><p style=\"\">the student will be able to configure and verify that the configured network does not have any logical failure and network traffic is not interrupted</p><p style=\"\">This lab works on any Cisco ios</p>", 
+    "end_date": null, 
+    "title": "Cisco: advanced skills link High Availability OSPF ", 
+    "price": "20.00", 
+    "instructors": "Rafael Palacios Lopez", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/489868_9d55_5.jpg", 
+    "course_url": "https://www.udemy.com/redundancy-with-ospf-high-availability-link/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-29T22:46:24Z"
+}

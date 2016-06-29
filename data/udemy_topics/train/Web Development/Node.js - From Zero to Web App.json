@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>To a certain extent, it can seem as though different programming languages are only suitable for a specified set of tasks, like building apps or analysing data. If you feel as though you need to be fluent in several in order to get anywhere in the coding world, think again. Node.js is a very versatile (and very popular) language that, if you add it to your skill set, is guaranteed to open doors. Create real time web apps, build APIs, streaming applications or CPU intensive apps, and do it all quickly and efficiently.   \n\n  </p>\n\n<p> <strong>Future-Proof Your Web Development Skills</strong></p>\n\n\n\n<p> ·         Code a Node.js project with an online IDE</p>\n\n\n\n<p>·         Learn how Node.js works with Gulp, Bootstrap, GIT, Express, and NPM Bower\n\n  </p>\n\n\n\n<p>·         Add a NoSQL database to a Node.js project\n\n  </p>\n\n\n\n<p>·         Understand routing, packages, templating engines, UI dependencies and more\n\n  </p>\n\n\n\n<p>·         Gain a thorough knowledge of web development with Node.js\n\n  </p>\n\n\n\n<p> <strong>Develop Web Applications with Node.js</strong></p>\n\n\n\n<p><strong> </strong>This Node.js fundamentals online course contains 48 lectures and over 3 hours of content. Although designed for beginners with some web development experience under their belt, those new to coding will be able to pick it up without much difficulty. The goal is simple; learn how to get your node.js web app projects up and running.</p>\n\n\n\n<p> The course will start off with an overview of what Node.js is and isn't, and what it can and can't do. Once that's covered, you'll begin working with Express and start coding your own Node web app with the help of Bootstrap, Gulp, Node templating engines and express routing. You'll also cover how to use a database with Node.js. By the end of the course, you will have coded your first web app with Node.js and learned everything you need to know to get your own projects started.</p>\n\n\n\n<p> Whether you're an IT professional or a hobbyist, this course will give you a solid understanding of how Node.js web applications work and how they're designed, administered, and developed. Web developers as well as UI designers, testers and administrators are guaranteed to find it useful.</p>\n\n\n\n<p> <strong>Tools Used</strong></p>\n\n\n\n<p><strong> </strong>Node.js was launched in 2009, initially only supported by Linux. Now cross-platform, it is a runtime environment for developing server-side web applications, and many of its basic modules are written in JavaScript. Basically, it builds the server sides of websites (like PHP), but it's capable of much more. It's highly scalable and very efficient, and in short, it's going places.</p>", 
+    "end_date": null, 
+    "title": "Node.js - From Zero to Web App", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/794896_bdfe_2.jpg", 
+    "course_url": "https://www.udemy.com/fundamentals-of-nodejs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-16T16:56:59Z"
+}

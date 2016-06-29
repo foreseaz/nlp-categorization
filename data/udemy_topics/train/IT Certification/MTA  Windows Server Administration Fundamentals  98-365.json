@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t      Statistics on the Microsoft Certification website indicate that <strong style=\"\">91% of hiring managers consider certification</strong> as part of their hiring criteria  </p>  <p>  \t      Microsoft Technology Associate (MTA) is <strong style=\"\">a recommended entry point</strong> into  IT certification. Pass just one exam and you&#039;ll earn  a certification!  </p>  <p>  \t      The main benefit to earning a Microsoft Certification is that it shows  potential employers/hiring managers that you have the necessary  requirements and skills to be the perfect candidate for the job.  </p>  <p>  \t      In this course you will learn <strong style=\"\">all you need to know to pass the exam</strong> and <strong style=\"\">apply your skills in the real world</strong> scenarios.  <strong style=\"\">NEW! <em style=\"\"></em>Cheat Sheets and exam tips included!<em style=\"\"></em></strong></p>  <ul style=\"\">  \t<li>Overview of Microsoft Server Solutions</li>  \t<li>Labs with step-by-step instructions</li>  \t<li>Real world examples</li>  \t<li>Detailed lectures on Active Directory</li><li>Users, Groups, Permisions and Policies</li>  \t<li>Virtualization, Remote Access, Security, Storage...</li><li>Detailed <strong style=\"\">Cheat Sheets </strong>to help you pass the exam.<strong style=\"\"></strong></li>  </ul>  <p>  \t      You will find almost all support roles in IT require some Microsoft skills. It is especially <strong style=\"\">important to have a good grasp of Windows Servers</strong>, every day thousands of new servers go live and require a certified engineer to deploy, support and maintain the infrastructure.  </p>  <p>  \t      The course is perfect for anyone who seeks to learn the fundamental Microsoft Server concepts.  </p>  <p>  \t<strong style=\"\">Contents and Overview</strong>  </p>  <p>  \t      In over 6 hours of content including more than 50 lectures, this course covers the basics of Windows Server 2008 and Windows Server 2012. Each chapter closes with a quiz to make sure you can practice exam questions and test your knowledge before moving to the next section.  </p>  <p>  \t      We start from scratch discussing an installation process, basic configuration and we move to roles and features like Hyper-V, Remote Access, Active Directory, Storage and Printer.  </p>  <p>  \t      There is a section dedicated to maintenance and troubleshooting - skills you need to have if you want to apply for a job and work with Microsoft Servers.  </p>  <p>  \t      Students completing the course will have the knowledge to install and manage a Windows Server 2008/2012 including basic troubleshooting. You&#039;ll also receive bonus materials that reinforces the concepts you&#039;ve learned including cool and funny animations. A lot of real world examples help you apply your skills and make difficult topics much easier to understand.  </p>  <p>  \t<strong style=\"\">Stand out from the crowd, learn the fundamentals of Windows Server and pass the MTA exam</strong>.  </p>", 
+    "end_date": null, 
+    "title": "MTA: Windows Server Administration Fundamentals: 98-365", 
+    "price": "20.00", 
+    "instructors": "Marious Kuriata", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/315996_fb7d_5.jpg", 
+    "course_url": "https://www.udemy.com/mta-windows-server-administration-fundamentals/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-08T18:43:37Z"
+}

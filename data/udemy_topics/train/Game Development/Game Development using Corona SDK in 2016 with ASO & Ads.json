@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<h4 style=\"\"><strong style=\"\"> Overview </strong></h4>  <p style=\"\">  \t                       Have you ever wanted to learn how to build a mobile game? Then this course is for you! Game Development with Corona SDK will skip past the boring &#039;Hello World&#039; examples and you&#039;ll jump right into making a game that will be sure to make an impact in the app stores.  </p>  <p style=\"\">  \t                You&#039;ll learn to make a game that pits Ninjas against Pirates in a time classic battle. This game features animated characters, an intuitive playing style, an upgrade system, and in-game currency.  </p>  <p style=\"\">  \t                Once the game is built, you&#039;ll turn your focus on monetization. Generating revenue from your games is something that&#039;s overlooked in other courses and this course will make sure monetization is a main focus point. We&#039;ll look at paid options as well as in-app advertising options using Corona SDK.  </p>  <hr style=\"\">  <h4 style=\"\"><strong style=\"\">You&#039;ll learn how to: </strong></h4>  <ul style=\"\">  \t<li>Develop a fun and interactive mobile game</li>  \t<li>Learn the easy way to publish your game on multiple app stores - iTunes, Google Play, Amazon, and more!</li>  \t<li>Explore ways to generate revenue from your games</li>  \t<li>Learn where to find free game art</li>  \t<li>Discover sources for free music</li>  \t<li>Get briefed on ASO - app store optimization</li>  </ul>  <p style=\"\">  \t   If you&#039;ve ever wanted to build your own mobile game and you don&#039;t want another boring course on variables or loops, then this course is for you. Imagine the possibilities of being able to create your own games for customers around the world!  </p>  <hr style=\"\">  <h4 style=\"\"><strong style=\"\"> What You&#039;ll Need</strong></h4>  <p style=\"\">  \t              This course takes advantage of Corona SDK. Corona SDK is a great platform to quickly bring your ideas to life and you&#039;ll need to have a basic understanding of Corona SDK along with the latest public build. This course will walk you through some of the basics and where to download Corona SDK, but your focus will be on topics that are beyond variables and your basic if-then statement.  </p>", 
+    "end_date": null, 
+    "title": "Game Development using Corona SDK in 2016 with ASO & Ads", 
+    "price": "25.00", 
+    "instructors": "Daniel Williams", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/427062_af72_4.jpg", 
+    "course_url": "https://www.udemy.com/game-development-with-corona/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-19T17:43:46Z"
+}

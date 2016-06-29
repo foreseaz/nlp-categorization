@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t  This is PART 1 of a two part course looking at the new features of Java 8.  </p>  <p style=\"\">  \tIn this part, we take an in-depth look at lambdas and their supporting features; things like functional interfaces and type inference. In the follow up course (PART 2), we look at the remaining features.  </p>  <p style=\"\">  \tAfter watching this course, you&#039;ll  </p>  <ul style=\"\">  \t<li style=\"\">Have an overview of new features in Java 8</li>  \t<li style=\"\">Understand lambdas in-depth, their background, syntax, implementation details and how and when to use them</li>  \t<li style=\"\">Understand the difference between functions to classes and why that&#039;s relevant to lambdas</li>  \t<li style=\"\">Understand the difference between lambdas and closures</li>  \t<li style=\"\">Appreciate the improvements to type inference that drive a lot of the new features</li>  \t<li style=\"\">Be able to use method references and understand scoping and &quot;effectively final&quot; </li>  \t<li style=\"\">Understand the differences in bytecode produced when using lambdas</li>  \t<li style=\"\">Be able to reason about exceptions and exception handling best practice when using lambdasvariables</li>  </ul>  <p style=\"\">  \tSo whether you&#039;re migrating existing Java programs to Java 8 or building applications from scratch, this course will help you start to leverage the power of functional programming on the Java platform.  </p>", 
+    "end_date": null, 
+    "title": "What's New in Java 8: Lambdas", 
+    "price": "50.00", 
+    "instructors": "Toby Weston", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/165236_545e_4.jpg", 
+    "course_url": "https://www.udemy.com/whats-new-in-java-8/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-16T17:33:51Z"
+}

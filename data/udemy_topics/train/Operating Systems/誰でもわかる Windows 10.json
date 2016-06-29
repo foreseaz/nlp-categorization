@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>まずは、Windows 10を操作するために必要な、デスクトップとスタートメニューとエクスプローラーの各部名称と主だった機能を覚えます。そして、スタートメニューからのアプリの起動方法、スタートメニューに内包されたスタート画面やタスクバーにアプリをピン留めして、素早くアプリを起動させる方法や、スタート画面を使いやすくカスタマイズする方法を覚えます。次に、基本的なWindows 10の操作を覚えます。ウィンドウの特性とサイズの変更など基本的な操作方法、一般的なアプリの終了時にデータを保存する方法、基本的なフォルダーとファイルの操作方法、アプリやファイルだけでなくWindowsの機能も探せる検索ボックスの使い方、複数のデスクトップを管理できる便利なタスクビューについてわかるようになります。最後は、Windows 10の様々な設定の方法を覚えます。デスクトップの背景を変更する方法や、ロック画面にアプリを表示させる方法、アカウントの画像を変更したり、アカウントを追加したりする方法などについてもわかります。</p>", 
+    "end_date": null, 
+    "title": "誰でもわかる Windows 10", 
+    "price": "20.00", 
+    "instructors": "アテイン 株式会社", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/726412_7471.jpg", 
+    "course_url": "https://www.udemy.com/windows-10-tsukaikata/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-13T03:30:28Z"
+}

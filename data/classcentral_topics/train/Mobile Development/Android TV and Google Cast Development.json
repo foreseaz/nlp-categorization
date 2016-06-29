@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Go where your users are: the living room! With Google Cast and Android TV, you can add a big screen and cinematic experience to your app. This course shows you how to extend your existing Android app to work on Android TV and Google Cast. You can take advantage of both technologies without having to rewrite your app.\n\nThis course is part of the Ubiquitous Computing series. Designed as standalone short courses, you can take any course on its own, or take them all!\n\n* Android Wear Development\n* **Android TV and Google Cast Development** [this course]\n* Android Auto DevelopmentWhy Take This Course?By adding Google Cast functionality to your app, you can increase engagements and monetization. For example, Comedy Central found that Chromecast users watch 50 percent more videos and make 1.5 more visits to their app, than their average users. Likewise, Haystack TV found that Android TV users watched 80 minutes of video per week, vs. just 40 for mobile-only users. The best part for developers is that both Google Cast and Android TV come with extensive libraries that do most of the heavy lifting for you.\n\n                                            Syllabus\n                        ### Introduction \nOverview of the course structure and goals, and introduction to the sample app. \n\n### Living Room \n#### Part 1: Google Cast for Chromecast and TV\n#### Part 2: Going Deeper with Android TV \n#### Part 3: Gaming with Android TV \nOverview of Android TV platform, and Google Cast for Chromecast and TV.\n                                    ", 
+    "end_date": "2015-09-03T00:00:00Z", 
+    "title": "Android TV and Google Cast Development", 
+    "price": 0, 
+    "instructors": "", 
+    "institution_name": [
+        "Google"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.udacity.com/course/android-tv-and-google-cast-development--ud875B?utm_medium=referral&utm_campaign=api", 
+    "duration": "1 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2015-08-27T00:00:00Z"
+}

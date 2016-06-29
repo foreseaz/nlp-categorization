@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This Learning vi course is designed for the basic level user.</p><p>You will master some basic commands as well as some of the power user commands.</p><p>You can apply what you learn to all Linux/Unix systems including Ubuntu, Debian, RedHat, Fedora and more </p><p>Learn the basics to advance vi commands</p><p>The course is for anyone who wishes to learn more vi commands.</p>", 
+    "end_date": null, 
+    "title": "UNIX/Linux: Learning vi", 
+    "price": "20.00", 
+    "instructors": "Russ Hill, Sam Gill", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/560754_8837_3.jpg", 
+    "course_url": "https://www.udemy.com/unixlinux-learning-vi/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-21T18:26:14Z"
+}

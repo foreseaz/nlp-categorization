@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Der erfahrene Programmier-Trainer Thomas Theis vermittelt Ihnen besonders anschaulich die Grundlagen der Programmierung mit C++. Sie starten mit dem Klassiker »Hallo Welt!« und erfahren, wie Sie ein Programm kompilieren und ausführen. Film für Film lernen Sie dann alle Programmierkonzepte kennen – von Datentypen und Kontrollstrukturen über Zeiger bis hin zur Objektorientierung. Sie programmieren die Beispiele direkt am Bildschirm mit, um das Gelernte sofort anzuwenden. Bei Bedarf springen Sie jederzeit zurück und können den Stoff leicht wiederholen oder vertiefen.</p><p>- Von den Grundlagen bis zur Objektorientierung</p><p>- Inkl. Standard Template Library und GUI-Entwicklung mit Qt</p><p>- Mit allen Beispielprogrammen zum Mitmachen auf DVD</p><p>Thomas Theis, Dipl.-Ing. für Technische Informatik, verfügt über langjährige Erfahrung als EDV-Dozent, unter anderem an der Fachhochschule Aachen und als Ausbilder für Fachinformatiker. Er leitet Schulungen zu C/C++, Visual Basic und Webprogrammierung. Als langjähriger Programmiertrainer weiß er um die vielen Stolperfallen, mit denen Einsteiger konfrontiert werden. Seine Spezialität sind daher besonders anschauliche Beispiele aus der Praxis, die zum Nachprogrammieren einladen.<br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Einstieg in C++: Das Praxis-Training", 
+    "price": "40.00", 
+    "instructors": "Rheinwerk Verlag", 
+    "commitment": "13.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/455278_9929.jpg", 
+    "course_url": "https://www.udemy.com/einstieg-in-c-das-praxis-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-23T23:58:40Z"
+}

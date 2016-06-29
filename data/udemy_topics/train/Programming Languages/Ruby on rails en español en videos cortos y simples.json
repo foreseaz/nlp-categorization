@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t       Taller para crear aplicaciones web, aprendiendo haciendo. Se parte desde cero hasta construir una aplicación web estilo pinterest.com.  </p>  <p>  \t       En el transcurso del curso se aprende a trabajar con HTML, CSS, Twitter Bootstrap, Ruby, Rails y Heroku. Esto a través de videos guiados paso a paso, junto con un manual en pdf.  </p>  <p>  \t La construcción de éste taller se hizo tras primero hacer una gran cantidad de clases presenciales de este mismo tema y luego además según feedbacks de la versión online se construyó la versión 2.0 del taller.  </p>  <p>  \t  En general la gente que toma curso, lo hace en 1 mes.  </p>  <p>  \t  Por qué este curso? Vas aprender haciendo trabajando con las herramientas reales construyendo proyectos reales.  </p>  <p>  \t  Además aprenderás a trabajar con todas las últimas tecnologías, pudiendo tras el curso diseñar aplicaciones web de forma ágil y rápida.  </p>", 
+    "end_date": null, 
+    "title": "Ruby on rails en español en videos cortos y simples", 
+    "price": "20.00", 
+    "instructors": "Diego Arias Gómez", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/148360_239a_3.jpg", 
+    "course_url": "https://www.udemy.com/crea-aplicaciones-web-con-rails-40-desde-cero/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-17T14:50:42Z"
+}

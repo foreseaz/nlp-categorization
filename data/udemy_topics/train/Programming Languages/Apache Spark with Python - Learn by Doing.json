@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Would you like to advance your career and learning Apache Spark will help?</strong></p><p>There's no doubt Apache Spark is an in-demand skillset with higher pay. This course will help you get there. </p><p>This course prepares you for job interviews and technical conversations. At the end of this course, you can update your resume or CV with a variety of Apache Spark experiences.</p><p><strong>Or maybe you need to learn Apache Spark quickly for a current or upcoming project?</strong></p><p><strong>How can this course help?</strong><br></p><p>You will become confident and productive with Apache Spark after taking this course. You need to be confident and productive in Apache Spark to be more valuable.<br></p><p>Now, I'm not going to pretend here. You are going to need to put in work. This course puts you in a position to focus on the work you will need to complete.</p><p>This course uses Python, which is a fun, dynamic programming language perfect for both beginners and industry veterans.</p><p>At the end of this course, you will have rock solid foundation to accelerate your career and growth in the exciting world of Apache Spark.<strong></strong></p><p><strong>Why choose this course?</strong></p><p>Let's be honest. You can find Apache Spark learning material online for free. Using these free resources is okay for people with extra time.</p><p>This course saves your time and effort. It is organized in a step-by-step approach that builds upon each previous lessons. PowerPoint presentations are minimal.</p><p>The intended audience of this course is people who need to learn Spark in a focused, organized fashion. If you want a more academic approach to learning Spark with over 4-5 hours of lectures covering the same material as found here, there are other courses on Udemy which may be better for you.</p><p>This Apache Spark with Python course emphasizes running source code examples.<br></p><p>All source code examples are available for download, so you can execute, experiment and customize for your environment after or during the course.</p><p>This Apache Spark with Python course covers over <strong>50 hands-on examples. </strong>We run them locally first and then deploy them on cloud computing services such as Amazon EC2.</p><p>The following will be covered and more:</p><ul><li>What makes Spark a power tool of Big Data and Data Science?</li><li>Learn the fundamentals of Spark including Resilient Distributed Datasets, Spark Actions and Transformations</li><li>Run Spark in a Cluster in your local environment and Amazon EC2</li><li>Deploy Python applications to a Spark Cluster</li><li>Explore Spark SQL with CSV, JSON and mySQL (JDBC) data sources</li><li>Convenient links to download all source code</li><li>Reinforce your understanding through multiple quizzes and lecture recap</li></ul><p><br></p>", 
+    "end_date": null, 
+    "title": "Apache Spark with Python - Learn by Doing", 
+    "price": "25.00", 
+    "instructors": "Todd McGrath", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/727220_3794_2.jpg", 
+    "course_url": "https://www.udemy.com/spark-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-13T19:43:23Z"
+}

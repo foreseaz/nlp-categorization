@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>To remove the inefficient testing comes BDD i.e. <em class=\"redactor-inline-converted\">Behaviour Driven Development</em>. This makes process simple and effective for developers and testers.</p>\n\n<p><strong class=\"redactor-inline-converted\">This cucumber training covers test automation and how to write effective bdd testcases.</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Course covers Cucumber Tool with Java, so basic java knowledge is required. <br><strong><em><u>The only Cucumber Tutorial which covers Cucumber with Java</u></em></strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>This cucumber tutorial is for beginners starting from basics- what is bdd, What Cucumber is etc.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">No other course covers in depth topic on Cucumber<br></strong><br></p>\n\n\n\n<p>Cucumber is an Open Source test automation tool gaining a lot of popularity <br>these days. It's a flagship Behavior Driven Development BDD tool you <br>should add in your skill set.</p>\n\n\n\n\n\n\n\n<p>Cucumber is easy to learn framework as it's in a plain meaningful English text. It's fun learning this most talked automation tool.</p>\n\n\n\n\n\n<p>Cucumber  uses plain text executable specifications to test the software. This <br>makes it is to learn and understand and hence it is bridging the gap <br>between business people and developers. </p>\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">This course covers:</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Behaviour-Driven Development<br>How Cucumber tool Works<br>Downloading Cucumber Jars<br>Creating a Feature<br>Creating Step Definitions<br>Implementing Our First Step Definition<br>Adding an Assertion<br>What’s Gherkin For?<br>Scenario<br>Writing Runner Class<br>writing regular expression in step file<br>Pretty, Tags and Glue<br>Multiple Captures<br>Background<br>Data Tables<br>Scenario Outline<br>Hooks<br>Dependency Injection<br>Create the Maven Project<br>Create Cucumber Structure<br>Create Cucumber feature files<br>Create Step definitions<br>Introduce class to support multiple browsers.<br>Writing Tags to Scenario and features<br>Running selected tests<br>Generating Cucumber reports<br>Cucumber Selenium</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>-------------------------------------------------------------------------------------------------------------------</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Important information before you enroll:</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>In case you find the course useless for your career, don't forget you are covered by a 30 day money back guarantee, full refund, no questions asked!</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Once enrolled, you have unlimited, lifetime access to the course!</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>You will have instant and free access to any updates I'll add to the course.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>I will give you my full support regarding any issues or suggestions related to the course.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Check out the curriculum and FREE lectures for a course preview.<br>------------------------------------------------------------------------------------------------------------------</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Learn Cucumber: Develop automated test in Java following BBD", 
+    "price": "20.00", 
+    "instructors": "Vaibhav Gupta", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/838974_d67f_2.jpg", 
+    "course_url": "https://www.udemy.com/bdd-with-cucumber-using-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-04T00:35:59Z"
+}

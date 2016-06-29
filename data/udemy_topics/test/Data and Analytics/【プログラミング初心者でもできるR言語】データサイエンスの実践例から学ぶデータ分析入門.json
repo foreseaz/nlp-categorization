@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>このコースは、データサイエンスの基本的な考え方、データ解析とグラフの作成方法を学ぶことができ、そして視聴者の実際の業務に適応することができるようになります。予備知識が全く必要ありません。合わせて、Rという統計解析用のプログラミング言語を学びます。Rは初心者に優しいプログラミング言語であり、大学や企業などで広く用いられています。</p>\n\n<p>近年Rに関する数多くの書籍が出版されていますが、実際の操作方法の解説は文字による説明だけでは飲み込みづらいのが実状です。本コースでは実際の操作画面を動画で示しており、複雑な操作であっても直感的に理解可能です。</p>\n\n<p>本コースを通して、以下の項目を学ぶことができます。</p>\n\n\n\n\n\n\n\n<ul><li>データサイエンス（統計学・機械学習）の背景、データ分析の実践例</li><li>R/Rstudioの基本的な操作</li><li>データの特徴を理解するのに役立つ要約技法、グラフ作成方法</li><li>実際の業務を想定した分析シミュレーション・分析プロセス</li><li>インターネット上に公開されているデータを取得し、地図などで表現する可能性</li><li>twitterなどのテキスト情報を分析してグラフ化する技法</li></ul>\n\n<p><br>データサイエンスの学習を始めましょう！<br></p>", 
+    "end_date": null, 
+    "title": "【プログラミング初心者でもできるR言語】データサイエンスの実践例から学ぶデータ分析入門", 
+    "price": "40.00", 
+    "instructors": "Yutaka Kataoka, sfchaos sf chaos, Prof. IshidaMotohiro 石田", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/762844_4f8d_2.jpg", 
+    "course_url": "https://www.udemy.com/r-datascience/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-15T04:28:36Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>このコースは初心者にもわかりやすく解説しています。</p><ul><li>セクション１では、Dreamweaver CS5の基本操作について学ぶことができます。Webサイトの作成に必要なサイト定義の基本操作から始め、ワークスペースの解説、HTMLの新規作成を行います。そして、基礎的なHTMLでのタグ設定の方法と意味について学ぶことができます。</li><li>セクション２では、Dreamweaver CS5の実践的な利用方法について学ぶことができます。CSSのボックスモデルを用いたページのデザイン作業を、Dreamweaver CS5の機能を利用して効率的に行います。また、Photoshopのネイティブファイルをページに挿入し、アプリケーションを連携しながら編集する方法も学習します。</li></ul><p>映像内で使用されている演習ファイルがダウンロードできます。アプリケーションがインストールされているＰＣをお持ちの場合は、視聴しながら、あるいは視聴後に、実際のアプリケーションで操作してみましょう。<br></p><p>副読本PDFもダウンロード可能です。映像内のスクリーンショットとナレーション文章をテキスト化したものです。映像視聴後の復習時に活用しましょう。<br></p>", 
+    "end_date": null, 
+    "title": "誰でもわかる Adobe Dreamweaver CS5", 
+    "price": "20.00", 
+    "instructors": "アテイン 株式会社", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/672836_284a_2.jpg", 
+    "course_url": "https://www.udemy.com/adobe-dreamweaver-cs5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-18T01:55:34Z"
+}

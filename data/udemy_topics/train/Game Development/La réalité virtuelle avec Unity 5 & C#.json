@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>La réalité virtuelle est l'innovation technologique incontournable de cette décennie. Après l'occulus rift et les casques de réalité des plus grands constructeurs (playstation, steam, archos...), Google a lancé son casque en carton à moins de 5€ ! En 2015 un millions d'unités se sont écoulés.</p><p>Unity est un moteur de jeu parfaitement adapté au développement de jeux en réalité virtuelle. Google propose par ailleurs un SDK complet compatible avec Unity.</p><p>Dans cette formation nous allons apprendre à créer des jeux en réalité virtuelle avec le langage C#</p><p>Au sommaire :</p><ul><li>Présentation du projet</li><li>Outils de développement</li><li>Préparation de la scène</li><li>Créer un déclencheur par timer</li><li>Créer des animations</li><li>Programmer un tir de fusil</li><li>Marcher automatiquement</li><li>Marcher manuellement</li><li>Interactions et ramassage d'objets</li><li>Ouverture d'une porte en fonction de la distance</li><li>Compilation et publication du jeu</li></ul>", 
+    "end_date": null, 
+    "title": "La réalité virtuelle avec Unity 5 & C#", 
+    "price": "20.00", 
+    "instructors": "Anthony Cardinale", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/807042_8e34.jpg", 
+    "course_url": "https://www.udemy.com/la-realite-virtuelle-avec-unity-5/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-29T09:02:29Z"
+}

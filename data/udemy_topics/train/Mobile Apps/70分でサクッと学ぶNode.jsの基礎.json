@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>　ITにおける世界一の先進国アメリカもしくは英語圏で相当に盛り上がっている情報技術のひとつが、Node.jsです。Yahoo!やMicrosoftも既に導入しています。特にWebアプリ開発手段として一般化し始めています。</p>\n\n<p><br></p>\n\n<p>　日本ではまだまだこれからのこのテクノロジーの基礎をサクッと学べるように仕上げました。動画の簡単な指示に従い、同じことを真似するだけで習得できるようになっております。</p>\n\n<p><br></p>\n\n<p>　HTML5がスタンダードになり、ハイブリッドアプリと呼ばれるWebアプリケーションのニーズが高まる中、Nodeを習得しておくことはきっと貴方のキャリアにとってプラスになることでしょう。</p>\n\n<p><br></p>\n\n<p>　この講座を第一歩として、さらなる次のステップへと進んでいただければありがたく存じます。</p>\n\n<p><br></p>\n\n<p>※この講座はNodeの基礎に特化しております。初心者向けであり、ある程度知識がある方には不向きです。また、ある程度のJavaScriptに関するスキルが必要です。</p><p>※声のバックにノイズが入る箇所があります。ご了承ください。<br></p>", 
+    "end_date": null, 
+    "title": "70分でサクッと学ぶNode.jsの基礎", 
+    "price": "20.00", 
+    "instructors": "Yu Hiraga", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/766386_41ec_3.jpg", 
+    "course_url": "https://www.udemy.com/70nodejs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-18T10:12:07Z"
+}

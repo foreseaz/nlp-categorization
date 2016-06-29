@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn to build a commercial app in Android like a pro. This course is for anyone who wants to take their Android knowledge and start using it to build real products. This short and no nonsense course will need you attention and effort to complete and will test your ability as a programmer but if you push on you will be a better app developer by the end of it. This course focuses on the following core aspects</p><p>Professional Android Setup</p><p>Class Design and Logic Flow</p><p>Incremental App Development</p><p>Using External APIs</p><p>Code Review and Version Control</p><p>Code cleanup and debugging</p><p>You will learn all this and much more while building a full fledged photo sharing app. You will also get access to royalty free source code to use for your own projects. So gear up and get stated.. </p>", 
+    "end_date": null, 
+    "title": "Learn to Build a Professional App in Android", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/620198_610a.jpg", 
+    "course_url": "https://www.udemy.com/learn-to-build-a-professional-app-in-android/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-23T10:50:52Z"
+}

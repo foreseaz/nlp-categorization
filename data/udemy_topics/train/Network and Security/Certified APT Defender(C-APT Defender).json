@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t        This course is about all the latest cyber security threats. This courses is useful from corporate users to college students who want to understand apt attack, analyse and learn how to defend.  </p>  <p>  \t  This course  </p>  <ul style=\"\">  \t<li>Distributed Denial of Service Attacks &amp; Defence</li>  \t<li>Advanced, Persistent Threats Analysis, Attack and Defence</li>  \t<li>Exploitkits - Cyber Criminals Toolkit</li>  \t<li>ShellShock - Latest Vulnerability to Hit Servers across world</li>  \t<li>Android exploitation - Analysis with two Android Exploitation</li>  </ul>  <p>  \t  APT is the current threat to most corporate, its is important people learn the attack, analyse and how to defend themselves.  </p>", 
+    "end_date": null, 
+    "title": "Certified APT Defender(C-APT Defender)", 
+    "price": 0, 
+    "instructors": "Cyber Security & Privacy Foundation Pte Ltd", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/309858_b316_3.jpg", 
+    "course_url": "https://www.udemy.com/certified-apt-defender/", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-29T07:05:27Z"
+}

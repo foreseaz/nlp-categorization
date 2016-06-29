@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn the basic concepts and necessary scripting knowledge that you will need to build word based games, similar to ruzzle game mechanics.</p><p><strong>Understand the rules of how word based games are made with this course for beginners and more advanced developers.</strong></p><p>Quickly and efficiently learn step by step the process of building dynamic games, where player's main goal is to find as many words as possible.</p><ol><li>Learn generating random sets of letters</li><li>Build sets of letters with a controlled amount of words to find</li><li>Create visible grid of letters</li><li>Include touch recognition system</li></ol><p><strong>Any word game won't be a mystery from now on.</strong></p><p>Word games becomes more and more popular, but so far it has required a lot of effort to build particular sets of letters which can be used to build big enough amount of diverse words.</p><p>This course changes it and through 12 lectures and 2 hours of content, presents you with easy methods and steps to create such mechanics, you will be able to use in different future games. You will begin by creating and analysing scripts responsible for generating variety of grids of letters.</p><p>Then you will move to define difficulty of words and overall variety of all letter sets, by preparing compact main program script which clearly shows what particular parameters are responsible for.</p><p><strong>At the end of course, you will be able to create word based games similar to ruzzle mechanics.</strong></p><p>It doesn't matter if you know any programming languages but it's a great advantage if you do. Are you experienced programmer and want to find out how to make word like game? Take this course and you will find out, with deep understanding of all the rules and mechanisms that make such gameplay possible.</p><p>Every lecture is equipped with final version of scripts created or analysed during video presentation. Final project version is included in last lecture.</p>", 
+    "end_date": null, 
+    "title": "Create Ruzzle Game Mechanics with Unity", 
+    "price": "30.00", 
+    "instructors": "Wojciech Reszke", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/457088_fbb4.jpg", 
+    "course_url": "https://www.udemy.com/word-game-unity/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-25T20:22:48Z"
+}

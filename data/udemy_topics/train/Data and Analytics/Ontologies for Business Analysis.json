@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>The practice of Business Analysis revolves around the formation, transformation and finalisation of requirements to recommend suitable solutions to support enterprise change programmes. Practitioners working in the field of business analysis apply a wide range of modelling tools to capture the various perspectives of the enterprise, for example, business process perspective, data flow perspective, functional perspective, static structure perspective, and more. These tools aid in decision support and are especially useful in the effort towards the transformation of a business into the \"intelligent enterprise\", in other words, one which is to some extent \"self-describing\" and able to adapt to organisational change.</p><p>However, a fundamental piece remains missing from the puzzle. Achieving this capability requires us to think beyond the idea of simply using the current mainstream modelling tools. Instead, we need to take into account methods that provide a basis for sharing meaning at both human and computational level, and that are geared to capturing the semantics (i.e. the meaning) of entities that describe our enterprise perspectives. This is where the concept of ontologies come in. Ontologies are representations that provide a basis for sharing meaning at human and computational level, and are an invaluable addition to any business analyst's toolkit.</p><p>Ontologies help you formally represent domain knowledge that is accurate and reusable, which aligns very well with your reuse strategy for enterprise knowledge. Ontologies are platform-agnostic knowledge models and building them does not require you to have any extensive technical or software engineering skills. This means that as business analyst, you are able to produce the blueprints for any system or software design project, allowing you to more rapidly prototype information structures and test them out before passing your specifications over to software engineers to implement. Consequently, ontology modelling empowers business analysts as information and knowledge architects.</p><p>In addition, ontologies are extremely relevant to the area of information systems interoperability, providing you with the mechanisms to drive semantic data exchange and federation across multiple information sources and repositories. They can also be extended into structured knowledge bases for constantly-evolving linked data that have complex relationships and are held in dynamic schemas, thereby responding very well to changes in organisational knowledge. The thing is - that's just a glimpse of some of the useful benefits of ontologies from a business analysis standpoint - ontologies, in practice, do much more than that!</p><p>Unfortunately, ontology modelling is an underused technique chiefly as a result of a lack of awareness in the industry domain, and because tool support has been relatively limited in the past. But this course is intended to be a game changer, focusing on providing a comprehensive introduction to ontologies in the context of business analysis application, in order to encourage the adoption of the approach. The material provided in the course covers relevant background information to get comfortable with the concepts being explained, the justifications for applying ontologies in business analysis practice, walkthrough examples, and other important details that are pertinent for you to be able to hit the ground running with using ontologies within your own business analysis pipeline. Become a pioneer of applied ontology in the field of business analysis and lead the way to telling your success story!</p>", 
+    "end_date": null, 
+    "title": "Ontologies for Business Analysis", 
+    "price": "25.00", 
+    "instructors": "Dr. Tish Chungoora", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/741466_f6fb_5.jpg", 
+    "course_url": "https://www.udemy.com/ontologies-for-business-analysis/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-25T21:02:17Z"
+}

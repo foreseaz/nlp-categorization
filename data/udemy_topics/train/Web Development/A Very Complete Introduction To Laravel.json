@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">Laravel Summary</strong>  </p>  <p style=\"\">  \t                          Laravel is a clean and classy framework for PHP web development. Freeing you from spaghetti code, Laravel helps you create wonderful applications using simple, expressive syntax. Development should be a creative experience that you enjoy, not something that is painful.  </p>  <p style=\"\">  \t<strong style=\"\">About This Course</strong>  </p>  <p style=\"\">  \t                          If you&#039;re new to Laravel and you&#039;re looking to discover its beauty, whether it&#039;s your first framework or you&#039;re coming from another framework, this is for <strong style=\"\">you</strong>. In this course, I will teach you the essentials of this beautiful PHP framework in order to provide you with a solid understanding of its most important components. The videos will be in a step-by-step format, and during the course we&#039;ll create two small projects to put some of the things that we&#039;ve learned into practice.  </p>  <p style=\"\">  \t<strong style=\"\">The Official Laravel Philosophy</strong>  </p>  <p style=\"\">  \t<em style=\"\">&quot;Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.</em>  </p>  <p style=\"\">  \t<em style=\"\">Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we&#039;ve attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.</em>  </p>  <p style=\"\">  \t<em style=\"\">Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.&quot;</em>  </p>", 
+    "end_date": null, 
+    "title": "A Very Complete Introduction To Laravel", 
+    "price": "20.00", 
+    "instructors": "Cocotuts Tutorials", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/281690_03d7_5.jpg", 
+    "course_url": "https://www.udemy.com/laravel-4-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-15T19:57:37Z"
+}

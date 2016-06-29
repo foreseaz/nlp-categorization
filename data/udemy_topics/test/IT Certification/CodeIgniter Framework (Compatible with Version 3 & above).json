@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>What is the course about ?</strong><br></p><p>This course is about Codeigniter framework,more information about this framework is provided at the end of the document. Codeigniter framework for PHP is a fabulous for rapid application development. Our team has researched and created this easy to understand course for you.</p><p><strong>How is the course structured ?</strong><br></p><p>This structure of course is researched and created by a team, it's easy to understand. StudyEasy!</p><p><strong>Why take this course ?</strong></p><p>This is the very easy to understand, out team have made every possible effort to make this course short and powerful.</p><p><strong>---------------------------------------- ABOUT FRAMEWORK ----------------------------------------</strong></p><p><strong>Why CodeIgniter?</strong></p><p>Framework with a small footprint</p><p>CodeIgniter 3 has a 2MB download, including the user guide.</p><p><strong>Clear documentation</strong></p><p>The CodeIgniter User Guide comes with the download. It contains an introduction, tutorial, a number of \"how to\" guides, and then reference documentation for the components that make up the framework.</p><p><strong>Compatibility with standard hosting</strong></p><p>CodeIgniter 3 only needs PHP 5.2.4, and plays nicely with almost all shared or dedicated hosting platforms. Many webapps need a database, and CodeIgniter supports the most common, including MySQL.</p><p><strong>No restrictive coding rules</strong></p><p>Use your own coding and naming conventions, with only a few caveats that deal with classname conflicts. CodeIgniter looks to empower you, not shackle you.</p><p><strong>Simple solutions over complexity</strong></p><p>CodeIgniter encourages MVC, but does not force it on you.</p><p><strong>Exceptional performance</strong></p><p>CodeIgniter consistently outperforms most of its competitors.</p><p><strong>No large-scale monolithic libraries</strong></p><p>CodeIgniter is not trying to be all things to all people. It is a lean MVC framework, with enough capabilities to improve your productivity, while providing for third-party addons/plugins for additional functionality.</p><p><strong>Nearly zero configuration</strong></p><p>Much of the CodeIgniter configuration is done by convention, for instance putting models in a \"models\" folder. There are still a number of configuration options available, through scripts in the \"config\" folder.</p><p><strong>No need for template language</strong></p><p>CodeIgniter comes with a simple, substitution based, templating tool. Addons/plugins are available for most of the full-blown templating engines, if that is what you are used to.</p><p><strong>Spend more time away from the computer</strong></p><p>Don't we all want it? CodeIgniter is easy to learn and to get proficient with.</p><p>#Codeigniter #Codeigniter3 #Rapid application development</p><p>#BCIT #Basics #Background #MVC #PHP #studyEasy #Easy Course</p><p><strong></strong></p><p>#Framework #Bootstarp #Performance #Websites</p><p><br></p>", 
+    "end_date": null, 
+    "title": "CodeIgniter Framework (Compatible with Version 3 & above)", 
+    "price": "20.00", 
+    "instructors": "StudyEasy Organisation", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/645222_d84c_2.jpg", 
+    "course_url": "https://www.udemy.com/codeigniter-premium-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-19T21:46:09Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this Swift and Sprite Kit video tutorial series we will wield our mighty modern programming skills to re-make a classic arcade game. Along the way, we'll also add modern graphics and some new features so the finished product is a more enjoyable app using today's fancier technology. Topics taught includes…<strong></strong></p><ul><li>Custom SKNode and SKSpriteNode classes</li><li>Programming your own game loops</li><li>A myriad of SKActions</li><li>Adding and removing children (properly)</li><li>Collision detections</li><li>Playing sounds</li><li>Transitioning SKScenes</li><li>And much more!</li></ul>", 
+    "end_date": null, 
+    "title": "Missile Commando with Swift and Sprite Kit ", 
+    "price": "30.00", 
+    "instructors": "Justin Dike", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/545926_9718_2.jpg", 
+    "course_url": "https://www.udemy.com/missile-commando-with-swift-and-sprite-kit/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-05T20:12:34Z"
+}

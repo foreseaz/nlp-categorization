@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t This Writing CSS with {LESS} training course from Infinite Skills teaches you everything you need to know about this dynamic stylesheet language. This course is designed for users that already have a working knowledge of CSS.  </p>  <p>  \t <br>  \t You will start out by learning how to build {LESS} files, on the client-side and server-side. Walter will teach you how to build consistent values, including how to modify the value and scope of a variable, use Mixins, and identify Syntax errors. From there, you will learn about Nesting, and how to use Nesting with multiple selectors and pseudo-classes. This video training will also teach you about the functions and operations in {LESS}, including defined {LESS} functions in colour and math. Finally, Walter will show you how to compile {LESS} to CSS.<br>  \t <br>  \t By the completion of this video based training course, you will have an in-depth understanding of how to write CSS with {LESS}. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Writing CSS with {LESS} - Tutorial From Infinite Skills", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/113888_8a02_8.jpg", 
+    "course_url": "https://www.udemy.com/writing-css-with-less-tutorial-from-infinite-skills/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-11-01T16:01:53Z"
+}

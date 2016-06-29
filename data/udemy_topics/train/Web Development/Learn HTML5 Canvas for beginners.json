@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>The canvas element in HTML5 allows you to create amazing dynamic script based <strong>drawings and animations directly within your webpages.</strong>   Bringing your JavaScript to life visually drawing free form graphics on a drawing surface.</p><p>Canvas is a powerful element with many options.  In this course we show you how to use canvas and start drawing onto it using JavaScript.  With over 15 years experience in web development I show you how to use canvas in the real world.  Learn the basic concepts of using canvas to draw directly on your web page.</p><p>This course is for beginners who want to learn how to use HTML5 better.  You will learn how to setup canvas and how to interact with it.   I share top resources, links and code snippets to practice and perfect using canvas for web development.</p><p>Course covers </p><ul><li>starting to draw on the canvas</li><li>drawing rectangles and lines</li><li>drawing arc and circles</li><li>how to implement curves</li><li>how to add colors</li><li>dashes, lines, and gradients</li><li>Popular HTML5 methods</li><li>How to add text</li><li>creating images on the fly</li><li>on page images</li><li>scaling, slicing and canvas manipulation</li><li>saving and restoring canvas</li><li>rotations and custom transformations</li><li>Animating your canvas</li></ul><p>Source code is included, several challenges with solutions are also included in this course.<span></span><br></p><p>Learn how to create your own dynamically generated graphics and cool animations online.</p><p>You can use canvas for building graphs, creating animations, games, and image composition.  </p><p><strong>This course will provide you the base knowledge needed to create drawings within canvas.</strong></p>", 
+    "end_date": null, 
+    "title": "Learn HTML5 Canvas for beginners", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/761770_6f86_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-html5-canvas-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-13T21:39:09Z"
+}

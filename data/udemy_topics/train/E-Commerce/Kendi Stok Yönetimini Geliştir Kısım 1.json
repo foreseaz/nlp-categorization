@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tBu eğitimde stok yönetim sistemi için özel bir admin paneli yapıyoruz. Temel düzeyde işlemler içeren bu panel tamamen kodlama ile yapılmıştır.  </p>  <p>  \t6 Kısımlık olan eğitimin bu ilk kısmında resim işlemleri, kategori işlemleri, alt kategori işlemleri gibi konular yer almaktadır.  </p>", 
+    "end_date": null, 
+    "title": "Kendi Stok Yönetimini Geliştir Kısım 1", 
+    "price": "20.00", 
+    "instructors": "PHP Akademi", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/106638_b2e1_3.jpg", 
+    "course_url": "https://www.udemy.com/kendi-stok-yonetimini-gelistir-kisim-1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "E-Commerce"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-16T11:23:44Z"
+}

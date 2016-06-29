@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Once upon a time, iOS app developers were the ones in demand. Now the mobile world has busted wide open and Android is a fierce rival, not to mention a truly exciting area to dive into. App development is advancing at a rapid pace and there’s always something new and innovative being produced somewhere. With this course, you can jump right in and get involved yourself; who knows, maybe the next must have Android app will be one of your own creations!</p><p><strong>Quick, Easy Programming</strong></p><ul><li>Create, test and run Android apps <strong></strong></li><li>Learn the ins and outs of Android Studio<strong></strong></li><li>Gain a solid skill set applicable to all app development projects<strong></strong></li><li>Get practical, hands on experience in building mobile apps<strong></strong></li><li>Pick up the latest changes in the newest version of Android<strong></strong></li></ul><p><strong>Learn Android App Development from a Beginner’s Perspective</strong></p><p>This course has a whopping 119 lectures and 9 hours of content; enough to take you from zero to Android app hero in no time. If you have a basic understanding of the Java programming language and an interest in app development, you’ll be the perfect student. </p><p>The course starts off by introducing you to all essential software you’ll need (namely, Android Studio), and will take you through the installation process. Once that’s done you’ll go through all of the essential Android components, learning how they work to build up a foundation of knowledge. From there, you’ll get started with hands-on experience by creating your own practical Android app. </p><p>You’ll demonstrate the concepts you’ve just learned and put your new found skills to the test by building an app from start to finish, complete with database creation, fragment management, custom array adapters, Android preferences and more. By the time you’re finished, you’ll be a verified Android app expert.</p><p><strong>Tools Used</strong></p><p>Android Studio: Android Studio is the official Interactive Development Environment (IDE) for Android app development. It’s used by all Android developers and, despite its complexity and power, is relatively easy to pick up once you have some background knowledge.</p><p>* This course was published in January 2016 and teaches the most up to date operating system and development tools available. </p>", 
+    "end_date": null, 
+    "title": "Android App Development: Easy and Quick Programming", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/703036_85e5_2.jpg", 
+    "course_url": "https://www.udemy.com/android-app-development-easy-and-quick-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-21T16:19:45Z"
+}

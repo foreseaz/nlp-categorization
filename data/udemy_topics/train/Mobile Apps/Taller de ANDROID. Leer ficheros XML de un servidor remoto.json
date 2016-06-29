@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t     En este curso vemos como hacer que nuestra aplicación de ANDROID este siempre actualizada obteniendo los datos de un fichero en formato XML.  </p>  <p style=\"\">  \t     El curso consta de varios videotutoriales en los que aprenderas:  </p>  <ol style=\"\">  \t<li style=\"\">Crear la conexión para nuestro archivo XML Explicación básica de la Clase que utilizaremos.</li>  \t<li style=\"\">  \t<p style=\"\">  \t\t     Poner los datos extraídos en diferentes matrices para tener todo organizado. Definir un adaptador de datos.  \t</p>  \t</li>  \t<li style=\"\">  \t<p style=\"\">  \t\t     Como depurar una aplicación. Poner puntos de interrupción. Explicar los eventos que se ejecutan. Ver el estado de las variables. Diferentes formas de moverse en modo de depuración.  \t</p>  \t</li>  \t<li style=\"\">  \t<p style=\"\">  \t\t     Crear la clase para cada curso. Analizar con el depurador como se distribuyen los datos  \t</p>  \t</li>  \t<li style=\"\">  \t<p style=\"\">  \t\t     Programar el envío de datos entre pantallas o layouts, recibir los datos enviados. Exponer los datos recibidos  \t</p>  \t</li>  \t<li style=\"\">  \t<p style=\"\">  \t\t     Importar la imagen de forma dinámica, la imagen esta en el servidor. Finalización del taller  \t</p>  \t</li>  </ol>", 
+    "end_date": null, 
+    "title": "Taller de ANDROID. Leer ficheros XML de un servidor remoto", 
+    "price": "20.00", 
+    "instructors": "Gonzalo Pasquin", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/196298_1ffc_4.jpg", 
+    "course_url": "https://www.udemy.com/taller-de-android-leer-ficheros-xml-de-un-servidor-remoto/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-09T11:56:40Z"
+}

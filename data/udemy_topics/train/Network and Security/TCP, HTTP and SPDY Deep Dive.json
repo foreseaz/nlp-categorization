@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p></p><p><p>This course will tell you how TCP and HTTP (the transport and presentation-layer protocols used by web-based applications) impact the web application responsiveness and page load time.</p><p>We&#039;ll look at waterfall diagrams created by web browser development tools, cover the intricate details of TCP and HTTP (including slow start, congestion windows and pipelining), and try to figure out whether SPDY (the next-generation HTTP from Google) makes sense.</p><p>The course is delivered via short video lectures in which I gradually expose the problems your web browser faces when trying to fetch all components of a web site, and the solutions you could use to make the process faster.</p><p>You can take your time and go at your own pace, or rush through the course and be done in an hour or two. However, I would encourage you to proceed slowly, build your own test environment (using your mobile device or WAN emulator like WANem) and explore what&#039;s going on behind the scenes with browser development tools and Wireshark.</p>&lt;/p&gt;<p></p>  ", 
+    "end_date": null, 
+    "title": "TCP, HTTP and SPDY Deep Dive", 
+    "price": 0, 
+    "instructors": "Ivan Pepelnjak", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/49807_0186_4.jpg", 
+    "course_url": "https://www.udemy.com/tcp-http-spdy-deep-dive/", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-04-15T06:10:54Z"
+}

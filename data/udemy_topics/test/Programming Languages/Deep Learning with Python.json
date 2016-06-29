@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Deep learning is currently one of the best providers of solutions regarding problems in image recognition, speech recognition, object recognition, and natural language with its increasing number of libraries that are available in Python. The aim of deep learning is to develop deep neural networks by increasing and improving the number of training layers for each network, so that a machine learns more about the data until it’s as accurate as possible. Developers can avail the techniques provided by deep learning to accomplish complex machine learning tasks, and train AI networks to develop deep levels of perceptual recognition. </p><p>Deep learning is the next step to machine learning with a more advanced implementation. Currently, it’s not established as an industry standard, but is heading in that direction and brings a strong promise of being a game changer when dealing with raw unstructured data. Deep learning is currently one of the best providers of solutions regarding problems in image recognition, speech recognition, object recognition, and natural language processing. Developers can avail the benefits of building AI programs that, instead of using hand coded rules, learn from examples how to solve complicated tasks. With deep learning being used by many data scientists, deeper neural networks are evaluated for accurate results.</p><p>This course takes you from basic calculus knowledge to understanding backpropagation and its application for training in neural networks for deep learning and understand automatic differentiation. Through the course, we will cover thorough training in convolutional, recurrent neural networks and build up the theory that focuses on supervised learning and integrate into your product offerings such as search, image recognition, and object processing. Also, we will examine the performance of the sentimental analysis model and will conclude with the introduction of Tensorflow.</p><p>By the end of this course, you can start working with deep learning right away. This course will make you confident about its implementation in your current work as well as further research.</p><p><strong>About The Author</strong></p><p><strong>Eder Santana</strong> is a PhD candidate on Electrical and Computer Engineering. His thesis topic is on Deep and Recurrent neural networks. After working for 3 years with Kernel Machines (SVMs, Information Theoretic Learning, and so on), Eder moved to the field of deep learning 2.5 years ago, when he started learning Theano, Caffe, and other machine learning frameworks. Now, Eder contributes to Keras: Deep Learning Library for Python. Besides deep learning, he also likes data visualization and teaching machine learning, either on online forums or as a teacher assistant.<br></p>", 
+    "end_date": null, 
+    "title": "Deep Learning with Python ", 
+    "price": "40.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/780922_bb06_2.jpg", 
+    "course_url": "https://www.udemy.com/deep-learning-with-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-03T08:58:27Z"
+}

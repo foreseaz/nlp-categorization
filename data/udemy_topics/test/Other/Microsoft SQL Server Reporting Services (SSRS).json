@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course is all about creating reports in SQL Server Reporting Services (SSRS). No prior knowledge is needed, but some knowledge of T-SQL would be useful.</p><p>We will download a version of SQL Server which includes SSRS - for free. We'll also download a database called AdventureWorks, which we will use in our reports.</p><p>We'll create various reports, developing our skills bit by bit. As part of designing a report, we will:</p><ul><li>Select report components (matrix, table, chart and other data visualisation component),</li><li>Identify the data source and parameters,</li><li>Design a grouping structure,</li><li>Create drilldown reports and drillthrough reports.</li></ul><p>As part of implementing a report layout, we will:</p><ul><li>Find out how to format, including formatting colours, dates and numbers;</li><li>Configure the page;</li><li>Implement headers and footers;</li><li>Implement matrices, tables, chart, images, indicators, maps and groupings in reports;</li><li>Create a range of reports using different data regions;</li><li>Define custom fields;</li><li>Implement global collections;</li><li>Define expressions; and</li><li>Implement data visualisation components.</li></ul><p>As part of implementing interactivity in a report, we will:</p><ul><li>Create drilldown reports;</li><li>Create drillthrough reports;</li><li>Add interactive sorting;</li><li>Investigate parameters, including multi-value parameters;</li><li>Create dynamic reports in SSRS using parameters;</li><li>Implement show/hide property;</li><li>Add actions (jump to report and URL);</li><li>Add Fixed headers and a document map.</li></ul><p>By the end of this course, you should be confident in creating your own reports in SSRS.</p>", 
+    "end_date": null, 
+    "title": "Microsoft SQL Server Reporting Services (SSRS)", 
+    "price": "20.00", 
+    "instructors": "Phillip Burton", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/578350_444b_2.jpg", 
+    "course_url": "https://www.udemy.com/microsoft-sql-server-reporting-services-ssrs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-09T20:25:28Z"
+}

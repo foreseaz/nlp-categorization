@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>面對撲面而來的資料浪潮，包含 Google、Facebook、Intel、Pfizer、Bank of America 等國際級企業，都已經採用 R 語言進行資料分析，許多全球一流大學如 Stanford、Johns Hopkins 和 UCLA 也將 R 視為資料分析課程的先修科目。根據國際知名的 KDnuggets 論壇統計，R 語言已經連續三年獲得資料科學家最常使用的資料分析語言第一名的殊榮。</p><p>《R 語言探索之旅》以問題導向的方式教學R語言。從資料萃取和資料清理開始，有目的的進行探索性資料分析與資料視覺化。讓資料從生澀的數位編碼，搖身成為有溫度的故事。</p><p><strong>講師</strong>：Johnson Ph.D.<br>現職：DSP 智庫驅動 資料科學家<br>經歷：Taiwan R user group Officer, Data Sciene HC 共同創辦人<br>專長：R, 統計計算, 人力資源分析, 媒體分析, 資料科學教育</p>", 
+    "end_date": null, 
+    "title": "大數據基礎：R 語言探索之旅", 
+    "price": "50.00", 
+    "instructors": "慕課 癮科技, Johnson Hsieh", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/594682_196f.jpg", 
+    "course_url": "https://www.udemy.com/r_language/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-27T05:46:26Z"
+}

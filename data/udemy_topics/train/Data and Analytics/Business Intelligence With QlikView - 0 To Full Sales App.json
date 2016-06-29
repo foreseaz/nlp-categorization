@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>QlikView is profoundly different than any other Business Intelligence tool so no wonder Qlik is one of the fastest growing companies on the market and job demands for developers are high with <strong style=\"\">salaries reaching up to $100,000</strong>.</p><p>After completing this course you will be able to:</p><ol style=\"\"><li><strong style=\"\">Build QlikView application</strong> that analyzes sales data provided in the course</li><li>Get the experience with real-life business data that companies analyze</li><li>Learn general concepts of data analysis and Business Intelligence</li><li>Analyze business data from external data sources</li><li>Replace Excel on all projects related to data analysis and visualization</li><li>Learn to properly visualize data by using various charting technique</li></ol><p style=\"\"><strong style=\"\">What you need to know before starting with QlikView</strong></p><p>It&#039;s important to learn how to work with QlikView. Through QlikView&#039;s Expense Management application, I show you how users can be taught to use QlikView to detect exorbitant spending in a company and perform detailed data analysis. Since QlikView is data driven, and it reacts to anything you select, by understanding selections and associations, you will work more efficiently with the tool.</p><p><strong style=\"\">What kind of application are we building in a course</strong></p><p>We create Shoe Sales application from scratch. This is an imaginary scenario where we analyze shoe sales business across USA. We have stores in cities where shoes are sold, so we need to focus on what are we selling, for how much, how profitable we are and if we are losing money on certain sales.</p><p><em style=\"\">All the sample data will be provide</em>d in the course and as a bonus, I show you how to use website called Mockaroo to build any data mockups. You can even use <strong style=\"\">Mockaroo </strong>for other data analysis projects, or for demonstration purposes.<br style=\"\"></p><p><strong style=\"\">What development and visualization concepts we cover in course</strong></p><p><em style=\"\">This course is about development and visualization.</em> You will get insights into modeling practices, learn to use scripts for loading, cleaning, joining and preparing data for visualizations. We cover topics like table naming, concatenation, symbolic links, building artificial keys, table joins, and various scripting functions.</p><p>Specific courses are provided for specific visualization techniques like straight or pivot tables, search boxes, list boxes, selections, line and bar charts and design of KPIs - a key metric users should focus on first.</p><p><em style=\"\">It is a course developed to put you on feet with QlikView without which you might be tapping in a dark or just do the things wrong way - a complete course to build a complete QlikView application!</em></p><p><strong style=\"\">What&#039;s new:</strong> I will start adding my own consulting experience with the tool and how I used it in practice.<br style=\"\"></p>", 
+    "end_date": null, 
+    "title": "Business Intelligence With QlikView - 0 To Full Sales App", 
+    "price": "20.00", 
+    "instructors": "Vjekoslav Levacic", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/393296_ac7f_2.jpg", 
+    "course_url": "https://www.udemy.com/qlikview/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-13T19:29:21Z"
+}

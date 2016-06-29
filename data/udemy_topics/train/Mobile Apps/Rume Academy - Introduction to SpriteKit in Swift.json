@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course you will learn about the basics of the SpriteKit framework. In order to make this interesting and not just theoretic lectures we have decided to develop a fun little game on the way by directly implementing what we learn about. You will be provided with all resources needed!</p><p>The game we will create is an endless scrolling game, meaning the goal is to make our hero, a guy on a hoverboard, jump over as many aliens as possible and collect points for each one.</p><p>While developing this game we will learn:</p><ul><li>Basic structures and elements of SpriteKit</li><li>Working with SKNodes</li><li>Working with SKSpriteNodes</li><li>Working with SKPhysics</li><li>Creating a game flow</li><li>Scoring</li></ul><p>We hope you will learn a lot here and look forward to seeing you in the first lecture!</p>", 
+    "end_date": null, 
+    "title": "Rume Academy - Introduction to SpriteKit in Swift", 
+    "price": 0, 
+    "instructors": "Timothy Meixner, Johannes Ruof", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/655572_8ad1_3.jpg", 
+    "course_url": "https://www.udemy.com/rume-academy-introduction-to-spritekit-in-swift/", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-30T14:19:20Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is all about exploring the cool and new features of ES6 - EcmaScript version 6.</p><p>The course is specially designed for front end developers and designers who have interest in javascript and who want to be ahead of their peers by learning the new features of this amazing language.</p><p>The course covers all the new features/topics in a practical manner with each topic being demonstrated by code samples which you can see in action by easily running them via popular browsers like firefox and chrome.</p><p>The course covers following topics</p><p>1. Introduction and Basic Setup of ES6</p><p>2. Block Bindings which covers Let and Variable Hoisting</p><p>3. Arrow Functions</p><p>4. Parameters &amp; Their Types</p><p>5. Destructuring Parameters</p><p>6. Iterators</p><p>7. Generators</p><p>8. Collections</p><p>9. Template Strings</p><p>10. Promises</p><p>11. Classes</p><p>12. Modules</p><p>At the end of the course you will be well versed with all the concepts/features of ES6</p><p>So lets get started with ES6 </p>", 
+    "end_date": null, 
+    "title": "JavaScript ES6 : The Next Level", 
+    "price": "20.00", 
+    "instructors": "SkillBakery Studio", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/541948_e1eb.jpg", 
+    "course_url": "https://www.udemy.com/javascript-es6/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-01T06:41:06Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>O Curso MPLS foca no estudo aprofundado da tecnologia que é base para os meios de comunicação atuais, o Multi Protocol Label Switching – tema de um dos exames da certificação Cisco CCNP SP, e de certificações mais avançadas, como o CCIE.</p>\n\n<p>Durante o curso vamos ter uma parte teórica explicando seu conceito e como funciona, logo após no laboratório prático, você vai aprender a configurar um cenário completo de VPN MPLS em camada 3, utilizando roteadores CISCO.</p><p><br></p>\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "CISCO MPLS VPN CAMADA 3", 
+    "price": "20.00", 
+    "instructors": "Andre Zanon", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/835742_d066_2.jpg", 
+    "course_url": "https://www.udemy.com/mpls-vpn-camada-3/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-30T01:00:24Z"
+}

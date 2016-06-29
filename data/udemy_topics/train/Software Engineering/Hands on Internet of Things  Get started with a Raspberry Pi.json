@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This is a course about getting started with the Internet of Things. It's a hands on course with exercises designed to teach you the concepts of gathering, sending, and storing data. We'll build a full end to end project gathering information from sensors, sending them over the internet and into a database. Then we'll build a nice dashboard to view it all. You'll go from a beginner to a confident IoT pro with this course.</p>", 
+    "end_date": null, 
+    "title": "Hands on Internet of Things: Get started with a Raspberry Pi", 
+    "price": "20.00", 
+    "instructors": "Jeremy Morgan", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/645950_4dfe_3.jpg", 
+    "course_url": "https://www.udemy.com/hands-on-internet-of-things-raspberry-pi/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-20T16:06:17Z"
+}

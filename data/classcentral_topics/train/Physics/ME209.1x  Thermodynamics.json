@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Physics"
+    ], 
+    "description": "\n\n                    \n                    \n                    ME209.1x is a basic course in thermodynamics, designed for students of mechanical engineering. We will study the terms and concepts used in thermodynamics, with precise definitions. The three laws of thermodynamics (zeroth, first, and second) will be explored in detail, and the properties of materials will be studied. Many useful relations will be derived.  The topics include:\n\nbasic concepts and definitions\n\tthe work interaction\n\tthe first law, energy, and the heat interaction\n\tthe zeroth law, temperature, and scales of temperature\n\tproperties of gases and liquids, equations of state\n\tthe second law, thermodynamic temperature scales, and entropy\n\trelations between properties\n\topen thermodynamic systems\nThere will be emphasis on problem-solving. Students will need to spend significant effort on solving exercises.\n\nThe course is designed for students in mechanical engineering. However, others (both engineers and scientists) are likely to find it useful. The course has also been found to be useful to teachers of thermodynamics.\n\nPlease note that this course is self-paced and you can enroll at any time.  At normal pace, this course requires 12 weeks of study, about 10 hours a week.\n\nFAQ\n\nWhat topics will the course cover?\nThis is a basic course in Engineering Thermodynamics.  The topics covered include: work interaction, the First Law, energy, heat interaction, the Zeroth Law, temperature, the Second Law, entropy, relations between properties, and open thermodynamic systems.\n\nWhat are the learning outcomes of this course?\nThe student should be able to understand the basic concepts of Themodynamics, and should be able to solve problems related to Thermodynamics in Mechanical Engineering.\n\nRoughly how many hours will I have to spend on the course?\nAbout 8 to 10 hours each week for 12 weeks.\n\nIs this course related to a IIT Bombay campus course?\nYes.  It is based on 'ME209 Thermodynamics', a course at IIT Bombay for second-year Mechanical Engineering students.\n\nWhat are the prerequisites?\nBasic knowledge of high-school physics and chemistry is assumed; ability to do college calculus (differentiation, integration, partial derivatives, and exact differentials) is required.\n\nI don't have the prerequisites, Can I still take the course?\nYes, but you will have to make some extra effort to overcome this.\n\nWhat if I take a vacation?\nThe course schedule is designed with this in mind! You can work three weeks ahead in the course, and the exams are one week after the material. Even if you have a four-week vacation, you do not need to miss any deadlines and can still complete all of the material.\n\nDo I need to purchase anything for this course?\nA calculator will be needed.  You may wish to purchase a book.\n\nWhat will the assignments be like?\nProblem-solving.\n\nI have a busy schedule this fall. Can I still take the course?\nYes, provided you can devote about 8 to 10 hours a week for 12 weeks.\n\nMy background is physics / chemistry / mathematics / engineering -other-than-mechanical. Will this course be useful to me?\nThermodynamics is a basic science, and this is a basic course in it.  The principles will be taught for all, but the illustrations and applications will be of direct interest to mechanical engineers. All others are welcome!\n\n                                    ", 
+    "end_date": "2015-06-08T00:00:00Z", 
+    "title": "ME209.1x: Thermodynamics", 
+    "price": 0, 
+    "instructors": "", 
+    "institution_name": [
+        "IIT(Indian Institute of Technology Bombay)"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://www.edx.org/course/thermodynamics-iitbombayx-me209-1x-0", 
+    "duration": "28 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2014-11-24T00:00:00Z"
+}

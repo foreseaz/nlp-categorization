@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>XML, veri iletişimi için en çok kullanılan formattır diyebiliriz. <br><br></p><p>Son zamanlarda rakibi olan JSON daha az kod ile veriyi işlemesi ve birçok platform tarafından destek vermesi ile öne çıksada, XML çok uzun zamandır veri iletişimi üzerine kullanılan en temel format olma özelliğini hala korumaktadır. </p><p>XML veri iletişimi veya veri formatlaması konu olduğunda, birçok yerde karşımıza çıkmaktadır. Excel tablosu dökümü, veritabanı iletişimi, kredi kartı pos bilgilerinin iletişimi v.b.</p><p>Bu eğitim içerisinde XML konusuna en baştan başlanmış ve gerekli olan temel noktalar anlatılmıştır. </p><p>XML konusu çok daha uzun bir konu olsada, bu eğitim, en çok ihtiyaç duyulan temel konuları ele alarak, sizin için gereksiz olabilecek konulara yer verilmemiştir. Eğitimin temel amacı, XML konusuna başlangıç yapmak ve en temel bilgiler ile kullanmaya başlamaktır. Bu bağlamda, konular seçilmiştir.<br></p><p>Eğer XML'i derinlemesine kullanma ihtiyacınız bulunuyor ise, bu eğitimle sağlam bir başlangıç yağtıktan sonra, daha ileri konuları kapsayan eğitimlere yönelebilirsiniz.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "XML Giriş", 
+    "price": "20.00", 
+    "instructors": "Ersin Sengul", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/704988_25b6.jpg", 
+    "course_url": "https://www.udemy.com/xml-giris/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-23T16:32:22Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Internet of Things"
+    ], 
+    "description": "\n\n                    \n                    \n                    The Internet of Things is rapidly growing. It is predicted that more than 25 billion devices will be connected by 2020.\n\nIn this data science course, you will learn about the major components of the Internet of Things and how data is acquired from sensors. You will also examine ways of analyzing event data, sentiment analysis, facial recognition software and how data generated from devices can be used to make decisions.\n\nThis is the third and final course in the three-part Data Science and Analytics XSeries.\n\n                                    ", 
+    "end_date": "1900-01-01T00:00:00Z", 
+    "title": "DS103X: Enabling Technologies for Data Science and Analytics: The Internet of Things", 
+    "price": 0, 
+    "instructors": "Shih-Fu Chang , Michael Collins, Julia Hirschberg, Fred Jiang, Zoran Kostic and Kathy McKeown", 
+    "institution_name": [
+        "Columbia University"
+    ], 
+    "commitment": "7-10 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x-0", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-05-15T00:00:00Z"
+}

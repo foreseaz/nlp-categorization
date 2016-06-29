@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Development Essentials - Ruby On Rails is a thorough introduction to Web Applications Development using Ruby On Rails. This course is both for people who have no experience in programming at all and also for people who have tried Ruby on Rails in the past but may be stuck in the learning curve and want to get to the next level.</p><p> Ruby on Rails has rapidly become one of the most powerful tools for building web applications. Example applications that use Ruby on Rails are Basecamp, Twitter, Shopify, Github, LivingSocial, Groupon, Hulu, Airbnb and Wikipedia. <br></p><p><br></p><p>We focus on areas that are lacking in other Rails Tutorials working in areas such as:</p><ul><li>Geocoding, Rails 5 Action Cable, </li><li>Seeding Data</li><li>Content Management, </li><li>Building Sanitizers and custom registrations controllers for Devise, </li><li>Paperclip and Carrierwave, </li><li>Redis, </li><li>Authorization (custom and gem based).</li><li>AWS Configuration</li><li>Heroku Deployment,</li><li>Git Hub</li></ul><p>And a lot more..</p><p>The course offers full access to source code with many lectures providing downloadable notes.  There is also full git hub access to the code where you can copy/download code at anytime if you need some extra help.  </p>", 
+    "end_date": null, 
+    "title": "Development Essentials - Ruby On Rails", 
+    "price": "25.00", 
+    "instructors": "Stephen Chesnowitz", 
+    "commitment": "26.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/802282_f812_2.jpg", 
+    "course_url": "https://www.udemy.com/development-essentials-ruby-on-rails/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-23T21:33:17Z"
+}

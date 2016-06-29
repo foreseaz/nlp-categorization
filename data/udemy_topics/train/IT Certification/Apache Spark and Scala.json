@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course on Apache Spark and Scala aims at providing an advanced expertise in big data Hadoop ecosystem. This course will provide a standard skillset which helps one become a specialist on the top of Big data Hadoop developer. </p><p>The course starts with a detailed description on limitations of mapreduce and how Spark can help overcome them. Further it covers a deeper dive into the Scala programming language.</p><p>Moving on it covers Spark as a standalone cluster and an understanding of Resiliient Distributed Datasets.</p><p> The course also covers concepts of Spark SQL using SQL queries through SQL context and Hive Queries through Hive context.</p><p>This course certainly provides material required for building a career path from Big data Hadoop developer to BIg data Hadoop architect.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Apache Spark and Scala", 
+    "price": "25.00", 
+    "instructors": "Digitorious Technologies", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/792230_aa62_3.jpg", 
+    "course_url": "https://www.udemy.com/apache-spark-and-scala/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-14T10:49:04Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t This Java EE 7 training course from Infinite Skills teaches you the concepts, tools, and functions you will need to know in order to build websites using Oracle&rsquo;s popular Java Enterprise Edition programming language.  </p>  <p style=\"\">  \t <br style=\"\">  \t You will start with an introduction to the Web and Java HTTPServlets, then move into learning more about HTTPServlets and parameters. You will learn about Java Server Pages (JSP), such as including directive and comments, page directive import and scripting, and declarations and page directive sessions. This video tutorial will also teach you about Java Standard Tag Library (JSTL), including how to download, install, import, and setup core tags, set and remove variables, among other JSTL functions. Brian will also teach you about custom tag libraries, filters and wrappers, and web security. Finally, you will learn how to build a themed website and web frameworks.<br style=\"\">  \t <br style=\"\">  \t By the completion of this video based training course, you will have the knowledge and skills needed to create fully functional Java EE programs. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Java EE 7 A Practical Training Course From Infinite Skills", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/146780_eaa6_9.jpg", 
+    "course_url": "https://www.udemy.com/java-ee-7/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-01-14T14:40:02Z"
+}

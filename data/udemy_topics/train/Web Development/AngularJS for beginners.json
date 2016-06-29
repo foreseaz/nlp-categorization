@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong style=\"\">What is the course about?</strong></p><p>AngularJS for beginners course is meant to teach the basics of AngularJS framework for students with minimal web development experience. </p><p>Web development concepts and AngularJS framework features are explained in a series of very easy to understand lectures. There is also a hands-on lab at the end of the course to reinforce the learning of the course material.</p><p><strong style=\"\">What kind of materials are included with the course?</strong></p><p>There is an hour and a half worth of video lectures and downloadable source code examples that you can use to get a jump start. The well commented source codes could be used as a base to experiment and learn.</p><p><strong style=\"\">How long will the course take to complete?</strong></p><p>The course is expected to take around an hour and a half to complete. More offline experimentation with the source code is recommended as well.</p><p><strong style=\"\">What is needed to take the course?</strong></p><p>All you need is a PC/laptop or Mac, internet connection and an hour and a half of your precious time.</p><p><strong style=\"\">How is the course structured?</strong></p><p>This course is structured with the perspective of a student who has not had a lot of web development experience and is very interested in keeping pace with the latest and the most popular java script framework on the planet - AngularJS!</p><p><strong style=\"\">What do you get out of this course?</strong></p><ul style=\"\"><li>One and a half hours of video lecture &amp; downloadable example source code</li><li>Very good understanding of the basics of AngularJS</li><li>Deep insight into the inner working of the components that constitute AngularJS</li><li>Hands on lab experience to reinforce all of the learning through out this course</li></ul>", 
+    "end_date": null, 
+    "title": "AngularJS for beginners", 
+    "price": "25.00", 
+    "instructors": "Arun Arunachalam", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/474576_5334_3.jpg", 
+    "course_url": "https://www.udemy.com/angularjs-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-13T04:39:09Z"
+}

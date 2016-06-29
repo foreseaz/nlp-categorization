@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>***Udemy has announced a new pricing structure coming this April.***</strong></p><p><strong><em></em></strong></p><p><strong>***Get this course for only $19 before PRICES INCREASE.***</strong></p><p>Selenium is a free automation testing tool for web applications. It is able to work with different browsers like Chrome, Firefox, IE, Opera and simulate human like behavior. Selenium is able to interact with all the different elements in a webpage. It can click on them, input text, extract text and much more. By covering all the different functionalities on your website with Selenium tests, you will be able to quickly catch new and reappearing old bugs. This will save your team time and money.</p><p><strong>Specially for you</strong>, I have prepared a website where you can play around and practice your skills.</p><p>The website has special elements designed specificly for the course and for you to be able to easily work with them and learn.</p><p>In this course we will focus on <strong>Graphic User Interface and Functionality Testing</strong> and we will learn how to work with the various selectors that Selenium offers us to use like:</p><ul><li>Name selector</li><li>ID Selector</li><li>Class Name selector</li><li>CSS Path selector</li><li>X Path selector</li></ul><p>After that we will learn how to work with some special elements like:</p><ul><li>Input text boxes</li><li>Check boxes</li><li>Radio buttons</li><li>Drop down menus</li><li>JavaScript Alert boxes</li></ul><p>We will also have a few theory lectures in which I will explain:</p><ul><li>When you should use either of these selectors;</li><li>What is a Test Case/Scenario</li><li>How you can use Mindmaps in testing</li></ul><p>Then we will start creating our Automation Framework and by the end of the course you will write your tests in Plain English!</p>", 
+    "end_date": null, 
+    "title": "Selenium WebDriver – Everything you need to know!", 
+    "price": "20.00", 
+    "instructors": "Eng. Tod Vachev", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/553454_3168_3.jpg", 
+    "course_url": "https://www.udemy.com/seleniumqa/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-13T16:22:47Z"
+}

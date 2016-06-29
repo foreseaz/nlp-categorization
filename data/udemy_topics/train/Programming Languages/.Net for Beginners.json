@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Are you trying to crack the code of enterprise level development?  Perhaps you&#039;re looking for an introduction in to .net-- One of the most widely used enterprise environments in the world? Do you need to start working on .net projects but have no idea where to start?  Do you need an understandable way to support your .net learning?</p><p>Whatever your reason is, there is no better way to get started with enterprise level .net development than .Net for Beginners with Bruce Landry.  Bruce&#039;s patience and experience shines through as he explains every aspect of the .net environment and shows you the fundamentals of developing Windows and web-based applications.</p><p>Just because this course is for beginners doesn&#039;t mean it&#039;s not comprehensive!  This course will show you how to build a full Windows application including database back end.  You&#039;ll also tour a web-based application and learn how to integrate the many useful .net libraries.</p><p>Your enterprise development career starts here!  After this course, you&#039;ll be thoroughly prepared to make your own .net applications.</p>", 
+    "end_date": null, 
+    "title": ".Net for Beginners", 
+    "price": "20.00", 
+    "instructors": "LearnToProgram, Inc., Mr. Bruce Landry", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/366844_c08a_3.jpg", 
+    "course_url": "https://www.udemy.com/dot-net-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-09T19:36:33Z"
+}

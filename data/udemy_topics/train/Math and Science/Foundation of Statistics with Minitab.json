@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p style=\"\"> Start to learn Statistics in a way where the use of a statistical software is in the center. Data analysis sessions are used to initiate you not only into solving problems with a software but also making the concepts of Statistics clear with using the capabilities of a high performance statistical software package in visualizing the hidden structures and tendencies in your datasets. </p><p style=\"\"><strong style=\"\">Get the skills of visualizing your data structure with the most appropriate tools of Descriptive Statistics.</strong></p><p style=\"\"><strong style=\"\">Learn from animated video lessons about the process of manipulating data, visualizing the central tendencies, the spread of your data or the relationships between variables.</strong></p><ul style=\"\"><li style=\"\">Graphical methods for summarizing qualitative and quantitative data.</li><li style=\"\">Dot plots, Individual value plot, Box-plots, Stem-and-leaf plots, Histograms.</li><li style=\"\">Numerical descriptive statistics for quantitative variables.</li><li style=\"\">Mean, Median, Mode.</li><li style=\"\">Graphical and numerical methods for investigating relationships between variables.</li><li style=\"\">Correlation, Regression.</li></ul><p style=\"\"><strong style=\"\">Simulate random data, calculate probabilities, and construct graphs of different distributions.</strong></p><ul style=\"\"><li style=\"\">Discrete distributions: Binomial, Hypergeometric, Poisson etc.</li><li style=\"\">Continuous distributions: Normal, Exponential, Student-t, Chi square etc. </li></ul><p style=\"\"><strong style=\"\">Learn how to generate random data to simulate repeated sampling to study different sample statistics.</strong></p><ul style=\"\"><li style=\"\">Large and small sample cases with known or unknown variances.</li><li style=\"\">Simulation of confidence intervals for population mean or population proportions. </li></ul><p style=\"\"><strong style=\"\"><strong style=\"\">Get the skills of conducting hypothesis tests and constructing confidence intervals.</strong></strong></p><ul style=\"\"><li style=\"\">One-, two- and multiple sample situations.</li><li style=\"\">Tests for population means, population proportions, or population variances.</li><li style=\"\">Checking the validity of the assumptions.</li><li style=\"\">Z-tests, t-tests, ANOVA.</li><li style=\"\">Randomized design.</li></ul><p style=\"\"><strong style=\"\">This course is comprehensive and covers the introductory chapters of both the Descriptive and Inferential Statistics.</strong></p><ul style=\"\"><li style=\"\">48 video lectures.</li><li style=\"\">5 hours video.</li><li style=\"\">Lecture Notes with 745 slides</li><li style=\"\">Test Yourself Questions and Answeres with 79 slides.</li></ul><p style=\"\"><strong style=\"\">Enjoy the benefit of the well-structured, short and yet comprehensive video lectures</strong>.</p><p style=\"\"> In these lectures all things happen inside a software driven analysis. </p><p style=\"\">All in one place, within the same video lesson, gaining computer skills, getting theoretical background, and mainly getting the ability to interpret the outputs properly. </p><p style=\"\">These lessons are specially prepared with intensive screen animations, concise and yet comprehensive, well-structured explanations. If you like you can turn on subtitles to support the comprehension.</p><p style=\"\">The verification of the assumptions for a test, the basic theoretical background or even the formulas applied in a procedure appear in these video tutorials at the right instances of the analysis. The outputs are explained in a detailed manner in such an order that enables you to make the appropriate conclusions.</p><p style=\"\"><strong style=\"\">Learn in a way when you watch the video and do the same simultaneously in your own Minitab.</strong></p><p style=\"\">Watching a video, pausing it and doing the same steps simultaneously in your own Minitab is the best way of getting experience and practice in data manipulation. Repeating the sessions with different sample data develops your skill to solve statistical problems with a software. </p>", 
+    "end_date": null, 
+    "title": "Foundation of Statistics with Minitab", 
+    "price": "20.00", 
+    "instructors": "László Csanaki Bognár", 
+    "commitment": "19 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/499676_1048_7.jpg", 
+    "course_url": "https://www.udemy.com/foundation-of-statistics-with-minitab/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-12T05:33:14Z"
+}

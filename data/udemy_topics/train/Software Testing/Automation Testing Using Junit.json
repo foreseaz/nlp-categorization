@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t      JUnit is a unit testing framework for the Java programming language.  JUnit has been important in the development of test-driven development,  and is one of a family of unit testing frameworks collectively known as  xUnit that originated with JUnit.  </p>  <p>  \t           This tutorial will teach you how to use JUnit in your day-2-day life  of any project unit testing while working with Java programming  language.  </p>  <p>  \t            The Video includes from setting up the environment till integration with CI tools  </p>  <p>  \t <strong style=\"\">In this training course, attendees will learn the following</strong>  </p>  <p>  \t          1. Working with Junit framework classes such as JUnitCore, Result, Failure class etc.  </p>  <p>  \t          2. How to use Assertion.  </p>  <p>  \t          3. How the execution of code take place in Junit.  </p>  <p>  \t          4. Reading the test data from Database &amp; CSV Files (Data Driven Testing)  </p>  <p>  \t          5. How to do batch execution of testcases.  </p>  <p>  \t <strong style=\"\">Basic of Ant build Tool</strong>  </p>  <p>  \t          1. What is build.xml.  </p>  <p>  \t          2. What is a target, different type of target present in Ant.  </p>  <p>  \t          3. How to write target for Junit.  </p>  <p>  \t          4. Integration execution of Junit using Ant tool.  </p>  <p>  \t <strong style=\"\">Continuous Integration Tool Jenkins</strong>  </p>  <p>  \t          1. Configuring the Jenkins.  </p>  <p>  \t          2. Execution of Junit from Jenkins.  </p>  <p>  \t          3. Integration of Ant with Jenkins.  </p>  <p>  \t <strong style=\"\">Eclipse Plugin</strong>  </p>  <p>  \t          1. Run the Junit using eclipse plugin  </p>  <p>  \t        2. @Runwith &amp; @SuiteClasses Annotation  </p>  <p>  \t <strong style=\"\">And source code shown as part of video lecture will be provided for download</strong>  </p>", 
+    "end_date": null, 
+    "title": "Automation Testing Using Junit", 
+    "price": "20.00", 
+    "instructors": "Rahul Singh Rathore", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/183010_2b23_3.jpg", 
+    "course_url": "https://www.udemy.com/automation-testing-using-junit/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-03-15T10:12:52Z"
+}

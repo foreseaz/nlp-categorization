@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tIn this course, we will live code a simple four-page website built using the web framework, Foundation.  </p>  <p style=\"\">  \tFoundation 5 is an open-source framework created by ZURB, a design agency in California. They released the 5.0 version of the product in late 2013 and this course is based on the latest version.  </p>  <p style=\"\">  \tIt is one of the more popular frameworks available on the Web today and is absolutely free.  </p>  <p style=\"\">  \tThe purpose: Make websites beautiful without a lot of work. This course walks you through some of Foundation&#039;s core features that produce beautiful websites with a little effort.  </p>  <p style=\"\">  \tIt contains almost all of the CSS styling you will need for a website and a lot of cool jQuery tools to extend your website. It also allows you to make your website responsive so it can be viewed on mobile designs.  </p>  <p style=\"\">  \tThis course will walk you through creating a website from scratch using the framework. You do not need to be an expert in HTML or CSS. But if you know the basics, it will take you a long way.  </p>  <p style=\"\">  \tIf you do not know the basics, we will create the elements of the website and will answer any questions you have.  </p>", 
+    "end_date": null, 
+    "title": "Foundation 5 for Beginners", 
+    "price": 0, 
+    "instructors": "Drew Butler", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/41898_9a60_4.jpg", 
+    "course_url": "https://www.udemy.com/foundation-5-for-beginners/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-02-16T02:22:55Z"
+}

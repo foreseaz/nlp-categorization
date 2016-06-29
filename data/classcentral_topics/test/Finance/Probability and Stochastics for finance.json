@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Finance"
+    ], 
+    "description": "\n\n                    \n                    \n                    This course provides the minimum mathematical requirements to study mathematical finance or more precisely the pricing of financial derivatives.\n\n                                            Syllabus\n                        Week 1:Basic ProbabilityInteresting problems in probablityRandom variables,distribution functions and independenceChebyshev inequality,Borel-Cantelli lemmas and related issuesLaw of Large Numbers and Central Limit TheoremWeek 2:Conditional ExpectationMartingalesBrownian MotionWeek 3:Deterministic vs random differential equationStochastic IntegralsIto CalculusWeek 4:Stochastic Differential Equations:Definitions and ExamplesProperties of the solution of stochastic differential equations\n                                    ", 
+    "end_date": "2016-02-15T00:00:00Z", 
+    "title": "Probability and Stochastics for finance", 
+    "price": 0, 
+    "instructors": "Joydeep Dutta", 
+    "institution_name": [
+        "IIT (Indian Institute of Technology, Kanpur)"
+    ], 
+    "commitment": "2-3 hours", 
+    "subject_name": [
+        "Business & Management"
+    ], 
+    "course_url": "https://onlinecourses.nptel.ac.in/noc16_ma02", 
+    "duration": "4 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "NPTEL"
+    ], 
+    "start_date": "2016-01-18T00:00:00Z"
+}

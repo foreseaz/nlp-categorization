@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Bloggy | Medium clone</p><p>In this course we will make medium app within Ruby on Rails. With many features to learn and used which will help you to make a website of story telling with nice design and can share those stories with the friends.</p>Features:<ul><li>Material Design of website</li><li>WYSIWYG editor (for easy writing stories)</li><li>Story Taggings</li><li>Multiple Blogging</li><li>Search Stories</li><li>Images saving and resizing</li><li>User Authentications</li><li>User Authorisations</li><li>User Profiles</li><li>Search Engine Optimisation and Social Sharing</li><li>Disqus Comment System</li></ul><p>So there are tons of features to learn in one course.</p><p>You will make this app with instructor who teaches step by step from the complete basic.</p>", 
+    "end_date": null, 
+    "title": "Make Medium (https://medium.com) Clone in Ruby on Rails", 
+    "price": "20.00", 
+    "instructors": "Sulman Baig", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/696656_ed36_2.jpg", 
+    "course_url": "https://www.udemy.com/bloggy-ruby-on-rails/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-13T21:54:22Z"
+}

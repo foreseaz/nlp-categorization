@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is all about creating a fully functioning production ready, real time web application! We will learn how to bring together many different libraries and techniques from the JavaScript ecosystem together into a cohesive product that is ready for deployment!</p>\n\n<p>Many courses focus on individual components and small example applications; while this one instead focuses on how everything can work together. If you want to see the development of a completed project working seamlessly with socket.io, nodejs, Reactive Extensions, WebPack (and more!), then this is the course for you!<br>We not only have a focus on our build pipeline - both development and production - but also on creating an architecture that takes advantage of the reactive programming paradigm.</p>\n\n<p>It's impossible to classify this course as a tour of any particular component, since, as you know, real applications are much more complicated than that. But rest assured that we leave no stone unturned as we explore how each component can work seamlessly together.</p>\n\n<p>So if you want to take your JavaScript skills to the next level, if you want to be up to date on the latest development techniques, then this course is a must!</p>", 
+    "end_date": null, 
+    "title": "Modern JavaScript: Building Real-World, Real-Time Apps", 
+    "price": "20.00", 
+    "instructors": "3D BUZZ Programming and Digital Art training", 
+    "commitment": "13.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/807874_0835_2.jpg", 
+    "course_url": "https://www.udemy.com/real-world-real-time-modern-javascript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-30T05:20:10Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is for all of you who like to become expert of Automation Testing (both beginners and advanced). This course is built as a <strong><em>complete end to end project</em></strong> with real world solution structure and development patterns, with special attention to real world problems and how to fix/solve/bypass them. Learn how to create logic layers and use development patterns to bring automation to the next level.</p><p>This course is different because on top of teaching how to use and implement the selenium web driver, it also teaches how to use it in the real world by building a complete testing solution with dynamic testing, schedule runs, reporting and branching. <br></p><p>Here you will find all the tricks and secrets which you will not find by searching on the internet. Thousands of experience hours were fined into one course. </p><p>No more \"How to do...\" it is time for \"<strong><u><em>This is how it's done!</em></u></strong>\".</p>", 
+    "end_date": null, 
+    "title": "Selenium, C# and Everything in Between", 
+    "price": "50.00", 
+    "instructors": "Roei Sabag", 
+    "commitment": "13.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/672414_7f97_2.jpg", 
+    "course_url": "https://www.udemy.com/selenium-csharp-and-everything-in-between/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-17T16:39:59Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Static timing analysis comprises broadly for timing checks, constraints and library. Having all of them in a single course makes it bulky. So we decided to have it in 3 parts and this is part I - Essential timing checks. This course will give an eagle's eye to every timing check that is being performed in current industries for sign-off. This will also introduce you to basic terminologies for timing, which are needed for advanced courses on STA. </p><p>Timing comes at every step of physical design flow, but in this course, we primarily focus on signoff timing i.e. looking into each and every corner of design for any timing violations</p><p>The course starts from very basic and gradually takes you to an advanced level at an intermediate pace. So no questions on you missing any details</p><p>Hope you enjoy learning this course in the same way we enjoyed making them.</p><p>Happy Learning !!</p>", 
+    "end_date": null, 
+    "title": "VLSI Academy - Static Timing Analysis - I", 
+    "price": "20.00", 
+    "instructors": "Kunal Ghosh", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/751226_f79b_2.jpg", 
+    "course_url": "https://www.udemy.com/vlsi-academy-sta-checks/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Design Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-03T13:36:24Z"
+}

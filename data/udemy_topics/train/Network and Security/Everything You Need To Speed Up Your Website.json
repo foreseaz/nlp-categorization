@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Everything You Need To Speed Up Your Website in 1 hour and 1 place. &nbsp;Sure, you can scour the web for the same information. &nbsp;But how many hours will you spend and what kind of quality will you find? &nbsp;Give me 1 hour to improve your speed score and overall site speed.<br></p><p>I&#039;ll walk you through how to find bottlenecks that are slowing down your site. &nbsp;You&#039;ll see how to get a good speed score, which is important for search engines. &nbsp;We&#039;ll go through resolving bottlenecks and increasing your website&#039;s overall speed.&nbsp;</p><p>We start with getting a baseline speed score then begin drilling down into areas causing performance issues. &nbsp;You&#039;ll learn why those areas are causing problems. &nbsp;Then we look at different tools for optimizing images and script files. &nbsp;Next, we&#039;ll move into utilizing Amazon S3 as a CDN (Content Delivery Network) and discuss its an importance in your sites&#039; performance. &nbsp;Finally we&#039;ll look at how to make javascript more efficient and go through a summary of the course, giving you an action plan.</p>  ", 
+    "end_date": null, 
+    "title": "Everything You Need To Speed Up Your Website", 
+    "price": "50.00", 
+    "instructors": "Brett Romero", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/48781_8d06_4.jpg", 
+    "course_url": "https://www.udemy.com/everything-you-need-to-speed-up-your-website/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-04-07T01:34:32Z"
+}

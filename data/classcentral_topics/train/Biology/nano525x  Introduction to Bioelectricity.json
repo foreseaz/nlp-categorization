@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Biology"
+    ], 
+    "description": "\n\n                    \n                    \n                    In this course you will use fundamental engineering and mathematical tools to understand and analyze basic bioelectricity and circuit theory in the context of the mammalian nervous system.\n\n \n\nThis course is for students who are interested in learning about relating the systems of the human body that involve or communicate with bioelectrical systems, including the heart, brain, muscles, and the neuromuscular system that connects them all together. \n\nStudents will learn how bioelectricity can be used to record and control the way the body electric behaves. Suggested text: “Neuroscience” by Purves, et al. \n\nThis course is offered by the nanoHUB-U project, which is jointly funded by Purdue and NSF with the goal of transcending disciplines through short courses accessible to students in any branch of science or engineering. These courses focus on cutting-edge topics distilled into short lectures with quizzes, homework, and practice exams.\n\n                                    ", 
+    "end_date": "2015-12-14T00:00:00Z", 
+    "title": "nano525x: Introduction to Bioelectricity", 
+    "price": 0, 
+    "instructors": "Pedro Irazoqui", 
+    "institution_name": [
+        "Purdue University"
+    ], 
+    "commitment": "4-6 hours", 
+    "subject_name": [
+        "Science"
+    ], 
+    "course_url": "https://www.edx.org/course/introduction-bioelectricity-purduex-nano525x", 
+    "duration": "16 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2015-08-24T00:00:00Z"
+}

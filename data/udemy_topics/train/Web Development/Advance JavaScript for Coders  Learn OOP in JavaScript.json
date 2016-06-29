@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Do you love coding in JavaScript, but are struggling to master advance JavaScript concepts? Also, does creating sound design pattern for your apps seem a little difficult? Shouldn’t there be a better way for writing codes where a little code can perform a herculean task? There is! It’s object-oriented JavaScript.</p>\n\n<p>JavaScript works well with OOP (object-oriented programming) because of three major techniques that simplify coding for developers – Inheritance, Polymorphism and Encapsulation.</p>\n\n\n\n\n\n\n\n<p> Object-oriented programming also allows developers to contain pieces of codes that can be encapsulated within an object, which can then be called numerous times in the application without having to write the code again. Another benefit of OOP JavaScript is prototype-based inheritance, compared to classes based, which allows an object to directly inherit from another object. </p>\n\n\n\n\n\n\n\n<p>You will learn how to maximize your code using OOP and JavaScript, as well as so much more in this comprehensive course. </p>\n\n\n\n\n\n\n\n<p>In our object-oriented JavaScript course, you will learn how to perfectly blend the practicality of object-oriented programming with the functionality of JavaScript to write codes that are clean, concise and perform exactly the way you want them to.</p>\n\n\n\n\n\n\n\n<p>The course will begin with a quick refresher on JavaScript and its basic fundamentals, with an emphasis on important concepts such as closures and prototypes. It will then progress to understanding object-oriented programming principles and how they can be integrated with JavaScript. You will also learn OOP concepts such as encapsulation, inheritance, etc. and how they can be used to enhance your JavaScript codes.</p>\n\n\n\n\n\n\n\n<p>The tutorial will also include how OOP and JavaScript will perform in browsers with reference to Document Object Model (DOM) and Browser Object Model (BOM). The course comes packed with many coding examples, which the learners are definitely encouraged to try on their own. </p>\n\n\n\n\n\n\n\n<p>Let OOP JavaScript simplify your codes and your life. Click Enroll now!</p>", 
+    "end_date": null, 
+    "title": "Advance JavaScript for Coders: Learn OOP in JavaScript", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "11.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/845794_af84.jpg", 
+    "course_url": "https://www.udemy.com/advance-javascript-for-coders-learn-oop-in-javascript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-11T07:06:32Z"
+}

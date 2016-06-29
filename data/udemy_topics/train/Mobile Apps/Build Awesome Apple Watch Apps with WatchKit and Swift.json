@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course, taught by expert author Skip Wilson, you will learn how to write basic to moderately complex Apple Watch applications using the WatchKit SDK. This course will give you the confidence and skill set needed to use the WatchKit to build your own Apple Watch apps from start to finish.</p><p>Follow along with Skip as he introduces you to the WatchKit app and shows you how it works. This tutorial covers everything you need to know to develop your Apple Watch apps, including:</p><p>- animating in WatchKit</p><p>- creating a map and advanced pins and tables</p><p>- notifications and custom messages</p><p>- dynamic notifications</p><p>By the end of this course, you will have learned everything you need to know to develop your own Apple Watch apps using the WatchKit SDK. It is recommended that students taking this course should have a basic understanding of Swift, as well as basic programming concepts. </p>", 
+    "end_date": null, 
+    "title": "Build Awesome Apple Watch Apps with WatchKit and Swift", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/580472_b3b8_2.jpg", 
+    "course_url": "https://www.udemy.com/build-awesome-apple-watch-apps-with-watchkit-and-swift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-11T19:24:49Z"
+}

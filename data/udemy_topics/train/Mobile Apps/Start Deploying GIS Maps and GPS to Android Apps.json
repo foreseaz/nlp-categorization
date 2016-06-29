@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>“The world we live is full of coordinates and I love it!\" - Alfred Lam, the course instructor.</p>\n\n<p>“The essence of creating a beautiful map is balance!\" - Alfred Lam, the course instructor.</p>\n\n<p>This is an entry-level course teaching how to add GIS maps to Android application. The purpose of this course is to give you a basic idea of how to create an Android GIS App from scratch.</p>\n\n<p>GIS stands for Geographic Information System. It is composed of hardware, software, people, environment, and data. Therefore, students with different backgrounds can learn and use GIS. The purpose of this course is to convey a concept to students that adding a GIS map to Android Apps for your clients is not difficult. You can spend your minimum time to handle it.</p>\n\n<p>If you are new to using GIS maps in Android development, this course is the right place for you to start. The ArcGIS Runtime SDK for Android has been developed by ESRI, which is so far the biggest vendor of GIS systems and applications in the world. Some developers may ask why do we bother to use GIS maps as we already have Google map. My answer is that the Google map is great for you to identify your locations. But its data, functionality, and flexibility are far from enough if you want to create a versatile app with various basemaps, to tell a story, to add your own map features, or to perform an analysis to your clients with a map. ArcGIS, on the other hand, is the most comprehensive and advanced GIS in the world and it is capable of performing all these tasks for you.</p>\n\n<p>Time is precious for many app developers and programmers. This course was condensed with all necessary steps for starting a Android GIS app development. For those GIS users, students, iOS developers, and anyone who are interested in developing more decent mobile or web GIS apps. Please be aware of my other course announcements about Android, JavaScript, and iOS in the future.</p>\n\n<p>After completing this course and the exercises, you will be able to:</p>\n\n<ul><li>Setup Android Studio project with ArcGIS Maven online repository;</li><li>Setup Android Studio project with ArcGIS SDK manually;</li><li>Sign up a ArcGIS Developers Account (Free);</li><li>Create a webMap at ArcGIS Online</li><li>Set a default basemap in xml;</li><li>Select a basemap type;</li><li>Select map layers from ArcGIS Rest Services Dictionary;</li><li>Add multiple map layers in java;</li><li>Enable map continuously;</li><li>Set map extent;</li><li>Open a webMap in xml;</li><li>Open a webMap in java;</li><li>Display GPS on map;</li><li>Turn on/off with a tailor-made GPS menu item;\n</li><li>Show toast messages;</li></ul>", 
+    "end_date": null, 
+    "title": "Start Deploying GIS Maps and GPS to Android Apps", 
+    "price": "20.00", 
+    "instructors": "Alfred Lam", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/558840_ae9d_4.jpg", 
+    "course_url": "https://www.udemy.com/start-deploying-gis-maps-to-android-apps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-19T18:54:06Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>O curso completo de ASP.NET possui 77 video aulas, contendo tudo sobre \nesta linguagem, neste curso você aprenderá a trabalhar com asp dentro do\n visual studio para desenvovimento de projetos voltados para web, ele é \nideal para criação de sistemas, veremos diversos recursos e controles \nespecíficos voltados para o desenvolvimento, se você já programa ou \nainda é iniciante este é o curso ideal para deslanchar sua carreira, é \numa das linguagens que atualmente mais crescem no mercado mundial, pois a\n tendencia dos sistemas hoje em dia é de funcionarem online via WEB.</p>", 
+    "end_date": null, 
+    "title": "Curso de ASP.NET com C#", 
+    "price": "20.00", 
+    "instructors": "Hugo Vasconcelos", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/761582_9f3c_3.jpg", 
+    "course_url": "https://www.udemy.com/curso-de-aspnet-com-c/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-13T16:55:23Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t ¿Te gustaría crear tus propios juegos para el iPhone y el iPad? Si la respuesta es sí, este curso está hecho para ti. Aprende a crear tus propios juegos de una forma sencilla y entretenida usando Swift y Sprite Kit.  </p>  <p style=\"\">  \t ¿Sabías que la categoría de juegos es la más popular en el App Store? Ahora tienes la oportunidad de añadir tu creación al mercado de aplicaciones mundial.  </p>  <p style=\"\">  \t Swift es el nuevo lenguaje de Apple que rápidamente se está convirtiendo en un favorito de los desarrolladores. Descubre el poder y la sencillez de este lenguaje para crear juegos nativos para iOS.  </p>  <p style=\"\">  \t Sprite Kit es la plataforma de desarrollo de juegos de Apple, que te permite crear juegos con animaciones, sonido, simulación de física (gravedad, velocidad, colisiones) y generación de partículas.  </p>  <p style=\"\">  \t Este curso está creado de manera que programadores y no programadores puedan sacarle provecho.  </p>  <p style=\"\">  \t En esta primera parte aprenderás de forma divertida:  </p>  <ul style=\"\">  \t<li style=\"\">Cómo usar Playgrounds para probar tu código y experimentar</li>  \t<li style=\"\">Los conceptos básicos de Swift que vas a necesitar para crear tus juegos</li>  \t<li style=\"\">Aprenderás a usar Sprite Kit para crear tu primer juego: Tic-Tac-Toe</li>  \t<li style=\"\">Incluimos además lo que en la mayoría de los tutoriales no se consigue: Los errores que puedes cometer al programar y cómo resolverlos.</li>  </ul>  <p style=\"\">  \t Este curso incluye:  </p>  <ul style=\"\">  \t<li style=\"\">12 presentaciones en vídeo que te llevarán paso a paso en la creación de tu juego</li>  \t<li style=\"\">Ayuda de mentores. Si tienes preguntas durante el curso no dudes en escribirnos. Nos encanta poder ayudar a otros programadores.</li>  </ul>  <p style=\"\">  \t Al terminar esta primera parte del curso tendrás las destrezas necesarias para poder crear un sinnúmero de juegos.  </p>  <p style=\"\">  \t ¿Estás listo para aprender a crear el próximo juego que todos vamos a querer jugar?  </p>  <p style=\"\">  \t ¡Comienza hoy con la primera parte!  </p>", 
+    "end_date": null, 
+    "title": "Creando juegos con Swift  - Parte 1", 
+    "price": "30.00", 
+    "instructors": "Antonio Tangarife", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/246148_7c49_5.jpg", 
+    "course_url": "https://www.udemy.com/creando-juegos-con-swift-parte-1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-19T00:00:50Z"
+}

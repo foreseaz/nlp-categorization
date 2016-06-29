@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>The Java language is used from everything like cellphones to Blu-Ray players, and lots of websites depend on it to deliver content to their audience and visitors. </p><p>Most importantly, it's a versatile and mobile language, which means that applications written in Jana on one platform can be easily moved (or transferred) to a number of other platforms without changing the code. </p><span><p>In the class, we concentrate on teaching the skills you'll need to have to begin programming useful programs in Java. Anyone attempting to learn Java will gain from this training offered, even though this class was created in response to the demand for a precursor to our Android development courses. <br></p></span><p>Java is a huge topic, and learning it is an ongoing pursuit. Our objective in this class would be to teach you the basic skills you'll need to learn, along with a solid foundation of object-oriented programming techniques.</p><p>We will be focusing on Summary, Obtaining Java, Installing IntelliJ Idea, and working with IntelliJ Idea</p><p><strong>Prerequisites:</strong></p><p>Exposure to a programming language, for example C or some experience with it is helpful, although not needed. You'll need a desktop computer or notebook computer that's powerful enough to run JDK and IntelliJ IDEA. And last, but definitely not least, you'll also need the willingness to learn.</p>", 
+    "end_date": null, 
+    "title": "Java Programming for Mobile Developers - Lite", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/690794_e755.jpg", 
+    "course_url": "https://www.udemy.com/java-programming-for-mobile-developers-lite/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-07T06:03:29Z"
+}

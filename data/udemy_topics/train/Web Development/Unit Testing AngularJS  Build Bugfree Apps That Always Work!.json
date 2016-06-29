@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>With over 1300 students and 40+ positive reviews</strong> <strong>this course is Udemy's most popular course covering Unit Testing for AngularJS! </strong></p>\n\n<p><strong>Read on to learn why testing your Angular code can help you build stronger apps that always work when you need them to.</strong></p>\n\n\n\n<p>When I first started using Angular for our projects, I fell in love with just how easy it was to create apps which looked and worked great.<br></p>\n\n\n\n<p>But as the apps we developed became more complex, and the number of people working on the same codebase grew, it became more and more difficult to keep track of all the changes happening in the code and what it’s actually meant to be doing, which lead to a lot of bugs and headaches.</p>\n\n\n\n<p><strong>Re-writing or fixing broken code is not only frustratingly boring, it’s also a massive waste of time and money.</strong></p>\n\n\n\n<p>So I’d like to help you out, by showing you how learning about testing AngularJS apps will save you from falling into the same situation.</p>\n\n\n\n<p>Hi, I’m Matt and in this course I’ll walk you through how to <strong>Unit Test AngularJS code so that your app will never again break unexpectedly</strong>. </p>\n\n\n\n<p>After completing this course you’ll be able to implement unit tests in your own Angular app, so that you can spend less time on fixing bugs and just <strong>focus on the fun parts of development!</strong></p>\n\n\n\n<p>Whether you're a developer or a quality insurance engineer, you'll learn skills in this course which apply to any AngularJS environment.</p>\n\n\n\n<p>You’ll learn about:</p>\n\n\n\n<ul><li>Testing concepts, tools and why you should test</li><li>Implementing <strong>code coverage in Angular using Istanbul</strong> and analysing the results to identify weak points in our tests and in our code</li><li>How to <strong>setup Karma and Jasmine from scratch</strong></li><li>Tracking function calls and events using spies</li><li>How to test custom controllers, filters and services</li><li>How to <strong>mock dependencies using $provide and spies</strong></li><li>Keeping code DRY using Jasmine’s beforeEach() and afteEach() functions</li><li><strong>Testing custom directives’ JS code and the HTML template</strong></li><li>How to test for backend AJAX calls, timeouts and promises</li><li>Debugging Karma to easily solve any problems with your unit tests</li></ul>\n\n\n\n<p>If you’re not convinced about enrolling in the<strong> Unit Testing AngularJS</strong> course and learning about using Karma and Jasmine testing in Angular, take a look at the <strong>free preview videos</strong> and let me show you how to make your code rock solid so that it stands the test of time!</p>", 
+    "end_date": null, 
+    "title": "Unit Testing AngularJS: Build Bugfree Apps That Always Work!", 
+    "price": "25.00", 
+    "instructors": "Matthias Kentzia", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/617158_44af_9.jpg", 
+    "course_url": "https://www.udemy.com/unit-testing-angularjs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-20T10:49:19Z"
+}

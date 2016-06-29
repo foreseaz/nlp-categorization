@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This hands-on course is the starting point for developers, administrators, and architects who are new to MarkLogic technology. It is designed to quickly teach you the core fundamentals as you explore what MarkLogic is, how to install and configure MarkLogic, how to create a database, how to load and query data, and how to connect to a database via programming interfaces.</p><p>To be successful in the course, students should have familiarity with databases, at least one programming language, and some web development experience.</p><p>The course is designed to be very hands-on.  You will be provided with a downloadable virtual machine that contains all the software, data, examples and instructions necessary to complete the labs.  You will watch short videos discussing a topic, and then watch short videos where an instructor guides you through completion of the hands-on labs.</p>", 
+    "end_date": null, 
+    "title": "Fundamentals of the MarkLogic NoSQL Database", 
+    "price": 0, 
+    "instructors": "Ruth Stryker", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/799674_1bbe_2.jpg", 
+    "course_url": "https://www.udemy.com/marklogic-fundamentals/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-21T13:01:25Z"
+}

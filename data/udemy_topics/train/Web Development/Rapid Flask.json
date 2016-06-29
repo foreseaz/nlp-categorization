@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t   This course covers the essentials of web development in Python. It starts by showing you how to set up an interaction between client and server quickly and efficiently, before moving on to cover how to write templates to allow HTML to interact seamlessly with Python. From there, the course flows into receiving and processing input from your app’s users and grabbing data through web services. You’ll be surprised at the range of functionality you’ll find in a web app that takes only 45 minutes to develop!  </p>  <p style=\"\">  \t   The course shows you how to develop a fully functional app in Flask using simple but powerful features. You’ll learn different ways to utilize the input from your app’s users simply and securely. You’ll also discover how to integrate API calls with your app, and how to make template files so that the Python and HTML combo becomes simple and fun to work with.  </p>  <p style=\"\">  \t   This course covers all the essentials of web development; input, processing, and output. It’s really all you need to develop an engaging and interactive web app faster than ever before!  </p>  <h4><strong style=\"\">About the Author</strong></h4>  <p style=\"\">  \t<strong style=\"\">Gareth Dwyer </strong>is a South African Computer Science student with several years of Python and web development experience. He first became interested in coding when he was 14, and this interest has only grown since then. His other computer-related interests include Information Security, Natural Language Processing, NoSQL databases, and most things Linux, while in his largely imagined free time he pursues interests in chess, philosophy, classical piano, and languages.  </p>", 
+    "end_date": null, 
+    "title": "Rapid Flask", 
+    "price": "20.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "43 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/420132_762a_2.jpg", 
+    "course_url": "https://www.udemy.com/rapid-flask/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-12T12:05:51Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">PHP (recursive acronym for PHP: Hypertext Preprocessor) </strong>open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.  </p>  <ul style=\"\">  \t<li>This video course will introduce PHP to you by examples. you will be familiar with scripting languages after 10 min of this course. </li>  \t<li>This course will take about 3 hours for intermediate student.</li>  </ul>  <ol style=\"\">  \t<li>We will start by transferring your PC into a Server, so you can run your PHP code without need to register in any web hosting service.</li>  \t<li>learning PHP syntax will be easy by implementing each step and monitor its result</li>  </ol>  <p>  \t<em style=\"\">This course will prepare you to make your own Content Management System.</em>  </p>", 
+    "end_date": null, 
+    "title": "Introduction to PHP In Arabic", 
+    "price": 0, 
+    "instructors": "Mohamed Saad", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/132910_5a4a_7.jpg", 
+    "course_url": "https://www.udemy.com/arabic-php-intro/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-12T19:48:03Z"
+}

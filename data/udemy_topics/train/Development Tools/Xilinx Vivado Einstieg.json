@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Dieser Kurs erleichtert den <strong class=\"redactor-inline-converted\">Einstieg </strong>in die Entwicklungsumgebung <strong class=\"redactor-inline-converted\">Xilinx Vivado</strong>. Wer sich mit den neusten FPGAs der Firma Xilinx beschäftigt oder beschäftigen möchte, bekommt mit diesem Kurs eine <strong>Schritt für Schritt Anleitung</strong>: Vom Download über die Installation über das Erstellen eines Projektes  und dem Einbinden von VHDL-Quellen bis zur fertigen Implementierung.</p>", 
+    "end_date": null, 
+    "title": "Xilinx Vivado Einstieg", 
+    "price": "20.00", 
+    "instructors": "David Kirchner", 
+    "commitment": "39 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/844596_1031_3.jpg", 
+    "course_url": "https://www.udemy.com/xilinx-vivado-einstieg/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-10T05:14:50Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>JavaScript is the browser language that supports object-oriented, imperative, and functional programming styles, focusing on website behavior. It has a rich set of libraries and frameworks and is the most widely used client-side language with features such as asynchronous communication, controlling browsers, and editing documents. JavaScript provides web developers out there with the knowledge to program more intelligently and idiomatically—something not all programmers can do or understand.</p><p>Mastering JavaScript will immerse you in the JavaScript world, where you will mature as a developer by exploring the best practices for building an original, functional, and useful cross-platform library.</p><p>Starting off with just some basic knowledge of JavaScript and HTML, we will first lay a solid naming foundation for OOP coding by exploring the best naming conventions practices for primitive variables, constructors, methods, and properties. Then we'll shed some light on creating global namespace, create a pure JavaScript onload script, and walk through cross-browser compatibility. We will learn how the onload and DOMContentLoaded events are actually triggered and understand how to use querySelectorAll method and dynamically load scripts using a script loader.</p><p>As the course progresses, we will start building up our own libraries by integrating codes, methods, and logic, we will also expand our library with design patterns such as module, façade, adapter, and singleton. Finally, we will create a working time manager and explore unit testing in JavaScript.</p><p>After working through this video course, you will be equipped with all the knowledge, tips, and hacks you need to stand out in the advanced world of web development.</p><p><strong style=\"\">About The Author</strong></p><p><strong style=\"\">Ben Fhala </strong>discovered his passion for data visualization six years ago while he was working at Parsons in New York, in their data visualization department, PIIM. He is the owner of the online video training school, 02geekcom, and an Adobe ACP. He enjoys spending most of his time learning and teaching and has a love for visual programming and visualization in general. Ben has had the honor of developing applications for members of the US Congress, Prime Ministers, and Presidents around the world.<br style=\"\"></p><p>He has built many interactive experiences for companies such as Target, AT&amp;T, Crayola, Marriott, Neutrogena, and Nokia. He has technically directed many award-winning projects and has been part of teams that have won three Agency of the Year awards. Among Ben's publications are Packt's HTML5 Graphing and Data Visualization Cookbook.</p>", 
+    "end_date": null, 
+    "title": "Mastering JavaScript", 
+    "price": "35.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/602218_a2a0_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-javascript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-04T07:05:54Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>There are some Polymer courses on the web now. Which one should you take? If you're looking to quickly grasp the <strong>core concepts of Polymer </strong>with<strong> hands-on examples </strong>and want to learn from a developer/instructor with over 13 years of experience who has also launched and advised multiple tech startups then this is the course for you!</p><p>The Polymer library is designed to make it easier and faster for developers to create great, reusable components for the modern web. By the time you're done with this course you'll understand how Polymer can be used to <strong>build web applications</strong>. This includes learning the fundamentals of Polymer, how to use <strong>Polymer Elements from the Polymer Element Catalog</strong>, and how to<strong> create your own custom elements</strong>. This is a <strong>hands-on course</strong> that you can follow along with and learn by doing.</p><p>We will build a <strong>To Do Web Application from scratch! </strong>Using our own build <strong>custom components</strong>, <strong>Polymer Elements</strong> and we will use the <strong>Polymer Starter Kit</strong> to boost our development time.</p><p><strong>Polymer is Production ready</strong>.<strong> </strong>Polymer 1.0 has been rebuilt from the ground up for speed and efficiency. The new, leaner core library makes it easier than ever to make fast, beautiful, and interoperable web components. If you haven't used Polymer before, it's time to try it out. If you haven't tried it recently, time to take another look.</p><p>The Polymer course is broken down into 3 sections.</p><ol><li>What is Polymer</li><li>Use a Polymer Element</li><li>Create a Custom Element with Polymer</li><li>Build a To Do Web Application from scratch</li></ol><p>By the end of the course you'll have walked through of all of the key components in Polymer, used a Polymer Element and built a working Custom Element with Polymer. If you're looking to boost your Polymer knowledge look no further than this course. It's a great technology to know and add to your resume!</p>", 
+    "end_date": null, 
+    "title": "Learn and Build using Polymer", 
+    "price": "20.00", 
+    "instructors": "Arman Eker, Hasan Keklik", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/635248_09c2_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-and-build-using-polymer/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-08T20:52:24Z"
+}

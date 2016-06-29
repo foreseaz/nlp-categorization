@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p style=\"\">  \t   During this introductory course for Microsoft Project 2013, we&#039;ll teach the basics of using Project 2013.  </p>  <p style=\"\">  \t   We&#039;ll start with navigating the Project 2013 interface, including the Ribbon, Backstage View and the Quick Access Toolbar.  </p>  <p style=\"\">  \t   Discover concepts to help you create project tasks, dependencies, the basics of working with resources and working with your project file.  </p>", 
+    "end_date": null, 
+    "title": "Introduction to Microsoft Project 2013", 
+    "price": "20.00", 
+    "instructors": "Simon Sez IT", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/113310_044d_5.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-microsoft-project-2013/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-31T14:50:24Z"
+}

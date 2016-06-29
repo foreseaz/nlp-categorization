@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    This class provides a series of Python programming exercises intended to explore the use of numerical modeling in the Earth system and climate sciences.  The scientific background for these models is presented in a companion class, Global Warming I: The Science and Modeling of Climate Change.  This class assumes that you are new to Python programming (and this is indeed a great way to learn Python!), but that you will be able to pick up an elementary knowledge of Python syntax from another class or from on-line tutorials.\n\n                                            Syllabus\n                        Time-Dependent Energy Balance ModelThis class is intended to complement a Coursera class called Global Warming I: The Science and Modeling of Climate Change, which presents much of the background to the material here.  In this class you'll be using spreadsheets (maybe) and Python (definitely) to do some simple numerical calculations on topics in Earth System Science.  The model you'll be working on this week is based on material from Unit 3 of that class, called First Climate Model.  Iterative Runaway Ice-Albedo Feedback ModelThe ideas behind this model were explained in Unit 7, Feedbacks, in Part I of this class. First we get to generate simple linear \"parameterization\" functions of planetary albedo and the latitude to which ice forms (colder = lower latitude ice).  Second, for any given value of the solar constant, L, we'll use iteration to find consistent values of albedo and T, to show the effect of the ice albedo feedback on Earth's temperature, running away to fall into the dreaded \"snowball Earth\".  Ice Sheet DynamicsIce flows like extra-thick molasses, downhill.  The shape of the ice sheet (altitude versus distance across) is determined by the relationship between ice surface slope and the flow rate of the ice.  Pressure, Rotation, and Fluid FlowPlanetary rotation and fluid flow were explained in Part I of this class, Unit 6, on Weather and Climate.  A Model of Climate Changes TodayBackground for this model was presented in Part I of this class, Unit 9, The Perturbed Carbon Cycle. \n                                    ", 
+    "end_date": "2016-07-04T00:00:00Z", 
+    "title": "Global Warming II: Create Your Own Models in Python", 
+    "price": 0, 
+    "instructors": "David Archer", 
+    "institution_name": [
+        "The University of Chicago "
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/learn/global-warming-model", 
+    "duration": "5 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-05-30T00:00:00Z"
+}

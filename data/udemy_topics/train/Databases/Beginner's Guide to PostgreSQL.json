@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tPostgreSQL is an awesome open source relational database, that's fast and easy to use. We've used it here at my company in a few large projects with great performance.  </p>  <p>  \tIn this beginner level PostgreSQL tutorial course I'll be going over all the basic concepts of relational databases and dive into how to use PostgreSQL. No previous database experience is required for this PostgreSQL tutorial course - all the basic concepts like tables and relations are covered. It's thorough and meant to help anyone starting out with databases.  </p>  <p>  \tThe PostgreSQL tutorial course covers database concepts, database installation and connection, client software used to connect to and manage the database (pgAdminIII) and also the main SQL statements and how they work with PostgreSQL.  </p>  <p>  \tThis PostgreSQL tutorial course is currently under construction, with close to 5 hours of material already available. Considering that, I'll be offering it at a discounted price. Once finished, it will be priced at $99.  </p>    &lt;/p&gt;", 
+    "end_date": null, 
+    "title": "Beginner's Guide to PostgreSQL", 
+    "price": "20.00", 
+    "instructors": "Miguel Alho", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/17615_39cc_3.jpg", 
+    "course_url": "https://www.udemy.com/beginners-guide-to-postgresql/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-05-11T15:17:27Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">iOS Swift 1.2 is Apple&#039;s latest language for developing iOS applications. <strong style=\"\">Apple Watch - Basics to pro course is a complete Apple Watch Development course in Swift 1.2</strong>. The course has been designed on a <strong style=\"\">step-by-step approach</strong> starting with the basics <strong style=\"\">reaching to the professional level.</strong> There will be total <strong style=\"\">20 real applications</strong> developed in this course.</p><p style=\"\"><strong style=\"\">Key Topics:</strong></p><p style=\"\">As Apple WatchKit is an extension, a special focus has been put how the extension apps work on Apple Watch with the following key topics and lot more,</p><ul style=\"\"><li style=\"\"><em style=\"\">Swift Fundamentals</em></li><li style=\"\"><em style=\"\">WatchKit App Architecture</em></li><li style=\"\"><em style=\"\">Interface Objects</em></li><li style=\"\"><em style=\"\">App Groups to share the Information</em></li><li style=\"\"><em style=\"\">Two Way Data Communication between Apple Watch and Parent Application</em></li><li style=\"\"><em style=\"\">Cloud Based Applications - Parse</em></li></ul><p style=\"\">You will find each project demonstrated in the course as a fully working app. The complete assets required for the projects along with final project files are available for students to download.</p><p style=\"\">A <strong style=\"\">quiz</strong> is given at the <strong style=\"\">end of each section</strong> for you to test your knowledge and <strong style=\"\">exercises</strong> are given as well at various stages of the course. Student names who submit the complete and working projects for the exercise will be displayed in the relevant lectures.</p><p style=\"\"><strong style=\"\">If you are</strong></p><ul style=\"\"><li style=\"\"><em style=\"\">Totally new to programming,</em></li><li style=\"\"><em style=\"\">Have already worked on Objective-C and want to learn iOS 8 Swift and Apple Watch Development</em></li><li style=\"\"><em style=\"\">Already know iOS programming, Objective-C, Swift Language, Apple Watch Development and want to enhance your skills,</em></li><li style=\"\"><em style=\"\">Want to make your own iOS applications for Apple Watch</em></li></ul><p style=\"\">This course is for you.</p><p style=\"\"><em style=\"\"><strong style=\"\">Sign Up Now and Start Making Your Own Apps for Apple Watch.</strong></em></p>", 
+    "end_date": null, 
+    "title": "Apple Watch - Basics to Pro - Learn by Making 20 Real Apps", 
+    "price": "40.00", 
+    "instructors": "Muhammad Haroon", 
+    "commitment": "10.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/495310_d07d_3.jpg", 
+    "course_url": "https://www.udemy.com/apple-watch-basics-to-pro-learn-by-making-20-real-apps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-06T19:13:04Z"
+}

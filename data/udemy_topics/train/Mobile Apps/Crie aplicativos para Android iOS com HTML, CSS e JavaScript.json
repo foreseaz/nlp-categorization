@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>A cada dia que passa temos usuários migrando totalmente, ou pelo menos em grande parte do seu tempo, do uso de computadores para dispositivos móveis. O mercado de trabalho para esta área está em constante expansão. O desenvolvimento de aplicativos usando Ionic e Cordova permite agilidade no desenvolvimento, por não ser necessário aprender diversas linguagens de programação - apenas HTML, CSS e JavaScript - e rápida publicação de aplicativos nativos nas mais diversas loja online existentes. Crie, publique e monetize aplicação para todos os sistemas operacionais ainda hoje!</p>", 
+    "end_date": null, 
+    "title": "Crie aplicativos para Android/iOS com HTML, CSS e JavaScript", 
+    "price": "30.00", 
+    "instructors": "Henrique Dezani", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/879122_36f2_5.jpg", 
+    "course_url": "https://www.udemy.com/crie-aplicativos-moveis-com-html-css-e-javascript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-15T14:32:10Z"
+}

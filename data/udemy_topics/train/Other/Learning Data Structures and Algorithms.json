@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">In this Learning Data Structures and Algorithms training course, expert author Rod Stephens will teach you how to analyze and implement common algorithms used. This course is designed for the absolute beginner, meaning no previous programming experience is required.<br style=\"\"><br style=\"\">You will start by learning about the complexity theory, then jump into learning about numerical algorithms, including randomizing arrays, prime factorization, and numerical integration. From there, Rod will teach you about linked lists, such as singly linked lists, sorted, and doubly linked lists. This video tutorial also covers arrays, stacks and queues, and sorting. You will also learn about searching, hash tables, recursion, and backtracking algorithms. Finally, you will cover trees, balanced trees, decision trees, and network algorithms.<br style=\"\"><br style=\"\">Once you have completed this computer based training course, you will be fully capable of analyzing and implementing algorithms, as well as be able to select the best algorithm for various situations. Working files are included, allowing you to follow along with the author throughout the lessons.</p>", 
+    "end_date": null, 
+    "title": "Learning Data Structures and Algorithms", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/446074_35c6_5.jpg", 
+    "course_url": "https://www.udemy.com/learning-data-structures-and-algorithms/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-12T20:39:08Z"
+}

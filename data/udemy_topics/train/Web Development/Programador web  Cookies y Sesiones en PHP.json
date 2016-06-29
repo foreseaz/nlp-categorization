@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<span>Bienvenido a nuestro curso de programación centrado en el uso de <strong>cookies y sesiones</strong> en nuestras páginas web.  </span><span>El uso de las cookies y las sesiones resulta <strong>imprescindible</strong> si dar a tus páginas webs un carácter<strong> profesional</strong> y herramientas de uso avanzadas.</span>  </p>  <p>  \tSon imprescindibles en la programación de páginas <strong>webs dinámicas</strong> y <strong>muy sencillas</strong> de aprender y dominar.  </p>  <p>  \t<span>En nuestro curso hablaremos en detalle de lo que son y como se usan las cookies y las sesiones, de forma <strong>amena</strong>, muy <strong>práctica</strong> y <strong>clara</strong>, sencilla y directa, con un buen número de <strong>ejemplos</strong> y <strong>casos prácticos</strong> que podrás llevar a tus páginas webs de forma muy sencilla.</span>  </p>  <p>  \t<span>Animate y da un paso más en el camino de convertirte en una auténtico <strong>programador web profesional.</strong></span>  </p>", 
+    "end_date": null, 
+    "title": "Programador web: Cookies y Sesiones en PHP", 
+    "price": 0, 
+    "instructors": "Juan De La Torre Domingo", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/379080_168a_2.jpg", 
+    "course_url": "https://www.udemy.com/programador-web-php-cookies-y-sesiones/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-28T11:53:11Z"
+}

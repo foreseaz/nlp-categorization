@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>The only course in the Web World with 2 real time project webservices automation  using SoapUI Tool.<br>Only course on web which cover almost all advance topics,<br></p><ol><li>Xpath Assertion</li><li>XQuery Assertion</li><li>Handling CData</li><li>TestRunner object</li><li>MessageExchange Object</li><li>XML Holder</li><li>JSON Parser</li><li>Certification preparation</li><li>HTML Monitoring</li><li>Integration with ANT and Jenkins</li></ol><p>On course completion You will be Expert in SOAP/ REST API Testing and can implement Successfully it in your work place<br></p><p><em><em>Course is designed in such a way that the user does not required to have any prior understanding of groovy and SoapUI</em><br></em></p><p><em>This Course explains</em><br></p><p>·What are the Webservices</p><p>·How to Test the Webservices using Soap UI</p><p>·Groovy Scripitng Concepts</p><p>·How to Automate the Webservices Testcases in Soap UI with Groovy</p><p>·Testing Resting API<br></p><p>·Security Testing with Soap UI</p><p>·DataBase Testing with Soap UI</p><p>·How to Mock the webservics<br></p><p>By the End of this Course you will able to understand the webservices specifications and write all kind of effective Manual and Automation testcases (Functional/Security/Data Base Testcases) to test them in Soap ui by using different feauteres available on Tool</p>", 
+    "end_date": null, 
+    "title": "WebService testing -SoapUI -Realtime Proj+Certification Prep", 
+    "price": "20.00", 
+    "instructors": "Nitin Tyagi, Testing World", 
+    "commitment": "18 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/675248_b27e_6.jpg", 
+    "course_url": "https://www.udemy.com/soapui-with-groovy-with-realtime-projects/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-20T03:53:59Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course includes <strong><em>Selenium WebDriver</em></strong> Basics and Advanced, <strong><em>Java Concepts</em></strong>, <strong><em>TestNG</em> Framework</strong>, <strong>Automation Framework Design</strong> (<em>Page Objects, Page Factory, Data Driven, Reading Excel Files</em>)</p><p>Best reporting tool - <strong><em>Advanced Reporting using ReportNG and XSLT</em></strong></p><p>Parallel execution with <strong>Selenium Grid 2.0</strong>, <strong><em>Maven</em></strong> Build Management, Continuous Integration with <strong><em>Jenkins</em></strong>, Code management with <em><strong>Git integration</strong></em> </p><p>This course will take you from basic to expert level step by step, we are covering all java concepts which are required for daily selenium activities and also for preparing selenium interview</p><p><strong>Java Basics: </strong>Variables, If-Then-Else, For loop, While loop, Arrays, Classes, Inheritance, Objects, Constructors, Methods, Working with Excel file and database</p><p>Collection API, OOPS, Properties file etc</p><p><br><strong>Selenium WebDriver Basics: </strong>Commonly used methods and locator types, Id, Name, Class Name, Link Text, Partial Link Text, Xpath, Css Selector</p><p>Ajax Handling,  Multi window handling, Actions class,  Implicit wait, Explicit wait.<br>After completing the the course you will be able to write automated tests using selenium and java</p>", 
+    "end_date": null, 
+    "title": "Selenium - Java (Best for automation beginner)- on Live App", 
+    "price": "20.00", 
+    "instructors": "Nitin Tyagi, Testing World", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/802790_62aa_4.jpg", 
+    "course_url": "https://www.udemy.com/selenium-with-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-24T12:08:22Z"
+}

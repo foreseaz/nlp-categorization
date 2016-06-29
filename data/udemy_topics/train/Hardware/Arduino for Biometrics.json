@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This is an <strong>advanced level course on Arduino</strong>. This course is designed for advanced makers. We’ll help you to get started with the basics of creating circuits with the Arduino board. </p>    <p>In this course, we will show you <strong>Fire detection using Arduino and Flame sensor</strong>. In the second project is <strong>Rain Sensor Module</strong> allows you to measure the moisture level via Analog output pins to detect whether it’s raining or not.</p>    <p>The third project is how to <strong>communicate data using two Arduinos</strong> and also using the <strong>433Mhz RF transmitter and receiver modules with two Arduinos</strong> to receive the message. The fourth project is <strong>Digital capacitive touch sensor with Arduino</strong> to light up the lamp with a single touch, and the last project is based on the <strong>biometric fingerprint sensor</strong>.</p>    <p>It Secures your project with biometrics - this all-in-one optical fingerprint sensor will make adding fingerprint detection and verification. This module is typically used in safe there's a high powered DSP chip that does the image rendering, calculation, feature-finding, and searching.</p>    <p>The prerequisite for this course is a basic understanding of electrical and electronic concepts and ability to download and install software on your computer. Along the way, you will learn about programming, sensors, and communications.</p>    <p>The course split into six parts:</p>  <p><strong><u>Project 1:</u></strong> In this project, we will teach you how Flame sensor is interfaced with the Arduino to detect Flame. We have connected the Led and buzzer with Arduino to indicate the flame.</p>    <p><strong><u>Project 2:</u></strong> In this project, we teach you how to build Rain sensor module allows you to measure moisture via Analog output pins, and it provides a digital output when a threshold of moisture level is exceeded.</p>    <p><strong><u>Project 3:</u></strong> Transmission between two Arduinos we’ll make an Inter-Integrated Circuit bus using two Arduinos. We will program one master Arduino to command the other slave Arduino to blink its built-in LED once or twice depending on the received value.</p>    <p><strong><u>Project 4:</u></strong> In this project will explain you the complete guide for the RF 433MHz Transmitter and Receiver module. We’ll explain this module how it works, and will show you how to work with the Arduino.</p>    <p><strong><u>Project 5:</u></strong> In this project, the device uses your body as part of the circuit.  When you touch the sensor pad, the capacitance of the circuit is changed and detected. That detected a change in capacitance results in the output changing states.</p>    <p><strong><u>Project 6:</u></strong> This is my first fingerprint sensor project to read users fingerprint and recognized the user, we obsessed with the biometric system and was curious if we could use a fingerprint to turn on and off a device.</p>    <p>Fingerprint sensor Secure your project with biometrics - this all-in-one optical fingerprint sensor will make adding fingerprint detection and verification super simple. This module is typically used in safe - there's a high powered DSP chip that does the image rendering, calculation, feature-finding, and searching. </p>    <p>You can also enroll new fingers directly - up to 162 fingerprints can be stored in the onboard FLASH memory.</p>    <p>If you are a technology enthusiast and want to learn the cutting-edge technology, then this is the right course for you.<br></p>    <p>In this course, I show you how to get up and running on the Arduino platform so you can make your own projects to interact with the world.</p>    <p>I will teach you step by step how to go about building this project. I will also share the code with you so that you can replicate the project yourself. I look forward to you joining this course. It provides the complete source code of the real time project.</p>  <p>What are you waiting for? Enroll now.</p>", 
+    "end_date": null, 
+    "title": "Arduino for Biometrics", 
+    "price": "20.00", 
+    "instructors": "Venkatesh Varadachari, Kamesh Dkr", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/781000_0ae1.jpg", 
+    "course_url": "https://www.udemy.com/advanced-arduino/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-03T10:32:40Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Learn the basics of data science with Python, with this short course designed for students to follow along, and built around a concrete, real-world dataset</strong>.</p><p>Listening to theoretical examples is never fun, and I've always liked actually applying what I learn to concrete examples, so this course is <strong>built around us analyzing a real-life dataset together</strong>. The dataset we'll be using is the <em>\"Parkinson's Disease Telemedicine dataset\"</em>, and our goal will be to see if we can predict the severity of Parkinson's Disease in patients from just a dozen simple measurements, which would be a vast improvement over the current time consuming process that doctors and patients have to go through.<br></p><p>This course will provide a good introduction to several different aspects of data science, and all in Python, one of the most popular and powerful languages used by data scientists today.</p><p>You'll learn how to:</p><p> - Set up your data analysis research environment (in an iPython notebook)</p><p> - Visualize the data to understand it better</p><p> - Manipulate and transform data to prepare it for modeling</p><p> - Apply a statistical model to the data</p><p>The course is comprised of short lectures which walk you through the data analysis, as you follow along. There are also several coding exercises throughout to test your knowledge!</p><p><strong>Check out the course to learn data science with Python today!</strong><br></p>", 
+    "end_date": null, 
+    "title": "Bite-Sized Data Science with Python and Pandas: Introduction", 
+    "price": "20.00", 
+    "instructors": "Troy Shu", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/701764_3f0c_3.jpg", 
+    "course_url": "https://www.udemy.com/bite-sized-data-science-with-python-introduction/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-19T21:13:34Z"
+}

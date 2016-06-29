@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><p>This Amazon Web Services (AWS) training course walks you through utilizing the wide range of Cloud Computing services that Amazon provides. Cloud Computing is fast becoming the standard method of creating scalable, manageable Web Application Services, and Amazon is leading the way. This tutorial will teach you what is available in AWS, and how to use it effectively for your own needs.</p><p>You will start by learning exactly what Cloud Computing is, and why you should be using it. Rich shows you how to set up your AWS account, and gives you an overview of the services that are available to you. Throughout this video tutorial, you will cover topics such as; creating and managing EC2 instances, using the Elastic Load Balancers, CloudWatch, CloudFormation, S3, RDS and Dynamo. Rich also reviews CloudFront services, ElastiCache, VPC, SNS (Simple Notification Service), SES (Simple Email Service), SQS (Simple Queuing Service) and Route 53. You will finish off by walking through the creation of a 3 tier scalable Web Application using the AWS tools you have learned in this course.</p><p>Once you have completed this comprehensive AWS video training, you will be fully capable of creating and deploying your own Web Applications using the services provided to you in AWS. You will be familiar with the most important services, and have hands on experience in deploying your own instances using the AWS interface. Working files are included, allowing you to follow along with the author throughout the lessons.</p>&lt;/p&gt;", 
+    "end_date": null, 
+    "title": "Amazon Web Services - Web Hosting & Cloud Computing With AWS", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/70112_ad6c_9.jpg", 
+    "course_url": "https://www.udemy.com/amazon-web-services-for-web-hosting-cloud-computing/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-07-26T14:14:51Z"
+}

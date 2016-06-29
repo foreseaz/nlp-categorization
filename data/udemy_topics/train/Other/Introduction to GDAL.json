@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p> Do you have lots of spatial data that you need to process?  Do you work with really large datasets that are unmanageable with a traditional GIS?  Do you need to access and exchange spatial data in different formats, and different systems?  And, has the price of commercial offerings shocked you?  If so, this course will teach you how to process very large spatial data, in different formats using simple command line syntax, using the free and open source product GDAL. </p><p>GDAL is one of the jewels of the open source community, and I want to help you understand how to leverage its power to process spatial data. </p><p>We'll start off slow, and I will show you how to manipulate raster and vector data with the GDAL command line.  Then, before you know it, you'll be writing batch scripts to perform real world GIS processing. Finally, you'll end by creating an Extraction, Translate, and Loading (ETL) tool with a single GDAL command (some people pay thousands of dollars just to complete this task!). </p><p>Like all my courses, I'll work alongside you so that you actually learn how to do his.  Be careful: after taking this course, you may never want to use a GIS GUI again.  </p>", 
+    "end_date": null, 
+    "title": "Introduction to GDAL", 
+    "price": "20.00", 
+    "instructors": "Dr. Arthur Lembo", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/726912_5e6e.jpg", 
+    "course_url": "https://www.udemy.com/gdal_basics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-13T15:27:29Z"
+}

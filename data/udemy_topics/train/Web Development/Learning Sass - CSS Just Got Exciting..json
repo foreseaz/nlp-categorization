@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tThis Sass training course from Infinite Skills teaches you everything you need to know about this CSS stylesheet extension language. This course is designed for the absolute beginner, meaning no prior knowledge of Sass is required, however a fundamental understanding of CSS and HTML are recommended.<br style=\"\">  \t<br style=\"\">  \tYou will start by learning how to install and use Sass on both a Windows and Mac OS, then jump into learning about variables and nesting. This video training course will teach you about partials, Sass Mixins, and advanced inheritance techniques. Finally, you will learn how to integrate Sass with WordPress and Ruby on Rails.<br style=\"\">  </p>  <p>  \tOnce you have completed this video based training course, you will have an in-depth understanding of how to work with Sass. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Learning Sass - CSS Just Got Exciting.", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/227614_97bd_6.jpg", 
+    "course_url": "https://www.udemy.com/learning-sass/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-23T17:18:32Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \tSynfig Studio é um software de animação de código livre e aberto, disponível para Windows, Linux e OSX. É muito poderoso, embora ainda bastante complexo. Neste curso você aprenderá como usá-lo para criar animação numa técnica específica, chamada &quot;recorte&quot;.  </p>  <p>  \tA técnica de recorte é conhecida como um meio mais fácil para começar a aprender animação, ao mesmo tempo que continua muito expressivo e atraente. Assim, este curso é adequado tanto para quem está começando a aprender animação quanto para artistas experientes que gostariam de dominar sua técnica com software livre e de código aberto.  </p>  <p>  \tO curso consiste de 10 palestras que irão guiá-lo a partir do mais básico da interface do aplicativo até as técnicas avançadas de criação de personagens de animação de recorte. Os arquivos de amostra também estão incluídos, sendo possível repetir todos os exercícios demonstrados durante o curso.  </p>  <p>  \tIgualmente, todas as palestras do curso estão disponíveis para baixar e visualizar offline.  </p>", 
+    "end_date": null, 
+    "title": "Criando animação de recorte no Synfig Studio", 
+    "price": "20.00", 
+    "instructors": "ricardo graça, Konstantin Dmitriev, Sergio Vitor", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/292378_fe48_2.jpg", 
+    "course_url": "https://www.udemy.com/synfig-studio-cutout-animation-pt/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-09-02T14:00:55Z"
+}

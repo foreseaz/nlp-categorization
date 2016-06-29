@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">This is a perfect course for designers who know CSS and HTML to kick start their learning in jQuery. Also this will be the right course for beginners those who wish to learn jQuery.</p><p style=\"\">jQuery UI is a widget and interaction library built on top of the jQuery JavaScript Library that you can use to build highly interactive web applications. This course is designed to get you up to speed on how jQuery UI works.</p><p style=\"\">The benefits of jQuery is that it handles a lot of infuriating cross-browser issues for you. While a lot of people might argue that we don&#039;t need to learn jQuery, there&#039;s still one big reason for doing so: Legacy code. If you&#039;re going to go to work at a company that already has JavaScript browser code, there&#039;s a strong possibility it has jQuery throughout its code. There&#039;s also a matter of preference: With jQuery, my code is tighter; individual lines of code are shorter. People still like jQuery and its elegance, and they&#039;re going to continue using it, even though they might not have to.</p><p style=\"\">We framed five techniques in this course and if you learn these basic techniques, you can build interactive webpages. Nowadays more companies are expecting from designers not only to know HTML/CSS but also knowledge on jQuery. This course contains over 7 lectures and 1 hour of content during which you will learn 5 basic techniques using HTML,CSS and jQuery. You should already have knowledge of HTML and CSS before taking this course. Five basic techniques are : </p><ol style=\"\"><li style=\"\">Interactivity</li><li style=\"\">Hide and Show</li><li style=\"\">Managing Styles and Classes</li><li style=\"\">Moving things around</li><li style=\"\">Loading new content without page refresh</li></ol><p style=\"\">You will start by learning about the jQuery UI core and utilities, such as the core methods and selectors and the position utility. Once you have mastered these techniques, you will be able to work on CSS framework in jQuery UI. This video tutorial will also teach you about the interactions in jQuery UI, including select, resiz, drag, drop and sort. Finally, you will learn about the UI effects, such as color animations, class transitions, and how to show and hide effects.</p><p style=\"\">By the completion of this training course, you will be fully able to build complete interactive web applications using the jQuery UI toolset.</p>", 
+    "end_date": null, 
+    "title": "jQuery for Designers and Beginners ", 
+    "price": "45.00", 
+    "instructors": "Learn Things Easy", 
+    "commitment": "32 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/381580_0b18_5.jpg", 
+    "course_url": "https://www.udemy.com/jquery-for-designers-and-beginners-do-interactive-web-page/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-31T12:39:41Z"
+}

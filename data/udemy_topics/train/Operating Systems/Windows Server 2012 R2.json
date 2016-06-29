@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><span></span></p><p>Dividido\nem nove módulos, este treinamento traz uma visão geral das principais áreas\ncobertas desta versão do Windows Server 2012 R2: implantação e licenciamento,\ninstalação, gerenciamento e monitoração, gerenciamento de computadores e\nusuários, gerenciamento e compartilhamento de servidores de arquivo, proteção\nde dados, acesso remoto etc.</p><ul><li>Mesmo\nque você seja um iniciante e nunca tenha trabalhado com servidores e com o\nWindows Server 2012 R2, você será capaz de acompanhar o curso e criar um\nlaboratório virtual para estudo.</li><li>O\nWindows Server é o sistema operacional de servidor líder de mercado, utilizado\npara controlar e gerenciar redes de pequenas empresas aos maiores datacenters\ndo mundo.</li></ul><p><strong>Tenha uma nova profissão:</strong></p><p>O\nAdministrador de Redes é o profissional responsável por atuar com\ndesenvolvimento de soluções e administração de servidores Windows e redes de\ndados em ambiente Data Center. Um Administrador de Redes atua no atendimento a\nusuários e configuração da estrutura de rede. Este é um dos profissionais mais\nrequisitados e bem pagos do mercado de TI. Com o curso de Windows Server 2012\nR2 você dará os primeiros passos na aprendizagem desta profissão.</p>", 
+    "end_date": null, 
+    "title": "Windows Server 2012 R2", 
+    "price": "35.00", 
+    "instructors": "Denilson Bonatti", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/799882_2be3_5.jpg", 
+    "course_url": "https://www.udemy.com/windows-server-2012-r2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-21T16:24:16Z"
+}

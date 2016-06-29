@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>  \t<span style=\"color: rgb(53, 53, 53);\">You can now join over 400+ students in this SAP BEx Analyzer Video Academy Course.</span></p>  <p>  \t<strong>This in-depth SAP BW BEx training course will teach you how to master the BEx Analyzer and Query Designer tools - the key reporting component of the SAP BW &amp; Business Intelligence suite of applications used by thousands of the worlds largest companies to help them analyze their own business data.</strong>  </p>  <p>  \t        This course is a complete A to Z online learning course for the SAP BEx Analyzer (SAP Business Explorer) and Query Designer. No stone is left un-turned.  </p>  <p>  \t        The SAP Business Explorer (BEx) offers a high focus on user productivity, with formatted reporting, intuitive ad-hoc analysis, advanced Excel integration, and model-driven BI applications.  </p>  <p>  \t        This course will teach you how to fully master this toolset. It is fully up-to-date for SAP NetWeaver BW 7.x and provides end users and functional consultants with a detailed reference on how to use all aspects of BEx reporting, from designing queries to linking reports together. You will gain a deep knowledge of BEx and its many uses.  </p>  <p>  \t        First, learn how to use existing reports already available in your system then create and design flexible query definitions that can be used by a wide variety of users, with a focus on performance and usability. You will delve into the capabilities of BEx Analyzer and enhanced navigation features, such as drag and drop to facilitate end-user interaction, the new design mode to develop reporting applications within MS Excel, and additional integration with Excel formatting and formulas.  </p>  <p>  \t        You'll quickly master advanced techniques such as using cell definitions, creating Exceptions &amp; Conditions in your queries as well Report-Report-Interfacing (RRI), a tool that enables users to link reports and jump from one report to another containing additional information.  </p>  Highlights  <ul>  \t<li>BEx Query Designer</li>  \t<li>Accessing InfoProviders</li>  \t<li>Creating Custom Templates</li>  \t<li>Defining Jump Targets</li>  \t<li>Build Analysis Application</li>  \t<li>Integrate Exception &amp; Conditional reporting techniques</li>  \t<li>Embed multiple reports into your Workbooks</li>  \t<li>Learn to build new reports in less than 2 minutes!</li>  </ul>  <p>  \t        A key feature of this course is you will have direct access to Peter Moxon - a seasoned SAP BI consultant to answer any questions.  </p>  <p>  \t        After you have completed this course you will be able to create unlimited SAP reports, create and use both simple and complex query definitions using the BEx Query Designer and create full Analysis Applications.  </p>", 
+    "end_date": null, 
+    "title": "Learn SAP BEx Analyzer - 2014 Academy Training Course", 
+    "price": "20.00", 
+    "instructors": "Peter Moxon", 
+    "commitment": "11 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/49068_d3b4_6.jpg", 
+    "course_url": "https://www.udemy.com/learn-sap-bw-bex-analyzer-online-video-training-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-04-09T10:02:36Z"
+}

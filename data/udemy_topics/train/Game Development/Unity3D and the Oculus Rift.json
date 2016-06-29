@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course tackles the hot topic of \"virtual reality\". In march this year oculus released the finished version of the rift. Other big companies like google, facebook, sony, valve and others have joined the VR movement. This tutorial is not a guide to implementing a specific game, it rather gives you the tools and knowledge to implement your own VR games. Unlike other courses about the oculus rift, this course does not stop after the setup. We take a look at the things that really matter for VR development. Without wasting time we quickly proceed with interesting and important topics that go beyond setting up a simple character to walk around in VR. Besides using the headtracking for shooting objects, we see how raycasting can be used to analyse and trigger functions at an object which is being looked at. Further topics are dealt with, such as user interfaces and more. Get a head start by taking this course.</p>\n\n<p><br></p>\n\n<p>In the course, we take a look at different techniques that are crucial to VR development, such as:</p>\n\n<p>-using the headtracking for aiming and shooting</p>\n\n<p>-raycasts to analyse an object which is being looked at</p>\n\n<p>-retrieve the world point, at which the player is looking to send a character there</p>\n\n<p>-teleport the player to visit interesting sites of a model</p>\n\n<p>-various controls for user interfaces (look based input and more)<br></p>\n\n<p>The length of the course is about 1 hour, but to try out all the examples for yourself, it will take a little more time. <br></p>", 
+    "end_date": null, 
+    "title": "Unity3D and the Oculus Rift", 
+    "price": "30.00", 
+    "instructors": "Florian Maurer", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/451440_af89_6.jpg", 
+    "course_url": "https://www.udemy.com/unity3d-and-the-oculus-rift/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-19T17:53:26Z"
+}

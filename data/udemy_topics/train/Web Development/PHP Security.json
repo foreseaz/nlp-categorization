@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Building PHP applications its fun and can be really rewarding but we need to make sure that this applications are secured. There other programmers out there looking into hacking our apps because maybe they have nothing to do or they enjoy it. Whatever the case may be, we need to educate ourselves on PHP security so that we may protect our data but most importantly other people's as well. </p>\n\n<p>This is a crash course in PHP security which it's sole purpose its to teach you the main security issues with any PHP applications and at the same time how to fix it. We don't waste a lot of time with slides and jargon since we go straight to the code and start creating mini apps to demonstrate the attacks and the defense against it.<br></p>\n\n<p>Come join me and let's create more secured PHP applications together!</p>\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "PHP Security", 
+    "price": "20.00", 
+    "instructors": "Edwin Diaz", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/861528_57c7.jpg", 
+    "course_url": "https://www.udemy.com/php-security/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-27T15:36:10Z"
+}

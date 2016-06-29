@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course you will learn about jMock, a mocking test framework. Mocking test frameworks are fairly common standard across all software companies as it allows you to simulate all dependencies without making network calls and even when dependencies are not ready. The focus is on testing the code you have written as fast as possible and with all possible permutations and combinations. Show you boss that you mean business when you write powerful and robust tests to defend your code and catch bugs before customer sees them.  </p><p>Here are objectives of this course</p><ul><li>What is iMock?</li><li>Why do we need to use mock?</li><li>What is dependency injection or Invetsion of Control (IOC)</li><li>Learn how to set up jMock.</li><li>Live example of wrting jMock tests</li><li>Advanced features</li></ul><p>At the end of this course a student will be able kickstart writing jMock tests immediately and prove to his peer about new robust and efficient way of writing unit tests.</p>", 
+    "end_date": null, 
+    "title": "Getting started with jMock", 
+    "price": "20.00", 
+    "instructors": "Ravindra Sadaphule", 
+    "commitment": "35 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/806996_fa0a_5.jpg", 
+    "course_url": "https://www.udemy.com/getting-started-with-jmock/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-29T07:28:21Z"
+}

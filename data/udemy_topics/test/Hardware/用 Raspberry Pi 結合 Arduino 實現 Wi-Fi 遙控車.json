@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<pre class=\"prettyprint linenums\">此次講座將介紹從 Arduino 系統前進到 Raspberry Pi + Python 的學習架構。\n並加入實作課程講解如何在 Raspberry Pi 上控制 S4A 架構的 motoduino 系統，\n並向前進入到脫離 S4A 架構開發撰寫 Python 程式控制 eps8266 wifi 無線通訊模組來控制 motoduino。\n幫助學生了解 Raspberry Pi + Python 的學習系統架構。</pre>", 
+    "end_date": null, 
+    "title": "用 Raspberry Pi 結合 Arduino 實現 Wi-Fi 遙控車", 
+    "price": 0, 
+    "instructors": "艾鍗學院 艾鍗", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/844564_d89f_4.jpg", 
+    "course_url": "https://www.udemy.com/raspberry-pi-arduino-wi-fi/", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-10T04:01:36Z"
+}

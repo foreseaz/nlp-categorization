@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Hello,</p><p><strong class=\"redactor-inline-converted\">Qu'est ce que PHP?</strong></p><p>C'est un langage de scripts qui s'intègre directement dans nos pages Web. C'est assez simple à utiliser et donc idéal pour les débutants. <br>Ce langage est comprehensible uniquement par le serveur.<br>Il exécute tout le code qui se trouve entre les balises PHP (&lt;?php et ?&gt;)  du côté serveur et le transforme en langage client: c'est-à-dire que lorsque vous regarderez le code source de vos pages Web dans le navigateur, il n'y aura plus aucune trace du code PHP.<br><br></p><p><strong class=\"redactor-inline-converted\">Bon alors quels sont les atouts de PHP ? </strong></p><p>Déjà il faut savoir qu'il y a une très grande communauté sur Internet et ça sera donc beaucoup plus facile d'obtenir de l'aide en cas de besoin.<br>Et aussi Wordpress est en PHP : ça sera utile de le connaitre pour personnaliser nos sites basés sur Wordpress.</p><p>Dans ce cours, je vais vous enseigner toutes les bases de PHP. Je vous montrerai aussi les nouveautés de la nouvelle version : <strong>PHP 7</strong>.<br>Et ensuite on va réaliser ensemble un joli formulaire de contact de A à Z. Je vous montrerai comment le serveur recupère et analyse les données. On parlera de validation,de sécurité du formulaire, et je vous montrerai comment envoyer automatiquement un email avec toutes ces données.<br></p><p>Pour ceux qui ont suivi avec moi les cours précédents, je vous montrerai aussi comment intégrer ce formulaire à votre CV responsive.<br><br></p><p>Allez ! On passe à l'action...</p>\n\n<p><em><br></em></p>", 
+    "end_date": null, 
+    "title": "Apprendre PHP et créer un formulaire de contact", 
+    "price": "20.00", 
+    "instructors": "John Codeur", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/851792_af14.jpg", 
+    "course_url": "https://www.udemy.com/apprendre-php-et-creer-un-formulaire-de-contact/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-17T11:35:39Z"
+}

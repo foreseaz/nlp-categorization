@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t   Many games are based on levels, and most of those games have a screen where:  </p>\n\n<ul>  \t<li>The user can choose a level to play.</li>  \t<li>Some levels are locked until previous levels have been played.</li>  \t<li>A number of stars are shown based on the player’s score for that level.</li>  </ul>\n\n<p>  \t   One of the most commonly asked game dev questions is, “How do I lock and unlock levels?” Until now I’ve tried to explain the concept to people but now I have a better answer…  </p>\n\n<h5>The Outlaw Game Tools Level Manager</h5>\n\n<h5>OGT Level Manager is a library you include in your game and then “tweak” some variables to specify which graphics you want to use, how many total levels you have, etc.</h5>\n\n<p>  \t   And then in your game it’s as easy as this to unlock the next level when the player has finished with the current level:  </p>\n\n<pre class=\"prettyprint\">  unlockNextLevel()  </pre>\n\n<p>  \t   OGT Level Manager keeps track of which levels have been unlocked and it’s shown automatically when the player goes back to the level select screen!  </p>\n\n<p>  \t   If you’re using a “stars” system in your game, OGT Level Manager will even keep track of how many stars were earned on each level. And it’s this easy to use:  </p>\n\n<pre class=\"prettyprint\">  updateStars(2)  </pre>\n\n\n\n<p>  \t   That one call will let OGT Level Manager know the player earned two stars on that level and <em>it will automatically</em> show the correct number on the level select screen.  </p>\n\n<p>  \t   Here are some of the features found in this library:  </p>\n\n<ul>  \t<li>No limit to the number of levels.</li>  \t<li>Multiple pages with next and previous arrows.</li>  \t<li>One to three stars shown on levels (optional).</li>  \t<li><strong>Use your own graphics.</strong> Using smileys instead of stars? No problem!</li>  \t<li>Tweak the position of level boxes, arrows, stars, numbers, etc.</li>  \t<li>One storyboard scene with data loaded for each level? Works that way.</li>  \t<li>One storyboard scene for each level? Works that way, too!</li>  </ul>\n\n<p>  \t   Basically, I’ve made it easy to drop in your own graphics, and then tweak the position of any that may need it by setting variables. <em>Changing the actual code is not necessary</em>.  </p>\n\n<p>  \t <strong>Requirements:</strong>  </p>\n\n<ul>  \t<li>Corona SDK (works with both the free and paid versions).</li>  \t<li>Use Storyboard in your game (does not work with Director).</li>  </ul>\n\n<p>  \t   OGT Level Manager comes with two sets of tutorial videos.  </p>\n\n<p>  \t   The first set is for those people who want to just use the library in their games and don’t really care about the stuff under the hood. These are the “basic how to use it” videos.  </p>\n\n<p>  \t   The second set dives in behind the scenes and shows you how things work. Just a word of warning, for this second set of videos I’m assuming you have at least an intermediate knowledge of using Corona SDK. I don’t start clear back at the “this is how you display a graphic” point.   </p>\n\n<p>  \t   The normal price for OGT Level Manager will be $29, but as a launch special it’s <em>available now for just $19</em> — and that includes all updates for at least the next year! (Actually, I have no plans to <em>ever</em> charge for updates, but now you know you’re good for a year.)  </p>\n\n<p>  \t <strong>You will save a LOT of time by using OGT Level Manager </strong>-- time you can spend working on the more fun parts of your new game!  </p>", 
+    "end_date": null, 
+    "title": "Locking and Unlocking Levels in Your Own Corona SDK Games", 
+    "price": "20.00", 
+    "instructors": "J. A. Whye", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/139460_b1b7_8.jpg", 
+    "course_url": "https://www.udemy.com/locking-and-unlocking-levels-in-corona-sdk-games/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-30T07:54:05Z"
+}

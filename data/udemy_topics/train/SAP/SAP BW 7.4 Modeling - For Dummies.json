@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>This course provides quick and strong foundation to SAP BW 7.4 Modeling for beginners, it is not complete BW Modeling course.  For complete BW Modeling course join for <strong>\"SAP BW 7.4 Zero to Hero\". </strong></p><ul><li>What is SAP BW ?</li><li>What is DataWareHouse?</li><li>What is DataWareHouse Work Bench?</li><li>What is Modeling?</li><li>What is InfoArea?</li><li>What is InfoObject Catalog?</li><li>What is InfoObjects and Types?</li><li>How to Load Master Data?</li><li>How to Load Transaction Data?</li></ul>", 
+    "end_date": null, 
+    "title": "SAP BW 7.4 Modeling - For Dummies", 
+    "price": "20.00", 
+    "instructors": "Kiran Kumar", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/855044_4f4c_3.jpg", 
+    "course_url": "https://www.udemy.com/sap-bw-74-modeling-for-dummies/", 
+    "currency": "USD", 
+    "subject_name": [
+        "SAP"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-20T14:33:56Z"
+}

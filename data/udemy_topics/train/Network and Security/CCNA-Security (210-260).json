@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Learn the technologies and concepts of network security in this complete course and earn your CISCO certification.</p>\n\n<p><strong>Grasp the understanding of security models, appliances, tools and techniques and make yourself known as security specialist.<br></strong></p>\n\n<p>Concepts of Security<br></p>\n\n<p>Cryptography basics<br>\n</p>\n\n<p>IPSec Fundamentals and Operation<br></p>\n\n<p>Manage CISCO Firewalls<br></p>\n\n<p>Implement security through certificates</p>\n\n<p>Learn about ACS and ISE<br>\n</p>\n\n<p>CISCO is the leading Networking\nequipment provider with a large product portfolio ranging from small\nEnterprises to large Data Centers. <strong>CCNA (Security) certification is\none of the fundamental certifications</strong> that will help you in realizing\nthe concepts of cyber security and its implementations in real\nworld.\n</p>\n\n<p>This course has been <strong>designed for intermediate level IT Engineers</strong>. It will take you through the basics of terminologies in cyber security, while implementing them on Cisco Routers switches and firewalls. By taking this course you will learn the advanced features of <strong>firewall contexts and high availability</strong> You will observe actual packets as they move through\nthe wires and make those “dots connect”. While configuring the\ndevices you will feel as if you are doing it yourself, its that close\nand personal. By following this course you will not only be able\nachieve your CCNA (Security) certification but you will also feel to go deeper into the security domain and learn more about it.</p>", 
+    "end_date": null, 
+    "title": "CCNA-Security (210-260)", 
+    "price": "35.00", 
+    "instructors": "Ahmad Nadeem, Mehreen Kamran", 
+    "commitment": "15 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/717418_6263.jpg", 
+    "course_url": "https://www.udemy.com/ccna-security-210-260/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-05T18:45:36Z"
+}

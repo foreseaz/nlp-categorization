@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Julia is an easy, fast, open source language that if written well \nperforms nearly as well as low-level languages such as C and FORTRAN. \nIts design is a dance between specialization and abstraction, providing \nhigh machine performance without the sacrifice of human convenience. \nJulia is a fresh approach to technical computing, combining expertise \nfrom diverse fields of computational and computer science.</p>\n\n<p>This video course walks you through all the steps involved in \napplying the Julia ecosystem to your own data science projects. We start\n with the basics and show you how to design and implement some of the \ngeneral purpose features of Julia. Is fast development and fast \nexecution possible at the same time? Julia provides the best of both \nworlds with its wide range of types, and our course covers this in \ndepth. You will have organized and readable code by the end of the \ncourse by learning how to write Lisp style macros and modules.</p>\n\n\n\n<p>The course demonstrates the power of the DataFrames package to \nmanage, organize, and analyze data. It enables you to work with data \nfrom various sources, perform statistical calculations on them, and \nvisualize their relationships in different kinds of plots through live \ndemonstrations.</p>\n\n\n\n<p><em>Julia for Data Science</em> takes you from zero to hero, leaving you with the know-how required to apply</p><p><strong class=\"redactor-inline-converted\">About The Author</strong><br></p><p><strong>Ivo Balbaert </strong>is currently a web programming and databases lecturer at CVO Antwerpen ,\n a community college in Belgium. He received a PhD in applied physics in\n 1986 from the University of Antwerp. He worked for 20 years in the \nsoftware industry as a developer and consultant in several companies, \nand, for 10 years, as a project manager at the University Hospital of \nAntwerp. In 2000, he switched over to partly teach and partly develop \nsoftware (KHM Mechelen, CVO Antwerp).</p>\n\n<p>He also wrote Programmeren met Ruby en Rails, an introductory book in\n Dutch about developing in Ruby and Rails, by Van Duuren Media.</p>\n\n\n\n<p>In 2012, he authored The Way To Go, a book on the Go programming language by IUniverse.</p>\n\n\n\n<p>In 2014, he wrote Learning Dart (in collaboration with Dzenan Ridzanovic) and Dart Cookbook, both by Packt Publishing.</p>\n\n\n\n<p>Finally, in 2015, he wrote Getting started with Julia and Rust Essentials, both by Packt Publishing.</p><p><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Julia for Data Science", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/860434_de92_3.jpg", 
+    "course_url": "https://www.udemy.com/julia-for-data-science/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-26T09:44:34Z"
+}

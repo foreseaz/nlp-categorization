@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t <span>This video course is a great starting point for any web developer who wants to create simple web APIs in minutes. By applying your knowledge of ASP.NET in conjunction with the information provided in this video tutorial, you will learn to master the art of building RESTful services by example.</span>  </p>  <p>  \t The video course begins with a brief introduction that will soon get you up to speed with the framework, and will then get you building a fully-functional Web API from scratch during the course of the tutorial.<br style=\"\">  \t <br style=\"\">  \t    You will learn some of the important features of ASP.NET Web API and how it aligns to the REST standard. You will explore the different implementation strategies and get familiar with some security implementations and ways to extend your APIs, including how to wire up the client side to the service. The tutorial also contains information on automatic documentation generation and deployment strategies such as publishing to Azure.<br style=\"\">  \t <br style=\"\">  \t    This video tutorial provides you with a comprehensive, clear, and easy-to-follow guide to creating RESTful services with ASP.NET Web API.  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t<span><strong style=\"\">Fanie Reynders</strong> is a Microsoft Certified Professional from South Africa and a web Technology Evangelist in his own right, with over 9 years of development experience on the Microsoft stack. He actively writes and speaks about the technology he loves to anyone who is willing to listen and has recently been featured in the DNC Magazine, as well as presenting at Microsoft Dev4Devs conference.</span>  </p>", 
+    "end_date": null, 
+    "title": "RESTful Services with ASP.NET Web API", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/352774_004b_2.jpg", 
+    "course_url": "https://www.udemy.com/restful-services-with-aspnet-web-api/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-21T09:54:17Z"
+}

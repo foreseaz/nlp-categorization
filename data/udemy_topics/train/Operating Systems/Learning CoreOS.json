@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>If you've heard about CoreOS, then you're already aware of how powerful of an operating system it is. It's a fast, lightweight, open sourced operating system designed for scalability. If you're interested in learning about CoreOS for your next project or just want an introduction to a bleeding edge operating system, then this is the perfect 101 class for you!</p>\n<p>To give you a basic understanding of what we’ll be going over this course, I’ll start off with CoreOS background, tools, and components. After that, we’ll be setting up a CoreOS on a virtual machine on your local hardware, and begin creating some services! We’ll start with a basic Node.js server, but then actually deploy a full application (including a frontend framework with a backend database). We’ll create a load balancing service, and then eventually deploy a CoreOS machine on the cloud (with a touch of kubernetes!). </p><p>Basic Requirements:</p><ul><li>Basic CLI knowledge</li><li>Text editing Software</li><li>OSX/Linux Operating System</li></ul><p><strong>FYI: Total lecture duration is slightly over 2 hours, due to no-filler content (no loading screens, etc). Working through actual projects/lessons will take 4-5+ hours. </strong><br></p>", 
+    "end_date": null, 
+    "title": "Learning CoreOS", 
+    "price": "20.00", 
+    "instructors": "Don Jay Choi", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/778478_fdcc_6.jpg", 
+    "course_url": "https://www.udemy.com/learning-coreos/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-01T02:07:50Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course covers the basic fundamental concepts of Java web application development. We will be developing simple Java web applications with the most popular tools used in the workplace and in real life projects such Eclipse, Maven, Tomcat and MySQL.</p>\n\n<p><strong class=\"redactor-inline-converted\">The materials covered will include the following:</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Installing JDK, Eclipse, Maven, Tomcat and MySQL which are some of the most popular tools used in the industry to develop Java web applications.</li><li>Introduction to XML as it is a critical language that is widely used in web application development.</li><li>Introduction to Apache Maven, the most popular tool used for managing the dependencies and the building process in Java web applications.</li><li>Fundamentals of Servlets and Java Server Pages (JSP), the main components of Java web applications.</li><li>Creating Java web applications with Servlets and JSP.</li><li>Deploying Java web applications on Apache Tomcat web server.t</li><li>Creating a database and tables in MySQL Workbench.</li><li> Using the Java Database Connectivity (JDBC) API to connect a web application with a relational database and perform database operations.</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Course Duration</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>This course should take between 20 to 30 hrs depending on your experience with the Java language and some of the tools used to develop Java web applications such as Eclipse, Maven, Tomcat.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Course Structure</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>This course is organized with lecture slides to explain the concepts at hand, followed by a practical code exercises.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Why you should take this course?</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Java web technology is one of the leading technologies used in today enterprise software application development.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>This course will help entry level Java web application developers or students aspiring to become Java web developers to overcome some of the challenges they face when they begin learning the technology because they are multitudes of concepts, tools and frameworks to familiarize with.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>", 
+    "end_date": null, 
+    "title": "Java Web Application Development For Beginners", 
+    "price": "20.00", 
+    "instructors": "Mouhamadou Bop", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/796220_b531.jpg", 
+    "course_url": "https://www.udemy.com/java-web-application-development-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-17T20:09:42Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\">¿Eres un emprendedor y sufres de alguno de los siguientes síntomas?</strong>    </p><ul style=\"\">  \t<li style=\"\">Gastas demasiado en desarrollo y ni siquiera entiendes lo que el desarrollador dice.</li>  \t<li style=\"\">Cada vez que quieres arreglar algo sencillo en tu sitio web (como  cambiar un enlace o una imagen) debes pagar de más y esperar semanas a  que se concrete.</li>  \t<li style=\"\">No puedes avanzar con tu idea de negocio porque no sabes programar ni siquiera un prototipo.</li>  </ul>  <p style=\"\">  \t    Si es así déjame decirte que no estás sólo. Trabajo con muchos  emprendedores y los problemas mencionados los escucho cada semana. Las  razones son las siguientes:  </p>  <ul style=\"\">  \t<li style=\"\"><strong style=\"\">Todas las PYMES y emprendedores necesitan desarrollo en algún grado</strong>.  Esto puede ir desde una simple página web con una descripción de la  empresa, hasta cosas más avanzadas aplicaciones móviles y sistemas  informáticos.</li>  \t<li style=\"\"><strong style=\"\">Los desarrolladores son caros y escasos</strong>, y por ende representan un alto costo para el emprendedor.</li>  \t<li style=\"\">Dice el dicho “Programming is the new Math&quot;, la programación es  clave en el mundo actual y lamentablemente no te lo enseñaron en el  colegio.</li>  </ul>  <p style=\"\">  \t    Para hacernos cargo de este problema en <strong style=\"\">ZENVA</strong> hemos creado los cursos de la serie <strong style=\"\">Cómo Programar para Emprendedores</strong>,  donde queremos dotar a emprendedores como nosotros los conocimientos y  herramientas básicas de desarrollo web para que puedan tener mayores  probabilidades de éxito con sus proyectos.  </p>  <p style=\"\">  \t    En <strong style=\"\">Cómo Programar para Emprendedores – JavaScript</strong> veremos desde cero cómo programar en este lenguaje, el cual es utilizado ampliamente hoy en día para crear, entre otras cosas:  </p>  <ul style=\"\">  \t<li style=\"\">Sitios web interactivos.</li>  \t<li style=\"\">APP móviles y para TV.</li>  \t<li style=\"\">Videojuegos.</li>  \t<li style=\"\">Aplicaciones web en el servidor.</li>  </ul>  <p style=\"\">  \t    Como es de costumbre en los cursos de <strong style=\"\">ZENVA</strong>, una vez  cubiertos los conceptos básicos desarrollaremos un mini-projecto, el  cual será un prototipo interactivo de una aplicación móvil de buscar  pareja.</p>", 
+    "end_date": null, 
+    "title": "Cómo Programar para Emprendedores - JavaScript", 
+    "price": "20.00", 
+    "instructors": "Pablo Farias Navarro", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/101866_7118_7.jpg", 
+    "course_url": "https://www.udemy.com/curso-de-javascript/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-05T13:20:41Z"
+}

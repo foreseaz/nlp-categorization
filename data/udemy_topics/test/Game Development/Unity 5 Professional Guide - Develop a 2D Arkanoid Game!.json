@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course you'll think, understand and implement a <strong>complete working game</strong> on Unity3D. This course is designed for those who have at least a basic knowledge of C#, as we won't go through defining each feature of the language. Also, it would be good if you were comfortable with the Unity 5.x interface. If you're not familiar with these two items, you better off with my first course, which will teach you C# and Unity.<br></p><p><strong>Everything </strong>that was used throughout the course (including scripts and the working project) <strong>is included</strong> as a resource on lecture #2, so I got you covered!</p><p>The course starts by giving an introduction of how the game works and what kinds of systems we'll have to implement to make it work flawlessly, which should take around 4 hours.</p><p>If you're tired of code-alongs with no explanation whatsoever, this is the course for you, as I actually teach and explain every single line I'm writing. I'll also explain all the decisions that were made to make the game work as it is, so you can be assured you'll have the best game development instructor you could ask for.</p><p><em><br></em></p>", 
+    "end_date": null, 
+    "title": "Unity 5 Professional Guide - Develop a 2D Arkanoid Game!", 
+    "price": 0, 
+    "instructors": "José Augusto Thomas", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/628174_8217_5.jpg", 
+    "course_url": "https://www.udemy.com/unity-professional-guide/", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-01T18:57:48Z"
+}

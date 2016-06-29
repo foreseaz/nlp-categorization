@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Este curso trata de la teoría y práctica de las redes de datos que usan como protocolo de comunicación el protocolo TCP/IP. </p><p>El enfoque va al conocimiento del direccionamiento IP versión 4, el cálculo de subredes, la sumarización de rutas, VLSM (Variable Length Subnet Mask ó máscara de subred de longitud variable), también veremos que son las mascaras de redes, que es una subred, y mucho más.</p><p>Se realizaran prácticas, de tal manera que los estudiantes aprendan a calcular direcciones IP, subredes, sumarización, VLSM, cálculo de binario a decimal, de decimal a binario, etc.</p><p>Revisaremos un caso de estudio, en el cual aprenderemos a definir, planear y asignar direcciones IP versión 4 de la manera correcta y en base a las mejores prácticas del mercado.</p><p>Por último revisaremos preguntas típicas de preguntas de certificaciones Cisco CCNA, para familiarizarnos con el nivel de dificultas que se presentan en estos casos.</p><p>Este curso les entregará los conocimientos y practicas suficientes para armar una red que implique la configuración de direcciones IP, subredes y la preparación para rendir las certificaciones Cisco en el apéndice de direccionamiento IP versión 4</p><p><br></p><p><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Direcciones IP y Subredes: Teoría y Práctica ", 
+    "price": "20.00", 
+    "instructors": "Manuel Sepulveda", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/697744_c035.jpg", 
+    "course_url": "https://www.udemy.com/direcciones-ip-y-subredes-teoria-y-practica/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-15T02:43:06Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>C++ é uma linguagem que foi desenvolvida por Bjarne Stroustrup como um adicional à linguagem C. C++ possui vários recursos que fazem com que ela seja uma linguagem apropriada para desenvolver os mais diversos projetos.</p><p>Várias são as vantagens em se programar em C++ tais como: flexibilidade, portabilidade, adequada para grandes projetos, compatibilidade com C e muito mais.</p>\n\n<p>Nesse curso você aprenderá de fato a programar em C++ através de vídeo-aulas e vários exercícios para fixar o conhecimento. O que está esperando? Se cadastre agora mesmo nesse curso para conhecer essa linguagem fantástica!</p>", 
+    "end_date": null, 
+    "title": "Começando a Programar em C++", 
+    "price": "25.00", 
+    "instructors": "Marcos Castro", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/778528_2013_2.jpg", 
+    "course_url": "https://www.udemy.com/curso-cplusplus/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-01T03:36:27Z"
+}

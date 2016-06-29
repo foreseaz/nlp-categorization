@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>*The First and only Udemy course on Swift 3*</strong></p><p>Swift 3 was released on June 13th. Get a jump start on the latest version of Swift before everyone else!</p><p>Have you ever wanted to try out programming? Have you tried to learn Swift, only to get fed up with incomplete YouTube tutorials and poorly written tutorials? Looking to move your code from Swift 2 to 3?</p><p>THIS IS THE COURSE FOR YOU!</p><p>In my Swift 3 course, I will walk you through all the esentiall information you need to write swift code. I'm a self taught programmer so I know what it feels like to start from sratch. I care about your learning.</p><p>I believe we learn best by doing. So, in this course, every lecture is followed up by an exercise for you to test yourself. This format will allow you to actually learn Swift and not just follow along like a robot ;)</p><p>Swift was opene sourced in December of 2015 so you can now take this course even if you are on a Linux or Windows computer!</p><p><strong class=\"redactor-inline-converted\">A Modern Language Evolved from Objective C</strong></p>\n\n<p>Swift is a multi-paradigm programming language developed by Apple for use with iOS and OS X. Designed to replace Objective C, work began on Swift in 2010 and the first mobile app was debuted in June 2014 at the Worldwide Developers Conference. Despite its goal of replacing Objective C, Swift is capable of working alongside the more dated Objective C language while using the Cocoa and Cocoa Touch frameworks.</p>\n\n<p>Swift is built with the LLVM compiler included in Xcode 6 beta, and uses the Objective-C runtime, allowing Objective-C, Objective-C++ and Swift code to run within a single program. During it’s debut, Swift was described as “<em>Objective C without the C</em>” by Apple’s VP of Software Engineering Craig Federighi.</p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">Contents and Overview</strong></p>\n\n<p>In this course, you will be lead through setting up Swift locally, the basics of the language, how it compares to other common languages (including Objective C), and how to get started on new projects.</p>\n\n<p>The course is designed to provide a comprehensive introduction to Swift, so that you can begin experimenting right away. Upon completion, you will understand the foundations of Swift code and will be able to develop custom applications. You will also get experience working with Xcode's new .playground file. </p>\n\n<p>Course material is regularly refreshed to include all of the newest updates and information, and since you’re granted lifetime access upon registering, you can rely on this course to keep your Swift skills on the cutting edge.</p>", 
+    "end_date": null, 
+    "title": "Swift 3 - Learn to Code with Apple's New Language", 
+    "price": "30.00", 
+    "instructors": "Rick Walter", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/878382_1323_4.jpg", 
+    "course_url": "https://www.udemy.com/swift-3-learn-to-code-with-apples-new-language/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-14T23:17:05Z"
+}

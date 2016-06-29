@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t      Learn how to program in Java from the ground up with no experience whatsover! Being a student myself, I&#039;ve learned that Java for the first time is really difficult if you are not used to programming. That is why I made this course. To make programming in Java easy and fun for all skillsets! In this course you will be taught how to:  </p>  <ul style=\"\">  \t<li style=\"\"> <strong style=\"\">Program effectively in Java. (You probably expected this)</strong></li>  \t<li style=\"\"><strong style=\"\">Create programs that are dynamic and interact with the user.</strong></li>  \t<li style=\"\"><strong style=\"\">Use Object-Oriented programming to build projects of your very own!</strong></li>  \t<li style=\"\"><strong style=\"\">Utilize Java programming in order to pick up other languages.</strong></li>  \t<li style=\"\"><strong style=\"\">Have a great skill to put on your resume.</strong></li>  \t<li style=\"\"><strong style=\"\">And Much Much More!</strong></li>  </ul>  <p style=\"\">  \t  So what are you waiting for, start learning Java today!  </p>  <p style=\"\">  \t<strong style=\"\"><br style=\"\">  \t</strong>  </p>", 
+    "end_date": null, 
+    "title": "Java Square One - Learning Through Example", 
+    "price": 0, 
+    "instructors": "Michael Vieck", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/388638_ef0f_4.jpg", 
+    "course_url": "https://www.udemy.com/java-square-one-a-concise-course-with-examples/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-08T15:42:47Z"
+}

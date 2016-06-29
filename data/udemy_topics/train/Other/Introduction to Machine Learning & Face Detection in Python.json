@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course is about the fundamental concepts of machine learning, focusing on neural networks, SVM and decision trees. These topics are getting very hot nowadays because these learning algorithms can be used in several fields from software engineering to investment banking. Learning algorithms can recognize patterns which can help detect cancer for example or we may construct algorithms that can have a very very good guess about stock prices movement in the market.  </p><p>In each section we will talk about the theoretical background for all of these algorithms then we are going to implement these problems together. </p><p>The first chapter is about regression: very easy yet very powerful and widely used machine learning technique. We will talk about Naive Bayes classification and tree based algorithms such as decision trees and random forests. These are more sophisticated algorithms, sometimes works, sometimes not. The last chapters will be about SVM and Neural Networks: the most important approaches in machine learning. </p>", 
+    "end_date": null, 
+    "title": "Introduction to Machine Learning & Face Detection in Python", 
+    "price": "20.00", 
+    "instructors": "Holczer Balazs", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/617930_44e3_2.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-machine-learning-in-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-21T09:18:30Z"
+}

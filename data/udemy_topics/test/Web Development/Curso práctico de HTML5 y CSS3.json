@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>En este curso aprenderás la manera correcta de trabajar con HTML5, su semántica, así como también, maquetar tus diseños con CSS3 para tus sitios web; además revisaremos las características de las nuevas etiquetas, atributos y reglas que acompañan al estandar.</p><p>Veremos la estructura de documentos HTML5.</p><ul><li>Etiquetas</li><li>Soporte en navegadores</li><li>Formularios y validaciones</li><li>Canvas</li><li>Transiciones</li><li>Fuentes</li><li>Animaciones</li><li>Audio</li><li>Video</li><li>Semántica</li><li>Reglas básicas de estilos</li></ul><p>Hoy en día lo más novedoso y eficaz en el desarrollo de sitios web es el lenguaje HTML5 y CSS3; ambos definen los estándares de desarrollo web, tanto para equipos de escritorio, como para dispositivos móviles.<br></p>", 
+    "end_date": null, 
+    "title": "Curso práctico de HTML5 y CSS3", 
+    "price": "20.00", 
+    "instructors": "Etraining S.A DE C.V", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/745112_33bd.jpg", 
+    "course_url": "https://www.udemy.com/curso-practico-de-html5-y-css3/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-28T19:38:39Z"
+}

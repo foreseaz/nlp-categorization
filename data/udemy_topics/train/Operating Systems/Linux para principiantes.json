@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Hola y bienvenido (a) al maravilloso mundo de Linux.</p><p>Linux es uno de los sistemas operativos que más ha evolucionado en los últimos años, despertando gran interés a nivel mundial por parte de millones de usuarios, la pequeña y mediana empresa y grandes compañías, los cuales se han convencido de sus excelentes características y lo convierten en una gran alternativa a la hora de implementar equipos para uso personal, estaciones de trabajo, servidores de red, e incluso incorporarlo en una gran variedad de dispositivos.</p><p>Saber administrar Linux hoy en día nos garantizara un mejor trabajo con salarios muy atractivos y lo mejor de todo esto es que Linux es un sistema operativo tan sencillo de administrar que personas de todas las edades podrian convertirse en adminsitradores de este sistema en corto tiempo.</p><p><em><strong>¿Qué aprenderemos en este curso?</strong></em></p><ul><li>Introducción sobre Linux</li></ul><ul><li>Historia sobre Linux</li></ul><ul><li>Distribuciones</li></ul><ul><li>Estructura</li></ul><ul><li>Como instalar Linux en un ambiente virtual</li></ul><ul><li>Donde conseguir Linux</li></ul><ul><li>Instalar Linux en VirtualBox</li></ul><ul><li>Comandos Basicos y sus caracteristicas</li></ul><ul><li>Ver en que directorio estoy “pwd\"</li></ul><ul><li>Crear archivos “touch\"</li></ul><ul><li>Listar Directorios “Ls\"</li></ul><ul><li>Entrar en directorios “cd\"</li></ul><ul><li>Crear directories “mkdir\"</li></ul><ul><li>Mover archivos “mv\"</li></ul><ul><li>Renombrar los archivos usando mv</li></ul><ul><li>Copiar archivos “cp\"</li></ul><ul><li>Ver el contenido de los archivos “cat\"</li></ul><ul><li>Comandos Básicos y sus características</li></ul><ul><li>Eliminando archivos y directories “rm, rmdir\"</li></ul><ul><li>Otras maneras de imprimir “more, head, tail, less\"</li></ul><ul><li>Editores de texto “nano\"</li></ul><ul><li>Permisos “chmod\"</li></ul><ul><li>Limpiar pantalla “clear\"</li></ul><ul><li>Comandos favoritos “alias\"</li></ul><ul><li>Archivando y comprimiendo “tar, gzip &amp; bzip2\"</li></ul><p></p><p><strong>Este curso nos aportara el conocimiento necesario para obtener nuestra certificación en Linux Essentials</strong></p><p><em><strong>Bonus</strong></em></p><ul><li>Instalación de servidor LAMP + Wordpress en Raspbian en la Raspberry pi 2 \"Tambien sirve para Ubuntu\"</li></ul>", 
+    "end_date": null, 
+    "title": "Linux para principiantes", 
+    "price": "20.00", 
+    "instructors": "Jorluis Perales", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/553040_9699_7.jpg", 
+    "course_url": "https://www.udemy.com/linux-para-principiantes/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-13T04:52:24Z"
+}

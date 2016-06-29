@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">There seems to be a notion among uninformed beginners in programming that the VIM editor was born out of some sort of a relic and is used only by nerds who are fond of Unix. It is true to some extent. But relics are also classics that have a charm of their own which cannot be replicated. It is a privilege to learn them.</p><p style=\"\">This course attempts to handhold you during your initial journey through Vim by introducing just a small and simple set of commands that will make you not only comfortable but also fairly productive when you start using Vim. </p><p style=\"\"><em style=\"\"><strong style=\"\">Noteworthy Review by Andrew Magdy Kamal</strong></em>: <em style=\"\">Nicely Designed little course : Very well designed, the course is very detailed, and although the animations are a bit immature, the teaching styles isn&#039;t. Overall would recommend. Rating: 5 star.</em> </p><p style=\"\"><strong style=\"\">Learn the basic and mandatory commands to start using Vim effectively</strong></p><ul style=\"\"><li style=\"\">Command mode </li><li style=\"\">Insert mode</li><li style=\"\">Commands in the above modes</li><li style=\"\">Commands to navigate amongst files and to interact with the environment.</li></ul><p style=\"\"><strong style=\"\">Getting started with Vim</strong></p><p style=\"\"><strong style=\"\"><strong style=\"\"></strong></strong>Vim commands are predominantly keyboard based. Those who are used to using a graphical interface for program development may find it a little strange to adapt to this editor initially. It might seem to consume too much of your productive time. Still, in certain work areas like those involving C programming, knowledge of using VIM editor comes in quite handy in many many occasions. </p><p style=\"\">This course hopes to help you start using the Vim editor without having to spend too much time figuring out how to accomplish the basic editing tasks.</p><p style=\"\"><strong style=\"\">Content and Overview</strong></p><p style=\"\">The course first introduces a small set of commands that are mandatory to edit and store a text file. </p><p style=\"\">Then, it introduces a bunch of commands alphabet-wise. This approach is taken because, Vim is predominantly keyboard based, as mentioned earlier; so, all the alphabets are associated with some functionality. Once you gain the knowledge of these key-function mappings, then, you almost have the editor on your finger-tips, literally and figuratively. </p><p style=\"\">Lastly, you will also be introduced to a small set of commands that will help you navigate through multiple files.</p><p style=\"\">Once you are get familiar with these commands, then, it would become easy for you to follow the treasure trove of other awesome commands, configuration settings and vimrc changes in future. </p><p style=\"\">This tiny course hopes to make your initial VIM experience as smooth as possible and  annihilate or at least attenuate the frustration faced sometimes by the beginners of VIM.</p><p style=\"\">Happy Vimming! :-)     </p>", 
+    "end_date": null, 
+    "title": "ABC of VIM", 
+    "price": "20.00", 
+    "instructors": "Gayatri TR", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/443414_ccd6_2.jpg", 
+    "course_url": "https://www.udemy.com/abc-of-vim/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-10T06:04:38Z"
+}

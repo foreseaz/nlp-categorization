@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>C++ é uma linguagem de programação compilada criada por Bjarne Stroustrup como um adicional à linguagem C. C++ é uma das linguagens de programação mais usadas e continua crescendo rapidamente. Várias aplicações utilizam C++ tais como Microsoft Office, Firefox, Photoshop dentre outras.<br></p>\n\n<p>Esse curso tem como objetivo demonstrar recursos mais avançados da linguagem C++ através de vários exemplos de códigos que serão escritos e explicados passo a passo para um melhor aprendizado.</p>\n\n\n\n<p>Conhecendo os recursos avançados da linguagem C++, você poderá tirar mais proveito da linguagem economizando tempo e otimizando o seu código. O que está esperando? Cadastre-se agora mesmo no Curso de C++ - Intermediário!</p>", 
+    "end_date": null, 
+    "title": "Curso de C++ - Intermediário", 
+    "price": 0, 
+    "instructors": "Marcos Castro", 
+    "commitment": "30 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/825690_e15a.jpg", 
+    "course_url": "https://www.udemy.com/cplusplus-intermediario/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-19T04:42:38Z"
+}

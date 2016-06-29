@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Parse Cloud is retiring it's services and is going to shut down in 2017. However Parse Server because open sources and we can continue using our apps by migrating our databases and making our apps communicate with Parse Server instead. </p>\n\n<p>There is very little time left before Parse shuts down. If you have not migrated your app yet, please do it ASAP. Do it today or you are risking of loosing your data. </p>\n\n\n\n\n\n\n\n<p>This course will help you migrate your database from Parse Hosted backend to a different database-as-service company and will also teach you how to launch your own linux server in Amazon Cloud. </p>\n\n\n\n\n\n\n\n<p>Because the migration process is very time sensitive and we must do it asap, this course starts up small but will expand with more videos as we go on. </p>", 
+    "end_date": null, 
+    "title": "Migrate Parse App to Your Own Server In The Cloud", 
+    "price": "40.00", 
+    "instructors": "Sergey Kargopolov", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/869582_f972_2.jpg", 
+    "course_url": "https://www.udemy.com/migrate-parse-app-to-your-own-server-in-the-cloud/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-05T18:39:13Z"
+}

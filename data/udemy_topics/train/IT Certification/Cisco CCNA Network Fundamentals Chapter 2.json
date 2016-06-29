@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t  This is the 2nd course of the Network Fundamentals series. This course will focus on the OSI Model basics. What is the OSI and TCP/IP Model will be answered here. From there we immediately go into the basics that is needed to understand the beginning of basic communication. This is Part 2 of a series of 4 course that I will be providing for Network Fundamentals.  </p>  <p style=\"\">  \t  Here you will learn about the basics of why the OSI exist, how we use it, what devices we will be using it, and the ability to see the OSI in a different manner. You will learn where a router and a switch fits in with the OSI Model.  </p>  <p style=\"\">  \t  It is a lot of fun, let&#039;s get started.  </p>", 
+    "end_date": null, 
+    "title": "Cisco CCNA Network Fundamentals Chapter 2", 
+    "price": 0, 
+    "instructors": "Kiel Martin", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/377280_dab6.jpg", 
+    "course_url": "https://www.udemy.com/cisco-ccna-network-fundamentals-chapter-2/", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-25T01:49:54Z"
+}

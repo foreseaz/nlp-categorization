@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course is the foundation for the Microsoft Certificate 70-461: \"Querying Microsoft SQL Server 2012\".</p><p>In Sessions 1 and 2, we learned all about dates, strings and number data types and DML statements. In sessions 3 and 4, we created views, procedures, triggers, constraints and combining datasets.</p><p>We'll will now be creating aggregate queries, working through objective 9 of the exam 70-461. We'll be reviewing the ranking functions ROW_NUMBER, RANK, DENSE_RANK and NTILE. We'll look at the 8 analytic functions news to SQL Server 2012, such as LAG, LEAD, FIRST_VALUE and LAST_VALUE.</p><p>We'll look at alternative ways of grouping and adding totals, using ROLLUP, CUBE, GROUPING SETS and GROUPING_ID. We'll also look at the geometry and geography data types, plotting locations on a grid, together with functions and aggregates.</p><p>No prior knowledge other than what we covered in Sessions 1 to 4 is required. This course builds on the knowledge previously gained in those previous sessions.</p><p>There are regular quizzes to help you remember the information.</p><p>Once finished, you will know what how to write ranking functions, analytic functions, grouping sets and spatial aggregates, and we'll have expanded on our current knowledge of T-SQL.</p>", 
+    "end_date": null, 
+    "title": "70-461 Session 5: Querying Microsoft SQL Server 2012", 
+    "price": "20.00", 
+    "instructors": "Phillip Burton", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/553636_56da_3.jpg", 
+    "course_url": "https://www.udemy.com/70-461-session-5-querying-microsoft-sql-server-2012/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-13T19:43:32Z"
+}

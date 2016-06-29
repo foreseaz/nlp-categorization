@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>Currently The course contains The Use Case diagram, Use case description, activity diagram, class diagram, object diagram, package diagram, sequence diagram and state transition diagram. </strong></p>\n\n<p>Software practitioners have used modeling languages for decades to specify, visualize, construct, and document systems. UML which stands for The Unified Modeling Language (UML) is one of those languages and today UML is the most used standard modeling language for software and systems development. Even though not everyone need to write UML diagrams , Most software practitioners, if not all of them, need to interpret and read diagrams written by others.</p>\n\n\n\n<p>UML is used to express software or system requirements, architecture, and design. After taking this course. UML will make it easy for you to communicate technical matters with other developers, analysts, designers, testers and even your clients. So it improve your ability to communicate with others and will also improve your team productivity as it will be easier to use UML to express complicated technical matters with others in much less time.<br></p>\n\n\n\n<p>In this course, I talk about all the different UML diagrams Use cases, class diagrams, sequence diagrams, activity diagram and more. I will talk about each of them in detail. You will learn how to read and comprehend any UML diagram and you also learn the important guidelines to build them provided by subject matter experts. We will have workshops to read and build diagrams together. All these can be achieved with little effort just by watching this course.</p>\n\n\n\n<p>In this course, we will learn by example, starting by quickly demonstrate some the notations of a diagram then explain in detail the variations of each of those notations. Then will introduce more notations and then discuss them and so on.<br></p>\n\n\n\n<p>When done learning how to read any diagram, We will explain how to build diagrams using those notations and the guidelines that we should follow to use each notations. </p>\n\n\n\n<p>Join this course now and I promise that you will be able to read any UML diagram and build neat , quality UML diagrams in no time<br></p>", 
+    "end_date": null, 
+    "title": "The Complete Guide to UML (Unified Modeling Language)", 
+    "price": "25.00", 
+    "instructors": "Maged Koshty", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/669076_93b4_3.jpg", 
+    "course_url": "https://www.udemy.com/uml-the-complete-uml-unified-modeling-language-reference/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-13T20:25:43Z"
+}

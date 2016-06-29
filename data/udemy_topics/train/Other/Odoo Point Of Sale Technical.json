@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This course is for the ODOO technical developers who wish to learn ODOO POS customisation.</p><p>You will learn POS Module structure and POS module directory and file system, Javascript Structure for POS, Understanding models and its data related class and methods, Class which is used when action is being executed, Action definded for POS, how action is registerd and defined in POS, Understanding the each section of screen and Event bindings like new order, delete order etc.</p><p> Designing and adding new widgets in POS, Adding new fields and change existing screens of POS. It has series of videos for the step to step guide on customising POS, It will demonstrate how POS works in offline mode.</p><p>Developers and consultants who provide odoo development and customisation services who wish to learn POS structure and architecture and customise POS screens, widgets, workflow of POS can take this course.</p>", 
+    "end_date": null, 
+    "title": "Odoo Point Of Sale Technical", 
+    "price": "45.00", 
+    "instructors": "Mr. Jay Vora, Mr. Husen Daudi", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/693902_7f99_2.jpg", 
+    "course_url": "https://www.udemy.com/odoo-pos-technical/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-10T11:23:09Z"
+}

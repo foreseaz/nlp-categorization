@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will show step by step how to replicate one of the 250+ social good projects available at DataLook; Adopt-a-Hydrant.</p><p>Adopt-a-Hydrant is developed and maintained by Code for America, and allows citizens to claim responsibility for shoveling out fire hydrants after heavy snowfall. In the midst of winter snowstorms, buried hydrants cause dangerous delays for firefighters.</p><p>Having City employees check and clear thousands of hydrants would be a timely, costly and burdensome process. Adopt-a-Hydrant lets governments look to community members for help. This map-based web app allows individuals, small businesses and community organizations to volunteer in shoveling out specific hydrants. <span style=\"\"></span></p><p>You can see a final version of a working version of this app googling Adopt a Hydrant.</p><p><strong style=\"\">This project can easily be adapted, for example, we have seen &quot;adopt-a-tree&quot;, &quot;adopt-a-siren&quot;, &quot;adopt-a-drain&quot; etc. The only limit is your imagination!</strong> In this video-guide we will cover how to adapt this project.</p><p>The course will cover the complete replication of this project from the beginning to the end. You don&#039;t need to be a programmer or a developer to take this course, this video guide will show you step by step every single process from the beginning to the end plus we will constantly support you on our chat on Slack.</p><p>You will learn and practice how to:</p><ul style=\"\"><li style=\"\">Fork and Clone the original app</li><li style=\"\">Find data</li><li style=\"\">Prepare the data</li><li style=\"\">Edit the code</li><li style=\"\">Create a postgreSQL database</li><li style=\"\">Deploy your app to Heroku</li><li style=\"\">Find partners for it</li></ul><p style=\"\"><strong style=\"\">If you are looking for a fun weekend project while helping your city/community this is the place to be! Join us on our chat on Slack and let&#039;s begin! </strong></p>", 
+    "end_date": null, 
+    "title": "Build an app for your city. Do good with open data.", 
+    "price": 0, 
+    "instructors": "Data Look", 
+    "commitment": "44 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/607804_eb92_4.jpg", 
+    "course_url": "https://www.udemy.com/build-a-ruby-app-for-your-city-do-good-with-open-data/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-10T08:58:26Z"
+}

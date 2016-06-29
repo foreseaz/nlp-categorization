@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t<strong>Linux</strong> is a very powerful operating system and has become a must mention on resume to get a <strong>successful job</strong>.  </p>  <p>  \t  In this course we will take things from the scratch. We will first have a detailed look in various questions that a Linux beginner always face before getting started. After that we will learn to <strong>install Linux in virtual box or VMplayer</strong> so that your windows or MAC remains still available for you. Unfortunately, if anything goes wrong, you can just uninstall the software and reinstall it.  </p>  <p>  \t  Further, we will then explore basics of Linux like <strong>file system, basic commands</strong> and permissions. Linux file system is bit different than windows, so a Linux user must understand about file structure and permissions to execute the scripts that we will learn to create in this course.  </p>  <p>  \t  Further we will move to <strong>shell scripting</strong> part and explore the basics like <strong>variable declaration, basic operation and conditional</strong>s. In the latter part of the course, we will learn about various loops and loop control keywords.  </p>  <p>  \t  Linux is very easy to use operating system but the reason it sounds bit intimidating is that you have to learn few basic commands. But things have changed now, Linux can also run completely on the Graphical User interface too. The cool visual effects in <strong>Ubuntu</strong> and <strong>fedora</strong> have become a reason for many kinds to get started with linux.  </p>  <p>  \t  Here are some facts about linux:  </p>  <ul>  \t<p>  \t\t  ·Linux nominated as world’s second most secure operating system after OpenBSD, which is UNIX based. For eg. The super computer takes about 5 years to break the password of the root user.  \t</p>  \t<p>  \t\t  ·Linux distributions have become increasingly popular on mainframes in the last decade due to pricing.  \t</p>  \t<p>  \t\t  ·Some 95% of the servers used by Hollywood&#039;s large animation studios are powered by Linux.  \t</p>  \t<p>  \t\t  ·Google runs its web servers on Linux.  \t</p>  \t<p>  \t\t<strong>So, lets get started with your first linux class.</strong>  \t</p>  </ul>", 
+    "end_date": null, 
+    "title": "Shell scripting for linux beginners. Get started with Linux", 
+    "price": "40.00", 
+    "instructors": "Igneus Technologies", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/317332_1bc6_4.jpg", 
+    "course_url": "https://www.udemy.com/linux-basic-tutorials-and-shell-scripting/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-10T16:59:53Z"
+}

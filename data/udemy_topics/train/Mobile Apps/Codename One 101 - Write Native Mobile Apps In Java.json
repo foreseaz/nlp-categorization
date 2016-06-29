@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "Codename One is the first and only tool to allow Java developers to write TRUE native applications on all mobile platforms. This 7 hour course will help you build a Codename One application from scratch.<br><br>It is assumed that students know Java and can use Eclipse or NetBeans.<br><br>Included subjects:<br><ul><li>Basics of mobile device development<br></li><li>Architecture</li><li>Deploy to devices</li><li>Using Codename One GUI Builder</li><li>Building a Todo application</li><li>UI Components</li><li>Images</li><li>Event Handling</li><li>Event Dispatch Thread (EDT)<br></li><li>Network Manager and Web Services<br></li><li>JSON/XML</li><li>File system</li><li>SQL</li><li>Style &amp; Themes</li><li>Internationalization and localization<br></li><li>Native Device Interface<br></li></ul>", 
+    "end_date": null, 
+    "title": "Codename One 101 - Write Native Mobile Apps In Java", 
+    "price": "50.00", 
+    "instructors": "Shai Almog", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/33619_4af3_2.jpg", 
+    "course_url": "https://www.udemy.com/codenameone101/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-12-26T12:35:25Z"
+}

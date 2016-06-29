@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>This course builds on the Introduction and Intermediate courses to show   you how to bring all of the different Access objects and development   phases together to make a cohesive application.  It also teaches you   many different techniques to make Access even more interactive by using   dialog boxes, subforms, and more controls.  Finally, the course shows   you how to create different types of macros and how to select the proper   Control and Event for the best possible outcome.  The course will cover   programming tips as well.<br></p>", 
+    "end_date": null, 
+    "title": "Access 2007 Advanced", 
+    "price": "30.00", 
+    "instructors": "CompuWorks Trainers", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/48699_aeac_6.jpg", 
+    "course_url": "https://www.udemy.com/cwaccess-2007-advanced/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-04-05T19:59:00Z"
+}

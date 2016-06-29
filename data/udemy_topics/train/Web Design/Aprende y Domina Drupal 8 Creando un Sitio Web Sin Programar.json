@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Aprende y Domina Drupal 8 Creando un Sitio Web sin Programar, te llevará de la mano, paso a paso en la creación de un sitio web real.</p><p>Conocerás todos los mayores componentes de Drupal 8, como son los Content Types, Fields, Views, Bloques, Menús, WebForms, etc.</p><p>Si nunca has utilizado Drupal, comenzaremos desde como instalar Drupal localmente, crear la base de datos y descargar e instalar Drupal 8.</p><p>Daremos un recorrido por las funciones que hacen Drupal el Administrador de Contenidos más avanzado del mundo y al finalizar el curso dominaras todos estos temas.</p><p>Finalizaremos el Curso, creando un Servicio Web utilizando el nuevo RESTful Web Services de Drupal 8.</p>", 
+    "end_date": null, 
+    "title": "Aprende y Domina Drupal 8 Creando un Sitio Web Sin Programar", 
+    "price": "20.00", 
+    "instructors": "Juan Pablo De la torre Valdez", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/684186_0e00.jpg", 
+    "course_url": "https://www.udemy.com/aprende-y-domina-drupal-8-creando-un-sitio-web-sin-programar/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-29T17:39:55Z"
+}

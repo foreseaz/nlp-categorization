@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t What am I going to get from this course? –  </p>  <ul style=\"\">  \t<li>How to implement all those standard Applications features</li>  \t<li>Adding a Menu bar to your application</li>  \t<li>Adding Help-About dialog box to your application</li>  \t<li>Using a Splash screen on startup to show progress</li>  \t<li>How to implement logging for your Application</li>  </ul>  <p>  \t The course is divided into 7 sections with each section taking you through an area of the application, with sections such as installing and testing your environment, building a menu and packaging up your application ready for distribution.  </p>  <p>  \t Delivery of course content is primarily through the use of video sessions demonstrating a specific point. At the end of each section you are able to run the code and explore the results.  </p>  <p>  \t At the end of the course you will be able to take the techniques covered in the course and apply these to your own development projects.  </p>", 
+    "end_date": null, 
+    "title": "Java - Build a Desktop Application", 
+    "price": "20.00", 
+    "instructors": "John McNeil", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/250904_0e43_3.jpg", 
+    "course_url": "https://www.udemy.com/build-a-desktop-application-using-java/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-26T13:40:22Z"
+}

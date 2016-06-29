@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this Developers Guide to the WatchKit SDK training course, expert author Skip Wilson will teach you how to write Apple Watch apps using the WatchKit SDK. This course is designed for users that already have a basic understanding of Swift.</p>\n\n<p>You will start by learning how the WatchKit app works. From there, Skip will teach you how to animate in WatchKit, including how to create a map and advanced pins, tables, and advanced switch and sliders. This video tutorial also covers notifications and custom messages, such as notification icons, responding to actions, notification in iOS, and dynamic notifications. </p>\n\n<p>Once you have completed this computer based training course, you will be fully capable of creating your own Apple Watch apps with the WatchKit. Working files are included, allowing you to follow along with the author throughout the lessons.</p>", 
+    "end_date": null, 
+    "title": "Developers Guide to the Watchkit SDK", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/833848_b725_2.jpg", 
+    "course_url": "https://www.udemy.com/developers-guide-to-the-watchkit-sdk/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-27T20:30:00Z"
+}

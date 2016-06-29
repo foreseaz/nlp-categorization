@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">※このコースはベネッセコーポレーションと株式会社SharewisのサービスACTが提携し、配信しております。</p><p>※本コースは「Python, django, Bootstrapで作るランディングページ開発講座 【まとめパック】」よりPython部分を抜粋してご提供しておりますのでご注意ください。</p><p>Pythonを使って実際のWebサイト構築もやってみたい方は、【まとめパック】のご受講をオススメします</p><p style=\"\"><strong style=\"\"></strong><strong style=\"\">全くの初心者でも学べるPython</strong></p><p style=\"\">Python,django,Bootstrapで作るランディングページ開発【Vol2. Python編】は、プログラミング言語Pythonに全く触れたことのない初学者の方が、Pythonの基本構文を理解し、Pythonの基本知識を身につけられるカリキュラムになっています。</p><strong style=\"\">このコースで学べること<p><br style=\"\"></p></strong>Pythonの基本構文を学ぶことができます。「プログラミングははじめて」という方も安心できる内容です。<p><strong style=\"\"><br style=\"\"></strong></p><p><strong style=\"\">カリキュラムの詳細</strong></p><p><strong style=\"\"></strong>1. Pythonってなに？</p><p>Macのターミナル上からPythonを起動する方法と、どのようなウェブアプリケーションで使われているのか説明します。</p>2. printを使ってみよう<p>ターミナル上に文字列や変数に格納された値を表示するprint関数について勉強します。</p>3. 変数と文字列の結合<p>プログラミングをする上で大切な変数の考え方や定義、文字列の結合について勉強します。</p>4. while文<p>条件に応じて繰り返し処理を行うwhile文について勉強します。</p>5. for文<br style=\"\">変数に格納された要素数に応じて、繰り返し処理を行うfor文について勉強します。<p> <br style=\"\"></p>6. リスト<p>他の言語では配列にあたる、リストについて勉強します。</p>7. if文での条件分岐値や変数を比較して、条件分岐を行うif文について勉強します。<p> <br style=\"\"></p>8. 文字列での条件分岐if文を使って文字列同士の条件分岐を勉強します。   <hr style=\"\"><br style=\"\"><p>Pythonの基礎を学んで、プログラミングスキルを身につけましょう！</p>", 
+    "end_date": null, 
+    "title": "Python, django, Bootstrapで作るランディングページ開発講座 【Vol2. Python編】", 
+    "price": "20.00", 
+    "instructors": "ACT （アクト）, Benesse Corporation", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/476626_3c78_3.jpg", 
+    "course_url": "https://www.udemy.com/python-biggner/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-15T01:26:20Z"
+}

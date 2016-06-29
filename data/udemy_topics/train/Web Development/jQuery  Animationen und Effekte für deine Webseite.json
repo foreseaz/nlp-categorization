@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In diesem Kurs werde ich dir beibringen, wie du jQuery benutzen kannst und wie es \"unter der Haube\" funktioniert.</p><p><strong>Du wirst lernen:</strong></p><ul><li>Wie die wichtigsten jQuery - Funktionen im Hintergrund funktionieren</li><li>Wie du die Funktionen auch ohne jQuery verwenden könntest - und welche Vereinfachung dir jQuery hier bietet</li><li>Warum du jQuery - Animationen nicht nutzen solltest und welche bessere Alternative es dazu gibt</li></ul><p><strong>Du hast schon etwas Erfahrung mit jQuery? </strong>Hast du dich schonmal gefragt, was eigentlich passiert, wenn du einen jQuery - Befehl ausführst? In diesem Kurs schauen wir in die wichtigsten Stellen des jQuery - Codes hinein, sodass du verstehst, was genau da im Hintergrund passiert.</p><p><strong>Du hast noch keine Erfahrung mit jQuery?</strong> Dann ist das hier der perfekte Kurs, mit dem du nicht nur lernst, wie du mit jQuery deine Internetprojekte aufbessern kannst, sondern auch lernst, wie jQuery im Hintergrund funktioniert.</p>", 
+    "end_date": null, 
+    "title": "jQuery: Animationen und Effekte für deine Webseite", 
+    "price": "20.00", 
+    "instructors": "Jannis Seemann", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/782026_794e_2.jpg", 
+    "course_url": "https://www.udemy.com/lerne-und-verstehe-jquery-und-ajax/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-04T10:47:31Z"
+}

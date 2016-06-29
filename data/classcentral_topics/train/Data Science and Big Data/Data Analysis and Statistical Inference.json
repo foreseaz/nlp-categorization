@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                                            Class Central Course Rank  \n                                                    \n                                #2 in Subjects\n                                                                    &gt; Computer Science\n                                                                                                    &gt; Data Science and Big Data\n                                                            \n                            \n                                                \n                    \n                    \n                    The Coursera course, Data Analysis and Statistical Inference has \nbeen revised and is now offered as part of Coursera Specialization “Statistics with R”. This Specialization consists of 4 courses and a capstone project. The courses can be taken separately:Introduction to Probability and Data (began in April 2016)Inferential Statistics (begins in May 2016)Linear Regression and Modeling (begins in June 2016)Bayesian Statistics (begins in July 2016) A completely new course, with additional faculty!Statistics Capstone Project (August 2016) (for learners who have passed the 4 previous courses, and earned certificate)You\n may enroll in a single course, or all of them, but each requires the \nknowledge and techniques from the previous courses. The assignments in \nthese courses have suggested but not required deadlines, so you can work\n at your own schedule. Please check the Specialization page for other \nanswers to your questions, and peek at the first course. We hope to see you in our new courses. The Statistics with R team.___________________________________________________The goals of this course are as follows:Recognize the importance of data collection, identify limitations in data collection methods, and determine how they affect the scope of inference.Use statistical software (R) to summarize data numerically and visually, and to perform data analysis.Have a conceptual understanding of the unified nature of statistical inference.Apply estimation and testing methods (confidence intervals and hypothesis tests) to analyze single variables and the relationship between two variables in order to understand natural phenomena and make data-based decisions.Model and investigate relationships between two or more variables within a regression framework.Interpret results correctly, effectively, and in context without relying on statistical jargon.Critique data-based claims and evaluate data-based decisions.Complete a research project that employs simple statistical inference and modeling techniques.\n\n                                            Syllabus\n                        Week 1: Unit 1 - Introduction to dataPart 1 – Designing studiesPart 2 – Exploratory data analysisPart 3 – Introduction to inference via simulationWeek 2: Unit 2 - Probability and distributionsPart 1 – Defining probabilityPart 2 – Conditional probabilityPart 3 – Normal distributionPart 4 – Binomial distributionWeek 3: Unit 3 - Foundations for inferencePart 1 – Variability in estimates and the Central Limit TheoremPart 2 – Confidence intervalsPart 3 – Hypothesis testsWeek 4: Finish up Unit 3 + MidtermPart 4 – Inference for other estimatorsPart 5 - Decision errors, significance, and confidenceWeek 5: Unit 4 - Inference for numerical variablesPart 1 – t-inferencePart 2 – PowerPart 3 – Comparing three or more means (ANOVA)Part 4 – Simulation based inference for meansWeek 6: Unit 5 - Inference for categorical variablesPart 1 – Single proportionPart 2 – Comparing two proportionsPart 3 – Inference for proportions via simulationPart 4 – Comparing three or more proportions (Chi-square)Week 7: Unit 6 - Introduction to linear regressionPart 1 – Relationship between two numerical variablesPart 2 – Linear regression with a single predictorPart 3 – Outliers in linear regressionPart 4 – Inference for linear regressionWeek 8: Unit 7 - Multiple linear regressionPart 1 – Regression with multiple predictorsPart 2 – Inference for multiple linear regressionPart 3 – Model selectionPart 4 – Model diagnosticsWeek 9: Review / catch-up weekBayesian vs. frequentist inferenceWeek 10: Final exam\n                                    ", 
+    "end_date": "1900-01-01T00:00:00Z", 
+    "title": "Data Analysis and Statistical Inference ", 
+    "price": 0, 
+    "instructors": "Mine Çetinkaya-Rundel", 
+    "institution_name": [
+        "Duke University"
+    ], 
+    "commitment": "8-10 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/course/statistics", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2015-09-14T00:00:00Z"
+}

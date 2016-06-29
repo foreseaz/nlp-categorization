@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Pick up and learn C++ programming from the very basics with this course. This course is a very <strong><em>gentle</em></strong> introduction to programming in C++, especially geared towards first time programmers.  </p>  <p>  \t<strong>C++ With An Emphasis On &quot;Easy to Understand.&quot;</strong>  </p>  <ul>  \t<li>Setting up an IDE (Visual Studio/Xcode)</li>  \t<li>Basic input and output</li>  \t<li>What #include really means</li>  \t<li>Variables</li>  \t<li>C++ Math (including an explanation of “modulus”)</li>  \t<li>Random number generation</li>  \t<li>Branching using <strong>if</strong> and <strong>switch</strong></li>  \t<li>Comparisons and inequalities</li>  \t<li>Loops</li>  \t<li>Solved exercises</li>  </ul>  <p>  \t  If you&#039;re a college student, you might find there is a wide gap between your prof and yourself. When your prof explains things, it just doesn’t quite make sense. Something doesn’t sit right. This course is about filling that gap and clearing those questions in your mind. If you’re struggling to follow in your introductory programming course lectures, try this series out to supplement your learning.  </p>  <p>  \t<strong>Overview</strong>  </p>  <p>  \t  Programming is that notorious college freshman subject that everyone finds extremely hard. But it doesn&#039;t have to be that way.  </p>  <p>  \t  In this course I explain the very basics of C++ programming. I explain core C++ concepts using slides. We also will write sample programs, and I explain every line of code used, every function called, and leave no line of code unexplained.  </p>  <p>  \t  I developed the material in this course after several iterations of an introductory programming course. The result I now present to you is a combination of careful deliberation about how to explain a topic, and incorporating student feedback to respond to student needs.  </p>  <p>  \t  If you&#039;ve had trouble understanding the very basics of code before, what it all means should be very clear to you after studying this course.  </p>  <p>  \t  When you are finished with this course, you should have a very solid foundation in C++ upon which to build other skills.  </p>  <p>  \t  Once you understand the basics of programming and you&#039;ve programmed for a while, it&#039;s almost inevitable that you will catch the &quot;programming bug&quot;: you will not be able to stop programming!  </p>", 
+    "end_date": null, 
+    "title": "Learn C++ Programming The Easy Way", 
+    "price": "25.00", 
+    "instructors": "William Sherif", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/312494_cf54_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-cpp-programming-the-easy-way/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-02T22:45:03Z"
+}

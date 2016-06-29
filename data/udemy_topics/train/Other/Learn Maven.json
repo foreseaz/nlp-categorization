@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong style=\"\">Course Contents</strong></p><p><strong style=\"\"></strong>Learning Apache Maven will help out to understand Software Project Life-cycle phases and build system. As java projects requires lot of dependencies to be managed, Apache Maven knowledge will make you effective at delivering Java Based Application. </p><p>This course contains below mentioned. <strong style=\"\"></strong></p><p>1. What is Maven and Why to use Maven?</p><p>2. Build Lifecycle Phases</p><p>3. Dependency Management</p><p>4. Creating Maven Based Java Projects</p><p>5. Maven Plugins - Executable Jar Files</p><p>6. Maven Resource (Including / excluding)</p><p>6. Maven Plugins, Profiles and Modules</p><p><strong style=\"\">Audiance</strong></p><p><strong style=\"\"></strong>Anyone who wish to learn Java program build cycle.</p><p><strong style=\"\">Materials</strong></p><p>This course is having videos, presentation, test papers and hand-outs to download.</p><p><strong style=\"\">Structure</strong></p><p><strong style=\"\"></strong>Course is structured to various sections and each section having videos, hand-outs and execercise to perform.<strong style=\"\"></strong></p>", 
+    "end_date": null, 
+    "title": "Learn Maven", 
+    "price": 0, 
+    "instructors": "Paresh Bhavsar", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/551572_c3fd_5.jpg", 
+    "course_url": "https://www.udemy.com/learn-maven/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-11T05:40:08Z"
+}

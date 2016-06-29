@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This Julia beginner programming course is specifically designed for beginners to programming. In this course, you will not only learn a powerful programming language taught in MIT and Stanford, but also internalize practical programming techniques and habits. This will help you become a good programmer and problem-solver, aiding you to learn other languages. By the end of this course, you will have the basics of Julia and be capable and confident to continue learning programming on your own.<br></p><p>We will be using the Julia programming language to achieve our aim. Julia is a new language developed in MIT, and taught in major universities such as Stanford, Cornell University, Purdue University, and so on. It gathers the best practices from interpreted languages like Python, Ruby, Javascript, and the best from compiled languages like C/C++ and FORTRAN. It is easy to learn, yet very practical to do real development work. Some examples of what I have done on Julia include data processing, quick scripting of repetitive office tasks like mail merge, creating high-performance time-critical components like financial and cryptographic algorithms, writing interactive web applications, and the list goes on.</p><p>Everything in this course, from the way we present concepts in the lectures to make them easy to absorb; and the tricky questions in the quizzes that reveal your weakness in the content so we can work on it further; to the intellectual exchange we foster in the lecture discussions; everything is exquisitely crafted to maximise your learning potential with us.</p><p>There is not a need to take my word for it. There is a 30-day money back guarantee! Let the content do the talking for us.</p><p>See you in the course!</p><p><br></p><p>NOTE: This is an Early Access Course</p><p><em>Great discount for new course<br></em>Get instant access and start learning from existing content. Our course fee is priced on the current content, and so will rise accordingly when more is added. This means that you get the full course at a great discounted price by signing up now!</p><p><em>Get involved with the course as it develops<br></em>Is there any part of the course that you would like to change? Is the video too fast? Do I talk too slowly? Content too dry? Too simple? Too dense? Feedback to us, tell us the change you want and the reason to do so. We listen to what you would like to tell us, and will shape the course according to all feedback we received. Come, let's build this course together.</p>", 
+    "end_date": null, 
+    "title": "(NEW) Coding for non-programmers in Julia", 
+    "price": "25.00", 
+    "instructors": "ShaoWei Teo", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/738734_0edd.jpg", 
+    "course_url": "https://www.udemy.com/coding-for-non-programmers-in-julia/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-23T09:42:26Z"
+}

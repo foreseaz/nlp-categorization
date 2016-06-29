@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">  Welcome to this Oracle Rman course !!</strong>  </p>  <p>  \t  First of all I would like to say that this course is a mix of real situations plugged into blocks and lectures. You&#039;ll not find a copy paste of the Oracle documentation, even if I always use it to create the lessons, and I&#039;ll give you a lot of oficial documentation references. So yes, if you pick up this course you&#039;ll find a lot of way to make properly all you need to do in your day by day as Oracle dba.  </p>  <p>  \t  During this course we&#039;ll se the following topics:  </p>  <p>  \t  - Short Rman presentation  </p>  <p>  \t  - How to create a Rman catalog  </p>  <p>  \t  - How to configure all the options of Rman  </p>  <p>  \t  - How to make maintenance of Rman in order it works always fine  </p>  <p>  \t  - Make some backups  </p>  <p>  \t  - Restore a full database from scratch  </p>  <p>  \t  - Use Rman to duplicate database  </p>  <p>  \t  All this topics will be demos... You&#039;ll get all the technics usefull to make this and additionally to the videos, you&#039;ll have the sql sentences and rman commands into a txt file.  </p>  <p>  \t  The course is structured to go from the most easy task to the most complicated one. The evlolution of the topics is done to make it easy for all the students.  </p>  <p>  \t  The main caracteristic of why you need this course is the fact that I&#039;ll not speack about theory, just practice. This is all the students wants, how to make something and make it properly, with always the Oracle best practices methods.  </p>  <p>  \t  The target that should take this course are all the Oracle dba that start using this database and need more skills to get a job or to consolidate themselves in this complicated job. It can be usefull for all the people that need to improove the looseness when you are facing a complicated situation.  </p>  <p>  \t  If production database is lost, you need to know how to restore it from a backup. If your departement need a copy of the production database to test some new release code, then you can use the duplicate command to create it. There are a lot of situation that the Rman skills of the dba are required and this course is perfect to get the Oracle knowledge.  </p>  <p>  \t  So do not have more doubts, let take this course and get the control of RMAN.  </p>", 
+    "end_date": null, 
+    "title": "Practice with Oracle RMAN", 
+    "price": "20.00", 
+    "instructors": "Luis Diaz", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/385126_d0a7.jpg", 
+    "course_url": "https://www.udemy.com/practice-with-oracle-rman/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-04T21:22:33Z"
+}

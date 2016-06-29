@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Learn the most used Python&#039;s MVC Framework, Django, to create a simple blog. This tutorial is perfect for beginners looking to get started using Django. </p>", 
+    "end_date": null, 
+    "title": "Learn Django: Build a Blog", 
+    "price": "20.00", 
+    "instructors": "Weina Scott", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/546214_9d3f_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-django-build-a-blog/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-06T02:59:43Z"
+}

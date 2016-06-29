@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<ul style=\"\"><li style=\"\">先講解三角函數的相關定義與恆等式、面積計算、三角測量、角的變換，倍角公式、積化和差，都常在三角函數的積分時要用到，三角函數是學習微積分無可避開的單元，例如根式方程式得積分常用三角代換法，需要反三角的觀念要熟練三角函數之相關定義與定理，在學習三角函數的微分時才不會有後顧之憂。</li></ul><ol style=\"\"><li style=\"\">三角函數的定義(Definition of Trigonometric Functions)</li><li style=\"\"><span class=\"mw-headline\" id=\"Special_values_in_trigonometric_functions\" style=\"\">角函數的特別角(Special Values in Trigonometric Functions)</span><span class=\"mw-editsection\" style=\"\"><span class=\"mw-editsection-bracket\" style=\"\"></span></span></li><li style=\"\">弧度與扇形面積(Radians and the Area of Circlar Sector)</li><li style=\"\">三角函數的恆等式(Trigonometric Identities)</li><li style=\"\">正弦定律(<span class=\"mw-headline\" id=\"Law_of_sines\" style=\"\">Law of Sines)</span><span class=\"mw-editsection\" style=\"\"><span class=\"mw-editsection-bracket\" style=\"\"></span></span></li><li style=\"\">餘弦定律(<span class=\"mw-headline\" id=\"Law_of_cosines\" style=\"\">Law of Cosines)</span><span class=\"mw-editsection\" style=\"\"><span class=\"mw-editsection-bracket\" style=\"\"></span></span></li><li style=\"\">複角公式(The sum and difference of angle formulas)</li><li style=\"\">倍角公式(The Double-Angle Formulas)</li><li style=\"\">反三角函數(Inverse Trigonometric Functions)</li><li style=\"\">三角函數微分(Derivatives of Trigonometric Functions)</li></ol><ul style=\"\"><li style=\"\">本課程建議基礎: </li></ul><p style=\"\">先要研讀微積分-極限篇後再學習。</p><ul style=\"\"><li style=\"\">建議完成時間:</li></ul><p style=\"\">學習者以二週時間完成</p><ul style=\"\"><li style=\"\">教材來源</li></ul><p style=\"\">源於中華科技大學 微積分一 </p><ul style=\"\"><li style=\"\">教材認證</li></ul><p style=\"\">內容通過台灣教育部103年度第1梯次數位學習教材認證</p><ul style=\"\"><li style=\"\">語言</li></ul><p style=\"\">全部課程繁體中文講授。</p><ul style=\"\"><li style=\"\">其他事項</li></ul><p style=\"\">本課程僅供學員自修使用，無法取得中華科技大學學分</p>", 
+    "end_date": null, 
+    "title": "微積分-三角函數篇 Calculus-Trigonometric Functions", 
+    "price": 0, 
+    "instructors": "Lee Bor-Jian", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/470512_d59d_2.jpg", 
+    "course_url": "https://www.udemy.com/calculus-trig/", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Chinese"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-08T04:32:52Z"
+}

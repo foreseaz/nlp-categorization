@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>This course will cover the basics that one must know before starting a physics course, both mathematical and conceptual. Some of the lectures of this course may seem obvious and trivial, however our experience as instructors taught us that there are misconceptions regarding those particular subjects, for that reason they were added to the course.</p><p>The course is presented in the following order:</p><p><strong style=\"\">Scientific method</strong>: this is one of the subjects that were added to this course it may seem trivial as a concept but it sometimes misunderstood. This section will teach you what the scientific method is. Since a definition only is never satisfactory we will give a quick example as we are explaining.</p><p><strong style=\"\">Powers of ten</strong>: this is a mathematical tool that you should know before starting a physics course. All numbers in any text book about physics are written in the form you are about to learn in the first lecture of this section. You will also learn how to multiply and divide those numbers that are written in the previously mentioned form.</p><p><strong style=\"\">Measurements</strong>: this section is one of the conceptual sections and will tell how measurement led physics to become a very successful discipline. You will also learn how scientists usually report their measurements.</p><p><strong style=\"\">Dimensions and unit conversion</strong>: this section is both conceptual and mathematical. You will learn about the dimension that is associated with each unit of measurement, like meters, feet, miles, etc. and you will learn the importance of that. You remainder of the section will be to learn how to convert between different units.</p>", 
+    "end_date": null, 
+    "title": "Essentials of Physics", 
+    "price": "20.00", 
+    "instructors": "A FYsics", 
+    "commitment": "40 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/286420_f5d1_3.jpg", 
+    "course_url": "https://www.udemy.com/essentials-of-physics/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-23T11:03:43Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<ul><li>Most students who wish to learn hacking, probably haven't used Linux before. Some students know only the theory, but they do not know how it's actually done. Right now, you may be a newbie, you may not know what a teminal is. If this is the case, then this course is perfect for you. Its best suited for students who enjoy learning by doing things in a practical way. The following security tools are featured in this course:</li><li><strong>Wireshark</strong></li><li><strong>Nmap</strong></li><li><strong>Hydra &amp; Hydra-gtk</strong></li><li><strong>macchanger</strong></li><li><strong>tor browser</strong></li><li><strong>Aircrack-ng</strong></li><li><strong>Reaver</strong></li><li><strong>Fern wi-fi cracker</strong></li></ul>I have tried to keep this course short and to-the-point. So almost all the lectures are video demonstrations of various techniques. The first four sections deal with the basics of the Linux operating system. In section 5, you will learn how to install the security tools of <strong>kali linux</strong> on ubuntu. From section 6 to section 10, you will learn how to use the above mentioned tools in Linux. Throughout the course, you will find out about more and more commands and techniques, and you will realise how flexible Linux is. After completing this course, you will have the skills of a hacker. ", 
+    "end_date": null, 
+    "title": "Demonstrations of the most popular hack-tools of LINUX", 
+    "price": "35.00", 
+    "instructors": "Sourav Das", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/531976_541f_5.jpg", 
+    "course_url": "https://www.udemy.com/hack-tools-of-linux/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-19T07:37:56Z"
+}

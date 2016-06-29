@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will help you go from a basic understanding of Ruby to being able to build functioning Ruby applications. We do this through explanations of core concepts that can be difficult for beginners to grasp and then we build 4 programs together, each one increasing in complexity.</p><p>At the end of this course you will have:</p><ul><li>A strong understanding of Ruby objects and object manipulation. </li><li>An understanding of inherent Ruby methods ‘initialize’ and ‘attr_accessor’.</li><li>Confidence in creating your own Ruby programs </li><li>A good foundation to begin building rails applications and actually understanding what the applications are doing.</li></ul><p>It is expected that you have an understanding of basic Ruby data structures (strings, booleans, etc.) before taking this course. </p>", 
+    "end_date": null, 
+    "title": "Codecademy Next Steps: Build 4 Ruby Programs", 
+    "price": 0, 
+    "instructors": "Jack Burum", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/659028_23c5_3.jpg", 
+    "course_url": "https://www.udemy.com/codecademy-next-steps-ruby-oop/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-03T15:52:09Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p><em>Interested in learning how to quickly automate basic administrative functions? </em></p>  <p>Windows PowerShell is rapidly becoming the solution that Operators turn to with its powerful combination of a scripting language, command line speed, and GUI tools (Graphical User Interface).</p>  <p>This course is an introduction to Windows PowerShell where you'll have an opportunity to learn how to <em></em>replace manual, repetitive, and time-consuming operations with an automated solution.</p>  <p>In this course, you'll be <strong>introduced to the Windows PowerShell console and the Integrated Scripting Environment (ISE) </strong>as the main command line interfaces you'll use to work with PowerShell commands. </p><p>Learn the <strong>importance of the Windows PowerShell Help system</strong> as the quickest way to <strong></strong>discover the commands and associated syntax you need for the particular task you want to accomplish. </p><p>Take advantage of the ISE's Intellisense features to learn PowerShell through syntax completion and sorting and filtering commands with the Show Command add-on.</p>  <p>This course will let you be able to <strong>understand the thinking way of the Windows PowerShell</strong> and work with it as a <strong>servant person that will Execute your commands</strong>.</p><p>Every section will be going to let you <strong>create a successful habit and a good strategy </strong>to easily find the right command, the right syntax of this command, and then running it to get the required result. Also, learn how Providers and Drives work with disparate data sources, such as registry keys, certificates, files, folders, and more<span></span></p>  <p><strong><em>What You Will Learn </em></strong></p><p>The course is designed to teach you: </p>  <ul><li>Basic concepts of Windows      PowerShell</li><li>How to navigate the Windows      PowerShell Help system effectively</li><li>Find and Discover Any PowerShell      Commands</li><li>Interpret and understand how to      read the Help of any Commands</li><li>Formalization of the Right      Syntax and Running the commands</li><li>Working with Providers and      Drives</li><li>Understand the Variables      Strings, Hash tables, Core Operators and Regular Expression Basics...</li></ul><p><br></p>  <p>By the end of this course, you should be well on your way to creating scripts that save you time, accomplish tasks with greater efficiency, and allow you to be even more productive on the job.</p>  <p><strong>Enrol now!</strong></p>", 
+    "end_date": null, 
+    "title": "The Complete PowerShell Training For Beginners", 
+    "price": "20.00", 
+    "instructors": "Fettah Ben", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/630762_8da5_6.jpg", 
+    "course_url": "https://www.udemy.com/windows-powershell/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-04T22:01:16Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong><em>UPDATE(Feb, 2016):</em></strong></p><p><strong><em>\"Added Videos on how to Install the Ruby on Rails in different Operating Systems\".</em></strong></p><p><strong><em>-------------------------------------------------------------------------------------------------------------------------- </em></strong></p><p><strong><em>This course is about a project of making free available web page with cool features like sending mail to the admin right from the page and letting user to subscribe to our website's newsletters directly from the page.</em></strong><br></p><p>Here first we will get a <strong>landing page</strong> from <strong>startbootstrap</strong> website, then we will modify that page for our usages, then we shift our page to new <strong>Ruby on Rails</strong> app, then we would learn about some architecture and magics of Ruby on Rails like <strong>Rendering Partials</strong> and <strong>Gems</strong>. After that we will learn how to send an e-mail to admin through <strong>Mandrill</strong>. Also we would learn how to subscribe users to our website's newsletters right from the same page with the help of the best <strong>Mailchimp</strong>. In the last we would deploy our landing page app to <strong>Heroku</strong>, which provides with free deploying to the server and by doing so we will show our project to the world.</p><p>For about 2.5 hours of videos you will make this project with me and I will explain every step while making the project. <em>So by the end of course, </em><em>in about 5 hours, you will be able to show the world your first live and interactive landing page</em>.</p><p>This course is based on <strong><em>LEARN BY DOING</em></strong> project, so stop wasting time in studying boring books and lectures without knowing how and where you would use those knowledge. In here you will learn while knowing where to use that knowledge.</p><p><strong>We are giving complete money back guarantee if you do not like the course (within 30 days after enrolling), no reasons asked!.</strong></p><p>So what you are waiting for? Join other 1500+ students and start learning magics of RUBY ON RAILS WEB DEVELOPMENT.</p>", 
+    "end_date": null, 
+    "title": "Create full featured Landing Page in Ruby on Rails in 3 hour", 
+    "price": "20.00", 
+    "instructors": "Sulman Baig", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/499904_d8af_2.jpg", 
+    "course_url": "https://www.udemy.com/rails-1-landing-page/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-12T12:35:22Z"
+}

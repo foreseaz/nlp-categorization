@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>If you are well conversant with Function Point Analysis and need to implement it for Client/Server applications this course will explain the interpretation provided by International Function Point Users Group (<strong>IFPUG</strong>) in the form of a <strong>white paper</strong> titled \"Hints to <strong>Counting Applications in a Client/Server environment</strong><strong></strong>\". </p><p>This course will illustrate to you in detail the concepts needed to establish Function Point size of an application in a Client/Server environment as given in IFPUG's white paper.</p><p>In this course you will understand the various <strong>Client/Server components and layers</strong> of a software application from the perspective of Function Point Analysis.</p><p>You will learn the set of <strong>5 models of Gartner Client/Server architecture</strong> which is the basis for Function Point counting for applications which are split into multiple components.</p><p>You will understand why Boundary is the most critical part of Function Point Analysis and learn how to map the models of Gartner to draw a <strong>Boundary</strong>.</p><p>You will understand a<strong> real-time CRM application</strong> of a <strong>Telecom organization</strong> from the perspective of Function Point Analysis and apply the Gartner Client/Server models to draw the boundary.</p><p>You will learn where to look for <strong>Data Functions,</strong> and deal with them when they are <strong>physically distributed</strong> between application's different components.</p><p>You will learn how to identify the <strong>Transactions</strong> with respect to boundary and deal with them when they have <strong>multiple processing logic alternatives</strong>. </p><p>You will know <strong>when to apply IFPUG's SNAP</strong> where FPs cannot be counted for some aspects of Client/Server applications.</p><p><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Function Points for Client/Server Applications", 
+    "price": "20.00", 
+    "instructors": "Krupananda Babu Quality and Software Estimation Consultant CFPS and COSMIC FP certified", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/625254_fd3c_2.jpg", 
+    "course_url": "https://www.udemy.com/function-points-for-clientserver-applications/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-28T22:31:22Z"
+}

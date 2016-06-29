@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>A lot of the popular weather apps are either full of ads, require too many permissions, or include features that most of us never use. Wouldn't it be great if you could build your own weather app from scratch? Well, in this course you will learn how to do just that!</p><p>In this course you'll learn foundational concepts of iOS development while you build a weather app that displays current weather data. </p><p>This course will cover building a basic iOS weather application from start to finish. You'll learn how to build a weather app to broaden your understanding of Swift and Cocoa Touch frameworks. We will start by learning foundational concepts like networking and concurrency while building on our existing knowledge of data modeling, Auto Layout and more.</p><p>By the end of this course you will have a working weather app. This course will not only teach how to build a weather app, but it will give you a solid foundation in building apps and you will be well on your way to becoming an iOS developer.</p>", 
+    "end_date": null, 
+    "title": "Create a Weather App", 
+    "price": "20.00", 
+    "instructors": "Psan Premarat", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/544304_0ed2.jpg", 
+    "course_url": "https://www.udemy.com/create-a-weather-app/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-03T18:27:32Z"
+}

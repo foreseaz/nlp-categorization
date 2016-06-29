@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>Learn investment portfolio analysis through a practical course with R statistical software using index replicating funds historical data for back-testing. It explores main concepts from basic to expert level which can help you achieve better grades, develop your academic career, apply your knowledge at work or take decisions as DIY investor. All of this while exploring the wisdom of Nobel Prize winners and best practitioners in the field.</p>\n\n<p><strong class=\"redactor-inline-converted\">Become an Investment Portfolio Analysis Expert in this Practical Course with R</strong></p>\n\n<ul><li>Download index replicating funds data to perform investment portfolio analysis operations by installing related packages and running script on RStudio IDE.</li><li>Compare main asset classes’ returns and risks tradeoffs.</li><li>Estimate portfolio expected returns, historical and market participants’ implied volatility. </li><li>Approximate portfolio excess returns based on market, technical, fundamental and macroeconomic factors.</li><li>Evaluate returns and risks relationship between portfolio and overall market.</li><li>Hedge portfolio market risk with stock option strategies and measure Hedge Fund index performance.</li><li>Calculate maximum historical portfolio leverage and assess returns and risks amplification.</li><li>Build global portfolios following asset allocation strategies from well-known investment managers and compare them using risk adjusted metrics.</li><li>Diversify specific risks through global portfolios’ asset allocation strategies through mean and variance optimization.</li><li>Test market efficiency and measure investment costs impact to portfolio returns.</li></ul>\n\n<p><strong class=\"redactor-inline-converted\">Become an Investment Portfolio Analysis Expert and Put Your Knowledge in Practice</strong></p>\n\n<p>Learning investment portfolio analysis is indispensable for finance careers in areas such as asset management, private wealth management, and risk management within institutional investors represented by banks, insurance companies, pension funds, hedge funds, investment advisors, endowments and mutual funds. It is also essential for academic careers in finance or business research. And it is necessary for DIY investors’ portfolio management.</p>\n\n<p>But as learning curve can become steep as complexity grows, this course helps by leading you step by step using index replicating funds historical data for back-testing and to achieve greater effectiveness. </p>\n\n<p><strong>Content and Overview</strong></p>\n\n<p>This practical course contains over 37 lectures and more than 6.5 hours of content. It’s designed for all investment portfolio analysis knowledge levels and a basic understanding of R statistical software is useful but not required.</p>\n\n<p>At first, you’ll learn how to download index replicating funds data to perform investment portfolio analysis operations by installing related packages and running script on RStudio IDE. Then, you’ll compare main asset classes’ returns and risks tradeoffs for cash, bonds, stocks, commodities, real estate and currencies. </p>\n\n<p>After that, you’ll estimate portfolio expected returns, historical and market participants’ implied volatility.  Then, you’ll approximate portfolio excess returns using capital asset pricing model (CAPM), Fama-French-Carhart factors model and arbitrage pricing theory model (APT).</p>\n\n<p>Next, you’ll hedge portfolios’ market risks with index replicating funds using financial options and measure Hedge Funds index performance. After that, you’ll calculate maximum historical portfolio leverage and assess returns and risks amplification.</p>\n\n<p>Later, you’ll build global portfolios following asset allocation strategies from well-known investment managers and compare them using risk adjusted metrics such as Jensen’s Alpha, Sharpe, Treynor, Sortino and Kelly ratios. Next, you’ll diversify specific risks through portfolios’ asset allocation strategies through mean and variance Markowitz optimization.</p>\n\n<p>Finally, you’ll test market efficiency in its weak and semi-strong forms and asses investment costs impact on portfolio performance.</p>", 
+    "end_date": null, 
+    "title": "Investment Portfolio Analysis with R", 
+    "price": "20.00", 
+    "instructors": "Diego Fernandez", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/885443_e6d6.jpg", 
+    "course_url": "https://www.udemy.com/investment-portfolio-analysis-with-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-06-22T16:50:26Z"
+}

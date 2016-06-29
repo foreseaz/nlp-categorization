@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">Latest Update:</strong><br><strong>May 8, 2016</strong> - Import io had a major update going from software to browser based web scraper. I have added new lessons to show you how to use the new Import io. I have left the lectures up for the software as well.. since that can still be used and is a more powerful tool (so far). Enjoy!</p><p>Also, see the end of this for all the updates that have been made the course over the last six months.</p>\n\n<p>_____________________________________________________________</p>\n\n\n\n<p>You'll be web scraping in less than an hour!!</p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">This course teaches you three ways to scrape websites:</strong></p>\n\n\n\n<p>Import. io is a software that you download and is a really quick way to start web scraping quickly. It is not without its limitations but depending on what you need or plan to do it could do everything you need. <strong class=\"redactor-inline-converted\">No programming experience necessary!</strong></p>\n\n\n\n<p>If you prefer to learn a little programming along the way, and aren't afraid to invest a little time, you can learn how to do web scraping with Ruby and/or Python. Both have their pluses and minuses but both can do just about anything you could imagine. </p>\n\n\n\n<p>Even if you have never used Python or Ruby you can learn how to still use these programs as a web scraper. But if you are willing to learn you can scrape just about any website there is online!</p>\n\n\n\n<p>Want to do some web scraping of super popular websites? That's how you will learn!</p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">This course comes complete with code for every lecture for Ruby and Python!</strong></p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">You will learn to web scrape popular websites like:</strong></p>\n\n\n\n<ul><li>Zillow</li><li>Craigslist</li><li>Yelp</li><li>IMDB</li><li>Wikipedia</li><li>Google</li><li>Macys</li><li>YouTube</li><li>NFL</li><li>Nordstrom</li><li>Wal-Mart</li><li>Twitter</li></ul>\n\n\n\n<p>You will learn to install Python and Ruby. You'll learn how to download what you web scrape into CSV files and with Python you will learn how to put your data into a database.</p>\n\n\n\n<p>Other lessons include how to get around obstacles such as websites with ajax that load content dynamically. You'll also learn how to crawl multiple pages of websites and get all the data you need!</p>\n\n\n\n<p>With Import. io you will learn how to download a website that has over 40,000 products on it. Yes, 40,000 products and you will learn how to scrape all of those products. </p>\n\n\n\n<p>Stop imagining you can grab data off websites and use them for your next web project, you an do it now. </p>\n\n\n\n<p>Please note: Software installation can be done for both Mac OSX and Windows. I use a Mac so it is more focused on OSX however instructions are available for Windows.</p>\n\n<p><strong class=\"redactor-inline-converted\">Update: January 17, 2016 </strong>- Added three Scrapy videos. How to setup scrapy and scraping Craigslist<br><strong class=\"redactor-inline-converted\">Update: October 17, 2015 </strong>- Added Bonus lesson on extracting zip codes from Yelp<br><strong class=\"redactor-inline-converted\">Update: September 15, 2015 - </strong>Added How to find JSON and scrape it on Walmart<br><strong class=\"redactor-inline-converted\">Updated: September 1, 2015</strong> - Three new Twitter API scraper videos. How to scrape user tweets, users searching for keywords and how to follow those users through Ruby/Twitter API<br><strong class=\"redactor-inline-converted\">Update: August 28, 2015</strong> - Added Wikipedia scraper and map<br></p>\n\n\n\n<p>Enroll now!</p>", 
+    "end_date": null, 
+    "title": "Web Scraping with Python, Ruby & import. io for fun & profit", 
+    "price": "20.00", 
+    "instructors": "Charlie Craine", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/574082_149c_3.jpg", 
+    "course_url": "https://www.udemy.com/web-scraping-with-python-ruby-import-io-for-fun-profit/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-04T23:46:48Z"
+}

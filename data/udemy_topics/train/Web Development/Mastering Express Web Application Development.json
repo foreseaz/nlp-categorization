@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Express is a fantastic JavaScript framework, but most people only scratch the surface. With just a few changes, Express can adapt to your work strategy, rather than things being the other way around. Express is perfect for developing APIs with performance in mind, and as it's a thin layer on top of standard web technologies it allows you to add any additional technology you want!</p><p>Mastering Express Web Application Development will introduce the tools and libraries you need to take your Express development career to the next level. By learning how to use tools to make your life easier, you can do more in less time.</p><p>To start, we'll create a new Express application, learn how to configure it and increase application visibility by using logs. We will explore Express itself, along with various libraries that will help improve your development experience. We'll be building on the previous section's work each time. As we move on we'll take a look at technologies such as SSL and Nginx, and work through deploying your application to production in a secure and scalable way. Furthermore, we will study various existing Express projects that are open source, and a review of how they are structured to help you to organize your own applications in a systematic way.</p><p>By the end of the course, you will be an expert in using a wide range of new tools and libraries which will help you deliver the best value to your customers.</p><p> <strong style=\"\">About the Author</strong></p><p><strong style=\"\">Michael Heap</strong> is a polyglot developer who spends most of his time working with high volume real-time systems. He's an established conference speaker, and is passionate about sharing what he's learned during his career so far.</p><p>He holds a first class computing degree from Leeds Metropolitan University, and has been programming for just over 10 years. On a daily basis you'll find him writing NodeJS, PHP or Go (with a little Python/Scala thrown in to keep it interesting).</p>", 
+    "end_date": null, 
+    "title": "Mastering Express Web Application Development", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/546562_019d_3.jpg", 
+    "course_url": "https://www.udemy.com/mastering-express-web-application-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-06T10:41:47Z"
+}

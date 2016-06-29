@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">[ALL SOURCE CODE AND DATABASE SCRIPTS ARE INCLUDED - YOU CAN TRACK THE LAST PRODUCT AT THE END OF EACH CHAPTER ]  </strong>  </p>  <p>  \t<strong style=\"\"></strong>  </p>  <p>  \t<strong style=\"\">  [GREAT TIPS ADDED THAT RARELY KNOWN BY BEGINNERS TO MAKE YOU SHINE IN YOUR TEAM]</strong>  </p>  <p>  \t                  This course will make you understand the basics of JSP / servlet technlogies, designing a relational database, DB operations, design patterns, working with other developers <span>and let you know the must-do operations in professional projects such as performance increasing, logging errors.</span>  </p>  <p>  \t                  If you want to develop a web-site in a couple of hours without understanding what you are doing, you may go ahead and find other resources. But if you really want to understand what you are doing and learn the theory at the same time, this course will be a great oppurtunity for you. You will develop a real working project. Yow will first write quick and dirty code then you will apply professional patterns one by one while investigating the problems.  </p>  <p>  \t          You will walk through a real development flow:  </p>  <p>  \t          1- Write a quick and dirty code for doing the job.  </p>  <p>  \t          2- You will design database tables and high performance queries  </p>  <p>  \t          3 - You will apply design patterns to make the code reusable and high performance.  </p>", 
+    "end_date": null, 
+    "title": "Java Web  JSP / Servlets Development and Database Design", 
+    "price": "20.00", 
+    "instructors": "Talha Ocakçı", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/70524_a3be_4.jpg", 
+    "course_url": "https://www.udemy.com/java-web-developmen-with-real-world-development-flow/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-07-27T19:22:31Z"
+}

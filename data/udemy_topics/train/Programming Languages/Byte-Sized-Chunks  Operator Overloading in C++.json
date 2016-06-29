@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong><strong>Note: This course is a subset of our much longer course 'Learn By Example: C++ With 75 Solved Examples' so please don't sign up for both:-)</strong></strong><br></p><p><strong>Like a gruff uncle, C++ seems intimidating, when its just being helpful. These examples will help you understand that.</strong></p><p><strong>Let's parse that.</strong></p><ul><li><strong>C++ seems intimidating</strong> because all too often, what you see is <strong>not</strong> what you get.</li></ul><ul><li>Usually, that's because <strong>C++ is trying to help you, but you don't realise that.</strong> C++ is incredibly deep, and it sometimes struggles to get you - the programmer - to understand what it's saying</li></ul><ul><li>These examples will help. Each is self-contained, has its source code attached, and gets across a specific C++ use-case. <strong>Each example is simple, but not simplistic.</strong></li></ul><p><strong>Operator overloading</strong> is a particularly complicated topic - C++ is virtually alone in the ubiquity of overloaded operators. Make sure this doesn't trip you up.</p><ul><li><strong>What is operator overloading?</strong> Understand internal operators, defined as member functions of a class vs external operators defined as global functions. External operators are commonly friend functions of the class on which they operate.</li><li><strong>Internal or External?</strong> When would you choose to have an internal operator implementation vs an external operator implementation? Sometimes you don't have a choice!</li><li>The += operator</li><li>The assignment operator</li><li>Pre- and Post-Increment</li><li>Streams and the &gt;&gt; and &lt;&lt; operators</li></ul>", 
+    "end_date": null, 
+    "title": "Byte-Sized-Chunks: Operator Overloading in C++", 
+    "price": "20.00", 
+    "instructors": "Loony Corn", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/783688_e0b8_3.jpg", 
+    "course_url": "https://www.udemy.com/operator-overloading-in-cplusplus/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-06T04:03:15Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Our highly affordable OpenERP/ODOO 9 technical training in Arabic is \ntypically dedicated to IT professionals, developers and integrators who \nwant to grasp a comprehensive knowledge of technical aspects of \nOpenERP/ODOO. We ensure that our training programs are delivered by \nindustry professionals who possess extensive experience in technical \nimplementation of OpenERP/ODOO and are aware of the professional \nchallenges that one may face in an organizational environment.</p><p>Course\n contains video series and material used for demonstrating the course. \nAll code developed during training and material will be provided with \nthe outline.</p><p>This training outline is starting from \nsetting up developer environment and installing odoo to expert level \ncustomization on Reports, Wizards and Business process workflows. \nDevelopers with basic Python knowledge can take this course and build \ntheir career in Odoo development as technical consultant.<br></p>", 
+    "end_date": null, 
+    "title": "Odoo 9 Technical Training in Arabic", 
+    "price": "50.00", 
+    "instructors": "Mr. Husen Daudi, Mr. Jay Vora, Dr. Mustafa B. Hamad", 
+    "commitment": "20 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/704478_44a7.jpg", 
+    "course_url": "https://www.udemy.com/odoo-v9-technical-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-23T07:02:41Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>What Course is about ?</strong></p><p>Linux System Programming training transforms an IT-Professional or a Student into a <span>Linux  Systems Develope</span><span>r</span>. The participant will develop a deep understanding of Linux or Unix systems and learn concepts and skills which are essential for programming and software development on Linux-based platforms for both enterprise and embedded products and/or applications.</p><p><strong>what you will learn in this course ?</strong></p><ul><li>Looking at OS as a System Programmer</li><li>Virtualization</li><li>Compiler tools and its functionalities</li><li>Creating Libraries</li><li>Implementing System Calls</li><li>Using Make</li><li>Debugging applications</li><li>Files and File systems in Linux</li><li>File I/O</li><li>Advanced File Operations</li><li>Concurrent Programming</li><li>Pipes and Fifo’s</li><li>Fork</li><li>Clone</li><li>Signals</li><li>POSIX Threads</li></ul><p><strong>Who should attend the Course ?</strong></p><p><strong></strong>IT Professionals and/or Students who want to learn key skills for developing software applications on Linux systems and become a Linux Systems Developer</p><p><strong>Why take this Course ?</strong></p><p>To become expert in Linux System Programming </p><p><strong>What is the Course Duration ?</strong></p><p>Course Duration : 15  Session ( 1 hour each ) </p><p><strong>How is Course Structured ? </strong></p><p>50% theory , 40% sample , 10% Assignment </p>", 
+    "end_date": null, 
+    "title": "A to Z of Linux System Programming", 
+    "price": "30.00", 
+    "instructors": "Mr Meherwade Daya", 
+    "commitment": "12 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/759146_ef5f_3.jpg", 
+    "course_url": "https://www.udemy.com/a-to-z-of-linux-system-programming/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-11T02:01:09Z"
+}

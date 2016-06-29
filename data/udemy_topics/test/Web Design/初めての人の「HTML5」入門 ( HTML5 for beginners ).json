@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>HTML5は従来のホームページを作るものからWebアプリケーションへと進化し、ゲームやユーティリティが簡単に作成できるようになりました。</p>\n\n<p><strong>HTML5</strong>には、マークアップのタグはもちろん、デザインのCSS3、プログラムのJavaScript、さらにはいろいろな機能を提供してくれるAPIなど様々な仕様の集合体です。</p>\n\n<p>このコースでは、その<strong>HTML5の入門</strong>として、「<strong>HTML5でどのようなことができるか</strong>」を実際のコーディングを交えてご紹介します。</p><p>HTML5 has evolved into Web applications from those that make the traditional home page, games and utilities can now be created easily.</p>\n\n<p>The HTML5, CSS3 of design, program of JavaScript, further was also added API that will provide a variety of functions.</p>\n\n<p>In this course, the HTML5 as an introduction of, we will introduce you sprinkled with actual coding the \"what can do with HTML5.\"</p><p><br></p>", 
+    "end_date": null, 
+    "title": "初めての人の「HTML5」入門 ( HTML5 for beginners )", 
+    "price": "25.00", 
+    "instructors": "中島 俊治", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/593706_e33c_8.jpg", 
+    "course_url": "https://www.udemy.com/html5beginning/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-26T06:29:44Z"
+}

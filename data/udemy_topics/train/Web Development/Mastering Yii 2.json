@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Yii is a generic component-based PHP Web programming framework. In addition to being object-oriented, it also features the MVC design pattern. It is a high-performance framework and is used to develop heavy duty web applications quickly. With the rise in the dependability of the Internet, the influx of the users to our websites keeps swelling on a daily basis. Yii is just the right framework to help us cope with this heavy load.</p><p>Mastering Yii2 will guide you through rapidly building a sophisticated, secure, and flexible web application. This comprehensive guide will help you to develop and enhance this web application by focusing on a new aspect in every video.</p><p>We start by showing you how to set up our version control system using Git so that we can work effortlessly in a distributed team. We will then make our website more responsive using the Twitter Bootstrap framework and then enhance then its security. Then we will store our session data in different storage systems such as the database, Memcached and Redis, and analyze which storage best suits our needs. We will then walk you through step by step adding a full text search using Sphinx, ElasticSearch, and MongoDB NoSQL storage to find the desired data swiftly. Finally, we will take you through making our application robust by testing it with Codeception.</p><p>By the end of this course, you’ll be an ace at developing heavily loaded web applications using Yii 2.</p><p><strong>About The Author</strong><strong></strong><br></p><p><strong>Vitalii Tron </strong>has about 7 years’ experience in programming, and he has been developing Yii-based applications for 4 years. He graduated from the Sumy State University in the Mechanical-Mathematics school of Computer Science department. He also successfully finished post-graduate courses at the same department. Vitalii has amazing job history at Elance, where his clients have left delighted feedback about his work. <span><br></span></p>", 
+    "end_date": null, 
+    "title": "Mastering Yii 2", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/660870_70e2_2.jpg", 
+    "course_url": "https://www.udemy.com/mastering-yii-2/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-05T07:19:04Z"
+}

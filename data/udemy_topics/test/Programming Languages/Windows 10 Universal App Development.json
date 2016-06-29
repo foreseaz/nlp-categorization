@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Training modules for windows 10, the most updated app engine for developing apps. This course includes the basic knowledge and explanation for what windows 10 is all about including</p>\n\n<ul><li>Getting Started with Windows 10</li><li>Universal Windows Platform</li><li>Getitng started with creating an app</li><li>Creating controls through XAML</li><li>Navigation Model</li><li>Windows 10 Mobile emulator</li><li> Adaptive designs</li><li>Visual States</li><li>Relative Panel and Split view</li></ul>\n\n<p>The course teaches you Windows 10 for apps in a simple manner, starting from the basics of the windows 10 and building apps.<br> <br></p><p>The course assumes that the learner knows at least basic C#. This course is an essential learning for anyone aspiring to begin game development using the most popular game engine out there.<br><br></p><p>Windows 10 is the latest and the greatest offering from Microsoft. With over 100 million installs in less than 2 months since launch, the core strength of the operating system is the ability it offers the developers to create an app once and run across their entire huge family of devices of all form factors. This technology is called <strong>Universal Windows Platform(UWP).</strong> This course will give you a practical hands-on introduction to the UWP API and walk you through its design and development paradigm to help you get started creating beautiful apps for Windows 10.</p>", 
+    "end_date": null, 
+    "title": "Windows 10 Universal App Development", 
+    "price": "20.00", 
+    "instructors": "Naps Tecnologia Academy Inc", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/809378_5785_3.jpg", 
+    "course_url": "https://www.udemy.com/windows-10-universal-app-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-31T18:48:10Z"
+}

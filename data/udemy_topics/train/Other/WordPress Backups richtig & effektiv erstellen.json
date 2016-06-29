@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In diesem Kurs erlernst du: </p>\n\n<ol><li>Warum Backups für WordPress so wichtig sind</li><li>Was dein Backup enthalten sollte</li><li>Wie oft du ein Backup erstellen solltest</li><li>Wo du das Backup speichern kannst</li><li>Wie du beispielhaft das kostenlose Plugin Updraft Plus für dein eigenes Backup einrichtest</li><li>Wie du deine WordPress-Website aus einem Backup wiederherstellen kannst</li></ol>\n\n<p>Du erhältst dabei genug Hintergrundwissen, um selbst entscheiden zu können, wie genau dein eigenes Backup eingerichtet sein soll.</p>\n\n<p>Dieser Kurs ist für dich, wenn:</p>\n\n<ul><li>du eine eigene WordPress-Website oder einen Blog hast oder betreust</li><li>du bereits Grundkenntnisse in WordPress hast (Bedienung, Installation von Plugins)</li><li>du dir nicht sicher bist, ob du ein Backup brauchst oder wie du es einrichten kannst</li></ul>\n\n<p>Dieser Kurs ist NICHT für dich, wenn:</p>\n\n<ul><li>dein Blog auf der Plattform wordpress[punkt]com läuft, also nicht selbstgehostet ist</li><li>du einen speziellen WordPress-Host wie WP Engine oder RAIDBOXES nutzst</li></ul>", 
+    "end_date": null, 
+    "title": "WordPress Backups richtig & effektiv erstellen", 
+    "price": 0, 
+    "instructors": "Michelle Retzlaff", 
+    "commitment": "38 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/640244_5bb2_3.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-backups-richtig-effektiv-erstellen/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-14T11:07:14Z"
+}

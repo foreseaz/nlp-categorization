@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  คอร์สนี้เหมาะสำหรับ  </p>  <p>  \t  ผู้สนใจสร้างเว็บไซต์ด้วย WordPress ที่ง่าย สะดวก และรวดเร็ว โดยมีพื้นฐานทาง Computer เล็กน้อย<br>  </p>  <p>  \t  <strong>รายละเอียดคอร์ส</strong>  </p>  <p>  \t    เรียนพื้นฐาน wordpress ที่ละเอียดที่สุด  </p>  <ul>  \t<li>วิธีติดตั้ง WordPress ผ่าน Direct Admin</li>  \t<li>วิธีหา Theme WordPress</li>  \t<li>วิธี Activate Theme WordPress</li>  \t<li>รู้จัก โพส (Post)</li>  \t<li>รู้จัก Media Libraly</li>  \t<li>รู้จัก Page</li>  \t<li>รู้จัก Comment</li>  \t<li>ปรับแต่ง Appearance Theme</li>  \t<li>Widgets</li>  \t<li>Menus</li>  \t<li>Editor</li>  \t<li>การใช้งาน Menu Plugin</li>  \t<li>การใช้งาน Users</li>  \t<li>การใช้งาน Tools</li>  \t<li>การใช้งาน Setting</li>  </ul>", 
+    "end_date": null, 
+    "title": "WP102 : สอน WordPress ขั้นพื้นฐาน เพื่อสร้างเว็บไซต์ ", 
+    "price": "20.00", 
+    "instructors": "Warrior นักรบ ธุรกิจ", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/369946_3749_7.jpg", 
+    "course_url": "https://www.udemy.com/warrior-wp102/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-14T05:32:58Z"
+}

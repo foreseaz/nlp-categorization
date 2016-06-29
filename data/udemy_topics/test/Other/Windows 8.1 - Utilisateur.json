@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Teacher Training"
+    ], 
+    "description": "<p>Cette formation vous permettra de découvrir et maîtriser Windows 8.1, vous prendrez en main la nouvelle interface Moderne UI « Interface Metro » et apprendrez à utiliser l’environnement de travail classique et le personnaliser. L’utilisation ainsi que la gestion des fichiers et dossiers sous le nouvel explorateur de fichiers est détaillée. De plus, vous découvrirez comment utiliser la fonctionnalité SkyDrive pour transférer vos fichiers et les récupérer depuis partout mais aussi comment protéger votre ordinateur à l’aide de nouvelles méthodes de sécurisation, comme le mot de passe image ou un code confidentiel.</p>", 
+    "end_date": null, 
+    "title": "Windows 8.1 - Utilisateur", 
+    "price": 0, 
+    "instructors": "Alphorm Démocratise le savoir IT", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/828570_4539_3.jpg", 
+    "course_url": "https://www.udemy.com/windows-81-utilisateur/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-21T21:15:25Z"
+}

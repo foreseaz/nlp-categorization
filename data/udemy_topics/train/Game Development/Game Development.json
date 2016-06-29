@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t                      Do you have an idea for a game you&#039;re itching to produce?  Do you want to know the professional techniques used by game developers worldwide.  Do you want to be able to create &quot;real&quot; games using game physics and artificial intelligence? This is the course you&#039;ve been waiting for.  </p>  <p style=\"\">  \t                      Join game developer Kevin O&#039;Flaherty for this dynamic course with four hours of video lecture, dozens of code samples and engaging lab exercises designed to help you remember everything!  </p>  <p style=\"\">  \t                      Take this course only if you want to learn professional game development techniques. This course is taught in Python (an easy to learn language with clear coding conventions) but the language you use doesn&#039;t really matter.  You&#039;ll be learning how to develop games, and the concepts this course covers can then be applied to any programming language.  </p>  <p style=\"\">  \t                      If you are serious about learning the techniques pros use to develop games, this course is for you!  </p>", 
+    "end_date": null, 
+    "title": "Game Development", 
+    "price": "20.00", 
+    "instructors": "LearnToProgram, Inc., Kevin O'Flaherty", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/276174_c68f_5.jpg", 
+    "course_url": "https://www.udemy.com/game-development-python/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-06T19:24:42Z"
+}

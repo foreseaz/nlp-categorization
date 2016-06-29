@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \t  Cycles is a rendering engine, a program that transforms a 3D virtual environment into a 2D image, or render. It does this by making calculations of the lighting and shading of the scene, taking into account factors such as the nature of “physical” objects - their textures, the effects of refraction - in order to produce the end result.  </p>  <p style=\"\">  \t  From version 2.62 of Blender 3D, Cycles comes ready-installed, and since then the list of functionality has grown, with new features in each release.  </p>  <p style=\"\">  \t  This course is aimed at those who have a basic knowledge of Blender and want to know the features, functions and capabilities of Cycles rendering engine; a basic knowledge of Blender Render (materials, textures, lights) is recommended, yet not required.  </p>  <p style=\"\">  \t  Even those who already have a good knowledge of Cycles will find this manual useful , since they can expand and deepen the knowledge of the tools and key techniques of lighting and shading.  </p>  <p style=\"\">  \t  The manual deals with lighting, materials, shading and texturing, describing, through practical examples , the fundamental theoretical concepts to understand the rendering, allowing the reader to understand the mechanisms and meanings of certain operations and settings. In the appendix there are some hints about OSL, Render Passes Compositing, Toon Shading, and UV Unwrapping and Mapping.  </p>  <p style=\"\">  \t  This will make it possible to analyze patterns of nodes for Shaders retrieved from the Internet or other manuals understanding their functioning; you can also create your own patterns of Nodes and Materials composing the various tools wisely, starting with an analysis of what you want to achieve and the knowledge of the characteristics of the instruments of Cycles to easily get the desired results.  </p>  <p style=\"\">  \t  A url is provided in the book, to proceed to download blend files, textures, and other resources from the Internet (by the way, you can see the manual without the scenes blend files and accessories, as all scenes are described in detail and with numerous images provided with captions).  </p>  <p style=\"\">  \t  About the author  </p>  <p style=\"\">  \t  Francesco Milanese is a <strong style=\"\">Blender Foundation Certified Trainer</strong>, currently living in Catania (Italy), where he publishes tutorials, video and books on Blender 3D and other Computer Graphics software.  </p>", 
+    "end_date": null, 
+    "title": "Cycles rendering engine in Blender 3D - Complete Guide", 
+    "price": "20.00", 
+    "instructors": "Francesco Milanese, Ede Harrison", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/318894_d7ae.jpg", 
+    "course_url": "https://www.udemy.com/cycles-rendering-engine-in-blender-3d-complete-guide/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-13T14:08:52Z"
+}

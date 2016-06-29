@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>In diesem Tutorial wird Ihnen der Umgang mit Zbrush näher gebracht. Von der Oberfläche über die verschiedenen Werkzeuge bis zum Rendering. </p><p>Nach dieser Schulung sollten Sie in der Lage sein, selbstständig mit Zbrush zu arbeiten und 3d-Modelle erstellen zu können.</p><p><strong>Inhalt:</strong></p><p>1 Oberfläche 2 EditModus und Lightbox 3 Toolbox 4 Symetrie und Radialcount 5 Standardbrush und Masken 6 Polygonmodelling 7 Zpheres 8 Zsketch 9 Mesh Extraction 10 Subtools 11 Shadowbox 12 Shadowboxvorlage erstellen 13 Vorlage in Shadowbox verwenden 14 Dynamesh 15 Dynamesh und Clipbrush 16 Dynamesh Booloperations 17 Movetool Erweiterungen 18 3D Objekt aus Alphamap 19 Insert Multibrushes 20 Insert Mesh erstellen 21 Insert Mesh eigenes Objekt 22 Insert Mesh Verbindung 23 Polygroups und Deformation 24 Diverse Brushes 25 Lazy Mouse 26 Matchmaker 27 Curve Brush 28 Alphabrush 29 Projection Master 30 Eigenen Alphabrush erstellen 31 Noisemaker und Layer 32 UV Map erstellen 33 Micromesh 34 Fibermesh 35 Topology mit Zpheres 36 Topology Brush 37 Qremesher 38 Transpose Master 39 Polypainting 40 Spotlight 41 BPR und Lightcap</p>", 
+    "end_date": null, 
+    "title": "Zbrush Power Workshops (deutsch)", 
+    "price": "20.00", 
+    "instructors": "rs maxdesign", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/587086_9b2d_3.jpg", 
+    "course_url": "https://www.udemy.com/zbrush-power-workshops-deutsch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-19T06:37:23Z"
+}

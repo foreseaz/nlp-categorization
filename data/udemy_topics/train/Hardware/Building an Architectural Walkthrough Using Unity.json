@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">  \t   Starting from 3D models in common architectural software, we will discuss the workflow to load the models into Unity and even incorporate model changes. The building model will be refined, with better materials and lighting, so it looks attractive to the visitor. With a few basic scripts, we add the necessary interactivity and finally export it into an application you can share.  </p>  <p style=\"\">  \t      This video tutorial shows an efficient and easy approach to apply an architectural 3D model into your project for quick and reliable results.  </p>  <h4><strong style=\"\">About the Author</strong></h4>  <p style=\"\">  \t<strong style=\"\">Stefan Boeykens</strong> is an architect-engineer from Leuven (Belgium). After graduation, he was involved in architectural practice for about 4 years, before returning to the KU Leuven for his PhD in 2007 on the integration of Building Information Modeling (BIM) in the design process. He worked on a variety of research and education projects, ranging from CAD and BIM to metadata for architectural archives and cost simulations. His main research interests are BIM, 3D modeling and visualization, digital historical reconstruction, parametric design, programming, and interoperability between a variety of software tools, with a special focus on openBIM.  </p>", 
+    "end_date": null, 
+    "title": "Building an Architectural Walkthrough Using Unity", 
+    "price": "35.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/363756_4d21_2.jpg", 
+    "course_url": "https://www.udemy.com/building-an-architectural-walkthrough-using-unity/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-12-05T10:47:01Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong></strong><strong></strong><strong></strong></p><p><strong></strong><strong></strong></p><p><strong></strong><strong></strong><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p>The main objective of this course is to help you understand Complex Architectures of Hadoop and its components, guide you in the right direction to start with, and quickly start working with Hadoop and its components.</p>\n<p>It covers everything what you need as a Big Data Beginner. Learn about Big Data market, different job roles, technology trends, history of Hadoop, HDFS, Hadoop Ecosystem, Hive and Pig. In this course, we will see how as a beginner one should start with Hadoop. This course comes with a lot of hands-on examples which will help you learn Hadoop quickly. </p>\n<p>The course have <strong>5 sections</strong>, and focuses on the following topics:<br><br><strong>Big Data at a Glance:</strong> Learn about Big Data and different job roles required in Big Data market. Know big data salary trends around the globe. Learn about hottest technologies and their trends in the market. </p>\n<p><strong>Getting Started with Hadoop: </strong>Understand Hadoop and its complex architecture. Learn  Hadoop Ecosystem with simple examples. Know different versions of Hadoop (Hadoop 1.x vs Hadoop 2.x), different Hadoop Vendors in the market and Hadoop on Cloud. Understand how Hadoop uses ELT approach. Learn installing Hadoop on your machine. We will see running HDFS commands from command line to manage HDFS. </p>\n<p><strong>Getting Started with Hive: </strong>Understand what kind of problem Hive solves in Big Data. Learn its architectural design and working mechanism. Know data models in Hive, different file formats supported by Hive, Hive queries etc. We will see running queries in Hive. </p>\n<p><strong>Getting Started with Pig:</strong> Understand how Pig solves problems in Big Data. Learn its architectural design and working mechanism. Understand how Pig Latin works in Pig. You will understand the differences between SQL and Pig Latin. Demos on running different queries in Pig. </p>\n<p><strong>Use Cases:</strong> Real life applications of Hadoop is really important to better understand Hadoop and its components, hence we will be learning by designing a sample <strong>Data Pipeline</strong> in Hadoop to process big data. Also, understand how companies are adopting modern data architecture i.e. <strong>Data Lake</strong> in their data infrastructure. </p>", 
+    "end_date": null, 
+    "title": "Big Data and Hadoop for Beginners", 
+    "price": "20.00", 
+    "instructors": "Andalib Ansari", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/519406_959b_4.jpg", 
+    "course_url": "https://www.udemy.com/big-data-and-hadoop-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-03T18:58:34Z"
+}

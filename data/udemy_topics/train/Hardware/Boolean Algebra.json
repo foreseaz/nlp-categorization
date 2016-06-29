@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong></strong></p><p>This course is about <strong>Boolean Algebra</strong>, which is essential to understand digital electronics. </p><p>In five lectures you are going to learn</p><p>- <strong>all theorems</strong> (Assicuativity, Commutativity, Distributibity, Identity, Annihilator, Idempotence, Absorption, Complementation and De Morgan´s Law (negation))</p><p>- <strong>logic gates</strong> (AND, OR, NOT, NOR, NAND, XOR, XNOR),</p><p>-<strong> truth tables</strong> (read and create them)</p><p>- <strong>Karnaugh-Maps</strong> (Minterm &amp; Maxterm) to simplify functions</p><p>- draw and analyse <strong>circuits</strong>.</p><p>The topics are covered in a <strong>consise, but understandable</strong><strong></strong> way.</p><p>Each lecture provides some exercises to revise what you have learned.</p><p>After you have completed the lecture, you will find for practising some exercises. I will explain the solution.</p><p><br></p><p><span></span>This course is for beginners and highly recommended for those who are interested in advanced digital electronics or studying either Computer Science or Computer Hardware &amp; Software Engineering.</p>", 
+    "end_date": null, 
+    "title": "Boolean Algebra", 
+    "price": "20.00", 
+    "instructors": "Sebastien Duong", 
+    "commitment": "32 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/738244_f440_2.jpg", 
+    "course_url": "https://www.udemy.com/boolean-algebra/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-22T20:20:43Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>PHP Object Oriented Programming is now the gold standard expected by a large number of companies (and especially among e-commerce websites).  The problem? There are never enough programmers out there who really, really know what they’re doing with PHP OOP. By getting to grips with it, you can not only build better websites; you can reduce the many hours of coding normally needed to create them too. This online course will show you how.\n\n  </p>\n\n<p><strong>Build high performance, dynamic web pages with PHP OOP</strong>\n\n  </p>\n\n\n\n<ul><li>Learn the modern day programming approach demanded by most companies</li><li>Build, design, create and structure advanced dynamic web pages</li><li>Understand how to maintain and organise PHP code</li><li>Separate code into objects to harness the full power of PHP</li><li>Gain an extensive knowledge of Object Oriented Programming</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Maintain PHP code more efficiently in web projects</strong>\n\n  </p>\n\n\n\n<p>This PHP Object Oriented Programming course contains over 63 lectures and 5 hours of content; that’s more than enough to set you on the path to becoming a PHP OOP expert. Although not designed for complete beginners, anyone with some basic HTML development experience will be more than capable of following along.\n\n  </p>\n\n\n\n<p>The course begins with installation of the local PHP server, then it’s straight into the essential constructs of PHP (i.e. class constructs, attributes, methods and constants). Section 3 covers the the PHP Object in depth, from how to create an object to obtaining and changing its attributes. From then on things get more advanced with an extensive look at the Constructor/ Destructor Magic Method, then static class attributes, constants and methods.\n\n  </p>\n\n\n\n<p>With each section you will complete a practical exercise to put your knowledge to the test and gain hands-on experience of the material you’ve just covered. By the time you’re done, you’ll know the basics of PHP OOP inside out, and plenty more besides. \n\n  </p>\n\n\n\n<p><strong>About PHP OOP</strong>\n\n  </p>\n\n\n\n<p>PHP is a widely used programming language that’s especially suitable for web development and e-commerce. Object Oriented Programming is a programming model often used with PHP. With OOP, programmers define not just the data type of a data structure, but the functions that can be applied to it too.</p>", 
+    "end_date": null, 
+    "title": "PHP Object Oriented Programming Fundamentals (OOP)", 
+    "price": "20.00", 
+    "instructors": "Stone River eLearning", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/767286_8bb8_3.jpg", 
+    "course_url": "https://www.udemy.com/php-object-oriented-programming-fundamentals/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-19T05:24:33Z"
+}

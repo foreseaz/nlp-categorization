@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Academics"
+    ], 
+    "description": "<p>  \t         This course has everything you need to learn and understand <strong style=\"\">Differential Equations</strong>. This course covers:  </p>  <ul style=\"\">  \t<li>Ordinary differential equations (ODEs)</li>  \t<li>Laplace Transform and Fourier Series</li>  \t<li>Partial differential equations (PDEs)</li>  \t<li>Numeric solutions of differential equations</li>  \t<li>Modeling and solving differential equations using MATLAB</li>  </ul>  <p>  \t  This course will continue to evolve and improve based on feedback from the course participants.  </p>", 
+    "end_date": null, 
+    "title": "Differential Equations In Depth", 
+    "price": "20.00", 
+    "instructors": "Dmitri Nesteruk", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/229102_ac1e_4.jpg", 
+    "course_url": "https://www.udemy.com/differential/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Math & Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-25T21:06:56Z"
+}

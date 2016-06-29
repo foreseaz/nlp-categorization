@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t                So you&#039;ve created an app using LibGDX&#039;s cross-platform development tool and now you also want to earn some money with it.<br style=\"\">  \t            Integrating an ad service might just be the way for you.  </p>  <p style=\"\">  \t            The most popular way to monetize apps is using ad services and the most dominant mobile ad platform - adopted by 2/3th fo the developers that use ad services - is Google&#039;s AdMob.  </p>  <p style=\"\">  \t            One problem though is that Google&#039;s documentation is not well adjusted to integrating AdMob in LibGDX and even with LibGDX&#039;s documentation it could take you hours if not days of work to figure out how everything works and get a good understanding of how to integrate Banner and Interstitial ads in your app.  </p>  <p style=\"\">  \t            In this course I&#039;ll help you quickly understand how to use &amp; integrate AdMob in your app. <br style=\"\">  \t        I will take you step by step through the proces of how to:  </p>  <ul style=\"\">  \t<li style=\"\">set up and integrate AdMob within your own app.</li>  \t<li style=\"\">how to display interstitial and banner ads</li>  \t<li style=\"\">make sure you&#039;re app doesn&#039;t freeze on a device without network connection</li>  </ul>", 
+    "end_date": null, 
+    "title": "Monetize your app with AdMob: for LibGDX Android projects", 
+    "price": "20.00", 
+    "instructors": "Rik Vanv", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/325560_6db5_8.jpg", 
+    "course_url": "https://www.udemy.com/monetize-your-app-with-admob-for-libgdx-android-projects/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-23T10:33:34Z"
+}

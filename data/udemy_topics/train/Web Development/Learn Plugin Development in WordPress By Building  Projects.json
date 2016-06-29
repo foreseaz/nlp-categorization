@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Wordpress is one of the revolutionary products from the first wave of internet which is still relevant and going strong. Originally created as a means of enhancing the typography of everyday writing, Wordpress is currently the most used self-hosted blogging tool in the world. Wordpress gives users the power to create a fully interactive website without having to focus too much on coding. It gives them the option of selecting themes, color schemes, images and even incorporate different social media aspects to their website.<br></p>  <p>The most interesting aspect of Wordpress, making it one of the most popular platforms to use, is the Wordpress Plugins. The Plugins are basically extensions that can be added to the blog or website to make it more interactive and responsive. These could be widgets that allow Facebook integration or a built in photo gallery, etc.</p>  <p>Even though WordPress comes with a wide range of already built in plugins, there are many different innovative plugins that are still required to make the website better and easier for the users. If you’ve got any new ideas for plugins, then we’ve got the knowledge you need to bring them to life.</p>  <p>Our course has been designed to give you the basic knowledge you need to start creating your very own plugins. The course has been structured around basic languages like PHP, HTML, CSS, JavaScript and JQuery to start making the plugins and will also break down concepts such as Wordpress CMS (Blog System), PHP, OOP/Classes, JSON APIs (Fetch data from different APIs), Project Structuring (how to set up our files and structure them), Taxonomy, Widgets, Custom Post Types, SQL Query and XAMPP/Apache. </p>  Not only will this Wordpress tutorial breakdown the fundamental concepts, but it will also help you understand the development process by making 10 interesting projects with you to learn the plugins from scratch. With so much potential, there is absolute no reason for you to not start learning this course. Enroll now and start creating the WordPress plugins you want!", 
+    "end_date": null, 
+    "title": "Learn Plugin Development in WordPress By Building  Projects", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "11 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/686764_8274.jpg", 
+    "course_url": "https://www.udemy.com/learn-plugin-development-in-wordpress-by-building-projects/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-02T05:23:17Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \t     In this course, instructor Stephen G. Wells walks us through the creation of his Vampire Stake Launcher. His workflow covers various tools within the editable poly modifier such as edge extrusion, beveling, and slice planes, as well as the use of individual modifiers such as free form deformation lattices and symmetry to make the process easier. In addition, he will also cover the importance of smoothing groups while modeling, as well as make use of the kitbashing technique while reusing some elements that he has already created.  </p>  <hr style=\"\">  <p style=\"\">  \t<u style=\"\"><strong style=\"\">More about the Instructor:</strong></u>  </p>  <p style=\"\">  Stephen Wells is an expert 3D modeler for characters, props, vehicles, weapons and environments and have created both high and low polygon assets for game productions. He has over 20 years experience in creating a variety of game assets for several different genres (fantasy, sci-fi, combat, superheroes, horror, etc) using 3ds Max, Maya, Photoshop, ZBrush, Mudbox, Topogun, and XNormal. As an enthusiastic instructor, he loves creating video tutorials on a wide variety of subjects to help students better their skillsets.  </p>", 
+    "end_date": null, 
+    "title": "Next-Gen Weapon Modeling in 3ds Max", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/164094_d864.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-next-gen-weapon-modeling-in-3ds-max/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-02-14T06:11:11Z"
+}

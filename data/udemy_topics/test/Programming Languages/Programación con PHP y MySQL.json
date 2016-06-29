@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t<strong style=\"\">Contenido del Curso</strong>  </p>  <p>  \t<strong style=\"\"></strong><strong style=\"\">Conceptos b&aacute;sicos</strong><strong style=\"\"></strong>  </p>  <p>  \t  * Introducci&oacute;n al ambiente de programaci&oacute;n Web<br style=\"\">  \t   * Introducci&oacute;n a PHP<br style=\"\">  \t   * Descarga e Instalaci&oacute;n de PHP, Servidor Apache y MySQL<br style=\"\">  \t   * Configuraci&oacute;n en el Servidor Web<br style=\"\">  \t   * Configuraci&oacute;n de la Base de Datos  </p>  <p>  \t<strong style=\"\"></strong><strong style=\"\">Fundamentos de pr</strong><strong style=\"\">o</strong><strong style=\"\">gramaci&oacute;n con PHP</strong><br style=\"\">  \t   * Estructura de un Script<br style=\"\">  \t   * Declaraci&oacute;n de variables y tipos de datos<br style=\"\">  \t   * Operaciones b&aacute;sicas entre tipos de datos<br style=\"\">  \t   * Ejecuci&oacute;n de Scripts en el browser<br style=\"\">  \t   * M&eacute;todos GET y POST  </p>  <p>  \t<strong style=\"\"></strong><strong style=\"\">Estructuras de decisi&oacute;n y condicionales</strong><br style=\"\">  \t   * Condicional If-else<br style=\"\">  \t   * Condicional While<br style=\"\">  \t  * Condicional Do  While<br style=\"\">  \t   * Ciclo de repetici&oacute;n For<br style=\"\">  \t   * Condicional Case  </p>  <p>  \t<br style=\"\">  \t <strong style=\"\">Co</strong><strong style=\"\">nexi&oacute;n y Gesti&oacute;n de la base de datos<br style=\"\">  \t</strong>* Formularios para captura de datos<br style=\"\">  \t   * Uso de Metodos Get y Post<br style=\"\">  \t  * Envio de datos a una cuenta de correo<br style=\"\">  \t   * Adici&oacute;n de registros en tablas de la base de datos<br style=\"\">  \t   * Consulta de registros en la base de datos<br style=\"\">  \t   * Modificaci&oacute;n de registros en tablas de la base de datos<br style=\"\">  \t   * Eliminaci&oacute;n de registros <br style=\"\">  \t   * Formulario de Inicio de Sesi&oacute;n  </p>  <p>  \t<strong style=\"\">Consultas y operaciones SQL <br style=\"\">  \t</strong>* Conceptos b&aacute;sicos sobre SQL<br style=\"\">  \t   * Generaci&oacute;n de Querys<br style=\"\">  \t   * Presentaci&oacute;n de consultas en el browser  </p>", 
+    "end_date": null, 
+    "title": "Programación con PHP y MySQL", 
+    "price": "25.00", 
+    "instructors": "Fernando Gonzales", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/128638_bdbd_8.jpg", 
+    "course_url": "https://www.udemy.com/programacion-con-php/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-12-03T18:32:14Z"
+}

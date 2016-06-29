@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\"><strong><em>** Course updated August 2015!! **</em></strong></p><p style=\"\"><strong><em>Now with over 10,000 students enrolled!</em></strong></p><p style=\"\">  \t                The Professional Ruby on Rails Developer Course provides a thorough introduction to Web Applications Development using the Rails framework. This course is both for students who have no experience in programming at all and also for students who have tried Ruby on Rails in the past but want to take their skills to the next level.  </p>  <p style=\"\">  \t                Why Ruby on Rails? Since its introduction, Ruby on Rails has rapidly become one of the most powerful tools for building web applications for startups and existing software houses. Some of the top sites using Ruby on Rails are Basecamp, Twitter, Shopify, Github, LivingSocial, Groupon, Hulu, Airbnb, Yellow Pages and much more.  </p>  <p style=\"\">  \t                This course provides a very structured approach of teaching Rails and how to use Rails to implement ideas. It teaches the techniques to make the code work for the student. There will be lectures, homework and practice exercises. There will be references to free resources available on the internet to supplement the course materials.  </p>  <p style=\"\">  \t                A big focus of this course is practice and understanding fundamentals. Most of the code is done from scratch limiting the use of shortcuts, generators, absolutely no scaffolding or \"magic\". This is also accomplished by diving right in and using a pre-configured Ruby on Rails development environment in the cloud eliminating time required to setup a local development environment and the roadblocks that go with it.  </p>  <p style=\"\">  \t                Some key aspects of this course are:  </p>  <p style=\"\">  \t          - 94 lectures and 15+ hours of content  </p>  <p style=\"\">  \t                - Rails 4 using cloud-based Integrated Development Environment  </p>  <p style=\"\">  \t                - Working with git for version control and github as code repository, including cloning apps  </p>  <p style=\"\">  \t                - Rails MVC structure in-depth - Models, Views, Controllers  </p>  <p style=\"\">  \t                - Conceptualization and Design using wireframing tools  </p>  <p style=\"\">  \t                - Building own authentication system from scratch using default Rails stack, including admin feature, log in/logout and signup  </p>  <p style=\"\">  \t                - Working with Bootstrap for UI, Amazon Web Services for file/image hosting, file uploaders, Gravatars  </p>  <p style=\"\">  \t                - Test Driven Development (TDD) for certain features using Minitest  </p>  <p style=\"\">  \t                - Model and non-model backed forms, implementing like/dislike voting feature  </p>  <p style=\"\">  \t                - Migrations, one-to-many and many-to-many associations at the database layer and implementation using Rails and ActiveRecord  </p>  <p style=\"\">  \t                - much, much more!  </p>", 
+    "end_date": null, 
+    "title": "The Professional Ruby on Rails Developer", 
+    "price": "30.00", 
+    "instructors": "Mashrur Hossain", 
+    "commitment": "17 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/383204_6866_7.jpg", 
+    "course_url": "https://www.udemy.com/pro-rubyonrails/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-02T16:56:18Z"
+}

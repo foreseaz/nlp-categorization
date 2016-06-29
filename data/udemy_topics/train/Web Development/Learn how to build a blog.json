@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<span style=\"\">You will learn how to make a blog from nothing. Using </span><strong style=\"\">CSS</strong><span style=\"\">we will design our blog and with </span><strong style=\"\">PHP </strong><span style=\"\">and </span><strong style=\"\"><span style=\"\">MySQL</span><span style=\"\"> </span></strong><em style=\"\">we </em><span style=\"\">will make (programm) our blog. You need to know basics of </span><strong style=\"\">HTML </strong><span style=\"\">and what is a programming language. To take part you need to download and install </span><em style=\"\">Notepad++</em><span style=\"\">and to download, JUST download, </span><em style=\"\">XAMPP</em><span style=\"\">. The course is structured as it follows:</span><em style=\"\">Introduction, Design, Programming</em><span style=\"\">. </span>  </p>  <p style=\"\">  \t<span style=\"\">In first chapter you will learn the basics of PHP, MySQL and CSS and the following chapters we will program our blog. In the second section we will design our blog, with other words, we will make the template for our blog. And in the third chapter we will program our blog. After you finish this course, you will be able to make a blog from zero!</span>  </p>", 
+    "end_date": null, 
+    "title": "Learn how to build a blog", 
+    "price": "25.00", 
+    "instructors": "Alexandru Chirea", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/383888_23e2_5.jpg", 
+    "course_url": "https://www.udemy.com/learn-how-to-build-a-blog/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-03T09:53:37Z"
+}

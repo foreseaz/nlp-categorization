@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t<strong>خلال هذا الكورس سنتعرف على مكاتب الويندوز وكيفية طلبها من خلال لغة البرمجة سي</strong>  </p>  <p>  \t  سيساعدنا هذا الكورس في فهم هيكلية مكاتب الويندوز واستعراض طلباتها مما يسمح ببناء برامج ذو مستوى منخفض تتعامل مع نظام التشغيل بشكل مباشر دون الحاجة لوسيط  </p>  <p>  \t  هذا الكورس موجهة لتعلم برمجة النظم في ويندوز دون التطرق لانظمة التشغيل الاخرى  </p>  <p>  \t  هذا الكورس باللغة العربية بعنوان  </p>  <p>  \t  The easy way to Windows system programming via C برمجة النظم  </p>  <p>  \t<strong>سيحتوي على</strong>  </p>  <ul>  \t<li>Hello World</li>  \t<li>Arguments</li>  \t<li>File Management [Open, Read, Write, Copy, Delete, Move, Size, Close] </li>  \t<li>Windows File Copy</li>  \t<li>Directory Management [Create, Remove]</li>  \t<li>File Pointer</li>  \t<li>Find</li>  \t<li>System Action [Dim Display, Open Stuff, Mouse Control, Random Sound, Hide]</li>  \t<li>Disks [List, Eject, Autorun, ICON]</li>  \t<li>Keyboard [ShortKeys, Keylogger]</li>  \t<li>Registry [Open, Close, Create, Delete, List Key and Value]</li>  \t<li>Threading</li>  \t<li>Networking</li>  </ul>  <p>  \t  يعد هذا الكورس انطلاقة جيدة لبرمجة انظمة ويندوز, حيث يعد استخدام لغة البرمجة سي شائع في هذا المجال  </p>  <p>  \t  The easy way to Windows system programming via C برمجة النظم by <strong>Ismail Al-Jubbah</strong> is licensed under a <strong>Creative Commons Attribution-ShareAlike 3.0 Unported License</strong>.  </p>", 
+    "end_date": null, 
+    "title": "The easy way to Windows System programming via C برمجة النظم", 
+    "price": 0, 
+    "instructors": "Ismail Al-Jubbah", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/356402_d06c_7.jpg", 
+    "course_url": "https://www.udemy.com/the-easy-way-to-windows-system-programming-via-c/", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-25T19:37:24Z"
+}

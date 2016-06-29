@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Are you interested in creating your own web pages and styled documents with no prior design experience? This course will teach you about modern HTML5 and CSS, showing you how to style content and build simple, responsive layouts. This course is designed for the absolute beginner, meaning no prior experience with HTML or CSS is required. You will start by learning the basics of developing for the web, then jump into HTML fundamentals, such as HTML Syntax, the Doctype, links, images, and validation. From there, Rachel teaches you about structural HTML, CSS fundamentals, text and typography, and color and images. </p><p>This video tutorial also covers how to layout with CSS, forms in HTML and CSS, and HTML5 audio and video. Finally, you will learn about responsive design, as well as browser and device testing and how to fix problems and ensure accessibility. Once you have completed this computer based training course, you will be fully capable of using HTML5 and CSS to develop your own responsive layouts. Working files are included, allowing you to follow along with the author throughout the lessons.</p>", 
+    "end_date": null, 
+    "title": "Modern Web Development with HTML5 and CSS", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/434146_9cda_4.jpg", 
+    "course_url": "https://www.udemy.com/modern-web-development-with-html5-and-css/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-27T14:49:37Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Ext JS is a powerful framework for developing complex web applications for your business. With more such business applications moving to the web everyday, a framework such as Ext JS can speed up your development and help you sharpen the quality of your applications.</p><p style=\"\">This video course will take you through the components of the framework that you need for a typical business application. </p><p style=\"\">You will get a thorough overview of how the Ext JS data package works, how it interacts with the many frontend widgets, and general concerns such as security, production optimized code, and continuous integration. We&#039;ll then show you data using the wide variety of components available, before moving on to charting and graphics, and bringing our app to life. Finally, you will deploy and test your code to make your application production-ready. </p><p style=\"\">By the end of this course, you will cover all the key aspects of the Ext JS framework and successfully build and deploy your application.</p><p style=\"\"><strong style=\"\">About the Author</strong></p><p style=\"\"><strong style=\"\">Simon</strong> is the head of the Big Data team at Red Gate, focusing on researching and building tools to interact with Big Data platforms. Previously, he has worked in the data intensive worlds of hedge funds and financial trading, ERP, and e-commerce, as well as designing and running nationwide networks and websites. These days, his head is in Big Data and visualisation.</p><p style=\"\">In the course of those roles, he&#039;s designed and built several organisation-wide data and networking infrastructures, headed up research and development teams, and designed (and implemented) numerous digital products and high-traffic transactional websites.</p><p style=\"\">For a change of technical pace, he writes and produces screencasts on frontend web technologies such as ExtJS, and is an avid NodeJS programmer. In the past, he has also edited novels, written screenplays, developed websites, and built a photography business.</p>", 
+    "end_date": null, 
+    "title": "Building Applications with Ext JS ", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/507926_d2de_2.jpg", 
+    "course_url": "https://www.udemy.com/building-applications-with-ext-js/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-21T08:38:47Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t<em>Note: All the videos in this course are downloadable.</em>  </p>  <p>  \t                                      In this course you will start as a <strong>beginner</strong> with no previous knowledge about penetration testing. The course is structured in a way that will take you through the basics of networking and how clients communicate with each other, then we will start talking about how we can exploit this method of communication to carry out a number of powerful attacks.  </p>  <p>  \tThis course is focuses on the practical side of wireless penetration testing without neglecting the theory behind each attack, ll the attacks explained in this course are launched against real devices in my lap  </p>  <p>  \t                                      The Course is Divided into three main sections:  </p>  <ol>  \t<li><em>Pre-connection</em><strong>:</strong> in this section we still don't know much about penetration testing , all we have is a computer and a wireless card connected to it, you will learn how to start <strong>gathering information</strong> using your wi-fi card and you will learn a number of attacks that you can launch without the need to know the password such as controlling all the connections around you (ie: <strong>d</strong><strong>eny/allow any device from connecting to any network</strong>), you will also learn how to <strong>create a fake access</strong> point to attract users to connect to it and sniff any important information they enter.</li>  \t<li> <em>Gaining Access</em>: Now that you have gathered information about all the networks around you, and found your target, you will learn how to crack the key that the target uses. In this section you will learn a <strong>number of methods to crack WEP/WPA/WPA2 </strong>encryption.</li>  \t<li> <em>Post Connection</em>: Now you have the key to your target network and you can connect to it. in this section you will learn a number of <strong>very powerful attacks</strong> that you can launch against the network and the connected clients, these attacks will allow you to gain <strong>access to any account accessed by any client</strong> connected to your network, <strong>read all the traffic used by these clients</strong> (images , videos , audio passwords ...etc), and <strong>gain full access to any client</strong> in your network . After that you will learn how to <strong>detect these attacks and protect yourself and your network</strong> against them.</li>  </ol>  <p>  \t                                      All the attacks in this course are <strong>practical attacks</strong> that <strong>work against any wireless enabled device</strong> , ie: it does not matter if the device is a phone , tablet laptop ...etc. Each attack is explained in a simple way first so that you understand how it actually works, so first you will <strong>learn the theory behind each attack and then you will learn how to carry out the attack using Kali Linux</strong>.  </p>  <p>  \t<strong>NOTE: This course is totally a product of Zaid Sabih and No other organization is associated for certification exam for the same. Although, you will receive Course Completion Certification from Udemy, apart from that No OTHER ORGANIZATION IS INVOLVED.</strong>  </p>", 
+    "end_date": null, 
+    "title": "Learn Wi-fi Hacking/Penetration Testing From Scratch", 
+    "price": "30.00", 
+    "instructors": "Zaid Sabih, iSecur1ty LLC", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/281138_ccf8_7.jpg", 
+    "course_url": "https://www.udemy.com/wifi-hacking-penetration-testing-from-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-14T21:12:07Z"
+}

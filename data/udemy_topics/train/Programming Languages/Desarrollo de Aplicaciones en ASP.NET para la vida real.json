@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t Este curso se trata de conocer la herramienta de desarrollo de Microsoft VWD 2010 para crear aplicaciones en ASP.NET con lenguaje Visual Basic y base de datos SQL Server, en él apredenderás a crear aplicaciones para la vida real, mientras descubres la interfaz de este grandioso IDE.  </p>  <p style=\"\">  \t La primera parte es la introducción a esta herramienta, conocer sus bondades, características, fundamentos de sentencias para la programación.  </p>  <p style=\"\">  \t La segunda parte tratamos Programación Orientada a Objetos, trabajo con clases, conexión a Base de datos, ejecutar funciones y Stored Procedures.  </p>  <p style=\"\">  \t La tercera parte comenzamos a trabajar con Reportes, parámetros de consultas, vistas, etc.  </p>  <p style=\"\">  \t Debes tomar este curso para que comiences a desarrollar aplicaciones robustas en ASP.NET y tener un mercado amplio para ofrecer tus soluciones.  </p>", 
+    "end_date": null, 
+    "title": "Desarrollo de Aplicaciones en ASP.NET para la vida real", 
+    "price": "20.00", 
+    "instructors": "David Ortega Mazzini M.", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/98988_bf0a_4.jpg", 
+    "course_url": "https://www.udemy.com/desarrollo-de-aplicaciones-en-aspnet-para-la-vida-real/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-29T03:23:18Z"
+}

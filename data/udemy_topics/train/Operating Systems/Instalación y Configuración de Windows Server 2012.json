@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong class=\"redactor-inline-converted\">¿Qué vas a aprender?</strong><br></p>\n\n<p>En este curso aprenderás desde cero cómo se lleva a cabo la instalación y administración de servidores Windows Server 2012 R2, desde la instalación del sistema operativo hasta la gestión de servicios como DHCP, DNS y servicios de almacenamiento.<br><strong class=\"redactor-inline-converted\"><br></strong></p><p><strong class=\"redactor-inline-converted\">Contenido</strong><br>Más de 200 páginas de información detallada y más de 2 horas de vídeo con demostraciones prácticas que podrás realizar en tu propio laboratorio.</p>\n\n\n\n<ul><li>Conceptos de Windows Server 2012 R2 y redes</li><li>Instalación de roles y características</li><li>Administración de servicios</li><li>Monitorización de servidores</li></ul>\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\"><br></strong></p><p><strong class=\"redactor-inline-converted\">Laboratorios Prácticos</strong><br>Todas las demostraciones que se hacen en el curso podrás realizarlas en tu propio laboratorio. Aprenderás a instalar y configurar el laboratorio utilizando herramientas gratuitas.<br><strong class=\"redactor-inline-converted\"><br></strong></p><p><strong class=\"redactor-inline-converted\">Comprueba tus Conocimientos</strong><br>Cada sección va acompañada de un examen para que puedas poner a prueba tus conocimientos.<br><strong class=\"redactor-inline-converted\"><br></strong></p><p><strong class=\"redactor-inline-converted\">Ayuda del Instructor</strong><br>Podrás consultar tus dudas al instructor del curso.</p><p><strong>Requisitos Técnicos</strong></p><ul><li>Acceso a Internet</li><li>Ordenador con un mínimo de 6 GB de RAM y procesador de 64 bits con virtualización hardware (Inter-VT EPT ó AMD-V).  Un ejemplo de procesador es un Intel Core I3, aunque hay más procesadores que soportan esta característica y deberás asegurarte de que el tuyo lo cumple. Mínimo de 40 GB de espacio en disco duro.</li></ul>", 
+    "end_date": null, 
+    "title": "Instalación y Configuración de Windows Server 2012", 
+    "price": "20.00", 
+    "instructors": "OpenLearning España", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/809326_75c1_2.jpg", 
+    "course_url": "https://www.udemy.com/introduccion-a-la-administracion-de-windows-server-2012/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-31T17:59:16Z"
+}

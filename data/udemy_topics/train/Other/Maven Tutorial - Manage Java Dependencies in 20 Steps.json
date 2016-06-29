@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Reviews</strong></p>\n\n<p><em>28 of 40 Reviews are 5 Star - last updated 03/23/2016</em></p><p><em>\"Great Job! All you need to know about Maven</em><em>\"</em><br></p>\n\n<p><em>\"This course gives a comprehensive coverage of the essential features of Maven. After completing this course, you will have a working knowledge about Maven that you can use at real projects. Thank you Mr. Karanam!\"</em></p>\n\n<p><em>\"Although it is very concise all the main points are covered in some detail\"</em></p>\n\n<p><strong>Course Description</strong></p>\n\n<p>Maven is the most popular Java Dependency Management Tool. </p>\n\n<p>In this hands-on course, you will understand how Maven makes the life of a Java developer easy.  We will use a step by step approach with 20 steps.<br></p>\n\n<p>During the course, you will automate these using Maven.<br></p>\n\n<ul><li>Compiling Java Code</li><li>Running Unit Tests</li><li>Building Jar's and Wars</li><li>Running web applications in Tomcat</li><li>Setting up new projects</li></ul>\n\n<p>You will learn following features of Maven with 5 Example Projects on Github.<br></p>\n\n\n\n<ul><li>Dependency Management - including Transitive Dependencies</li><li>Maven Project Object Model</li><li>Maven Build Life Cycle</li><li>Maven Plugins</li><li>Maven Archetypes - Generate Projects</li><li>Maven Best Practices</li><li>Multi Module Maven Projects</li></ul>", 
+    "end_date": null, 
+    "title": "Maven Tutorial - Manage Java Dependencies in 20 Steps ", 
+    "price": "25.00", 
+    "instructors": "in28Minutes Official", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/720550_dfce_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-maven-java-dependency-management-in-20-steps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-08T09:18:38Z"
+}

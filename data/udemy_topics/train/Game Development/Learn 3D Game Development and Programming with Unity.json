@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this Unity based 3D game development course, you will learn everything you need to know, from the ground up, to start building your own game worlds, and programming gameplay, using all of the tools and utilities of the industry standard Unity 3D game engine!</p><p>In addition to lots of other things, you will learn:</p><ul><li>Navigating the Unity interface and 3D views</li><li>Working with game objects </li><li>Using components of all kinds to modify your game objects</li><li>importing game assets, such as meshes, textures and audio files</li><li>Programming game mechanics</li><li>Creating game logic and gameplay</li><li>Designing levels</li><li>Using snapping to create modular level designs</li><li>Playing sound effects and music</li><li>Much, much more...</li></ul><p><br></p><p>By the end of this course, you will know how to develop and program your own 3D games of various genres, using Unity 3D various tools and utilities, as well effective, universal good-practice game design principles. So what are you waiting for? Sign up now and start making your own great 3D games!</p>", 
+    "end_date": null, 
+    "title": "Learn 3D Game Development and Programming with Unity", 
+    "price": "20.00", 
+    "instructors": "Richard Sneyd", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/831348_6d56_7.jpg", 
+    "course_url": "https://www.udemy.com/learn-3d-game-development-and-programming-with-unity/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-25T13:36:25Z"
+}

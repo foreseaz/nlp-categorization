@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>En este curso vas a aprender a crear varios <strong>Heightmapp</strong><strong> </strong>desde un archivo en formato <strong>psd</strong><strong> </strong>(photoshop) para utilizarlo en Unity 3D.</p><p>Una vez guardando el archivo en formato <strong>RAW,</strong> lo vas a añadir a tu <strong>terreno</strong><strong> </strong>para así crear un fantástico <strong>terrain (terreno)</strong>. </p><p>También vas a realizar unos <strong>ejercicios</strong><strong> </strong><strong>prácticos</strong><strong> </strong>donde podras comprobar tus resultados y así estos ejercicios te van ayudar para que entiendas mejor sus diferencias y el cómo afecta la escala de\ngrises dentro de este tipo de imágenes. </p><p>Y por último también vas a crear desde cero\nun <strong>PSD</strong><strong> </strong>para tu <strong>Heightmap</strong><strong> </strong>y podrás realizar diferentes tipos de terrenos basados en los\nejemplos prácticos y vas a realizar búsquedas desde tu navegador para encontrar Heightmap online. </p><p>Todo lo que aprendes en este curso.</p><p>-Búsqueda de Heightmap.</p><p>-Creación de Heightmapp desde cero.</p><p>-Formato necesario para el Heightmap.</p><p>-Crear un Heightmap<span> desde una imagen o texto.</span></p>", 
+    "end_date": null, 
+    "title": "Crea tu terreno con un Heightmap en Unity 3D", 
+    "price": 0, 
+    "instructors": "Jordi Martos", 
+    "commitment": "33 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/665806_d58f_5.jpg", 
+    "course_url": "https://www.udemy.com/crea-tu-terreno-con-un-heightmap-en-unity-3d/", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-10T13:24:41Z"
+}

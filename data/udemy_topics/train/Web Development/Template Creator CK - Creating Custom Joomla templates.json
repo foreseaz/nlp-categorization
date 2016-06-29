@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>There's an absolute bevy of courses on the internet on how to build websites using all kinds of platforms and frameworks. Although these courses are generally very helpful in teaching more about certain topics like HTML and CSS, I have yet to come across a course that shows you how to <strong>create </strong><strong>a custom template from scratch.</strong></p><p>After doing multiple online courses on the internet to teach myself web development, I realised that teaching others my workflow could not only save them lots of time, but give them a solid understanding of a tool that has become one of the most powerful in my arsenal.</p><p>The objective of this course is to run you through a <strong>step by step process</strong> on how to create a custom template using a component called Template Creator CK. This component can be installed into Joomla and Wordpress, and operates inside the CMS to make the creation of templates from scratch an absolute breeze.</p><p>The course is structured in a top down approach, where students will take an existing design and start creating the template from the navigation area, all the way down to the footer area. Thereafter we will look at concepts like responsive design, template overrides and adding custom CSS to the template to add some aesthetically pleasing effects with CSS transitions and transforms.</p><p>Students wishing to enroll should already be familiar with HTML, CSS and either Joomla or Wordpress. Although Joomla is the preferred CMS for this course, Template Creator CK will soon be available for Wordpress, so if you have a solid understanding of the skillsets covered here, you can extend the utility of this course to create templates for Wordpress as well. </p><p>The total runtime of the course is roughly 2.5 hours, but I would recommend doing each section slowly and practicing the concepts taught to get the most out of the material. Students will need to purchase the Template Creator CK component, but I can assure you it will be money well spent. </p><p>Taking this course will teach you a fantastic new way of creating beautiful, versatile and responsive templates for the two biggest CMS's out there today.<span></span></p>", 
+    "end_date": null, 
+    "title": "Template Creator CK - Creating Custom Joomla templates", 
+    "price": "20.00", 
+    "instructors": "Andries Bester", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/648790_79be_2.jpg", 
+    "course_url": "https://www.udemy.com/template-creator-ck-creating-custom-joomla-templates/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-23T12:02:34Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    You will learn how to optimize any website for speed by diving into the details of how mobile and desktop browsers render pages.\n\nIn this short course, you’ll learn about the Critical Rendering Path, or the set of steps browsers must take to convert HTML, CSS and JavaScript into living, breathing websites. From there, you’ll start exploring and experimenting with tools to measure performance and simple strategies to deliver the first pixels to the screen as early as possible. You’ll learn how to dive into recommendations from [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/ \"PageSpeed Insights\") and the Timeline view of Google Chrome’s Developer Tools to find the data you need to achieve immediate performance boosts!\n\nThis course is also a part of our Front-End Web Developer Nanodegree.Why Take This Course?From Ilya Grigorik's [High Performance Browser Networking](http://www.google.com/url?q=http%3A%2F%2Fchimera.labs.oreilly.com%2Fbooks%2F1230000000545%2Findex.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGqIsrSJdHvrYxIgEbLW577cvRxSA \"High Performance Browser Networking\"):\n\n\"The emergence and the fast growth of the web performance optimization (WPO) industry within the past few years is a telltale sign of the growing importance and demand for speed and faster user experiences by the users. And this is not simply a psychological need for speed in our ever accelerating and connected world, but a requirement driven by empirical results, as measured with respect to the bottom-line performance of the many online businesses:\n\n* Faster sites lead to better user engagement.\n* Faster sites lead to better user retention.\n* Faster sites lead to higher conversions.\n\nSimply put, speed is a feature.\"\n\n### Project\nYou will optimize an online portfolio for speed, which you can share with the world to showcase your skills!\n\nMaking a great first impression is absolutely key and an online portfolio can help you stand apart from the crowd. We’ll give you a template for a modern, mobile-friendly portfolio which you’ll be able to completely customize so that it shows off your work and your skills the way you want. But before you show it off to the world, you’ll practice your web performance skills by optimizing the portfolio to render as fast as possible.\n\n                                            Syllabus\n                        ### Overview\nThroughout the course, you’ll build a performance toolbox to help you build faster website experiences by taking advantage of PageSpeed Insights recommendations and measuring page performance on mobile and desktop with Chrome Developer Tools.\n\nThis class contains an introductory lesson, two primary lessons and a final project. Before diving into optimizations, you’ll build an understanding of how browsers convert HTML, CSS and JavaScript into websites. Along the way, you’ll practice measuring performance using the same tools Google engineers use.\n\nThen comes the really fun part: optimization! You’ll learn about easy-to-implement performance gains and develop a simple and powerful model for uncovering optimization opportunities.\n\nYou’ll put your newfound performance skillset to the test with the final project, where you’ll be optimizing your own online portfolio website!\n\n##Lessons\n###Lesson 0 (20 minutes)\nYou can’t optimize what you can’t measure, so in this lesson you’ll learn how to open Chrome Developer Tools to measure the performance of mobile and desktop websites.\n\n###Lesson 1 (60 minutes)\nOptimizing any website’s performance requires a strong understanding of how browsers build websites from HTML, CSS and JavaScript. You’ll start by breaking down the **Critical Rendering Path** - the steps the browser has to take to render a page. You’ll get an understanding of how:\n\n* **HTML** is converted to the **Document Object Model (DOM)**.\n* **CSS** is converted to the **CSS Object Model (CSSOM)**.\n* the browser runs **layout** to determine the position and size of elements before **painting** pixels on the screen.\n\nThroughout the lesson, you’ll learn how to take advantage of the Timeline view in **Chrome Developer Tools** to measure each and every step’s performance on mobile and desktop.\n\n###Lesson 2 (90 minutes)\nYou’ll explore easy HTML, CSS and JavaScript optimizations with significant performance implications, some of which are as simple as adding a single attribute to an HTML tag! Along the way, you’ll be developing the skills to help you diagnose opportunities for optimizations, including:\n\n* building **quick and dirty** diagrams of the Critical Rendering Path.\n* identifying **three key metrics** to triangulate potential performance bottlenecks.\n                                    ", 
+    "end_date": "2014-06-25T00:00:00Z", 
+    "title": "Website Performance Optimization", 
+    "price": 0, 
+    "instructors": "Ilya Grigorik", 
+    "institution_name": [
+        "Google"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.udacity.com/course/website-performance-optimization--ud884?utm_medium=referral&utm_campaign=api", 
+    "duration": "1 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2014-06-18T00:00:00Z"
+}

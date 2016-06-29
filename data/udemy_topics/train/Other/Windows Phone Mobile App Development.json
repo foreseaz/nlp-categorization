@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">This course is an introduction to mobile application development, including market opportunities, challenges, and architectural models. Course covers an overview of development concepts found in Microsoft Mobile 8.1. Become familiar with the end-to-end process to install, develop, test, and distribute mobile applications. As mobile environments are changing rapidly, this course provides a broader understanding for specialization in one of these major platforms. Prepare to deal with the challenges of application development for the mobile market including limited screen size and memory, gesture based GUI, connectivity, and the variety of available phones. This hands-on class provides unique and valuable content on how to contrast the approaches taken by the major mobile players.</p>", 
+    "end_date": null, 
+    "title": "Windows Phone Mobile App Development", 
+    "price": "20.00", 
+    "instructors": "Tiffany Ford", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/556296_967f.jpg", 
+    "course_url": "https://www.udemy.com/windows-phone-mobile-app-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-16T13:52:45Z"
+}

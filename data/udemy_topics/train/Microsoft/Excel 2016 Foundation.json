@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>This course is about building a strong foundation of skills. Whether you're a beginner in Excel, or you've taught yourself how to use it, there are a set of tools - keyboard shortcuts, best practices, and calculations - that everyone should have in their toolbelt. This course strives to set the stage for the incredible, powerful features of Excel. This course is for you if:</p>\n\n<ul><li>You're new to the program;</li><li>You want to navigate, select, and edit content like a pro;</li><li>Your calculations sometimes have errors in them;</li><li>You find yourself re-typing things; or</li><li>You think there are keyboard shortcuts to perform the same steps.</li></ul><p>This is a class for people who are new to Excel, or who have been self-taught. Included in this course are keyboard shortcuts, demonstration files, and exercise files to be completed on your own.</p>", 
+    "end_date": null, 
+    "title": "Excel 2016 Foundation", 
+    "price": "50.00", 
+    "instructors": "Neil Malek", 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/857832_154d.jpg", 
+    "course_url": "https://www.udemy.com/excel-2016-foundation/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Microsoft"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-23T19:09:00Z"
+}

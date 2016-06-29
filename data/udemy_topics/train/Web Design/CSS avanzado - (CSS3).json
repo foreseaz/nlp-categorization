@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>En éste curso grabado por un \"Adobe Certified Instructor - Web Master\" aprenderás a usar aspectos avanzados de CSS mediante ejemplos prácticos.</p><p>El contenido del curso inicia con la explicación sobre conceptos fundamentales como estándares web y prefijos propietarios. En el segundo capítulo hablaremos sobre los selectores avanzados. Posteriormente aprenderemos a trabajar con nuevos modelos de color y con gradients o esfumados. En el capítulo 6 aprenderemos a usar diferentes servicios de fuentes web para pasar posteriormente al capítulo de fondos y bordes avanzados. En el capitulo 8 trabajaremos con múltiples columnas de contenido y finalizaremos aprendiendo a usar el módulo Flexbox.</p><p>Durante el curso usaré el editor de código Brackets, sin embargo tu puedes seguir los ejercicios del curso con el editor de código que prefieras mediante los mismos archivos que uso en los diferentes ejemplos y que tu podrás descargar.</p><p>Si deseas contratar éste u otro curso para un grupo empresarial o universidad de forma presencial u online puedes contactarme desde el sitio web de Xpert o por mensaje privado desde mi perfil de Udemy.</p>", 
+    "end_date": null, 
+    "title": "CSS avanzado - (CSS3)", 
+    "price": "40.00", 
+    "instructors": "Marlon Ceballos", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/345338_9016.jpg", 
+    "course_url": "https://www.udemy.com/css-avanzado-css3/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-15T15:59:36Z"
+}

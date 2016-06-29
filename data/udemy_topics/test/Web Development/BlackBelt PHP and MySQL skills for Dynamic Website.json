@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>The structure of this course was inspired by the Jiu Jitsu ranking system. The whole course has been divided into 7 levels:</p> <ul><li>1. Yellow Belt;</li></ul> <ul><li>2. Orange Belt;</li></ul> <ul><li>3. Green Belt;</li></ul> <ul><li>4. Blue Belt;</li></ul> <ul><li>5. Purple Belt;</li></ul> <ul><li>6. Brown Belt;</li></ul> <ul><li>7. Black Belt;</li></ul> <p>You will learn all the PHP fundamentals in Yellow, Orange, and Green belt.</p><p>The\n real power of PHP actually comes from its built-in functions. But there\n are over 1,000 of them, it would be impossible for you to learn all of \nthem. And forgetting things is just human nature, therefore, it would \nalso be a bad idea to demand that you remember every function you learn \nfrom this course. Though I have tried my best to only select the most commonly \nused one, there are still lots of functions to learn.</p><p>The best \nsolution is to teach you how to use and learn from the manual. Even you \nforgot about how to use certain functions, you still can pick things up \nquickly by reading the manual. This is like teaching you how to fish, \ninstead of giving you fish directly. </p><p>As a result, almost every \nfunction in the course are taught by using a manual. You will learn \nalmost all your functions through the manual. In the future, if you need\n to learn new functions by yourself, you will feel much more comfortable\n and confident.</p><p>In the blue belt, we will learn how to get the \nfile name extension and create new directories. In purple belt, we will \nlearn how to upload files properly, which will require you to use \ntechniques learnt in the blue belt. In the brown belt, you will learn \nhow to use database techniques to manage all your uploaded files. In \nthis way, you will constantly repeat using techniques learnt before.</p><p>We\n all forget things and that is a human nature that cannot be changed. \nBut you can always hone your ability of picking up forgotten knowledge. \nFor PHP programmers or any computer programmers, the manual is \ndefinitely the best choice. This is why throughout this whole course, \nusing the manual, how to use the manual and getting used to seeking help\n from manual have been given top priority.</p>", 
+    "end_date": null, 
+    "title": "BlackBelt PHP and MySQL skills for Dynamic Website", 
+    "price": "30.00", 
+    "instructors": "OnlyKiosk Tech", 
+    "commitment": "23.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/640274_8873_2.jpg", 
+    "course_url": "https://www.udemy.com/essential-php-skills-for-building-dynamic-websites-revoiced/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-14T11:54:19Z"
+}

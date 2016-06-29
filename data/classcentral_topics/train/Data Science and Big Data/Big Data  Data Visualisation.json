@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    Data visualisation is an important visual method for effective communication and analysing large datasets. Through data visualisations we are able to draw conclusions from data that sometimes are not immediately obvious, and interact with the data in an entirely different way.\n\nGet an introduction to big data visualisation\n\nThis free online course will provide you with an informative introduction to the methods, tools and processes involved in visualising big data. It has six elements:\n\n\n  Introduction to visualisation\n  Information visualisation\n  Scientific visualisation\n  Visualisation tools\n  Design approaches for visualisation\n  Visualisation for communication\n\n\nVisualise real-word big data problems\n\nWe have designed the course around case studies from different fields. This way, you will be able to identify visualisation application areas and learn how to produce visualisations that help you to better understand real-world big data problems.\n\nWe will also take the time to examine briefly the use of visualisation throughout history dating back as far as 17,000 BC.\n\nMore courses in the Big Data series\n\nThis is the fourth in a series of short courses from the ARC Centre of Excellence for Mathematical and Statistical Frontiers at Queensland University of Technology (QUT).\n\nYou can also join the other three courses in the series:\n\n\n  From Data to Decisions\n  Statistical Inference and Machine Learning\n  Mathematical Modelling\n\n\nAcknowledgements\nQUT would like to thank the following content contributors:\n\n\n  Tomasz Bednarz\n  Pamela Burrage\n  Phil Gough\n  Miles McBain\n  Steve Psaltis\n\n\n\n                                    ", 
+    "end_date": "2016-11-14T00:00:00Z", 
+    "title": "Big Data: Data Visualisation", 
+    "price": 0, 
+    "instructors": "Tomasz Bednarz, Ian Turner and Kerrie Mengersen", 
+    "institution_name": [
+        "Queensland University of Technology"
+    ], 
+    "commitment": "2 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "http://www.futurelearn.com/courses/big-data-visualisation?utm_campaign=Courses+feed&utm_medium=courses-feed&utm_source=courses-feed", 
+    "duration": "2 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "FutureLearn"
+    ], 
+    "start_date": "2016-10-31T00:00:00Z"
+}

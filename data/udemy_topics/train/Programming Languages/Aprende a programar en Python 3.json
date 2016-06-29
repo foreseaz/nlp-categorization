@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Bienvenido al curso Aprende a Programar en Python. Este curso esta dirigido a esas personas que no saben programar y quieren aprender desde lo más básico. Para aprender a programar utilizo el lenguaje de programación Python. Lo que aprenderás en este curso puede ser utilizado para especializarte en dicho lenguaje de programación o como base para aprender a programar en otros lenguajes. </p><p>Se que muchos queremos aprender rápido y sin mucho rodeo. Es por eso que en este curso tendrás prácticas a la misma vez que ofrezco la teoría. La mayoría de los temas discutidos en este curso contienen pruebas cortas y ejercicios de práctica, con la intención de que realices pequeños programas en Python y los compartas con la comunidad Udemy. De esta manera compartiremos nuestro conocimiento con nuestros compañeros y haremos una clase dinámica y de mucho aprendizaje para todos.</p>", 
+    "end_date": null, 
+    "title": "Aprende a programar en Python 3", 
+    "price": "25.00", 
+    "instructors": "Emanuel A. Moreno Rivera", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/446194_5fc2_2.jpg", 
+    "course_url": "https://www.udemy.com/aprendeprogramarpython/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-13T00:31:09Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t        Have you ever want to build your own windows GUI program? Whether you are a novice wanting to create your own GUI application, or a professional looking to convey your ideas through software prototyping, this course is for you.  </p>  <p style=\"\">  \t        This course is specially designed for you to quickly and easily gain all the fundamental skills to create your own windows application, regardless of your background. This hand-ons class uses practical approach to teach C# programming, meaning we will walk you through in creating your own application, from simple console to GUI, while explaining the important theory you should know. No unnecessary theory is included to bore you off, and you will walk away with your own web browser by the end of the course.  </p>  <p style=\"\">  \t        Topics Covered in a Practical Way:  </p>  <ol style=\"\">  \t<li style=\"\">While writing your own Console Calculator Application, we will discuss about all the C# coding basics, including conditional statements (IF... Else, Switch...Case), Loops (for loops, while loops), variables, arrays, methods and etc.</li>  \t<li style=\"\">Class and Objects, inheritance, encapsulation, and polymorphism, the essentials of Object Oriented Programming, will also be discussed while you enhance your console calculator application.</li>  \t<li style=\"\">Learn interface design and event handling for creating beautiful GUI application, while you build your own web browser.</li>  \t<li style=\"\">and more...</li>  </ol>  <p style=\"\">  \t        Programming is a form of language, hence, to master it, you must read and write your own coding. Practical approach in learning C# programming will no doubt help you in mastering C# programming, but simultaneously have a better insight on how the theory can be applied in real time to solve problems. In case you are worried about having to buy Microsoft Visual Studio, we assured you that we will be using the open source Sharp Develop IDE, which is very similar to visual studio, but more importantly, it is FREE. Come, join the fun, join us to learn C# programming in a practical way, you will receive a free ebook and walk away with your own web browser program.  </p>", 
+    "end_date": null, 
+    "title": "Create Your WebBrowser: Learn C# Fundamentals Practically", 
+    "price": "35.00", 
+    "instructors": "Lecturer Eric Goh", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/278174_0e0f_3.jpg", 
+    "course_url": "https://www.udemy.com/create-your-webbrowser-learn-c-fundamentals-practically/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-10T14:54:19Z"
+}

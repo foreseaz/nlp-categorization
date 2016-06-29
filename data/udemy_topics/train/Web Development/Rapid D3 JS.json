@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Most of the available data we have access to is in the form of numbers, tables, and Excel spreadsheets. Wouldn&#039;t it be great if all this data magically sprung up colorful charts, graphs, and clouds? The D3 JavaScript library is that magic wand to get all the work done with a wave of your hand or a few lines of code. Everything you require to make your data display in aesthetic awe can be achieved using D3JS.</p><p>Rapid D3JS begins with setting up your development environment, and then dives into how data binding works and how it&#039;s similar to jQuery. We&#039;ll take a look at building a football fan site and using spreadsheet data (TSV) to build a team roster, and learn about scaling, drawing axes, data manipulation, and even how to animate bars in five amazingly simple lines of code.</p><p>Driving HTML tables is nice, but what we really want to see is graphics. So next, we&#039;ll build a histogram from a CSV file of goals scored over the season. But D3 isn&#039;t just for building tables or creating graphs. You can also build a website framework driven from a CSV file. We&#039;ll also be creating a simple Bootstrap menu, and the possibilities demonstrated by this quick mini project are limitless.</p><p>Finally, we&#039;ll take a couple of sample D3 visualizations such as Word Cloud and Sunburst and incorporate our data into them. Last but not least, we&#039;ll see how to build a website menu framework and techniques on how to utilize third-party visualizations within it.</p><p>This video course will take you from the foundational bindings of Data-driven Documents to understanding strategies to create and extend amazing visualizations.</p><p><strong style=\"\">About the Author</strong><br style=\"\"></p><p><strong style=\"\">Michael Westbay</strong> graduated from San Diego State University with a BS degree in computer science and a minor in Japanese studies. Upon graduation, he moved to Japan to work for a software company mainly dealing with databases. After 15 years at that company, he branched out and started working independently connecting databases and web technologies.<br style=\"\"></p><p>Most of what Michael has written about has been about Japanese baseball, having started a blog (before blogs existed) in 1995. That eventually led to writing a column for a Japanese baseball magazine for a couple of years, relying heavily on his own baseball database for the article.</p><p>He was an early adopter of Netscape Navigator 2.0&#039;s JavaScript, seeing the potential of dynamic pages early on. Unfortunately, his experience dealing with IE 4 on a time card system in 1997 soured him on JavaScript for a number of years. He then concentrated on server-side technologies and had a number of articles published in Japanese web and database periodicals.</p><p> As third-party JavaScript frameworks conquered the incompatibilities Microsoft built into their own version of ECMAScript, Michael slowly came back to the dynamic scripting scene. jQuery and its ecosystem of plug-ins won him back full time, but it doesn&#039;t compare to the power and elegance of D3Js. Crossfilter and dcJS look to be the next step in his never-ending pursuit of knowledge.</p>", 
+    "end_date": null, 
+    "title": "Rapid D3 JS", 
+    "price": "25.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/465786_cf17_2.jpg", 
+    "course_url": "https://www.udemy.com/rapid-d3-js/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-02T11:29:57Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>\r\n\tIn this course, we&#039;ll learn how to manage your online presence with cPanel. cPanel is one of the most used web hosting control panel software. It will make your day-to-day tasks managing your online presence easier.\r\n</p>\r\n<p>\r\n\tBefore we learn about how to use cPanel, I&#039;ll explain the stuff related to website. What is web hosting, domain name, terms that web hosting use on their product page, etc.\r\n</p>\r\n<p>\r\n\tRegarding the cPanel itself I&#039;ll cover from how to login to cPanel, Managing files and emails, creating subdomain, adding add-on doman to installing every application in Fantastico De Luxe and Softaculous Installer.\r\n</p>", 
+    "end_date": null, 
+    "title": "cPanel Crash Course", 
+    "price": "50.00", 
+    "instructors": "Muhammad Panji", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/33527_4c3b_3.jpg", 
+    "course_url": "https://www.udemy.com/cpanel-crash-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-12-24T19:41:52Z"
+}

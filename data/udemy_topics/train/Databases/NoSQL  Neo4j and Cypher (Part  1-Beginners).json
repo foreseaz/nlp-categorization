@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Social, Routing and Recommendation questions like:</p><p style=\"\"><strong style=\"\"><em style=\"\">&quot;How do I know you ?&quot;</em></strong></p><p style=\"\"><strong style=\"\"><em style=\"\">&quot;How do I get from London to New York ?&quot;</em></strong></p><p style=\"\"><strong style=\"\">and more importantly...<em style=\"\"> &quot;Where should I have dinner ?&quot;</em></strong></p><p style=\"\">... are only a few of the broad range of problems that can be solved using a Graph Database like Neo4j.</p><p style=\"\"><strong style=\"\"><em style=\"\">&quot;Graphs are everywhere! &quot;</em> - so if you have data you have a Graph!</strong></p><p style=\"\">Normal everyday kinds of questions make excellent graph questions, these kinds of questions are behind the massive web sites like;</p><ol style=\"\"><li style=\"\">Google</li><li style=\"\">Facebook</li><li style=\"\">Ebay</li><li style=\"\">Yelp</li><li style=\"\">... and many others !</li></ol><p style=\"\">... they have their own proprietor technology, you can use <em style=\"\">Neo4j !</em></p><p style=\"\">With Neo4j you have the tool which allows you to answers these questions, which are really just a graph query.</p><p style=\"\"><strong style=\"\"><em style=\"\">So, Stop Developing Databases the Hard Way!!</em></strong></p><p style=\"\">I wanted to make querying graph data not only fun, but easy to learn, understand and use with this easy to follow hands on course for developers and in under 3 hours!</p><p style=\"\">Neo4js&#039; Cypher language and property graph model is easy to understand and handle, especially for object oriented and relational developers.</p><p style=\"\"><strong style=\"\">You can learn how to develop Neo4j databases the fast and easy way with this course:</strong></p><ul style=\"\"><li style=\"\">What is a Graph Database ? (in particular Neo4j)</li><li style=\"\">Why use a Graph Database ?</li><li style=\"\">The History of Graph Databases.</li><li style=\"\">Learn the Differences between No SQL <strong style=\"\">Neo4j</strong> and Relational Databases.</li><li style=\"\">Learn about the Advantages of using <strong style=\"\">Neo4j</strong>.</li><li style=\"\"><em style=\"\">Practical Hands-On</em> foundation using No SQL <strong style=\"\">Neo4j </strong>and <strong style=\"\">Cypher query Language</strong></li><li style=\"\">Learn how to perform <strong style=\"\">CRUD</strong> operations using Cypher;</li><li style=\"\"><strong style=\"\">CRUD operations: CREATE, READ, UPDATE and DELETE</strong></li></ul><p style=\"\"><strong style=\"\"></strong></p><strong style=\"\"></strong>By the end of this part of the course, you will have a firm understanding of;<p style=\"\">Neo4j the worlds leading open source Graph Database and the Cypher query language which brings an abundance of advantages and few if any disadvantages.</p><p style=\"\">So, take your development career to the next level and future proof your career by learning about this wonderful and exiting New Technology!</p>", 
+    "end_date": null, 
+    "title": "NoSQL: Neo4j and Cypher (Part: 1-Beginners)", 
+    "price": "20.00", 
+    "instructors": "Bruce E. Hilton", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/493288_287c.jpg", 
+    "course_url": "https://www.udemy.com/neo4j_beginners1/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-04T14:09:32Z"
+}

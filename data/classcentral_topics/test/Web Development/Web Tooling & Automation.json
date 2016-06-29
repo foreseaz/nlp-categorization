@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    In this course, you’ll learn how to setup your development, get super productive during daily work and iteration, prevent yourself and your site from disasters and save a lot of time and effort with automatic optimization and automation. Finally, you’ll learn how to do all this while being confident your code runs on a multitude of devices in the real world.Why Take This Course?Front-end developers need to work quickly and efficiently to be productive. Having a good set of tools and libraries is crucial. This course will introduce you to a opinionated set of tools and libraries to improve your workflow.\n\n                                            Syllabus\n                        ###Introduction\nLearn how to protect yourself from micro and over-optimization.\n\n- Being pragmatic vs. idealistic when choosing tools\n- Identify the real value of the tool (is it well maintained? Does it have a large community? Is it documented?)\n* Keep things modular and replaceable\n* Staying away from micro-optimizations\n\n###Lesson 1: Productive Editing\n\nLearn how to setup the very core of your development environment, namely your editor.\n\n- From Notepad to IDE\n- Set up your editor\n- Install Sublime Text\n- Install Plugins\n\n### Lesson 2: Powerful Builds\n\nLearn about build tools and why you should use them.\n\n- Overview of build tools\n- Getting started with Gulp\n- Install gulp plugins\n- Create gulp tasks\n\n### Lesson 3: Expressive Live Editing\n\nLearn how to reduce context switch with live editing.\n\n- Why live edit?\n- Approaches for live editing\n- Browser Sync\n\n### Lesson 4: How to Prevent Disasters\n\nLearn how to use tools to automate a few alarms and safety nets that will make our lives much easier.\n\n- Why rely on tools to prevent bad things from happening?\n- Linting\n- ESLint\n- Unit Testing in Gulp\n\n### Lesson 5: Awesome Optimizations\n\nLearn how to polish your project for production\n\n- CSS Concatenation\n- JS Concatenation and Minification\n- Writing Future Proof Code\n- Sourcemaps\n- Optmization\n                                    ", 
+    "end_date": "2015-12-05T00:00:00Z", 
+    "title": "Web Tooling & Automation", 
+    "price": 0, 
+    "instructors": "James Williams", 
+    "institution_name": [
+        "Google"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.udacity.com/course/web-tooling-automation--ud892?utm_medium=referral&utm_campaign=api", 
+    "duration": "3 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2015-11-14T00:00:00Z"
+}

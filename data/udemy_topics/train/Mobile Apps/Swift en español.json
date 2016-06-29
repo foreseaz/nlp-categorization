@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tEl objetivo que te proponemos con este curso, es hacerte a los mandos del que va a ser el lenguaje a utilizar en <strong style=\"\">Apple</strong> para el <strong style=\"\">desarrollo de apps para iOS y Mac</strong> en los próximos años.  </p>  <p style=\"\">  \tQuizás te asuste tener que cambiar de lenguaje si ya conocías <strong style=\"\">Objective-C</strong>, o puede que vengas de otros lenguajes como <strong style=\"\">Java, Javascript, PHP</strong>, y esto de la programación para iOS te de miedo. ¡Nada de eso! <strong style=\"\">¡Anímate!. Únete a nosotros, y comienza desde ya en el desarrollo Swift.</strong>  </p>  <p style=\"\">  \tExisten otros muchos cursos online de <strong style=\"\">Swift</strong>, pero la gran mayoría de ellos, únicamente abordan las herramientas básicas del lenguaje <strong style=\"\">Swift</strong>. Sin embargo, en este curso aprenderás la totalidad de conceptos que tiene el lenguaje, tales como <strong style=\"\">Generics, Optionals, Access Control, Closures, sobrecarga de operadores y otros muchos. </strong>  </p>  <p style=\"\">  \tTodos los contenidos de este curso han sido <strong style=\"\">elaborados o revisados con posterioridad al lanzamiento de la versión de final de iOS 8</strong> lo cual garantiza que todos los contenidos que aprendas en este curso son totalmente vigentes en el lenguaje.  </p>  <p style=\"\">  \tTendras a tu disposición más de <strong style=\"\">120 clases de teoría</strong> y mas de <strong style=\"\">20 ejemplos prácticos en formato sreencast</strong> donde juntos pondremos en práctica todos los conceptos aprendidos. Además, el curso incluye una serie de materiales descargables como son todos los<strong style=\"\"> ejemplos en formato Playground</strong>, un <strong style=\"\">proyecto Xcode 6</strong> con todos ellos agrupados, y un documento de mas de<strong style=\"\"> 200 diapositivas con todos los contenidos teóricos del curso</strong>.  </p>  <p style=\"\">  \tMucho material, para que con muy poco esfuerzo, te lances al mundo <strong style=\"\">Swift</strong>.  </p>  <p style=\"\">  \t<strong style=\"\">¡Te esperamos!</strong>  </p>", 
+    "end_date": null, 
+    "title": "Swift en español", 
+    "price": "50.00", 
+    "instructors": "Miguel Díaz Rubio", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/286908_5662_2.jpg", 
+    "course_url": "https://www.udemy.com/swift-en-espanol/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-08-24T11:01:58Z"
+}

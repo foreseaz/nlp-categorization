@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this Introduction to WebRTC training course, expert author Arin Sime teaches you the basic concepts of WebRTC development. This course is designed for users that already have a basic understanding of JavaScript and HTML.</p>\n\n<p>You will start with an overview of WebRTC, then jump into WebRTC in a single browser. From there, Arin will teach you about WebRTC signaling, WebRTC for data exchange, and screen sharing in a WebRTC application. This video tutorial also includes a WebRTC case study where WebRTC is used to build a sample medical application with video and audio chat, text messaging, file transfer, and screen sharing. Finally, you will learn about user interaction patterns and security and privacy considerations.</p>\n\n\n\n<p>Once you have completed this computer based training course, you will be familiar with the basic concepts of WebRTC development and be able to apply them to add voice, audio, and data channels into web applications. Working files are included, allowing you to follow along with the author throughout the lessons.</p>", 
+    "end_date": null, 
+    "title": "Introduction to WebRTC", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/801292_57d7_4.jpg", 
+    "course_url": "https://www.udemy.com/introduction-to-webrtc/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-22T20:56:26Z"
+}

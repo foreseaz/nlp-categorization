@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t     Ce cours s&#039;adresse à tous ceux qui souhaitent créer un sites Web dynamique, c&#039;est à dire dont les pages sont créées à la volée suivant les requêtes de l&#039;internaute et ceci à partir de zéro, tout le code du site sera VOTRE (notre) code.</p><p>Il est préférable d&#039;avoir déjà des notions de PHP, HTML et CSS que nous utiliserons pour construire un site au fur et à mesure que nous avancerons dans les leçons. Celles-ci sont principalement constituées de vidéos, au départ pour expliquer comment notre projet de développement va être conduit. Nous discuterons aussi ergonomie et interface graphique, nous verrons ensuite comment développer votre propose framework pour développer plus vite et plus simplement. </p><p>Ensuite, nous construirons petit à petit le site. Plutôt qu&#039;un cours magistral, il s&#039;agit donc de partir d&quot;une feuille blanche et de construire, ligne après ligne, le site que je vous propose. Â partir de cet exemple, il vous sera très simple de construire votre propre site, avec votre contenu.</p><p>Après chaque leçon dans laquelle du code est présenté,vous aurez en téléchargement un ou plusieurs fichiers contenant le code source présenté. Je vous donnerai églement quelques exercices de progrmamation dont la soution sera également fournie sous la forme de code source et d&#039;une vidéo explicative pour les plus complexes.</p><p><strong style=\"\">Après avoir suivi ce cours vous serez capable de :</strong></p><ul style=\"\"><li>Aborder et mettre en place un projet de développement de site Web dynamique.</li><li>Développer un site Web dynamique en PHP d&#039;envergure. </li><li>Comprendre l&#039;utilité d&#039;un framework, sa logique et son fonctionnement.</li><li>Matriser PHP en coordination avec HTML et CSS. </li></ul>", 
+    "end_date": null, 
+    "title": "Créer un site Web dynamique de A à Z avec PHP", 
+    "price": "25.00", 
+    "instructors": "Marc Augier", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/240940_c3fe_3.jpg", 
+    "course_url": "https://www.udemy.com/votre-site-web-en-php/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-10T19:11:12Z"
+}

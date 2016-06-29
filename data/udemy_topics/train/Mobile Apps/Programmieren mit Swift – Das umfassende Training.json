@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Sie wollten schon immer einmal Apps für das iPhone oder iPad programmieren? Oder für die brandneue Apple Watch? Apple macht es Ihnen mit Swift nun besonders leicht, Anwendungen für iPhone, iPad und den OS-X-Desktop zu entwickeln. In diesem Video-Training führt Sie der Software-Entwickler Jan Brinkmann zunächst gründlich in die Sprachgrundlagen und die modernen Konzepte von Swift ein. Dann entwickeln Sie zusammen mit Ihrem Trainer Schritt für Schritt unterschiedliche Beispiel-Apps für alle Apple-Plattformen. Der perfekte Einstieg für alle, die mit Swift schnell ans Ziel kommen wollen!</p><p style=\"\">- Die neue Programmiersprache für OS X und iOS verständlich erklärt</p><p style=\"\">- Alle Sprachgrundlagen, inkl. funktionale und objektorientierte Programmierung</p><p style=\"\">- Swift in der Praxis: Anwendungen für iOS und OS X entwickeln</p><p style=\"\">- Brandneu: Jetzt Apps für die neue Apple Watch entwickeln!</p><p style=\"\">Jan Brinkmann ist Software-Entwickler mit Schwerpunkt in der Entwicklung von Webseiten und Apps. Neben Swift und Objective-C programmiert er auch in Java, C++ und PHP. Seit vier Jahren betreibt er eine Webseite zum Thema Programmierung und bietet Webinare und Online-Kurse an.</p>", 
+    "end_date": null, 
+    "title": "Programmieren mit Swift – Das umfassende Training", 
+    "price": "40.00", 
+    "instructors": "Rheinwerk Verlag", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/507512_caff.jpg", 
+    "course_url": "https://www.udemy.com/programmieren-mit-swift-das-umfassende-training/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-20T20:36:55Z"
+}

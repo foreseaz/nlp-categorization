@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Information Technology"
+    ], 
+    "description": "\n\n                    \n                    \n                    In this class you will learn how to design secure systems and write secure code. You will learn how to find vulnerabilities in code and how to design software systems that limit the impact of security vulnerabilities. We will focus on principles for building secure systems and give many real world examples. In addition, the course will cover topics such as:\r\n\r\nmemory safety vulnerabilities\r\ntechniques and tools for vulnerability detection and defense\r\nsecurity principles such as sandboxing, isolation and least privilege\r\nmobile platform and application security\r\nbasic crypto concepts\r\nweb security\r\nnetwork security\r\nmalware detection and defense\r\n\r\nCourse homework and labs will help students practice the concepts and techniques learned in class, such as how to find vulnerabilities and how to fix them. The labs and projects are designed to help students practice the principles of secure system design.\n\n                                    ", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "title": "Computer Security", 
+    "price": 0, 
+    "instructors": "Dan Boneh and Dawn Song", 
+    "institution_name": [
+        "Stanford University"
+    ], 
+    "commitment": "5-7 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.coursera.org/course/security", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "9999-12-31T23:59:59Z"
+}

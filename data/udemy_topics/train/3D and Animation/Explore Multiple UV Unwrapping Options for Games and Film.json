@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>In this course, Stephen Wells is going to examine four of the more popular stand alone UV unwrappers (Roadkill, Unfold 3D, 3D Coat and Headus UV Layout) and run them through their paces. Although several of the programs can do more than unwrap UVs for meshes, we will only be focusing on the basic unwrapping. To be a fair comparison, we'll unwrap the same three models in each individual program to see how easy or difficult each program is. We'll unwrap both organic and hard surface models for comparison using the basic UV unwrapping capabilities of each program. As we work, we'll ultimately be able to see the strengths and faults of each program and see which of the four programs is fastest at unwrapping a full 3D character model.</p><p>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)</p><p>More about the Instructor:</p><p>Stephen Wells is an expert 3D modeler for characters, props, vehicles, weapons and environments and have created both high and low polygon assets for game productions. He has over 20 years experience in creating a variety of game assets for several different genres (fantasy, sci-fi, combat, superheroes, horror, etc) using 3ds Max, Maya, Photoshop, ZBrush, Mudbox, Topogun, and xNormal. As an enthusiastic instructor, he loves creating video tutorials on a wide variety of subjects to help students better their skillsets.</p>", 
+    "end_date": null, 
+    "title": "Explore Multiple UV Unwrapping Options for Games and Film", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/441770_e0d2.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-explore-multiple-uv-unwrapping-options-for-games-and-film/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-03-08T06:40:55Z"
+}

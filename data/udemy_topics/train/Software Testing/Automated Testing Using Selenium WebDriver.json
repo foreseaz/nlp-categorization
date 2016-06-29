@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>With the ever increasing velocity of software development, the people charged with testing applications find themselves struggling to keep pace with new features while balancing the need for regression and integration tests. To succeed in assuring the quality of applications, teams need fast, reliable testing methods. By implementing <strong><em>test automation, </em></strong>lead times for running smoke and regression tests can be greatly reduced while improving the consistency and accuracy of them. While this seems like a simple solution, the knowledge and expertise required to build stable test harnesses is not yet common among testers or developers.</p><p>In this course, you will learn the skills necessary to build fully automated test suites for web-based applications using one of the most popular testing tools available, Selenium WebDriver. </p><p><strong>Establish a Robust Knowledge Base for Selenium with this Essential Course.</strong><br></p><ul><li>Develop a reusable framework to accelerate test harness creation</li><li>Learn how to use one test to perform cross-browser functionality checks</li><li>Discover the methods used to identify and interact with the elements of web page</li><li>Configure, deploy, and connect to a Selenium Grid to allow parallel and cross-browser testing</li><li>Implement the Page Object Model to create a functional and easily maintained test harness</li><li>Incorporate the framework and page objects into a real world example of a test suite</li></ul><p><br></p><p><strong>Utilize the Power and Flexibility of the Selenium Suite to Empower Your Team</strong></p><p>Selenium WebDriver is the fastest growing web testing framework available today and is slated to become the W3C standard for web browser automation. By learning and implementing Selenium now, you will  be able to position yourself and your team as leaders in automated web testing. Once the standard has been fully implemented, your tests will be fully compatible with all standardized browsers provided exemplary value for cross-browser testing in both time and maintenance.</p><p>Currently, WebDriver has been implemented for most of the major browsers including:</p><ul><li>Firefox</li><li>Chrome</li><li>Internet Explorer</li><li>Safari</li><li>Opera</li></ul><p>In addition to desktop browsers, Selenium supports mobile testing on iOS and Android. through driver options such as Appium, Selendroid, and iOS Driver.</p><p>With Selenium powering your tests, you will be able to accomplish more in shorter periods of time and without the hassles of trying to work with proprietary languages or dealing with the maintenance nightmares of record-and-playback software packages.</p><p>\n<strong>Course\nOverview</strong></p><p>\nThis\ncourse provides a fast track to success using Selenium\nWebDriver to implement automated tests within your organization.\nLectures cover the use of the Page Object Model for developing easily\nmaintained test harnesses, creating an automation framework that will\nincrease your test implementation velocity on any project, and how to\navoid some of the pitfalls most testers find themselves in. In\naddition to learning how to utilize WebDriver, you will gain\nexperience in configuring and connecting to a Selenium Grid for\nparallel and cross-browser testing using a single test suite. \n</p><p>\nThe\ncourse is taught using the methods I use when mentoring junior\ndevelopers and testers on the job. Information is provided through\nvideo demonstrations, discussions, and written resources. A quiz has\nbeen included in each section to help you determine how much of the\ninformation you have retained from the lectures. Some sections also\nhave practice exercises to help in cementing your new knowledge.</p><p>\nIf\nyou have any questions about the content or would like some\nassistance in troubleshooting an exercise, please contact me. I will\nrespond as quickly as possible.</p>", 
+    "end_date": null, 
+    "title": "Automated Testing Using Selenium WebDriver", 
+    "price": "25.00", 
+    "instructors": "Shawn Conlin", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/689892_cec7_2.jpg", 
+    "course_url": "https://www.udemy.com/automated-testing-using-selenium-webdriver/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Testing"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-05T21:49:58Z"
+}

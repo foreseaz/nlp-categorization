@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Lodash was built to simplify JavaScript application development. It \ncontains hundreds of methods built for the purpose of providing \ndevelopers with a fast, reliable, cross-browser toolkit to write \napplications. With Lodash, you can eliminate rewriting boilerplate code \nand focus on developing the features your users want.</p>\n\n<p>This course takes you through the process of setting up, building, \nand scripting the deployment of a JavaScript application built using \nLodash. Each section explores a new Lodash API, and employs methods \nwithin to build new application features.</p>\n\n\n\n<p>First, we cover the origins of Lodash and how it has become an \nindispensable tool for JavaScript developers. We will also install our \napplication and its dependencies. Then we’ll build out the features of \nan application to explore, create, and tag recipes. This includes \nbuilding both an API in Node.JS and a client-side application using \nLodash.</p>\n\n\n\n<p>At the end, we’ll write a script to minify our application for \ndeployment, and look at alternate deployment methods using Lodash CLI. \nThis course will provide you with practical uses of Lodash in JavaScript\n development that you can apply in future applications. By the end of \nthe book, you'll know the principles of building structured and modular \napplications using Lodash.</p><p><strong class=\"redactor-inline-converted\">About The Author</strong></p><p><strong>Eric Adams</strong> is currently a Senior Full Stack Engineer working in the \nvibrant start-up community of Buffalo, NY. Working on the web for over \n15 years, Eric has established client-side application development \nstandards in the workplace, and continues to look for new and innovative\n ways to utilize JavaScript on the job.</p>\n\n<p>Eric is an organizer of the Buffalo JavaScript meetup group, \nBuffaloJS. When not busy at work, or at home chasing around his kids, \nEric can usually be found strumming his guitar or trying his hand at \ncooking.</p>", 
+    "end_date": null, 
+    "title": "Learning Lodash 4.0", 
+    "price": "35.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/863426_24a1_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-lodash-40/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-30T06:51:36Z"
+}

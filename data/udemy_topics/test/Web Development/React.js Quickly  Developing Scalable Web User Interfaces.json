@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>React Quickly is for anyone who wants to learn React.js fast. This hands-on course teaches you the concepts you need with lots of projects. React.js is a JavaScript User Interface library. It's comparable to the View in the Model-View-Controller concept. </p>\n\n<p>React is simple yet very performant and developer friendly. It's used and maintained by Facebook and Instagram as well as vast open source community.</p>\n\n\n\n<p>You'll start with the basics, including how React fits in your application, JSX, and handling states and events. Next, you’ll learn about the core topics like components, forms and data. Then, you’ll dive into React integration topics, like unit testing and isomorphic JavaScript with Express.js, and Gulp. You'll see how to build a single-page application with Reflux, and React using a RESTful API server build on Express.js, Node.js and MongoDB. </p>\n\n\n\n<p>Also, You'll learn how to build a full-blown front-end app with routing by using React Router. Lastly, you'll see how to build an iOS app with React Native without any Objective-C or Swift knowledge, only pure JavaScript!</p>", 
+    "end_date": null, 
+    "title": "React.js Quickly: Developing Scalable Web User Interfaces", 
+    "price": 0, 
+    "instructors": "Azat Mardan", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/825354_6def_3.jpg", 
+    "course_url": "https://www.udemy.com/react-quickly/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-18T19:37:32Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "Was ein profitables Tradingsystem können muss.  Was müsste so ein System können? Welche Grundlagen müssen stimmen, damit das System selbst erfolgreich handeln könnte?   Zunächst einmal müssen wir davon ausgehen, dass jeder Trade, den wir eröffnen erst einmal zu unserem Nachteil ist.   Wir zahlen Spread, oder Kommissionen, wir haben eventuell sogar einen Broker, der gegen uns tradet und darum sind wir bereits mit dem ersten eröffneten Trade im Minus.   Dazu kommt, dass der Markt selbst sehr sprunghaft in der Entwicklung ist und wir vielleicht darüber hinaus mit Nachteilen zu kämpfen haben, die wir gar nicht kennen.   Zum Beispiel könnte es sein dass unser Broker bei bestimmten Extremsituationen die Marginanforderung plötzlich nach oben schraubt, oder wir mit vielen Requotes dafür belohnt werden, weil wir versuchen in volatilen Zeiten zu traden.   Man sagt, dass über 80 % aller Trader ihr Geld im ersten Jahr komplett an den Broker abdrücken und ich glaube die meisten Broker wissen das und unterstützen Anfänger deshalb immer wieder in ihrer anfänglichen Euphorie mit Zusatz- und Bonusvereinbarungen, die den Trader immer wieder dazu anhalten sollen möglichst viel Geld in möglichst kurzer Zeit in die Trades zu stecken, die letztendlich für den Broker den meisten Profit bringen.   Fast jeder Trader hat bereits einmal die Erfahrung gemacht, dass es massiv gegen ihn läuft und sich die Frage gestellt, ob sein Konto denn den Draw Down über einen längeren Zeitraum aushalten kann.   Ich selbst trade mit der kleinstmöglichen Größe, nämlich einem Mikrolot und selbst bei meiner konservativen Positionsgrößen-Gestaltung ist mir aufgefallen, dass ich mich massiv darin vertan habe, wie schlimm es wirklich werden kann.   Ich selbst trade die kleinstmögliche Positionsgröße 1 Mikrolot nur dann, wenn ich für diese eine Handelsposition ein Handelskapital von mindestens 200,- € zur Verfügung habe.   Rund 90 % aller Trader werden mich dafür auslachen und sagen, wer mit so kleinen Summen tradet solle es doch besser gleich lassen.   Tatsächlich aber habe ich einen Grund so konservativ zu sein, denn ich habe konkrete und gemessene Ergebnisse aus historischen Backtests von 10 Jahren, in mehr als 10 Währungspaaren und außerdem die Ergebnisse von über einem Jahr Livetrading in vier oder fünf Livekonten.  Aufgrund dieser Messergebnisse bin ich in der Lage meine Positionsgröße so zu bestimmen, dass ich komfortabel damit traden und nachts ruhig schlafen kann.   Ist das profitabel?  Auf lange Sicht ja, aber kurzfristig hat auch mein System häufig ein Problem. Und dieses Problem bin ich, denn wenn es gerade gut läuft, dann ärgere ich mich darüber, dass ich keine größeren Positionen eingegangen bin.   Das sind die Phasen, in denen mir mein Gehirn immer wieder sagt, dass ich es doch besser weiß, dass ich es besser kann.   Und das ich jede Menge Geld auf dem Tisch liegen lasse, weil ich der Meinung bin ich müsste auch in den Phasen wo ich richtig Geld verdienen könnte immer so kleine Positionen wählen.   Das was mich immer wieder tröstet sind die langfristigen Ergebnisse.  Und mittlerweile habe ich auch weitestgehend damit aufgehört mein eigenes System zu manipulieren, denn ich weiß eines und das ist ein weiterer wichtiger Punkt zu meinem System: Ein Tradingsystem muss so konstruiert sein, dass ich als Mensch es aushalten kann.   Das heißt ich muss daran glauben können, denn wenn ich das nicht kann, werde ich immer wieder versuchen mein eigenes System zu sabotieren und dann ist es kein System mehr, oder?  ", 
+    "end_date": null, 
+    "title": "MQL4 Tutorial Golden Goose", 
+    "price": "20.00", 
+    "instructors": "Raimund Bauer", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/518886_a710_2.jpg", 
+    "course_url": "https://www.udemy.com/mql4-tutorial-golden-goose-trading-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Finance"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-03T08:36:01Z"
+}

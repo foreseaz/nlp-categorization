@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course, we'll explore C programming language in an informal and practical way. We'll start with the basics of C programming language, then quickly unravel the mystery of C programming language i.e the pointers. The course contains these topics which are the foundations of each programming language:</p><p>-Variables, Data Types and Operators </p><p>-Loop Statements and Functions</p><p>-File Handling and Command Line Arguments </p><p>-Arrays,Structures and Memory Management</p><p>-Pointers and Linked Lists </p><p>-String Handling Functions </p><p>-Stacks and queues Data Structures in C Programming Language </p>", 
+    "end_date": null, 
+    "title": "C Programming:The best approach to learn C Language", 
+    "price": "25.00", 
+    "instructors": "Digitorious Technologies", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/700012_a499_9.jpg", 
+    "course_url": "https://www.udemy.com/c-programming-the-best-approach-to-learn-c-language/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-12-17T14:56:34Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t    Learn all the basic fundamentals of Java Server Faces(JSF) which are required before you start writing your own JSF application.  </p>  <ul>  \t<li>Each concept is covered in a separate tutorial by writing real code and then executing the code to see the results live.</li>  \t<li>  \t<p>  \t\t    With this course you get free access to the code of 2 web applications that I will be writing to teach JSF.  \t</p>  \t</li>  \t<li>  \t<p>  \t\t    The course is just one hour course.  \t</p>  \t</li>  \t<li>  \t<p>  \t\t    Course also demonstrates by writing real code how you can convert your web application to Primefaces application in no time and thus teaches you relation between many JSF frameworks available in market and core JSF.  \t</p>  \t</li>  </ul>", 
+    "end_date": null, 
+    "title": "Java server faces 2.0", 
+    "price": "20.00", 
+    "instructors": "Sushma Yadav", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/234524_7c50_7.jpg", 
+    "course_url": "https://www.udemy.com/learn-jsf/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-31T09:12:42Z"
+}

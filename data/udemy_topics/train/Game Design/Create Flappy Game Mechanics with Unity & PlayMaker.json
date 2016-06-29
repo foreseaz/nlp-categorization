@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \t<em style=\"\"><strong style=\"\">Update Jan. 27th</strong>: info and link to non-commercial version of PlayMaker added.</em>  </p>  <p style=\"\">  \t<em style=\"\"><strong style=\"\">Update Feb. 1st</strong>: A new chapter was added on re-creating Breakout. Have fun with it! Course was extended to more than twice the size.</em>  </p>  <p style=\"\">  \t  This course is a gentle introduction to small interactive games like Flappy Birds or other classics. Instead of making a clone, we will only go through the game mechanics: flapping or jumping, gravity and collisions, using Unity Physics.  </p>  <p style=\"\">  \t  The graphics will be deliberately crude: a white capsule and a few boxes. There are no textures, sprites, sounds or particle effects. We encourage you to make something of your own.  </p>  <p style=\"\">  \tYou&#039;ll need to know the basics of Unity: creating GameObjects, navigating the 3D Window and adjusting components.    We&#039;ll use the popular Playmaker extension from the Asset store, which is a visual coding system, providing a Finite State Machine implementation, requiring no custom scripting.    We go through every step from scratch, although the final result can be downloaded as a package for you to study.  </p>  <p style=\"\">  \tIf you need help in setting up PlayMaker, you can start with the bonus chapter in the end, which also points you to a free non-commercial version of PlayMaker, if you are an educational user, but the regular version has regular sales on the Unity Asset Store, so pay attention.  </p>  <p style=\"\">  \tSo if you want to add some interactivity and make something fun, but don&#039;t know where to start, this is a good opportunity. And please share your results and make something unique.  </p>", 
+    "end_date": null, 
+    "title": "Create Flappy Game Mechanics with Unity & PlayMaker", 
+    "price": "20.00", 
+    "instructors": "Stefan Boeykens", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/398514_277d_2.jpg", 
+    "course_url": "https://www.udemy.com/create-flappy-game-mechanics-with-unity-and-playmaker/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-19T22:00:40Z"
+}

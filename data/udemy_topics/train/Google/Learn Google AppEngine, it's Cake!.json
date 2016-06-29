@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Office Productivity"
+    ], 
+    "description": "<p>Google App Engine lets you run web applications on Google&#039;s infrastructure. App Engine applications are easy to build, easy to maintain, and easy to scale as your traffic and data storage needs grow. With App Engine, there are no servers to maintain: You just upload your application, and it&#039;s ready to serve your users.</p>  <p>You can serve your app from your own domain name (such as&nbsp;<code style=\"\">http://www.example.com/</code>) using&nbsp;<a href=\"http://www.google.com/a/\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\">Google Apps</a>. Or, you can serve your app using a free name on the<code style=\"\">appspot.com</code>&nbsp;domain. You can share your application with the world, or limit access to members of your organization.</p>  <p>Google App Engine supports apps written in several programming languages. With App Engine&#039;s&nbsp;<a href=\"https://developers.google.com/appengine/docs/java/runtime\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\">Java runtime environment</a>, you can build your app using standard Java technologies, including the JVM, Java servlets, and the Java programming language&mdash;or any other language using a JVM-based interpreter or compiler, such as JavaScript or Ruby. App Engine also features two dedicated&nbsp;<a href=\"https://developers.google.com/appengine/docs/python/runtime\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\">Python runtime environments</a>, each of which includes a fast Python interpreter and the Python standard library. Finally, App Engine provides a&nbsp;<a href=\"https://developers.google.com/appengine/docs/go/runtime\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\">Go runtime environment</a>&nbsp;that runs natively compiled Go code. These runtime environments are built to ensure that your application runs quickly, securely, and without interference from other apps on the system.</p>  <p>Python Course (if you need to learn Python):</p>  <p><a href=\"javascript:void(0)\" title=\"Learn Python Programming, it&#039;s Cake\" target=\"_blank\" class=\"external-link\" rel=\"nofollow\" style=\"\">http://www.udemy.com/learning-python-not-the-snake/</a></p>  <p>With App Engine, you only pay for what you use. There are no set-up costs and no recurring fees. The resources your application uses, such as storage and bandwidth, are measured by the gigabyte, and billed at competitive rates. You control the maximum amounts of resources your app can consume, so it always stays within your budget.</p>  <p>App Engine costs nothing to get started. All applications can use up to 1 GB of storage and enough CPU and bandwidth to support an efficient app serving around 5 million page views a month, absolutely free. When you enable billing for your application, your free limits are raised, and you only pay for resources you use above the free levels.</p>", 
+    "end_date": null, 
+    "title": "Learn Google AppEngine, it's Cake!", 
+    "price": 0, 
+    "instructors": "Jay Elbourne", 
+    "commitment": "7 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/18093_a23e_6.jpg", 
+    "course_url": "https://www.udemy.com/learn-google-appengine-its-cake/", 
+    "subject_name": [
+        "Google"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-05-19T04:12:21Z"
+}

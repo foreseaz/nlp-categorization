@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong>MySQL</strong> is by far the most popular database management system for small- to medium-sized web projects. Only the proprietary Oracle database and the small embeddable SQLite are more widely deployed. MySQL is named after the eldest daughter of <u>Ulf Michael Widenius</u>, the main author of the original version of MySQL whose daughter's name is My.</p>    <p>MySQL routines the Structured Query Language also known as <strong>SQL</strong> to <u>define, update and query the database</u>. SQL is used on fundamentally all major relational database systems, on many platforms and in many applications. I will cover the necessary skills to use and program a database using MySQL. It is the nature of database management systems that there is marvellous divergence between how SQL is implemented in each system. Most of this course is keen on showing you how SQL is implemented by MySQL and how it can be used effectively in your database applications.</p>    <p>In this course, I will provide clear, concise tutorials that guide you through creating and maintaining a MySQL database of your own. We will start with the basic syntax of SQL as it's implemented by MySQL. I will explain how to use the select statement, and how to create, update, and delete data from your tables. I'll show you specifically where the MySQL version of SQL differs from the standard, and how to get the most out of MySQL specific dialect.</p>    <p>I also will explore the </p>  <ul><li>basic syntax, </li><li>using SQL statements to <ul><li>Create</li><li>Insert </li><li>Update </li><li>And delete data from your tables </li></ul></li><li>I will also cover creating a new database from scratch</li><li>Data types</li><li>Transactions</li><li>Subselects</li><li>Views</li><li>And stored routines</li></ul>                        <p>Plus, learn about the multi-platform <strong>PHP</strong> <strong>PDO</strong> interface that will help you connect your database to web applications.</p>    <p>I will cover creating and deleting databases, data types, transactions, sub selects, views, and stored routines. And finally, I will show you a full working <strong>CRUD</strong> application. CRUD is an acronym for Create, Read, Update and Delete. MySQL is one of the most widely deployed database management systems in the world. Understanding MySQL will serve you well in your database applications.</p>", 
+    "end_date": null, 
+    "title": "Everything About MySQL Database", 
+    "price": "20.00", 
+    "instructors": "Hassan Azimi", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/643934_77bf_2.jpg", 
+    "course_url": "https://www.udemy.com/everything-about-mysql-database/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-18T13:11:06Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>Photographic Texture Creation in Photoshop introduces the theory and practice of capturing textures, removing image artifacts, some key image prep processes, as well as a detailed guide to creating diffuse, specular, normal and ambient occlusion maps out of photographed textures. Through this module, you can learn how to properly photograph textures, how to edit unnecessary lighting information out of your photographs, how to get the right colors out of your images, how to tile custom textures, how to extract different types of visual information from your images and how to apply your textures in 3D. This module also briefly touches on physically based rendering in regards to photo real texturing and look development. The contents of the module are comprehensive and, while desirable, in-depth knowledge of Photoshop is not essential to follow along. The pre requisites for this module include some photographed textures, the Photoshop software package, any contemporary look development environment or game engine, and preferably a Wacom tablet.</p><p><strong>(Students - please look under Section 1 / Lecture 1 downloads for the source files associated with the lesson.)<br></strong></p><p><strong>More about the Instructor:</strong></p><p>Victor is a graduate of the National Center for Computer Animation at Bournemouth University, UK, specializing in the 2D aspect of computer graphics. Currently, he is working on blockbuster feature film projects in the visual effects industry in London. His past experience also includes creating CGI for advertisements and interactive art installations.<br></p>", 
+    "end_date": null, 
+    "title": "Create Realistic, Photograph-Based Textures with Photoshop", 
+    "price": "20.00", 
+    "instructors": "3dmotive LLC", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/662758_ad02.jpg", 
+    "course_url": "https://www.udemy.com/3dmotive-create-realistic-photograph-based-textures-with-photoshop/", 
+    "currency": "USD", 
+    "subject_name": [
+        "3D & Animation"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-07T06:19:19Z"
+}

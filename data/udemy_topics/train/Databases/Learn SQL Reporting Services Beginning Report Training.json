@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p></p><p></p><p>Building  nice looking professional quality reports doesn’t have to be difficult or even  time consuming.&nbsp; If you have the right  tools and some basic knowledge, report authoring can be one of the most  rewarding activities.&nbsp; SQL Server  Reporting Services is definitely the right tool and this course teach you the basic knowledge.</p>    <p>In  this training you will learn how to create pixel-perfect reports that retrieve information  from SQL Server.&nbsp; You will work with the  report designer to combine tables, textboxes, charts, gauges, maps, and images  to create list reports, drill-down reports, map bubble reports, dashboard  reports, invoice reports, and many more.</p>    <p>In  this course, veteran consultant, Joey Blue, leads you through lessons where you  will work with a fictitious music delivery company and you will be faced with  real world scenarios that will force you to create 10 different reports in an  iterative manner.&nbsp; All of this report  authoring is done on your laptop or desktop pc.&nbsp;  There are videos that show you step-by-step how to setup your computer  to work through the examples as you watch the videos.</p>    <p>The  only prerequisite for this course is an Internet Connection and a PC.&nbsp; You don’t even need to know SQL.&nbsp; Everything else will be taught in the course  through the video lessons.</p>    <p>Report  Authoring is a great skill for today’s economy.</p>    <p>Just  click the “Take This Course” button above, fill out the information, and we’ll  see you on the other side.</p><p></p><p></p>  ", 
+    "end_date": null, 
+    "title": "Learn SQL Reporting Services Beginning Report Training", 
+    "price": "20.00", 
+    "instructors": "Joey Blue", 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/42401_9d29_6.jpg", 
+    "course_url": "https://www.udemy.com/beginner-sql-server-reporting-services/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-02-19T16:15:45Z"
+}

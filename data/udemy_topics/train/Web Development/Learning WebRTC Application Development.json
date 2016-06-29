@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  This video course will help you learn the fundamentals of developing real-time communication systems using WebRTC.<br style=\"\">  \t  Start right from the basics of the WebRTC standard that includes the signaling channels such as the Google App Engine. Develop file sharing functionalities and transfer media content from your mic and webcam for a better user experience. Finally, you will discover WebRTC wrapper libraries that will help you integrate the technology in your existing application within seconds.<br style=\"\">  \t  By the end of the course, you will have a fully working application that enables real-time browser-to-browser communication.  </p>  <h4 style=\"\"><strong style=\"\">About the Author</strong></h4>  <p>  \t<strong style=\"\">Alessandro Arrichiello</strong> is a computer enthusiast; he graduated in Computer Engineering at Federico II Naples University. He has a passion and knowledge for GNU/Linux systems that began at the age of 14 and continues today. He is an independent Android developer on the Google Play Store and has strong knowledge of C++, the Java language, and derivatives. He also has experience with many other kinds of interpreted languages like Perl, PHP, and Python. Alessandro is a proud open source supporter and he started and contributed to many collaborative projects developed for academic purposes. Recently he enriched his knowledge on network monitoring, focusing on penetration testing and network security in general. At the moment, Alessandro is working as software engineer in the Communications and Media Solutions group of Hewlett Packard in Milan, Italy. He’s involved in many business projects as developer and technology consultant.  </p>", 
+    "end_date": null, 
+    "title": "Learning WebRTC Application Development", 
+    "price": "30.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/424678_dbcc_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-webrtc-application-development/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-02-17T07:19:39Z"
+}

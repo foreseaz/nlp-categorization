@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Students will learn to create their own computer programs using the C# programming language. Only a very basic knowledge of C# syntax or any other programming language is expected. This is a course for individuals who would consider themselves slightly above beginners. The first section of the course serves as a refresher to get everybody up to speed.</p>\n\n<p>Students will be exposed to all the stages in software development and develop problem-solving skills as well as learn the syntax of the C# language.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>The challenges/applications are drawn from a variety of situations in the <strong><em>home</em>, <em>school</em> and </strong><em><strong>workplace</strong></em>. They address a wide spectrum of interests including:</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Business<ul><li>sorting</li><li>searching</li><li>data analysis</li><li>connecting to a sequential and relational database (SQL)</li></ul></li><li>Science<ul><li>probabilistic simulations  (using random numbers)</li><li>deterministic simulations (using concepts from physics and math... Plinko Game )</li></ul></li><li>Social Studies (Geography)<ul><li>Distance between two cities Table Lookups</li><li>Country Telephone codes</li></ul></li><li>Math<ul><li>hidden pitfalls of computer arithmetic in real world applications</li><li>famous mathematical algorithms and their applications (Euclidean Algorithm)</li><li>solving mazes and puzzles using the concept of recursion</li></ul></li><li>Cryptography <ul><li>validating codes like SIN (social insurance numbers) , VIN, ISBN</li><li>coding and decoding messages using classical encryption techniques</li><li>a peek into more advanced techniques (Steganography)</li></ul></li><li>Graphics<ul><li>creating a program that plays a classical memory game on a 4x4 grid</li><li>creating applications utilizing drag and drop events</li></ul></li><li>Gaming</li><ul><li>animation basics</li><li>using a back buffer (double buffer) to improve flicker</li><li>creating simple 2d games using keyboard and mouse movement and incorporating sound effects</li></ul></ul>\n\n\n\n\n\n\n\n\n\n<p><br>My goal is not just to show you how to program, but to help you understand what you are doing, and why you are doing it.<br></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>Not only do the videos show you how to become a programmer in great detail, but each time an important concept is taught, I offer you a challenge that is designed to help you really understand what you have just learned.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>You will go away and complete the challenge, and then come back and see the challenge answered and explained in detail in the video, allowing you to check your results!</p>", 
+    "end_date": null, 
+    "title": "C# Intermediate Programming : Applications Driven Approach", 
+    "price": "35.00", 
+    "instructors": "Charlie Chiarelli", 
+    "commitment": "25.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/778280_2d01_3.jpg", 
+    "course_url": "https://www.udemy.com/c-intermediate-programming-applications-driven-approach/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-29T22:03:42Z"
+}

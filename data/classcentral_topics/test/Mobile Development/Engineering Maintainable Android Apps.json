@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Mobile Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    Engineering Maintainable Android Apps, which is a 4 week MOOC that shows by example various methods for engineering maintainable Android apps, including test-driven development methods and how to develop/run unit tests using JUnit and Robotium (or equivalent automated testing frameworks for Android), as well as how to successfully apply common Java/Android software patterns to improve the extensibility and clarity of Android apps. Students will work incrementally on a hands-on project that systematically adds pattern-oriented enhancements to the app they developed in MOOC #3, along with the appropriate automated unit tests, i.e., each week they will add new functional and unit testing capabilities to their app project, based on the material covered in the lecture videos. These lessons will demonstrate the benefits of good software engineering practices that are targeted at creating maintainable code for mobile apps.\n\nThere will be roughly 3-4 hours of student engagement time per week, including video lectures, quizzes, and programming assignments. The ordering of the modules within the course is designed to be flexible.  In particular, students can watch the videos in whatever order suits their experience and needs, e.g., they may want to watch the unit testing videos prior to the software pattern videos if they prefer to learn about unit testing first.\n\n                                    ", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "title": "Engineering Maintainable Android Apps", 
+    "price": 0, 
+    "instructors": "Douglas Schmidt, Michael Walker and C. White", 
+    "institution_name": [
+        "Vanderbilt University"
+    ], 
+    "commitment": "", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.coursera.org/learn/engineeringandroidapps", 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Coursera"
+    ], 
+    "start_date": "2016-08-07T00:00:00Z"
+}

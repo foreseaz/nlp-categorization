@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p><strong><em>The complete Laravel course for RESTful APIs.</em></strong></p><p><strong><em>This course incluse classes for all the Laravel 5.0, 5.1 and 5.2 versions!</em></strong></p><p><strong><em>Create your own RESTful API with Laravel, step by step, from development to production.</em></strong></p><p>Laravel has <strong>more than 25,000 public projects</strong>, while other frameworks has less than 10000. Definitely,<strong> Laravel is the most popular framework for PHP</strong>.</p><p>Laravel is very expresive, simple but <strong>powerful</strong>, develop complex platforms and projects with few lines of code. <strong>Avoid the boilerplate code</strong> and focus in the functionality, not in the code.</p><p>  \t                  During this course you are going to learn, about <em>Laravel and RESTful:</em></p>  <p>  \t      Learn about this on Laravel for RESTful APIs:  </p>  <ul>  \t<li>The new PHP artisan features.</li>  \t<li>Middleware for Laravel</li>  \t<li>Request controller</li>  \t<li>Requests validation</li>  \t<li>Resources controllers.</li>  \t<li>REST controllers in Laravel</li>  \t<li>Exceptions/Errors handling</li>  \t<li>Database Migrations</li>  \t<li>Database Seeds</li>  \t<li>Authentication in Laravel</li>  \t<li>Stateless authentication for RESTful API</li>  \t<li>CSRF in Laravel and the RESTful APIs</li><li>OAuth2 access and validations on Laravel</li><li>File uploading through the API</li>  </ul>  <p>  \t                  You are going to use Laravel to create a completely functional <em>RESTful API</em> from scratch with Laravel, using the LTS version of Laravel and the latest version.</p><p><strong>¡Much more! </strong>You will have access to all the classes <em>for ever </em>and access for <strong>periodical </strong><em><strong>bonus classes</strong></em> all about PHP, Laravel and  RESTful APIs.</p><p>Follow the <em>REST </em>architecture and the best way to build <em>URIs </em>to identify resources and actions using the Laravel resources controllers for the RESTful API.</p>  <p>  \t                Hone all the features of your development tools (<em>Sublime Text 3, Git, Github, Laravel, Composer, PHP artisan</em>) and be more productive and efficient in your developments, specially for your Laravel projects.  </p>  <p>Learn to develop projects in a<strong> local environment</strong> within <em>XAMPP</em> (<em>Apache and</em> <em>MySQL) and the appropriate configuration of your tools;</em> create projects in local and carry them to a <strong>production environment</strong> in <em><strong>Linux</strong></em>, runing <em>Nginx</em>, <em>PHP  and</em> <em>MySQL and using Laravel in both environments.</em></p>  <p>  \t                Learn how to use <em>Laravel</em> through the command prompt within <em>PHP artisan</em> to build an agile <em>RESTful </em><em>API  </em>for all the <em>HTTP </em>methods(<em>GET, POST, PUT, PATCH y DELETE</em>), insert data into our database using seeding and migrations.</p>  <p>  \t              At the end of this course you are going to have the capacity to develop your own <em>RESTful API</em> with <em>Laravel</em> and PHP easily and faster, domain the new features, concepts and structure for the latest version of <em>Laravel</em>.  </p>", 
+    "end_date": null, 
+    "title": "Create your RESTful API with Laravel, the PHP Framework", 
+    "price": "20.00", 
+    "instructors": "JuanD MeGon", 
+    "commitment": "6 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/406820_574f_13.jpg", 
+    "course_url": "https://www.udemy.com/laravel-5-php-framework-agile-and-practical-php-restful-api/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-28T16:21:06Z"
+}

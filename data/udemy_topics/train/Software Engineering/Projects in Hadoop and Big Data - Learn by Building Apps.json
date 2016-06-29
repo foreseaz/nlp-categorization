@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>The most awaited Big Data course on the planet is here. The course covers all the major big data technologies within the Hadoop ecosystem and weave them together in real life projects. So while doing the course you not only learn the nuances of the hadoop and its associated technologies but see how they solve real world problems and how they are being used by companies worldwide. </p><p>This course will help you take a quantum jump and will help you build Hadoop solutions that will solve real world problems. However we must warn you that this course is not for the faint hearted and will test your abilities and knowledge while help you build a cutting edge knowhow in the most happening technology space. The course focuses on the following topics</p><p>\n<strong>Add\nValue to Existing Data </strong>- Learn how technologies such as Mapreduce applies to Clustering problems. The project focus on removing duplicate or equivalent values from a very large data set with Mapreduce. </p><p>\n<strong>Hadoop\nAnalytics and NoSQL</strong> -       Parse a twitter stream with Python, extract keyword with apache pig and  map to hdfs, pull from hdfs and push to mongodb with pig, visualise data with node js . Learn all this in this cool project.<span></span><br></p><p>\n<strong>Kafka  Streaming with Yarn and Zookeeper</strong> -       Set up a twitter stream with Python, set up a Kafka stream with java code for producers and consumers, package and deploy java code with apache samza. <span></span><br></p><p>      <strong>Real-Time Stream Processing with Apache Kafka and  Apache Storm</strong> - This project focus on twitter streaming but uses Kafka and apache storm and you will learn to use each of them effectively.<br></p><p>      <strong>Big Data Applications for the Healthcare Industry with Apache Sqoop and Apache Solr</strong><strong> </strong>-       Set up the relational schema for a Health Care Data dictionary used by the US Dept of Veterans Affairs, demonstrate underlying technology and conceptual framework.  Demonstrate issues with certain join queries that fail on MySQL, map technology to a Hadoop/Hive stack with Scoop and HCatalog, show how this stack can perform the query successfully.<br></p><p>      <strong>Log collection and analytics with the Hadoop Distributed File System  using Apache Flume and  Apache HCatalog</strong> -       Use Apache Flume and  Apache HCatalog to map real time log stream to hdfs and tail this file as Flume event stream. , Map data from hdfs to Python with Pig, use  Python modules for  analytic queries<span></span><br></p><p>      <strong>Data Science with Hadoop  Predictive Analytics</strong>  -       Create structured data with Mapreduce, Map data from hdfs to Python with Pig, run  Python Machine Learning logistic regression, use  Python modules for  regression matrices and supervise training<span></span><br></p><p>      <strong>Visual Analytics with Apache Spark on Yarn</strong><strong></strong> -       Create structured data with Mapreduce, Map data from hdfs to Python with Spark, convert Spark dataframes and RDD’s to Python datastructures, Perform Python visualisations<span></span><br></p><p>\n<strong>Customer  360 degree view,  Big Data \nAnalytics for e-commerce</strong><strong></strong> -       Demonstrate use of EComerce tool ‘Datameer’ to perform many fof the analytic queries from part 6,7 and 8. Perform queries in the context of Senitment analysis and Twiteer stream.<span></span><br></p><p>      <strong>Putting it all together Big Data with Amazon Elastic Map Reduce</strong> -       Rub clustering code on AWS Mapreduce cluster.  Using AWS Java sdk spin up a Dedicated task cluster with the same attributes.<span></span><br></p><p><br></p><p>So after this course you can confidently built almost any system within the Hadoop family of technologies. This course comes with complete source code and fully operational Virtual machines which will help you build the projects quickly without wasting too much time on system setup. The course also comes with English captions. So buckle up and join us on our journey into the Big Data. </p>", 
+    "end_date": null, 
+    "title": "Projects in Hadoop and Big Data - Learn by Building Apps", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/581034_8d87.jpg", 
+    "course_url": "https://www.udemy.com/projects-in-hadoop-and-big-data-learn-by-building-apps/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Software Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-08-12T12:05:34Z"
+}

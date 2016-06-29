@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>This through course on wireless Arduino communications  will give students an in-depth understanding of wireless communications utilizing Arduino with inexpensive wireless transmitters, receivers and transceivers.   We will go over most of the popular and least expensive methods, tools, and associated hardware to pass data wirelessly between devices and over networks.  Students will learn how to configure, develop, and program these popular and cheap wireless devices to trigger an event or pass data between devices.  Students will  be able to thoroughly grasp the concepts of transmitting data:</p><p><br></p><p> *Between Arduinos</p><p>* Arduino data to a PC</p><p>* Arduino data to the \"Cloud\" </p><p>* Arduino to Putty and Teraterm<br></p><p>* Arduino to SD Card for Datalogging</p><p>* Arduino to ThingSpeak  for graphics</p><p><br></p><p><br></p><p>Hardware and Tools<br></p><p>315 MHz transmitters</p><p>nRF2401+ (Nordic radio Transceivers)</p><p>ESP8266 12-E</p><p>Ethernet Shield based on the popular WIZnet 5100 chip</p><p>Wireless Shield based n the popular TI CC3000 chip</p><p><strong>UPDATE:  Using the ESP8266 12-E to Thingspeak,</strong><br></p><p><br></p><p>Students will learn  how to manipulate each of the wireless  libraries, functions, and protocols to meet the requirements of a wireless network.  we will cover not only simple wireless over the \"air\" , Students will also acquire the knowledge needed to use wireless Wifi chips and Ethernet to pass data to the web with, and without, a computer.<br></p>", 
+    "end_date": null, 
+    "title": "All about Arduino Wireless", 
+    "price": "30.00", 
+    "instructors": "Stephen Borsay", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/677716_c5e8_2.jpg", 
+    "course_url": "https://www.udemy.com/all-about-arduino-wireless/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Hardware"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-23T01:54:55Z"
+}

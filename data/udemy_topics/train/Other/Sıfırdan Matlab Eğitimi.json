@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong>Bu kursta hızlı bir şekilde 30 dakika içerisinde Matlab'da programlamayı öğreteceğim. Bu ders Matlab'a yeni başlayan mühendislik öğrencilerine yönelik olacak. Kurs sayısal problemleri çözmek, kendi programını kodlamak isteyenlere yönelik hızlı ve derin bir giriş olacaktır.</strong></p>\n\n<p><strong>\n\nÖncelikle temel matematik kurallarını bilmelisiniz. Programlama bilgisi gerekli değil fakat daha önce bir programlama dili kullandıysanız bu size avantaj sağlar.</strong></p>", 
+    "end_date": null, 
+    "title": "Sıfırdan Matlab Eğitimi ", 
+    "price": 0, 
+    "instructors": "Hakan Cebeci", 
+    "commitment": "33 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/790950_eb5d_5.jpg", 
+    "course_url": "https://www.udemy.com/sifirdan-matlab-egitimi/", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-12T23:31:36Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">In this course, we introduce the basics of computer programming using the visual animation environment known as Alice. Alice is a free software package that allows students to quickly dive in to programming concepts in a visual interface that provides a simple, intuitive, and fun experience. We do not expect the student to have any programming experience or knowledge prior to beginning the course. Students will begin their programming journey with a basic understanding of concepts such as Object, Methods, and Events. Students will then move on to learning about If Statements, Repetition, Parameters, and Functions. The concepts will be pulled together to create a simple game as a final project. </p><p style=\"\">The course is taught in a hands-on approach, with demonstrations of the Alice programming fundamentals. Handouts of any presentations and a glossary of basic terms are included as supplements.</p><p style=\"\">The pace of the course is designed for brand new learners interested in gaining a basic understanding of programming concepts. Taught by an industry leader and experienced instructor, this course aims to be approachable and fun. By the end of the course, the student should feel comfortable exploring new programming languages, confident they have a solid foundation of concepts.</p>", 
+    "end_date": null, 
+    "title": "Learn to Program with Alice", 
+    "price": "20.00", 
+    "instructors": "Kevin Eaton", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/529838_9575.jpg", 
+    "course_url": "https://www.udemy.com/learn-to-program-with-alice/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-06-16T21:35:34Z"
+}

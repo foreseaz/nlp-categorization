@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>  \t<strong><em>¡Matricúlate ya y empieza hoy mismo a dar tus primeros pasos con VMware vSphere!</em></strong>  </p>  <p>  \tGracias a vuestra acogida, <em>¡estamos en la prensa internacional!</em> Informationweek, Businesswire, IT Users Magazine, Udemy y Marketwired  </p>  <p>  \t            Tras completar el taller de virtualización con VMware vSphere el alumno habrá adquirido los siguientes conocimientos:  </p>  <ul>  \t<li>Instalación de un hypervisor bare metal (tipo A) como VMware ESXi</li>  \t<li>Instalación del software de gestión centralizado: vCenter, SSO, inventory services, Web Client, vSphere Client</li>  \t<li>Instalación de una cabina de datos vía NFS y iSCSI</li>  \t<li>Instalación y conversión de maquinas virtuales (platillas, clones, snapshot, vConverter)</li>  \t<li>Instalación y administración de servicios entreprise (VMware HA, vMotion, Storage vMotion y DRS)</li>  \t<li>Instalación y configuración de copias de seguridad de las VM con VMware vSphere Data Protection.</li>  </ul>  <p>  \t                Este taller ha sido diseñado precisamente para facilitar el arranque inicial, proporcionando bases muy sólidas que permiten al alumno abordar cualquier instalación no trivial de VMware vSphere.  </p>  <p>  \t                                           El curso también ayuda a profesionales de TI a alcanzar la calificación de profesional certificado de VMware® en vSphere 5  y 6 (VCP5-DCV y VCP6-DCV). Aprenderás VMware vSphere® de una forma entretenida, practica y eficaz.  </p>  <p>  \t            El curso no es valido para presentarte a la certificación oficial de VMware VCP5 y VCP6. Si quieres hacer un curso oficial para presentarte a la certificación oficial VMware, tienes que hacer un curso oficial a través de nuestra empresa de formación oficial en Cursos Oficiales VMware vSphere para la Certificación VCP5 y VCP6.</p>  <p>  \t                                        Contáctanos para más información sobre  descuentos en matriculaciones de empresas para más de un empleado.  </p>", 
+    "end_date": null, 
+    "title": "Virtualización con VMware aplicada al mundo empresarial", 
+    "price": "50.00", 
+    "instructors": "Jose Maria Gonzalez, JMG Virtual Consulting S.L", 
+    "commitment": "14.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/54487_ebd4_5.jpg", 
+    "course_url": "https://www.udemy.com/aprende-virtualizar-con-vmware-vsphere/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Network & Security"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-05-16T13:28:03Z"
+}

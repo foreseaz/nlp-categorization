@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Avec cette formation Microsoft Azure , vous allez pouvoir découvrir le monde du cloudcomputing vue par Microsoft , une vue simple , accessible et performante . Cette formation pratique vous permettra d’acquérir les connaissances et compétences pour gérer votre plateforme IaaS au niveau de Microsoft Azure d’une façon rapide et simple , où vous pourrez déployer et gérer vos machines virtuelles , synchroniserMicrosoft Azure Active Directory à votre domaine local , établir des VPNs Site to Site ou Point to Site …</p>", 
+    "end_date": null, 
+    "title": "Microsoft Azure", 
+    "price": "30.00", 
+    "instructors": "Alphorm Démocratise le savoir IT", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/828542_816e_2.jpg", 
+    "course_url": "https://www.udemy.com/microsoft-azure/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-04-21T20:54:08Z"
+}

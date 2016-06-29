@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p style=\"\">  \t In this course you will learn how to create websites using such languages and technologies as HTML, CSS and JavaScript. It is highly recommended to go through all the lectures in the queue starting from the first one, so as not to miss a beat. Then the learning process will be simple and clear, and most importantly, effective!  </p>", 
+    "end_date": null, 
+    "title": "Web design for Beginners", 
+    "price": "20.00", 
+    "instructors": "Teacher Jake Hutchinson", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/105042_95bc_5.jpg", 
+    "course_url": "https://www.udemy.com/web-design-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-10-12T15:41:54Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t  Java is the base language for developing  Android apps. You need to learn Java for Android development. This course will teach you how to program in the Java Programming Language focusing on Java concepts that you will need in order to develop Android apps.<br style=\"\">  \t<br style=\"\">  \t  Many of the topics include on-line labs with a novel automated tutor that has been university course tested and shown to significantly improve student learning.  All of the exercises can be completed on the web so you don't have to do any installations.  The Android Studio IDE is introduced so if you prefer you can install the professional tools you will need for Java and Android development. <br style=\"\">  \t<br style=\"\">  \t  Automated testing with JUnit is included along the way with a special emphasis on test-driven development.  <br style=\"\">  \t<br style=\"\">  \t  This Learn Java for Android Development -course introduces Android briefly through a couple of simple Android apps and lab exercises and it is designed to get you ready to take a professional Android course as most of them require that you  learn Java for Android development. <br style=\"\">  \t<br style=\"\">  \t  Still not sure?  Check out the free lecture in Chapter 12: Arrays.  </p>", 
+    "end_date": null, 
+    "title": "Java Essentials for Android", 
+    "price": "35.00", 
+    "instructors": "David Janzen", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/12865_65fc_4.jpg", 
+    "course_url": "https://www.udemy.com/java-essentials-for-android/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2012-01-19T20:43:39Z"
+}

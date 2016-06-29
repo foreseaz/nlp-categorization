@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Do you know <span style=\"\">that almost </span>80% of WordPress sites are considered “vulnerable”?</p>  <p>Or that of the top 10 most<strong> vulnerable </strong>plugins,five are actually commercial plugins available for purchase and over 20 percent of the 50 most popular plugins for WordPress are vulnerable to common cyber attacks ..</p>  <p>These are scary statistics and if you're a WordPress site owner you must do something about it before it's too late ...</p><p>Having your WordPress site hacked could result in:</p><ul><li><em>Loss of hard work, custom coding, images, etc.</em></li><li><em>Stealing personal and sensitive information</em></li><li><em>Loss of money required to recover (if possible)</em></li></ul><p>Not to mention the emotional consequences of this scenario. Trust me, I write this from experience ...</p><p>That's probably the main reason I created this course - to help you prevent something like this from happening. </p><p>And it <strong>doesn't </strong>have to be hard and complicated.</p><p>That's why this course is created with one goal in mind –<strong> simplicity</strong>. The content is well-structured, balanced, and action-oriented, without any useless and time-consuming information.<br></p>  <p>Throughout the course we will learn how to make our WordPress site more secure to common web attacks and how to protect ourselves from being hacked.</p><p>We'll cover also:<br></p><ul><li><em>What makes WordPress vulnerable and which parts of WP are most vulnerable</em></li><li><em>How to install and configure special security plugin</em></li><li><em>How to implement few simple but powerful hosting tweaks</em></li><li><em>Does the hosting matter and how to select the right one</em></li></ul>  <p>I've also created a simple checklist, so you can systematically apply the necessary methods.</p><p>Now you have the chance to avoid this scenario and give yourself a <strong>peace of mind.</strong></p>  <p>So without wasting anymore time let’s dive in and make our WordPress more secure.</p>", 
+    "end_date": null, 
+    "title": "Improving WordPress Security Course", 
+    "price": "50.00", 
+    "instructors": "Nesho Sabakov", 
+    "commitment": "31 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/778794_2eda.jpg", 
+    "course_url": "https://www.udemy.com/improving-wordpress-security-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-01T10:20:32Z"
+}

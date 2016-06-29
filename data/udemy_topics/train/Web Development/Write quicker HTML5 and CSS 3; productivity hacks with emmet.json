@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Hello everyone and welcome to <strong>Write quicker HTML5 and CSS 3</strong>; productivity hacks with emmet. Before we even begin to talk about this course, lets be very clear, this is not a course that teaches HTML and CSS from basics. This course is something that you take after learning <strong>HTML</strong> and <strong>CSS</strong>. This course will be a game changer for you.  With <strong>Emmet</strong> you can <strong>quickly write a bunch of code, wrap code with new tags, quickly traverse and select important code parts and even more</strong>.<br></p>  <p>Best part is, you will stay at your favorite editor. It might be <strong>Coda, sublime text, Atom, brackets</strong> or any other. Emmet is just a plugin that saves time.</p>    <p>A lot of students learn HTML and css; in fact they are very good at it. But let’s be honest, we are little lazy to write our code. What if we say that you have to write only a few words and editor will understand everything for you. Make your editor smart with Emmet. </p>  <p>This course will start from teaching the <strong>installation of Emmet </strong>on almost every popular editor and then we will move to get friendly with <strong>productivity hacks</strong> with Emmet.  We will explore the concepts of creating child's, siblings and climbing up the tree structure to create <strong>DOM</strong> structure. We will learn the shortcuts for ID’s and Classes. One of my favorite one is <strong>Lorem Ipsum text generator.</strong> Next comes up the various <strong>Doctypes</strong> generators. Further we will talk about  <strong>HTML tag generation</strong>.</p>    <p>Next we will move towards <strong>CSS</strong> and will learn to l<strong>ink the CSS files quickly</strong>. Further we will  explore the <strong>margins, padding and color shortcuts</strong>.</p>    <p>At first you will feel like magic and yes it is very magical to write code at such a fast speed. So, enough of talking and let's get <strong>productive</strong> with emmet.</p>", 
+    "end_date": null, 
+    "title": "Write quicker HTML5 and CSS 3; productivity hacks with emmet", 
+    "price": 0, 
+    "instructors": "Igneus Technologies", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/752706_3bdf_2.jpg", 
+    "course_url": "https://www.udemy.com/write-quicker-html5-and-css-3-productivity-hacks-with-emmet/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-04T19:19:52Z"
+}

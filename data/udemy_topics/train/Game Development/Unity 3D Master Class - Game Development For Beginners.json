@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \tThis course teaches the core skills for Game Development in Unity 3D. Once you've completed this course you can take your skills even further with our Advanced Unity 3D Game Development course  </p>  <p>  \tThis Unity 3D Game Development training course from Infinite Skills introduces you to the fundamentals of 3D game design with the Unity engine. This tutorial is designed with the absolute beginner in mind; no prior experience with Unity is required.  </p>  <p>  \t<br>  \tYou will start by exploring the Unity interface, and learning how to manipulate objects in the editor. Throughout this video training course, you will be putting what you learn to immediate practice by creating an actual game - Coconut Hut. Robert teaches you how to import assets for the game, apply physics to objects in the game, and how to combine assets to create complex objects. You will implement behaviours, learn to develop Boo, JavaScript and C# scripts, add animation and manage lighting for the game. Finally you will render and build the game for distribution.<br>  \t<br>  \tOnce you have completed this video tutorial for Game Development with Unity 3D, you will have a strong grasp of the fundamentals needed to build a functional game using the Unity 3D engine. Working files are included, allowing you to follow along with the author throughout the lessons.  </p>", 
+    "end_date": null, 
+    "title": "Unity 3D Master Class - Game Development For Beginners", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/79086_37be_9.jpg", 
+    "course_url": "https://www.udemy.com/unity-3d-master-class-game-development-for-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-08-15T14:11:47Z"
+}

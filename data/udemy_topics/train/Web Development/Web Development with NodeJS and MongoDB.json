@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Web development technology moves at a very fast pace with new tools and techniques being released daily. It is impossible to learn them all, but choosing similar technologies allows you to step up your game while developing web applications. Web applications are often split into two parts: the front end and the back end. Using NodeJS for logic and MongoDB for persistence, a single person can develop a real-time web application in no time. NodeJS is based on JavaScript, which makes it easily adaptable for a wide-variety of platforms. It is also lightweight, and handles a huge number of simultaneous connections.</p><p>Web Development with NodeJS and MongoDB will show you how to build powerful web applications from the ground up. Starting with the simplest \"hello world\"-based script and moving on to more and more advanced techniques, this course will show you what is possible while building your application.</p><p>We'll begin with some of the basic concepts of NodeJS, ExpressJS, and MongoDB and build on this knowledge with practical examples. With each concept, the application will get more powerful and you will be able to process any business logic you may need.</p><p>We will then learn about ExpressJS to make web applications and MongoDB to persist your data. Then you will find out how to build on the shoulders of giants by consuming a RESTful API or become a giant by serving your own API. Later on, you’ll get to grips with automatically testing your application to make sure it is functioning properly.</p><p>At the end, we will take a look at deploying our application and improving its performance. The course closes with suggestions on further improvements that can be made to the application. </p><p><strong>About The Author</strong></p><p><strong>Andrew Marcinkevičius</strong> is a professional web developer, and he has been building web applications for more than 5 years. He has worked with small businesses, government agencies, and start-ups to solve their problems in the field of web development.<br></p><p>One of his beliefs is that continuous learning should be a part of everyone's life and you learn in-depth knowledge while teaching others. He works as an independent developer and shares his thoughts on his website.</p>", 
+    "end_date": null, 
+    "title": "Web Development with NodeJS and MongoDB", 
+    "price": "35.00", 
+    "instructors": "Packt Publishing", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/755844_78b5_2.jpg", 
+    "course_url": "https://www.udemy.com/web-development-with-nodejs-and-mongodb/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-08T11:05:35Z"
+}

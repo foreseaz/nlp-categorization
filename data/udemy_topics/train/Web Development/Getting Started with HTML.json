@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course is the perfect introductory point to dive in and learn about HTML.</p><p><strong>Learn HTML in under 1 hour!!!</strong></p><p>Welcome to our easy introduction to writing HTML code.</p><p>We cover all the basics and how HTML works.  What you need to know in order to structure and write your own HTML code.</p><p>HTML code is the foundation of web pages, and knowing the basics of HTML code is important in today's world.  It can really help with the overall understanding of how content works online and how webpages are built.</p><p>Learn..</p><ul><li>how to create HTML pages</li><li>HTML page structure</li><li>what the browser sees</li><li>basics of HTML</li><li>Hyperlinks</li><li>Paragraphs, headings, titles</li><li>Lists and adding images</li><li>Tables</li><li>how to apply styles</li><li>Element Attributes</li><li>Creating forms in HTML</li><li>DIV and SPANS for styling</li></ul><p>HTML is simple and straight forward, if you have been thinking about learning what HTML can do this is the course for you.</p> <p><br></p><p><br></p>", 
+    "end_date": null, 
+    "title": "Getting Started with HTML", 
+    "price": "20.00", 
+    "instructors": "Laurence Svekis", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/783158_3c49_2.jpg", 
+    "course_url": "https://www.udemy.com/html-basics-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-05T16:19:46Z"
+}

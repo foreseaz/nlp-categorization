@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p style=\"\">Ever wondered how you could capture and represent knowledge to share it with someone else, using the most efficient way possible? Are you interested in learning how knowledge can be pieced together for human interpretation and Artificial Intelligence?</p><p style=\"\">Chances are we&#039;ve probably all at some point been faced with situations where we wished there was a quicker, more effective, way of capturing and representing knowledge so that it makes sense to human beings and computers. Knowledge modelling (or technically speaking, ontology modelling) is about the tools and techniques for capturing and representing knowledge. A knowledge model (a.k.a. ontology) is, basically, a representation that provides a basis for sharing meaning about some subject matter.</p><p style=\"\">There are a great many uses of knowledge modelling from Artificial Intelligence to the Semantic Web, natural language processing, controlled vocabularies, reference models used in business analysis, engineering and many more. In this course, you&#039;ll learn how to go about modelling knowledge from a practical perspective, which means that in addition to getting an appreciation of the context of knowledge modelling, you&#039;ll also be expected to get your hands dirty! So, we&#039;ll be looking at applying different methods for understanding how to compose knowledge models. These methods include graphical as well as formal computer-aided techniques.</p><p style=\"\">This course is for people who care about knowledge sharing and making knowledge a true asset for things like training, best practice, knowledge management, information systems, and so on.</p>", 
+    "end_date": null, 
+    "title": "Practical Knowledge Modelling", 
+    "price": "30.00", 
+    "instructors": "Dr. Tish Chungoora", 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/481478_ed4b_4.jpg", 
+    "course_url": "https://www.udemy.com/practical-knowledge-modelling/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-20T19:36:22Z"
+}

@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p><strong style=\"\">Why Take this Course?</strong></p><p>This course is designed to simplify understanding the leading enterprise application server on the market today. If you have been hesitant to check out WebLogic or if you want to learn more about WebLogic features and best practices, then this course is for you. It will teach you how to manage an Oracle WebLogic 12c environment by introducing you to a variety of topics from domain configuration to runtime management to security through easy-to-understand lectures and hands-on lab work.</p><p>There are over 14 lectures and labs spanning over 10 hours of digital content!</p><p><strong style=\"\">Topics</strong></p><ul style=\"\"><li>Domain creation and management</li><li>Admin, Managed Servers</li><li>WebLogic resources (JMS, JDBC, Clusters)</li><li>Security (Domain, Application)</li><li>Application deployment</li><li>Node Manager</li><li>High availability and load balancing</li><li>Basic troubleshooting</li><li>WebLogic Scripting Tool (WLST)</li></ul><strong style=\"\">The Student</strong>This course has been geared toward systems administrators who need to support WebLogic in an enterprise environment, however anyone who is interested in learning about WebLogic and its features will find this course greatly beneficial.<span></span>The student should have a basic understanding of application servers, networking, and be comfortable working from the command line in a Windows, OS X, or Linux environment. <strong style=\"\">Course Format</strong>Each lesson is broken into 2 parts: a lecture and a lab. The lecture presents material introducing a specific topic to the student. At the end of each lecture is a hands-on lab that re-enforces the material in the lecture. <span></span>", 
+    "end_date": null, 
+    "title": "Oracle WebLogic 12c for Administrators", 
+    "price": "30.00", 
+    "instructors": "Chris Parent", 
+    "commitment": "9 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/506514_1ae8_3.jpg", 
+    "course_url": "https://www.udemy.com/oracle-weblogic-12c-for-administrators/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-19T19:48:51Z"
+}

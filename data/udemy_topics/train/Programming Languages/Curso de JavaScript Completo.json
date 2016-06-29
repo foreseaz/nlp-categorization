@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>O curso completo de JavaScript possui 91 video aulas, ensinando tudo sobre a criação de banners, slidshows, galerias para sites e muito mais. Na parte Avançada você irá aprender criar um sistema de chat, atendimento online, sistemas de comentários, vai ver aplicação direta de jquery e css3 avançado.</p><p>Estarei disponível para qualquer eventual dúvida durante o curso. Um certificado será enviado para aqueles alunos que completarem todos os módulos.</p><p>Te vejo no curso!</p>", 
+    "end_date": null, 
+    "title": "Curso de JavaScript Completo", 
+    "price": "20.00", 
+    "instructors": "Hugo Vasconcelos", 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/652550_6cdc_2.jpg", 
+    "course_url": "https://www.udemy.com/curso-de-javascript-completo/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-27T17:55:40Z"
+}

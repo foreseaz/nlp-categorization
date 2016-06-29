@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<ul><li><strong><em>PyMongo online Tutorial</em></strong> Course provides knowledge about Python and MongoDB with its integration using PyMongo tool.</li><li>Students, at the end of this training, will be technically competent in the basics and the fundamental concepts of Python such as Loops, Functions, Classes and Exceptions. As well as you will learn the basics of MongoDB along with the concepts of Data Modelling, Indexing and Aggregation, so that you can easily learn their integrated implementation with PyMongo. And finally in the tenth section a web-application will be created, using Python's web-framework-Django. </li><li>This course contains lectures as videos. Additional Exercise files and Assignments are attached with the last section of the course for your self practice. Various scripts and data for hands-on implementation has also been attached in order to provide you with more help to learn the course.</li><li>This course is convenient for all those individuals who want to use the ease of Python along with the big data handling capability of MongoDB in order to develop their applications and will help them in Software Development Practice. So it is useful for those who want to begin Software and Website Development with comfort and ease of use.</li></ul>", 
+    "end_date": null, 
+    "title": "Learn How Python Works with NoSql Database MongoDB: PyMongo", 
+    "price": "20.00", 
+    "instructors": "Easylearning guru", 
+    "commitment": "11.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/621096_2ac1_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-how-python-works-with-mongodb-pymongo-in-9hrs/", 
+    "currency": "USD", 
+    "subject_name": [
+        "IT Certification"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-24T07:24:30Z"
+}

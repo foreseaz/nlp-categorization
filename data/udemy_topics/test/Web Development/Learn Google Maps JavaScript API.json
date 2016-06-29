@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Learn Google Maps JavaScript API course provides a jump start for beginners and the complete guide for GIS professionals of using Google Maps JS API.</p><p>Course covers <br></p><ul><li>Map and Controls.</li><li>Shapes and Geometries.</li><li>Overlays (Markers, Raster ...etc.)</li><li><span></span>Data Layers (JSON, KML ... Etc.)</li><li><span></span>Events and Behaviors.</li><li><span></span>API Services.</li><li><span></span>Practice Projects.</li></ul><p>In this course we'll practice together, every mapping concept with SampleCode as well as practice projects. </p>\n\n\n\n<p>By the end of the course, you will be able to build complete web mapping applications using Google Maps.  </p>", 
+    "end_date": null, 
+    "title": "Learn Google Maps JavaScript API", 
+    "price": "20.00", 
+    "instructors": "Mr Aniston Bradly", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/783030_2504.jpg", 
+    "course_url": "https://www.udemy.com/learn-google-maps-javascript-api/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-03-05T12:13:35Z"
+}

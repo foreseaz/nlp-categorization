@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p style=\"\"><strong style=\"\"><em style=\"\">Programming Statistical Applications in R</em></strong> is an introductory course teaching the basics of programming mathematical and statistical applications using the R language. The course makes extensive use of the <em style=\"\">Introduction to Scientific Programming and Simulation using R</em> (<strong style=\"\">spuRs</strong>) package from the Comprehensive R Archive Network (CRAN). The course is a scientific-programming foundations course and is a useful complement and precursor to the more simulation-application oriented <strong style=\"\"><em style=\"\">R Programming for Simulation and Monte-Carlo Methods</em></strong> Udemy course. The two courses were originally developed as a two-course sequence (although they do share some exercises in common). Together, both courses provide a powerful set of unique and useful instruction about how to create your own mathematical and statistical functions and applications using R software.</p><p style=\"\"><em style=\"\"><strong style=\"\">Programming Statistical Applications in R</strong></em> is a &quot;hands-on&quot; course that comprehensively teaches fundamental R programming skills, concepts and techniques useful for developing statistical applications with R software. The course also uses dozens of &quot;real-world&quot; scientific function examples. It is not necessary for a student to be familiar with R, nor is it necessary to be knowledgeable about programming in general, to successfully complete this course. This course is &#039;self-contained&#039; and includes all materials, slides, exercises (and solutions); in fact, everything that is seen in the course video lessons is included in zipped, downloadable materials files. The course is a great instructional resource for anyone interested in refining their skills and knowledge about statistical programming using the R language. It would be useful for practicing quantitative analysis professionals, and for undergraduate and graduate students seeking new job-related skills and/or skills applicable to the analysis of research data.</p><p style=\"\">The course begins with basic instruction about installing and using the R console and the RStudio application and provides necessary instruction for creating and executing R scripts and R functions. Basic R data structures are explained, followed by instruction on data input and output and on basic R programming techniques and control structures. Detailed examples of creating new statistical R functions, and of using existing statistical R functions, are presented. Boostrap and Jackknife resampling methods are explained in detail, as are methods and techniques for estimating inference and for constructing confidence intervals, as well as of performing N-fold cross validation assessments of competing statistical models. Finally, detailed instructions and examples for debugging and for making R programs run more efficiently are demonstrated.</p>", 
+    "end_date": null, 
+    "title": "Programming Statistical Applications in R", 
+    "price": "20.00", 
+    "instructors": "Geoffrey Hubona, Ph.D.", 
+    "commitment": "11 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/607108_ddaa_2.jpg", 
+    "course_url": "https://www.udemy.com/programming-statistical-applications-in-r/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-09T17:20:55Z"
+}

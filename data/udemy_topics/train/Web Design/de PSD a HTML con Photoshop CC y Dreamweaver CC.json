@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Design"
+    ], 
+    "description": "<p>  \t    En este curso vemos como crear una web en Photoshop, como organizar las capas y aplicar efectos de capa. Para después, extraer los estilos CSS que aplicamos en Dreamweaver para maquetar la web.  </p>  <p>  \t    Para finalizar hacemos que la web sea adaptable al dispositivo.  </p>  <p>  \t  Normalmente empezamos el proyecto del diseño de una web en Photoshop y la presentamos al cliente. Una vez aceptado, lo maquetamos desde cero en Dreamweaver.  </p>  <p>  \t  En este curso te mostramos como utilizar las nuevas opciones de Photoshop CC para extraer todos los estilos CSS e importarlos a Dreamweaver . Con lo que solo nos faltaria añadir el contenido.  </p>  <p>  \tEl curso esta estructurado de la siguiente manera:  </p>  <ol>  \t<li><span>Diseño de la página web en photoshop</span></li>  \t<li><span>Extracción de los estilos CSS en Photoshop</span></li>  \t<li><span>Maquetación de la web en Dreamweaver</span></li>  \t<li><span>Insertar el contenido de la web</span></li>  \t<li><span>Hacer que la web sea adaptable a todos los dispositivos actuales</span></li>  \t<li><span>Finalizar los últimos detalles de la web</span></li>  </ol>", 
+    "end_date": null, 
+    "title": "de PSD a HTML con Photoshop CC y Dreamweaver CC", 
+    "price": "30.00", 
+    "instructors": "Gonzalo Pasquin", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/321542_fcb4_3.jpg", 
+    "course_url": "https://www.udemy.com/de-psd-a-html-con-photoshop-cc-y-dreamweaver-cc/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-10-17T13:48:53Z"
+}

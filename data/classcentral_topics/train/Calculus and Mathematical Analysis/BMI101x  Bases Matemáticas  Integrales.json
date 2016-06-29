@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Calculus & Mathematical Analysis"
+    ], 
+    "description": "\n\n                    \n                    \n                    Este curso se concibe como una revisión de los conceptos básicos del cálculo diferencial, necesarios para los primeros cursos de aquellos estudios universitarios en los que se imparte matemáticas. Nuestro objetivo es proporcionar un curso básico sobre funciones y derivadas, incluyendo sus aplicaciones.\n\n                                    ", 
+    "end_date": "2016-08-02T00:00:00Z", 
+    "title": "BMI101x: Bases Matemáticas: Integrales", 
+    "price": 0, 
+    "instructors": "Dr. Antonio José Guirao Sánchez", 
+    "institution_name": [
+        "Universitat Politècnica de València"
+    ], 
+    "commitment": "4 hours", 
+    "subject_name": [
+        "Mathematics"
+    ], 
+    "course_url": "https://www.edx.org/course/bases-matematicas-integrales-upvalenciax-bmi101x-0", 
+    "duration": "8 weeks", 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-06-07T00:00:00Z"
+}

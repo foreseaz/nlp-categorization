@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<strong style=\"\">خلال هذا الكورس سنتعرف على الكوماند لاين (الواجهة السوداء) واهم التعليمات والاوامر فيها, ومن ثم سنتعرف على كيفية برمجة السكريبت الخاص بها وهو الباتش سكريبت.</strong>  </p>  <p style=\"\">  \t       سيساعدنا هذا على برمجة اوامر بسيطة للتحكم بنظام التشغيل ويندوز كاغلاق الحاسب في وقت معين او حساب عدد ساعات الاستخدام او مراقبة حالة الانترنت.  </p>  <p style=\"\">  \t      هذا الكورس باللغة العربية بعنوان  </p>  <p style=\"\">  \t      Intro to Batch Programming مقدمة لباتش  </p>  <p style=\"\">  \t<strong style=\"\">سيحتوي على</strong>  </p>  <ul style=\"\">  \t<li style=\"\">تعليمات سريعة في الكومند برمنت - Intro to Command Prompt </li>  \t<li style=\"\">مقدمة للغة البرمجة باتش سكريبت - Intro to Batch Script</li>  \t<li style=\"\">المتحولات - Variables </li>  \t<li style=\"\">العمليات الرياضية - Arithmetic</li>  \t<li style=\"\">الشروط - Statement</li>  \t<li style=\"\">حلقات اللوب - Loop</li>  \t<li style=\"\">اعادة التوجيه - Redirection</li>  \t<li style=\"\">المتحولات في حلقات اللووب - Variables in Scope</li>  </ul>  <p style=\"\">  \t      هذا الكورس يعد انطلاقة جيدة لمفهوم برمجة النظم, فاستخدام الباتش سكريبت شائع في هذا المجال وخاصة في مجال ادارة السيرفرات وسيضعك عل اول طريق البرمجة باستخدام السكريبت  </p>  <p style=\"\">  \t  Intro to Batch مقدمة لباتش by<strong style=\"\"> Ismail Al-Jubbah</strong> is licensed under a <strong style=\"\">Creative Commons Attribution-ShareAlike 3.0 Unported License</strong>.  </p>", 
+    "end_date": null, 
+    "title": "Intro to Batch Programming مقدمة لباتش", 
+    "price": 0, 
+    "instructors": "Ismail Al-Jubbah", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/344896_fb10_2.jpg", 
+    "course_url": "https://www.udemy.com/intro-to-batch-programming/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-11-15T04:23:45Z"
+}

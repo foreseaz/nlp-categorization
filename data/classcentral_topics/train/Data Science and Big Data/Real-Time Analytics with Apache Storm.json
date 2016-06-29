@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Data Science and Big Data"
+    ], 
+    "description": "\n\n                    \n                    \n                    The world is trending in real time!  Learn from Twitter to scalably process tweets, or any big data stream, in real-time to drive d3 visualizations using Apache Storm, the “Hadoop of Real Time.”  Storm is free, open source, and fun to use!  Learn from Karthik Ramasamy, Technical Lead of Storm@Twitter, about the distributed, fault-tolerant, and flexible technology used to power Twitter’s real-time data flow pipeline.  Twitter open sourced Storm in 2011, and it graduated to a top-level Apache project in September, 2014.  \n\nStarting from basic distributed concepts presented during our first Udacity-Twitter Storm Hackathon, link Storm concepts to Storm syntax to scalably drive Word Cloud visualizations with Vagrant, Ubuntu, Maven, Flask, Redis, and d3.  Link to the public Twitter gardenhose stream to process live tweets, parse embedded URLs, and calculate Top worldwide hashtags.  Extend beyond Storm basics by exploring multi-language capabilities in Python, integrate open source components, and implement real-time streaming joins.\n\nIn your final project, follow real-time trending topics by implementing the data pipeline to visualize only tweets that contain Top worldwide hashtags.  Extend your project by exploring the Twitter API, or any data source, alongside Hackathon participants as they design their own ideas, receive feedback from Karthik, and open source a final project calculating real-time tweet sentiment and geolocation to drive a U.S. Map.Why Take This Course?Learn by doing! The world is going real time.  Batch processing, popularized by Hadoop, has latency exceeding required real-time demands of modern mobile, connected, always-on users.  Stream processing with seconds-required response time is necessary to meet this demand. Twitter is a world leader in real-time processing at scale.  Learn the future from the company defining it.\n\n                                            Syllabus\n                        ###Lesson 1\nJoin instructor Karthik Ramasamy and the first Udacity-Twitter Storm Hackathon to cover the motivation and practice of real-time, distributed, fault-tolerant data processing.  Dive into basic Storm Topologies by linking to a real-time d3 Word Cloud Visualization using Redis, Flask, and d3. \n\n###Lesson 2\nExplore Storm basics by programming Bolts, linking Spouts, and finally connecting to the live Twitter API to process real-time tweets.  Explore open source components by connecting a Rolling Count Bolt to your topology to visualize Rolling Top Tweeted Words.\n\n###Lesson 3\nGo beyond Storm basics by exploring multi-language capabilities to download and parse real-time Tweeted URLs in Python using Beautiful Soup.  Integrate complex open source bolts to calculate Top-N words to visualize real-time Top-N Hashtags.  Finally, use stream grouping concepts to easily create streaming join to connect and dynamically process multiple streams.\n\n###Lesson 4\nWork on your final project and we cover additional questions and topics brought up by Hackathon participants.  Explore Vagrant, VirtualBox, Redis, Flask, and d3 further if you are interested!\n\n###Final Project: Construct a Storm Topology\nDesign a Storm Topology and new bolt that uses streaming joins to dynamically calculate Top-N Hashtags and display real-time tweets that contain trending Top Hashtags.  Post your visualization to the forum and tweet them to your Twitter followers.\n\n###Project Extensions\nUse additional features of the real-time Twitter sample stream or use any data source to drive your real-time d3 visualization.\n                                    ", 
+    "end_date": "2014-11-19T00:00:00Z", 
+    "title": "Real-Time Analytics with Apache Storm", 
+    "price": 0, 
+    "instructors": "Karthik Ramasamy", 
+    "institution_name": [
+        "Twitter"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Computer Science"
+    ], 
+    "course_url": "https://www.udacity.com/course/real-time-analytics-with-apache-storm--ud381?utm_medium=referral&utm_campaign=api", 
+    "duration": "2 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2014-11-05T00:00:00Z"
+}

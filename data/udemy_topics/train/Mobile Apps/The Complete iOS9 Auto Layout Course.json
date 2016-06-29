@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this course, my friend Ravi and I would like to raise your confidence levels, in that confounding but very important topic : iOS Auto Layout.</p><p>Building an App involves 2 key components - Writing Code and designing the user interface</p><p>When the app lands up with your audience, its interface design, plays a key role, in its success.</p><p>So a good grasp of AutoLayout will certainly help you design, better, user interfaces</p><p>Interfaces that deal ,with different screen sizes and orientations.</p><p>Interfaces that adapt to available space, smartly.</p><p>And interfaces, that are quick to build, and easy to maintain.</p><p>We Aim to show you all the key elements of Auto-Layout and you need no programming experience, since we will start from scratch</p><p>We will begin with an introduction to Xcode and focus, on key elements that come into play when designing the look and feel of an App</p><p>Then with the help of multiple case studies we will build, real world interfaces, and in the process, understand, the role various Xcode elements play.</p><p>Each lesson is complemented with a word cloud of key terms along with concept reinforcing quizzes and reference material</p><p>At the end of this course you will walk away with much, more confidence.</p><p>And lastly, we will continue to keep adding to the course material so that, its always up to date for you, our learner.</p><p>So, in conclusion, Ravi and I are proud to present this iOS Auto Layout course to you. We hope you will join us on this exciting journey and we look forward to chatting with you in the forum. </p>", 
+    "end_date": null, 
+    "title": "The Complete iOS9 Auto Layout Course", 
+    "price": "20.00", 
+    "instructors": "Sanjay Noronha, Ravi Shankar", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/746556_8894_4.jpg", 
+    "course_url": "https://www.udemy.com/the-complete-ios9-auto-layout-course/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Mobile Apps"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-01-30T05:22:12Z"
+}

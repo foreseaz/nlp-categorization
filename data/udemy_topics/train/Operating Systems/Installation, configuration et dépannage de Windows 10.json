@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Cette <strong>formation vidéo </strong>à pour but de vous aider à <strong>installer, configurer et effectuer la maintenance</strong> d'un PC sous Windows 10.</p><h4>Dans ce tuto dédié à la maintenance de votre Windows 10</h4><p>Grâce à ce <strong>tuto</strong> vous apprendrez à :</p><ul><li>Installer Windows 10 sur un PC</li><li>Configurer les outils tels que <strong>Cortana</strong></li><li>Utiliser le Gestionnaire de périphériques</li><li>Créer des comptes utilisateurs</li><li><strong>Installer une imprimante</strong></li><li>Installer un périphérique Bluetooth</li><li><strong>Sauvegarder et restaurer le système</strong></li><li>Configurer la carte réseau</li><li>Configurer le pare-feu Windows</li><li>Réinitialiser le pare-feu</li><li>De<strong> libérer de la place sur votre disque dur</strong></li><li>D'utiliser les utilitaires de diagnostique</li><li><strong>Réparation système</strong></li><li><strong>WinRE</strong></li><li>Configurer un <strong>Groupe résidentiel</strong></li><li>Configurer <strong>EDGE</strong></li><li><strong>et plein d'autres choses (voir la table des matières pour le détail de cette formation).</strong></li></ul><p>Cette<strong> formation Windows </strong>conviendra très bien à<strong> ceux qui débutent la maintenance</strong> mais également à ceux qui veulent connaître les <strong>nouveautés </strong>en terme de <strong>maintenance dans Windows 10</strong>. Elle s'adresse donc à ceux qui savent déjà utiliser Windows 10 mais qui veulent gagner en autonomie dans la configuration et la résolution des soucis sur leur système.<br> A noter également, que de nombreux outils sont <strong>compatibles avec Windows 7 et 8</strong>.</p><p>Pour cette formation, j'ai voulu vous montrer le fonctionnement de Windows 10 de l'installation aux problèmes de démarrage, c'est pour cela que certaines séquences ont été effectuées avec VirtualBox. J'ai aussi utilisé la version d'évaluation de Windows 10 que vous pourrez télécharger directement sur le site de Microsoft.</p><p>J'espère que cette formation vous sera utile pour<strong> pouvoir gérer vous-même votre système</strong>.</p>", 
+    "end_date": null, 
+    "title": "Installation, configuration et dépannage de Windows 10", 
+    "price": "20.00", 
+    "instructors": "Ludovic Bianay", 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/860016_4323_3.jpg", 
+    "course_url": "https://www.udemy.com/installation-configuration-et-depannage-de-windows-10/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-25T20:42:16Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>In this course i will be showing you how to install windows 3.1 , windows xp , windows 7 , windows 8.1 and windows server 2012 . </p>\n\n<p><strong>In this course , you will learn how to install :</strong></p>\n\n\n\n<ul><li>Windows 3.1</li><li>Windows XP Service Pack 1</li><li>Windows 7</li><li>Windows 8.1</li><li>Windows Server 2012.</li></ul>\n\n<p>We are using virtual box but you can use real machines to install this windows .</p>", 
+    "end_date": null, 
+    "title": "Installation - Operating System", 
+    "price": 0, 
+    "instructors": "Hacker Priyank Gada", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/853040_b411_3.jpg", 
+    "course_url": "https://www.udemy.com/installation-operating-system/", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-18T13:57:10Z"
+}

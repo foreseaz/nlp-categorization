@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Business"
+    ], 
+    "description": "<p>Get familiar with the tools, functioning and use of the Minitab statistical software package that you will need to analyze big data and make decisions about problems arising in business, production or engineering.</p><p><strong style=\"\">Get the skills of manipulating data in a worksheet when you are analyzing data.</strong></p><ul style=\"\"><li>Summarizing data in rows of a worksheet or data of variables in columns using numerical descriptive statistics.</li><li>Coding your data to different types.</li><li>Ranking and sorting your data.</li><li>Creating subsets of your data.</li><li>Combining or separating your data.</li></ul><p><strong style=\"\">Animated video lessons about the process of manipulating data to prepare yourself  to start learning the statistical methods of data analysis.</strong><span></span></p><p>The video lessons give step-by step instructions you to select the appropriate menu commands or to write session window commands for specific problems. Screen animations  highlight the important details of a session or draw your attention to the &quot;tricks&quot; applied. You can turn on subtitles to help follow the instrucions and explanations. Sample data of Minitab are used for demonstration so you do not need to download any additional dataset. </p><p>It is a short course including 10 lectures, a little more than half an hour, yet comprehensive and well enough to get the skill of using Minitab&#039;s capabilities for datasheet manipulation and to enable you to start real world data analysis in the next courses of  &quot;Foundation of Statistics with Minitab&quot; or &quot;Statistical Methods for Quality Improvement&quot;.</p><p>Watching a video, pausing it and doing the same steps simultaneously in your own Minitab is the best way of getting experience and practice in data manipulation. Repeating the sessions with different sample data develops your skill to easily handle big data files and helps you reach the stage when you feel that data analysis is a fun when you can have a look behind the scenes.</p>", 
+    "end_date": null, 
+    "title": "Getting Familiar with Minitab ", 
+    "price": 0, 
+    "instructors": "László Csanaki Bognár", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/500072_cc77_7.jpg", 
+    "course_url": "https://www.udemy.com/to-understand-statistics-behind-six-sigma-part-i/", 
+    "subject_name": [
+        "Data & Analytics"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-12T15:42:13Z"
+}

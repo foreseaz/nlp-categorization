@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Following this course you will be able to easily create web API and powerful applications using php and slim framework. In this course you're going to see a lot of examples in pratice that you can you use in your projects. In other words, you are going to learn php and slim micro framework beyond basics.</p><p>The following PHP and Slim Framework content will be covered in this course:</p><ul><li>Using OOP in PHP</li><li>Creating Restful API</li><li>Creating user authentication</li><li>Creating a web application using PHP and Slim Framework </li></ul><p>We will make all resources used in the project and the project itself available to download. You can download the project of the class and make improvements and experiment with the codes.</p>", 
+    "end_date": null, 
+    "title": "Beyond Basics - Creating an API and web application with PHP", 
+    "price": "20.00", 
+    "instructors": "Good Learn", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/668678_45bc_10.jpg", 
+    "course_url": "https://www.udemy.com/beyond-basics-php-and-slim-micro-framework/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-13T11:24:05Z"
+}

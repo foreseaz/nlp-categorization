@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">Designed for beginners, this course teaches you the fundamentals of building a webpage. There are 25 lectures with over 2 hours of video content going over HTML and CSS concepts. Each of the 25 lectures are simple, straight to the point videos that are informative yet not overwhelming.</p><p style=\"\">We start off with learning about different text editors and web browsers. Once we have a text editor and web browser downloaded we go over HTML basics such as formatting text, adding images, adding hyperlinks, building lists and building multiple webpages. We end our HTML section with a fun project that incorporates everything you&#039;ve learned up to that point.</p><p style=\"\">Now that we have HTML down, we now move on to CSS. We can now begin to add our own style and personality to our webpages by learning basic concepts such as changing color and styles of text, aligning text, building tables, customizing hyperlinks, etc. At the conclusion of our CSS section, we learn how to structure our webpage using all of the things we&#039;ve learned in our HTML and CSS courses.</p><p style=\"\">Finally having mastered all the concepts, I take you from start to finish with our final project where we build a fully functioning webpage. Included in the final project is a full downloadable zip folder with all the HTML, CSS and Images I used for the final project. Upon completion of this course, you&#039;ll be able to build a fully functional webpage and have the foundation to move on to more advanced programming and web building.</p>", 
+    "end_date": null, 
+    "title": "Learn How To Build Webpages FAST!", 
+    "price": "25.00", 
+    "instructors": "Steve Cracolici", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/493342_cd17_2.jpg", 
+    "course_url": "https://www.udemy.com/learn-how-to-build-webpages-fast/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-04T14:53:33Z"
+}

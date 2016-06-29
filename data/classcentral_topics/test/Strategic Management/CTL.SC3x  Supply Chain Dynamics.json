@@ -1,0 +1,27 @@
+{
+    "selfpaced": false, 
+    "topic_name": [
+        "Strategic Management"
+    ], 
+    "description": "\n\n                    \n                    \n                    Supply Chains are complex systems involving multiple firms and organizations with different goals and objectives.  Additionally, there are external forces and trends that can impact (positively or negatively) a supply chain’s efficiency and effectiveness.  Understanding the dynamics and risks within supply chains, both large and small, is key to being a successful supply chain professional. \n\nThis course builds on the fundamental models introduced in SC1x and the design trade-offs covered in SC2x.  It is essentially a capstone in understanding how to successfully model, design, and manage a supply chain in any industry.  We will divide the course into three sections. \n\nFirst, we will introduce the field of System Dynamics.  Developed at MIT, system dynamics is an approach that examines and models complex systems that feature interacting, non-linear, and dynamic elements.  The objective is to better understand the underlying features of a complex system and to recommend policies and other actions to improve overall performance. \n\nSecond, we will explore the concepts of supply chain risk.  Supply chains are subject to a wide number of potential disruptions – from both within and outside of the supply chain.  Students will understand how supply chains can be better designed and managed to not only mitigate the downside of supply chain disruption but also to leverage and capture any upside. \n\nFinally, the students will engage in a series of more extended case studies and simulations that demonstrate these complex relationships.  Actual case studies and examples from companies will be used to help students better prepare for actual situations.\n\nThis course is part of the MITx MicroMasters Credential in Supply Chain Management that is specifically designed to teach the critical skills needed to be successful in this exciting field. In order to qualify for the MicroMasters Credential you will need to earn a Verified Certificate in each of the five courses as well as pass a Capstone Exam. When you sign up for a CTL.SC3x Verified Certificate you will also be granted access to supplemental content such as additional practice problems and complementary videos. \n\nMITx requires individuals who enroll in its courses on edX to abide by the terms of the edX honor code. MITx will take appropriate corrective action in response to violations of the edX honor code, which may include dismissal from the MITx course; revocation of any certificates received for the MITx course; or other remedies as circumstances warrant. No refunds will be issued in the case of corrective action for such violations.\n\n                                    ", 
+    "end_date": "2016-10-26T00:00:00Z", 
+    "title": "CTL.SC3x: Supply Chain Dynamics", 
+    "price": 0, 
+    "instructors": "Chris Caplice and Yossi Sheffi", 
+    "institution_name": [
+        "Massachusetts Institute of Technology"
+    ], 
+    "commitment": "8-12 hours", 
+    "subject_name": [
+        "Business & Management"
+    ], 
+    "course_url": "https://www.edx.org/course/supply-chain-dynamics-mitx-ctl-sc3x", 
+    "duration": "9 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "edX"
+    ], 
+    "start_date": "2016-08-24T00:00:00Z"
+}

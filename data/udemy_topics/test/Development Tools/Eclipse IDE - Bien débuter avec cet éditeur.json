@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Eclipse est une plate-forme pour développer en plusieurs langages. Initialement pour Java, il permet maintenant de programmer en C++, PHP, Ruby et bien d'autres en plus d'offrir plusieurs outils.</p><p>Ce cours se veut simple et rapide pour vous permettre de bien démarrer avec l'éditeur Eclipse et plus concrètement dans des projets Java. </p><ul><li>Vous verrez comment choisir la distribution qui répond le mieux a vos besoins ainsi que comment l'agrémenter de ce qui vous manque.</li><li>Par la suite, vous apprendrez l'interface et les configurations usuelles pour tout nouvel espace de travail.</li><li>Pour compléter, des exemples concrets d'utilisation avec Java pour générer du code automatiquement ainsi que remanier le code existant seront présentés.</li></ul><strong>Ce cours s'adresse</strong> surtout aux débutants en Java qui recherchent un éditeur professionnel et gratuit et aussi aux développeurs confirmés qui veulent voir ce qu'Eclipse peut leur offrir.", 
+    "end_date": null, 
+    "title": "Eclipse IDE - Bien débuter avec cet éditeur", 
+    "price": 0, 
+    "instructors": "Simon Levesque", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/488414_a564_2.jpg", 
+    "course_url": "https://www.udemy.com/eclipse-ide/", 
+    "subject_name": [
+        "Development Tools"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-04-28T09:55:47Z"
+}

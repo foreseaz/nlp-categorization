@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \tThis course teaches the principles of Relational Databases and the SQL language. It is intended for &quot;Analysts&quot;. Knowledge of Relational Databases and SQL is one of the most valued technical skills an analyst can have. It will make you a more valued member of any team.  </p>  <p style=\"\">  \tThis course is suitable for a novice. I start by explaining how Relational Databases relate to your experience in the everyday world. When you have completed the course and exercises you will have created a database containing several related tables, updated the data they contain and written many queries which extract and summarise that data.  </p>  <p style=\"\">  \tI teach using a mixture of lectures, demonstrations and exercises. You will learn by seeing, hearing and doing. With each step you build your knowledge using what you have learned already. An on-line course sets you free to work at your own pace and to review and revisit earlier material, even after you have completed the course.  </p>", 
+    "end_date": null, 
+    "title": "SQL and Database for Analysts - Increase your team value", 
+    "price": "20.00", 
+    "instructors": "Tom Gillies", 
+    "commitment": "7.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/87214_aa8f_3.jpg", 
+    "course_url": "https://www.udemy.com/sql-and-rdb-for-analysts/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2013-09-02T18:50:08Z"
+}

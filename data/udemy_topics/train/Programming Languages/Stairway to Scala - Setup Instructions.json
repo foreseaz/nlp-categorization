@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This course will provide you with instructions to be ready to follow the Stairway to Scala Applied and Advanced courses, in particular being able to run activator, Scala and a suitable Scala IDE such as IntelliJ IDEA.</p><p>The course includes reference slides and an example exercise project to test that your environment is working.</p><p>The course will take less than an hour to complete.</p><p>If you are interested in getting a working Scala development environment, or are taking the Stairway to Scala Applied or Advanced courses, this setup course is for you.</p>", 
+    "end_date": null, 
+    "title": "Stairway to Scala - Setup Instructions", 
+    "price": 0, 
+    "instructors": "Dick Wall", 
+    "commitment": "31 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/664052_e250_2.jpg", 
+    "course_url": "https://www.udemy.com/stairway-to-scala-setup-instructions/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-08T19:31:05Z"
+}

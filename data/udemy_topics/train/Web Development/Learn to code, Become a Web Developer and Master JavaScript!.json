@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t<span style=\"\">This is a course that was </span><strong style=\"\">funded successfully on KickStarter</strong>  </p>  <p style=\"\">  \tLearn how to code in JavaScript one of the main languages behind the web. You can create cross platform applications that will run on any platform with JavaScript. This courses <strong style=\"\">starts out very simple</strong> so you’ll be okay with little or no experience. We have been making tutorials since 2002 we know how to get somebody from complete beginner to professional in the shortest amount of time.  </p>  <p style=\"\">  \tOne of the best features is that you can watch the courses at any speed you want. This means you can speed up the or slow down the video if you want to.  </p>  <p style=\"\">  \tThis course is <strong style=\"\">project based</strong> so you will not be learning a bunch of useless coding practices. At the end of this course you will have real world apps to use in your portfolio. We feel that project based training content is the best way to get from A to B. Taking this course means that you learn practical, employable <strong style=\"\">skills immediately. </strong>  </p>  <p style=\"\">  \tLearning how to code is a great way to jump in a new career or enhance your current career. Coding is the new math and learning how to code will propel you forward for any situation. JavaScript is very important to the future of the web. Learn it today and get a head start for tomorrow.  </p>  <p style=\"\">  \tYou will get full <strong style=\"\">lifetime</strong> access to this course for a single one off fee. John Bura has created many games, apps and training courses so he is extremely qualified to teach you how to master technology. This is an instructor that does not only teach, he produces apps. This means you get the most relevant information on how to code. Most courses do not show you practical skills and real world examples.  </p>  <p style=\"\">  \tThis course uses JSBin which is a free online platform that will render code in real time so you don’t have to wait for rendering time. This tool is perfect for learning and perfect to prototype your apps.  </p>  <p style=\"\">  \tAnybody who wants to learn how to make web apps and add functionality to your websites, this course is for you! If you’re a complete beginner, we will teach you how to master JavaScript today!  </p>", 
+    "end_date": null, 
+    "title": "Learn to code, Become a Web Developer and Master JavaScript!", 
+    "price": "20.00", 
+    "instructors": "John Bura", 
+    "commitment": "10 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/399228_a3db_6.jpg", 
+    "course_url": "https://www.udemy.com/master-javascript-today/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-01-20T18:54:04Z"
+}

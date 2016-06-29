@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t Unity is arguably the most popular cross platform game engine for mobile phones and tablets. You can target both iOS and Android app stores using this single powerful engine. This engine can help you build almost any game you can think of. This powerful engine is great for both 2D and 3D games.  </p>  <p>  \t Eduonix have worked with real game developers to bring out a course which is practical and powerful enough to get our students quickly ready for their next block buster title. This course does not assume any game programming experience but it will be great if you know basic of game design. The course starts with basic Unity intro and a detail look into its editor and scripting language. You will then work on actual game code along with the authors. The course will make you the Unity 3D Ninja and you can easily take on any gaming project.  </p>", 
+    "end_date": null, 
+    "title": "Learn to Build Mobile Games using Unity3D", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/197830_ff0a_3.jpg", 
+    "course_url": "https://www.udemy.com/learn-to-build-mobile-games-using-unity3d/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-12T06:58:12Z"
+}

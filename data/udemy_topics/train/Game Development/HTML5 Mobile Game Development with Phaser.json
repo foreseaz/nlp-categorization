@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t <strong style=\"\">What if you could make games for iOS, Android and the web  using the technologies you already know and love: HTML, CSS and  JavaScript?</strong>  </p>  <p style=\"\">  \t <strong style=\"\">Learn game development by creating an infinite runner similar to Jetpack Joyride!</strong>  </p>  <p style=\"\">  \t In this course you will learn how to create mobile games using <strong style=\"\">Phaser</strong>, an awesome JavaScript library that allows you to create professional games for both mobile and desktop using <strong style=\"\">HTML5</strong>.  </p>  <p style=\"\">  \t By following the <strong style=\"\">Learn by Doing</strong> approach that you find in all <strong style=\"\">ZENVA</strong> courses, we’ll put together an <strong style=\"\">infinite runner</strong> game, similar to the iOS best-seller <strong style=\"\">Jetpack Joyride</strong>.  </p>  <p style=\"\">  \t This course was created by <strong style=\"\">Jeremy Dowell</strong> (a.k.a. <strong style=\"\">Codevinsky</strong>) in collaboration with <strong style=\"\">Pablo Farias Navarro</strong>, founder of <strong style=\"\">ZENVA</strong>. Jeremy is a core member at the <strong style=\"\">HTML5GameDevs</strong> forum and contributor to the <strong style=\"\">Phaser</strong> engine. After coding in JavaScript for the best part of the last decades, Jeremy has authored web and mobile games in <strong style=\"\">HTML5</strong> and <strong style=\"\">iOS</strong>, applications using <strong style=\"\">Node.js</strong> and <strong style=\"\">Angular</strong>, and technical tutorials for various platforms and technologies  </p>  <p style=\"\">  \t What you will learn in this course:  </p>  <ul style=\"\">  \t<li style=\"\"><strong style=\"\">Preloading</strong> your game assets such as images, sound and JSON files.</li>  \t<li style=\"\">Creating an infinite runner with <strong style=\"\">parallax effect</strong>.</li>  \t<li style=\"\">Adding text and working with user input (<strong style=\"\">touchscreen</strong> and mouse).</li>  \t<li style=\"\"><strong style=\"\">Animating</strong> characters and enemies.</li>  \t<li style=\"\">Working with <strong style=\"\">2D physics</strong>.</li>  \t<li style=\"\">Showing the high scores in a <strong style=\"\">scoreboard</strong>.</li>  \t<li style=\"\">Adding <strong style=\"\">sound effects</strong> and <strong style=\"\">music</strong> to your game.</li>  \t<li style=\"\">How to make your game <strong style=\"\">juicy</strong>, going belong a simple playable demo.</li>  </ul>", 
+    "end_date": null, 
+    "title": "HTML5 Mobile Game Development with Phaser", 
+    "price": "30.00", 
+    "instructors": "Pablo Farias Navarro, Jeremy Dowell", 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/227838_1961_2.jpg", 
+    "course_url": "https://www.udemy.com/phaser-tutorial/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-05-23T21:31:34Z"
+}

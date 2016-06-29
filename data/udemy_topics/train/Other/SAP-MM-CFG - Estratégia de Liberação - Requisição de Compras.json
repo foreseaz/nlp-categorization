@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Com este Guia de Configuração, você aprenderá a configurar o Sistema SAP para implantar uma ferramenta Standard muito importante e utilizada no dia a dia de muitas Empresas: Estratégia de Liberação para Requisições de Compras.Conheça os Principais Assuntos Abordados neste guia:</p><ul style=\"\"><li>Aprenda a criar Características a serem utilizadas na Estratégia de Liberação;</li><li>Crie a Classe responsável por agrupar as Características da Estratégia de Liberação;</li><li>Entenda como criar os Grupos de Liberação;</li><li>Crie e efetue os ajustes necessários nos Codes de Liberação (cada aprovador possui o seu próprio Code de Liberação);</li><li>Configure e Ajuste os Códigos de Liberação (trata-se dos Status de Aprovação);</li><li>Configure Estratégias de Liberação de acordo com as Alçadas e Níveis de Aprovação;</li><li>Conheça o Funcionamento da poderosa ferramenta Workflow no Processo de Aprovação</li><li>Entenda e Aplique os Conceitos de Estrutura Organizacional na utilização de Workflow</li></ul><p>No capítulo final, você será introduzido a um cenário de testes, onde você poderá checar se as suas configurações estão ok.</p><p>Imprescindível para Consultores SAP MM ou Analistas de Sistemas que trabalhem com SAP e desejam conhecer mais sobre este assunto.</p><p>Para uma melhor visualização, recomenda-se assistir as aulas no formato HD (pressioneo botão HD no canto inferior direito da sua tela).</p>", 
+    "end_date": null, 
+    "title": "SAP-MM-CFG - Estratégia de Liberação - Requisição de Compras", 
+    "price": "20.00", 
+    "instructors": "Natan Cavalcanti", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/548584_a9fb_2.jpg", 
+    "course_url": "https://www.udemy.com/sap-mm-cfg-estrategia-de-liberacao-requisicao-de-compras/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Other"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "Others"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-07-08T02:52:36Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>HTML works perfectly fine as far as static documents are concerned. If a web application requires dynamic views however, it's less than ideal. That's where AngularJS comes in; an open-source framework that extends HTML vocabulary for you application, resulting in intuitive, expressive single page applications. For an AngularJS crash course to get you up to speed with this widely used framework, look no further. <b></b></p><p><b>Create flawless Single Page Applications with Angular JS</b></p><ul><li>Learn framework fundamentals for AngularJS projects</li><li>Apply your knowledge to real world uses</li><li>Build towards creating your own Web and Hybrid applications</li><li>Gain insight into working with MVC architecture</li></ul><p><strong></strong><b></b></p><p><b>Build frameworks with a versatile, cutting edge toolset</b></p><p>Although only officially released in 2012, AngularJS has taken the world by storm thanks to official support from Google, a community of developers constantly improving it, and some of the internet's biggest websites making use of it. One of its best features is its data binding; dynamic views are automatically updated whenever a model changes, and vice versa. Furthermore, it combines the benefits of deep linking with desktop app-like behaviors, allows you to invent new HTML syntax and is designed to be testable. The result is simplified development and testing of applications and, ultimately, faultless single page and hybrid applications.<b></b></p><p><b>Course Overview</b></p><p>This AngularJS crash course is aimed at those who already have a basic understanding of HTML, CSS and Javascript, but who may have limited experience of AngularJS projects. With 3 hours of content and over 50 lectures, it's a fast and efficient way to get yourself up to speed with this framework and start using it in the real world. </p><p>This course will allow you to grasp the basic concepts of AngularJS and its main features. You'll be provided with functional examples throughout to compound your learning, giving you the opportunity to put it to practical use. </p><p>After an overview of environment setup and MVC architecture, you'll get to grips with the more complex attributes of AngularJS, including modules and dependency injection, controllers, expressions, directives, scopes, filter, routing, and two-way data binding. </p><p>From Section 4 onwards, you'll build up a framework for your own dynamic app using bootstrap layouts, filters, list routing and setting parameters. You'll learn how to add useful functions like adding, updating and deleting elements, form validation and more. You'll even tackle debugging with Chrome console and add custom directives to make your HTML as readable as it can be.</p><p>By the end of the course, you will be confident enough to begin your own AngularJS projects, using the framework for creating web and hybrid applications of your own. You will have solidified your understanding of the AngularJS language and will be more than capable of putting to real world use with immediate effect. </p>", 
+    "end_date": null, 
+    "title": "AngularJS For Beginners", 
+    "price": 0, 
+    "instructors": "Stone River eLearning", 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/511934_08ba_3.jpg", 
+    "course_url": "https://www.udemy.com/angularjs-for-beginners-udemy/", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-26T16:41:48Z"
+}

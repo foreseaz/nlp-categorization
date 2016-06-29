@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p style=\"\">  \t     As you know, Javascript popularity increased tremendously last couple of years. One of the biggest reason is NodeJS. This course aims to teach NodeJS and third party applications from zero to expert level. You will not just learn Hello World project, you will learn What is <strong style=\"\">Blocking</strong>, <strong style=\"\">Non-Blocking I/O</strong>, <strong style=\"\">Event Loop Mechanism</strong>, how is node.js used in real life by interacting other popular technologies and modules like;  </p>  <p style=\"\">  \t <strong style=\"\">Elasticsearch: </strong>You will cover Elasticsearch basics, how to use this in order to provide full text search mechanism to your application.  </p>  <p style=\"\">  \t <strong style=\"\">MongoDB: </strong>Store your data in to db, and make json queries to this document based database  </p>  <p style=\"\">  \t <strong style=\"\">PassportJS: </strong>You will also learn PassportJS to construct authentication system in your application. You will be able to restrict some endpoints by using internal PassportJS properties  </p>  <p style=\"\">  \t <strong style=\"\">ExpressJS: </strong>During this course, you will develop complete two web applications. ExpressJS is for developing controllers, communicate this controllers with views, and provide some db interactions by using ORM frameworks like <strong style=\"\">MongooseJS</strong>  </p>  <p style=\"\">  \t <strong style=\"\">IronCache: </strong>Do you want to make your application faster? You can cache your data to IronCache (Cache as a service) in this lecture also  </p>  <p style=\"\">  \t <strong style=\"\">IronMQ: </strong>You will be able to use message queue system by using IronMQ in NodeJS<strong style=\"\">.  </strong>  </p>  <p style=\"\">  \t <strong style=\"\">SocketIO: </strong>Converting your application into realtime application<strong style=\"\"> </strong>  </p>  <p style=\"\">  \t Well, you will do full stack development in this course. That means, you will be able to develop frontend application with AngularJS by Yeoman, Grunt, Bower. This forntend application will communicate with rest service devloped in this course again.  </p>  <p style=\"\">  \t <strong style=\"\">Yeoman: </strong>You will be generating your frontend application with this  </p>  <p style=\"\">  \t <strong style=\"\">Grunt: </strong>Your application tasks will be managed and executed by using Grunt  </p>  <p style=\"\">  \t <strong style=\"\">Bower: </strong>Tired of using lots of third party js frameworks and deal with conflict, let Bower do that for you  </p>  <p style=\"\">  \t After completing two beautiful application, you will deploy your application into Heroku.  </p>  <p style=\"\">  \t I can give guarantee about becoming expert in NodeJS and related technologies by taking this course. We will do lots of best practices about each technology, and develop examples progressively. Also, at the end of each section, you will be provided Quiz for specific section. Although, this course is a complete reference to NodeJS and related technologies, you can require extra video tutorials for any topic related to NodeJS in order to clearify question marks in your mind. I will publish them in <strong style=\"\">Wishes </strong>section.  </p>  <p style=\"\">  \t <strong style=\"\">  If you ready to become a NodeJS expert, join this course!</strong>  </p>", 
+    "end_date": null, 
+    "title": "NodeJS in Action", 
+    "price": "20.00", 
+    "instructors": "Hüseyin BABAL", 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/201158_d0b6_9.jpg", 
+    "course_url": "https://www.udemy.com/nodejs-in-action/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-04-18T08:26:07Z"
+}

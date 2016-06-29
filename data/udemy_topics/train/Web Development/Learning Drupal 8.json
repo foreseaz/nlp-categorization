@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>In this Learning Drupal 8 training course, expert author Rain Michaels teaches you the basic building blocks for creating a customized Drupal website. This course is designed for the absolute beginner, meaning no experience with Drupal is required. </p>\n\n<p>You will start by learning how to install Drupal, then jump into learning the basics of content creation. From there, Rain will teach you about site configuration and how to create content, blocks, and menus for a simple site. This video tutorial also covers views, text formats and visual editors, media, and how to use taxonomy. You will also learn about views exposed and contextual filters, as well as theming. Finally, you will learn how to deploy and manage a Drupal site.</p>\n\n\n\n<p>Once you have completed this computer based training course, you will be fully capable of installing, building, deploying, and maintaining your own customized Drupal websites. Working files are included, allowing you to follow along with the author throughout the lessons.</p>", 
+    "end_date": null, 
+    "title": "Learning Drupal 8", 
+    "price": "50.00", 
+    "instructors": "Infinite Skills", 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/846412_20b0_2.jpg", 
+    "course_url": "https://www.udemy.com/learning-drupal-8/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-05-11T19:39:54Z"
+}

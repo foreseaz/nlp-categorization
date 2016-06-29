@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "At the first part of the lesson, we will just be designing and prepping our stage.   In the second part, we will add a script so that when we click on our tanks, another tank will appear and we can drag them on the boxes. The last part of this lesson will show you how to add a cost to your tanks.  The third part of this lesson makes the tanks shoots bullets once they are in the boxes  In the fourth part of the lesson, we will make the enemies move along the stage. We will also make our enemies disappear once they are hit by the bullets.   The fifth part of this lesson will show you how to program your health.  This lesson will also tell you how to fix the health, tank, and money issues that you might have encountered.", 
+    "end_date": null, 
+    "title": "Create a Tower Defense Game in ActionScript 3.0", 
+    "price": "50.00", 
+    "instructors": "Rexcel Cariaga", 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/495642_9dea.jpg", 
+    "course_url": "https://www.udemy.com/create-a-tower-defense-game-in-flash/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Game Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-05-07T03:15:45Z"
+}

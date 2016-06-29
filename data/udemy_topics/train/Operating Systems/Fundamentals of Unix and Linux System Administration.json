@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "IT & Software"
+    ], 
+    "description": "<p>Have you dreamt of having a single resource which takes you from being a simple linux user to a wizard with an ability to operate, control and manage the complete backend infrastructure while handling system processes, users and software? Well, the wait is over. We have worked hard in researching and creating a comprehensive course which will cover all aspects on Linux/Unix System administration. We have included tips, tricks of professional administrators and potential pitfalls to help you all the way to build a solid foundation and conceptual understanding of Linux.</p><p>Our course starts with an introduction to the Linux system administration and follows up with topics such as package management, Shell Scripting Guide, User management, and so on. The focus of this course is to cover everything that is required to become a great systems programmer. The course has been created with inputs from various professionals working in the banking, healthcare, and financial industries. So we have included topics which are important not only from a theoretical perspective but also have a tremendous practical utility.</p><p>The course will also cover things such as: where to start with Linux, its basic components such as scripting, package management, kernel and shells, how to boot the system, control access, working with controlling processes, the file system, log files, adding new users, storage, etc. We will also cover security and how to secure your system, along with managing the network and debugging it.</p><p>This course includes everything that you need to know about getting started with Linux administration and managing large backend infrastructure. Enroll now and let Linux show you the way.</p>", 
+    "end_date": null, 
+    "title": "Fundamentals of Unix and Linux System Administration ", 
+    "price": "20.00", 
+    "instructors": "Eduonix Learning Solutions", 
+    "commitment": "23.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/675244_6b34.jpg", 
+    "course_url": "https://www.udemy.com/fundamentals-of-unix-and-linux-system-administration/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Operating Systems"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-11-20T03:52:42Z"
+}

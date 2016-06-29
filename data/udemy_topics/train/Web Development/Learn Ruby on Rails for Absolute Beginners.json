@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>This <strong>Ruby on Rails programming Course </strong><strong><strong>is</strong></strong>, suitable for anyone who wants to use Ruby on Rails for any purpose. Whether you intend to use Ruby for Rails development, at the command line, or for writing GUI applications, or developing database enabled web applications<span style=\"\">, </span>this is the place to start.</p>  <p>The course consists of nearly <strong>four</strong><strong> hours</strong> of training with <strong>6 sections</strong> in total. We only assume that you have some grasp of basic <strong>Object Oriented Programming</strong> (what classes and objects are and how to use them). You will learn:</p>  <p>- How to set up Ruby on your computer (you may already have it!)</p>  <p>- How to create Ruby source code</p>  <p>- Running Ruby interactively at the command prompt</p>  <p>- Variable and constant syntax</p>  <p>- Control structures (loops and if statements)</p>  <p>- Arrays and how to use them</p>  <p>- Ruby method definitions</p>  <p>- Classes and objects in Ruby</p>  <p>- Implementing inheritance</p>  <p>- Method access in Ruby</p>  <p>- Model / View / Controller</p>  <p>- Creating a new Rails app</p>  <p>- Creating an app with a scaffold</p>  <p>- Embedding Ruby in HTML</p>  <p>- Adding &amp; Deleting the contact to the database</p>  <p>- Linking from the home page to the contacts index</p>  <p> - And many more</p>  <p>Ruby is is both unique and elegant. This course will get you started with Ruby on Rails programming quickly and easily. The course is broken into simple digestible steps. We take a hands-on \"learn by doing\" approach and our focus is to make you productive right from go!</p>  <p>This course is for newbie programmers or developers who want to get up to speed with the most popular language of the moment.</p>  <p>The course is suitable for anyone who has some programming knowledge. Ruby on Rails is fun to learn, and a <strong>very powerful </strong>for any serious programmer. I hope you join us.</p>", 
+    "end_date": null, 
+    "title": "Learn Ruby on Rails for Absolute Beginners", 
+    "price": "20.00", 
+    "instructors": "EDUmobile Academy", 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/636418_1cfa.jpg", 
+    "course_url": "https://www.udemy.com/learn-ruby-on-rails-for-absolute-beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Web Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-10-10T05:16:26Z"
+}

@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>  \t Apple has brought new programming language this june, 2014. Out of no where Apple declared Swift. It&#039;s innovative language for both Cocoa and Cocoa Touch. The fun part is interactive coding. It&#039;s a type safe language. Swift code can run besides Objective-C.  </p>  <p>  \t       Swift cares lot of things automatically. If you already have a bit of experience from C, C++, PHP or Javascript, you already know a bit of Swift programming. This course will show those feature and pretty cool features of Swift.  </p>  <p>  \t       As it is a  new language, it is the right time to start right away. If you have developer license, you can download Xcode 6. By the time, I am making this tutorial, Apple has released Xcode 6 beta version. It will be possible to learn Swift without Xcode, cause these courses will show all code and output side by side. Courses come up with quizzes. So, you can practice always what you have learned. The more you practice, the more experience you will get. So why wait, let&#039;s dive in!!  </p>  <p>  \t       This course will cover basics of Swift, operators, strings, collection types, control flow and functions. All of these has pretty cool features.  </p>  <p>  \t       Finally, any kind of feedback is very much welcome. It is your input which will make this course more attractive. If you need any explanation, feel free to contact always.  </p>", 
+    "end_date": null, 
+    "title": "Swift - Learn by doing", 
+    "price": 0, 
+    "instructors": "Md Sajjadul Farooque Robin", 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/246708_0cee_3.jpg", 
+    "course_url": "https://www.udemy.com/swift-learn-by-doing/", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2014-06-19T19:08:36Z"
+}

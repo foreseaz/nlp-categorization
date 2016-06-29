@@ -1,0 +1,25 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Oracle SQL Developer is currently the most popular tool among database developers and SQL learners, however, since it makes it so easy to start firing commands and querying a database, many people don't feel the need to investigate its features, and end up using only what is obvious, visible, and enabled by default.</p><p>If you are one of them, this  course will help you get out of that group and start using SQL Developer more smartly.</p><p>Even if you have some time using the tool and are currently using some of its features, there's probably something in this course that you don't know and can be helpful to you.</p><p><strong>Learn the features that can help you work with your Oracle database better and faster:</strong><br></p><ul><li>Install and configure SQL Developer to run in your desired language and only with the features you need.</li><li>Create database connections and execute commands and scripts.</li><li>Display your results in a way that makes your work easier.</li><li>Use code templates and snippets to accelerate your work.</li><li>Export data in different formats and using different methods.</li><li>Some other useful and interesting things.</li></ul><p><br></p><p><strong>All SQL Developer features are free. Take advantage of them</strong>:</p><p>This course was created because there appears to be a pattern among Oracle SQL courses, regardless of the platform where they are taught: “If you are able to install it and connect to a database, you are good to go\".</p><p>What's more: Experience shows that even developers who are already working with Oracle database as part of their job, tend to not look for ways to work faster in SQL Developer, and usually only investigate features they don't currently use when it is strictly necessary for their jobs.</p><p>The goal of this course is to fill the gap most SQL courses leave about this great tool so that it can serve as a foundation if you are planning to learn Oracle SQL, and also to help you take advantage of the tool's features if you are already working with Oracle databases as part of your job.</p><span></span><p><strong>Content and Overview:</strong></p><p>The course includes more than 10 lectures, each one starting by showing you why you need it or how it can be helpful to you, and then proceeding to demonstrate how to enable it and/or use it.</p><p>There is one lecture per feature, so, if for any reason you are not interested in any of the included tips, you can simply skip it, and go directly to the one you want to learn about.</p><p>The course content will continue to be updated over time, to make sure you always know about the most important features available to you, as new versions of SQL Developer are released.</p><p>Learn these tips and apply them to your work, and you will not only be well prepared to learn SQL or work with it smartly, but will also enjoy being seen as an experienced and knowledgeable developer by your friends and peers.</p><p><br></p>", 
+    "end_date": null, 
+    "title": "Oracle SQL Developer : Tips and Tricks", 
+    "price": 0, 
+    "instructors": "Carlos De Leon", 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/609956_d7df_4.jpg", 
+    "course_url": "https://www.udemy.com/oracle-sql-developer-tips-and-tricks/", 
+    "subject_name": [
+        "Databases"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2015-09-12T14:02:24Z"
+}

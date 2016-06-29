@@ -1,0 +1,26 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Development"
+    ], 
+    "description": "<p>Are you looking to learn a new language? Learning a new language helps expand your skill set as a developer and make you more marketable. If you aren't learning a new language because it's not the one you use at work I think you're missing out on the benefits. I often found that seeing how other languages solve problems makes me a better developer with the languages I use on a day to day basis. I am here to tell you all about an awesome dynamic language called Apache Groovy.</p>\n\n<p><strong class=\"redactor-inline-converted\">What is Apache Groovy?</strong></p>\n\n<p>Apache Groovy is a <strong class=\"redactor-inline-converted\">powerful</strong>, <strong class=\"redactor-inline-converted\">optionally typed</strong> and <strong class=\"redactor-inline-converted\">dynamic</strong> language, with <strong class=\"redactor-inline-converted\">static-typing and static compilation</strong> capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, <strong class=\"redactor-inline-converted\">familiar and easy to learn syntax</strong>. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, <strong class=\"redactor-inline-converted\">Domain-Specific Language</strong> authoring, runtime and compile-time <strong class=\"redactor-inline-converted\">meta-programming</strong> and <strong class=\"redactor-inline-converted\">functional</strong> programming.</p>\n\n<p><strong class=\"redactor-inline-converted\">Who Should Learn Apache Groovy?</strong></p>\n\n<p>I am going to teach you everything you need to know to start using The Groovy Programming language. This course is really designed for 2 different types of people and I think you will both benefit from it. If you’re a beginner programmer with a some experience in another language like Python or Ruby this course is for you. Dynamic languages are generally thought of as easier for total beginners to learn because they’re flexible and fun. If you’re an existing Java Developer (Beginner or Experienced) this course is also for you. You will learn Groovy compliments the Java language and makes some of the complex tasks from Java concise and easy.</p>\n\n<p><strong>Enroll Today</strong></p>\n\n<p>I have spent a lot of time putting together what I think is the most complete course on Groovy around. Please take the time to watch the preview videos and If you like what you see click that enroll button and I will see you inside.</p>", 
+    "end_date": null, 
+    "title": "The Complete Apache Groovy Developer Course", 
+    "price": "30.00", 
+    "instructors": "Dan Vega", 
+    "commitment": "13.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/756634_ad7b_3.jpg", 
+    "course_url": "https://www.udemy.com/apache-groovy/", 
+    "currency": "USD", 
+    "subject_name": [
+        "Programming Languages"
+    ], 
+    "duration": null, 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "udemy"
+    ], 
+    "start_date": "2016-02-09T01:38:28Z"
+}

@@ -1,0 +1,27 @@
+{
+    "selfpaced": true, 
+    "topic_name": [
+        "Web Development"
+    ], 
+    "description": "\n\n                    \n                    \n                    In this course you'll learn the fundamentals of responsive web design with Google's Pete LePage! You'll create your own responsive web page that works well on any device - phone, tablet, desktop or anything in between.\n\nYou’ll start by exploring what makes a site responsive and how some common responsive design patterns work across different devices.  From there, you’ll learn how to create your own responsive layout using the viewport tag and CSS media queries.  As you proceed, you’ll experiment with major and minor breakpoints, and optimizing text for reading.Why Take This Course?The way people browse the web is changing quickly - fewer and fewer users access the web at a desk in front of a large monitor with a keyboard and mouse. The web is increasingly being enjoyed on phones, tablets, wearables, TVs and everything in between. By designing a site to be responsive, it will look good and work well no matter what device your users have in front of them.\n\n\nThroughout this course, you'll work through a project creating a home town website that works well on phones, tablets and desktop displays.\n\n                                            Syllabus\n                        ### Overview\nThis course consists of 5 lessons. The first one is an overview of responsive design and introduces the way you’ll need to shift your thinking as you go from desktop first design, to responsive design.  Lessons 2, 3, 4 and 5 will cover the important theoretical concepts of responsive design, and include plenty of hands-on exercises implementing what you’ve learned.  \n\n### Lesson 1 - Why Responsive?\nWhat is responsive web design and why is it important? What kinds of devices should we be targeting with our design? How can we best leverage the different capabilities of each device to provide great experiences to users? You’ll also make sure that your development environment is ready to go. \n\nTopics covered:\n\n* What is responsive design?\n* Why does responsive design work for any device?\n* Remote debugging and emulation in the browser\n\n### Lesson 2 - Starting Small\nThe best way to get started is to start small and build up. In this lesson, we’ll cover the key components that make a site great on a small screen, including setting the viewport, adding content and sizing the content to the viewport.  You’ll start the home town site project, by making sure that it looks good on a small screen.  \n\nTopics covered:\n\n* Why start small and build up?\n* What is the viewport?\n* Sizing the content to the viewport\n  * avoiding static sized items\n* Touch targets, and why they should be large\n\n### Lesson 3 - Building Up\nOnce you’ve got a page optimized for small screens, it’s time to start thinking about how they’ll look on larger screens.  Learn how to use CSS media queries to add breakpoints that change the layout depending on the screen size or other device characteristics.\n\nTopics covered:\n\n* CSS media queries\n* What is a breakpoint, and how to choose one\n* Using the CSS flexbox to modify layout\n\n### Lesson 4 - Common Responsive Patterns\nNow that you’ve got the basics of responsive design down, you’ll learn about and practice some of the common layout design patterns used across sites. You'll also iterate on the home town site project, creating breakpoints for tablet and desktop layouts using the patterns from this lesson.\n\nTopics covered:\n\n* Mostly fluid pattern\n* Column drop pattern\n* Layout shifter pattern\n* Off canvas pattern\n\n### Lesson 5 - Optimizations\nLearn strategies for minor breakpoints used to adjust the margins or padding on an element, or increase the font size to make it feel more natural in the layout. You’ll also learn about strategies for dealing with tables and optimal text readability. At the end of the lesson, you'll iterate for the last time on the home town site, adding minor breakpoints to really make the experience stand out.\n\nTopics covered:\n\n* Minor break points\n* Optimizing text layout\n  * font size\n  * optimal line length\n* Responsive tables, and strategies for dealing with them\n                                    ", 
+    "end_date": "2015-02-15T00:00:00Z", 
+    "title": "Responsive Web Design Fundamentals", 
+    "price": 0, 
+    "instructors": "Pete LePage", 
+    "institution_name": [
+        "Google"
+    ], 
+    "commitment": "6 hours", 
+    "subject_name": [
+        "Programming"
+    ], 
+    "course_url": "https://www.udacity.com/course/responsive-web-design-fundamentals--ud893?utm_medium=referral&utm_campaign=api", 
+    "duration": "2 weeks", 
+    "language_name": [
+        "English"
+    ], 
+    "provider_name": [
+        "Udacity"
+    ], 
+    "start_date": "2015-02-01T00:00:00Z"
+}
