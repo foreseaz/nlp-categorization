@@ -1,27 +1,0 @@
-{
-    "selfpaced": false, 
-    "topic_name": [
-        "Electrical Engineering"
-    ], 
-    "description": "\n\n                    \n                    \n                    Ce cours est un cours d’introduction à la réalisation des fonctions linéaires et non-linéaires de base à l’aide de l’amplificateur opérationnel.  Les étudiants appliquent la théorie des circuits, la réaction négative et positive aux amplificateurs opérationnels pour réaliser les fonctions électroniques élémentaires (amplification, filtrage, transposition, addition, soustraction, génération des fonctions périodiques, etc.). Les explications sont illustrées par des exercices au laboratoires avec des démonstrations qui peuvent être reproduite par les élèves par simulation.\n\n                                    ", 
-    "end_date": "2017-09-07T00:00:00Z", 
-    "title": "ElectroniX: Electronique I", 
-    "price": 0, 
-    "instructors": "Cédric Meinen and Maher Kayal", 
-    "institution_name": [
-        "École Polytechnique Fédérale de Lausanne"
-    ], 
-    "commitment": "4 hours", 
-    "subject_name": [
-        "Engineering"
-    ], 
-    "course_url": "https://www.edx.org/course/electronique-i-epflx-electronix-0", 
-    "duration": "53 weeks", 
-    "language_name": [
-        "Others"
-    ], 
-    "provider_name": [
-        "edX"
-    ], 
-    "start_date": "2016-09-01T00:00:00Z"
-}
