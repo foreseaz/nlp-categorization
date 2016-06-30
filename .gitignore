@@ -7,7 +7,6 @@
 
 # ignore data sets
 /data/datasets/tran_set/*
-/data/test_set/*
 /data/datasets/*
 
 # ignore the model files

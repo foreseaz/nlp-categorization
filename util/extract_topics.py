@@ -34,8 +34,8 @@ def distribute_with_topics(data_path,json_path):
             continue
 
         ###### temp exchange ######
-        topic_name = course['subject_name'][0].replace("&", "and").strip()
-        subject_name = course['topic_name'][0].replace("&", "and").strip()
+        subject_name = course['subject_name'][0].strip()
+        topic_name = course['topic_name'][0].strip()
 
         if subjects.has_key(subject_name):
             subjects[subject_name].append(topic_name)
@@ -67,16 +67,16 @@ def distribute_with_topics(data_path,json_path):
             topics[topic_name] = (topics[topic_name] + 1) % 5
     json_file.close()
 
-    subjects_file = open('../output/udemy_subjects.json','w')
+    subjects_file = open('../output/classcentral_subjects.json','w')
     output_subjects = json.dumps(subjects,ensure_ascii=False,indent=4)
     subjects_file.write(output_subjects.encode("utf-8"))
     subjects_file.close()
 
 if __name__ == '__main__':
     # dir_path = "data/classcentral_topics"
-    dir_path = "../data/datasets/udemy_topics"
+    dir_path = "../data/datasets/classcentral_topics"
     # json_path = "data/udemy_courses.json"
-    json_path = "../data/raw_courses/udemy_courses.json"
+    json_path = "../data/raw_courses/classcentral_courses_test.json"
 
     distribute_with_topics(dir_path,json_path)
 

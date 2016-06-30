@@ -1,0 +1,82 @@
+{
+    Business & Management: [
+        Finance 
+        Marketing 
+        Entrepreneurship 
+        Management & Leadership 
+        Business Analytics and Intelligence 
+        Strategic Management 
+        Industry Specific
+    ] 
+    Health & Medicine: [
+        Disease & Disorders 
+        Public & Global Health 
+        Nutrition & Wellness
+    ] 
+    Humanities: [
+        Literature 
+        Grammar & Writing 
+        Philosophy 
+        Language & Culture 
+        Religion 
+        History
+    ] 
+    Science: [
+        Biology 
+        Astronomy 
+        Physics 
+        Chemistry 
+        Environmental Science
+    ] 
+    Programming: [
+        Mobile Development 
+        Web Development 
+        Databases
+    ] 
+    Art & Design: [
+        Design & Creativity 
+        Digital Media & Video Games 
+        Film & Theatre 
+        Music 
+        Visual Arts
+    ] 
+    Engineering: [
+        Electrical Engineering 
+        Civil & Environmental Engineering
+    ] 
+    Computer Science: [
+        Data Science and Big Data 
+        Information Technology 
+        Bioinformatics 
+        Internet of Things 
+        Artificial Intelligence 
+        Theoretical Computer Science
+    ] 
+    Mathematics: [
+        Calculus & Mathematical Analysis 
+        Foundations of Mathematics 
+        Algebra & Geometry 
+        Statistics & Probability
+    ] 
+    Education & Teaching: [
+        K12 
+        Higher Education 
+        Course Development 
+        Online Education 
+        Test Prep 
+        STEM 
+        Teacher Development
+    ] 
+    Social Sciences: [
+        Anthropology 
+        Law 
+        Sociology 
+        Psychology 
+        Economics
+    ] 
+    Personal Development: [
+        Self Improvement 
+        Communication Skills 
+        Career Development
+    ]
+}
