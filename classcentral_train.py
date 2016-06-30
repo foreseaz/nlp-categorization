@@ -15,7 +15,6 @@ from sklearn.grid_search import GridSearchCV
 
 from nltk.tokenize import RegexpTokenizer
 from nltk.tag import pos_tag
-
 # load train set
 cc_train = datasets.load_files("data/tran_set")
 print "Training courses count:",len(cc_train.data)
