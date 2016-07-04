@@ -13,7 +13,7 @@
     ], 
     "commitment": "8-20 hours/week", 
     "subject_name": [
-      "data-science"
+      "Computer Science"
     ], 
     "course_url": "https://en.coursera.org/course/ntumlone", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/3f/b6d4d0352b11e494bcf927fb09cbc9/logo.png", 
@@ -39,7 +39,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "social-sciences"
+      "Social Science"
     ], 
     "course_url": "https://en.coursera.org/learn/contrats", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b6/62d7606fcc11e492bd11df8fa762ee/SignatureContrat-web.jpg", 
@@ -65,7 +65,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/wharton-proyecto-final-empresariales", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b3/8442d0da7011e5aa3f239013f9115f/capstone_foundation2.png", 
@@ -91,7 +91,7 @@
     ], 
     "commitment": "4 weeks of study, 6-8 hours/week", 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/prresearch", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/9c/cfde20400911e58c43a1d415e5474d/CNM_Logo02.png", 
@@ -117,7 +117,7 @@
     ], 
     "commitment": "4-6 hours/week", 
     "subject_name": [
-      "life-sciences"
+      "Health and Medicine"
     ], 
     "course_url": "https://en.coursera.org/course/nutrition", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/36/3ff880352d11e4a4351b48ac74e750/large-icon.png", 
@@ -143,7 +143,7 @@
     ], 
     "commitment": "2-3 hours/week", 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/big-ideas", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6e/8fc4ea1a50845fe9505363ce2b8b18/bigidealogo-crop-final.jpg", 
@@ -169,7 +169,7 @@
     ], 
     "commitment": "4-8 hours/week", 
     "subject_name": [
-      "computer-science"
+      "Computer Science"
     ], 
     "course_url": "https://en.coursera.org/course/dsalgo", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/09/28f673583f2c4f13e0ec18205aacc7/sjjg_608x211_info.jpg", 
@@ -195,7 +195,7 @@
     ], 
     "commitment": "3 weeks of study, 1-3 hours/week", 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Engineering"
     ], 
     "course_url": "https://en.coursera.org/learn/power-electronics", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/dd/4ba310360b11e5861fe1a37c4eb3a1/Powerelectronics.jpg", 
@@ -221,7 +221,7 @@
     ], 
     "commitment": "3-4 hours/week", 
     "subject_name": [
-      "arts-and-humanities"
+      "Arts and Humanities"
     ], 
     "course_url": "https://en.coursera.org/learn/plato-dialogues", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/2e/abd27b5ded8b660d20c3ae79c1a4d5/courselogo.jpg", 
@@ -247,7 +247,7 @@
     ], 
     "commitment": "4 weeks of study, 1-2 hours/week", 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/finance-markets", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/7b/a44690db2311e5878d2b9949bd50d2/thumbnail_markets.jpg", 
@@ -273,7 +273,7 @@
     ], 
     "commitment": "6-8 hours/week", 
     "subject_name": [
-      "computer-science"
+      "Programming"
     ], 
     "course_url": "https://en.coursera.org/course/hetero", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/25/15e5b0352d11e48277ab05289070ba/large-icon.png", 
@@ -299,7 +299,7 @@
     ], 
     "commitment": "2-3 hours of lectures and assignments", 
     "subject_name": [
-      "social-sciences"
+      "Education and Teaching"
     ], 
     "course_url": "https://en.coursera.org/learn/teaching-elementary", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/67/a015121227b00698b5913922c83f30/success-from-start-3.jpg", 
@@ -325,7 +325,7 @@
     ], 
     "commitment": "2-4 hours/week", 
     "subject_name": [
-      "life-sciences"
+      "Health and Medicine"
     ], 
     "course_url": "https://en.coursera.org/course/socialepi", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/d1/356a4ab3519b9b7bab0f1bc9c9813b/Final-Social-Epidemiology-.jpg", 
@@ -351,7 +351,7 @@
     ], 
     "commitment": "6 weeks of study, 6-8 hours/week", 
     "subject_name": [
-      "computer-science"
+      "Programming"
     ], 
     "course_url": "https://en.coursera.org/learn/web-design-project", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6a/467160502d11e59e72391aa537f5c9/wd4e_capstone_1x1.png", 
@@ -377,7 +377,7 @@
     ], 
     "commitment": "5 weeks of study, 1-3 hours/week", 
     "subject_name": [
-      "social-sciences"
+      "Social Science"
     ], 
     "course_url": "https://en.coursera.org/learn/economic-growth-part-2", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f4/d44a90ad3a11e5a1295552b2c67443/Economic-Growth-_-Distributive-Justice.jpg", 
@@ -403,7 +403,7 @@
     ], 
     "commitment": "2-4 hours/week", 
     "subject_name": [
-      "social-sciences"
+      "Social Science"
     ], 
     "course_url": "https://en.coursera.org/course/deafness", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a9/1b80e01c0e11e5b1f98961e6e14f32/deafnesslogo.jpg", 
@@ -429,7 +429,7 @@
     ], 
     "commitment": "4-6 hours/week", 
     "subject_name": [
-      "life-sciences"
+      "Health and Medicine"
     ], 
     "course_url": "https://en.coursera.org/course/ruralnursing", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/1c/11b790647211e4957235ddd5a9e6f1/RuralHealthIconImage.jpg", 
@@ -455,7 +455,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Engineering"
     ], 
     "course_url": "https://en.coursera.org/learn/controle", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a7/9c2770d42711e5887797ab42779797/Controle00.png", 
@@ -482,7 +482,7 @@
     ], 
     "commitment": "8-10 hours/week", 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Engineering"
     ], 
     "course_url": "https://en.coursera.org/course/audio", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/b7/301e00352a11e4b05ae9c2725d6852/figure.png", 
@@ -508,7 +508,7 @@
     ], 
     "commitment": "10-15 hours/week", 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/course/assetpricing2", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/94/d7f8d0547b11e4ad446746a380ddb9/Dark-Blue.jpg", 
@@ -534,7 +534,7 @@
     ], 
     "commitment": "5-7 hours/week", 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Physical Science"
     ], 
     "course_url": "https://en.coursera.org/course/introtolca", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/0b/2816c0352b11e49acdcfd9c2fca6c5/tree-logo-600x340.png", 
@@ -560,7 +560,7 @@
     ], 
     "commitment": "2-4 hours/week", 
     "subject_name": [
-      "computer-science"
+      "Programming"
     ], 
     "course_url": "https://en.coursera.org/learn/python-data", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/44/2959b0502911e5851f058ad6ebf936/pythondata_thumbnail_1x1.png", 
@@ -586,7 +586,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "computer-science"
+      "Programming"
     ], 
     "course_url": "https://en.coursera.org/learn/progfun1", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/progfun/large-icon.png", 
@@ -612,7 +612,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "arts-and-humanities"
+      "Arts and Humanities"
     ], 
     "course_url": "https://en.coursera.org/learn/political-philosophy-2", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6f/bce030b8d911e38725b565d9244244/Screen-Shot-2014-03-31-at-2.12.03-PM.png", 
@@ -638,7 +638,7 @@
     ], 
     "commitment": "4 weeks, 2-3 hours/week", 
     "subject_name": [
-      "computer-science"
+      "Programming"
     ], 
     "course_url": "https://en.coursera.org/learn/user-research", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/84/1ae16054b711e4b8d11fd5690613d3/hci-large-icon.png", 
@@ -664,7 +664,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "data-science"
+      "Computer Science"
     ], 
     "course_url": "https://en.coursera.org/learn/machine-learning", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/ml/large-icon.png", 
@@ -690,7 +690,7 @@
     ], 
     "commitment": "4-6 hours/week", 
     "subject_name": [
-      "life-sciences"
+      "Health and Medicine"
     ], 
     "course_url": "https://en.coursera.org/course/interprofessional", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/35/299160352b11e49acdcfd9c2fca6c5/IPECourseLogo.png", 
@@ -716,7 +716,7 @@
     ], 
     "commitment": "4 weeks of study, 2-3 hours/week", 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Engineering"
     ], 
     "course_url": "https://en.coursera.org/learn/current-control", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/76/75c0d0b55e11e5b03987a588a03bb0/MIC.jpg", 
@@ -742,7 +742,7 @@
     ], 
     "commitment": "4 weeks of study, 1 hour/week", 
     "subject_name": [
-      "computer-science"
+      "Computer Science"
     ], 
     "course_url": "https://en.coursera.org/learn/internet-of-things-communication", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/2f/948d904d0811e5a1a25fa584277f48/internet-of-things.jpg", 
@@ -768,7 +768,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "social-sciences"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/makrojekonomika", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6a/a7f4946004bdf4a99193647b5061ff/macroeconomics-_3_.jpg", 
@@ -794,7 +794,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "computer-science"
+      "Computer Science"
     ], 
     "course_url": "https://en.coursera.org/learn/build-a-computer", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/32/3b06a1907511e4be1ac3cb2875740d/COURSE_IMAGE.png", 
@@ -820,7 +820,7 @@
     ], 
     "commitment": "6-9 hours/week", 
     "subject_name": [
-      "computer-science"
+      "Programming"
     ], 
     "course_url": "https://en.coursera.org/course/geoint", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/68/02a0c0ea9b11e38540e7223e5f7dc3/geoint_logo10a.jpg", 
@@ -846,7 +846,7 @@
     ], 
     "commitment": "8-10 hours/week", 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Physical Science"
     ], 
     "course_url": "https://en.coursera.org/course/earth", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/18/eccc90352d11e485fc9138b3373442/large-icon.png", 
@@ -872,7 +872,7 @@
     ], 
     "commitment": "4-10 hours/week", 
     "subject_name": [
-      "computer-science"
+      "Programming"
     ], 
     "course_url": "https://en.coursera.org/course/spatialcomputing", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/dc/467b70352b11e48e9c2583f964c285/spatialcomputing_logo_4.png", 
@@ -898,7 +898,7 @@
     ], 
     "commitment": "1-2 hours/week", 
     "subject_name": [
-      "social-sciences"
+      "Social Science"
     ], 
     "course_url": "https://en.coursera.org/learn/undp-cso", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f2/7330b091bd11e597177731f0b398bd/Picture4.png", 
@@ -924,7 +924,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/valuation", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b1/64cfc0efc411e4b3debfea5dbc25d9/BNY_Course_4_Hero_Imgae_2015.jpg", 
@@ -950,7 +950,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "computer-science"
+      "Programming"
     ], 
     "course_url": "https://en.coursera.org/learn/parprog1", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/95/ec59e0d9b911e595dfe9e95f32b969/picture800.jpg", 
@@ -976,7 +976,7 @@
     ], 
     "commitment": "3-5 hours/week", 
     "subject_name": [
-      "social-sciences"
+      "Social Science"
     ], 
     "course_url": "https://en.coursera.org/course/techethics", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/1a/e29e90352c11e4a1481570b8fd189d/TechEthics-logo.png", 
@@ -1002,7 +1002,7 @@
     ], 
     "commitment": "4-8 hours of videos, readings, and quizzes", 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/upravlinnya-chasom", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ee/5c8f8049b111e4bc80b986c176101c/Time-Mangagement-Course-2.jpg", 
@@ -1028,7 +1028,7 @@
     ], 
     "commitment": "2-4 hours/week", 
     "subject_name": [
-      "life-sciences"
+      "Health and Medicine"
     ], 
     "course_url": "https://en.coursera.org/course/feedingtheworld", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/be/c8ae402c8a11e583dc731d64922d2c/feeding-the-world-icon-FINAL-RESIZED-V4.jpg", 
@@ -1054,7 +1054,7 @@
     ], 
     "commitment": "6-8 hours/week", 
     "subject_name": [
-      "life-sciences"
+      "Biology and Life Science"
     ], 
     "course_url": "https://en.coursera.org/learn/experimental-methods", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/60/01cbf07d6b11e396d72d067a587519/Experimental_methods_logo.png", 
@@ -1080,7 +1080,7 @@
     ], 
     "commitment": "4-6 hours/week", 
     "subject_name": [
-      "computer-science"
+      "Programming"
     ], 
     "course_url": "https://en.coursera.org/course/uidesign2", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/3c/911020f35f11e4808cdb0b619eb918/Introduction-to-User-Interface-Design-part-two-Icon600x340.jpg", 
@@ -1106,7 +1106,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "computer-science"
+      "Programming"
     ], 
     "course_url": "https://en.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bc/57b9d00aab11e693a0c3c33308cc34/tdd800x800.png", 
@@ -1132,7 +1132,7 @@
     ], 
     "commitment": "5 weeks of study, 2-3 hours/week", 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Physical Science"
     ], 
     "course_url": "https://en.coursera.org/learn/material-informatics", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c2/cd27a034c711e6a4780919edd2fc21/MaterialsDataScienceInformatics.jpg", 
@@ -1158,7 +1158,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "life-sciences"
+      "Health and Medicine"
     ], 
     "course_url": "https://en.coursera.org/learn/infertilite", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c4/50cfd0839e11e5b277772aa5255765/bubble-2.png", 
@@ -1184,7 +1184,7 @@
     ], 
     "commitment": "4 weeks of study, 2-3 hours/week", 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/investment-management", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/7d/af9a80b9f311e596ddffa17da4aea1/06_1_mooc_1200x1200.jpg", 
@@ -1210,7 +1210,7 @@
     ], 
     "commitment": "4-6 hours/week", 
     "subject_name": [
-      "social-sciences"
+      "Education and Teaching"
     ], 
     "course_url": "https://en.coursera.org/learn/shehu-yanjiu-fangfa", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/9c/0da1701ef411e490eb8f929657e503/Msocial.jpg", 
@@ -1236,7 +1236,7 @@
     ], 
     "commitment": "6-8 hours/week", 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Physical Science"
     ], 
     "course_url": "https://en.coursera.org/course/techcity", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/27/affaf1a8cbc3f53468766a99acd35b/RealTimeCity.jpg", 
@@ -1262,7 +1262,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/seo-capstone", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/69/c7af80b57a11e58fb4bb0716c77508/ThinkstockPhotos-465431152.jpg", 
@@ -1289,7 +1289,7 @@
     ], 
     "commitment": "6 weeks of study, 1-3 hours/week", 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/people-management", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e9/a802a0f66511e59d3853951d95b421/shutterstock_188617211.jpg", 
@@ -1315,7 +1315,7 @@
     ], 
     "commitment": "22 hours of videos and assessments", 
     "subject_name": [
-      "life-sciences"
+      "Biology and Life Science"
     ], 
     "course_url": "https://en.coursera.org/learn/physiology", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/humanphysio/large-icon.png", 
@@ -1341,7 +1341,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/subsistence-marketplaces", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/67/4b5a30f67b11e584af95896785397c/Madhu_coursera_thumbnail_v2.jpg", 
@@ -1367,7 +1367,7 @@
     ], 
     "commitment": "6-8 hours/week", 
     "subject_name": [
-      "social-sciences"
+      "Social Science"
     ], 
     "course_url": "https://en.coursera.org/course/aboriginaled", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/03/34f440352d11e48170130ca7e70d6d/large-icon.png", 
@@ -1393,7 +1393,7 @@
     ], 
     "commitment": "4-8 hours of videos, readings, and quizzes", 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/fundamentals-of-management", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/1c/c7548049ae11e49dd763187f3b4abc/Fundamentals-of-Management-Course.jpg", 
@@ -1419,7 +1419,7 @@
     ], 
     "commitment": "4 周课程, 1-3 小时/周", 
     "subject_name": [
-      "personal-development"
+      "Education and Teaching"
     ], 
     "course_url": "https://en.coursera.org/learn/chuangxin-siwei", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/5d/3b0540b87d11e5b7f4377491ebab0b/____.jpg", 
@@ -1445,7 +1445,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "language-learning"
+      "Education and Teaching"
     ], 
     "course_url": "https://en.coursera.org/learn/ingles-empresarial-gestion-liderazgo", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8b/4446d061e911e5ac2f81e29d413c5a/Teamwork.jpg", 
@@ -1471,7 +1471,7 @@
     ], 
     "commitment": "5-6 hours/week", 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Physical Science"
     ], 
     "course_url": "https://en.coursera.org/course/ntuem", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a8/abba302cef11e4a2c70bcfab45cc52/140825-___-01.jpg", 
@@ -1497,7 +1497,7 @@
     ], 
     "commitment": "45 hours of videos, quizzes and peer reviews", 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Physical Science"
     ], 
     "course_url": "https://en.coursera.org/learn/future-of-energy", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8f/71df508df711e39a1703b1fb48e006/home-page-image.png", 
@@ -1523,7 +1523,7 @@
     ], 
     "commitment": "4 weeks of study, 2-3 hours/week", 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Physical Science"
     ], 
     "course_url": "https://en.coursera.org/learn/gis-data", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/cd/0592f0b32311e5835f974a8abbc8f3/DesktopGIS_Alternate_3.png", 
@@ -1549,7 +1549,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "computer-science"
+      "Programming"
     ], 
     "course_url": "https://en.coursera.org/learn/matlab", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e1/bd0fa0c1db11e4877b0395f6fe543f/FinalLogo.png", 
@@ -1575,7 +1575,7 @@
     ], 
     "commitment": "4 weeks of study, 2-3 hours/week", 
     "subject_name": [
-      "life-sciences"
+      "Health and Medicine"
     ], 
     "course_url": "https://en.coursera.org/learn/systems-science-obesity", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f0/fe3fe0056c11e68d36cbf864a9897a/SysSciObesitySq.png", 
@@ -1601,7 +1601,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/advanced-seo-strategies", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/80/e26e00b31b11e5b2292d525c6d4366/Course-4--486797950.jpg", 
@@ -1627,7 +1627,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "data-science"
+      "Computer Science"
     ], 
     "course_url": "https://en.coursera.org/learn/data-analysis-tools", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/79/bac65036f111e5af19a540c5c3116f/big-dataY.png", 
@@ -1653,7 +1653,7 @@
     ], 
     "commitment": "9 недель исследования, 1-2 часов / неделю", 
     "subject_name": [
-      "social-sciences"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/sotsialnaya-set", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d7/046af0560e11e5adde798ff4740020/___3.png", 
@@ -1679,7 +1679,7 @@
     ], 
     "commitment": "10-20 hours/week", 
     "subject_name": [
-      "data-science"
+      "Mathematics"
     ], 
     "course_url": "https://en.coursera.org/course/optimization", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/35/33ae10352c11e49d32519928fb33e3/DiscreetOptimisation_logo.png", 
@@ -1705,7 +1705,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/zhichang-suyang", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a5/c7abc0186411e49569bd8fae65d268/600x340.jpg", 
@@ -1731,7 +1731,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Engineering"
     ], 
     "course_url": "https://en.coursera.org/learn/mechanics-of-materials-1", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/87/25ae60971111e590b26f18b4aa42ec/__logo.jpg", 
@@ -1758,7 +1758,7 @@
     ], 
     "commitment": "4-6 hours/week", 
     "subject_name": [
-      "social-sciences"
+      "Social Science"
     ], 
     "course_url": "https://en.coursera.org/course/configuringworld", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/ca/1e8b30352c11e49a597321ba86b5f4/ConfWorldLogo.png", 
@@ -1784,7 +1784,7 @@
     ], 
     "commitment": "2-4 hours/week", 
     "subject_name": [
-      "social-sciences"
+      "Education and Teaching"
     ], 
     "course_url": "https://en.coursera.org/course/ccss-math1", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/bd/5fb8ed244974860205389315c4bbbc/mathteacher-student-whiteboard.jpg", 
@@ -1810,7 +1810,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Engineering"
     ], 
     "course_url": "https://en.coursera.org/learn/2d-cad", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/00/a5a050b00f11e4a169f7e38b70cf48/20150130-1-03.png", 
@@ -1836,7 +1836,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "life-sciences"
+      "Biology and Life Science"
     ], 
     "course_url": "https://en.coursera.org/learn/molecular-evolution", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/47/f97450faea11e5af464fd254543a88/evolution_cropped.jpg", 
@@ -1862,7 +1862,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/presentation-skills", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/84/359f20267311e69594e35d2e0b5815/specialization-logo.jpg", 
@@ -1888,7 +1888,7 @@
     ], 
     "commitment": "5.5 hours of videos and quizzes", 
     "subject_name": [
-      "life-sciences"
+      "Health and Medicine"
     ], 
     "course_url": "https://en.coursera.org/learn/epidemiology", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/91/eb6fa07bd62fd195025eded9cd998b/epid-mooc.jpg", 
@@ -1914,7 +1914,7 @@
     ], 
     "commitment": "5 weeks, 4-5 hours/week", 
     "subject_name": [
-      "social-sciences"
+      "Education and Teaching"
     ], 
     "course_url": "https://en.coursera.org/learn/e-learning", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a2/db03a085b311e497ce97d2a2e18640/Mastering-American-eLearning-WB.jpg", 
@@ -1940,7 +1940,7 @@
     ], 
     "commitment": "4 weeks, 3 -5 hours per week", 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/learn/accounting-analytics", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/82/f043f04cd411e5aad6dd6dd2e8b945/coursera_accounting_analytics_8x8.png", 
@@ -1966,7 +1966,7 @@
     ], 
     "commitment": "12-18 hours videos and labs", 
     "subject_name": [
-      "life-sciences"
+      "Biology and Life Science"
     ], 
     "course_url": "https://en.coursera.org/learn/bioinformatics-methods-1", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/32/11e2f53c30ecf81555fbb3a928658e/Thumbnail2.png", 
@@ -1992,7 +1992,7 @@
     ], 
     "commitment": "2-3 hours/week", 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Physical Science"
     ], 
     "course_url": "https://en.coursera.org/course/extrasolarplanets", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/eb/8419ebf39f0f674254f4d23a54d5f2/exoplanet07.jpg", 
@@ -2018,7 +2018,7 @@
     ], 
     "commitment": "3-6 hours/week", 
     "subject_name": [
-      "business"
+      "Business and Management"
     ], 
     "course_url": "https://en.coursera.org/course/career", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a1/2bddf0352b11e485649b7db944a974/Employability-MOOC-logo.png", 
@@ -2044,7 +2044,7 @@
     ], 
     "commitment": "5-6 hours/week", 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Physical Science"
     ], 
     "course_url": "https://en.coursera.org/course/waterandenvironment", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/c9/befb80352b11e4ae1bdd88b9e8f59b/Course_Image.png", 
@@ -2070,7 +2070,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Physical Science"
     ], 
     "course_url": "https://en.coursera.org/learn/evolvinguniverse", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c9/2238c0bb9211e4b43859e37616f9c4/desktop.jpeg", 
@@ -2096,7 +2096,7 @@
     ], 
     "commitment": "3-5 hours/week", 
     "subject_name": [
-      "life-sciences"
+      "Health and Medicine"
     ], 
     "course_url": "https://en.coursera.org/learn/vital-signs", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/55/8d2e309e6811e3bf47177a6a987fca/Vital-Signs-1.png", 
@@ -2122,7 +2122,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "data-science"
+      "Computer Science"
     ], 
     "course_url": "https://en.coursera.org/learn/ml-capstone", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bd/79e8104d0011e592b8a9c1c44cb3fe/gears-818461_1280.jpg", 
@@ -2148,7 +2148,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "data-science"
+      "Computer Science"
     ], 
     "course_url": "https://en.coursera.org/learn/missing-data", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/dd/8e0e60f75a11e5a5175d8aed3cf3b0/AdobeStock_83781931.jpg", 
@@ -2174,7 +2174,7 @@
     ], 
     "commitment": "5 weeks of study, 1-2 hours/week", 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Physical Science"
     ], 
     "course_url": "https://en.coursera.org/learn/solid-waste-management", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b7/fc7bf062b811e5b931053ae1fc052b/_MOOC-LOGO-Waste-management-2560x1440px-150dpi2.jpg", 
@@ -2200,7 +2200,7 @@
     ], 
     "commitment": "4-8 hours/week", 
     "subject_name": [
-      "computer-science"
+      "Programming"
     ], 
     "course_url": "https://en.coursera.org/learn/gamification", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/gamification/large-icon.png", 
@@ -2226,7 +2226,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "social-sciences"
+      "Social Science"
     ], 
     "course_url": "https://en.coursera.org/learn/climate-science", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/67/c10500070611e6941927c8e059fa72/mam.jpg", 
@@ -2252,7 +2252,7 @@
     ], 
     "commitment": "5 weeks of study, 5 hours/week", 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Physical Science"
     ], 
     "course_url": "https://en.coursera.org/learn/gte-sustainable-cities", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/af/4d5250783811e5bf51f3ab065cecfd/city-mooc-logo-gamla-stan.png", 
@@ -2278,7 +2278,7 @@
     ], 
     "commitment": null, 
     "subject_name": [
-      "social-sciences"
+      "Education and Teaching"
     ], 
     "course_url": "https://en.coursera.org/learn/learntomod", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/3d/0dd230826211e588b0fbf8b2fdb686/LearnToMod-ForEducators.jpg", 
@@ -2304,7 +2304,7 @@
     ], 
     "commitment": "20-25 hours/week", 
     "subject_name": [
-      "data-science"
+      "Computer Science"
     ], 
     "course_url": "https://en.coursera.org/course/bigdataschool", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/b7/47a830352b11e4a4351b48ac74e750/coursera_logo.png", 
@@ -2330,7 +2330,7 @@
     ], 
     "commitment": "5-10 hours/week", 
     "subject_name": [
-      "computer-science"
+      "Programming"
     ], 
     "course_url": "https://en.coursera.org/course/digitalmedia", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/24/63a093e763b307dc9420e796aeb06a/GoldComputing3.jpg", 
@@ -2356,7 +2356,7 @@
     ], 
     "commitment": "5-7 hours/week", 
     "subject_name": [
-      "physical-science-and-engineering"
+      "Physical Science"
     ], 
     "course_url": "https://en.coursera.org/learn/origins-universe-solarsystem", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/45/5637fba9fcd5f219a84c7c346096d2/origins.jpg", 
