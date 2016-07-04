@@ -5,12 +5,12 @@ import os
 import re
 import shutil
 
-def distribute_with_topics(data_path,json_path):
-    train_path = data_path + "_train"
-    test_path = data_path + "_test"
 
-    subjects = {}
-    topics = {}
+keep_topics_path = "../data/provider_topics/keep_topics.json"
+
+def mk_dirs(root_path):
+    train_path = root_path + "/train"
+    test_path = root_path + "/test"
 
     if os.path.exists(train_path):
         shutil.rmtree(train_path)
@@ -20,10 +20,22 @@ def distribute_with_topics(data_path,json_path):
         shutil.rmtree(test_path)
     os.makedirs(test_path)
 
-    print json_path
+    keep_topics_file = open(keep_topics_path,'r')
+    keep_topics = json.loads(keep_topics_file.read())
+    for subject_index in keep_topics.keys():
+        for topic_index in keep_topics[subject_index]['topics']:
+            topic_name = keep_topics[subject_index]['topics'][topic_index]
+            os.mkdir(train_path + "/" + topic_name)
+            os.mkdir(test_path + "/" + topic_name)
+
+    keep_topics_file.close()
+
+
+def distribute_with_topics(data_path,json_path,train_slices,total_slices):
+    subjects = {}
+    topics = {}
+
     json_file = open(json_path)
-    # print json_file.read()[:6000]
-    # print json_file.read()
     courses = json.loads(json_file.read())
 
     for course in courses:
@@ -47,8 +59,7 @@ def distribute_with_topics(data_path,json_path):
         topic_status = topics.get(topic_name)
         if topic_status == None:
             topics[topic_name] = 0
-            os.mkdir(train_path + "/" + topic_name)
-            os.mkdir(test_path + "/" + topic_name)
+
             topic_status = 0
 
         if topic_status < 4:
@@ -73,11 +84,13 @@ def distribute_with_topics(data_path,json_path):
     subjects_file.close()
 
 if __name__ == '__main__':
-    # dir_path = "data/classcentral_topics"
-    dir_path = "../data/datasets/classcentral_topics"
-    # json_path = "data/udemy_courses.json"
-    json_path = "../data/raw_courses/classcentral_courses_test.json"
+    # make the datasets directories
+    dir_path = "../data/datasets/total"
+    # dir_path = "../data/datasets/en"
+    # dir_path = "../data/datasets/zh"
+    # dir_path = "../data/datasets/others"
+    mk_dirs(dir_path)
 
-    distribute_with_topics(dir_path,json_path)
+
 
     print "done!"

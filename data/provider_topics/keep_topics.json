@@ -15,10 +15,10 @@
   }, 
   "1": {
     "topics": {
-      "0": "Calculus & Mathematical Analysis", 
+      "0": "Calculus and Mathematical Analysis", 
       "1": "Foundations of Mathematics", 
-      "2": "Algebra & Geometry", 
-      "3": "Statistics & Probability", 
+      "2": "Algebra and Geometry", 
+      "3": "Statistics and Probability", 
       "4": "Logics"
     }, 
     "subject_name": "Mathematics"
@@ -36,7 +36,7 @@
       "0": "Environmental Science and Sustainability", 
       "1": "Physics and Astronomy", 
       "2": "Research Methods", 
-      "3": "Energy & Earth Sciences", 
+      "3": "Energy and Earth Sciences", 
       "4": "Chemistry"
     }, 
     "subject_name": "Physical Science"
@@ -79,7 +79,7 @@
       "1": "Electrical Engineering", 
       "2": "Mechanical Engineering", 
       "3": "Civil and Environmental Engineering", 
-      "4": "Materials Science & Engineering"
+      "4": "Materials Science and Engineering"
     }, 
     "subject_name": "Engineering"
   }, 
@@ -92,7 +92,7 @@
       "4": "Information Technology", 
       "5": "Databases ", 
       "6": "Software Engineering and Testing", 
-      "7": "Hardware & Operating System"
+      "7": "Hardware and Operating System"
     }, 
     "subject_name": "Computer Science"
   }, 
