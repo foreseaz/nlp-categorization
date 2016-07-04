@@ -93,16 +93,16 @@ if __name__ == '__main__':
     #             '../output/unmap_courses/unmap_classcentral.json')
 
     # mapping udemy
-    # print "mapping udemy ==>",
-    # map_courses('../data/raw_courses/udemy_courses.json',
-    #             '../data/topic_mapping/udemy2keep.json',
-    #             '../output/classified_courses/map_udemy.json',
-    #             '../output/unmap_courses/unmap_udemy.json')
+    print "mapping udemy ==>",
+    map_courses('../data/raw_courses/udemy_courses.json',
+                '../data/topic_mapping/udemy2keep.json',
+                '../output/classified_courses/map_udemy.json',
+                '../output/unmap_courses/unmap_udemy.json')
 
     # mapping coursera
-    print "mapping coursera ==>",
-    map_courses('../data/raw_courses/coursera_courses.json',
-                '../data/topic_mapping/coursera2keep.json',
-                '../output/classified_courses/map_coursera.json',
-                '../output/unmap_courses/unmap_coursera.json')
+    # print "mapping coursera ==>",
+    # map_courses('../data/raw_courses/coursera_courses.json',
+    #             '../data/topic_mapping/coursera2keep.json',
+    #             '../output/classified_courses/map_coursera.json',
+    #             '../output/unmap_courses/unmap_coursera.json')
     print 'done!'
