@@ -86,11 +86,11 @@
   "8": {
     "topics": {
       "0": "Theoretical Computer Science and Algorithms", 
-      "1": "Networks and Computer Security ", 
+      "1": "Networks and Computer Security",
       "2": "Artificial Intelligence", 
       "3": "Data Science and Analysis", 
       "4": "Information Technology", 
-      "5": "Databases ", 
+      "5": "Databases",
       "6": "Software Engineering and Testing", 
       "7": "Hardware and Operating System"
     }, 

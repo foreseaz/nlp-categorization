@@ -65,8 +65,8 @@ def map_courses(raw_path,mapper_path,output_path,unmap_path):
                 sub_index = mapper[topic_name].split("-")[0].encode('utf-8')
                 top_index = mapper[topic_name].split("-")[1].encode('utf-8')
                 # print topic_name,sub_index,top_index
-                map_subject = keep_topics[sub_index]['subject_name']
-                map_topic = keep_topics[sub_index]['topics'][top_index]
+                map_subject = keep_topics[sub_index]['subject_name'].strip()
+                map_topic = keep_topics[sub_index]['topics'][top_index].strip()
                 course['topic_name'] = [map_topic]
                 course['subject_name'] = [map_subject]
                 map_courses.append(course)
@@ -89,22 +89,22 @@ def map_courses(raw_path,mapper_path,output_path,unmap_path):
 if __name__ == '__main__':
     # mapping classcentral
     print "mapping classcentral ==>",
-    map_courses('../data/raw_courses/classcentral_courses.json',
+    map_courses('../data/raw_courses/en/classcentral_courses.json',
                 '../data/topic_mapping/classcentral2keep.json',
-                '../output/classified_courses/map_classcentral.json',
-                '../output/unmap_courses/unmap_classcentral.json')
+                '../output/classified_courses/en/map_classcentral.json',
+                '../output/unmap_courses/en/unmap_classcentral.json')
 
     # mapping udemy
     print "mapping udemy ==>",
-    map_courses('../data/raw_courses/udemy_courses.json',
+    map_courses('../data/raw_courses/en/udemy_courses.json',
                 '../data/topic_mapping/udemy2keep.json',
-                '../output/classified_courses/map_udemy.json',
-                '../output/unmap_courses/unmap_udemy.json')
+                '../output/classified_courses/en/map_udemy.json',
+                '../output/unmap_courses/en/unmap_udemy.json')
 
     # mapping coursera
     print "mapping coursera ==>",
-    map_courses('../data/raw_courses/coursera_courses.json',
+    map_courses('../data/raw_courses/en/coursera_courses.json',
                 '../data/topic_mapping/coursera2keep.json',
-                '../output/classified_courses/map_coursera.json',
-                '../output/unmap_courses/unmap_coursera.json')
+                '../output/classified_courses/en/map_coursera.json',
+                '../output/unmap_courses/en/unmap_coursera.json')
     print 'done!'
