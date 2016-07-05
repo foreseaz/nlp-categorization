@@ -6,7 +6,6 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 # ignore data sets
-/data/datasets/tran_set/*
 /data/datasets/*
 
 # ignore the model files
