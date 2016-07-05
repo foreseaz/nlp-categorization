@@ -86,15 +86,18 @@ if __name__ == '__main__':
     # dir_path = "../data/datasets/en"
     # dir_path = "../data/datasets/zh"
     # dir_path = "../data/datasets/others"
+
+
+    ##### make datasets for staging #####
     dir_path = "../data/datasets/en"
     mk_dirs(dir_path)
     print "#### class central"
-    inject_into_datasets(dir_path,"../output/classified_courses/en/map_classcentral.json",4,5,"classcentral")
+    inject_into_datasets(dir_path,"../output/classified_courses/en/map_classcentral.json",5,5,"classcentral")
     print "#### udemy"
-    inject_into_datasets(dir_path, "../output/classified_courses/en/map_udemy.json", 4, 5,"udemy")
+    inject_into_datasets(dir_path, "../output/classified_courses/en/map_udemy.json", 5, 5,"udemy")
     print "#### coursera"
-    inject_into_datasets(dir_path, "../output/classified_courses/en/map_coursera.json", 3, 5,"coursera")
-    print "Count train set:"
+    inject_into_datasets(dir_path, "../output/classified_courses/en/map_coursera.json", 5, 5,"coursera")
+    # print "Count train set:"
     # topic_dirs = trainset_count(dir_path)
     # for topic in topic_dirs.keys():
     #     if topic_dirs[topic] < 100:

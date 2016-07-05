@@ -25,7 +25,7 @@ DISPLAY that is being used.
       Set up the your .rhosts file in the home directory on the remote
   machine so that a password in not required to remotly execute commands.
 
-         xauth extract - $DISPLAY | rsh other xauth merge -
+         xauth extract - $DISPLAY | rsh others xauth merge -
 
   This method is also used by xrsh to pass authorization. My vampire
   program also uses a variation, however I wrap it as part of the remote
@@ -90,7 +90,7 @@ DISPLAY that is being used.
      Write it to a file on a shared NFS partition you have access to.
    Note that if the home directories are NFS mounted, then authorization
    is automatically passed, Hoever you will still have to pass your
-   DISPLAY environment variable via a file or other means. IE:
+   DISPLAY environment variable via a file or others means. IE:
 
       login host:       echo $DISPLAY > ~/.X11host
       remote host:      setenv DISPLAY `cat ~/.X11host`

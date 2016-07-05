@@ -89,22 +89,22 @@ def map_courses(raw_path,mapper_path,output_path,unmap_path):
 if __name__ == '__main__':
     # mapping classcentral
     print "mapping classcentral ==>",
-    map_courses('../data/raw_courses/en/classcentral_courses.json',
+    map_courses('../data/raw_courses/others/classcentral_courses.json',
                 '../data/topic_mapping/classcentral2keep.json',
-                '../output/classified_courses/en/map_classcentral.json',
-                '../output/unmap_courses/en/unmap_classcentral.json')
+                '../output/classified_courses/others/map_classcentral.json',
+                '../output/unmap_courses/others/unmap_classcentral.json')
 
     # mapping udemy
     print "mapping udemy ==>",
-    map_courses('../data/raw_courses/en/udemy_courses.json',
+    map_courses('../data/raw_courses/others/udemy_courses.json',
                 '../data/topic_mapping/udemy2keep.json',
-                '../output/classified_courses/en/map_udemy.json',
-                '../output/unmap_courses/en/unmap_udemy.json')
+                '../output/classified_courses/others/map_udemy.json',
+                '../output/unmap_courses/others/unmap_udemy.json')
 
     # mapping coursera
     print "mapping coursera ==>",
-    map_courses('../data/raw_courses/en/coursera_courses.json',
+    map_courses('../data/raw_courses/others/coursera_courses.json',
                 '../data/topic_mapping/coursera2keep.json',
-                '../output/classified_courses/en/map_coursera.json',
-                '../output/unmap_courses/en/unmap_coursera.json')
+                '../output/classified_courses/others/map_coursera.json',
+                '../output/unmap_courses/others/unmap_coursera.json')
     print 'done!'
