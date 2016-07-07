@@ -109,5 +109,10 @@ def excute_mapping(language):
                 '../output/unmap_courses/'+language+'/unmap_coursera.json')
 
 if __name__ == '__main__':
+    print "mapping English courses..."
     excute_mapping('en')
+    print "mapping Chinese courses..."
+    excute_mapping('ch')
+    print "mapping Other courses..."
+    excute_mapping('others')
     print 'done!'

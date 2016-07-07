@@ -1,22 +1,25 @@
 [
   {
-    "instructors": "2499461", 
+    "selfpaced": false, 
+    "topic_name": [
+      "Theoretical Computer Science and Algorithms"
+    ], 
     "description": "“数据结构与算法”是计算机学科中的核心基础课程。课程的主要目标培养学生较全面地理解基本数据结构的概念和经典算法的思想及各种实现方法，掌握数据结构和算法的设计分析技术。根据所求解问题的性质选择合理的数据结构并对时间空间复杂性进行必要的控制，提高程序设计的质量。使得学生在将来的学习、研究和工作中，具备设计和实现高效的数据结构和算法的能力。 ", 
     "end_date": null, 
     "title": "数据结构与算法  Data Structures and Algorithms", 
     "price": 0, 
-    "topic_name": [
-      "Theoretical Computer Science and Algorithms"
-    ], 
+    "instructors": "2499461", 
     "institution_name": [
       "Peking University"
     ], 
     "commitment": "4-8 hours/week", 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/09/28f673583f2c4f13e0ec18205aacc7/sjjg_608x211_info.jpg", 
+    "course_url": "https://en.coursera.org/course/dsalgo", 
+    "currency": null, 
     "subject_name": [
       "Computer Science"
     ], 
-    "course_url": "https://en.coursera.org/course/dsalgo", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/09/28f673583f2c4f13e0ec18205aacc7/sjjg_608x211_info.jpg", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 
@@ -26,23 +29,26 @@
     "start_date": null
   }, 
   {
-    "instructors": "何建宇", 
+    "selfpaced": false, 
+    "topic_name": [
+      "Sociology"
+    ], 
     "description": "《NGO能力建设入门》由联合国开发计划署(UNDP)出品。课程以非营利组织的成长脉络为主线，从组织建立之初对自身定位、使命和治理方式的思考，运行之时对人力资源和资金的管理，到发展之际对外界的拓展和传播，探索非营利组织在管理和运作过程中涉及的核心理念和关键问题。每节的15分钟的课程凝结了数十位业内专家实践经验的精华和对创新方法的探索，力求以丰富的案例和精心提炼的“干货”，帮助非营利组织解决实际问题。\n\n本课程是联合国首部中文“慕课”《民间组织能力建设入门》的升级版。基于第一期学员的反馈，新版课程强化了课程的体系性和知识点背后的逻辑，在注重实践经验分享的同时，更强调思考方式的培养，以期帮助非营利组织更好地“举一反三”、学以致用。\n\n完成本课程四个章节的学习，您不仅将掌握每项主题的关键知识点，亦会了解到各位专家不同经验的共通之处，发现治理、人力资源管理、筹款等议题之间的彼此关联，学会更系统性地思考非营利组织的管理和运作。\n\n当然，很多问题并没有标准答案或固定模板，因此本课程将通过一系列线上及线下的课外活动，鼓励同学们在汲取讲师们传授的经验的同时，发挥自身和集体的智慧，互相分享、不断碰撞，一同发现问题并寻找解决方案。\n\n\n>>>>>>>>>>>>>>>>课程大纲<<<<<<<<<<<<<<<<\n\n\n第1章 从使命到治理\n\n1.1 非营利组织概述（赵华，彼得·德鲁克社会组织学习中心秘书长）\n1.2 非营利组织——使命优先 （赵华，彼得·德鲁克社会组织学习中心秘书长）\n1.3 使命与组织管理实践 （彭艳妮，南都公益基金会常务副秘书长）\n1.4 非营利组织治理：理事会的角色 (赵华，彼得·德鲁克社会组织学习中心秘书长)\n1.5 组织的治理结构 （贾西津，清华大学公共管理学院副教授）\n\n\n第2章 人力资源管理\n\n2.1 非营利组织人力资源管理概念及价值（翟雁，北京惠泽人公益发展中心主任）\n2.2 非营利组织人力资源管理基本原则及方法（翟雁，北京惠泽人公益发展中心主任）\n2.3 员工管理：战略人力资源管理案例 （零慧，友成企业家扶贫基金会常务副秘书长）\n2.4 志愿者管理：志愿者的招募与保留 （翟雁，北京惠泽人公益发展中心主任）\n\n\n第3章 筹款\n\n3.1 非营利组织的资源分布及其特点（肖蓉，赠与亚洲中国首席代表）\n3.2 筹款方视角：非营利组织的资源开发（王超，世界自然基金会首席运营官）\n3.3 捐赠方视角：筹款从找对捐赠方开始（霍庆川，敦和慈善基金会秘书长助理）\n3.4 传统的筹款工具与方法（肖蓉，赠与亚洲中国首席代表）\n3.5 如何利用互联网为公益筹款（贝晓超，前新浪微博社会责任总监）\n\n\n第4章 对外拓展\n\n4.1 向政府拓展：非营利组织的政府关系（徐家良，上海交通大学学第三部门研究中心执行主任）\n4.2 倡导的基本理论与方法 （郭婷，中国发展简报副主编）\n4.3 向公众拓展：非营利组织的公信力（徐家良，上海交通大学学第三部门研究中心执行主任）\n4.4 体验式公益活动与新媒体传播（陈红涛，中国扶贫基金会副秘书长）\n\n\n>>>>>>>>>>>>>>>>常见问题<<<<<<<<<<<<<<<<\n\n1. 怎样才能获得证书？\n\n本课程有两种证书供同学们选择：\n\n1) 由课程平台提供方Coursera颁发的付费认证证书（电子版）\n认证证书（Verified Certificate）是Coursera颁发的电子版证书，带有唯一认证编码。获得认证证书要求同学们每一次平时作业和考试的得分都分别超过80%，并需向Coursera支付$29美金的费用。您可以先免费注册课程，开始学习课程后再选择支付证书费用。更多关于Coursera的证书问题请浏览：https://www.coursera.org/certificate/undpcso 页面下方的常见问题解答。\n\n2) 由课程内容提供方UNDP颁发的免费结业证书（电子版）\n结业证书带有UNDP logo，用户姓名和课程名称，不带认证编码，不具有认证效力，主要目的是鼓励并纪念同学们顺利通过课程。获得结业证书只需要免费注册，不需要支付任何费用，完成课程并总成绩超过80%即可申请获得。\n\n请注意：本期课程不提供任何纸质证书。联合国开发计划署不在本课程的任何环节收取任何费用，且不对Coursera的收费政策负责。\n\n\n2. 课程的时间安排是怎样的？\n\n本期课程将从2015年12月21日起开放全部内容，持续六周时间，包括四章内容的学习和一次期末考试。每周的课后习题设有截止日期（通常是每周一章），建议同学们根据截止日期安排学习，以便与其他同学保持同步、交流学习，课程组也会根据一周一章的进度安排相应的课外活动。当然，同学们也可以选择灵活地支配自己的进度，只需在整个学期结束前完成并提交所有内容即可获得本期课程的总评。\n\n\n3. 课程的评分政策是怎样的？\n\n总成绩(100%)= 四次课后习题(50%) + 期末考试(50%) \n课后习题主要以选择题为主，由系统评分；期末考试形式为主观题，由同伴互评。\n\n\n关于课程如有更多问题，欢迎通过课程论坛答疑板块或微信公众号（ID：UNDPCSO）向我们提问。", 
     "end_date": null, 
     "title": "NGO能力建设入门 Building Capacity of CSOs in China", 
     "price": 0, 
-    "topic_name": [
-      "Sociology"
-    ], 
+    "instructors": "何建宇", 
     "institution_name": [
       "Peking University"
     ], 
     "commitment": "1-2 hours/week", 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f2/7330b091bd11e597177731f0b398bd/Picture4.png", 
+    "course_url": "https://en.coursera.org/learn/undp-cso", 
+    "currency": null, 
     "subject_name": [
       "Social Science"
     ], 
-    "course_url": "https://en.coursera.org/learn/undp-cso", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f2/7330b091bd11e597177731f0b398bd/Picture4.png", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 
@@ -52,23 +58,26 @@
     "start_date": "2015-12-21T00:23:38Z"
   }, 
   {
-    "instructors": "4517421", 
+    "selfpaced": false, 
+    "topic_name": [
+      "Online Education and Course Development"
+    ], 
     "description": "社会调查与研究方法，\n首先，是一套观察社会现象、测量社会现象的工具；\n其次，是一套分析和运用社会现象数据的科学方法；\n最高境界，则是一套针对社会、经济、教育、政治、法律、管理、公共卫生、新闻报道等人类的生产与生活现象，进行科学沟通的思维逻辑与表达方式。", 
     "end_date": null, 
     "title": "社会调查与研究方法 （上）Methodologies in Social Research (Part I)", 
     "price": 0, 
-    "topic_name": [
-      "Online Education and Course Development"
-    ], 
+    "instructors": "4517421", 
     "institution_name": [
       "Peking University"
     ], 
     "commitment": "4-6 hours/week", 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/9c/0da1701ef411e490eb8f929657e503/Msocial.jpg", 
+    "course_url": "https://en.coursera.org/learn/shehu-yanjiu-fangfa", 
+    "currency": null, 
     "subject_name": [
       "Education and Teaching"
     ], 
-    "course_url": "https://en.coursera.org/learn/shehu-yanjiu-fangfa", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/9c/0da1701ef411e490eb8f929657e503/Msocial.jpg", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 
@@ -78,23 +87,26 @@
     "start_date": "2016-01-15T05:15:09Z"
   }, 
   {
-    "instructors": "罗昭锋", 
+    "selfpaced": false, 
+    "topic_name": [
+      "Personal and Career Development"
+    ], 
     "description": "通过本门课程的学习，你的创新能力将会获得大幅提升。课程首先致力于观念的转变，其次我会讲到很多具体的创新思维和创新方法。创新并不仅仅是那些黑科技。解决生活或工作中碰到的每一个问题，都需要创新。每一个人的发展都会受到资源的制约，我希望这门课程里，你能找出制约自己发展的那些内部和外部条件，并创造性地解决，突破自己成长的天花板。", 
     "end_date": null, 
     "title": "创新思维", 
     "price": 0, 
-    "topic_name": [
-      "Personal and Career Development"
-    ], 
+    "instructors": "罗昭锋", 
     "institution_name": [
       "University of Science and Technology of China"
     ], 
     "commitment": "4 周课程, 1-3 小时/周", 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/5d/3b0540b87d11e5b7f4377491ebab0b/____.jpg", 
+    "course_url": "https://en.coursera.org/learn/chuangxin-siwei", 
+    "currency": null, 
     "subject_name": [
       "Education and Teaching"
     ], 
-    "course_url": "https://en.coursera.org/learn/chuangxin-siwei", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/5d/3b0540b87d11e5b7f4377491ebab0b/____.jpg", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 
@@ -104,23 +116,26 @@
     "start_date": "2016-06-07T02:35:47Z"
   }, 
   {
-    "instructors": "4251483", 
+    "selfpaced": false, 
+    "topic_name": [
+      "Physics and Astronomy"
+    ], 
     "description": "靜電靜磁到電磁波相關物理、數學及應用之介紹", 
     "end_date": null, 
     "title": "電磁學(Electromagnetics)", 
     "price": 0, 
-    "topic_name": [
-      "Physics and Astronomy"
-    ], 
+    "instructors": "4251483", 
     "institution_name": [
       "National Taiwan University"
     ], 
     "commitment": "5-6 hours/week", 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a8/abba302cef11e4a2c70bcfab45cc52/140825-___-01.jpg", 
+    "course_url": "https://en.coursera.org/course/ntuem", 
+    "currency": null, 
     "subject_name": [
       "Physical Science"
     ], 
-    "course_url": "https://en.coursera.org/course/ntuem", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a8/abba302cef11e4a2c70bcfab45cc52/140825-___-01.jpg", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 
@@ -130,23 +145,26 @@
     "start_date": "2018-09-01T08:00:00Z"
   }, 
   {
-    "instructors": "黃尹男  Yin-Nan Huang", 
+    "selfpaced": false, 
+    "topic_name": [
+      "Mechanical Engineering"
+    ], 
     "description": "課程介紹與教學目標 (About the course)\n　　房屋為我們遮風避雨，讓我們安心工作、生活，而結構系統又是房屋的骨幹，讓房屋能站的又高、又直、又穩。你知道橫者為梁，直者為柱，但你知道在結構工程師的眼中，梁與柱有什麼其他的不同嗎？他們其中藏著什麼秘密，能支撐起整個結構？工程師要怎麼決定梁該有多深？柱該有多粗？該用矩形、圓形還是其他形狀？該用實心還是空心？在有地震的地方，設計上是否又有不一樣的考量？\n　　材料力學是通往上述問題解答關鍵的一步。在材料力學(一)裡，我們會由大家熟知的虎克定律開始，以蓋房子的重要材料「結構鋼」為例，深入探討「力量」與「變形」這兩個令結構工程師愛恨交加的物理量之間的關係。然後依序探討結構桿件受軸力（拉/壓）、受扭、受彎、受剪四大外力作用下，會在桿件內部產生怎樣的相對應變形與受力，並探討建築結構設計概念與提供桿件設計演算範例。\n　　本課程是希望精通「鋼筋混凝土設計」、「鋼結構設計」、「木構造設計」者必備的先修課程，也為對「彈性力學」有興趣者，提供許多基礎知識與這些知識如何實際應用於工程設計。\n主要授課對象為土木、建築相關從業人員與在學學生，其他包括工學院各科系同學或對材料力學有興趣的人士，也歡迎選修。\n\n授課形式 (Course format)\n　　本堂課將以影片的形式為主, 搭配課後作業及期末報告的形式來進行。\n\n修課背景要求 (Recommended background)\n　　靜力學 ( Statics )", 
     "end_date": null, 
     "title": "材料力學一 (Mechanics of Materials I)", 
     "price": 0, 
-    "topic_name": [
-      "Mechanical Engineering"
-    ], 
+    "instructors": "黃尹男  Yin-Nan Huang", 
     "institution_name": [
       "National Taiwan University"
     ], 
     "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/87/25ae60971111e590b26f18b4aa42ec/__logo.jpg", 
+    "course_url": "https://en.coursera.org/learn/mechanics-of-materials-1", 
+    "currency": null, 
     "subject_name": [
       "Engineering"
     ], 
-    "course_url": "https://en.coursera.org/learn/mechanics-of-materials-1", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/87/25ae60971111e590b26f18b4aa42ec/__logo.jpg", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 
@@ -156,23 +174,26 @@
     "start_date": "2016-01-12T05:40:28Z"
   }, 
   {
-    "instructors": "7803858", 
+    "selfpaced": false, 
+    "topic_name": [
+      "Business Essentials"
+    ], 
     "description": "介紹國際職場素養的內涵及相關課題，培育學生應有的職場視野與能力，便利學生融入職場環境，迅速自新手成為高手，裕如地發揮所學與所長。", 
     "end_date": null, 
     "title": "職場素養 (Professionalism)", 
     "price": 0, 
-    "topic_name": [
-      "Business Essentials"
-    ], 
+    "instructors": "7803858", 
     "institution_name": [
       "National Taiwan University"
     ], 
     "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a5/c7abc0186411e49569bd8fae65d268/600x340.jpg", 
+    "course_url": "https://en.coursera.org/learn/zhichang-suyang", 
+    "currency": null, 
     "subject_name": [
       "Business and Management"
     ], 
-    "course_url": "https://en.coursera.org/learn/zhichang-suyang", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a5/c7abc0186411e49569bd8fae65d268/600x340.jpg", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 
@@ -182,23 +203,26 @@
     "start_date": "2015-08-12T04:18:55Z"
   }, 
   {
-    "instructors": "2139037", 
+    "selfpaced": false, 
+    "topic_name": [
+      "Mechanical Engineering"
+    ], 
     "description": "工程圖學在教什麼？這門課有的重要性為何? 對我的專業有什麼幫助?沒有工程背景的人也可以學習工程圖學嗎？我不是工程師，學習工程圖學對我的生活有幫助嗎？\n這門課是CAD/BIM技術與應用專項課程的第一門課，與其他三門課「工程圖學2D專題」、「工程圖學3D」，及「工程圖學3D專題」，作為工程圖學及電腦繪圖的入門課程，你將在這門課會學到各種繪圖的原理與方法，以及AutoCAD電腦繪圖技術，並在相關的作業練習中，逐漸熟練這些基本技術。\n工程製圖的應用無所不在，最主要的目的就是利用圖像來描述物體的形貌與功能，作為保存與傳遞想法的工具。繪圖一點也不難，無論你從事什麼工作，來自什麼背景，只要你具備中學程度的基本幾何和三角函數概念，就可以在這裡從頭開始，學會工程圖學！你會驚訝的發現，當繪圖融入你的生活時帶來的趣味與方便！", 
     "end_date": null, 
     "title": "工程圖學 2D CAD", 
     "price": 0, 
-    "topic_name": [
-      "Mechanical Engineering"
-    ], 
+    "instructors": "2139037", 
     "institution_name": [
       "National Taiwan University"
     ], 
     "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/00/a5a050b00f11e4a169f7e38b70cf48/20150130-1-03.png", 
+    "course_url": "https://en.coursera.org/learn/2d-cad", 
+    "currency": null, 
     "subject_name": [
       "Engineering"
     ], 
-    "course_url": "https://en.coursera.org/learn/2d-cad", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/00/a5a050b00f11e4a169f7e38b70cf48/20150130-1-03.png", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 

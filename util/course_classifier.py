@@ -121,7 +121,7 @@ def classify_en_courses():
     ## use english trainsets and classifier
     print "loading classifier ...",
     en_train = datasets.load_files("../data/datasets/en/train", encoding="utf-8")
-    keep_clf = load_en_clf(en_train, "../models/svm_en.pkl",enforce_train=True)
+    keep_clf = load_en_clf(en_train, "../models/svm_en.pkl")
     print "done."
 
     ### unmap coursera

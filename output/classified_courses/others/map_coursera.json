@@ -1,22 +1,25 @@
 [
   {
-    "instructors": "Sylvain Marchand", 
+    "selfpaced": false, 
+    "topic_name": [
+      "Law"
+    ], 
     "description": "Le cours porte sur les usages généralement admis en matière de rédaction de contrats commerciaux, dans leur forme continentale ou anglo-saxonne. Les principales clauses de ces contrats sont examinées, à l’aide d’exemples tirés de contrats classiques.", 
     "end_date": null, 
     "title": "Rédaction de contrats", 
     "price": 0, 
-    "topic_name": [
-      "Law"
-    ], 
+    "instructors": "Sylvain Marchand", 
     "institution_name": [
       "University of Geneva"
     ], 
     "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b6/62d7606fcc11e492bd11df8fa762ee/SignatureContrat-web.jpg", 
+    "course_url": "https://en.coursera.org/learn/contrats", 
+    "currency": null, 
     "subject_name": [
       "Social Science"
     ], 
-    "course_url": "https://en.coursera.org/learn/contrats", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b6/62d7606fcc11e492bd11df8fa762ee/SignatureContrat-web.jpg", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 
@@ -26,23 +29,26 @@
     "start_date": "2016-02-23T05:12:31Z"
   }, 
   {
-    "instructors": "Oleg Zamulin", 
+    "selfpaced": false, 
+    "topic_name": [
+      "Economics and Finance"
+    ], 
     "description": "Курс посвящен изучению макроэкономических вопросов, таких как долгосрочный рост, циклические колебания экономики и стабилизационная политика государства.\n\nЦелью курса является знакомство слушателей с основными понятиями макроэкономики, с базовыми моделями и принципами, которые используются при анализе текущего состояния экономики той или иной страны, что позволит самостоятельно ориентироваться в происходящих процессах и явлениях, а также проводить оценку эффективности и необходимости проводимой государством макроэкономической политики.\n\nДанный курс покрывает на базовом уровне все основные темы макроэкономики. Примерно две трети курса посвящены анализу общего равновесия на рынках труда, заемных средств, финансовых, денежных, товарных рынках, а также международных потоков капитала. Изучается долгосрочный экономический рост, идущий за счет накопления капитальных мощностей и технического прогресса.  Вторая часть курса посвящена изучению природы краткосрочных колебаний вокруг долгосрочной траектории роста, таким как финансовый кризис и мировая рецессия 2008-2009 годов. Обсуждаются причины подобных спадов, а также оптимальная стабилизационная политика государства, призванная либо предотвращать подобные катаклизмы, либо сглаживать последствия от них.\n\nДля успешного прохождения курса желательно (но не обязательно) иметь базовые знания по микроэкономике.", 
     "end_date": null, 
     "title": "Макроэкономика (Macroeconomics)", 
     "price": 0, 
-    "topic_name": [
-      "Economics and Finance"
-    ], 
+    "instructors": "Oleg Zamulin", 
     "institution_name": [
       "Higher School of Economics"
     ], 
     "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6a/a7f4946004bdf4a99193647b5061ff/macroeconomics-_3_.jpg", 
+    "course_url": "https://en.coursera.org/learn/makrojekonomika", 
+    "currency": null, 
     "subject_name": [
       "Business and Management"
     ], 
-    "course_url": "https://en.coursera.org/learn/makrojekonomika", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6a/a7f4946004bdf4a99193647b5061ff/macroeconomics-_3_.jpg", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 
@@ -52,49 +58,26 @@
     "start_date": "2016-06-02T02:56:31Z"
   }, 
   {
-    "instructors": "Clovis Fernandes, Eduardo Guerra", 
-    "description": "Neste curso, assumimos que você já sabe projetar e desenvolver programas mais complexos em Java, com método e organização graças às boas práticas e princípios exercitados no curso anterior; mas você talvez não se sinta ainda confortável em projetar programas usando técnicas ágeis, como o desenvolvimento guiado por testes (TDD). \n\nO objetivo deste curso é expor você aos princípios e práticas de desenvolvimento guiado por testes, tanto para modelar quanto para desenvolver aplicações e componentes de software, sem abandonar os conceitos e princípios de orientação a objetos aprendidos no curso anterior. De fato, pregamos que tais conceitos e princípios fortalecem o emprego do TDD no desenvolvimento ágil de software com mais qualidade. Este curso terá um grande foco em atividades hands-on, permitindo a você captar todos os aspectos práticos da técnica e facilitar a sua aplicação quando estiver projetando e desenvolvendo software de maneira ágil nos próximos cursos.\n\nOs conceitos de desenvolvimento de software com Java apresentados neste curso incluem o seguinte: revisão de testes de unidade; automação de testes; desenvolvimento guiado por testes; ciclo do TDD; refatoração de código de produção; ciclo de refatoração; uso de objetos stubs e mocks; boas práticas no TDD; modelagem de software por meio do TDD.\n\nAo final deste curso, você terá amadurecido de tal modo suas habilidades de programação que será capaz de implementar, agora usando o TDD, versões modificadas e estendidas do componente de gamificação constante do Trabalho de Conclusão da Especialização, com base nas boas práticas exercitadas neste curso.", 
-    "end_date": null, 
-    "title": "TDD – Desenvolvimento de Software Guiado por Testes", 
-    "price": 0, 
+    "selfpaced": false, 
     "topic_name": [
-      "Software Development"
+      "Business Essentials"
     ], 
-    "institution_name": [
-      "Instituto Tecnológico de Aeronáutica"
-    ], 
-    "commitment": null, 
-    "subject_name": [
-      "Programming"
-    ], 
-    "course_url": "https://en.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bc/57b9d00aab11e693a0c3c33308cc34/tdd800x800.png", 
-    "language_name": [
-      "Others"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2016-05-23T23:03:48Z"
-  }, 
-  {
-    "instructors": "9772840", 
     "description": "Працюйте розумніше, а не більше\nВи зможете здобути і застосувати ваші знання та розуміння особистої та професійної обізнаності, організованості та виконання зобов’язань, а також використовувати інструменти, методи та прийоми, про які ви дізналися, для постановки цілей та пріоритетів, планування та делегування для подолання управлінських викликів та покращення продуктивності. \n\nThis course is translated by the Ukrainian mobile network operator, lifecell.", 
     "end_date": null, 
     "title": "Працюйте розумніше, а не більше: управління часом для особистої та професійної продуктивності", 
     "price": 0, 
-    "topic_name": [
-      "Business Essentials"
-    ], 
+    "instructors": "9772840", 
     "institution_name": [
       "University of California, Irvine"
     ], 
     "commitment": "4-8 hours of videos, readings, and quizzes", 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ee/5c8f8049b111e4bc80b986c176101c/Time-Mangagement-Course-2.jpg", 
+    "course_url": "https://en.coursera.org/learn/upravlinnya-chasom", 
+    "currency": null, 
     "subject_name": [
       "Business and Management"
     ], 
-    "course_url": "https://en.coursera.org/learn/upravlinnya-chasom", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ee/5c8f8049b111e4bc80b986c176101c/Time-Mangagement-Course-2.jpg", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 
@@ -104,23 +87,26 @@
     "start_date": "2015-12-19T07:27:56Z"
   }, 
   {
-    "instructors": "Aygül Akyüz", 
+    "selfpaced": false, 
+    "topic_name": [
+      "Disease and Medicine"
+    ], 
     "description": "İnfertilite tanı ve tedavi aşamasında bireylere verilecek hemşirelik bakım sürecinin uygulaması aşamasında ihtiyaç duyulan temel bilgiyi sağlar. İnfertilitenin nedenleri, tanı ve tedavi yöntemleri, bu süreçlerde çiftlerin yaşadıkları fiziksel ve psikososyal sorunları ve önlemeye yönelik hemşirelik girişimlerini içerir.", 
     "end_date": null, 
     "title": "İnfertilite Hemşireliği (Infertility Nursing)", 
     "price": 0, 
-    "topic_name": [
-      "Disease and Medicine"
-    ], 
+    "instructors": "Aygül Akyüz", 
     "institution_name": [
       "Koç University"
     ], 
     "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c4/50cfd0839e11e5b277772aa5255765/bubble-2.png", 
+    "course_url": "https://en.coursera.org/learn/infertilite", 
+    "currency": null, 
     "subject_name": [
       "Health and Medicine"
     ], 
-    "course_url": "https://en.coursera.org/learn/infertilite", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c4/50cfd0839e11e5b277772aa5255765/bubble-2.png", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 
@@ -130,23 +116,55 @@
     "start_date": "2015-11-17T02:16:33Z"
   }, 
   {
-    "instructors": "Wanda Huber, Andrea Mürau Haraway, Jenny Young", 
+    "selfpaced": false, 
+    "topic_name": [
+      "Software Development"
+    ], 
+    "description": "Neste curso, assumimos que você já sabe projetar e desenvolver programas mais complexos em Java, com método e organização graças às boas práticas e princípios exercitados no curso anterior; mas você talvez não se sinta ainda confortável em projetar programas usando técnicas ágeis, como o desenvolvimento guiado por testes (TDD). \n\nO objetivo deste curso é expor você aos princípios e práticas de desenvolvimento guiado por testes, tanto para modelar quanto para desenvolver aplicações e componentes de software, sem abandonar os conceitos e princípios de orientação a objetos aprendidos no curso anterior. De fato, pregamos que tais conceitos e princípios fortalecem o emprego do TDD no desenvolvimento ágil de software com mais qualidade. Este curso terá um grande foco em atividades hands-on, permitindo a você captar todos os aspectos práticos da técnica e facilitar a sua aplicação quando estiver projetando e desenvolvendo software de maneira ágil nos próximos cursos.\n\nOs conceitos de desenvolvimento de software com Java apresentados neste curso incluem o seguinte: revisão de testes de unidade; automação de testes; desenvolvimento guiado por testes; ciclo do TDD; refatoração de código de produção; ciclo de refatoração; uso de objetos stubs e mocks; boas práticas no TDD; modelagem de software por meio do TDD.\n\nAo final deste curso, você terá amadurecido de tal modo suas habilidades de programação que será capaz de implementar, agora usando o TDD, versões modificadas e estendidas do componente de gamificação constante do Trabalho de Conclusão da Especialização, com base nas boas práticas exercitadas neste curso.", 
+    "end_date": null, 
+    "title": "TDD – Desenvolvimento de Software Guiado por Testes", 
+    "price": 0, 
+    "instructors": "Clovis Fernandes, Eduardo Guerra", 
+    "institution_name": [
+      "Instituto Tecnológico de Aeronáutica"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bc/57b9d00aab11e693a0c3c33308cc34/tdd800x800.png", 
+    "course_url": "https://en.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes", 
+    "currency": null, 
+    "subject_name": [
+      "Programming"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Others"
+    ], 
+    "provider_name": [
+      "coursera"
+    ], 
+    "start_date": "2016-05-23T23:03:48Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "topic_name": [
+      "Language Learning"
+    ], 
     "description": "Are you a business executive or a manager who uses English in your career? Then you know that good business communication in English requires focus, vocabulary, and specific linguistic structures. In this course, you will follow along a recently promoted manager as she builds and leads her team to success. Together, you will practice the language and styles of communication  needed in English for: \n•\tRecruiting and training a professional team to work together with integrity and respect\n•\tManaging and participating in well-organized meetings\n•\tMaking telephone conferences more efficient\n•\tWriting professional emails that are easy to read\nThe activities in this course will give you the opportunity to share your experience and receive immediate feedback from other business professionals around the world.\n\n¿Es usted un ejecutivo de negocios o gerente que utiliza inglés en su profesión? Entonces Ud. sabe que la buena comunicación empresarial en inglés exige los enfoques, el vocabulario y las estructuras lingüísticas específicas. En este curso, Ud. seguirá, a lo largo con un gerente recién promovido, como ella construye y conduce a su equipo hacia el éxito. Juntos, ustedes practicarán el lenguaje y los estilos de comunicación en inglés necesarios para:\n·       Reclutar y el entrenar a un equipo profesional a trabajar juntos con integridad y respeto\n·       Manejar y participar en las reuniones bien organizadas\n·       Hacer que las conferencias telefónicas sean más eficaz\n·       Escribir correos electrónicos profesionales que sean fáciles de leer\nLas actividades en este curso le dan la oportunidad de compartir su experiencia y recibir retroalimentación inmediata de otros profesionales empresariales en todo el mundo.", 
     "end_date": null, 
     "title": "Inglés Empresarial: Gestión y Liderazgo ", 
     "price": 0, 
-    "topic_name": [
-      "Language Learning"
-    ], 
+    "instructors": "Wanda Huber, Andrea Mürau Haraway, Jenny Young", 
     "institution_name": [
       "Arizona State University"
     ], 
     "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8b/4446d061e911e5ac2f81e29d413c5a/Teamwork.jpg", 
+    "course_url": "https://en.coursera.org/learn/ingles-empresarial-gestion-liderazgo", 
+    "currency": null, 
     "subject_name": [
       "Education and Teaching"
     ], 
-    "course_url": "https://en.coursera.org/learn/ingles-empresarial-gestion-liderazgo", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8b/4446d061e911e5ac2f81e29d413c5a/Teamwork.jpg", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 
@@ -156,23 +174,26 @@
     "start_date": "2015-10-31T08:00:01Z"
   }, 
   {
-    "instructors": "Андрей Петрович Глухов (Andrey P. Glukhov), Юлия Михайловна Стаховская (Yulia M. Stakhovskaya), Гульнафист Алтаевна Окушова (Gulnafist A. Okushova)", 
+    "selfpaced": false, 
+    "topic_name": [
+      "Economics and Finance"
+    ], 
     "description": "Мир сильно изменился с тех времен, когда люди общались между собою с помощью писем на бумаге и с помощью голоса, теперь все мы, расставляем кому-то сети отношений и попадаем в них сами, все мы отныне живем в Сети Глобальной паутины.\nВ этом новом мире сетей старые приемы налаживания отношений не работают: журналистов печатных изданий не читают в бумажном варианте, маркетологи, делающие ставку только на офлайн-работу, разоряют компании, пиарщики и рекламисты лишаются офлайн-аудитории, HR-специалист, не умеющий работать в сетях, не получает достоверной информации о своих кандидатах.\nЕдинственный выход для профессионала: идти в Сеть, «ищите и обрящете»!\n\nНаш курс поможет вам узнать:\n1.\tКакие сети существуют и как меняется психология «человека виртуально-сетевого».\n2.\tПочему блоггеры испытывают от своей деятельности блОженство и что такое гражданская журналистика.\n3.\tКак работает френд-бизнес и как компании делают из потребителей союзников, советчиков и сотрудников.\n4.\tКак найти работу или работника в Сети.\n5.\tКак организовать виртуальную вечеринку или виртуальный конкурс.", 
     "end_date": null, 
     "title": "«Ловцы человеков» или социальные сети в медиа, бизнесе, рекрутинге и образовании", 
     "price": 0, 
-    "topic_name": [
-      "Economics and Finance"
-    ], 
+    "instructors": "Андрей Петрович Глухов (Andrey P. Glukhov), Юлия Михайловна Стаховская (Yulia M. Stakhovskaya), Гульнафист Алтаевна Окушова (Gulnafist A. Okushova)", 
     "institution_name": [
       "National Research Tomsk State University"
     ], 
     "commitment": "9 недель исследования, 1-2 часов / неделю", 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d7/046af0560e11e5adde798ff4740020/___3.png", 
+    "course_url": "https://en.coursera.org/learn/sotsialnaya-set", 
+    "currency": null, 
     "subject_name": [
       "Business and Management"
     ], 
-    "course_url": "https://en.coursera.org/learn/sotsialnaya-set", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d7/046af0560e11e5adde798ff4740020/___3.png", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 
@@ -182,23 +203,26 @@
     "start_date": "2015-10-16T02:42:40Z"
   }, 
   {
-    "instructors": "Christian Terwiesch", 
+    "selfpaced": false, 
+    "topic_name": [
+      "Business Essentials"
+    ], 
     "description": "El Proyecto Final de Conocimiento Aplicado de Wharton te permite aplicar tus habilidades analíticas a retos de negocios reales, incluyendo el tuyo. Usarás esas habilidades empresariales recientemente adquiridas, para evaluar de manera reflexiva una oportunidad o situación real de compañías dirigidas por Wharton como Televisa.También podrás preparar un análisis estratégico y plantear una solución a un reto al que se enfrente tu propia compañía u organización. Personal cualificado de Wharton evaluará los mejores trabajos, y equipos de dirección de Televisa revisarán los proyectos que obtengan mejor puntuación.", 
     "end_date": null, 
     "title": "Proyecto de Fundamentos Empresariales de Wharton", 
     "price": 0, 
-    "topic_name": [
-      "Business Essentials"
-    ], 
+    "instructors": "Christian Terwiesch", 
     "institution_name": [
       "University of Pennsylvania"
     ], 
     "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b3/8442d0da7011e5aa3f239013f9115f/capstone_foundation2.png", 
+    "course_url": "https://en.coursera.org/learn/wharton-proyecto-final-empresariales", 
+    "currency": null, 
     "subject_name": [
       "Business and Management"
     ], 
-    "course_url": "https://en.coursera.org/learn/wharton-proyecto-final-empresariales", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b3/8442d0da7011e5aa3f239013f9115f/capstone_foundation2.png", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 
@@ -208,23 +232,26 @@
     "start_date": "2016-02-27T07:11:36Z"
   }, 
   {
-    "instructors": "Jackson Paul Matsuura, Rubens Junqueira Magalhães Afonso", 
+    "selfpaced": false, 
+    "topic_name": [
+      "Electrical Engineering"
+    ], 
     "description": "Este curso apresenta os principais conceitos do controle de sistemas e mostra suas vantagens e importância para a sociedade moderna. Você vai entender o que é o controle de sistemas e como o controle com realimentação funciona, e passará a perceber a sua presença em diversas situações em seu dia-a-dia, na natureza, no corpo humano e em diversos dispositivos, desde os mais simples até os mais complexos.\n\nVocê vai perceber a necessidade de modelos teóricos para a análise e o projeto do controle de sistemas e aprenderá como verificar se um sistema atende a determinados requisitos de desempenho. Você também aprenderá como projetar um controle simples de modo a obter o melhor desempenho possível de um sistema de controle. Este é apenas o primeiro passo em direção a um vasto campo do conhecimento e lhe dará a base e a segurança necessárias para avançar em seus estudos no maravilhoso mundo do controle de sistemas.", 
     "end_date": null, 
     "title": "Introdução ao Controle de Sistemas", 
     "price": 0, 
-    "topic_name": [
-      "Electrical Engineering"
-    ], 
+    "instructors": "Jackson Paul Matsuura, Rubens Junqueira Magalhães Afonso", 
     "institution_name": [
       "Instituto Tecnológico de Aeronáutica"
     ], 
     "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a7/9c2770d42711e5887797ab42779797/Controle00.png", 
+    "course_url": "https://en.coursera.org/learn/controle", 
+    "currency": null, 
     "subject_name": [
       "Engineering"
     ], 
-    "course_url": "https://en.coursera.org/learn/controle", 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a7/9c2770d42711e5887797ab42779797/Controle00.png", 
+    "duration": null, 
     "language_name": [
       "Others"
     ], 
