@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import json
+import os
 
 def print_topics_index():
     keep_topics_file = open("../data/topic_mapping/keep_topics.json")
@@ -41,6 +42,25 @@ def raw2json(raw_path,filename,isCoursera):
     output_subjects = json.dumps(output, ensure_ascii=False, indent=2)
     json_file.write(output_subjects.encode("utf-8"))
     json_file.close()
+
+# def extract_topics(provider_name):
+#     course_file = open(os.path.join('../data/raw_courses/total',provider_name+'_courses.json'))
+#     courses = json.loads(course_file.read())
+#     course_file.close()
+#
+#     provider_subjects = {}
+#     provider_topics = []
+#     for course in courses:
+#         topic_name = ""
+#         subject_name = ""
+#         if len(course['topic_name']) > 0:
+#             topic_name = course['topic_name'][0].strip()
+#         if len(course['subject_name']) > 0:
+#             subject_name = course['subject_name'][0].strip()
+#         if subject_name != "":
+#             if not provider_subjects.has_key(subject_name):
+
+
 
 def map_courses(raw_path,mapper_path,output_path,unmap_path):
     keep_topics_file = open("../data/provider_topics/keep_topics.json","r")
@@ -109,6 +129,7 @@ def excute_mapping(language):
                 '../output/unmap_courses/'+language+'/unmap_coursera.json')
 
 if __name__ == '__main__':
+
     print "mapping English courses..."
     excute_mapping('en')
     print "mapping Chinese courses..."
