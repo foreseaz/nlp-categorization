@@ -1,18 +1,21 @@
 [
   {
-    "topic_name": [
-      "Mobile and Web Development"
-    ], 
+    "selfpaced": false, 
+    "instructors": "教師: 單維彰,YuJerry", 
     "description": "<div class=\"no-overflow\"><p>這門網路課程是「微積分拾級」系列之二。這門課所需的先備知識如下。 (1) 能做多項式函數與代數函數的導函數、反導函數、定積分 (2) 知道導數與導函數的極限定義 (3) 知道微分的係數積、加法律、乘法律、除法律及連鎖律等技巧，並能運用在基本的形式上 (4) 知道「代換」的積分技巧，並能運用在基本的形式上 (5) 知道函數圖形的相對極值、反曲點，並能用導函數求之 以上內容常見於所有的基礎微積分課程中。如果想要看本課程教師的「非典型」授課影片，可以參考他在民國103年5月發行的「高三線上微積分先修課程」。其YouTube播放清單為<a href=\"http://goo.gl/FXdO7B\"> 如連結所示 </a> ，內容有49支影片，但只需掌握前 40 支。 此外，本課程亦須先請學生認識 Maxima 軟體，並能輸入基本數學式及運算指令 以上軟體可以參考教師的文字教材 <a href=\"http://libai.math.ncu.edu.tw/bcc16/B/maxima/\"> Maxima 線上教材，請點選連結進入 </a>。 關於安裝的說明影片可看<span class=\"mediaplugin mediaplugin_youtube\">\n<iframe title=\"請點選連結觀看\" width=\"720\" height=\"450\" src=\"https://www.youtube.com/embed/HY2fmpa5Wsc?rel=0&amp;wmode=transparent\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n</span>， 部分關於函數極限、微分與積分的用法， 可參考以下影片：<span class=\"mediaplugin mediaplugin_youtube\">\n<iframe title=\"一般函數的極值[第三章]\" width=\"720\" height=\"450\" src=\"https://www.youtube.com/embed/jzdQQgXWDHI?rel=0&amp;wmode=transparent\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n</span>，<span class=\"mediaplugin mediaplugin_youtube\">\n<iframe title=\"牽涉連鎖律的微分演示[第三章]\" width=\"720\" height=\"450\" src=\"https://www.youtube.com/embed/0QSFzqJIqeQ?rel=0&amp;wmode=transparent\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n</span> ， <span class=\"mediaplugin mediaplugin_youtube\">\n<iframe title=\"求反導函數\" width=\"720\" height=\"450\" src=\"https://www.youtube.com/embed/ia0SSILB8zU?rel=0&amp;wmode=transparent\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n</span> 。</p></div>", 
     "end_date": "2015-01-26T00:00:00Z", 
     "title": "微積分拾級（二）", 
-    "instructors": "教師: 單維彰,YuJerry", 
+    "price": 0, 
+    "topic_name": [
+      "Mobile and Web Development"
+    ], 
     "institution_name": [
       "國立中央大學"
     ], 
     "commitment": "6 hours", 
     "cover_url": "http://cou01.ewant.org/mnet/service/enrol/download.php?id=49&area=overviewfiles", 
     "course_url": "http://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=4&id=147", 
+    "currency": null, 
     "subject_name": [
       "Programming"
     ], 
@@ -26,19 +29,22 @@
     "start_date": "2014-12-15T00:00:00Z"
   }, 
   {
-    "topic_name": [
-      "Mobile and Web Development"
-    ], 
+    "selfpaced": false, 
+    "instructors": "教師: 李威儀", 
     "description": "<div class=\"no-overflow\"><p><span style=\"color:#ff0000;font-size:x-large;\"><strong><span style=\"color:#ff0000;\"><strong>隨到隨學！</strong></span>Let's have fun with this MOOC: 翻轉式教學的理念與實務!</strong></span></p><p><span style=\"color:#ff0000;\"><strong><span style=\"font-size:large;\">（本課程影片隨到隨學，課程中無授課教師與助教參與，也不開放測驗、討論區、與證書等功能。）</span></strong></span></p></div>", 
     "end_date": "2017-09-22T00:00:00Z", 
     "title": "FM-翻轉式教學的理念與實務", 
-    "instructors": "教師: 李威儀", 
+    "price": 0, 
+    "topic_name": [
+      "Mobile and Web Development"
+    ], 
     "institution_name": [
       "國立交通大學"
     ], 
     "commitment": "2 hours", 
     "cover_url": "http://cou03.ewant.org/mnet/service/enrol/download.php?id=130&area=overviewfiles", 
     "course_url": "http://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=7&id=232", 
+    "currency": null, 
     "subject_name": [
       "Programming"
     ], 
@@ -52,45 +58,22 @@
     "start_date": "2015-09-23T00:00:00Z"
   }, 
   {
-    "topic_name": [
-      "Mobile and Web Development"
-    ], 
-    "description": "<div class=\"no-overflow\">Less is more<br>\r\nLong story short<br>\r\nThe idea is all that matters <br>\r\nAnd the heart is all that counts<br>\r\n“No man is an island.” <br>\r\nWe like to send out messages to be widely read and understood. <br>\r\nThis course tries to make it easier for you <br>\r\nto share ideas and connect hearts with the outside world.<br>\r\n<br>\r\n好的想法、概念或技術專業，不能僅止於內蘊自賞，更需要流傳分享！這是堂關於如何走進人群傳遞訊息的課，關於簡報溝通表達與自我風格的課。是門學習怎樣將錯綜複雜的訊息做簡易清晰呈現的課。<br>\r\n<br>\r\nSo please join us for the following few weeks. <br>\r\nHope we may take you to the starting line of presentation.<br>\r\n<br>\r\n課程介紹網站：http://ycy0227.wix.com/ncyu-mooc<br>\r\n</div>", 
-    "end_date": "2016-01-22T00:00:00Z", 
-    "title": "不只是簡報", 
+    "selfpaced": false, 
     "instructors": "教師: 王思齊", 
-    "institution_name": [
-      "國立嘉義大學"
-    ], 
-    "commitment": "9 hours", 
-    "cover_url": "http://210.242.151.144/mnet/service/enrol/download.php?id=18&area=overviewfiles", 
-    "course_url": "http://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=6&id=220", 
-    "subject_name": [
-      "Programming"
-    ], 
-    "duration": "9 weeks", 
-    "language_name": [
-      "Chinses"
-    ], 
-    "provider_name": [
-      "ewant"
-    ], 
-    "start_date": "2015-11-17T00:00:00Z"
-  }, 
-  {
-    "topic_name": [
-      "Mobile and Web Development"
-    ], 
     "description": "<div class=\"no-overflow\">Less is more<br>\r\nLong story short<br>\r\nThe idea is all that matters <br>\r\nAnd the heart is all that counts<br>\r\n“No man is an island.” <br>\r\nWe like to send out messages to be widely read and understood. <br>\r\nThis course tries to make it easier for you <br>\r\nto share ideas and connect hearts with the outside world.<br>\r\n<br>\r\n好的想法、概念或技術專業，不能僅止於內蘊自賞，更需要流傳分享！這是堂關於如何走進人群傳遞訊息的課，關於簡報溝通表達與自我風格的課。是門學習怎樣將錯綜複雜的訊息做簡易清晰呈現的課。<br>\r\n<br>\r\nSo please join us for the following few weeks. <br>\r\nHope we may take you to the starting line of presentation.<br>\r\n<br>\r\n課程介紹網站：http://ycy0227.wix.com/ncyu-mooc<br>\r\n</div>", 
     "end_date": "2016-06-10T00:00:00Z", 
     "title": "不只是簡報(2016春季班)", 
-    "instructors": "教師: 王思齊", 
+    "price": 0, 
+    "topic_name": [
+      "Mobile and Web Development"
+    ], 
     "institution_name": [
       "國立嘉義大學"
     ], 
     "commitment": "9 hours", 
     "cover_url": "http://210.242.151.144/mnet/service/enrol/download.php?id=72&area=overviewfiles", 
     "course_url": "http://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=6&id=327", 
+    "currency": null, 
     "subject_name": [
       "Programming"
     ], 
@@ -104,19 +87,51 @@
     "start_date": "2016-03-29T00:00:00Z"
   }, 
   {
+    "selfpaced": false, 
+    "instructors": "教師: 王思齊", 
+    "description": "<div class=\"no-overflow\">Less is more<br>\r\nLong story short<br>\r\nThe idea is all that matters <br>\r\nAnd the heart is all that counts<br>\r\n“No man is an island.” <br>\r\nWe like to send out messages to be widely read and understood. <br>\r\nThis course tries to make it easier for you <br>\r\nto share ideas and connect hearts with the outside world.<br>\r\n<br>\r\n好的想法、概念或技術專業，不能僅止於內蘊自賞，更需要流傳分享！這是堂關於如何走進人群傳遞訊息的課，關於簡報溝通表達與自我風格的課。是門學習怎樣將錯綜複雜的訊息做簡易清晰呈現的課。<br>\r\n<br>\r\nSo please join us for the following few weeks. <br>\r\nHope we may take you to the starting line of presentation.<br>\r\n<br>\r\n課程介紹網站：http://ycy0227.wix.com/ncyu-mooc<br>\r\n</div>", 
+    "end_date": "2016-01-22T00:00:00Z", 
+    "title": "不只是簡報", 
+    "price": 0, 
     "topic_name": [
       "Mobile and Web Development"
     ], 
+    "institution_name": [
+      "國立嘉義大學"
+    ], 
+    "commitment": "9 hours", 
+    "cover_url": "http://210.242.151.144/mnet/service/enrol/download.php?id=18&area=overviewfiles", 
+    "course_url": "http://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=6&id=220", 
+    "currency": null, 
+    "subject_name": [
+      "Programming"
+    ], 
+    "duration": "9 weeks", 
+    "language_name": [
+      "Chinses"
+    ], 
+    "provider_name": [
+      "ewant"
+    ], 
+    "start_date": "2015-11-17T00:00:00Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "教師: 陳怡伶", 
     "description": "<div class=\"no-overflow\">Due to the globalization, the mobility of knowledge and labor has quickened. With the assistance of globalization, Shakespeare studies have reached five continents. Last year, the first Asian Shakespearean Association was founded, whose members are scholars dedicated to Shakespeare studies in Asia, coming from Taiwan, Japan, Korea, Philippines, China, India, Europe and America. Because of frequent intercultural exchanges nowadays, Shakespeare is not an asset which belongs to the English culture alone. His works are adapted, appropriated and rewritten all over the world, springing up like mushrooms after rain, and productions range from stage performances, films, television adaptations, comics, animations, musicals, operas and in other forms of pop culture. This course will begin with an introduction to the rhythm of Shakespeares Sonnets and soliloquies. After being acquainted with the beauty of his verse, we will have selective readings of the Shakespeares plays, especially the ones the most related to the development of Shakespeare in Taiwan. By using manga adaptations to read Shakespeares texts, this course hopes to present diverse Shakespearean interpretations. The course curriculum includes reading Shakespeares texts in a scenario, role-playing, analyzing Shakespeare manga adaptations, staging a Shakespeare scene and other course activities to fulfill various learning and assessments.<br>\r\n</div>", 
     "end_date": "2015-12-22T00:00:00Z", 
     "title": "全球化/在地化莎士比亞", 
-    "instructors": "教師: 陳怡伶", 
+    "price": 0, 
+    "topic_name": [
+      "Mobile and Web Development"
+    ], 
     "institution_name": [
       "靜宜大學"
     ], 
     "commitment": "18 hours", 
     "cover_url": "http://cou01.ewant.org/mnet/service/enrol/download.php?id=105&area=overviewfiles", 
     "course_url": "http://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=4&id=180", 
+    "currency": null, 
     "subject_name": [
       "Programming"
     ], 
@@ -130,19 +145,22 @@
     "start_date": "2015-09-22T00:00:00Z"
   }, 
   {
-    "topic_name": [
-      "Mobile and Web Development"
-    ], 
+    "selfpaced": false, 
+    "instructors": "教師: 姜翠芬", 
     "description": "<div class=\"no-overflow\"><ul><li>本課程將以英語授課，藉由英語翻譯文本及英語溝通使修課學生能透過六齣戲碼《竇娥冤》、《趙氏孤兒》、《牡丹亭》、《雷雨》、《車站》、《暗戀桃花源》的介紹，瞭解傳統中國與現代中國戲劇的表演藝術，另可透過英文表達介紹中國文化及中國戲劇。</li><li>This course will be conducted in English. By using English translations and conducting discussions in English foucusing on the six plays, which are <em>Injustice to Dou E, The Orphan of Chao, The Peony Pavilion, Thunderstorm, Bus Stop, and Secret Love in Peach Blossom Land, </em>students will learn about the performing arts of both traditional and mondern Chinese drama. Student will also learn to introduce Chinese culture and Chinese drama in English.</li></ul></div>", 
     "end_date": "2015-01-07T00:00:00Z", 
     "title": "中華文化英語課程：中國戲劇", 
-    "instructors": "教師: 姜翠芬", 
+    "price": 0, 
+    "topic_name": [
+      "Mobile and Web Development"
+    ], 
     "institution_name": [
       "國立政治大學"
     ], 
     "commitment": "8 hours", 
     "cover_url": "http://cou01.ewant.org/mnet/service/enrol/download.php?id=52&area=overviewfiles", 
     "course_url": "http://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=4&id=138", 
+    "currency": null, 
     "subject_name": [
       "Programming"
     ], 
@@ -156,19 +174,22 @@
     "start_date": "2014-11-20T00:00:00Z"
   }, 
   {
-    "topic_name": [
-      "Mobile and Web Development"
-    ], 
+    "selfpaced": false, 
+    "instructors": "教師: 胡毓志", 
     "description": "<div class=\"no-overflow\"><p><span style=\"font-size:medium;color:#ff0000;\"><strong><strong>隨到隨學！</strong>Let's have fun with this MOOC : 計算機科學與程式設計概論</strong></span></p><p><span style=\"font-size:medium;color:#ff0000;\"><strong>（本課程影片隨到隨學，課程中無授課教師與助教參與，也不開放測驗、討論區、與證書等功能。）</strong></span></p></div>", 
     "end_date": "2017-10-26T00:00:00Z", 
     "title": "FM-計算機科學與程式設計概論", 
-    "instructors": "教師: 胡毓志", 
+    "price": 0, 
+    "topic_name": [
+      "Mobile and Web Development"
+    ], 
     "institution_name": [
       "國立交通大學"
     ], 
     "commitment": "16 hours", 
     "cover_url": "http://cou03.ewant.org/mnet/service/enrol/download.php?id=131&area=overviewfiles", 
     "course_url": "http://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=7&id=246", 
+    "currency": null, 
     "subject_name": [
       "Programming"
     ], 
@@ -182,19 +203,22 @@
     "start_date": "2015-10-27T00:00:00Z"
   }, 
   {
-    "topic_name": [
-      "Mobile and Web Development"
-    ], 
+    "selfpaced": false, 
+    "instructors": "教師: 陳怡伶", 
     "description": "<div class=\"no-overflow\"><p><span style=\"color:#800000;font-size:large;\"><strong>隨到隨學！Let's have fun with this MOOC: 全球化/在地化莎士比亞! </strong></span></p><p><span style=\"color:#800000;\"><strong>（本課程視頻、講義隨時開放，課程中無授課教師與助教參與，也不開放測驗、討論區、與證書等功能。）</strong></span></p><p>Due to the globalization, the mobility of knowledge and labor has quickened. With the assistance of globalization, Shakespeare studies have reached five continents. Last year, the first Asian Shakespearean Association was founded, whose members are scholars dedicated to Shakespeare studies in Asia, coming from Taiwan, Japan, Korea, Philippines, China, India, Europe and America. Because of frequent intercultural exchanges nowadays, Shakespeare is not an asset which belongs to the English culture alone. His works are adapted, appropriated and rewritten all over the world, springing up like mushrooms after rain, and productions range from stage performances, films, television adaptations, comics, animations, musicals, operas and in other forms of pop culture. This course will begin with an introduction to the rhythm of Shakespeares Sonnets and soliloquies. After being acquainted with the beauty of his verse, we will have selective readings of the Shakespeares plays, especially the ones the most related to the development of Shakespeare in Taiwan. By using manga adaptations to read Shakespeares texts, this course hopes to present diverse Shakespearean interpretations. The course curriculum includes reading Shakespeares texts in a scenario, role-playing, analyzing Shakespeare manga adaptations, staging a Shakespeare scene and other course activities to fulfill various learning and assessments.</p></div>", 
     "end_date": "2017-12-31T00:00:00Z", 
     "title": "FM-全球化/在地化莎士比亞", 
-    "instructors": "教師: 陳怡伶", 
+    "price": 0, 
+    "topic_name": [
+      "Mobile and Web Development"
+    ], 
     "institution_name": [
       "靜宜大學"
     ], 
     "commitment": "18 hours", 
     "cover_url": "http://cou03.ewant.org/mnet/service/enrol/download.php?id=154&area=overviewfiles", 
     "course_url": "http://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=7&id=326", 
+    "currency": null, 
     "subject_name": [
       "Programming"
     ], 

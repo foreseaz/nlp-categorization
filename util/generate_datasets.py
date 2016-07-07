@@ -4,6 +4,7 @@ import json
 import os
 import re
 import shutil
+import glob
 
 
 keep_topics_path = "../data/provider_topics/keep_topics.json"
@@ -51,6 +52,9 @@ def inject_into_datasets(root_path,json_path,train_slices,total_slices,prefix):
 
         topic_status = topics.get(topic_name)
         if topic_status == None:
+            ## remove old files
+            for file in glob.glob(os.path.join(train_path + "/" + topic_name, prefix + '*.json')):
+                os.remove(file)
             topics[topic_name] = 0
             topic_status = 0
 
@@ -62,6 +66,7 @@ def inject_into_datasets(root_path,json_path,train_slices,total_slices,prefix):
             topics[topic_name] = (topics[topic_name] + 1) % total_slices
             train_count += 1
         elif topic_status >= train_slices:
+            ## remove old files
             outfile = open(test_path + "/" + topic_name + "/" + prefix + "-" + str(test_count) + ".json", "wb")
             outline = json.dumps(course,ensure_ascii=False,indent=2)
             outfile.write(outline.encode("utf-8"))
@@ -79,27 +84,23 @@ def trainset_count(root_path):
         topic_dirs[topic_dir] = file_count
     return topic_dirs
 
-
-if __name__ == '__main__':
-    # make the datasets directories
-
-    # dir_path = "../data/datasets/en"
-    # dir_path = "../data/datasets/zh"
-    # dir_path = "../data/datasets/others"
-
-
-    ##### make datasets for staging #####
-    dir_path = "../data/datasets/en"
+def generate_datasets(language,train_slices,total_slices):
+    dir_path = "../data/datasets/"+language
     mk_dirs(dir_path)
     print "#### class central"
-    inject_into_datasets(dir_path,"../output/classified_courses/en/map_classcentral.json",5,5,"classcentral")
+    inject_into_datasets(dir_path, "../output/classified_courses/"+language+"/map_classcentral.json", train_slices, total_slices, "classcentral")
     print "#### udemy"
-    inject_into_datasets(dir_path, "../output/classified_courses/en/map_udemy.json", 5, 5,"udemy")
+    inject_into_datasets(dir_path, "../output/classified_courses/"+language+"/map_udemy.json", train_slices, total_slices, "udemy")
     print "#### coursera"
-    inject_into_datasets(dir_path, "../output/classified_courses/en/map_coursera.json", 5, 5,"coursera")
+    inject_into_datasets(dir_path, "../output/classified_courses/"+language+"/map_coursera.json", train_slices, total_slices, "coursera")
     # print "Count train set:"
     # topic_dirs = trainset_count(dir_path)
     # for topic in topic_dirs.keys():
     #     if topic_dirs[topic] < 100:
     #         print "\t"+topic+":",topic_dirs[topic]
-    print "done!"
+
+if __name__ == '__main__':
+
+    print "## generate datasets for Chinese courses ..."
+    generate_datasets('en',5,5)
+    print "## done."

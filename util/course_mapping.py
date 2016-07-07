@@ -86,25 +86,28 @@ def map_courses(raw_path,mapper_path,output_path,unmap_path):
     unmap_file.write(json.dumps(unmap_courses,ensure_ascii=False,indent=2).encode('utf-8'))
     unmap_file.close()
 
-if __name__ == '__main__':
+def excute_mapping(language):
     # mapping classcentral
-    print "mapping classcentral ==>",
-    map_courses('../data/raw_courses/others/classcentral_courses.json',
+    print "\tmapping classcentral ==>",
+    map_courses('../data/raw_courses/'+language+'/classcentral_courses.json',
                 '../data/topic_mapping/classcentral2keep.json',
-                '../output/classified_courses/others/map_classcentral.json',
-                '../output/unmap_courses/others/unmap_classcentral.json')
+                '../output/classified_courses/'+language+'/map_classcentral.json',
+                '../output/unmap_courses/'+language+'/unmap_classcentral.json')
 
     # mapping udemy
-    print "mapping udemy ==>",
-    map_courses('../data/raw_courses/others/udemy_courses.json',
+    print "\tmapping udemy ==>",
+    map_courses('../data/raw_courses/'+language+'/udemy_courses.json',
                 '../data/topic_mapping/udemy2keep.json',
-                '../output/classified_courses/others/map_udemy.json',
-                '../output/unmap_courses/others/unmap_udemy.json')
+                '../output/classified_courses/'+language+'/map_udemy.json',
+                '../output/unmap_courses/'+language+'/unmap_udemy.json')
 
     # mapping coursera
-    print "mapping coursera ==>",
-    map_courses('../data/raw_courses/others/coursera_courses.json',
+    print "\tmapping coursera ==>",
+    map_courses('../data/raw_courses/'+language+'/coursera_courses.json',
                 '../data/topic_mapping/coursera2keep.json',
-                '../output/classified_courses/others/map_coursera.json',
-                '../output/unmap_courses/others/unmap_coursera.json')
+                '../output/classified_courses/'+language+'/map_coursera.json',
+                '../output/unmap_courses/'+language+'/unmap_coursera.json')
+
+if __name__ == '__main__':
+    excute_mapping('en')
     print 'done!'

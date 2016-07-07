@@ -17,7 +17,35 @@ import os
 import json
 
 
-def load_clf(trainset, model_path, enforce_train=False,):
+def load_en_clf(trainset, model_path, enforce_train=False,):
+    print "trainset size:", len(trainset.data)
+
+    # count_vect = CountVectorizer(ngram_range=(1, 1))
+    # X_train_counts = count_vect.fit_transform(cc_train.data)
+    # for w in count_vect.vocabulary_.keys():
+    #     print w.encode('utf-8')
+
+    if (not os.path.exists(model_path)) or (enforce_train == True):
+        ## use SVM and train
+        print "start training ...",
+        count_vect = CountVectorizer(stop_words='english',ngram_range=(1, 2))
+        tfidf_transformer = TfidfTransformer()
+        svm_clf = SGDClassifier(loss='hinge', penalty='l2', alpha=1e-3, n_iter=5, random_state=42)
+
+        ## pipeline
+        text_clf = Pipeline([('vect', count_vect),
+                             ('tfidf', tfidf_transformer),
+                             ('clf', svm_clf),
+                             ])
+        text_clf = text_clf.fit(trainset.data, trainset.target)
+        print "save model into file ...",
+        joblib.dump(text_clf, model_path)
+        print "done."
+
+    text_clf = joblib.load(model_path)
+    return text_clf
+
+def load_ch_clf(trainset, model_path, enforce_train=False,):
     print "trainset size:", len(trainset.data)
 
     # count_vect = CountVectorizer(ngram_range=(1, 1))
@@ -89,69 +117,96 @@ def classify_courses(trainset,clf,input_path,output_path):
     output_file.write(json.dumps(courses,ensure_ascii=False,indent=2).encode('utf-8'))
     output_file.close()
 
-
-if __name__ == '__main__':
-
+def classify_en_courses():
     ## use english trainsets and classifier
     print "loading classifier ...",
     en_train = datasets.load_files("../data/datasets/en/train", encoding="utf-8")
-    keep_clf = load_clf(en_train,"../models/svm_en.pkl")
+    keep_clf = load_en_clf(en_train, "../models/svm_en.pkl",enforce_train=True)
     print "done."
 
     ### unmap coursera
     print "classify coursera ...",
-    classify_courses(en_train,keep_clf,
+    classify_courses(en_train, keep_clf,
                      "../output/unmap_courses/en/unmap_coursera.json",
                      "../output/classified_courses/en/classified_coursera.json")
     print "done."
 
     ### unmap udemy
     print "classify udemy ...",
-    classify_courses(en_train,keep_clf,
+    classify_courses(en_train, keep_clf,
                      "../output/unmap_courses/en/unmap_udemy.json",
                      "../output/classified_courses/en/classified_udemy.json")
     print "done."
 
     ### canvas
     print "classify canvas ...",
-    classify_courses(en_train,keep_clf,
+    classify_courses(en_train, keep_clf,
                      "../data/raw_courses/en/canvas_courses.json",
                      "../output/classified_courses/en/classified_canvas.json")
     print "done."
 
     ### edx
     print "classify edx ...",
-    classify_courses(en_train,keep_clf,
+    classify_courses(en_train, keep_clf,
                      "../data/raw_courses/en/edx_courses.json",
                      "../output/classified_courses/en/classified_edx.json")
     print "done."
 
     ### ewant
     print "classify ewant ...",
-    classify_courses(en_train,keep_clf,
+    classify_courses(en_train, keep_clf,
                      "../data/raw_courses/en/ewant_courses.json",
                      "../output/classified_courses/en/classified_ewant.json")
     print "done."
 
     ### futurelearn
     print "classify futurelearn ...",
-    classify_courses(en_train,keep_clf,
+    classify_courses(en_train, keep_clf,
                      "../data/raw_courses/en/futurelearn_courses.json",
                      "../output/classified_courses/en/classified_futurelearn.json")
     print "done."
 
     ### xuetang
     print "classify xuetang ...",
-    classify_courses(en_train,keep_clf,
+    classify_courses(en_train, keep_clf,
                      "../data/raw_courses/en/xuetang_courses.json",
                      "../output/classified_courses/en/classified_xuetang.json")
     print "done."
 
     ### udacity
     print "classify udacity ...",
-    classify_courses(en_train,keep_clf,
+    classify_courses(en_train, keep_clf,
                      "../data/raw_courses/en/udacity_courses.json",
                      "../output/classified_courses/en/classified_udacity.json")
+    print "done."
+
+def collect_all_courses(classified_dir):
+    if not os.path.isdir(classified_dir):
+        print "ERROR: %s is not a directory!" % classified_dir
+        exit(1)
+    classified_courses = []
+    for sub_dir_name in os.listdir(classified_dir):
+        sub_dir_path = os.path.join(classified_dir,sub_dir_name)
+        if not os.path.isdir(sub_dir_path):
+            continue
+        else:
+            print sub_dir_name
+            for file_name in os.listdir(sub_dir_path):
+                if file_name.find('classcentral') > -1:
+                    continue
+                file_path = os.path.join(sub_dir_path,file_name)
+                classified_courses += json.loads(open(file_path).read())
+                print "\t"+file_name
+    print "all classified courses count:",len(classified_courses)
+    output_file = open(classified_dir+"/all_classified_courses.json","w")
+    output_courses = json.dumps(classified_courses, ensure_ascii=False, indent=2)
+    output_file.write(output_courses.encode("utf-8"))
+    output_file.close()
+
+if __name__ == '__main__':
+
+    classify_en_courses()
+    collect_all_courses('../output/classified_courses')
     print "done."
 
     # cc_test = datasets.load_files("../data/datasets/en/test", encoding="utf-8")

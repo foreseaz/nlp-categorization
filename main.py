@@ -9,6 +9,15 @@ bjects and topics by using a bag-of-words approach.
 The training dataset used is subjects and topics defined in class-central.com
 """
 
+def retrain_classifer(language,json_path=""):
+    # TODO: retrain the classifier, if json is not empty, inject it into dataset
+    return ""
+
+def classify_course(language,json_path,output_path):
+    # TODO: get a json file containing courses
+    return ""
+
+
 OUTPUT_PATH = 'output/'
 print(__doc__)
 

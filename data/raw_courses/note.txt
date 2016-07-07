@@ -1,0 +1,17 @@
+canvas: null的有topic/subject/language，selfpaced为false时end_date可能为null
+
+classcentral: null的有currency/cover_url
+
+coursera: null的有currency/duration，selfpaced默认False，date对不上。。。
+
+edx: null的有currency/topic，目前selfpaced为false时全有date
+
+ewant: null的有currency/topic，selfpaced默认false，price默认0
+
+futurelearn: null的有topic/subject/currency，selfpaced默认false，price默认0，目前selfpaced为false时有两门课无date，设成max了
+
+udacity: null的有commitment/start/end/topic/subject/language/currency，price默认0
+
+xuetang: null的有topic/currency
+
+udemy: null的有institution/end/duration，selfpaced默认true
