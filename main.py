@@ -6,7 +6,13 @@ Classification of Scrawled Courses into Topics
 This is the source for a task on classify scrawled courses into pre-defined su-
 bjects and topics by using a bag-of-words approach.
 
-The training dataset used is subjects and topics defined in class-central.com
+1. classify the languages
+
+2. map courses to our topics
+
+3. generate datasets
+
+4. train and classify
 """
 
 def retrain_classifer(language,json_path=""):

@@ -205,6 +205,35 @@
   {
     "selfpaced": false, 
     "topic_name": [
+      "Law"
+    ], 
+    "description": "Le cours porte sur les usages généralement admis en matière de rédaction de contrats commerciaux, dans leur forme continentale ou anglo-saxonne. Les principales clauses de ces contrats sont examinées, à l’aide d’exemples tirés de contrats classiques.", 
+    "end_date": null, 
+    "title": "Rédaction de contrats", 
+    "price": 0, 
+    "instructors": "Sylvain Marchand", 
+    "institution_name": [
+      "University of Geneva"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b6/62d7606fcc11e492bd11df8fa762ee/SignatureContrat-web.jpg", 
+    "course_url": "https://en.coursera.org/learn/contrats", 
+    "currency": null, 
+    "subject_name": [
+      "Social Science"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "English"
+    ], 
+    "provider_name": [
+      "coursera"
+    ], 
+    "start_date": "2016-02-23T05:12:31Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "topic_name": [
       "Clinical Science"
     ], 
     "description": "Social epidemiology is about how a society makes people sick and/or healthy. We address not only the identification of new disease risk factors (e.g., deficient social capital) but also how well-known exposures (e.g., cigarette smoking, lead paint, health insurance) emerge and are maintained by the social system.", 
@@ -1046,6 +1075,35 @@
   {
     "selfpaced": false, 
     "topic_name": [
+      "Disease and Medicine"
+    ], 
+    "description": "İnfertilite tanı ve tedavi aşamasında bireylere verilecek hemşirelik bakım sürecinin uygulaması aşamasında ihtiyaç duyulan temel bilgiyi sağlar. İnfertilitenin nedenleri, tanı ve tedavi yöntemleri, bu süreçlerde çiftlerin yaşadıkları fiziksel ve psikososyal sorunları ve önlemeye yönelik hemşirelik girişimlerini içerir.", 
+    "end_date": null, 
+    "title": "İnfertilite Hemşireliği (Infertility Nursing)", 
+    "price": 0, 
+    "instructors": "Aygül Akyüz", 
+    "institution_name": [
+      "Koç University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c4/50cfd0839e11e5b277772aa5255765/bubble-2.png", 
+    "course_url": "https://en.coursera.org/learn/infertilite", 
+    "currency": null, 
+    "subject_name": [
+      "Health and Medicine"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "English"
+    ], 
+    "provider_name": [
+      "coursera"
+    ], 
+    "start_date": "2015-11-17T02:16:33Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "topic_name": [
       "Economics and Finance"
     ], 
     "description": "Have you ever wanted to invest in financial markets, but were always afraid that you didn’t have the proper tools or knowledge to make informed decisions? Have you ever wondered how investment management companies operate and what fund managers do? AXA Investment Managers, in partnership with HEC Paris, will introduce you to the most important ideas and concepts in investment management, to help you better understand your financial future.\n\nThis course will enable you to:\n•\tDefine what type of investor you are, your investment objectives, and potential constraints. \n•\tIdentify the main investable assets and important players in financial markets. \n•\tUnderstand basic portfolio management techniques. \n•\tApply these techniques in real case studies from the outset, through practical assessments. \n\nFinally, we will provide a comprehensive overview of today's asset management industry: the product cycles, professionals, and regulations. For those who want to identify a talented fund manager to invest for you, we offer important criteria for selecting one. For those who are interested in learning more about this fascinating industry, we lay the foundation for your ongoing financial journey. Join us now to explore the world of investment management! \n\nCourse Launching Date\nThe first session of the course will be launched on April 11th, 2016.\n\nCourse Specialists\nThe course has been developed in collaboration between HEC Paris, with Hugues Langlois managing the academic aspect, and AXA Investment Managers specialists, sharing their experiences and expertise and coordinated by Marion Le Morhedec. AXA Investment Managers participants include Maxime Alimi, Stephanie Condra, Nicholas Jeans, Elodie Laugel, Pierre-François de Mont-Serrat, Jean-Gabriel Pierre (AXA Group), Dorothée Sauloup, Irina Topa-Serry, Fiona Southall, Patrice Viot Coster, Susanna Warner, and Joachim Weitgasser.\n\nRecommended Background\nWe expect most participants to have a basic level of knowledge in mathematics and economics. However this is not essential, and we believe that people from any background can succeed with commitment and a strong interest.\nBe aware that in the case study, you will have to use Excel.\n\nCourse Format \nThis course will run for 4 weeks and consists of 4 modules, each with a series of lecture videos between 5 to 8 minutes long. Each module contains a set of practice and graded quiz questions. A complete portfolio management exercise covers concepts learned in all modules\n\nLanguage\nThe course will be in English, with French and Chinese subtitles.\n\nThe Project\nThe preparation of this MOOC has been an exciting adventure for many professionals at AXA Investment Managers and HEC, both for the speakers and a wealth of contributors. Thank you to all of them.\nWe hope you enjoy this course as much as we enjoyed creating it!", 
@@ -1071,6 +1129,35 @@
       "coursera"
     ], 
     "start_date": "2016-04-11T23:26:57Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "topic_name": [
+      "Software Development"
+    ], 
+    "description": "Neste curso, assumimos que você já sabe projetar e desenvolver programas mais complexos em Java, com método e organização graças às boas práticas e princípios exercitados no curso anterior; mas você talvez não se sinta ainda confortável em projetar programas usando técnicas ágeis, como o desenvolvimento guiado por testes (TDD). \n\nO objetivo deste curso é expor você aos princípios e práticas de desenvolvimento guiado por testes, tanto para modelar quanto para desenvolver aplicações e componentes de software, sem abandonar os conceitos e princípios de orientação a objetos aprendidos no curso anterior. De fato, pregamos que tais conceitos e princípios fortalecem o emprego do TDD no desenvolvimento ágil de software com mais qualidade. Este curso terá um grande foco em atividades hands-on, permitindo a você captar todos os aspectos práticos da técnica e facilitar a sua aplicação quando estiver projetando e desenvolvendo software de maneira ágil nos próximos cursos.\n\nOs conceitos de desenvolvimento de software com Java apresentados neste curso incluem o seguinte: revisão de testes de unidade; automação de testes; desenvolvimento guiado por testes; ciclo do TDD; refatoração de código de produção; ciclo de refatoração; uso de objetos stubs e mocks; boas práticas no TDD; modelagem de software por meio do TDD.\n\nAo final deste curso, você terá amadurecido de tal modo suas habilidades de programação que será capaz de implementar, agora usando o TDD, versões modificadas e estendidas do componente de gamificação constante do Trabalho de Conclusão da Especialização, com base nas boas práticas exercitadas neste curso.", 
+    "end_date": null, 
+    "title": "TDD – Desenvolvimento de Software Guiado por Testes", 
+    "price": 0, 
+    "instructors": "Clovis Fernandes, Eduardo Guerra", 
+    "institution_name": [
+      "Instituto Tecnológico de Aeronáutica"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bc/57b9d00aab11e693a0c3c33308cc34/tdd800x800.png", 
+    "course_url": "https://en.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes", 
+    "currency": null, 
+    "subject_name": [
+      "Programming"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "English"
+    ], 
+    "provider_name": [
+      "coursera"
+    ], 
+    "start_date": "2016-05-23T23:03:48Z"
   }, 
   {
     "selfpaced": false, 
@@ -1211,7 +1298,7 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Others"
+      "English"
     ], 
     "provider_name": [
       "coursera"
@@ -1246,6 +1333,35 @@
       "coursera"
     ], 
     "start_date": "2016-04-12T00:45:59Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "topic_name": [
+      "Language Learning"
+    ], 
+    "description": "Are you a business executive or a manager who uses English in your career? Then you know that good business communication in English requires focus, vocabulary, and specific linguistic structures. In this course, you will follow along a recently promoted manager as she builds and leads her team to success. Together, you will practice the language and styles of communication  needed in English for: \n•\tRecruiting and training a professional team to work together with integrity and respect\n•\tManaging and participating in well-organized meetings\n•\tMaking telephone conferences more efficient\n•\tWriting professional emails that are easy to read\nThe activities in this course will give you the opportunity to share your experience and receive immediate feedback from other business professionals around the world.\n\n¿Es usted un ejecutivo de negocios o gerente que utiliza inglés en su profesión? Entonces Ud. sabe que la buena comunicación empresarial en inglés exige los enfoques, el vocabulario y las estructuras lingüísticas específicas. En este curso, Ud. seguirá, a lo largo con un gerente recién promovido, como ella construye y conduce a su equipo hacia el éxito. Juntos, ustedes practicarán el lenguaje y los estilos de comunicación en inglés necesarios para:\n·       Reclutar y el entrenar a un equipo profesional a trabajar juntos con integridad y respeto\n·       Manejar y participar en las reuniones bien organizadas\n·       Hacer que las conferencias telefónicas sean más eficaz\n·       Escribir correos electrónicos profesionales que sean fáciles de leer\nLas actividades en este curso le dan la oportunidad de compartir su experiencia y recibir retroalimentación inmediata de otros profesionales empresariales en todo el mundo.", 
+    "end_date": null, 
+    "title": "Inglés Empresarial: Gestión y Liderazgo ", 
+    "price": 0, 
+    "instructors": "Wanda Huber, Andrea Mürau Haraway, Jenny Young", 
+    "institution_name": [
+      "Arizona State University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8b/4446d061e911e5ac2f81e29d413c5a/Teamwork.jpg", 
+    "course_url": "https://en.coursera.org/learn/ingles-empresarial-gestion-liderazgo", 
+    "currency": null, 
+    "subject_name": [
+      "Education and Teaching"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "English"
+    ], 
+    "provider_name": [
+      "coursera"
+    ], 
+    "start_date": "2015-10-31T08:00:01Z"
   }, 
   {
     "selfpaced": false, 
@@ -1362,6 +1478,35 @@
       "coursera"
     ], 
     "start_date": "2016-04-23T04:42:16Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "topic_name": [
+      "Business Essentials"
+    ], 
+    "description": "El Proyecto Final de Conocimiento Aplicado de Wharton te permite aplicar tus habilidades analíticas a retos de negocios reales, incluyendo el tuyo. Usarás esas habilidades empresariales recientemente adquiridas, para evaluar de manera reflexiva una oportunidad o situación real de compañías dirigidas por Wharton como Televisa.También podrás preparar un análisis estratégico y plantear una solución a un reto al que se enfrente tu propia compañía u organización. Personal cualificado de Wharton evaluará los mejores trabajos, y equipos de dirección de Televisa revisarán los proyectos que obtengan mejor puntuación.", 
+    "end_date": null, 
+    "title": "Proyecto de Fundamentos Empresariales de Wharton", 
+    "price": 0, 
+    "instructors": "Christian Terwiesch", 
+    "institution_name": [
+      "University of Pennsylvania"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b3/8442d0da7011e5aa3f239013f9115f/capstone_foundation2.png", 
+    "course_url": "https://en.coursera.org/learn/wharton-proyecto-final-empresariales", 
+    "currency": null, 
+    "subject_name": [
+      "Business and Management"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "English"
+    ], 
+    "provider_name": [
+      "coursera"
+    ], 
+    "start_date": "2016-02-27T07:11:36Z"
   }, 
   {
     "selfpaced": false, 
@@ -1569,6 +1714,35 @@
   {
     "selfpaced": false, 
     "topic_name": [
+      "Electrical Engineering"
+    ], 
+    "description": "Este curso apresenta os principais conceitos do controle de sistemas e mostra suas vantagens e importância para a sociedade moderna. Você vai entender o que é o controle de sistemas e como o controle com realimentação funciona, e passará a perceber a sua presença em diversas situações em seu dia-a-dia, na natureza, no corpo humano e em diversos dispositivos, desde os mais simples até os mais complexos.\n\nVocê vai perceber a necessidade de modelos teóricos para a análise e o projeto do controle de sistemas e aprenderá como verificar se um sistema atende a determinados requisitos de desempenho. Você também aprenderá como projetar um controle simples de modo a obter o melhor desempenho possível de um sistema de controle. Este é apenas o primeiro passo em direção a um vasto campo do conhecimento e lhe dará a base e a segurança necessárias para avançar em seus estudos no maravilhoso mundo do controle de sistemas.", 
+    "end_date": null, 
+    "title": "Introdução ao Controle de Sistemas", 
+    "price": 0, 
+    "instructors": "Jackson Paul Matsuura, Rubens Junqueira Magalhães Afonso", 
+    "institution_name": [
+      "Instituto Tecnológico de Aeronáutica"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a7/9c2770d42711e5887797ab42779797/Controle00.png", 
+    "course_url": "https://en.coursera.org/learn/controle", 
+    "currency": null, 
+    "subject_name": [
+      "Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "English"
+    ], 
+    "provider_name": [
+      "coursera"
+    ], 
+    "start_date": "2016-02-27T09:03:21Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "topic_name": [
       "Language Learning"
     ], 
     "description": "Welcome to \"Chinese Characters for beginner\"!\nThis is an elementary course on learning Chinese characters. Together, we will start from the basic element of Chinese characters-- Strokes. Then we will learn 1,200 basic Chinese words composed of 240 commonly used Chinese characters, which begin with  “一”(one), including pronunciation, shape and meaning, so that to improve the learning effect. \n\n①  Each Chinese character is with pinyin;\n\n②  Each Chinese character is shown in the form of animation in the process of writing, namely strokes;\n\n③  English translation is used on the Chinese character can be a word itself. Other Chinese characters can not be independent of words are the characters of. The English translation of this kind of characters is marked in parentheses;\n\n④  Each Chinese word is accompanied by Pinyin, English translation and picture, which is easy to understand;\n\n⑤  There are proper exercises at the end of each lesson.\n\nGood luck !", 
@@ -1588,7 +1762,7 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Others"
+      "English"
     ], 
     "provider_name": [
       "coursera"

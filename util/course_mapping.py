@@ -60,9 +60,10 @@ def raw2json(raw_path,filename,isCoursera):
 #         if subject_name != "":
 #             if not provider_subjects.has_key(subject_name):
 
-
-
 def map_courses(raw_path,mapper_path,output_path,unmap_path):
+    if not os.path.exists(raw_path):
+        print "none"
+        return
     keep_topics_file = open("../data/provider_topics/keep_topics.json","r")
     raw_file = open(raw_path,'r')
     mapper_file = open(mapper_path, 'r')
@@ -134,6 +135,11 @@ if __name__ == '__main__':
     excute_mapping('en')
     print "mapping Chinese courses..."
     excute_mapping('ch')
+    print "mapping Korean courses..."
+    excute_mapping('ko')
+
+    print "mapping Japanese courses..."
+    excute_mapping('jp')
     print "mapping Other courses..."
     excute_mapping('others')
     print 'done!'

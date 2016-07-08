@@ -21,7 +21,7 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Chinese"
+      "English"
     ], 
     "provider_name": [
       "xuetang"
@@ -50,7 +50,7 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Chinese"
+      "English"
     ], 
     "provider_name": [
       "xuetang"
@@ -79,7 +79,7 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Chinese"
+      "English"
     ], 
     "provider_name": [
       "xuetang"
@@ -108,7 +108,7 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Chinese"
+      "English"
     ], 
     "provider_name": [
       "xuetang"
@@ -137,7 +137,7 @@
     ], 
     "duration": "14 weeks", 
     "language_name": [
-      "Chinese"
+      "English"
     ], 
     "provider_name": [
       "xuetang"
@@ -166,7 +166,36 @@
     ], 
     "duration": "17 weeks", 
     "language_name": [
-      "Chinese"
+      "English"
+    ], 
+    "provider_name": [
+      "xuetang"
+    ], 
+    "start_date": "2015-09-14T00:00:00Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "陈酌, 林润亮", 
+    "description": "简介: “微积分-2”讲授微积分的基础知识，主要内容包括：级数，幂级数，傅立叶级数，多元函数微积分，微分方程等。授课对象主要是理学、工学本科低年级大学生。本课程的特点是：1）中英文对照，英文为主；2）侧重理解, 应用和计算技能的训练；3）难度适中，面广实用。Calculus-2 teaches foundations of calculus. The main contents are: series, power series, Fourier series, multivariable functions and their calculus, and ODEs， etc.  The features of this course are: 1) Chinese-English based; 2) Focus on comprehension, applications, and practical stills; 3) Moderate difficulty with a vast range of contents.\n章节: Chapter 1 Improper Integrals 广义积分 (first part) Chapter 1 Improper Integrals 广义积分 (second part) Chapter 2 Infinite Series 无穷级数(first part)  Chapter 2 Infinite Series 无穷级数 (second part) Chapter 3 Power Series and Fourier Series  幂级数和Fourier级数 (first part) Chapter 3 Power Series and Fourier Series  幂级数和Fourier级数 (second part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (first part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (second part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (third part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (fourth part) Chapter 5 Multiple Integrals 重积分 (first part) Chapter 5 Multiple Integrals 重积分 (second part) Chapter 5 Multiple Integrals 重积分 (last part)", 
+    "end_date": null, 
+    "title": "微积分-2", 
+    "price": 0, 
+    "topic_name": [
+      "Calculus and Mathematical Analysis"
+    ], 
+    "institution_name": [
+      "清华大学"
+    ], 
+    "commitment": "5 hours/week", 
+    "cover_url": "http://www.xuetangx.com/asset-v1:Tsinghuax+10421065X_2015_T2+sp+type@asset+block@images_course_image.jpg", 
+    "course_url": "http://www.xuetangx.com/courses/course-v1:Tsinghuax+10421065X_2015_T2+sp/about", 
+    "currency": null, 
+    "subject_name": [
+      "Mathematics"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "English"
     ], 
     "provider_name": [
       "xuetang"
@@ -195,41 +224,12 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Chinese"
+      "English"
     ], 
     "provider_name": [
       "xuetang"
     ], 
     "start_date": "2016-02-22T00:00:00Z"
-  }, 
-  {
-    "selfpaced": true, 
-    "instructors": "陈酌, 林润亮", 
-    "description": "简介: “微积分-2”讲授微积分的基础知识，主要内容包括：级数，幂级数，傅立叶级数，多元函数微积分，微分方程等。授课对象主要是理学、工学本科低年级大学生。本课程的特点是：1）中英文对照，英文为主；2）侧重理解, 应用和计算技能的训练；3）难度适中，面广实用。Calculus-2 teaches foundations of calculus. The main contents are: series, power series, Fourier series, multivariable functions and their calculus, and ODEs， etc.  The features of this course are: 1) Chinese-English based; 2) Focus on comprehension, applications, and practical stills; 3) Moderate difficulty with a vast range of contents.\n章节: Chapter 1 Improper Integrals 广义积分 (first part) Chapter 1 Improper Integrals 广义积分 (second part) Chapter 2 Infinite Series 无穷级数(first part)  Chapter 2 Infinite Series 无穷级数 (second part) Chapter 3 Power Series and Fourier Series  幂级数和Fourier级数 (first part) Chapter 3 Power Series and Fourier Series  幂级数和Fourier级数 (second part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (first part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (second part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (third part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (fourth part) Chapter 5 Multiple Integrals 重积分 (first part) Chapter 5 Multiple Integrals 重积分 (second part) Chapter 5 Multiple Integrals 重积分 (last part)", 
-    "end_date": null, 
-    "title": "微积分-2", 
-    "price": 0, 
-    "topic_name": [
-      "Calculus and Mathematical Analysis"
-    ], 
-    "institution_name": [
-      "清华大学"
-    ], 
-    "commitment": "5 hours/week", 
-    "cover_url": "http://www.xuetangx.com/asset-v1:Tsinghuax+10421065X_2015_T2+sp+type@asset+block@images_course_image.jpg", 
-    "course_url": "http://www.xuetangx.com/courses/course-v1:Tsinghuax+10421065X_2015_T2+sp/about", 
-    "currency": null, 
-    "subject_name": [
-      "Mathematics"
-    ], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "xuetang"
-    ], 
-    "start_date": "2015-09-14T00:00:00Z"
   }, 
   {
     "selfpaced": false, 
@@ -253,7 +253,7 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Chinese"
+      "English"
     ], 
     "provider_name": [
       "xuetang"
@@ -282,11 +282,40 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Chinese"
+      "English"
     ], 
     "provider_name": [
       "xuetang"
     ], 
     "start_date": "2016-09-25T00:00:00Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "Eduardo Borensztein", 
+    "description": "简介: Las economías latinoamericanas han padecido en forma generalizada la falta de crecimiento e inestabilidad. Ha habido numerosos episodios de recesiones profundas, crisis bancarias, inflación desbordada y escasez de divisas. Todos estos factores afectan la calidad de vida en América Latina. En realidad, sólo con mayores niveles de crecimiento sostenido a través del tiempo, es posible pensar que América Latina supere la pobreza y mejore el nivel de vida de la región.\r\n\r\nEste curso analiza los principales desafíos que la región enfrenta en cuanto a su crecimiento económico y estabilidad macro-económica. Los contenidos serán presentados en un lenguaje simple y comprensible para todos aquellos participantes que no son especialistas en el área temática.\r\n\r\nEste curso pretende abordar las siguientes preguntas:\r\n\r\n¿Cuáles son los desafíos que enfrentan los países en América Latina y el Caribe para incrementar sus niveles de inversión privada? \r\n\t¿Por qué la productividad en la región es más baja comparada con la de otras regiones?\r\n\t¿Cuáles son los principales desafíos que enfrenta la infraestructura, sea ésta la relacionada con agua y saneamiento básico, el transporte o la energía, para mencionar algunos sectores?\r\n\t¿Por qué los recursos naturales, que abundan en la región, no siempre han dado los resultados esperados para propiciar el desarrollo regional?\r\n\t¿Cómo se originan la inestabilidad económica y las crisis macro-económicas?\r\n¿Cuál es el rol de las políticas monetarias, cambiarias y financieras para alcanzar estabilidad macro-económica?\r\n\r\nLatin American economies have suffered from a lack of growth and instability. There have been major recessions, bank crises, excessive inflation, and currency shortages. All of these factors affect the quality of life in Latin America. In reality, only with higher levels of economic growth sustained over time will it be possible for Latin America to overcome poverty and improve the region’s quality of life.\r\n\r\nThis course analyzes the main challenges the region faces regarding economic growth and macroeconomic stability in simple and understandable language for those who are not specialists in the subject area.\r\n\r\nThis course aims to address the following questions:\r\n\r\nWhat challenges do Latin American countries face in reaching increased private investment? \r\n\tWhy is the region's productivity lower than other regions?\r\n\tWhat are the main infrastructural challenges related to water and basic sanitation, transportation, energy, and other sectors?\r\n\tWhy haven't the natural resources, abundant in the region, always provided the expected results to contribute to regional development?\r\n\tHow did the region’s economic instability and macroeconomic crises originate?\r\nWhat is the role of monetary, exchange rate, and financial policies in achieving macroeconomic stability?", 
+    "end_date": "2015-08-04T00:00:00Z", 
+    "title": "拉丁美洲宏观经济现实", 
+    "price": 0, 
+    "topic_name": [
+      "Economics and Finance"
+    ], 
+    "institution_name": [
+      "泛美开发银行"
+    ], 
+    "commitment": "6 hours/week", 
+    "cover_url": "https://s.xuetangx.com/files/course/edx_image/idb9x-378x225.png", 
+    "course_url": "https://www.edx.org/course/la-realidad-macroeconomica-de-america-idbx-idb9x", 
+    "currency": null, 
+    "subject_name": [
+      "Business and Management"
+    ], 
+    "duration": "6 weeks", 
+    "language_name": [
+      "English"
+    ], 
+    "provider_name": [
+      "xuetang"
+    ], 
+    "start_date": "2015-06-23T00:00:00Z"
   }
 ]

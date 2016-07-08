@@ -117,11 +117,11 @@ def classify_courses(trainset,clf,input_path,output_path):
     output_file.write(json.dumps(courses,ensure_ascii=False,indent=2).encode('utf-8'))
     output_file.close()
 
-def classify_en_courses():
+def classify_en_courses(enforce=True):
     ## use english trainsets and classifier
     print "loading classifier ...",
     en_train = datasets.load_files("../data/datasets/en/train", encoding="utf-8")
-    keep_clf = load_en_clf(en_train, "../models/svm_en.pkl")
+    keep_clf = load_en_clf(en_train, "../models/svm_en.pkl",enforce_train=enforce)
     print "done."
 
     ### unmap coursera
@@ -185,6 +185,8 @@ def collect_all_courses(classified_dir):
         print "ERROR: %s is not a directory!" % classified_dir
         exit(1)
     classified_courses = []
+    course_urls = set()
+    dump_num = 0
     for sub_dir_name in os.listdir(classified_dir):
         sub_dir_path = os.path.join(classified_dir,sub_dir_name)
         if not os.path.isdir(sub_dir_path):
@@ -195,9 +197,15 @@ def collect_all_courses(classified_dir):
                 if file_name.find('classcentral') > -1:
                     continue
                 file_path = os.path.join(sub_dir_path,file_name)
-                classified_courses += json.loads(open(file_path).read())
+                # classified_courses += json.loads(open(file_path).read())
+                for clf_course in json.loads(open(file_path).read()):
+                    if not clf_course['course_url'].strip() in course_urls:
+                        course_urls.add(clf_course['course_url'].strip())
+                        classified_courses.append(clf_course)
+                    else:
+                        dump_num += 1
                 print "\t"+file_name
-    print "all classified courses count:",len(classified_courses)
+    print "all classified courses count:",len(classified_courses),"dump:",dump_num
     output_file = open(classified_dir+"/all_classified_courses.json","w")
     output_courses = json.dumps(classified_courses, ensure_ascii=False, indent=2)
     output_file.write(output_courses.encode("utf-8"))
@@ -205,7 +213,7 @@ def collect_all_courses(classified_dir):
 
 if __name__ == '__main__':
 
-    classify_en_courses()
+    classify_en_courses(True)
     collect_all_courses('../output/classified_courses')
     print "done."
 

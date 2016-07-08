@@ -266,7 +266,7 @@
     "title": "Creating an Analytical Dataset", 
     "price": 0, 
     "topic_name": [
-      "Business Analytics and Intelligence"
+      "Mobile and Web Development"
     ], 
     "institution_name": [
       "Alteryx"
@@ -276,7 +276,7 @@
     "course_url": "https://www.udacity.com/course/creating-an-analytical-dataset--ud977?utm_medium=referral&utm_campaign=api", 
     "currency": null, 
     "subject_name": [
-      "Business and Management"
+      "Programming"
     ], 
     "duration": null, 
     "language_name": [
@@ -2806,7 +2806,7 @@
     "title": "High Performance Computer Architecture", 
     "price": 0, 
     "topic_name": [
-      "Artificial Intelligence"
+      "Hardware and Operating System"
     ], 
     "institution_name": [
       "Georgia Institute of Technology"
@@ -3378,7 +3378,7 @@
     "title": "Applied Cryptography", 
     "price": 0, 
     "topic_name": [
-      "Personal and Career Development"
+      "Mobile and Web Development"
     ], 
     "institution_name": [], 
     "commitment": null, 
@@ -3386,7 +3386,7 @@
     "course_url": "https://www.udacity.com/course/applied-cryptography--cs387?utm_medium=referral&utm_campaign=api", 
     "currency": null, 
     "subject_name": [
-      "Education and Teaching"
+      "Programming"
     ], 
     "duration": "2 months", 
     "language_name": [
@@ -3405,7 +3405,7 @@
     "title": "Intro to Statistics", 
     "price": 0, 
     "topic_name": [
-      "Mobile and Web Development"
+      "Statistics and Probability"
     ], 
     "institution_name": [], 
     "commitment": null, 
@@ -3413,7 +3413,7 @@
     "course_url": "https://www.udacity.com/course/intro-to-statistics--st101?utm_medium=referral&utm_campaign=api", 
     "currency": null, 
     "subject_name": [
-      "Programming"
+      "Mathematics"
     ], 
     "duration": "2 months", 
     "language_name": [
@@ -3991,7 +3991,7 @@
     "title": "DevOps Engineer Nanodegree", 
     "price": 0, 
     "topic_name": [
-      "Mobile and Web Development"
+      "Personal and Career Development"
     ], 
     "institution_name": [], 
     "commitment": null, 
@@ -3999,7 +3999,7 @@
     "course_url": "https://www.udacity.com/course/devops-engineer-nanodegree--nd012?utm_medium=referral&utm_campaign=api", 
     "currency": null, 
     "subject_name": [
-      "Programming"
+      "Education and Teaching"
     ], 
     "duration": "6 months", 
     "language_name": [

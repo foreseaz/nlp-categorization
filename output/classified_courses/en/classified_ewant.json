@@ -21,7 +21,7 @@
     ], 
     "duration": "9 weeks", 
     "language_name": [
-      "Chinses"
+      "English"
     ], 
     "provider_name": [
       "ewant"
@@ -50,41 +50,12 @@
     ], 
     "duration": "1 week", 
     "language_name": [
-      "Chinses"
+      "English"
     ], 
     "provider_name": [
       "ewant"
     ], 
     "start_date": "2015-09-23T00:00:00Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "instructors": "教師: 王思齊", 
-    "description": "<div class=\"no-overflow\">Less is more<br>\r\nLong story short<br>\r\nThe idea is all that matters <br>\r\nAnd the heart is all that counts<br>\r\n“No man is an island.” <br>\r\nWe like to send out messages to be widely read and understood. <br>\r\nThis course tries to make it easier for you <br>\r\nto share ideas and connect hearts with the outside world.<br>\r\n<br>\r\n好的想法、概念或技術專業，不能僅止於內蘊自賞，更需要流傳分享！這是堂關於如何走進人群傳遞訊息的課，關於簡報溝通表達與自我風格的課。是門學習怎樣將錯綜複雜的訊息做簡易清晰呈現的課。<br>\r\n<br>\r\nSo please join us for the following few weeks. <br>\r\nHope we may take you to the starting line of presentation.<br>\r\n<br>\r\n課程介紹網站：http://ycy0227.wix.com/ncyu-mooc<br>\r\n</div>", 
-    "end_date": "2016-06-10T00:00:00Z", 
-    "title": "不只是簡報(2016春季班)", 
-    "price": 0, 
-    "topic_name": [
-      "Mobile and Web Development"
-    ], 
-    "institution_name": [
-      "國立嘉義大學"
-    ], 
-    "commitment": "9 hours", 
-    "cover_url": "http://210.242.151.144/mnet/service/enrol/download.php?id=72&area=overviewfiles", 
-    "course_url": "http://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=6&id=327", 
-    "currency": null, 
-    "subject_name": [
-      "Programming"
-    ], 
-    "duration": "9 weeks", 
-    "language_name": [
-      "Chinses"
-    ], 
-    "provider_name": [
-      "ewant"
-    ], 
-    "start_date": "2016-03-29T00:00:00Z"
   }, 
   {
     "selfpaced": false, 
@@ -108,12 +79,41 @@
     ], 
     "duration": "9 weeks", 
     "language_name": [
-      "Chinses"
+      "English"
     ], 
     "provider_name": [
       "ewant"
     ], 
     "start_date": "2015-11-17T00:00:00Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "教師: 王思齊", 
+    "description": "<div class=\"no-overflow\">Less is more<br>\r\nLong story short<br>\r\nThe idea is all that matters <br>\r\nAnd the heart is all that counts<br>\r\n“No man is an island.” <br>\r\nWe like to send out messages to be widely read and understood. <br>\r\nThis course tries to make it easier for you <br>\r\nto share ideas and connect hearts with the outside world.<br>\r\n<br>\r\n好的想法、概念或技術專業，不能僅止於內蘊自賞，更需要流傳分享！這是堂關於如何走進人群傳遞訊息的課，關於簡報溝通表達與自我風格的課。是門學習怎樣將錯綜複雜的訊息做簡易清晰呈現的課。<br>\r\n<br>\r\nSo please join us for the following few weeks. <br>\r\nHope we may take you to the starting line of presentation.<br>\r\n<br>\r\n課程介紹網站：http://ycy0227.wix.com/ncyu-mooc<br>\r\n</div>", 
+    "end_date": "2016-06-10T00:00:00Z", 
+    "title": "不只是簡報(2016春季班)", 
+    "price": 0, 
+    "topic_name": [
+      "Mobile and Web Development"
+    ], 
+    "institution_name": [
+      "國立嘉義大學"
+    ], 
+    "commitment": "9 hours", 
+    "cover_url": "http://210.242.151.144/mnet/service/enrol/download.php?id=72&area=overviewfiles", 
+    "course_url": "http://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=6&id=327", 
+    "currency": null, 
+    "subject_name": [
+      "Programming"
+    ], 
+    "duration": "9 weeks", 
+    "language_name": [
+      "English"
+    ], 
+    "provider_name": [
+      "ewant"
+    ], 
+    "start_date": "2016-03-29T00:00:00Z"
   }, 
   {
     "selfpaced": false, 
@@ -137,7 +137,7 @@
     ], 
     "duration": "13 weeks", 
     "language_name": [
-      "Chinses"
+      "English"
     ], 
     "provider_name": [
       "ewant"
@@ -166,7 +166,7 @@
     ], 
     "duration": "9 weeks", 
     "language_name": [
-      "Chinses"
+      "English"
     ], 
     "provider_name": [
       "ewant"
@@ -195,7 +195,7 @@
     ], 
     "duration": "7 weeks", 
     "language_name": [
-      "Chinses"
+      "English"
     ], 
     "provider_name": [
       "ewant"
@@ -224,7 +224,7 @@
     ], 
     "duration": "13 weeks", 
     "language_name": [
-      "Chinses"
+      "English"
     ], 
     "provider_name": [
       "ewant"
