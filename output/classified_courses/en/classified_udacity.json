@@ -1243,7 +1243,7 @@
     "title": "Intro to Computer Science", 
     "price": 0, 
     "topic_name": [
-      "Data Science and Analysis"
+      "Mobile and Web Development"
     ], 
     "institution_name": [], 
     "commitment": null, 
@@ -1251,7 +1251,7 @@
     "course_url": "https://www.udacity.com/course/intro-to-computer-science--cs101?utm_medium=referral&utm_campaign=api", 
     "currency": null, 
     "subject_name": [
-      "Computer Science"
+      "Programming"
     ], 
     "duration": "3 months", 
     "language_name": [
@@ -2806,7 +2806,7 @@
     "title": "High Performance Computer Architecture", 
     "price": 0, 
     "topic_name": [
-      "Hardware and Operating System"
+      "Artificial Intelligence"
     ], 
     "institution_name": [
       "Georgia Institute of Technology"
@@ -3991,7 +3991,7 @@
     "title": "DevOps Engineer Nanodegree", 
     "price": 0, 
     "topic_name": [
-      "Personal and Career Development"
+      "Mobile and Web Development"
     ], 
     "institution_name": [], 
     "commitment": null, 
@@ -3999,7 +3999,7 @@
     "course_url": "https://www.udacity.com/course/devops-engineer-nanodegree--nd012?utm_medium=referral&utm_campaign=api", 
     "currency": null, 
     "subject_name": [
-      "Education and Teaching"
+      "Programming"
     ], 
     "duration": "6 months", 
     "language_name": [

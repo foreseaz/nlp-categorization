@@ -102,7 +102,10 @@ if __name__ == '__main__':
                 course['description'] = ''
             content = course['title']+'\n'+course['description']
             lang = clf(content)
-            course['language_name'] = [lang]
+            if course.get('language_name') is None:
+                course['language_name'] = [lang]
+            elif len(course.get('language_name',[])) == 0:
+                course['language_name'] = [lang]
             lang_courses[lang].append(course)
         file.close()
         for lang_key in lang_courses.keys():

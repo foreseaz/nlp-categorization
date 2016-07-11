@@ -50,7 +50,7 @@
     ], 
     "duration": null, 
     "language_name": [
-      "English"
+      "Others"
     ], 
     "provider_name": [
       "coursera"
@@ -166,7 +166,7 @@
     ], 
     "duration": null, 
     "language_name": [
-      "English"
+      "Others"
     ], 
     "provider_name": [
       "coursera"
@@ -384,7 +384,7 @@
     "title": "The Brain and Space", 
     "price": 0, 
     "topic_name": [
-      "Chemistry"
+      "Biology"
     ], 
     "institution_name": [
       "Duke University"
@@ -394,7 +394,7 @@
     "course_url": "https://en.coursera.org/learn/human-brain", 
     "currency": null, 
     "subject_name": [
-      "Physical Science"
+      "Biology and Life Science"
     ], 
     "duration": null, 
     "language_name": [
@@ -8342,7 +8342,7 @@
     "title": "Cómo resolver problemas y tomar decisiones con eficacia", 
     "price": 0, 
     "topic_name": [
-      "Personal and Career Development"
+      "Economics and Finance"
     ], 
     "institution_name": [
       "University of California, Irvine"
@@ -8352,7 +8352,7 @@
     "course_url": "https://en.coursera.org/learn/resolucion-decisiones", 
     "currency": null, 
     "subject_name": [
-      "Education and Teaching"
+      "Business and Management"
     ], 
     "duration": null, 
     "language_name": [
@@ -9648,7 +9648,7 @@
     "title": "Moral Foundations of Politics ", 
     "price": 0, 
     "topic_name": [
-      "History"
+      "Philosophy and Ethics"
     ], 
     "institution_name": [
       "Yale University"
@@ -13913,7 +13913,7 @@
     "title": "Wind, Waves and Tides: Alternative Energy Systems", 
     "price": 0, 
     "topic_name": [
-      "Mobile and Web Development"
+      "Economics and Finance"
     ], 
     "institution_name": [
       "University of Toronto"
@@ -13923,7 +13923,7 @@
     "course_url": "https://en.coursera.org/course/windwavetide", 
     "currency": null, 
     "subject_name": [
-      "Programming"
+      "Business and Management"
     ], 
     "duration": null, 
     "language_name": [
@@ -14116,7 +14116,7 @@
     "title": "Conception et mise en œuvre d'algorithmes.", 
     "price": 0, 
     "topic_name": [
-      "Software Development"
+      "Online Education and Course Development"
     ], 
     "institution_name": [
       "École Polytechnique"
@@ -14126,7 +14126,7 @@
     "course_url": "https://en.coursera.org/course/algoprog", 
     "currency": null, 
     "subject_name": [
-      "Programming"
+      "Education and Teaching"
     ], 
     "duration": null, 
     "language_name": [
@@ -14174,7 +14174,7 @@
     "title": "Informatik für Ökonomen", 
     "price": 0, 
     "topic_name": [
-      "Disease and Medicine"
+      "Online Education and Course Development"
     ], 
     "institution_name": [
       "University of Zurich"
@@ -14184,7 +14184,7 @@
     "course_url": "https://en.coursera.org/course/inf4oec", 
     "currency": null, 
     "subject_name": [
-      "Health and Medicine"
+      "Education and Teaching"
     ], 
     "duration": null, 
     "language_name": [
@@ -17023,7 +17023,7 @@
     "title": "Responding to 9/11: Counterterrorism Policy in the 21st Century", 
     "price": 0, 
     "topic_name": [
-      "History"
+      "Law"
     ], 
     "institution_name": [
       "Duke University"
@@ -17033,7 +17033,7 @@
     "course_url": "https://en.coursera.org/learn/counterterrorism", 
     "currency": null, 
     "subject_name": [
-      "Arts and Humanities"
+      "Social Science"
     ], 
     "duration": null, 
     "language_name": [
@@ -17488,7 +17488,7 @@
     "title": "Principles of fMRI 1", 
     "price": 0, 
     "topic_name": [
-      "Economics and Finance"
+      "Physics and Astronomy"
     ], 
     "institution_name": [
       "Johns Hopkins University", 
@@ -17499,7 +17499,7 @@
     "course_url": "https://en.coursera.org/learn/functional-mri", 
     "currency": null, 
     "subject_name": [
-      "Business and Management"
+      "Physical Science"
     ], 
     "duration": null, 
     "language_name": [
@@ -28377,7 +28377,7 @@
     "title": "Introduction à la programmation orientée objet (en C++)", 
     "price": 0, 
     "topic_name": [
-      "Economics and Finance"
+      "Physics and Astronomy"
     ], 
     "institution_name": [
       "École Polytechnique Fédérale de Lausanne"
@@ -28387,7 +28387,7 @@
     "course_url": "https://en.coursera.org/learn/programmation-orientee-objet", 
     "currency": null, 
     "subject_name": [
-      "Business and Management"
+      "Physical Science"
     ], 
     "duration": null, 
     "language_name": [
@@ -31279,7 +31279,7 @@
     "title": "Fixing Healthcare Delivery", 
     "price": 0, 
     "topic_name": [
-      "Personal and Career Development"
+      "Disease and Medicine"
     ], 
     "institution_name": [
       "University of Florida"
@@ -31289,7 +31289,7 @@
     "course_url": "https://en.coursera.org/learn/fixing-healthcare", 
     "currency": null, 
     "subject_name": [
-      "Education and Teaching"
+      "Health and Medicine"
     ], 
     "duration": null, 
     "language_name": [
@@ -33374,7 +33374,7 @@
     "title": "Durabilité : état des lieux planétaire, scénarios envisageables", 
     "price": 0, 
     "topic_name": [
-      "Online Education and Course Development"
+      "Environmental Science and Sustainability"
     ], 
     "institution_name": [
       "University of Lausanne"
@@ -33384,7 +33384,7 @@
     "course_url": "https://en.coursera.org/course/durabilite", 
     "currency": null, 
     "subject_name": [
-      "Education and Teaching"
+      "Physical Science"
     ], 
     "duration": null, 
     "language_name": [
@@ -37356,7 +37356,7 @@
     "title": "Teach English Now! Capstone Project 2", 
     "price": 0, 
     "topic_name": [
-      "Leadership and Management"
+      "Teacher Development"
     ], 
     "institution_name": [
       "Arizona State University"
@@ -37366,7 +37366,7 @@
     "course_url": "https://en.coursera.org/learn/teaching-english-capstone-2", 
     "currency": null, 
     "subject_name": [
-      "Business and Management"
+      "Education and Teaching"
     ], 
     "duration": null, 
     "language_name": [
@@ -38547,7 +38547,7 @@
     "title": "Fundamentals of Global Energy Business", 
     "price": 0, 
     "topic_name": [
-      "Economics and Finance"
+      "Environmental Science and Sustainability"
     ], 
     "institution_name": [
       "University of Colorado System"
@@ -38557,7 +38557,7 @@
     "course_url": "https://en.coursera.org/learn/energy-business", 
     "currency": null, 
     "subject_name": [
-      "Business and Management"
+      "Physical Science"
     ], 
     "duration": null, 
     "language_name": [
@@ -40753,7 +40753,7 @@
     "title": "Poisonings in the Home and Community: Assessment and Emergency Response", 
     "price": 0, 
     "topic_name": [
-      "Disease and Medicine"
+      "Environmental Science and Sustainability"
     ], 
     "institution_name": [
       "University of California, San Francisco"
@@ -40763,7 +40763,7 @@
     "course_url": "https://en.coursera.org/course/poisonings", 
     "currency": null, 
     "subject_name": [
-      "Health and Medicine"
+      "Physical Science"
     ], 
     "duration": null, 
     "language_name": [
@@ -41536,7 +41536,7 @@
     "title": "Computer Networks", 
     "price": 0, 
     "topic_name": [
-      "Information Technology"
+      "Networks and Computer Security"
     ], 
     "institution_name": [
       "University of Washington"
@@ -44383,7 +44383,7 @@
     "title": "Ser más creativos", 
     "price": 0, 
     "topic_name": [
-      "Visual Arts and Photography"
+      "Economics and Finance"
     ], 
     "institution_name": [
       "Universidad Nacional Autónoma de México"
@@ -44393,7 +44393,7 @@
     "course_url": "https://en.coursera.org/learn/creatividad", 
     "currency": null, 
     "subject_name": [
-      "Arts and Humanities"
+      "Business and Management"
     ], 
     "duration": null, 
     "language_name": [
@@ -44412,7 +44412,7 @@
     "title": "Women and the Civil Rights Movement", 
     "price": 0, 
     "topic_name": [
-      "Law"
+      "Sociology"
     ], 
     "institution_name": [
       "University of Maryland, College Park"
@@ -47199,7 +47199,7 @@
     "title": "Mining Massive Datasets", 
     "price": 0, 
     "topic_name": [
-      "Statistics and Probability"
+      "Software Development"
     ], 
     "institution_name": [
       "Stanford University"
@@ -47209,7 +47209,7 @@
     "course_url": "https://en.coursera.org/course/mmds", 
     "currency": null, 
     "subject_name": [
-      "Mathematics"
+      "Programming"
     ], 
     "duration": null, 
     "language_name": [
@@ -47620,7 +47620,7 @@
     ], 
     "duration": null, 
     "language_name": [
-      "English"
+      "Others"
     ], 
     "provider_name": [
       "coursera"

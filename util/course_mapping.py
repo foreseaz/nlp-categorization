@@ -43,23 +43,6 @@ def raw2json(raw_path,filename,isCoursera):
     json_file.write(output_subjects.encode("utf-8"))
     json_file.close()
 
-# def extract_topics(provider_name):
-#     course_file = open(os.path.join('../data/raw_courses/total',provider_name+'_courses.json'))
-#     courses = json.loads(course_file.read())
-#     course_file.close()
-#
-#     provider_subjects = {}
-#     provider_topics = []
-#     for course in courses:
-#         topic_name = ""
-#         subject_name = ""
-#         if len(course['topic_name']) > 0:
-#             topic_name = course['topic_name'][0].strip()
-#         if len(course['subject_name']) > 0:
-#             subject_name = course['subject_name'][0].strip()
-#         if subject_name != "":
-#             if not provider_subjects.has_key(subject_name):
-
 def map_courses(raw_path,mapper_path,output_path,unmap_path):
     if not os.path.exists(raw_path):
         print "none"
