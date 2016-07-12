@@ -117,68 +117,24 @@ def classify_courses(trainset,clf,input_path,output_path):
     output_file.write(json.dumps(courses,ensure_ascii=False,indent=2).encode('utf-8'))
     output_file.close()
 
-def classify_en_courses(enforce=True):
+def classify_en_courses(provider_list,enforce=True):
     ## use english trainsets and classifier
     print "loading classifier ...",
     en_train = datasets.load_files("../data/datasets/en/train", encoding="utf-8")
     keep_clf = load_en_clf(en_train, "../models/svm_en.pkl",enforce_train=enforce)
     print "done."
 
-    ### unmap coursera
-    print "classify coursera ...",
-    classify_courses(en_train, keep_clf,
-                     "../output/unmap_courses/en/unmap_coursera.json",
-                     "../output/classified_courses/en/classified_coursera.json")
-    print "done."
-
-    ### unmap udemy
-    print "classify udemy ...",
-    classify_courses(en_train, keep_clf,
-                     "../output/unmap_courses/en/unmap_udemy.json",
-                     "../output/classified_courses/en/classified_udemy.json")
-    print "done."
-
-    ### canvas
-    print "classify canvas ...",
-    classify_courses(en_train, keep_clf,
-                     "../data/raw_courses/en/canvas_courses.json",
-                     "../output/classified_courses/en/classified_canvas.json")
-    print "done."
-
-    ### edx
-    print "classify edx ...",
-    classify_courses(en_train, keep_clf,
-                     "../data/raw_courses/en/edx_courses.json",
-                     "../output/classified_courses/en/classified_edx.json")
-    print "done."
-
-    ### ewant
-    print "classify ewant ...",
-    classify_courses(en_train, keep_clf,
-                     "../data/raw_courses/en/ewant_courses.json",
-                     "../output/classified_courses/en/classified_ewant.json")
-    print "done."
-
-    ### futurelearn
-    print "classify futurelearn ...",
-    classify_courses(en_train, keep_clf,
-                     "../data/raw_courses/en/futurelearn_courses.json",
-                     "../output/classified_courses/en/classified_futurelearn.json")
-    print "done."
-
-    ### xuetang
-    print "classify xuetang ...",
-    classify_courses(en_train, keep_clf,
-                     "../data/raw_courses/en/xuetang_courses.json",
-                     "../output/classified_courses/en/classified_xuetang.json")
-    print "done."
-
-    ### udacity
-    print "classify udacity ...",
-    classify_courses(en_train, keep_clf,
-                     "../data/raw_courses/en/udacity_courses.json",
-                     "../output/classified_courses/en/classified_udacity.json")
-    print "done."
+    for provider_name in provider_list:
+        print "classify", provider_name, "...",
+        if provider_name in ['coursera','udemy']:
+            classify_courses(en_train, keep_clf,
+                             "../output/unmap_courses/en/unmap_"+provider_name+".json",
+                             "../output/classified_courses/en/classified_"+provider_name+".json")
+        else:
+            classify_courses(en_train, keep_clf,
+                             "../data/raw_courses/en/"+provider_name+"_courses.json",
+                             "../output/classified_courses/en/classified_"+provider_name+".json")
+        print "done."
 
 def collect_all_courses(classified_dir):
     if not os.path.isdir(classified_dir):
@@ -212,9 +168,23 @@ def collect_all_courses(classified_dir):
     output_file.close()
 
 if __name__ == '__main__':
+    provider_list = [
+        'canvas',
+        # 'classcentral',
+        'coursera',
+        'edx',
+        'ewant',
+        'futurelearn',
+        'keepedx',
+        'keepmoodle',
+        'udacity',
+        'udemy',
+        'xuetang'
+    ]
+    classify_en_courses(provider_list,True)
 
-    classify_en_courses(True)
     collect_all_courses('../output/classified_courses')
+
     print "done."
 
     # cc_test = datasets.load_files("../data/datasets/en/test", encoding="utf-8")
