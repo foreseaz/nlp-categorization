@@ -2,77 +2,19 @@
   {
     "selfpaced": false, 
     "instructors": "", 
-    "description": "Reference manual about the KEEP products\n\nAbout This Course\nKEEP (Knowledge & Education Exchange Platform) is a cloud-based eLearning platform developed and initiated by the University with all partner institutions, funded by the University Grant Committee of the Hong Kong SAR Government.\nIt aims to offer a personalized educational portal for users to easily search, subscribe and access content related to education from the KEEP Cloud Ecosystem. It also supports the development of innovative teaching and learning with cutting-edge technology, as well as uncovers the most relevant results from different education resources.\n", 
+    "description": "This is the bundled edX demonstration course.\n\nAbout This Course\nInclude your long course description here. The long course description should contain 150-400 words.\nThis is paragraph 2 of the long course description. Add more paragraphs as needed. Make sure to enclose them in paragraph tags.\n\n\nPrerequisites\nAdd information about course prerequisites here.\n\n\nCourse Staff\n\n\n\n\nStaff Member #1\nBiography of instructor/staff member #1\n\n\n\n\n\nStaff Member #2\nBiography of instructor/staff member #2\n\n\n\n\nFrequently Asked Questions\n\nWhat web browser should I use?\nThe Open edX platform works best with current versions of Chrome, Firefox or Safari, or with Internet Explorer version 9 and above.\nSee our list of supported browsers for the most up-to-date information.\n\n\nQuestion #2\nYour answer would be displayed here.\n\n\n\n", 
     "end_date": "9999-12-31T23:59:59Z", 
-    "title": "KEEP User Guide", 
-    "price": 0.0, 
-    "topic_name": [
-      "Online Education and Course Development"
-    ], 
-    "institution_name": [
-      "keep"
-    ], 
-    "commitment": "", 
-    "cover_url": "https://edx.keep.edu.hk/asset-v1:keep+guide01+2015_1+type@asset+block@logo_KEEP_color_small_rgb_EDX.png", 
-    "course_url": "https://edx.keep.edu.hk/courses/course-v1:keep+guide01+2015_1/about", 
-    "currency": "", 
-    "subject_name": [
-      "Education and Teaching"
-    ], 
-    "duration": "", 
-    "language_name": [
-      "English"
-    ], 
-    "provider_name": [
-      "KEEP Open edX"
-    ], 
-    "start_date": "2015-09-01T00:00:00Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "instructors": "", 
-    "description": "Learn how to manage your course content on KEEP Moodle\n\nAbout This Course\nThis course demonstrates the functions required to build the basic course content.\nObjective\n\n    1. Upload files\n    2. Display online text\n    3. Display YouTube videos\n    4. Create forum\n  \nLanguage\nEnglish\n", 
-    "end_date": "9999-12-31T23:59:59Z", 
-    "title": "KEEP Moodle Course Management", 
-    "price": 0.0, 
-    "topic_name": [
-      "Teacher Development"
-    ], 
-    "institution_name": [
-      "keep"
-    ], 
-    "commitment": "", 
-    "cover_url": "https://edx.keep.edu.hk/asset-v1:keep+guide02+2015_1+type@asset+block@moodle-ladders-1024x681.jpg", 
-    "course_url": "https://edx.keep.edu.hk/courses/course-v1:keep+guide02+2015_1/about", 
-    "currency": "", 
-    "subject_name": [
-      "Education and Teaching"
-    ], 
-    "duration": "", 
-    "language_name": [
-      "English"
-    ], 
-    "provider_name": [
-      "KEEP Open edX"
-    ], 
-    "start_date": "2015-09-01T00:00:00Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "instructors": "", 
-    "description": "Learn how to manage your course content on KEEP Open edX\n\nAbout This Course\nThis course demonstrates the functions required to build the basic course content.\nObjective\n\n    1. Display online text\n    2. Display YouTube videos\n    3. Upload files\n    4. Create discussion\n  \nLanguage\nEnglish\n", 
-    "end_date": "9999-12-31T23:59:59Z", 
-    "title": "KEEP Open edX Course Management", 
+    "title": "edX Demonstration Course", 
     "price": 0.0, 
     "topic_name": [
       "Mobile and Web Development"
     ], 
     "institution_name": [
-      "keep"
+      "edX"
     ], 
     "commitment": "", 
-    "cover_url": "https://edx.keep.edu.hk/asset-v1:keep+guide03+2015_1+type@asset+block@logo-edx-openedx-41634_EDX.png", 
-    "course_url": "https://edx.keep.edu.hk/courses/course-v1:keep+guide03+2015_1/about", 
+    "cover_url": "https://edx.keep.edu.hk/asset-v1:edX+DemoX+Demo_Course+type@asset+block@images_course_image.jpg", 
+    "course_url": "https://edx.keep.edu.hk/courses/course-v1:edX+DemoX+Demo_Course/about", 
     "currency": "", 
     "subject_name": [
       "Programming"
@@ -84,14 +26,14 @@
     "provider_name": [
       "KEEP Open edX"
     ], 
-    "start_date": "2015-09-01T00:00:00Z"
+    "start_date": "2013-02-05T05:00:00Z"
   }, 
   {
     "selfpaced": false, 
     "instructors": "", 
-    "description": "Learn how to create and manage micro-modules on edore@KEEP\n\nAbout This Course\nThis course demonstrates the functions required to build exercises as micro-modules on edore@KEEP.\nObjective\n\n    1. Create Exercise\n    2. Organize Exersises into Set\n    3. Organize Sets into Class\n  \nLanguage\nEnglish\n", 
+    "description": "DEMO COURSE A\n\nAbout This Course\nInclude your long course description here. The long course description should contain 150-400 words.\nThis is paragraph 2 of the long course description. Add more paragraphs as needed. Make sure to enclose them in paragraph tags.\n\n\nRequirements\nAdd information about the skills and knowledge students need to take this course.\n\n\nCourse Staff\n\n\n\n\nStaff Member #1\nBiography of instructor/staff member #1\n\n\n\n\n\nStaff Member #2\nBiography of instructor/staff member #2\n\n\n\n\nFrequently Asked Questions\n\nWhat web browser should I use?\nThe Open edX platform works best with current versions of Chrome, Firefox or Safari, or with Internet Explorer version 9 and above.\nSee our list of supported browsers for the most up-to-date information.\n\n\nQuestion #2\nYour answer would be displayed here.\n\n\n\n", 
     "end_date": "9999-12-31T23:59:59Z", 
-    "title": "edore@KEEP User Guide", 
+    "title": "KEEP Open edX Repeating Course", 
     "price": 0.0, 
     "topic_name": [
       "Mobile and Web Development"
@@ -100,153 +42,8 @@
       "keep"
     ], 
     "commitment": "", 
-    "cover_url": "https://edx.keep.edu.hk/asset-v1:keep+guide04+2015_1+type@asset+block@logo_edore_KEEP_small_rgb_EDX.png", 
-    "course_url": "https://edx.keep.edu.hk/courses/course-v1:keep+guide04+2015_1/about", 
-    "currency": "", 
-    "subject_name": [
-      "Programming"
-    ], 
-    "duration": "", 
-    "language_name": [
-      "English"
-    ], 
-    "provider_name": [
-      "KEEP Open edX"
-    ], 
-    "start_date": "2015-10-01T00:00:00Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "instructors": "", 
-    "description": "This is a template course for KEEP users on the topic of \"Flipped Classroom\" - teachers can use this template to set up their courses. Please make sure to replace all content with own content!\n\nAbout This Course\nThis is a template course for KEEP users on the topic of \"Flipped Classroom\" - teachers can use this template to set up \n  Requirements\nNeed to be a KEEP user.\n\n\nCourse Staff\n\n\n\n\nStaff Member\nKEEP Team\n\n\n", 
-    "end_date": "9999-12-31T23:59:59Z", 
-    "title": "KEEP Template Course", 
-    "price": 0.0, 
-    "topic_name": [
-      "Teacher Development"
-    ], 
-    "institution_name": [
-      "keep"
-    ], 
-    "commitment": "", 
-    "cover_url": "https://edx.keep.edu.hk/asset-v1:keep+template01+2016_1+type@asset+block@Slide1.jpg", 
-    "course_url": "https://edx.keep.edu.hk/courses/course-v1:keep+template01+2016_1/about", 
-    "currency": "", 
-    "subject_name": [
-      "Education and Teaching"
-    ], 
-    "duration": "", 
-    "language_name": [
-      "English"
-    ], 
-    "provider_name": [
-      "KEEP Open edX"
-    ], 
-    "start_date": "2016-03-08T00:00:00Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "instructors": "", 
-    "description": "Exploration of foundational elements for different contexts of online learning, investigate educational trends in the modern classroom, and discuss emerging opportunities in the evolving learning ecosystem through online and face-to-face interactions.\n\nAbout This Course\nThis on-demand course will lead you through design considerations and implementation skills for e-learning at three different scales. We start by equipping you with the building blocks for creating your own videos, and exploring how to blend these into your on-campus teaching. Then we’ll shift from micro- to macro-level online learning. By immersing in the world of MOOCs, you’ll grapple with the nuances of teaching an international audience fully online. In the last part of the course, you will experience the power of educational data and the utilities of learning analytics for improving learning experience. Once you’ve taken this course, you’ll approach online teaching with a broadened lens, and come away with the skills required to kick-start your e-learning journey. \n\n\nCourse Staff\n\n\n\n\nHKU Technology-Enriched Learning Initiative (TELI)\nWe are TELI, a team of e-learning technologists, instructional designers, multimedia professionals, researchers and collaboration coordinators under Teaching and Learning of The University of Hong Kong (HKU). Our mission is to showcase, facilitate and improve technology-enriched teaching and learning (e-learning) across HKU. We hope to use technology as a tool to build genuine partnership with stakeholders in teaching and (e-)learning.\nIf you&rsquo;d like to get updates on HKU&rsquo;s e-learning seminars, workshops and other activities, please sign up our mailing list, visit our e-learning blog or subscribe our Facebook page.\n\n", 
-    "end_date": "9999-12-31T23:59:59Z", 
-    "title": "Scale Out Teaching; Scale Up Learning", 
-    "price": 0.0, 
-    "topic_name": [
-      "Online Education and Course Development"
-    ], 
-    "institution_name": [
-      "keep"
-    ], 
-    "commitment": "", 
-    "cover_url": "https://edx.keep.edu.hk/asset-v1:keep+hku01+2016_1+type@asset+block@scaleup.jpg", 
-    "course_url": "https://edx.keep.edu.hk/courses/course-v1:keep+hku01+2016_1/about", 
-    "currency": "", 
-    "subject_name": [
-      "Education and Teaching"
-    ], 
-    "duration": "", 
-    "language_name": [
-      "English"
-    ], 
-    "provider_name": [
-      "KEEP Open edX"
-    ], 
-    "start_date": "2016-05-27T00:00:00Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "instructors": "", 
-    "description": "This course consists of 2 units: (1) ETHICS for STUDENT RESEARCH PROJECTS with a focus on human participants and (2) Quantitative research design: survey research and questionnaire design. Each unit includes bilingual video lessons (i.e. English version and Chinese version). The first unit introduces the basic concept of research ethics and the process for applying for research ethics approval. The second unit distinguishes question formats in survey research and explains correlation and causality.  \nThe two units are chosen from 21 online units of the course Honours Project I for EdUHK undergraduate students. The course Honours Project I introduces basic research knowledge and principles of research methods in education and related disciplines for students to use and/or conduct research in education. It was implemented in spring 2016 in blended learning mode, with online units for student self-paced learning and face-to-face tutorials to complement online learning.  \n\nAbout This Course\nThis course consists of 2 units: (1) ETHICS for STUDENT RESEARCH PROJECTS with a focus on human participants and (2) Quantitative research design: survey research and questionnaire design. Each unit includes bilingual video lessons (i.e. English version and Chinese version). The first unit introduces the basic concept of research ethics and the process for applying for research ethics approval. The second unit distinguishes question formats in survey research and explains correlation and causality.\nThe two units are chosen from 21 online units of the course Honours Project I for EdUHK undergraduate students. The course Honours Project I introduces basic research knowledge and principles of research methods in education and related disciplines for students to use and/or conduct research in education. It was implemented in spring 2016 in blended learning mode, with online units for student self-paced learning and face-to-face tutorials to complement online learning. \n\n\n\n\n\nCourse Staff\n\n\n\n\nDr. WONG, Wai Ho Savio\nDr. Savio WONG is the Associate Professor and Associate Head of the Department of Special Education and Counselling at the Education University of Hong Kong. He is also the Director of the Centre for Brain and Education. His current research focuses on integrating neuroscience techniques in educational studies and examining the impact of education on brain development and its relationship with the decision-making ability of students.\n\n\n\n\n\nDr. BUCHTEL, Emma Ellen Kathrina\nDr. Emma Buchtel is the Assistant Professor at the Department of Psychological Studies of the Education University of Hong Kong. After graduating from Yale in 1999 with a B.A. in Psychology and Philosophy, Dr. Buchtel spent four years in China, teaching English at Yali Middle School (Changsha, Hunan) and at Peking University (Beijing). She received her M.A. (2005) and PhD (2009) from the University of British Columbia’s Department of Psychology with a focus on Cultural Psychology (within the Social-Personality area) and a minor in Quantitative Methods. Her interests revolve around culture’s effects on motivation, morality, and values, with a focus on improving cross-cultural understanding. Specific research foci include cultural differences in the value of extrinsic motivation, values about reasoning, moral judgments, and use of personality trait information; cultural-moral relativism; and the effects of teaching about cultural differences.\n\n\n", 
-    "end_date": "9999-12-31T23:59:59Z", 
-    "title": "Research Methods in Education", 
-    "price": 0.0, 
-    "topic_name": [
-      "Online Education and Course Development"
-    ], 
-    "institution_name": [
-      "EdUHK"
-    ], 
-    "commitment": "", 
-    "cover_url": "https://edx.keep.edu.hk/asset-v1:EdUHK+research01+2016_0+type@asset+block@HP_Image.jpg", 
-    "course_url": "https://edx.keep.edu.hk/courses/course-v1:EdUHK+research01+2016_0/about", 
-    "currency": "", 
-    "subject_name": [
-      "Education and Teaching"
-    ], 
-    "duration": "", 
-    "language_name": [
-      "English"
-    ], 
-    "provider_name": [
-      "KEEP Open edX"
-    ], 
-    "start_date": "2016-06-15T00:00:00Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "instructors": "", 
-    "description": "Hong Kong is very famous for its superb cuisine, which is a fantastic fusion of eastern and western styles. Cooking is both an art and a science. Good tasting foods and drinks are the results of perfect matches of ingredients and cooking methods. Foods and drinks are closely related to chemistry. Having some understanding about the chemistry of the food ingredients and the various cooking methods can help appreciating the connections between science and human life. This course will discuss the Hong Kong cuisine culture from the chemistry perspective, to explain why these famous foods and drinks are so tasty and popular. Examples include Chinese rotisserie (Siu Mei), wonton noodles, steamed seafoods, stewed beef brisket, silk stocking milk tea, and century egg with pickled ginger, etc. Consuming food and soups that carry health and therapeutic values is also a unique food culture in China and Southeast Asia. The course will introduce several typ es of food that are traditionally considered to have some specific functions, and discuss their scientific justifications from the chemistry point of views. Besides, pre-packaged food and fast food is an important eating culture of modern urban people. Some important issues about packaged food and fast food, such as food storage and packaging, uses of approved (and prohibited) food additives, alternative ingredients, and food testing, will also be discussed.\n\nAbout This Course\nHong Kong is very famous for its superb cuisine, which is a fantastic fusion of eastern and western styles. Cooking is both an art and a science. Good tasting foods and drinks are the results of perfect matches of ingredients and cooking methods. Foods and drinks are closely related to chemistry. Having some understanding about the chemistry of the food ingredients and the various cooking methods can help appreciating the connections between science and human life. This course will discuss the Hong Kong cuisine culture from the chemistry perspective, to explain why these famous foods and drinks are so tasty and popular. Examples include Chinese rotisserie (Siu Mei), wonton noodles, steamed seafoods, stewed beef brisket, silk stocking milk tea, and century egg with pickled ginger, etc. Consuming food and soups that carry health and therapeutic values is also a unique food culture in China and Southeast Asia. The course will introduce several typ es of food that are traditionally considered to have some specific functions, and discuss their scientific justifications from the chemistry point of views. Besides, pre-packaged food and fast food is an important eating culture of modern urban people. Some important issues about packaged food and fast food, such as food storage and packaging, uses of approved (and prohibited) food additives, alternative ingredients, and food testing, will also be discussed.\n\n", 
-    "end_date": "9999-12-31T23:59:59Z", 
-    "title": "Chemistry of Food and Drinks", 
-    "price": 0.0, 
-    "topic_name": [
-      "Nutrition and Wellness"
-    ], 
-    "institution_name": [
-      "cuhk"
-    ], 
-    "commitment": "", 
-    "cover_url": "https://edx.keep.edu.hk/asset-v1:edX+DemoX+Demo_Course+type@asset+block@images_course_image.jpg", 
-    "course_url": "https://edx.keep.edu.hk/courses/course-v1:cuhk+chemfooddrink+2016_0/about", 
-    "currency": "", 
-    "subject_name": [
-      "Health and Medicine"
-    ], 
-    "duration": "", 
-    "language_name": [
-      "English"
-    ], 
-    "provider_name": [
-      "KEEP Open edX"
-    ], 
-    "start_date": "2030-01-01T00:00:00Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "instructors": "", 
-    "description": "\n\nAbout This Course\nInclude your long course description here. The long course description should contain 150-400 words.\nThis is paragraph 2 of the long course description. Add more paragraphs as needed. Make sure to enclose them in paragraph tags.\n\n\nRequirements\nAdd information about the skills and knowledge students need to take this course.\n\n\nCourse Staff\n\n\n\n\nStaff Member #1\nBiography of instructor/staff member #1\n\n\n\n\n\nStaff Member #2\nBiography of instructor/staff member #2\n\n\n\n\nFrequently Asked Questions\n\nWhat web browser should I use?\nThe Open edX platform works best with current versions of Chrome, Firefox or Safari, or with Internet Explorer version 9 and above.\nSee our list of supported browsers for the most up-to-date information.\n\n\nQuestion #2\nYour answer would be displayed here.\n\n\n\n", 
-    "end_date": "9999-12-31T23:59:59Z", 
-    "title": "中醫保健養生學", 
-    "price": 0.0, 
-    "topic_name": [
-      "Mobile and Web Development"
-    ], 
-    "institution_name": [
-      "cuhk"
-    ], 
-    "commitment": "", 
-    "cover_url": "https://edx.keep.edu.hk/asset-v1:edX+DemoX+Demo_Course+type@asset+block@images_course_image.jpg", 
-    "course_url": "https://edx.keep.edu.hk/courses/course-v1:cuhk+chinesemedicine01+2016_0/about", 
+    "cover_url": "https://edx.keep.edu.hk/asset-v1:keep+demo01a+2015_2+type@asset+block@blank.png", 
+    "course_url": "https://edx.keep.edu.hk/courses/course-v1:keep+demo01a+2015_2/about", 
     "currency": "", 
     "subject_name": [
       "Programming"

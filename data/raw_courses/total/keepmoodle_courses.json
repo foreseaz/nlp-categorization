@@ -1,43 +1,296 @@
 [
   {
     "commitment": "", 
-    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=77", 
-    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/13353/course/overviewfiles/blank.png", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=129", 
+    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/2563/course/overviewfiles/banner3.jpg", 
     "currency": "", 
-    "description": "ENGG1410: Linear Algebra and Vector Calculus for EngineersVector calculus: 3-D vector space and algebra; vector differential calculus, gradient, divergence, curl; vector integral calculus, Green's theorem, Gauss's theorem, Stoke's theorem.Linear algebra: matrices, matrix addition, matrix multiplication, inverses, special matrices; vector spaces, basis and dimension, linear independence, rank, determinants; linear transformations, projection, orthogonality, systems of linear equations, Gaussian elimination, LU decomposition; eigenvalues and eigenvectors.", 
+    "description": "This course is used for testing Keeper dashboard features.", 
     "duration": "", 
     "end_date": "9999-12-31T23:59:59Z", 
     "institution_name": [
-      "KEEP_moodle"
+      "staging_moodle"
     ], 
     "instructors": "", 
     "language_name": [], 
     "price": 0.0, 
     "provider_name": [
-      "KEEPMoodle"
+      "KEEP Moodle"
     ], 
     "selfpaced": false, 
-    "start_date": "2016-06-01T00:00:00Z", 
+    "start_date": "2016-05-20T00:00:00Z", 
     "subject_name": [], 
-    "title": "Vector Calculus and Linear Algebra for Engineers", 
+    "title": "API test course", 
     "topic_name": []
   }, 
   {
     "commitment": "", 
-    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=4", 
-    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/146/course/overviewfiles/logo_KEEP_color_small4x3_rgb.png", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=128", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "This is a testing course for normalization", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2016-05-12T00:00:00Z", 
+    "subject_name": [], 
+    "title": "New Course 99", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=95", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2016-01-13T00:00:00Z", 
+    "subject_name": [], 
+    "title": "NEWCOURSE3", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=55", 
+    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/629/course/overviewfiles/Responsive-Web-Design-Workflow.png", 
+    "currency": "", 
+    "description": "We made a smartphone that brings the power of the cloud to everyone with an integrated cloud OS. We made it because we're tired of waiting on others. Because we believe in a cloud-first future. And because no one else was making the phone we wanted. This is the phone we want, and we think you'll want it too. Smarter. Powerful. Bold. And, direct to you. Now we need your help. Back us to help make next a reality now.", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-09-20T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Smartphone in the Future", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=53", 
+    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/619/course/overviewfiles/Responsive-Web-Design-Workflow.png", 
+    "currency": "", 
+    "description": "We made a smartphone that brings the power of the cloud to everyone with an integrated cloud OS. We made it because we're tired of waiting on others. Because we believe in a cloud-first future. And because no one else was making the phone we wanted. This is the phone we want, and we think you'll want it too. Smarter. Powerful. Bold. And, direct to you. Now we need your help. Back us to help make next a reality now.", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-09-20T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Smartphone in the Future", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=111", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2016-02-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "2016 TEST COURSE #15", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=109", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2016-02-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Earth Science", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=107", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2016-02-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "2016 TEST COURSE #13", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=105", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2016-02-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "2016 TEST COURSE #12", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=103", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2016-02-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "2016 TEST COURSE #11", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=99", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "\nThe course covers the\r\nskills of cracking business cases and making presentation for case\r\ncompetitions. Students are encouraged to participate in business case\r\ncompetitions to build up and strengthen their analytical and presentation\r\nskills. Students can gain overseas exposure through international competition\r\ntoo. ", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2016-01-18T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Case Analysis Skills", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=89", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-11-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Loading Test", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=7", 
+    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/133/course/overviewfiles/logo_KEEP_color_small4x3_rgb.png", 
     "currency": "", 
     "description": "KEEP (Knowledge & Education Exchange Platform) is a cloud-based eLearning platform developed and initiated by the University with all partner institutions, funded by the University Grant Committee of the Hong Kong SAR Government. It aims to offer a personalized educational portal for users to easily search, subscribe and access content related to education from the KEEP Cloud Ecosystem. It also supports the development of innovative teaching and learning with cutting-edge technology, as well as uncovers the most relevant results from different education resources.", 
     "duration": "", 
     "end_date": "9999-12-31T23:59:59Z", 
     "institution_name": [
-      "KEEP_moodle"
+      "staging_moodle"
     ], 
     "instructors": "", 
     "language_name": [], 
     "price": 0.0, 
     "provider_name": [
-      "KEEPMoodle"
+      "KEEP Moodle"
     ], 
     "selfpaced": false, 
     "start_date": "2015-09-01T00:00:00Z", 
@@ -47,20 +300,66 @@
   }, 
   {
     "commitment": "", 
-    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=6", 
-    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/206/course/overviewfiles/moodle-ladders-1024x681.jpg", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=2", 
+    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/23/course/overviewfiles/apple.jpg", 
     "currency": "", 
-    "description": "Course Overview:This course demonstrates the functions required to build the basic course content.Objective:Upload filesDisplay online textDisplay YouTube videosCreate forumAvailability: AlwaysLanguage: English", 
+    "description": "Input Course summary here...", 
     "duration": "", 
     "end_date": "9999-12-31T23:59:59Z", 
     "institution_name": [
-      "KEEP_moodle"
+      "staging_moodle"
     ], 
     "instructors": "", 
     "language_name": [], 
     "price": 0.0, 
     "provider_name": [
-      "KEEPMoodle"
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "KEEP Moodle Demo Course", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=5", 
+    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/73/course/overviewfiles/edx-openedx-logo.png", 
+    "currency": "", 
+    "description": "Course Overview:This course demonstrates the functions required to build the basic course content.Objective:Display online textDisplay YouTube videosUpload filesCreate discussionAvailability: AlwaysTime Required: 2 hours including practiceLevel: BeginnerLanguage: English", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-09-15T00:00:00Z", 
+    "subject_name": [], 
+    "title": "KEEP Open edX Course Management", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=3", 
+    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/49/course/overviewfiles/moodle-ladders-1024x681.jpg", 
+    "currency": "", 
+    "description": "Course Overview:This course demonstrates the functions required to build the basic course content.Objective:Upload filesDisplay online textDisplay YouTube videosCreate forumAvailability: AlwaysTime Required: 2 hours including practiceLevel: BeginnerLanguage: English", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
     ], 
     "selfpaced": false, 
     "start_date": "2015-09-01T00:00:00Z", 
@@ -70,48 +369,393 @@
   }, 
   {
     "commitment": "", 
-    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=8", 
-    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/226/course/overviewfiles/logo-edx-openedx-41634.png", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=114", 
+    "cover_url": "", 
     "currency": "", 
-    "description": "Course Overview:This course demonstrates the functions required to build the basic course content.Objective:Display online textDisplay YouTube videosUpload filesCreate discussionAvailability: AlwaysLanguage: English", 
+    "description": "Soft Skills Mentor is an e-Learning platform that promotes \r\nexperiential learning of social-affective skills in a business context. \r\nThrough completing self-assessment material and doing online exercises, \r\nyou will learn the basics of effective communication and interpersonal \r\nskills, and the soft skills required to function in global business \r\nenvironments.At the Soft Skills Mentor, you can learn at your own pace, choosing a path among current courses, includingCareer PlanningInterviewing SkillsResume WritingPresentation SkillsFor\r\n maximum results, we encourage you to participate in the associated \r\nenrichment workshops where you can apply and experience what you have \r\nlearned.Use of these materials will enrich your university \r\nexperience. It is our sincere hope that you will complete your studies \r\nat CUHK with a sense of fulfillment, well-equipped for your future \r\nendeavours.Contact us: Email: soft_skills_mentor@cuhk.edu.hk", 
     "duration": "", 
     "end_date": "9999-12-31T23:59:59Z", 
     "institution_name": [
-      "KEEP_moodle"
+      "staging_moodle"
     ], 
     "instructors": "", 
     "language_name": [], 
     "price": 0.0, 
     "provider_name": [
-      "KEEPMoodle"
-    ], 
-    "selfpaced": false, 
-    "start_date": "2015-09-01T00:00:00Z", 
-    "subject_name": [], 
-    "title": "KEEP Open edX Course Management", 
-    "topic_name": []
-  }, 
-  {
-    "commitment": "", 
-    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=10", 
-    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/284/course/overviewfiles/logo_edore_KEEP_small_rgb.png", 
-    "currency": "", 
-    "description": "Course Overview:This course demonstrates the functions required to build exercises as micro-modules on edore@KEEP.Objective:Create ExerciseOrganize Exercises into SetOrganize Sets into ClassAvailability: AlwaysLanguage: English", 
-    "duration": "", 
-    "end_date": "9999-12-31T23:59:59Z", 
-    "institution_name": [
-      "KEEP_moodle"
-    ], 
-    "instructors": "", 
-    "language_name": [], 
-    "price": 0.0, 
-    "provider_name": [
-      "KEEPMoodle"
+      "KEEP Moodle"
     ], 
     "selfpaced": false, 
     "start_date": "2015-10-01T00:00:00Z", 
     "subject_name": [], 
-    "title": "edore@KEEP User Guide", 
+    "title": "Soft Skills Mentor [TEST]", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=112", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skills Mentor - Module 2B - Resume Writing", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=65", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skills Mentor - Overview", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=57", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skill Mentor - Module 1 - Career Planning", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=59", 
+    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/837/course/overviewfiles/image03.png", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skills Mentor - Module 2 - Resume Writing", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=61", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skill Mentor - Module 3 - Presentation Skills", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=63", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skill Mentor - Module 4 - Interviewing Skills", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=67", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skill Mentor - Module 5 - Business Ethics", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=69", 
+    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/887/course/overviewfiles/image02.png", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skills Mentor - Module 6 - Career Outlook", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=71", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skill Mentor - Module 7 - 5-minute Business G.E.", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=73", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skill Mentor - Module 8 - Case Analysis Skills", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=75", 
+    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/917/course/overviewfiles/image05.png", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skill Mentor - Module 9 - Social Etiquette", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=77", 
+    "cover_url": "https://moodle.keep.edu.hk/pluginfile.php/927/course/overviewfiles/image04.png", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skills Mentor - Module 10 - Team Communication", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=79", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skill Mentor - Module 11 - Business Wisdom", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=81", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skill Mentor - Module 12 - IT Skills", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=83", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skills Mentor - Module 13 - Internship", 
+    "topic_name": []
+  }, 
+  {
+    "commitment": "", 
+    "course_url": "https://moodle.keep.edu.hk/course/view.php?id=85", 
+    "cover_url": "", 
+    "currency": "", 
+    "description": "", 
+    "duration": "", 
+    "end_date": "9999-12-31T23:59:59Z", 
+    "institution_name": [
+      "staging_moodle"
+    ], 
+    "instructors": "", 
+    "language_name": [], 
+    "price": 0.0, 
+    "provider_name": [
+      "KEEP Moodle"
+    ], 
+    "selfpaced": false, 
+    "start_date": "2015-10-01T00:00:00Z", 
+    "subject_name": [], 
+    "title": "Soft Skill Mentor - Module 14 - Guide to Professional Qualification", 
     "topic_name": []
   }
 ]

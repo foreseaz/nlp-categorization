@@ -1,12 +1,99 @@
 [
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
+    "description": "“数据结构与算法”是计算机学科中的核心基础课程。课程的主要目标培养学生较全面地理解基本数据结构的概念和经典算法的思想及各种实现方法，掌握数据结构和算法的设计分析技术。根据所求解问题的性质选择合理的数据结构并对时间空间复杂性进行必要的控制，提高程序设计的质量。使得学生在将来的学习、研究和工作中，具备设计和实现高效的数据结构和算法的能力。 ", 
+    "end_date": null, 
+    "title": "数据结构与算法  Data Structures and Algorithms", 
+    "price": 0, 
+    "topic_name": [
+      "algorithms"
+    ], 
+    "institution_name": [
+      "Peking University"
+    ], 
+    "commitment": "4-8 hours/week", 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/09/28f673583f2c4f13e0ec18205aacc7/sjjg_608x211_info.jpg", 
+    "course_url": "https://en.coursera.org/course/dsalgo", 
+    "currency": null, 
+    "subject_name": [
+      "computer-science"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": null
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
+    "description": "介紹國際職場素養的內涵及相關課題，培育學生應有的職場視野與能力，便利學生融入職場環境，迅速自新手成為高手，裕如地發揮所學與所長。", 
+    "end_date": null, 
+    "title": "職場素養 (Professionalism)", 
+    "price": 0, 
+    "topic_name": [
+      "business-essentials"
+    ], 
+    "institution_name": [
+      "National Taiwan University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a5/c7abc0186411e49569bd8fae65d268/600x340.jpg", 
+    "course_url": "https://en.coursera.org/learn/zhichang-suyang", 
+    "currency": null, 
+    "subject_name": [
+      "business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2015-08-12T04:18:55Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "黃尹男  Yin-Nan Huang", 
+    "description": "課程介紹與教學目標 (About the course)\n　　房屋為我們遮風避雨，讓我們安心工作、生活，而結構系統又是房屋的骨幹，讓房屋能站的又高、又直、又穩。你知道橫者為梁，直者為柱，但你知道在結構工程師的眼中，梁與柱有什麼其他的不同嗎？他們其中藏著什麼秘密，能支撐起整個結構？工程師要怎麼決定梁該有多深？柱該有多粗？該用矩形、圓形還是其他形狀？該用實心還是空心？在有地震的地方，設計上是否又有不一樣的考量？\n　　材料力學是通往上述問題解答關鍵的一步。在材料力學(一)裡，我們會由大家熟知的虎克定律開始，以蓋房子的重要材料「結構鋼」為例，深入探討「力量」與「變形」這兩個令結構工程師愛恨交加的物理量之間的關係。然後依序探討結構桿件受軸力（拉/壓）、受扭、受彎、受剪四大外力作用下，會在桿件內部產生怎樣的相對應變形與受力，並探討建築結構設計概念與提供桿件設計演算範例。\n　　本課程是希望精通「鋼筋混凝土設計」、「鋼結構設計」、「木構造設計」者必備的先修課程，也為對「彈性力學」有興趣者，提供許多基礎知識與這些知識如何實際應用於工程設計。\n主要授課對象為土木、建築相關從業人員與在學學生，其他包括工學院各科系同學或對材料力學有興趣的人士，也歡迎選修。\n\n授課形式 (Course format)\n　　本堂課將以影片的形式為主, 搭配課後作業及期末報告的形式來進行。\n\n修課背景要求 (Recommended background)\n　　靜力學 ( Statics )", 
+    "end_date": null, 
+    "title": "材料力學一 (Mechanics of Materials I)", 
+    "price": 0, 
+    "topic_name": [
+      "mechanical-engineering"
+    ], 
+    "institution_name": [
+      "National Taiwan University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/87/25ae60971111e590b26f18b4aa42ec/__logo.jpg", 
+    "course_url": "https://en.coursera.org/learn/mechanics-of-materials-1", 
+    "currency": null, 
+    "subject_name": [
+      "physical-science-and-engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-01-12T05:40:28Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
     "description": "本课程是北京大学开设的一门在线大学化学基础课，主要面向具有大学水平的化学初学者。课程内容基本涵盖全部基础化学概念。", 
     "end_date": null, 
     "title": "大学化学", 
     "price": 0, 
-    "instructors": "4515827", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -20,18 +107,43 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-09-18T08:09:27Z"
   }, 
   {
     "selfpaced": false, 
+    "instructors": "", 
+    "description": "在本课程中，你将了解如何运用模型进行思考、理解我们生活的这个复杂世界。", 
+    "end_date": null, 
+    "title": "Model Thinking 模型思维（中文版）", 
+    "price": 0, 
     "topic_name": [], 
+    "institution_name": [
+      "University of Michigan"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/c5/75a1e0477311e595ba1fba66d4bb16/modelthinking.png", 
+    "course_url": "https://en.coursera.org/course/modelthinkingzh", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": null
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": ", ", 
     "description": "本课程为面向中学生的零基础大学先修课。课程内容为依托C++讲授C语言程序设计,即讲授C++语言中除面向对象特性以外的部分（与C语言重叠的部分）、C++  STL中最常用的用于排序和查找的算法和容器，以及简单排序，顺序查找、二分、递归初步等基础编程思想。", 
     "end_date": null, 
     "title": "程序设计与算法（大学先修课）", 
     "price": 0, 
-    "instructors": "15154022, 5233026", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -45,18 +157,43 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
+    "instructors": "许 肖潇, 梁永安, 龚金平", 
+    "description": "电影编剧不同于文学创作，它意味着要以影像化、动作化的方式赋予故事生命，在这个意义上，编剧不仅是导演，而且还是那个灵动的新世界的创造者。这个世界中的每一个人物命运，每一个起承转合，都表达着创作者对于人性的判断和立场。本课程将通过丰富的案例和针对性的练习，阐述电影编剧的基本步骤、基础知识和内在规律。", 
+    "end_date": null, 
+    "title": "编剧：像导演一样编剧", 
+    "price": 0, 
     "topic_name": [], 
+    "institution_name": [
+      "Fudan University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/74/484920bd1711e59b19b7c7ac4e469b/_______.jpg", 
+    "course_url": "https://en.coursera.org/learn/bian-ju", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-05-02T22:49:10Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
     "description": "学了C/C++ 语言，我们已经会编程解题了，那怎么用来处理实际的问题呢？\n怎么设计数据结构来有效地管理企业人员？如何编写程序没让人才和岗位达到最佳匹配？如何安排旅行计划，找到最佳行程路径？这些学习、工作、生活中常常困扰我们的问题，你将在《数据结构基础》课程中找到答案。\n数据结构是计算机程序设计的基础，告诉我们数据在计算机里是如何组织与存储的，能帮助我们刻画实际问题中的信息及其相互关系。当我们对一个实际问题本身有了一个结构化的认识之后，就可以选择合适的解决方法了。\n完成这门课之时，你将掌握线性表、栈与队列、字符串、二叉树、树、图等经典的数据结构，并运用这些基础数据结构和相关算法解决实际应用问题。扎实的数据结构知识是项目开发与结构层次设计的关键，学好这门课会让你在高年级的计算机专业课程以及毕业项目设计中事半功倍，同时也将为你成为一名优秀的程序设计人员打下坚实的基础。\n\n附：本课程的内容来自教材：《数据结构与算法》（张铭、王腾蛟、赵海燕 编著），高等教育出版社，2008年。", 
     "end_date": null, 
     "title": "数据结构基础", 
     "price": 0, 
-    "instructors": "2499461", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -70,18 +207,43 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-07-21T03:49:54Z"
   }, 
   {
     "selfpaced": false, 
+    "instructors": "", 
+    "description": "東坡詞如秋夜的星光、月色，既遙遠又親近。我們以愉悅的心情展讀《東坡詞》，徜徉於〈水調歌頭〉、〈江城子〉、〈定風波〉與〈念奴嬌〉等作品裡，如晤故人，自能心領神會，除了可以看見天才駕馭技巧的藝術表現，更可貼近東坡的內在世界，親切感受一個偉大心靈的躍動，以豐富我們的生命境界，讓我們知曉如何在人情世界中尋得心靈的安頓。", 
+    "end_date": null, 
+    "title": "東坡詞 (Ci Poetry of Su Dong Po)", 
+    "price": 0, 
     "topic_name": [], 
+    "institution_name": [
+      "National Taiwan University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/4e/9d1f00c14d11e48956b3e48b928366/___.jpg", 
+    "course_url": "https://en.coursera.org/learn/su-dongpo", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-05-13T08:06:18Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "陈斌", 
     "description": "离散数学是计算机科学的基础理论，离散结构的基础知识和逻辑思维的形式化是信息技术类学生的基本功，离散数学的基本概念是理科专业学生进行信息类课程学习的重要基础。\n\n本课程介绍计算机科学和信息技术理论基础的概念和思想方法，介绍数理逻辑、集合论、图论、抽象代数和形式语言与自动机等各部分的基本概念，介绍离散数学基本概念和空间信息技术之间的联系与结合，培养学生理解和掌握离散数学基本概念，采用形式化方法分析问题，并能自觉运用逻辑分析、结构层次分析和同构类比等思想方法解决问题的能力。", 
     "end_date": null, 
     "title": "离散数学概论 Discrete Mathematics Generality", 
     "price": 0, 
-    "instructors": "陈斌", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -95,18 +257,93 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-07-01T08:31:28Z"
   }, 
   {
     "selfpaced": false, 
+    "instructors": "", 
+    "description": "東坡詞如秋夜的星光、月色，既遙遠又親近。我們以愉悅的心情展讀《東坡詞》，徜徉於〈水調歌頭〉、〈江城子〉、〈定風波〉與〈念奴嬌〉等作品裡，如晤故人，自能心領神會，除了可以看見天才駕馭技巧的藝術表現，更可貼近東坡的內在世界，親切感受一個偉大心靈的躍動，以豐富我們的生命境界，讓我們知曉如何在人情世界中尋得心靈的安頓。", 
+    "end_date": null, 
+    "title": "東坡詞 (Ci Poetry of Su Dong Po)", 
+    "price": 0, 
     "topic_name": [], 
+    "institution_name": [
+      "National Taiwan University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/4f/9561b0c14d11e4b50d5fb8be3e772e/___.jpg", 
+    "course_url": "https://en.coursera.org/course/dpc", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": null
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": ", Peter Fader, David Bell", 
+    "description": "通过探究客户决策根源，学习市场营销基础知识。主要课题包括品牌塑造战略（例如，品牌定位、品牌传播）、客户中心化市场营销战略，以及新市场开拓（例如，渠道战略、市场营销规划）。成功完成本课程后，您可以运用所学技能处理现实商务挑战，这也是沃顿商学院商务基础专项课程的组成部分。", 
+    "end_date": null, 
+    "title": "市场营销概论 (中文版）", 
+    "price": 0, 
+    "topic_name": [], 
+    "institution_name": [
+      "University of Pennsylvania"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f2/b3dd00fa7c11e485c32f4256a893fe/online_learning_slide_vMarketing.jpg", 
+    "course_url": "https://en.coursera.org/learn/wharton-shichang-ying-xiao", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-04-02T05:47:50Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "孟和", 
+    "description": "【课程介绍】-------------------------------------------------------------------\n\n       人类社会进入21世纪生命科学发展迅猛，极大地改变和提高了人们的生产和生活水平，已经成为当今的主流科学。然而，它也经历了从荒蛮无知到博物学、生物学、现代生命科学的曲折过程。这里充满了人类睿智思考和大胆尝试，充满了旧思想束缚和新思想顽强抗争和成功突破。\n\n       《生命科学发展史》 虽然属于科学史范畴，但并没有按照实证主义编年史方法进行阐述，而是更多地采用思想史方法展开。课程通过介绍生命科学重要学科、重要发现和重要人物，系统地展示了生命科学产生和发展全貌。课程在讲解生命科学基本知识的同时，注重介绍知识产生和发展的社会和自然背景、注重剖析期间人类思维方式的变化和发展，旨在使学生全面系统地了解生命科学基本知识及其产生和发展历程，在拓宽学生的知识面和视野的同时，培养和提高学生的科学素养和独立分析问题的能力。\n课程要达到的目标：“拓宽知识，学会思考”\n\n【课程大纲】-------------------------------------------------------------------\n\n第一单元  绪论\n    （一）近三年《科学》十大进展\n    （二）课程简介\n第二单元  人类起源与发展\n    （一）宇宙的形成\n    （二）生命的出现\n    （三）人类的产生和发展\n第三单元  从古代哲学到近代科学\n    （一）关于宇宙和生命的哲学思考\n    （二）西方医学和生物学体系\n    （三）欧洲文艺复兴与生命科学\n第四单元  生物的分类和演化\n    （一）生物分类思想和方法\n    （二）达尔文及其进化思想\n    （三）达尔文以后的进化思想\n第五单元  人体生理学：人类的自我认识\n    （一）早期的生理学派\n    （二）神经和内分泌生理学\n第六单元  走近微生物世界\n    （一）显微镜与微生物种类\n    （二）认识致病微生物\n    （三）人类同致病微生物的抗争。\n第七单元  从细胞学说到胚胎发育\n    （一）细胞：组成生命体的基本单位\n    （二）胚胎：生命的开始\n    （三）克隆：惊奇的设想\n第八单元  生命是什么？从孟德尔的豌豆说起\n    （一）经典遗传学\n    （二）分子生物学\n第九单元  生物组学：不再钓鱼，而是捞鱼!\n    （一）人类基因组计划\n    （二）基因组测序技术和应用\n    （三）后基因组时代-生物组学和系统生物学\n第十单元  课程总结\n    （一）生命科学发展回顾与展望\n    （二）历年诺贝尔生理学或医学奖概览\n\n【教材教参】-------------------------------------------------------------------\n\n    《生命科学发展史》孟和  自编讲义\n    《生命科学发展史》姚敦义 主编，济南出版社，2005年5月。\n    《生物学思想发展的历史》Ernst Mayr, 涂长晟 等译, 四川教育出版社，1990 \n    《生命科学发展史》杨学仁 主编，武汉大学出版社，1990.11.01\n    《生命科学史》Lois N. Magner, 李难，崔极谦，王水平译，百花文艺出版社《生物科学发展史》尹淑媛 陈麟书 编著，成都科技出版社 1989.10\n    《寻找生命的逻辑》 方舟子 著，上海交通大学出版社 2005.10\n    《双螺旋：发现DNA结构的故事 》J.D.沃森，科学出版社 ，2006 . 2\n    《创世纪的第八天》霍勒斯•贾德森著 李晓丹译 , 上海科技出版社 2005.1\n    《生命是什么》埃尔温•薛定谔，湖南科学技术出版社，2005. 3 \n    《基因论》摩尔根 著，北京大学出版社，2007\n    《物种起源》达尔文，新世界出版社，2007\n    《解码生命》贺林，科学出版社，2000", 
+    "end_date": null, 
+    "title": "生命科学发展史", 
+    "price": 0, 
+    "topic_name": [], 
+    "institution_name": [
+      "Shanghai Jiao Tong University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/1c/7b5af0a23911e5a1194980a242f8bd/_______-c.jpg", 
+    "course_url": "https://en.coursera.org/learn/shengming-kexue-fazhanshi", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-03-08T02:47:22Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
     "description": "基于20世纪西方音乐，什么是音乐、什么是20世纪西方音乐及什么是有效聆听为全课核心线索，引导学生发展美感能力，促进其全面聆听能力的培养。The course aims to provide a clear view of the historical development of music and emphasizes the training of aural skills. ", 
     "end_date": null, 
     "title": "20世纪西方音乐 Western Music in the 20th Century", 
     "price": 0, 
-    "instructors": "8614678", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -120,24 +357,24 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
-    "description": "這門課是「CAD/BIM技術與應用」專項課程的第七門課，屬於BIM系列課程：「工程資訊管理BIM基礎」、「工程資訊管理BIM塑模」及「工程資訊管理BIM應用」的第三門課。\n\n修習這門課之前，應具備BIM的基礎知識與BIM塑模的技能。「CAD/BIM技術與應用」專項課程的「工程資訊管理BIM基礎」、「工程資訊管理BIM塑模」課程，可提供修習這門課前所需具備的相關知識與技能。\n\nBIM技術目前熾手可熱，廣泛的被應用在整個建築生命週期中。這門課將介紹兩項工程基礎實務的BIM應用：「工程數量估算」與「工程進度排程」。課程中會說明「工程數量估算」與「工程進度排程」的目的，並比較導入BIM技術前後，對工程數量估算與工程進度排程的影響。實作方面，學習者將會操作我們精心準備的案例，應用所學的BIM技術，估算工程數量與建立工程排程的模擬。在運用BIM技術於案例的過程中，將可深深地體驗到BIM應用的潛力。\n\n想了解BIM在工程上的應用嗎？這門課適合具備BIM基礎能力，並想延伸應用BIM技術的人。完成此課程後，你將具備應用BIM技術於「工程數量估算」與「工程進度排程」的能力，並能據以協助實際工程專案的管理。", 
+    "instructors": "张莉", 
+    "description": "本课程主要面向非计算机专业学生，从Python基本语法开始，到Python中如何从本地和网络上进行数据获取，如何表示数据，再到如何对数据进行基础和高级的统计分析及可视化，到最后如何设计一个简单的GUI界面来表示和处理数据，层层推进。\n整个课程以Yahoo财经数据为基础，通过构建一个个喜闻乐见的案例，让大家可以以更直观的方式领略Python的简洁、优雅和健壮，同时探讨Python除了在商业领域之外在文学、社会学和新闻等人文社科类领域以及在数学和生物等理工类领域同样拥有便捷高效的数据处理能力，并可以触类旁通将其灵活应用于各专业中。", 
     "end_date": null, 
-    "title": "工程資訊管理 BIM 應用", 
+    "title": "用Python玩转数据 Data Processing Using Python", 
     "price": 0, 
-    "instructors": "謝尚賢(Shang-Hsien Patrick Hsieh)", 
+    "topic_name": [], 
     "institution_name": [
-      "National Taiwan University"
+      "Nanjing University"
     ], 
     "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/00/49f500d88e11e489c193d6579579bc/______-BIM_LOGO-03.png", 
-    "course_url": "https://en.coursera.org/learn/bim-yingyong", 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/98/1ac3204b9111e5a7141993db26bfbc/__1.jpg", 
+    "course_url": "https://en.coursera.org/learn/hipython", 
     "currency": null, 
     "subject_name": [], 
     "duration": null, 
@@ -145,43 +382,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
-    "start_date": "2015-09-18T07:48:35Z"
+    "start_date": "2015-08-26T08:06:05Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
-    "description": "本課程對象為對中國文化有興趣的同學。\n課程目的為通過四個不同特色的主題，討論中國文化的四個主要面向。每個主題選取兩篇經典文本作為核心閱讀，並與延伸閱讀做互文探討，以新角度解讀經典文本的意義，展現中國文化的複雜性、多元性。文本難度與大學一年級國文程度相當。", 
-    "end_date": null, 
-    "title": "中國人文經典導讀 | Classics of Chinese Humanities: Guided Readings", 
-    "price": 0, 
-    "instructors": "2589075, 2589701, 5233735", 
-    "institution_name": [
-      "The Chinese University of Hong Kong"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e5/66d0de2e961f1e3b9787e892e85495/humanities.jpg", 
-    "course_url": "https://en.coursera.org/course/chinesehumanities", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": null
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "罗昭锋", 
     "description": "本门课程致力于通过协作，打造个人和团队的高效学习与工作体系，提升个人与团队的生产力。", 
     "end_date": null, 
     "title": "高效协作", 
     "price": 0, 
-    "instructors": "罗昭锋", 
+    "topic_name": [], 
     "institution_name": [
       "University of Science and Technology of China"
     ], 
@@ -195,418 +407,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-01-20T05:12:52Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
-    "description": "这是一个全球化、信息化、快餐化的时代；全球化拷问着人们的文化根基，信息化拷问着人们的价值信仰，快餐化拷问着人们的经典阅读。 民族的就是世界的。为继承弘扬中华文化传统，我们特意打造这门课，希冀提供一个阅读哲学经典、传承中国文化、铸造民族精神的平台，让中国文化走向世界、走向未来。\n        本课分十个专题，分别介绍《周易》、孔子《论语》、老子《道德经》，《大学》与《中庸》，《庄子》，《孙子兵法》，《墨经》，《心经》，以及朱熹理学、王阳明《传习录》等著作和人物的思想。既有对儒释道经典的介绍，也有对理学、心学思想的阐释，以期以一种更广阔的视角看待中国传统哲学，让学生能够对中国传统哲学有一种全方位的认识。\n\n课程大纲\n\n第一章 《周易》导读\n\n第二章 《道德经》导读\n\n第三章 《论语》导读 \n\n第四章 《大学》《中庸》导读\n\n第五章 《孙子兵法》导读\n\n第六章 《墨经》导读\n\n第七章 《心经》导读\n\n第八章  《庄子》导读\n\n第九章  朱熹理学相关著作导读\n\n第十章 《传习录》导读", 
-    "end_date": null, 
-    "title": "中国哲学经典著作导读", 
-    "price": 0, 
-    "instructors": "10084855, 11044721, 11049476, 11048688, 11048884, 10429356, 11007095, 11006526", 
-    "institution_name": [
-      "Xi'an Jiaotong University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/31/e405f0a29d11e49ce83941fb6d9a39/Banner.jpg", 
-    "course_url": "https://en.coursera.org/learn/chinese-philosophy", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2015-01-23T08:33:08Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "欢迎大家选修北京大学开设的软件工程MOOC课程。\n        随着信息技术的发展，软件已经深入到人类社会生产和生活的各个方面。软件工程是将工程化的方法运用到软件的开发、运行和维护之中，以达到提高软件质量，降低开发成本的目的。软件工程已经成为当今最活跃、最热门的学科之一。\n        本次软件工程MOOC课程是一门导论性课程，在11周、21次课的时间里，我们将全面介绍软件工程所涉及的各方面知识，包括软件过程、软件需求、结构化分析和设计方法、面向对象分析和设计方法、敏捷开发方法、软件测试、软件项目管理、软件开发工具和环境。通过课程讲授，让大家初步了解软件开发和维护的方法学，为进一步深入学习各专题打下基础。\n        课程还包含了实践环节，通过一个小型软件项目，大家可以体验软件开发的各个环节，并形成项目管理的意识。\n\n一、本次课程的安排如下：\n        第1周\t软件工程概论、软件过程\n        第2周\t软件需求\n        第3周\t结构化方法1\n        第4周\t结构化方法2\n        第5周\t面向对象方法1\n        第6周\t面向对象方法2\n        第7周\t面向对象方法3\n        第8周\t面向对象方法4、敏捷开发方法\n        第9周\t软件测试\n        第10周\t软件项目管理\n        第11周    软件开发工具和环境\n\n二、课程实践\n        本课程提供了三个实践题目，每个实践题目已列出三点基本需求，可在课程介绍的讲义中查看。请结合自身兴趣爱好从中任选其一，在仔细阅读并思考基本需求的基础之上额外补充一个需求，以此作为系统需求完成本次课程实践。\n        课程实践分为三个阶段，分别在第4周、第7周和第10周进行结构化方法、面向对象方法、软件测试和项目管理的实践，完成相应的文档报告。\n        实践成绩由同学互评给出，每位同学需要给其他三位同学的报告评分。\n\n三、课程评分方案\n        （1）平时Quiz占70%\n        （2）课程实践占30%\n\n        \n        祝大家学习愉快！", 
-    "end_date": null, 
-    "title": "软件工程", 
-    "price": 0, 
-    "instructors": "孙艳春", 
-    "institution_name": [
-      "Peking University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/07/c7fc70e4f711e5b760f7ecc54daa0a/20160306.jpg", 
-    "course_url": "https://en.coursera.org/learn/ruanjian-gongcheng", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2016-04-11T23:16:05Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "這門課是對中國小說經典《紅樓夢》的分析與詮釋，著重於認識讀者本身與經典間的關係，並從作者的時代背景與社會階層著手，重新剖析這部人所共愛、人各有所擁戴的經典之作。\n", 
-    "end_date": null, 
-    "title": "紅樓夢(The Red Chamber Dream)", 
-    "price": 0, 
-    "instructors": "4656064", 
-    "institution_name": [
-      "National Taiwan University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/b2/02bf6303e26a4abf73cdc5714ef57f/LOGO.jpg", 
-    "course_url": "https://en.coursera.org/course/rcd", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": null
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "作为“程序设计与算法”系列专项课程的结业实践项目，我们联合腾讯公司，为大家设计了一个实际应用问题——搜索引擎设计。这是互联网公司中极具代表的实际开发项目。如何高效地进行检索？如何有效地提升搜索的精度？… 将要求你解决一系列搜索引擎设计中面临的实际问题。通过这个项目实践，我们希望能够对你的实际编程能力进行衡量，也希望你能够充分展现自己所学到的知识和技能。我们将在项目展开的过程中提供腾讯资深工程师的专业解答，并从完成项目的学习者中选拔部分同学参与在腾讯公司的现场交流。完成本实践项目，表明你已经具备了在企业承担程序研发工作的能力。\n\n第一期的结业实践项目初步定为2016年6月。", 
-    "end_date": null, 
-    "title": "程序开发项目实践", 
-    "price": 0, 
-    "instructors": "5233026, 4914899, 3293721, 2499461", 
-    "institution_name": [
-      "Peking University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f9/fa7c4020b911e6a91a6d637d2277f7/LOGO-final.png", 
-    "course_url": "https://en.coursera.org/learn/biancheng-suanfa-biye-xiangmu", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2016-06-07T08:25:39Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "This is a Chinese version of Competitive Strategy. You can find the original course in English from our course catalog. \n此版本是Coursera首次尝试推出的中文翻译版。课程视频为英文原版附中文字幕，课程页面和测验已译成中文，帮助中心提供中文支持。\n\n在本课程（共六个模块）中，你将了解企业在战略决策相互依存的情况下如何行事。例如，你的行动会如何影响竞争对手的利润，反之亦然。我们将会借助博弈论的基本工具分析企业如何选择策略以获得竞争优势。", 
-    "end_date": null, 
-    "title": "竞争策略（中文版）", 
-    "price": 0, 
-    "instructors": "2573718", 
-    "institution_name": [
-      "Ludwig-Maximilians-Universität München (LMU)"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-misc.s3.amazonaws.com/flex/competitive-strategy.png", 
-    "course_url": "https://en.coursera.org/learn/competitivestrategyzh", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2014-10-31T08:00:00Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "這門課是「CAD/BIM技術與應用」專項課程的第五門課，屬於BIM系列課程：「工程資訊管理BIM基礎」、「工程資訊管理BIM塑模」及「工程資訊管理BIM應用」的第一門課。\n\n修習這門課之前，應具備工程繪圖的基礎觀念，並能讀懂工程圖說，了解工程圖說符號所代表的意義。此外，也需具備3D建模的基礎觀念，並嘗試建立自己的3D模型。「CAD/BIM技術與應用」專項課程的「工程圖學2D CAD」、「工程圖學2D CAD專題」、「工程圖學3D CAD」、「工程圖學3D CAD專題」課程，可提供修習這門課前所需具備的相關知識。\n\n這門課將提供BIM的基礎知識，學習者能理解BIM在建築土木產業發展的現況，並欣賞工程師們如何運用BIM技術，提升工程的效率、品質與安全。我們相信，唯有親自動手操作，才能真正的學會BIM。因此，除了基礎的觀念外，這門課也將介紹如何檢視BIM模型中的資訊，讓工程師們可透過BIM模型，討論工程難題，並可以運用BIM相關的軟體工具，找到所需的工程資訊。\n\n想知道什麼是BIM嗎？這門課適合想了解BIM知識的工程師與土木相關領域的管理階層人士修習。課程中所教授的BIM知識與軟體工具，能幫助了解全觀的BIM知識；所教授的軟體操作技能，能讓使用者檢視BIM模型中的資訊，並一窺BIM模型的資訊架構。\n\n預估所需學習總時間：18小時。", 
-    "end_date": null, 
-    "title": "工程資訊管理 BIM 基礎", 
-    "price": 0, 
-    "instructors": "謝尚賢(Shang-Hsien Patrick Hsieh)", 
-    "institution_name": [
-      "National Taiwan University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/30/60e690d88e11e4852579a9b9e0b2ce/______-BIM_LOGO-01.png", 
-    "course_url": "https://en.coursera.org/learn/jianzhu-zixun-jianmo", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2015-08-15T01:50:31Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "欢迎选修北京大学MOOC课程“生物信息学：导论与方法”。\n\n近三十年来，生命科学与计算科学飞速发展。生物信息学是一门生命科学与计算科学的前沿交叉学科。生物信息学产生和迅猛发展的主要推动力来自于新一代测序等高通量技术在生命科学领域越来越广泛的应用。目前，人和很多动植物的基因组已经被测序出来。已知DNA序列的数量已超过20兆亿碱基，每五个月翻一番。这些前所未有的大数据中蕴藏着很多尚不为人知的新发现、新知识，给生命科学研究带来新的历史机遇。但是同时，这些大数据不仅数量巨大、持续呈现指数增长的趋势，而且噪音高，异构程度高。准确、快速地分析这些数据需要先进的计算方法。\n\n生物信息学是一门强大的新技术，是用来分析、存储、搜索海量生物医学数据的信息技术和计算技术。另一方面，生物信息学是一种研究生命科学问题的新方法、新思路，是一种从全基因组出发、从系统水平出发、基于数据整合，提出新假说、发现新规律的研究方法。在这门“生物信息学：导论与方法”网上课程中，我们将向您系统地讲授生物信息学主要概念及方法。课程内容从基础的序列比对开始，循序渐进，围绕深度测序数据分析、计算基因组学、分子通路鉴定等当前研究的前沿热点内容进行介绍与讨论。进一步地，我们会以我们实验室自己开发的算法、软件及数据库为例，告诉您如何开发新的生物信息学技术。我们将用具体实例展示给您，如何用生物信息学的方法及研究思路来解决生命科学里的实际问题。我们也邀请到几位生命科学领域资深教授介绍相关的生物信息学重要工作及生物信息学在生命科学中的作用。", 
-    "end_date": null, 
-    "title": "生物信息学: 导论与方法", 
-    "price": 0, 
-    "instructors": "3103490, 4638020", 
-    "institution_name": [
-      "Peking University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/66/fcb8c7bc2b16212736fbd7fad363bb/600_3402.jpg", 
-    "course_url": "https://en.coursera.org/learn/sheng-wu-xin-xi-xue", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2015-04-15T07:44:36Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "    本课程将以“中国的眼光，现代的立场”来重新阐释“世界艺术史”的概念，并具体陈述西方艺术与中国艺术在理念和创作方法上的区别，进而通过艺术史如何建造一条各文明之间互相理解、互相尊重的道路。", 
-    "end_date": null, 
-    "title": "艺术史", 
-    "price": 0, 
-    "instructors": "4582267", 
-    "institution_name": [
-      "Peking University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e3/96efe71fe35dc72b6967e36451f83b/zhu290-163.jpg", 
-    "course_url": "https://en.coursera.org/course/arthistory", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": null
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "本课程在前述课程基础上，进一步介绍C#的可视化程序设计。内容包括：Windows程序设计原理；控件，窗体；Windows GDI+系统；文件及目录的操作。通过本课程的学习，你将可以摆脱单调的控制台窗口，初步掌握使用C#开发Windows窗口应用程序的技巧，使你的应用程序界面更优美，使用更方便，与Windows操作系统的结合更紧密，实现更强大的功能。", 
-    "end_date": null, 
-    "title": "Windows可视化程序设计", 
-    "price": 0, 
-    "instructors": "乔亚男", 
-    "institution_name": [
-      "Xi'an Jiaotong University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/59/6d1a30be5811e58fef1bd93fb2110a/__png.png", 
-    "course_url": "https://en.coursera.org/learn/windows-keshihua-chengxu-sheji", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2016-05-03T00:29:25Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "毕业项目希望帮助你融会贯通整个专项的内容，打造完美的个人和团队的学习与工作体系。我们还希望在此基础上，搭建一个高效能的交流社区，让你在小伙伴们的鞭策与激励下共同进步。", 
-    "end_date": null, 
-    "title": "毕业项目", 
-    "price": 0, 
-    "instructors": "罗昭锋", 
-    "institution_name": [
-      "University of Science and Technology of China"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ce/fda3e0b87d11e58ae18543e6165465/____.jpg", 
-    "course_url": "https://en.coursera.org/learn/biye-xiangmu1", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2016-01-20T05:15:09Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "本課程有兩大課程目標：\n1.\t使同學了解如何以搜尋達成人工智慧\n2.\t使同學能將相關技術應用到自己的問題上", 
-    "end_date": null, 
-    "title": "人工智慧(Artificial Intelligence)", 
-    "price": 0, 
-    "instructors": "8180013", 
-    "institution_name": [
-      "National Taiwan University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a3/7da0a0163311e4b2110d23aaf1cb58/AI-LOGO.jpg", 
-    "course_url": "https://en.coursera.org/learn/rengong-zhineng", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2016-07-02T02:17:59Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "学完本课程后，您将可以分析企业所做金融决策的主要类型。然后，您可以运用所学技能处理现实商务挑战，这也是沃顿商学院商务基础专项课程的组成部分。主要概念包括：净现值技术、资本预算原则、资产估值、金融市场运作和效率、公司财务决策以及衍生产品。", 
-    "end_date": null, 
-    "title": "企业金融概论（中文版）", 
-    "price": 0, 
-    "instructors": "Michael R Roberts", 
-    "institution_name": [
-      "University of Pennsylvania"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f1/6ef790fa9511e49156636e67a0c1f1/online_learning_slide_vFinance.jpg", 
-    "course_url": "https://en.coursera.org/learn/wharton-qiye-jinrong", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2016-04-02T05:49:03Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "开展一项流行病学研究需要经历研究设计、现场数据采集和录入、数据清理和分析、报告撰写等众多环节。随着计算机软件包的发展，上述的每个环节都可以通过利用不同的软件包高效率、高质量的实现。本课程期望通过众多的实例练习，并配以必要的流行病学基础知识讲解，使学生能够了解几种常见软件包的使用方法，并能将流行病学基础理论等书本知识更加灵活地应用于实际的研究中。\n\n计算样本量是研究设计环节中的关键内容之一。在很多流行病学的教科书中可较容易的查到不同类型研究设计的样本量计算公式；在Google中搜索，也可以找到一些基于Web的样本量计算模块。但是，通过这些途径只可以计算有限设计类型的样本量。本课程将重点介绍PASS软件的使用方法。该软件可以用于230余种统计检验和可信区间估计的样本量计算及功效分析。\n流行病学研究中的数据可以通过问卷调查、体格检查、生物样本的实验室检测、环境调查与检测、既往记录或档案查阅等方式获取。现阶段，通过这些过程直接获取的仍然以纸介质数据为主，需要利用一些数据录入软件转录为可分析的数据库。本课程将重点介绍EpiData软件的使用方法。该软件的优势在于软件小巧和免费，可满足数据录入的基本功能要求。\n通过纸质问卷收集调查对象的信息，然后再录入到电脑中，在这个过程中，尽管我们可以通过培训调查员、在问卷上突出注明必要的跳转或合法值要求、调查员自查和互查问卷、在录入数据库中设置必要的核查语句等质量控制措施保证数据质量，但仍然常见数据缺失、逻辑错误等问题。平行双录入耗时耗力，发现问题后可能还需要回访、修正数据。整个过程耗人心力。本课程将简要介绍基于移动设备和网络技术的无纸调查方式，帮助理解如何将数据质量控制的关口前移到调查当时。\n流行病学研究有多种不同的设计类型，每种设计又对应着一些特有的分析指标。常用的统计软件包可以获得这些指标，但是由于软件是按统计分析方法组织模块，需要使用者熟悉哪个指标对应的是哪种统计方法得来。STATA作为常用的统计软件包之一，专门设计有一个流行病学相关的分析模块，按研究设计组织菜单。因此，本课程以STATA软件包为基础，介绍常用流行病学指标的计算。\n抽样调查是最常开展的流行病学研究类型之一。在较大范围的抽样调查中，很少单独使用单纯随机抽样，更多的是使用整群抽样或整合单纯、系统、分层、整群抽样的多阶段抽样。这样抽样设计得来的数据通常被称为复杂抽样调查数据（complex survey data）。常见的流行病学教科书中通常只介绍单纯随机抽样时的样本量计算方法，然后给出“整群抽样时再增加一定数量”的简单原则。而通常统计教学中介绍的统计方法更适用于针对单纯随机抽样获得的数据。本课程通过介绍CSurvey软件包的使用，帮助学生更好地理解复杂抽样调查时样本量计算的通用原则；通过介绍STATA中专门针对复杂调查数据的分析模块，使学生能够了解针对此类数据合理的分析方法。\n《软件包在流行病学研究中的应用》是北京大学医学部流行病与卫生统计学学科研究生的专业必修课。本课程也在同期面向北京大学医学部正常选课的研究生开课，采用翻转课堂的教学模式，选课学生在观看MOOC视频、自学相关资源和完成练习后，还需参与教室内的答疑互动。", 
-    "end_date": null, 
-    "title": "软件包在流行病学研究中的应用 Using software apps in epidemiological research", 
-    "price": 0, 
-    "instructors": "7560329, 3467450", 
-    "institution_name": [
-      "Peking University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6c/24e6a0154211e4a6dbdbc226e96545/2014-07-26-_______________.jpg", 
-    "course_url": "https://en.coursera.org/learn/epiapps", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2016-07-01T08:36:03Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "《营养与健康》介绍营养学基础知识，主要内容包括：人体所需的七大营养素的化学结构、主要生理功能、食物来源、人体每天的参考摄入量等；主要食物种类包括谷物类、薯类、豆类、坚果类、蔬菜类、水果类、肉类、水产品类、蛋类、乳制品类的营养价值；营养与疾病特别是一些慢性、高发性疾病如高血糖、高血脂、高血压、癌症等的关系。内容简单，适合无营养学基础、但希望了解一般的营养学知识，改善日常膳食质量的人选修。", 
-    "end_date": null, 
-    "title": "营养与健康", 
-    "price": 0, 
-    "instructors": "郑伟娟", 
-    "institution_name": [
-      "Nanjing University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/76/93a190099211e5a43f6d32d0baebb7/_____________.jpg", 
-    "course_url": "https://en.coursera.org/learn/yingyang-jiankang", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2015-08-04T05:46:57Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "這是一個機率的入門課程，著重的是教授機率基本概念。另外我們的作業將搭配臺大電機系所開發的多人競技線上遊戲方式，讓同學在遊戲中快樂的學習，快速培養同學們對於機率的洞察力與應用能力。", 
-    "end_date": null, 
-    "title": "機率 (Probability)", 
-    "price": 0, 
-    "instructors": "2602668", 
-    "institution_name": [
-      "National Taiwan University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/f8/91d450352b11e48239673584835daa/iStock_000000248160_Small.png", 
-    "course_url": "https://en.coursera.org/course/prob", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": null
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "本课程将为你介绍现代哲学中的一些研究领域。在每个模块中，将由不同的哲学家为你讲述其专业领域内最重要的疑问和问题。 首先，我们来了解什么是哲学，哲学有哪些独特的目标与方法以及哲学与其他学科有何不同？之后，我们会在课程剩余的时间内向你简要介绍各种哲学领域的总体情况。你要学习的主题包括：知识论，其中将讨论囊括我们对世界和我们自身的了解以及如何获取这些知识；科学哲学，我们将在此模块中调查科学研究和实践中的基础概念问题；心灵哲学，我们将在此模块中询问物质拥有心灵的意义以及应如何理解和诠释心灵；道德哲学，我们将在此模块中探究道德判断和反应的本质，看它们是旨在得出客观的道德真相，还是仅作为个人或文化偏好，以及，形而上学，我们将在此模块中思考有关事实本质的一些基础概念问题。 本慕课 (MOOC) 课程由爱丁堡大学 Eidyn 研究中心领导设计。为配合“哲学导论”的授课，我们为大家倾力推荐一本由 Routledge 出版社出版的名为 \"Philosophy for Everyone\" 的配套书籍。这本“哲学导论”的课程配套书籍是由爱丁堡大学哲学小组为满足慕课 (MOOC) 学生要求而编写的。\"Philosophy for Everyone\"一书中包含清晰易懂的章节、章节摘要、词汇表、探究问题、补充阅读推荐以及在线资源指南。\n\nThis is a translated version. To join the original English version, Please visit this page https://www.coursera.org/learn/philosophy", 
-    "end_date": null, 
-    "title": "哲学导论（中文版）", 
-    "price": 0, 
-    "instructors": "Dr.  Dave Ward, Professor Duncan Pritchard,  Professor Michela Massimi, Dr. Suilin Lavelle, Dr. Matthew Chrisman, 1935212, Dr. Alasdair Richmond", 
-    "institution_name": [
-      "The University of Edinburgh"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/introphil/large-icon.png", 
-    "course_url": "https://en.coursera.org/learn/zhexue-daolun", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2015-06-27T06:58:33Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "Ms 王稼军   WangJiaJun", 
     "description": "《电磁学下》是《电磁学》的第二学习进程，教学内容含恒磁场、磁介质，电磁感应、交流电和电磁场电磁波。虽然《电磁学下》内容比较多，但是处理场的基本方法大家已经熟悉和适应了，应该说，电磁学的前两章是整个电磁学的基础。建议大家学习了第一进程，通过了结业考试以后再进入第二学习进程《电磁学下》的学习。本课程的课程是按照知识点设置模块，《电磁学下》包含6个模块。每个模块又包含几节课，每个模块结束有一个小测，同学们可以自我测试，没有时间限制，大家可以根据自己的需要和时间安排来自主学习，以免一步跟不上，步步跟不上，这对于学习我们这种理论性比较强的课是有利的，已经明白的可以跳过去，不清楚的可以重点学习。\n教学大纲\n模块一      恒定磁场的基本规律\n模块二      磁力\n模块三      磁介质\n模块四      电磁感应\n模块五      交流电\n模块六      电磁场电磁波", 
     "end_date": null, 
     "title": "电磁学下——恒磁场与时变电磁场", 
     "price": 0, 
-    "instructors": "Ms 王稼军   WangJiaJun", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -620,18 +432,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-09-19T02:00:39Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "刘威德", 
     "description": "【课程介绍】\n\n《当代应用心理学》是由云林科技大学 刘威德教授主讲的一门应用心理学课程\n                               并由云林科技大学 惠龙博士担任总顾问\n\n课程将精选八项心理学与日常生活息息相关的应用议题，藉由生活对象设计(人因心理学)、消费行为、领导管理、性格分析、犯罪行为、心理保健与心理测验、人际关系等方面运用生活知能、个体行为与态度、测验诊断加以说明诠释应用心理学之奥妙。例如:自行车设计动向、民众购车消费行为、便利商店兑币代换机制、组织领导策略、关注情绪管理、人格特质透析、以及如何经营成功良好的职场与人际关系等事例，深入浅出探讨来应用心理学的理论与实际生活经验分析概念。\n\n【课程大纲】\n探讨从众/群众心理、消费行为模式、成功营销的法则、消费者的觉察-广告营销的心理法则、广告营销心理实例探讨、探讨领导管理的现象、管理组织的策略、成功领导者的特质、组织人事的经营管理、探讨人格特质分析、人格的形成和发展、性格的影响因素、性格的常态与偏态、探讨犯罪心理、偏差行为发展脉络分析、法律与生活的关系、犯罪与偏差行为的预防-罢凌行为的心理探讨、探讨心理保健层面、情绪管理、快乐心理、落实小区心理保健、个别心理特质的差异、心理测验的原理、探讨如何藉由心理测验及诊断工具了解个别特质的差异、心理测验的迷思概念、探讨人际关系互动网络、人际关系的影响因素、成功职场心理的经营、职场的求职陷阱以及以上各内容之实例。\n\n第1周：心理学原理概述Introduction\n第2周：人因心理学原理简介及实例探讨Human Factors and Ergonomics\n第3周：消费者心理学原理简介及实例探讨Consumer Psychology\n第4周：组织及领导心理学原理简介及实例探讨Leadership Psychology\n第5周：性格心理学原理简介及实例探讨Personality Psychology\n第6周：法律与犯罪心理学原理简介及实例探讨 Law and Criminal Psychology\n第7周：身心健康与适应心理原理简介及实例探讨Mental Health Psychology\n第8周：心理测验与个别特质差异的原理简介及实例探讨Psychological Testing\n第9周：人际与职场心理的原理简介及实例探讨Human Relationship and Career Psychology\n\n【学习目标】\n心理学是一门探讨人性的科学，剖析个体的内隐心理历程和外显行为反应。涉及范围广泛，涵括有认知、情绪、人格、人际、和领导等多方领域，同时也和日常生活息息相关如婚姻、消费、家庭、对象设计等密不可分，心理学的影响层面扩及到教育、社会、科学、医学、生物等层面。因此，探讨分析心理学所产生的生理行为间接亦或直接影响到个人心智，运用大脑运作模式来解释个人行为，应用层面在日常生活中比比皆是。本课程之目标在于探讨心理学的科学理论基础原理、以心理学的观点检视剖析周遭生活中的个人与社会行为现象，并进而能够觉察与改变个人的心理历程与行为模式，终而能够经营圆满合谐而健康的人生。\n\n【学习要求】\n本课程的在线教材将以较短的课程长度实施9周，每周2小时，共18小时，每周规划一主题(topic)，每一个主题分为若干节(section)或讲次(lecture)，以及符合学习专注力时间长度的上课内容（15分钟小单元），透过在线学习平台，由教师制作提供主题明确且长度适中的单元教学影片，辅以测验及作业，让学生依自己学习步调在线自我学习，并藉由教师设计安排的学习互动，与老师及同侪于虚拟平台或实体空间进行探索讨论。教学互动及评量回馈，提升在线学习的质量及效能，期能建立华文课程品牌。\n\n【教材教参】\nSternberg, Robert J. (2004). Psychology 4th.C.A. Thomson Wadsworth.\nBekerian, D. A. &Levey, A. B. (2005). Applied Psychology. Oxford.\nCascio, W. F. &Aguinis, H. (2005). Applied Psychology in Human Resource Management. Pearson Prentice Hall.\n美国心理学会(American Psychology Association, APA)资源\n张春兴(1991).现代心理学。台北：东华书局。\n张春兴(2003).心理学原理。台北：东华书局。\n张春兴主编.世纪心理学丛书。东华书局(繁体字版)。浙江教育出版社(简体字版)。", 
     "end_date": null, 
     "title": "当代应用心理学", 
     "price": 0, 
-    "instructors": "刘威德", 
+    "topic_name": [], 
     "institution_name": [
       "Shanghai Jiao Tong University", 
       "云林科技大学 (Yunlin University of Science and Technology)"
@@ -646,24 +458,24 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-09-23T01:51:16Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
-    "description": "本课程旨在加深学员对中国历史与古代社会生活的认识；促进对传统文化核心观点与基本精神的理解与把握；培养文化研究初步方法。", 
+    "instructors": "", 
+    "description": "這門課是對中國小說經典《紅樓夢》的分析與詮釋，著重於認識讀者本身與經典間的關係，並從作者的時代背景與社會階層著手，重新剖析這部人所共愛、人各有所擁戴的經典之作。\n", 
     "end_date": null, 
-    "title": "中国古代文化", 
+    "title": "紅樓夢(The Red Chamber Dream)", 
     "price": 0, 
-    "instructors": "8539851, 8539861, 8539858, 8539872, 8539866, 8521246", 
+    "topic_name": [], 
     "institution_name": [
-      "Peking University"
+      "National Taiwan University"
     ], 
     "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/db/43acb00db311e4ae6f4f5e963bdfbb/______-2.jpg", 
-    "course_url": "https://en.coursera.org/course/pkuacc", 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/b2/02bf6303e26a4abf73cdc5714ef57f/LOGO.jpg", 
+    "course_url": "https://en.coursera.org/course/rcd", 
     "currency": null, 
     "subject_name": [], 
     "duration": null, 
@@ -671,18 +483,368 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
+    "instructors": "孙艳春", 
+    "description": "欢迎大家选修北京大学开设的软件工程MOOC课程。\n        随着信息技术的发展，软件已经深入到人类社会生产和生活的各个方面。软件工程是将工程化的方法运用到软件的开发、运行和维护之中，以达到提高软件质量，降低开发成本的目的。软件工程已经成为当今最活跃、最热门的学科之一。\n        本次软件工程MOOC课程是一门导论性课程，在11周、21次课的时间里，我们将全面介绍软件工程所涉及的各方面知识，包括软件过程、软件需求、结构化分析和设计方法、面向对象分析和设计方法、敏捷开发方法、软件测试、软件项目管理、软件开发工具和环境。通过课程讲授，让大家初步了解软件开发和维护的方法学，为进一步深入学习各专题打下基础。\n        课程还包含了实践环节，通过一个小型软件项目，大家可以体验软件开发的各个环节，并形成项目管理的意识。\n\n一、本次课程的安排如下：\n        第1周\t软件工程概论、软件过程\n        第2周\t软件需求\n        第3周\t结构化方法1\n        第4周\t结构化方法2\n        第5周\t面向对象方法1\n        第6周\t面向对象方法2\n        第7周\t面向对象方法3\n        第8周\t面向对象方法4、敏捷开发方法\n        第9周\t软件测试\n        第10周\t软件项目管理\n        第11周    软件开发工具和环境\n\n二、课程实践\n        本课程提供了三个实践题目，每个实践题目已列出三点基本需求，可在课程介绍的讲义中查看。请结合自身兴趣爱好从中任选其一，在仔细阅读并思考基本需求的基础之上额外补充一个需求，以此作为系统需求完成本次课程实践。\n        课程实践分为三个阶段，分别在第4周、第7周和第10周进行结构化方法、面向对象方法、软件测试和项目管理的实践，完成相应的文档报告。\n        实践成绩由同学互评给出，每位同学需要给其他三位同学的报告评分。\n\n三、课程评分方案\n        （1）平时Quiz占70%\n        （2）课程实践占30%\n\n        \n        祝大家学习愉快！", 
+    "end_date": null, 
+    "title": "软件工程", 
+    "price": 0, 
     "topic_name": [], 
+    "institution_name": [
+      "Peking University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/07/c7fc70e4f711e5b760f7ecc54daa0a/20160306.jpg", 
+    "course_url": "https://en.coursera.org/learn/ruanjian-gongcheng", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-04-11T23:16:05Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
+    "description": "This is a Chinese version of Competitive Strategy. You can find the original course in English from our course catalog. \n此版本是Coursera首次尝试推出的中文翻译版。课程视频为英文原版附中文字幕，课程页面和测验已译成中文，帮助中心提供中文支持。\n\n在本课程（共六个模块）中，你将了解企业在战略决策相互依存的情况下如何行事。例如，你的行动会如何影响竞争对手的利润，反之亦然。我们将会借助博弈论的基本工具分析企业如何选择策略以获得竞争优势。", 
+    "end_date": null, 
+    "title": "竞争策略（中文版）", 
+    "price": 0, 
+    "topic_name": [], 
+    "institution_name": [
+      "Ludwig-Maximilians-Universität München (LMU)"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-misc.s3.amazonaws.com/flex/competitive-strategy.png", 
+    "course_url": "https://en.coursera.org/learn/competitivestrategyzh", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2014-10-31T08:00:00Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "謝尚賢(Shang-Hsien Patrick Hsieh)", 
+    "description": "這門課是「CAD/BIM技術與應用」專項課程的第五門課，屬於BIM系列課程：「工程資訊管理BIM基礎」、「工程資訊管理BIM塑模」及「工程資訊管理BIM應用」的第一門課。\n\n修習這門課之前，應具備工程繪圖的基礎觀念，並能讀懂工程圖說，了解工程圖說符號所代表的意義。此外，也需具備3D建模的基礎觀念，並嘗試建立自己的3D模型。「CAD/BIM技術與應用」專項課程的「工程圖學2D CAD」、「工程圖學2D CAD專題」、「工程圖學3D CAD」、「工程圖學3D CAD專題」課程，可提供修習這門課前所需具備的相關知識。\n\n這門課將提供BIM的基礎知識，學習者能理解BIM在建築土木產業發展的現況，並欣賞工程師們如何運用BIM技術，提升工程的效率、品質與安全。我們相信，唯有親自動手操作，才能真正的學會BIM。因此，除了基礎的觀念外，這門課也將介紹如何檢視BIM模型中的資訊，讓工程師們可透過BIM模型，討論工程難題，並可以運用BIM相關的軟體工具，找到所需的工程資訊。\n\n想知道什麼是BIM嗎？這門課適合想了解BIM知識的工程師與土木相關領域的管理階層人士修習。課程中所教授的BIM知識與軟體工具，能幫助了解全觀的BIM知識；所教授的軟體操作技能，能讓使用者檢視BIM模型中的資訊，並一窺BIM模型的資訊架構。\n\n預估所需學習總時間：18小時。", 
+    "end_date": null, 
+    "title": "工程資訊管理 BIM 基礎", 
+    "price": 0, 
+    "topic_name": [], 
+    "institution_name": [
+      "National Taiwan University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/30/60e690d88e11e4852579a9b9e0b2ce/______-BIM_LOGO-01.png", 
+    "course_url": "https://en.coursera.org/learn/jianzhu-zixun-jianmo", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2015-08-15T01:50:31Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": ", ", 
+    "description": "欢迎选修北京大学MOOC课程“生物信息学：导论与方法”。\n\n近三十年来，生命科学与计算科学飞速发展。生物信息学是一门生命科学与计算科学的前沿交叉学科。生物信息学产生和迅猛发展的主要推动力来自于新一代测序等高通量技术在生命科学领域越来越广泛的应用。目前，人和很多动植物的基因组已经被测序出来。已知DNA序列的数量已超过20兆亿碱基，每五个月翻一番。这些前所未有的大数据中蕴藏着很多尚不为人知的新发现、新知识，给生命科学研究带来新的历史机遇。但是同时，这些大数据不仅数量巨大、持续呈现指数增长的趋势，而且噪音高，异构程度高。准确、快速地分析这些数据需要先进的计算方法。\n\n生物信息学是一门强大的新技术，是用来分析、存储、搜索海量生物医学数据的信息技术和计算技术。另一方面，生物信息学是一种研究生命科学问题的新方法、新思路，是一种从全基因组出发、从系统水平出发、基于数据整合，提出新假说、发现新规律的研究方法。在这门“生物信息学：导论与方法”网上课程中，我们将向您系统地讲授生物信息学主要概念及方法。课程内容从基础的序列比对开始，循序渐进，围绕深度测序数据分析、计算基因组学、分子通路鉴定等当前研究的前沿热点内容进行介绍与讨论。进一步地，我们会以我们实验室自己开发的算法、软件及数据库为例，告诉您如何开发新的生物信息学技术。我们将用具体实例展示给您，如何用生物信息学的方法及研究思路来解决生命科学里的实际问题。我们也邀请到几位生命科学领域资深教授介绍相关的生物信息学重要工作及生物信息学在生命科学中的作用。", 
+    "end_date": null, 
+    "title": "生物信息学: 导论与方法", 
+    "price": 0, 
+    "topic_name": [], 
+    "institution_name": [
+      "Peking University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/66/fcb8c7bc2b16212736fbd7fad363bb/600_3402.jpg", 
+    "course_url": "https://en.coursera.org/learn/sheng-wu-xin-xi-xue", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2015-04-15T07:44:36Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "乔亚男", 
+    "description": "本课程在前述课程基础上，进一步介绍C#的可视化程序设计。内容包括：Windows程序设计原理；控件，窗体；Windows GDI+系统；文件及目录的操作。通过本课程的学习，你将可以摆脱单调的控制台窗口，初步掌握使用C#开发Windows窗口应用程序的技巧，使你的应用程序界面更优美，使用更方便，与Windows操作系统的结合更紧密，实现更强大的功能。", 
+    "end_date": null, 
+    "title": "Windows可视化程序设计", 
+    "price": 0, 
+    "topic_name": [], 
+    "institution_name": [
+      "Xi'an Jiaotong University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/59/6d1a30be5811e58fef1bd93fb2110a/__png.png", 
+    "course_url": "https://en.coursera.org/learn/windows-keshihua-chengxu-sheji", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-05-03T00:29:25Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
+    "description": "    本课程将以“中国的眼光，现代的立场”来重新阐释“世界艺术史”的概念，并具体陈述西方艺术与中国艺术在理念和创作方法上的区别，进而通过艺术史如何建造一条各文明之间互相理解、互相尊重的道路。", 
+    "end_date": null, 
+    "title": "艺术史", 
+    "price": 0, 
+    "topic_name": [], 
+    "institution_name": [
+      "Peking University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e3/96efe71fe35dc72b6967e36451f83b/zhu290-163.jpg", 
+    "course_url": "https://en.coursera.org/course/arthistory", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": null
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "罗昭锋", 
+    "description": "毕业项目希望帮助你融会贯通整个专项的内容，打造完美的个人和团队的学习与工作体系。我们还希望在此基础上，搭建一个高效能的交流社区，让你在小伙伴们的鞭策与激励下共同进步。", 
+    "end_date": null, 
+    "title": "毕业项目", 
+    "price": 0, 
+    "topic_name": [], 
+    "institution_name": [
+      "University of Science and Technology of China"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ce/fda3e0b87d11e58ae18543e6165465/____.jpg", 
+    "course_url": "https://en.coursera.org/learn/biye-xiangmu1", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-01-20T05:15:09Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
+    "description": "本課程有兩大課程目標：\n1.\t使同學了解如何以搜尋達成人工智慧\n2.\t使同學能將相關技術應用到自己的問題上", 
+    "end_date": null, 
+    "title": "人工智慧(Artificial Intelligence)", 
+    "price": 0, 
+    "topic_name": [], 
+    "institution_name": [
+      "National Taiwan University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a3/7da0a0163311e4b2110d23aaf1cb58/AI-LOGO.jpg", 
+    "course_url": "https://en.coursera.org/learn/rengong-zhineng", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-07-02T02:17:59Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "Michael R Roberts", 
+    "description": "学完本课程后，您将可以分析企业所做金融决策的主要类型。然后，您可以运用所学技能处理现实商务挑战，这也是沃顿商学院商务基础专项课程的组成部分。主要概念包括：净现值技术、资本预算原则、资产估值、金融市场运作和效率、公司财务决策以及衍生产品。", 
+    "end_date": null, 
+    "title": "企业金融概论（中文版）", 
+    "price": 0, 
+    "topic_name": [], 
+    "institution_name": [
+      "University of Pennsylvania"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f1/6ef790fa9511e49156636e67a0c1f1/online_learning_slide_vFinance.jpg", 
+    "course_url": "https://en.coursera.org/learn/wharton-qiye-jinrong", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-04-02T05:49:03Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": ", ", 
+    "description": "开展一项流行病学研究需要经历研究设计、现场数据采集和录入、数据清理和分析、报告撰写等众多环节。随着计算机软件包的发展，上述的每个环节都可以通过利用不同的软件包高效率、高质量的实现。本课程期望通过众多的实例练习，并配以必要的流行病学基础知识讲解，使学生能够了解几种常见软件包的使用方法，并能将流行病学基础理论等书本知识更加灵活地应用于实际的研究中。\n\n计算样本量是研究设计环节中的关键内容之一。在很多流行病学的教科书中可较容易的查到不同类型研究设计的样本量计算公式；在Google中搜索，也可以找到一些基于Web的样本量计算模块。但是，通过这些途径只可以计算有限设计类型的样本量。本课程将重点介绍PASS软件的使用方法。该软件可以用于230余种统计检验和可信区间估计的样本量计算及功效分析。\n流行病学研究中的数据可以通过问卷调查、体格检查、生物样本的实验室检测、环境调查与检测、既往记录或档案查阅等方式获取。现阶段，通过这些过程直接获取的仍然以纸介质数据为主，需要利用一些数据录入软件转录为可分析的数据库。本课程将重点介绍EpiData软件的使用方法。该软件的优势在于软件小巧和免费，可满足数据录入的基本功能要求。\n通过纸质问卷收集调查对象的信息，然后再录入到电脑中，在这个过程中，尽管我们可以通过培训调查员、在问卷上突出注明必要的跳转或合法值要求、调查员自查和互查问卷、在录入数据库中设置必要的核查语句等质量控制措施保证数据质量，但仍然常见数据缺失、逻辑错误等问题。平行双录入耗时耗力，发现问题后可能还需要回访、修正数据。整个过程耗人心力。本课程将简要介绍基于移动设备和网络技术的无纸调查方式，帮助理解如何将数据质量控制的关口前移到调查当时。\n流行病学研究有多种不同的设计类型，每种设计又对应着一些特有的分析指标。常用的统计软件包可以获得这些指标，但是由于软件是按统计分析方法组织模块，需要使用者熟悉哪个指标对应的是哪种统计方法得来。STATA作为常用的统计软件包之一，专门设计有一个流行病学相关的分析模块，按研究设计组织菜单。因此，本课程以STATA软件包为基础，介绍常用流行病学指标的计算。\n抽样调查是最常开展的流行病学研究类型之一。在较大范围的抽样调查中，很少单独使用单纯随机抽样，更多的是使用整群抽样或整合单纯、系统、分层、整群抽样的多阶段抽样。这样抽样设计得来的数据通常被称为复杂抽样调查数据（complex survey data）。常见的流行病学教科书中通常只介绍单纯随机抽样时的样本量计算方法，然后给出“整群抽样时再增加一定数量”的简单原则。而通常统计教学中介绍的统计方法更适用于针对单纯随机抽样获得的数据。本课程通过介绍CSurvey软件包的使用，帮助学生更好地理解复杂抽样调查时样本量计算的通用原则；通过介绍STATA中专门针对复杂调查数据的分析模块，使学生能够了解针对此类数据合理的分析方法。\n《软件包在流行病学研究中的应用》是北京大学医学部流行病与卫生统计学学科研究生的专业必修课。本课程也在同期面向北京大学医学部正常选课的研究生开课，采用翻转课堂的教学模式，选课学生在观看MOOC视频、自学相关资源和完成练习后，还需参与教室内的答疑互动。", 
+    "end_date": null, 
+    "title": "软件包在流行病学研究中的应用 Using software apps in epidemiological research", 
+    "price": 0, 
+    "topic_name": [], 
+    "institution_name": [
+      "Peking University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6c/24e6a0154211e4a6dbdbc226e96545/2014-07-26-_______________.jpg", 
+    "course_url": "https://en.coursera.org/learn/epiapps", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-07-01T08:36:03Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": ", , , ", 
+    "description": "作为“程序设计与算法”系列专项课程的结业实践项目，我们联合腾讯公司，为大家设计了一个实际应用问题——搜索引擎设计。这是互联网公司中极具代表的实际开发项目。如何高效地进行检索？如何有效地提升搜索的精度？… 将要求你解决一系列搜索引擎设计中面临的实际问题。通过这个项目实践，我们希望能够对你的实际编程能力进行衡量，也希望你能够充分展现自己所学到的知识和技能。我们将在项目展开的过程中提供腾讯资深工程师的专业解答，并从完成项目的学习者中选拔部分同学参与在腾讯公司的现场交流。完成本实践项目，表明你已经具备了在企业承担程序研发工作的能力。\n\n第一期的结业实践项目初步定为2016年6月。", 
+    "end_date": null, 
+    "title": "程序开发项目实践", 
+    "price": 0, 
+    "topic_name": [], 
+    "institution_name": [
+      "Peking University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f9/fa7c4020b911e6a91a6d637d2277f7/LOGO-final.png", 
+    "course_url": "https://en.coursera.org/learn/biancheng-suanfa-biye-xiangmu", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-06-07T08:25:39Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "郑伟娟", 
+    "description": "《营养与健康》介绍营养学基础知识，主要内容包括：人体所需的七大营养素的化学结构、主要生理功能、食物来源、人体每天的参考摄入量等；主要食物种类包括谷物类、薯类、豆类、坚果类、蔬菜类、水果类、肉类、水产品类、蛋类、乳制品类的营养价值；营养与疾病特别是一些慢性、高发性疾病如高血糖、高血脂、高血压、癌症等的关系。内容简单，适合无营养学基础、但希望了解一般的营养学知识，改善日常膳食质量的人选修。", 
+    "end_date": null, 
+    "title": "营养与健康", 
+    "price": 0, 
+    "topic_name": [], 
+    "institution_name": [
+      "Nanjing University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/76/93a190099211e5a43f6d32d0baebb7/_____________.jpg", 
+    "course_url": "https://en.coursera.org/learn/yingyang-jiankang", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2015-08-04T05:46:57Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
+    "description": "這是一個機率的入門課程，著重的是教授機率基本概念。另外我們的作業將搭配臺大電機系所開發的多人競技線上遊戲方式，讓同學在遊戲中快樂的學習，快速培養同學們對於機率的洞察力與應用能力。", 
+    "end_date": null, 
+    "title": "機率 (Probability)", 
+    "price": 0, 
+    "topic_name": [], 
+    "institution_name": [
+      "National Taiwan University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/f8/91d450352b11e48239673584835daa/iStock_000000248160_Small.png", 
+    "course_url": "https://en.coursera.org/course/prob", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": null
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "Dr.  Dave Ward, Professor Duncan Pritchard,  Professor Michela Massimi, Dr. Suilin Lavelle, Dr. Matthew Chrisman, , Dr. Alasdair Richmond", 
+    "description": "本课程将为你介绍现代哲学中的一些研究领域。在每个模块中，将由不同的哲学家为你讲述其专业领域内最重要的疑问和问题。 首先，我们来了解什么是哲学，哲学有哪些独特的目标与方法以及哲学与其他学科有何不同？之后，我们会在课程剩余的时间内向你简要介绍各种哲学领域的总体情况。你要学习的主题包括：知识论，其中将讨论囊括我们对世界和我们自身的了解以及如何获取这些知识；科学哲学，我们将在此模块中调查科学研究和实践中的基础概念问题；心灵哲学，我们将在此模块中询问物质拥有心灵的意义以及应如何理解和诠释心灵；道德哲学，我们将在此模块中探究道德判断和反应的本质，看它们是旨在得出客观的道德真相，还是仅作为个人或文化偏好，以及，形而上学，我们将在此模块中思考有关事实本质的一些基础概念问题。 本慕课 (MOOC) 课程由爱丁堡大学 Eidyn 研究中心领导设计。为配合“哲学导论”的授课，我们为大家倾力推荐一本由 Routledge 出版社出版的名为 \"Philosophy for Everyone\" 的配套书籍。这本“哲学导论”的课程配套书籍是由爱丁堡大学哲学小组为满足慕课 (MOOC) 学生要求而编写的。\"Philosophy for Everyone\"一书中包含清晰易懂的章节、章节摘要、词汇表、探究问题、补充阅读推荐以及在线资源指南。\n\nThis is a translated version. To join the original English version, Please visit this page https://www.coursera.org/learn/philosophy", 
+    "end_date": null, 
+    "title": "哲学导论（中文版）", 
+    "price": 0, 
+    "topic_name": [], 
+    "institution_name": [
+      "The University of Edinburgh"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/introphil/large-icon.png", 
+    "course_url": "https://en.coursera.org/learn/zhexue-daolun", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2015-06-27T06:58:33Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": ", ", 
     "description": "北京大学《C++程序设计》这门课将向你讲授C++程序设计有关的概念和语法，使你能够使用C++语言，以面向对象的方法编写可维护性、可扩充性好的，较大规模的程序。我们建议你在开始本课程之前已经熟悉了C语言和基本程设编写。这门课则将带你掌握C++语言中类、对象、运算符重载、继承、多态等面向对象的程序设计方法，以及模板、标准模板库STL等泛型程序设计的机制，体会和领悟面向对象程序设计方法和泛型程序设计方法的优势。", 
     "end_date": null, 
     "title": "C++程序设计", 
     "price": 0, 
-    "instructors": "4914899, 5233026", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -696,18 +858,43 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-07-21T04:01:01Z"
   }, 
   {
     "selfpaced": false, 
+    "instructors": ", , , , , ", 
+    "description": "本课程旨在加深学员对中国历史与古代社会生活的认识；促进对传统文化核心观点与基本精神的理解与把握；培养文化研究初步方法。", 
+    "end_date": null, 
+    "title": "中国古代文化", 
+    "price": 0, 
     "topic_name": [], 
+    "institution_name": [
+      "Peking University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/db/43acb00db311e4ae6f4f5e963bdfbb/______-2.jpg", 
+    "course_url": "https://en.coursera.org/course/pkuacc", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": null
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "謝尚賢(Shang-Hsien Patrick Hsieh)", 
     "description": "這門課是「CAD/BIM技術與應用」專項課程的第六門課，屬於BIM系列課程：「工程資訊管理BIM基礎」、「工程資訊管理BIM塑模」及「工程資訊管理BIM應用」的第二門課。\n\n修習這門課之前，應具備BIM技術的基礎知識，並能操作簡單的BIM模型，如此才能在修習這門課時，充分理解教授的內容與全觀BIM知識間的關聯。「CAD/BIM技術與應用」專項課程的「工程資訊管理BIM基礎」課程，可提供修習這門課前所需具備的相關知識。\n\nBIM模型，是BIM技術應用的基礎。在這門課中，我們以業界廣為應用的建模軟體Autodesk Revit，作為教學工具。學習者將親自建置一棟六層樓住宅的BIM模型，並理解如何將工程施作流程，對應至BIM模型中。唯有依照工程施作流程建置BIM模型，BIM模型才得以實際應用在施工中。完成此課程後，將具備業界所需的BIM塑模能力。\n\n想理解BIM模型是如何製作的嗎？想成為優秀的BIM模型建構師嗎？學習完這門課，你將了解工程實務與建置BIM模型間的對應關聯，並具備BIM塑模的技能。\n\n預估所需學習總時間：45小時。", 
     "end_date": null, 
     "title": "工程資訊管理 BIM 塑模", 
     "price": 0, 
-    "instructors": "謝尚賢(Shang-Hsien Patrick Hsieh)", 
+    "topic_name": [], 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -721,43 +908,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-09-01T06:28:05Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
-    "description": "学习了基本的数据结构后，我们已经可以用程序来解决现实中的一些问题了。但是，怎样提升程序在运行效率呢？\n\t如何快速地把图书按序号从小到大整理好？如何通过一个ID编号在数据库中高效地查找相对应的信息？如何迅速找到所有内容中含有“数据结构”的文档？《高级数据结构与算法》将通过使用高级的数据结构和高效的算法，让你学会如何解决这些对运行时间要求比较严格的问题。\n\t高级数据结构和算法能够根据实际情况，满足一些复杂问题对数据规模、运行时间的要求，帮助我们更有效地解决问题。当我们面对实际问题的时候，高级数据结构和算法让我们有更广泛的空间，选择出与问题本身最为契合的数据结构，并利用相关算法来提升运行效率。\n\t完成这门课之时，你将掌握多维数组、广义表、Trie树、AVL树、伸展树等高级数据结构，并结合内排序、外排序、检索、索引有关的算法，高效地解决现实生活中一些比较复杂的应用问题。合理使用这些高级数据结构和相关算法是程序运行效率的关键因素，学好这门课会让你在之后的计算机专业课程以及项目设计中更得心应手，同时也将让你站在更高的角度去理解问题、设计程序。", 
-    "end_date": null, 
-    "title": "高级数据结构与算法", 
-    "price": 0, 
-    "instructors": "2499461", 
-    "institution_name": [
-      "Peking University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/79/ea34c05dea11e4a260b1819267cd7d/dsalgo2_logo_g.png", 
-    "course_url": "https://en.coursera.org/learn/gaoji-shuju-jiegou", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2015-07-21T03:47:14Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": ", ", 
     "description": "《程序设计实习》课程是北京大学的本科生主干基础课程。课程的主要目标有二： 一、掌握C++语言的语法和标准模板库，能用C++语言以面向对象的方法来编写规模较大的程序。 二、掌握枚举、递归、搜索、动态规划等基本的算法思想。通过大量的高强度的编程训练，提高动手能力，做到能较为熟练、完整、准确地实现自己设计的程序，为进一步学习其他计算机专业课程，或在其他专业领域运用计算机编程解决问题奠定良好的基础。", 
     "end_date": null, 
     "title": "程序设计实习 / Practice on Programming", 
     "price": 0, 
-    "instructors": "4914899, 5233026", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -771,18 +933,43 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
+    "instructors": "", 
+    "description": "学习了基本的数据结构后，我们已经可以用程序来解决现实中的一些问题了。但是，怎样提升程序在运行效率呢？\n\t如何快速地把图书按序号从小到大整理好？如何通过一个ID编号在数据库中高效地查找相对应的信息？如何迅速找到所有内容中含有“数据结构”的文档？《高级数据结构与算法》将通过使用高级的数据结构和高效的算法，让你学会如何解决这些对运行时间要求比较严格的问题。\n\t高级数据结构和算法能够根据实际情况，满足一些复杂问题对数据规模、运行时间的要求，帮助我们更有效地解决问题。当我们面对实际问题的时候，高级数据结构和算法让我们有更广泛的空间，选择出与问题本身最为契合的数据结构，并利用相关算法来提升运行效率。\n\t完成这门课之时，你将掌握多维数组、广义表、Trie树、AVL树、伸展树等高级数据结构，并结合内排序、外排序、检索、索引有关的算法，高效地解决现实生活中一些比较复杂的应用问题。合理使用这些高级数据结构和相关算法是程序运行效率的关键因素，学好这门课会让你在之后的计算机专业课程以及项目设计中更得心应手，同时也将让你站在更高的角度去理解问题、设计程序。", 
+    "end_date": null, 
+    "title": "高级数据结构与算法", 
+    "price": 0, 
     "topic_name": [], 
+    "institution_name": [
+      "Peking University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/79/ea34c05dea11e4a260b1819267cd7d/dsalgo2_logo_g.png", 
+    "course_url": "https://en.coursera.org/learn/gaoji-shuju-jiegou", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2015-07-21T03:47:14Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
     "description": "操作系统是计算机系统的基础软件，而系统虚拟化已成为云计算平台的核心技术，没有它们提供的安全性，这些计算机系统及其上数据的安全性都将无法保障。本课程将从理论与工程实践相结合的角度，介绍操作系统(Linux)与系统虚拟化(Xen)安全相关理论、技术和方法，包括：安全概念、安全机制、安全模型、安全体系结构、安全开发方法、安全标准与评测方法等，帮助你深入学习和理解该领域的知识体系、实践技术和方法。", 
     "end_date": null, 
     "title": "操作系统与虚拟化安全", 
     "price": 0, 
-    "instructors": "5924526", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -796,18 +983,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-07-01T08:30:18Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "吴 宁, 谢涛, 赵英良", 
     "description": "在信息化社会，充分有效地管理和利用各类信息资源，是进行科学研究和决策管理的前提。数据库技术是有效地管理和利用各类信息资源的重要技术手段。通过本课程，你将获得数据库技术的基本知识，学会通过SQL Server数据库管理系统管理数据，包括安装数据库管理系统，创建数据库和数据表，插入数据和维护数据等，特别是可以使用SQL Server按各种条件查询需要的信息。", 
     "end_date": null, 
     "title": "SQL Server数据库技术", 
     "price": 0, 
-    "instructors": "吴 宁, 谢涛, 赵英良", 
+    "topic_name": [], 
     "institution_name": [
       "Xi'an Jiaotong University"
     ], 
@@ -821,18 +1008,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-06-07T02:51:25Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "杨柏灿", 
     "description": "《杏林探宝——认知中药》是由上海中医药大学推出的一门关于中药学的慕课课程，由上海中医药大学杨柏灿教授主讲。\n      上海中医药大学（Shanghai University of Traditional Chinese Medicine）的前身是上海中医学院，创建于1956年，是新中国诞生后国家首批建立的四所中医药高等院校之一，也是上海市属高校中唯一的一所医科类重点特色院校。\n      中药学根植于中华文化，是中医药学的重要组成部分，也凝聚着中华文明的精髓。其悠久的历史，卓越的防病治病效果，较少的毒副作用，成为中华民族防病治病不可或缺的选择。同时，中药的作用也日益引起国际社会的关注和重视。但不可否认，对中药的认识和应用存在着一些不容忽视的误区与盲区，非常有必要采取一定的方式，通过合适的平台传播、普及中药知识，使人们对中药有一个更为全面准确的认识，并能合理应用，让中药为人类的健康保健发挥更大的作用。", 
     "end_date": null, 
     "title": "杏林探宝——认知中药", 
     "price": 0, 
-    "instructors": "杨柏灿", 
+    "topic_name": [], 
     "institution_name": [
       "Shanghai Jiao Tong University", 
       "上海中医药大学"
@@ -847,18 +1034,43 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-07-16T12:26:03Z"
   }, 
   {
     "selfpaced": false, 
+    "instructors": ", , ", 
+    "description": "本課程對象為對中國文化有興趣的同學。\n課程目的為通過四個不同特色的主題，討論中國文化的四個主要面向。每個主題選取兩篇經典文本作為核心閱讀，並與延伸閱讀做互文探討，以新角度解讀經典文本的意義，展現中國文化的複雜性、多元性。文本難度與大學一年級國文程度相當。", 
+    "end_date": null, 
+    "title": "中國人文經典導讀 | Classics of Chinese Humanities: Guided Readings", 
+    "price": 0, 
     "topic_name": [], 
+    "institution_name": [
+      "The Chinese University of Hong Kong"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e5/66d0de2e961f1e3b9787e892e85495/humanities.jpg", 
+    "course_url": "https://en.coursera.org/course/chinesehumanities", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": null
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
     "description": "腦袋裡常裝著許多立體物件的形貌，想分享出來，可是不知道怎麼表達？怎麼將心中那個立體的形象，「繪製」出來呢？3D建模技術，幫助我們建構最直觀可以理解的立體模型，跳過利用平面圖解讀三維物體的過程，最能直接有效地表達我們的想法。\n我們設計了許多範例，讓大家可以快速地理解3D CAD軟體 Sketchup 的使用邏輯，與繪製技巧，從入門到進階，介紹SketchUp 各項3D建模技術。完成『工程圖學3D CAD』後，把天馬行空的想法，以3D建模技術繪製出來，不再是難事！\n本課程目標是建構三維模型，電腦實作為主要講授教材，以豐富有趣的範例與完整的繪製過程，步驟化地引導如何使用Sketchup這套3D建模軟體的技術。完成『工程圖學3D CAD』，你將有能力將存在於想像裡的立體物件，透過3D建模，實現出來！", 
     "end_date": null, 
     "title": "工程圖學 3D CAD", 
     "price": 0, 
-    "instructors": "2139037", 
+    "topic_name": [], 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -872,18 +1084,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-07-15T00:45:51Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "李 立明, 胡 永华, 詹 思延, 吴 涛", 
     "description": "流行病学是研究人群中疾病与健康状况的分布及其影响因素,并研究如何防治疾病及促进健康的策略和措施的科学。作为医学专业的一门主干课程,本门课程的教学目标是使学生通过本门课程学习,掌握流行病学的原理和概念及在医学领域中的应用；初步掌握流行病学研究的思路,方法和实施步骤；初步掌握利用流行病学调查研究结果进行卫生防疫、防病策略的制订和措施的选择；以及独立进行流行病学研究设计、实施与分析的基本理论与技能。\n        本门课程基于北京大学公共卫生学院流行病学与卫生统计学系开设的国家级精品课程《流行病学》课程内容设计和完善而成，授课教师团队包括李立明教授、胡永华教授、詹思延教授及我系其他骨干教职员工。希望同学们通过本门课程的学习能够掌握基本的流行病学原理及方法，为深入研究和学习打下坚实基础。\n        本门课程是流行病学基础的上半部分，后续将会推出《流行病学基础（下）》，主要讲授实验流行病学、筛检、偏倚及其控制和疾病预防的策略与措施等内容。", 
     "end_date": null, 
     "title": "流行病学基础（上）", 
     "price": 0, 
-    "instructors": "李 立明, 胡 永华, 詹 思延, 吴 涛", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -897,18 +1109,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-07-01T08:07:49Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "张文霞", 
     "description": "本课程的实验设计贯穿以研究基因功能为目的遗传学思维理念及精髓。通过背景知识的介绍和相关的实验操作，使大家建立这样的理念：研究基因功能时，在分子水平通过敲除或者敲入的策略，使基因突变或者修饰，这些突变依赖载体染色体的传递，将稳定地传给下一代。通过设计精巧的遗传杂交实验，追踪易于识别的染色体标记，就可以定位目的基因、获得纯合突变体，研究表型与基因型间的对应关系，从而理解各种表型的分子机制。整个实验过程涉及生物学不同学科知识和实验设计的融合。\n\n针对遗传学研究的这些关键点，本课程设计了一系列实验，主要以模式动物果蝇为窗口，通过遗传杂交实验，以遗传信息传递的载体染色体为线索，除验证遗传学基本定律外，还引入科研项目的理念和实验环节，以便让大家参与平时在课堂上接触不到的真实科研实践。每次实验包括背景原理、目的介绍、操作要点和相关的视频演示。让学生亲自保管和观察杂交果蝇培养瓶，写生活史观察日记也是本课程的特色之一。\n\n学生，尤其是高年级本科生和进入国内外科研第一线的研究生，均反馈受益非浅。\n\n参考教材为由张文霞主编，高等教育出版社出版的《遗传学实验指导》。此外相应的实验将提供参考文献。\n\nMOOC实验课虽然无法亲自操作，但我们将提供丰富的图片和视频资料，使大家了解其过程。有实验条件的选课人员，可以依照讲解和演示，亲自操作。", 
     "end_date": null, 
     "title": "遗传学实验", 
     "price": 0, 
-    "instructors": "张文霞", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -922,18 +1134,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-07-01T07:48:32Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "本课程重点讲述计算机的内部结构和工作原理，着眼于软件和硬件的衔接互动，注重基本概念和真实系统的对应。", 
     "end_date": null, 
     "title": "计算机组成 Computer Organization", 
     "price": 0, 
-    "instructors": "5418734", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -947,18 +1159,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-11-25T02:30:15Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "德国思想巨擎马克斯·韦伯在20世纪初，以其深邃的洞察力发现了欧洲文明进程中宗教信仰对近代资本主义诞生做出的特殊贡献，从而提出了不同于马克思“经济基础决定上层建筑”的历史发展观，并由此引发了一系列引人深思的文化、社会和宗教学问题。本课程将以对马克斯·韦伯的《新教伦理与资本主义精神》的深度阅读为基础，让学生对韦伯的宗教社会学研究有初步的了解，进而深入思考文化与社会互动的基本关系，提升学生的人文素养和培养独立思维精神。\n\n本课程在系统介绍韦伯《新教伦理与资本主义精神》背景的基础上，让学生直接、深入阅读文本本身，同时补充一些欧洲文化史的相关内容（文艺复兴、新教改革、启蒙运动、资本主义兴起），并穿插一些韦伯社会研究方法论的基本观念（例如理想型、价值中立、选择亲缘性等），使得学生深入思考文化和社会之间的双向、互动的关系。此外，本课程还将着重培养学生扩展阅读（韦伯的其他著作，如《儒教与道教》、《经济与社会》等）和独立思考的能力。如有可能，本课程还将引导大家来反思个人的生活选择，例如对时间、金钱和职业的态度。", 
     "end_date": null, 
     "title": "《新教伦理与资本主义精神》导读", 
     "price": 0, 
-    "instructors": "5472452", 
+    "topic_name": [], 
     "institution_name": [
       "Fudan University"
     ], 
@@ -972,18 +1184,43 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-03-24T07:37:27Z"
   }, 
   {
     "selfpaced": false, 
+    "instructors": ", , , , , , , ", 
+    "description": "这是一个全球化、信息化、快餐化的时代；全球化拷问着人们的文化根基，信息化拷问着人们的价值信仰，快餐化拷问着人们的经典阅读。 民族的就是世界的。为继承弘扬中华文化传统，我们特意打造这门课，希冀提供一个阅读哲学经典、传承中国文化、铸造民族精神的平台，让中国文化走向世界、走向未来。\n        本课分十个专题，分别介绍《周易》、孔子《论语》、老子《道德经》，《大学》与《中庸》，《庄子》，《孙子兵法》，《墨经》，《心经》，以及朱熹理学、王阳明《传习录》等著作和人物的思想。既有对儒释道经典的介绍，也有对理学、心学思想的阐释，以期以一种更广阔的视角看待中国传统哲学，让学生能够对中国传统哲学有一种全方位的认识。\n\n课程大纲\n\n第一章 《周易》导读\n\n第二章 《道德经》导读\n\n第三章 《论语》导读 \n\n第四章 《大学》《中庸》导读\n\n第五章 《孙子兵法》导读\n\n第六章 《墨经》导读\n\n第七章 《心经》导读\n\n第八章  《庄子》导读\n\n第九章  朱熹理学相关著作导读\n\n第十章 《传习录》导读", 
+    "end_date": null, 
+    "title": "中国哲学经典著作导读", 
+    "price": 0, 
     "topic_name": [], 
+    "institution_name": [
+      "Xi'an Jiaotong University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/31/e405f0a29d11e49ce83941fb6d9a39/Banner.jpg", 
+    "course_url": "https://en.coursera.org/learn/chinese-philosophy", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2015-01-23T08:33:08Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "骆斌, 葛季栋", 
     "description": "1946年第一台计算机面世之后，科学家与工程师们一直致力于让计算机更好地为人类工作，一代又一代操作系统因此应运而生。操作系统是计算机系统的灵魂，它管理计算机系统的资源，提供友善的人机互动，对于每一位计算机用户来说，认知和理解操作系统非常重要。\n南京大学是中国最早从事，操作系统研发与教学的单位，1980年在中国首先出版了操作系统教程教材，至2014年该教材已更新至第五版。\n本课程的教学组织为六个部分：计算机操作系统概述、处理器管理、存储管理、设备管理、文件管理、并发程序设计。学习者能够认知操作系统的基本概念与实现原理，并深入理解操作系统的设计方法与实现技术。\n如果您是计算机科学、软件工程、电子、通信、控制、信息系统、电子商务、计算与信息科学等信息技术相关专业的学生，可以系统地学习本课程基本部分的内容，如果您想致力于操作系统的研发工作，可以进一步学习高级部分的内容；此外 如果您是计算机爱好者，\n可以根据自己的需要，按需学习本课程相关部分的内容，建立对计算机操作系统整体或部分的认知。\n本课程有三个特点：第一，强调计算机软硬件协同设计技术，讲授操作系统各个模块的实现方法、策略与算法；第二，从大型软件系统构造的角度看待操作系统的实现，训练学生以折中的方法和方案，综合解决宏观问题的能力；第三，采用工程师的立场，强调操作系统的构造特征，即概念大于理论、技术大于算法、整体先于局部，培养学生综合解决实际问题的能力。欢迎大家修读本课程！", 
     "end_date": null, 
     "title": "计算机操作系统", 
     "price": 0, 
-    "instructors": "骆斌, 葛季栋", 
+    "topic_name": [], 
     "institution_name": [
       "Nanjing University"
     ], 
@@ -997,18 +1234,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-08-04T06:17:52Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "Prof. Kit Tai Hau 侯傑泰", 
     "description": "在社会学、心理学、教育学、经济学、管理学、市场学等研究领域的数据分析中，结构方程建模是当前最前沿的统计方法中应用最广、研究最多的一个。它包含了方差分析、回归分析、路径分析和因子分析，弥补了传统回归分析和因子分析的不足，可以分析多因多果的联系、潜变量的关系，还可以处理多水平数据和纵向数据，是非常重要的多元数据分析工具。本课程系统地介绍结构方程模型和LISREL软件的应用，内容包括：结构方程分析（包括验证性因子分析）的基本概念、统计原理、在社会科学研究中的应用、常用模型及其LISREL程序、结果的解释和模型评价。学员应具备基本的统计知识（如：标准差、t-检验、相关系数），理解回归分析和因子分析的概念。 注：本课程配套教材为《结构方程模型及其应用》（以LISREL软件为例）。", 
     "end_date": null, 
     "title": "Structural Equation Model and its Applications | 结构方程模型及其应用 (普通话)", 
     "price": 0, 
-    "instructors": "Prof. Kit Tai Hau 侯傑泰", 
+    "topic_name": [], 
     "institution_name": [
       "The Chinese University of Hong Kong"
     ], 
@@ -1022,18 +1259,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-03-01T14:23:18Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "這是一門實用的入門課程，學習者不需有工程背景。課程目標是培養製圖與讀圖的能力，同時著重理論與實務。理論方面，將教授投影、讀圖、剖面、透視、標註等基本的製圖原理，和各項工程常用的圖像語言。實作方面，將以簡單的案例，循序教授電腦輔助繪圖(CAD)的技巧。課程將設計學習小組以及實作，透過網路上的同儕互動，達到群體學習的功效。總共課程有七週，每週課程安排都包含繪圖理論觀念(4~5個講述影片)，以及電腦繪圖技巧(4~5示範影片)。", 
     "end_date": null, 
     "title": "工程圖學2D", 
     "price": 0, 
-    "instructors": "2139037", 
+    "topic_name": [], 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -1047,18 +1284,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "许 肖潇", 
     "description": "对于热爱微电影的学习者来说，今天这个信息化时代提供了前所未有的便利，他能找到各种关于电影理论、电影制作或是电影评论的书籍和影像，然而对于一个立志成为创作人的学习者来说，只有真正亲历创作过程，并和其他志同道合的创作者交流切磋，才是通往自我表达之路的最佳途径。\n\n企业合作\n1、腾讯体育合作项目：NBA明星的视频。优秀影片可以直接被在腾讯体育收录播出。\n2、拍电影网合作项目：优秀剧本和PPM（Pre-Production Meeting，拍摄前会议）策划案的作者，将可能获得拍电影网的微电影创作培训班，或者专业器材设备支持，在实战中创作出具有专业水准的微电影作品。", 
     "end_date": null, 
     "title": "创作吧！微影人！", 
     "price": 0, 
-    "instructors": "许 肖潇", 
+    "topic_name": [], 
     "institution_name": [
       "Fudan University"
     ], 
@@ -1072,18 +1309,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-01-20T05:20:40Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "Brian J Bushee", 
     "description": "学习必需的技术技能，从而掌握分析财务报表和披露财务信息用于财务分析的能力，并了解会计标准和高管层激励对财务报告流程的影响。学完本课程后，您将学会阅读三种最常见的财务报表：利润表、资产负债表和现金收支一览表。然后，您可以运用所学技能处理现实商务挑战，这也是沃顿商学院商务基础专项课程的组成部分。", 
     "end_date": null, 
     "title": "财务会计概论（中文版）", 
     "price": 0, 
-    "instructors": "Brian J Bushee", 
+    "topic_name": [], 
     "institution_name": [
       "University of Pennsylvania"
     ], 
@@ -1097,18 +1334,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-04-02T05:48:07Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "本課程之教學內容以希臘哲學之發展為主，並輔以哲學對人生意義之說明。希臘哲學是西洋哲學的骨幹，呈現西方人思維的核心理念，不但足以解釋今日之西方世界，甚至可以說明全世界的發展趨勢。本課程以希臘哲學為教學之主幹，分為先蘇哲學、詭辯學派、蘇格拉底、柏拉圖、亞理斯多德五個階段。教學的方式以強調他們之間的不同與相同的部分。課程將以演講的方式進行，揉合日常經驗作說明，並不時地會以整體的角度回頭看希臘哲學在今日哲學與社會所扮演的角色。", 
     "end_date": null, 
     "title": "活用希臘哲學 (Understanding the Greek Philosophy)", 
     "price": 0, 
-    "instructors": "5596182", 
+    "topic_name": [], 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -1122,18 +1359,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
-    "start_date": "2016-06-15T06:51:48Z"
+    "start_date": "2016-07-07T01:00:47Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "社会调查与研究方法， 首先，是一套观察社会现象、测量社会现象的工具； 其次，是一套分析和运用社会现象数据的科学方法； 最高境界，则是一套针对社会、经济、教育、政治、法律、管理、公共卫生、新闻报道等人类的生产与生活现象，进行科学沟通的思维逻辑与表达方式。", 
     "end_date": null, 
     "title": "社会调查与研究方法 （下）Methodologies in Social Research (Part 2)", 
     "price": 0, 
-    "instructors": "4517421", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -1147,18 +1384,43 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-11-04T06:46:59Z"
   }, 
   {
     "selfpaced": false, 
+    "instructors": "謝尚賢(Shang-Hsien Patrick Hsieh)", 
+    "description": "這門課是「CAD/BIM技術與應用」專項課程的第七門課，屬於BIM系列課程：「工程資訊管理BIM基礎」、「工程資訊管理BIM塑模」及「工程資訊管理BIM應用」的第三門課。\n\n修習這門課之前，應具備BIM的基礎知識與BIM塑模的技能。「CAD/BIM技術與應用」專項課程的「工程資訊管理BIM基礎」、「工程資訊管理BIM塑模」課程，可提供修習這門課前所需具備的相關知識與技能。\n\nBIM技術目前熾手可熱，廣泛的被應用在整個建築生命週期中。這門課將介紹兩項工程基礎實務的BIM應用：「工程數量估算」與「工程進度排程」。課程中會說明「工程數量估算」與「工程進度排程」的目的，並比較導入BIM技術前後，對工程數量估算與工程進度排程的影響。實作方面，學習者將會操作我們精心準備的案例，應用所學的BIM技術，估算工程數量與建立工程排程的模擬。在運用BIM技術於案例的過程中，將可深深地體驗到BIM應用的潛力。\n\n想了解BIM在工程上的應用嗎？這門課適合具備BIM基礎能力，並想延伸應用BIM技術的人。完成此課程後，你將具備應用BIM技術於「工程數量估算」與「工程進度排程」的能力，並能據以協助實際工程專案的管理。", 
+    "end_date": null, 
+    "title": "工程資訊管理 BIM 應用", 
+    "price": 0, 
     "topic_name": [], 
+    "institution_name": [
+      "National Taiwan University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/00/49f500d88e11e489c193d6579579bc/______-BIM_LOGO-03.png", 
+    "course_url": "https://en.coursera.org/learn/bim-yingyong", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2015-09-18T07:48:35Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "罗昭锋", 
     "description": "通过本门课程的学习，你将会大幅提升自己的学习能力。这是整个专项的基础课程，也是最具普适性的课程。课程将会按照成人的学习流程，介绍一系列的工具和方法。", 
     "end_date": null, 
     "title": "快速学习", 
     "price": 0, 
-    "instructors": "罗昭锋", 
+    "topic_name": [], 
     "institution_name": [
       "University of Science and Technology of China"
     ], 
@@ -1172,18 +1434,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-04-05T01:30:45Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "唐大仕", 
     "description": "C#（又称csharp)是一种优秀的面向对象语言，它继承了C++和Java等语言的优点，在Windows图形用户界面、Web应用、数据库等方面有着广泛的应用。本课程在介绍C#语言及面向对象的程序设计基本原理的基础上，使用Visual Studio作为开发工具，介绍C#对各种常见的信息的处理方法，包括文本处理、图形绘制、图像处理、多媒体、网络信息获取、数据库应用等。\n课程中除了理论知识外，更注重上机编程实践，程序示例紧密结合日常的学习和工作，生动有趣，难度适中。\n本课程要求学习者学过一门程序语言（如C语言等）。", 
     "end_date": null, 
     "title": "C#程序设计", 
     "price": 0, 
-    "instructors": "唐大仕", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -1197,18 +1459,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-05-17T00:24:04Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": ", ", 
     "description": "算法代表着用系统的方法描述解决问题的策略机制，北京大学《算法基础》课程将带你一一探索枚举、二分、贪心、递归、深度优先搜索、广度优先搜索、动态规划等经典算法，体会他们巧妙的构思，感受他们利用计算解决问题的独特魅力。顺利完成本课程，你将不但能够掌握这些算法的原理，还能够对这些算法进行灵活应用以及准确实现。本课程的中的编程任务，将充分训练你的思维能力和动手能力，促成全面、缜密思考问题的习惯。达到本门课程的要求，即意味者你具备了初步的算法基础和较强的编程实现能力。", 
     "end_date": null, 
     "title": "算法基础", 
     "price": 0, 
-    "instructors": "4914899, 5233026", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -1222,18 +1484,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-07-21T03:48:19Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "姜忠鼎 ", 
     "description": "随着互联网和智能手机的快速发展，《Angry Birds》（愤怒的小鸟）、《Temple Run》（神庙逃亡）等手游作品取得巨大成功，让独立开发者赚得第一桶金。移动平台的3D网络游戏开发成为趋势，优秀作品雨后春笋般涌现，Supercell Oy公司开发的《Clash of Clans》（部落冲突）与Blizzard Entertainment公司开发的《Hearth Stone》（炉石传说）风靡全球。网易、腾讯、巨人、恺英网络等业界著名公司也将游戏业务重心转向移动平台，市场涌现出莉莉丝、银汉科技等一大批新锐手游公司。\n      Unity引擎简单易用、功能丰富、具有跨平台等优秀特性，已成为业界最重要的开发工具。目前，全球大部分独立开发者与游戏工作室都选择Unity游戏引擎作为开发工具，快速开发高品质的手游作品。\n      《Unity游戏编程基础》课程主要讲述了如何使用Unity引擎开发移动端3D游戏。与课程内容同步，我们设计基于移动平台的第一人称3D射击游戏《慕课英雄》（MOOC HERO）。整个过程分为三个阶段：第一阶段，介绍物理系统、图形系统和音频，用于构建多米诺骨牌的场景；第二阶段，使用Unity的地形系统搭建游戏场景，将第一阶段的多米诺骨牌模型添加到游戏场景中，添加玩家与敌人角色，使用动画系统控制玩家与敌人角色动画的播放，编写Unity脚本实现玩家与敌人的行为和场景中的游戏逻辑；第三阶段，使用uGUI设计游戏交互界面，使用粒子系统与线渲染器实现玩家开枪效果和场景火焰效果，同时制作了场景中收集物以及游戏胜利与失败画面，最终将项目部署到移动平台。\n      此外，网络开发、人工智能、Shader（着色器）编程等Unity引擎高级功能将在本专项课程有关游戏编程的第二门课中进行学习。\n      通过本门课程的学习，你将理解Unity引擎的主要功能，学会利用Unity引擎开发移动平台的3D游戏，在入职游戏行业或独立游戏开发道路上迈出重要一步。", 
     "end_date": null, 
     "title": "基于Unity引擎的游戏开发基础", 
     "price": 0, 
-    "instructors": "姜忠鼎 ", 
+    "topic_name": [], 
     "institution_name": [
       "Fudan University"
     ], 
@@ -1247,18 +1509,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-05-25T23:14:09Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "何 平平", 
     "description": "本课程适用于医学各专业的学生以及医疗卫生工作者。 课程包括基础统计学方法及SPSS软件应用：绪论、统计描述、t检验、方差分析、卡方检验、直线回归与相关、秩和检验。通过本课程的学习，学生能掌握医学统计学的基本方法及SPSS软件的应用技能，培养统计思维能力，并在医学科研工作中能灵活地、正确地运用统计学。", 
     "end_date": null, 
     "title": "医学统计学与SPSS软件（基础篇）", 
     "price": 0, 
-    "instructors": "何 平平", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -1272,43 +1534,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-09-15T08:27:16Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
-    "description": "中级有机化学目标是提高学生在有机反应机理，有机合成方面的知识水平，并进一步培养学生在分析问题和解决问题方面的独立思考能力。\nComprehensive Organic Chemistry focuses on the mechanism of organic reactions and synthetic methodologies.\n", 
-    "end_date": null, 
-    "title": "中级有机化学 Comprehensive Organic Chemistry", 
-    "price": 0, 
-    "instructors": "6158874", 
-    "institution_name": [
-      "Peking University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/d6/090530826511e3a0059595ae38fe4f/______01.jpg", 
-    "course_url": "https://en.coursera.org/course/orgchem", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": null
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "胡东雁", 
     "description": "此课程从游戏定位到内容创造、从研发实训到运营方法、从项目流程到团队创建，对游戏策划领域进行了全面系统的介绍，为学习者跨入游戏设计之门打下扎实基础。\n课程结构紧凑、案例详实，通俗易懂。主讲教师对游戏开发中的概念设计、原型设计、规则设计、情节设计、关卡设计等内容进行解读，兼顾具体的关卡设计实践与游戏编辑工具使用实践，力图使学习者全面了解游戏设计原理，掌握游戏设计技能。", 
     "end_date": null, 
     "title": "游戏策划与设计", 
     "price": 0, 
-    "instructors": "胡东雁", 
+    "topic_name": [], 
     "institution_name": [
       "Fudan University", 
       "上海戏剧学院"
@@ -1323,18 +1560,43 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-04-05T00:53:22Z"
   }, 
   {
     "selfpaced": false, 
+    "instructors": "", 
+    "description": "中级有机化学目标是提高学生在有机反应机理，有机合成方面的知识水平，并进一步培养学生在分析问题和解决问题方面的独立思考能力。\nComprehensive Organic Chemistry focuses on the mechanism of organic reactions and synthetic methodologies.\n", 
+    "end_date": null, 
+    "title": "中级有机化学 Comprehensive Organic Chemistry", 
+    "price": 0, 
     "topic_name": [], 
+    "institution_name": [
+      "Peking University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/d6/090530826511e3a0059595ae38fe4f/______01.jpg", 
+    "course_url": "https://en.coursera.org/course/orgchem", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": null
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "Prof. Kit Tai Hau 侯傑泰", 
     "description": "课程介绍：\n\n在社会学、心理学、教育学、经济学、管理学、市场学等研究领域的数据分析中，结构方程建模是当前最前沿的统计方法中应用最广、研究最多的一个。它包含了方差分析、回归分析、路径分析和因子分析，弥补了传统回归分析和因子分析的不足，可以分析多因多果的联系、潜变量的关系，还可以处理多水平数据和纵向数据，是非常重要的多元数据分析工具。本课程系统地介绍结构方程模型和LISREL软件的应用，内容包括：结构方程分析（包括验证性因子分析）的基本概念、统计原理、在社会科学研究中的应用、常用模型及其LISREL程序、结果的解释和模型评价。学员应具备基本的统计知识（如：标准差、t-检验、相关系数），理解回归分析和因子分析的概念。 注：本课程配套教材为《结构方程模型及其应用》（以LISREL软件为例）。\n\n\n修课背景要求：\n\n讲学语言：普通话及广东话 / 简体中文\n这是一个艰深的高阶课程，学员应有下述的知识及训练：(i) 使用SPSS, SAS或其他类似软件包；(ii) 回归；和(iii) 因子分析(探索性因子分析)。\n\n\n课程目标：\n\n完成课程之后，学生的预期学习成果是：\n\n1. 能够说出与传统的ANOVA和回归分析法相比，结构方程模型的优点；\n2. 能够在仪器上进行验证性因子分析；\n3. 能够用结构方程模型分析简单的全模型；\n4. 通过计算出各种拟合指数和运用其他评估标准，能够比较并选出适合的模型；\n5. 能够基于相应的参数统计修改模型；", 
     "end_date": null, 
     "title": "Structural Equation Model and its Applications | 结构方程模型及其应用 (粤语)", 
     "price": 0, 
-    "instructors": "Prof. Kit Tai Hau 侯傑泰", 
+    "topic_name": [], 
     "institution_name": [
       "The Chinese University of Hong Kong"
     ], 
@@ -1348,18 +1610,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-03-01T14:21:29Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
-    "description": "随着互联网的高速发展，多人联机功能在游戏中的重要性日益体现。各大应用商店的游戏排行榜榜首，无一例外都是诸如《Cross Fire》(穿越火线)、《Clash of Clans》（部落冲突）之类的多人在线网络游戏。这些游戏凭借其炫酷的次世代特效、精彩的游戏模式、极致的性能优化在玩家中广受赞誉。\n      通过《Unity游戏编程基础》，学习者已经具备开发移动平台3D单机游戏的基本能力，但是要进行次世代画面的网络手游开发仍然存在较大的差距。因此，《Unity游戏编程进阶》课程将授课重点集中于多人网络手游的开发，游戏可玩性的提升，游戏视觉效果的提升，以及游戏性能的优化。\n      《Unity游戏编程进阶》课程是专项课程游戏编程的第二门课，在《Unity游戏编程基础》课程的基础上，专门讲解了如何使用PUN(Photon Unity Network)进行Unity网络游戏开发。相比Unity内置的网络工具包，Photon的PUN功能更加成熟、强大、灵活、丰富，在全球拥有数十万开发者。此外，在游戏元素方面增加了游戏关卡、玩家军团，以及武器切换功能，在游戏逻辑方面着重讲解了导航寻路、敌人AI、反向动力学等技术的应用，增加了游戏的可玩性。同时，讲解了着色器（Shader）的编程、光照烘焙以及后期屏幕效果渲染，用于改善游戏的视觉效果。最后，讲解了数据持久化、资源动态加载以及项目优化。与课程内容同步，我们将在第一门课项目《慕课英雄》（MOOC HERO）的基础上进行改进，最终制作出项目《慕课英雄》（MOOC HERO）移动平台的3D网络游戏。\n      通过本门课程的学习，学习者将对Unity游戏开发有更深层次的认识，并能够使用Unity引擎与Photon Server开发跨平台的3D网络游戏，为将来游戏行业入职或独立游戏开发奠定优秀的编程基础。", 
+    "instructors": "姜忠鼎 ", 
+    "description": "诸如《Clash Royale》（部落冲突：皇室战争）、《Cross Fire》（穿越火线）之类的手机网络游戏在玩家中非常流行。 本门课程《Unity游戏编程进阶》是专项课程游戏编程的第二门课，通过《Unity游戏编程基础》课程，学习者已经具备开发移动平台3D单机游戏的基本能力，然而与次世代画面的网络手游开发仍存在很大差距。《Unity游戏编程进阶》课程重点讲解手机网络游戏的开发，提升游戏的可玩性和游戏的画面效果，优化游戏的性能。\n      本课程以《Unity游戏编程基础》课程为基础，具体讲解导航与寻路、僵尸AI、逆向动力学等技术的应用，增加游戏的可玩性；讲解全局光照、着色器以及Image Effect等知识点，提升游戏画面效果；讲解Unity Profiler、Unity 性能优化以及Quality设置等相关知识点来优化游戏的性能；讲解如何使用Photon网络引擎包含的PUN(Photon Unity Network)进行Unity网络游戏开发。相比Unity内置的网络工具包，Photon的PUN功能更加成熟、强大、灵活、丰富，在全球拥有数十万开发者。在课程的最后部分，完成本门课程项目《慕课英雄2》：第一人称射击手机网络游戏。\n         通过本门课程的学习，学习者将对Unity游戏开发有更深层次的理解，能够使用Unity与Photon网络引擎开发3D手机网络游戏，为将来入职游戏行业或进行独立游戏开发奠定优秀的编程基础。", 
     "end_date": null, 
     "title": "基于Unity引擎的游戏开发进阶", 
     "price": 0, 
-    "instructors": "姜忠鼎 ", 
+    "topic_name": [], 
     "institution_name": [
       "Fudan University"
     ], 
@@ -1373,18 +1635,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-03-01T09:48:20Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "本课程针对普通人普及常见的急救和自救的知识和技能，让学习者可以在危急时刻进行急救，或许不够规范甚至不能完成治疗，但能起基础的救护作用，至少能争取救助的时间，从而增加自己、家人或其他人的生存机会。这些应该全民普及的急救技能不仅反映了公民素质，更表现了对生命的尊重和热爱，是尊重生存权的体现。", 
     "end_date": null, 
     "title": "关爱生命--实用急救与自救技能", 
     "price": 0, 
-    "instructors": "8193084", 
+    "topic_name": [], 
     "institution_name": [
       "Shanghai Jiao Tong University"
     ], 
@@ -1398,18 +1660,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "Christian Terwiesch", 
     "description": "学习者需要选择一个（由华为公司提供的）实战商业机会，或者自己工作中的例子，仔细地评估，并清晰地表述给同学、沃顿教职员以及相关行业合作伙伴高管。 学习目标： 分析一个现实商业机会的收益与风险 提出一套如何利用这个商机的策略 准确并清晰地与他人交流你的分析和方案。学习者需要提供一个战略计划，以幻灯片或者视频的形式，展示针对这个商机的”市场进入”战略。 学习者需要明确商机的意义，分析其主要收益和风险，并提供一个“市场进入”方案，包含以下关键方面： 市场营销：针对新的产品，设计一个以消费者中心的传播/市场营销计划。 金融/财务：针对可行的项目，设计一个金融模型（比如净现金流模型），包含对成本和收益的预测。 运营管理：针对新项目，构建一个生产以及（或者）服务计划。", 
     "end_date": null, 
     "title": "沃顿商务基础毕业项目 (中文版)", 
     "price": 0, 
-    "instructors": "Christian Terwiesch", 
+    "topic_name": [], 
     "institution_name": [
       "University of Pennsylvania"
     ], 
@@ -1423,18 +1685,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-04-02T05:46:09Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "Prof. Kenneth Hsien-yung Pai 白先勇, Prof. Wei Hua 華瑋", 
     "description": "本課程以崑曲的歷史文化、文學、音樂、表演、美學為核心主題，透過學者與表演藝術家的解說示範，提昇學生對中國傳統文化、古典文學與表演藝術之鑑賞能力。\n\n(A shorter English version will be launched in 2015. The exact date is to be announced.)", 
     "end_date": null, 
     "title": "The Beauty of Kunqu Opera | 崑曲之美", 
     "price": 0, 
-    "instructors": "Prof. Kenneth Hsien-yung Pai 白先勇, Prof. Wei Hua 華瑋", 
+    "topic_name": [], 
     "institution_name": [
       "The Chinese University of Hong Kong"
     ], 
@@ -1448,18 +1710,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "许 肖潇", 
     "description": "目前市面上有越来越多的微电影技术与流程方面的教程，通过它们你可以知道拍微电影大致的制作流程与技术，但这样你接触的只是微电影创作的皮毛。因为，拍微电影，从根本上说我们面对的是人：演员、工作人员、观众这些活生生的人，而人比机器要难把握多了。因此，微电影创作是一种独具风格、需要深入复杂人性与感受的深层次独立创作。\n\n      本课程授课教师本着“授人以鱼，不如授人以渔”的原则，直面现有微电影实践教学中“只重技术与流程、不重观念与思维”的普遍性问题，总结多年的创作体验和授课心得，将课程分为“亲临微电影创作现场” 、 “ 勤修微影人观念”、“勤养微电影思维” 的渐进式三大模块，通过项目创作和情境再现的直观形式，带你从了解微电影的拍摄与流程的实质开始，逐步深入微电影的剧本创意与写作、角色塑造、主题表达、叙事方式、风格形成等方面真正的要点与难点，让你真切领会到微电影的创作精髓； 同时，深入研究微电影与电影在本质上、创作上的异同，提炼出微电影创作人在“初心、情怀、风格、思维、结构、细节、人物、细节、流程”等各个方面所应具备的素质与观念，并引导微影人将这些微电影素养的培养作为长期的目标坚持下去，使它变成你的自身素养的一部分，促使你达到对客观世界与对象的更高境界的感受与把握。从而在这些扎实修养的基础之上，哪怕只给你一个手机，你也依然创作出独具魅力的微电影“大片”。\n\n授课原则：\n不讲某一个软件、某一个设备的具体的操作方法。\n不讲非常完善的理论体系。（因为这些内容相关书籍或在线教程有很多，教师会在必要的时候给出相应的资料、教程链接以供补充学习与参考）\n不提供技术词典。\n专注从创作中得来的、接近创作本质的心得、体会、思考。\n坚持在创作与思考不断提升自我修养。", 
     "end_date": null, 
     "title": "微影人的自我修养", 
     "price": 0, 
-    "instructors": "许 肖潇", 
+    "topic_name": [], 
     "institution_name": [
       "Fudan University"
     ], 
@@ -1473,93 +1735,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-04-01T07:55:38Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
-    "description": "通过探究客户决策根源，学习市场营销基础知识。主要课题包括品牌塑造战略（例如，品牌定位、品牌传播）、客户中心化市场营销战略，以及新市场开拓（例如，渠道战略、市场营销规划）。成功完成本课程后，您可以运用所学技能处理现实商务挑战，这也是沃顿商学院商务基础专项课程的组成部分。", 
-    "end_date": null, 
-    "title": "市场营销概论 (中文版）", 
-    "price": 0, 
-    "instructors": "3749002, Peter Fader, David Bell", 
-    "institution_name": [
-      "University of Pennsylvania"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f2/b3dd00fa7c11e485c32f4256a893fe/online_learning_slide_vMarketing.jpg", 
-    "course_url": "https://en.coursera.org/learn/wharton-shichang-ying-xiao", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2016-04-02T05:47:50Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "本课程主要面向非计算机专业学生，从Python基本语法开始，到Python中如何从本地和网络上进行数据获取，如何表示数据，再到如何对数据进行基础和高级的统计分析及可视化，到最后如何设计一个简单的GUI界面来表示和处理数据，层层推进。\n整个课程以Yahoo财经数据为基础，通过构建一个个喜闻乐见的案例，让大家可以以更直观的方式领略Python的简洁、优雅和健壮，同时探讨Python除了在商业领域之外在文学、社会学和新闻等人文社科类领域以及在数学和生物等理工类领域同样拥有便捷高效的数据处理能力，并可以触类旁通将其灵活应用于各专业中。", 
-    "end_date": null, 
-    "title": "用Python玩转数据 Data Processing Using Python", 
-    "price": 0, 
-    "instructors": "张莉", 
-    "institution_name": [
-      "Nanjing University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/98/1ac3204b9111e5a7141993db26bfbc/__1.jpg", 
-    "course_url": "https://en.coursera.org/learn/hipython", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2015-08-26T08:06:05Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "大家好，欢迎来到《天文探秘》课堂。本课程主要简单介绍天文学的基本知识，包括宇宙和星系、引力和暗物质、太阳和太阳活动、恒星和致密星（黑洞）、以及系外行星 等多个领域和方面。通过本课程的学习，你能够系统地了解到很多不曾了解的事实，惊奇地发现许多令人惊叹的奥秘。\n\n本课程总共十周，由五位老师共同授课（各位老师均为相关领域的专家）、每人两周。课程以介绍基本知识为主，尽量避免复杂公式的推导和计算，所以难度不大，但知识点比较多。学习者通过观看视频学习，然后完成每周小测即可。最后总成绩即为每周小测成绩之和。\n\n《天文探秘》课程是一门难得的好课，期待大家的加入，让我们一起探索神秘的宇宙！", 
-    "end_date": null, 
-    "title": "天文探秘", 
-    "price": 0, 
-    "instructors": "施勇, 谢懿, 陈鹏飞, 李向东, 周济林", 
-    "institution_name": [
-      "Nanjing University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/47/c8cc40a45711e5bf4fc5bb0ab2aa04/cover-pic.jpg", 
-    "course_url": "https://en.coursera.org/learn/tianwenxue", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2015-12-22T02:10:59Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "Christian Terwiesch", 
     "description": "了解如何提升工作效率和提高质量标准，学会分析和改善服务业或制造业商务流程。主要概念包括流程分析、瓶颈、流程速率和库存量等。成功完成本课程后，您可以运用所学技能处理现实商务挑战，这也是沃顿商学院商务基础专项课程的组成部分。", 
     "end_date": null, 
     "title": "运营管理概论（中文版）", 
     "price": 0, 
-    "instructors": "Christian Terwiesch", 
+    "topic_name": [], 
     "institution_name": [
       "University of Pennsylvania"
     ], 
@@ -1573,18 +1760,43 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-04-02T05:48:34Z"
   }, 
   {
     "selfpaced": false, 
+    "instructors": "施勇, 谢懿, 陈鹏飞, 李向东, 周济林", 
+    "description": "大家好，欢迎来到《天文探秘》课堂。本课程主要简单介绍天文学的基本知识，包括宇宙和星系、引力和暗物质、太阳和太阳活动、恒星和致密星（黑洞）、以及系外行星 等多个领域和方面。通过本课程的学习，你能够系统地了解到很多不曾了解的事实，惊奇地发现许多令人惊叹的奥秘。\n\n本课程总共十周，由五位老师共同授课（各位老师均为相关领域的专家）、每人两周。课程以介绍基本知识为主，尽量避免复杂公式的推导和计算，所以难度不大，但知识点比较多。学习者通过观看视频学习，然后完成每周小测即可。最后总成绩即为每周小测成绩之和。\n\n《天文探秘》课程是一门难得的好课，期待大家的加入，让我们一起探索神秘的宇宙！", 
+    "end_date": null, 
+    "title": "天文探秘", 
+    "price": 0, 
     "topic_name": [], 
+    "institution_name": [
+      "Nanjing University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/47/c8cc40a45711e5bf4fc5bb0ab2aa04/cover-pic.jpg", 
+    "course_url": "https://en.coursera.org/learn/tianwenxue", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2015-12-22T02:10:59Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
     "description": "如果说学习过《计算导论与C语言基础》，你已经迈入了C语言的殿堂，那么《C程序设计进阶》将帮助你更上一层楼，理解“结构化程序设计的基本思想”，掌握“C程序设计的基本技巧”，养成“良好的编程习惯和编程风格”，编写出“真正具有生命力的计算机程序”。完成这门课的学习，你将能解释C程序设计语言的基本概念与知识，并且使用C语言编写计算机程序解决生活工作中的实际问题。", 
     "end_date": null, 
     "title": "C程序设计进阶", 
     "price": 0, 
-    "instructors": "3293721", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -1598,18 +1810,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-07-21T03:37:34Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "本课程以达尔文的“自然选择”和“生命之树”为主线，将重点介绍达尔文演化理论的要点，以及后人对达尔文理论的修订、补充和完善；介绍一些推动生物演化的主要力量，如遗传变异、自然选择、中性选择、遗传漂变等。同时还将介绍生物演化研究领域的各种方法和技术，并在此基础上通过很多实例对从远古的化石到现今多姿多彩的生物世界、从生物的形态改变到遗传物质的变化、从生物分子的起源到人类的起源等现象和问题进行解释。本课程将以大量的事实告诉大家：生物演化不仅仅是理论，而且是事实，它就发生在我们的身边。", 
     "end_date": null, 
     "title": "生物演化", 
     "price": 0, 
-    "instructors": "5178430", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -1623,18 +1835,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-09-17T01:47:12Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "“微积分二：数列与级数”将介绍数列、无穷级数、收敛判别法和泰勒级数。本课程不仅仅满足于得到答案，而且要做到知其然，并知其所以然。", 
     "end_date": null, 
     "title": "微积分二: 数列与级数 (中文版)", 
     "price": 0, 
-    "instructors": "1667833", 
+    "topic_name": [], 
     "institution_name": [
       "The Ohio State University"
     ], 
@@ -1648,18 +1860,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-03-07T05:05:56Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "唐大仕", 
     "description": "《Java程序设计》课程的主要目标有三： 一、掌握Java语言的语法，能够较为深入理解Java语言机制，掌握Java语言面向对象的特点。 二、掌握JavaSE中基本的API，掌握在集合、线程、输入输出、图形用户界面、网络等方面的应用。三、能够编写有一定规模的应用程序，养成良好的编程习惯，会使用重构、设计模式、单元测试等方式提高代码的质量。 \n本课程要求学习者有一定的程序设计基础，如学过C或者C++语言。", 
     "end_date": null, 
     "title": " Java程序设计", 
     "price": 0, 
-    "instructors": "唐大仕", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -1673,18 +1885,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-05-17T00:00:28Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "人文學，其特色在於「慢熱」，需要耐心細嚐、咀嚼古聖先賢的智慧結晶與其文字背後所隱含的真正意義。史記系列課程將透過對《史記》一書的導讀，引領同學們探究史學之「真」與「善」。 \n\n不管你是對中華文化感興趣者、想更深入了解傳統史學者、喜歡論理分析者、或是久仰太史公司馬遷之名之愛好者，這門課一定會讓你收穫良多。因為《史記》不僅記載了無數精彩非凡的歷史人事，更貫串了在它之前的多數古代典籍，可說是集中國上古文明精粹於一書。更重要的是，這門課程中將引導大家如何讀《史記》，進而學會如何讀中國史書、如何讀中國書。\n\n這是一場史學的思辨之旅，希望各位同學千萬不要錯過！\n", 
     "end_date": null, 
     "title": "史記（一）（Shi-ji (1) ）", 
     "price": 0, 
-    "instructors": "2644105", 
+    "topic_name": [], 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -1698,68 +1910,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
-    "description": "東坡詞如秋夜的星光、月色，既遙遠又親近。我們以愉悅的心情展讀《東坡詞》，徜徉於〈水調歌頭〉、〈江城子〉、〈定風波〉與〈念奴嬌〉等作品裡，如晤故人，自能心領神會，除了可以看見天才駕馭技巧的藝術表現，更可貼近東坡的內在世界，親切感受一個偉大心靈的躍動，以豐富我們的生命境界，讓我們知曉如何在人情世界中尋得心靈的安頓。", 
-    "end_date": null, 
-    "title": "東坡詞 (Ci Poetry of Su Dong Po)", 
-    "price": 0, 
-    "instructors": "10838321", 
-    "institution_name": [
-      "National Taiwan University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/4f/9561b0c14d11e4b50d5fb8be3e772e/___.jpg", 
-    "course_url": "https://en.coursera.org/course/dpc", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": null
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "【课程介绍】-------------------------------------------------------------------\n\n       人类社会进入21世纪生命科学发展迅猛，极大地改变和提高了人们的生产和生活水平，已经成为当今的主流科学。然而，它也经历了从荒蛮无知到博物学、生物学、现代生命科学的曲折过程。这里充满了人类睿智思考和大胆尝试，充满了旧思想束缚和新思想顽强抗争和成功突破。\n\n       《生命科学发展史》 虽然属于科学史范畴，但并没有按照实证主义编年史方法进行阐述，而是更多地采用思想史方法展开。课程通过介绍生命科学重要学科、重要发现和重要人物，系统地展示了生命科学产生和发展全貌。课程在讲解生命科学基本知识的同时，注重介绍知识产生和发展的社会和自然背景、注重剖析期间人类思维方式的变化和发展，旨在使学生全面系统地了解生命科学基本知识及其产生和发展历程，在拓宽学生的知识面和视野的同时，培养和提高学生的科学素养和独立分析问题的能力。\n课程要达到的目标：“拓宽知识，学会思考”\n\n【课程大纲】-------------------------------------------------------------------\n\n第一单元  绪论\n    （一）近三年《科学》十大进展\n    （二）课程简介\n第二单元  人类起源与发展\n    （一）宇宙的形成\n    （二）生命的出现\n    （三）人类的产生和发展\n第三单元  从古代哲学到近代科学\n    （一）关于宇宙和生命的哲学思考\n    （二）西方医学和生物学体系\n    （三）欧洲文艺复兴与生命科学\n第四单元  生物的分类和演化\n    （一）生物分类思想和方法\n    （二）达尔文及其进化思想\n    （三）达尔文以后的进化思想\n第五单元  人体生理学：人类的自我认识\n    （一）早期的生理学派\n    （二）神经和内分泌生理学\n第六单元  走近微生物世界\n    （一）显微镜与微生物种类\n    （二）认识致病微生物\n    （三）人类同致病微生物的抗争。\n第七单元  从细胞学说到胚胎发育\n    （一）细胞：组成生命体的基本单位\n    （二）胚胎：生命的开始\n    （三）克隆：惊奇的设想\n第八单元  生命是什么？从孟德尔的豌豆说起\n    （一）经典遗传学\n    （二）分子生物学\n第九单元  生物组学：不再钓鱼，而是捞鱼!\n    （一）人类基因组计划\n    （二）基因组测序技术和应用\n    （三）后基因组时代-生物组学和系统生物学\n第十单元  课程总结\n    （一）生命科学发展回顾与展望\n    （二）历年诺贝尔生理学或医学奖概览\n\n【教材教参】-------------------------------------------------------------------\n\n    《生命科学发展史》孟和  自编讲义\n    《生命科学发展史》姚敦义 主编，济南出版社，2005年5月。\n    《生物学思想发展的历史》Ernst Mayr, 涂长晟 等译, 四川教育出版社，1990 \n    《生命科学发展史》杨学仁 主编，武汉大学出版社，1990.11.01\n    《生命科学史》Lois N. Magner, 李难，崔极谦，王水平译，百花文艺出版社《生物科学发展史》尹淑媛 陈麟书 编著，成都科技出版社 1989.10\n    《寻找生命的逻辑》 方舟子 著，上海交通大学出版社 2005.10\n    《双螺旋：发现DNA结构的故事 》J.D.沃森，科学出版社 ，2006 . 2\n    《创世纪的第八天》霍勒斯•贾德森著 李晓丹译 , 上海科技出版社 2005.1\n    《生命是什么》埃尔温•薛定谔，湖南科学技术出版社，2005. 3 \n    《基因论》摩尔根 著，北京大学出版社，2007\n    《物种起源》达尔文，新世界出版社，2007\n    《解码生命》贺林，科学出版社，2000", 
-    "end_date": null, 
-    "title": "生命科学发展史", 
-    "price": 0, 
-    "instructors": "孟和", 
-    "institution_name": [
-      "Shanghai Jiao Tong University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/1c/7b5af0a23911e5a1194980a242f8bd/_______-c.jpg", 
-    "course_url": "https://en.coursera.org/learn/shengming-kexue-fazhanshi", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2016-03-08T02:47:22Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "蔡云凌", 
     "description": "本课程是针对具有一定汉语水平的外国学习者的中级商务汉语课程。课程共分为两篇六课，共需六周时间。“两篇”是根据学习内容的不同分为的公司入职篇和市场营销篇。其中公司入职篇包括：招聘广告、应聘面试、入职第一天；产品营销篇包括产品介绍、市场营销、售后服务。\n本课程的学习目标有三：一是进一步提高以汉语作为第二语言的学习者在汉语听、说、读这三个方面的技能；二是学习并掌握常用的商务汉语词汇及句式表达；三是了解中国特有的商务礼仪和商务文化。\n就具体学习的课程而言，在本课程结束后，学习者可以基本看懂招聘广告的主要信息，在公司的面试中与面试官进行基本的交流，并能与中国同事进行日常工作上的会话；可以对产品进行简要的介绍和说明，并在市场营销和售后服务环节与客户进行基本的交流。\n学生者需要具有汉语的中级水平，最好已掌握800-1000个汉语基本词语。\n本课程的学习环节包括：观看教学视频，每周5个，时长平均在15分钟左右；完成与当天的教学视频相关的练习题；完成每周的测试和同伴互评。", 
     "end_date": null, 
     "title": "中级商务汉语（入职与营销篇）", 
     "price": 0, 
-    "instructors": "蔡云凌", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -1773,18 +1935,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-04-12T00:56:24Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "许 肖潇", 
     "description": "电影语言的一切形式在艺术上都有其正当的理由。正如微电影创作这座冰山，水面上的“拍摄”这一动作，仅仅是冰山的一角，而水面下的“拍什么”、“怎么拍”这些隐藏的不为大多数人知的部分，才是拍摄的真正内涵所在。\n也就是说，镜头、场面调度、叙事线索、段落的起承转合、画面的内在隐喻……都应该是在拍摄之前经过深思熟虑的。本门课程将让学习者从实例与操作中了解到如何站在剪辑师的角度，在拍摄前就知道应该怎样安排摄影机的运动？怎样处理两个或更多演员的对话场景？当有几条情节线索相互穿插时怎样合理安排拍摄？……真正一睹拍微电影这座冰山的真容。", 
     "end_date": null, 
     "title": "拍摄：像剪辑师一样拍摄", 
     "price": 0, 
-    "instructors": "许 肖潇", 
+    "topic_name": [], 
     "institution_name": [
       "Fudan University"
     ], 
@@ -1798,18 +1960,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-06-07T02:50:19Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "黃俊傑 (Chun-chieh Huang)", 
     "description": "本課程以教師講授及課後作業、作業互評，引導學生進入孟子與中華文化的思想世界，與孟子「對話」，從《孟子》原典中汲取智慧的靈感，以作為在現代社會中立身處世的資糧。", 
     "end_date": null, 
     "title": "東亞儒學─孟子：1 (East Asian Confucianisms: Mencius 1)", 
     "price": 0, 
-    "instructors": "黃俊傑 (Chun-chieh Huang)", 
+    "topic_name": [], 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -1823,18 +1985,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "陆卫明", 
     "description": "《论语》是研究孔子思想的根本依据。这是一部百科全书式的著作。它以仁学为核心，深刻阐发了为人、为学、为政三位一体的智慧，是取之不竭、用之不尽的精神宝藏。它穿越了二千多年历史遂道，至今不仅未减其色，而且历久弥新，正在重新焕发蓬勃生机。\n         《论语》是儒学乃至中国传统文化最重要的著作，它在中国文化史上的地位，绝不亚于《圣经》对西方文化的作用，素有“中国的圣经”之称。它对中国乃整个人类文明的发展均产生了不可估量的影响。它属于中国，也属于世界，是全人类共同的文化瑰宝。\n         本课程主要分三大部分：《论语》其书、《论语》真谛、现代价值，着重阐发了为人、为学、为政的智慧及其现代应用。", 
     "end_date": null, 
     "title": "《论语》的智慧", 
     "price": 0, 
-    "instructors": "陆卫明", 
+    "topic_name": [], 
     "institution_name": [
       "Xi'an Jiaotong University"
     ], 
@@ -1848,18 +2010,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-05-03T00:40:31Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "常见慢性病，关心长辈、关心健康的你一定不陌生！随着中国老龄化社会的到来，便秘、糖尿病、高血压等慢性病的发病率呈上升趋势。本课程从6种常见慢性病（便秘、高血压、糖尿病、痛风、脑卒中、冠心病）的症状与健康管理知识出发，向学习者传达有效护理、健康生活的理念，是关爱家人、关心自己健康的优选课程。", 
     "end_date": null, 
     "title": "常见慢性病的健康管理", 
     "price": 0, 
-    "instructors": "11329410", 
+    "topic_name": [], 
     "institution_name": [
       "Shanghai Jiao Tong University"
     ], 
@@ -1873,18 +2035,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-07-18T02:21:39Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "Ms 王稼军   WangJiaJun", 
     "description": "电磁学是普通物理系列中最重要的基础课之一，是高等学校每一个理工科学生必修课程，本课程包括静电场、恒磁场、电磁感应、电磁介质、电路、麦克斯韦电磁场理论、电磁波等内容，首次系统地向学生介绍“场”的概念和处理“场”的方法，对学生今后学习和工作有深远的影响。本课程作为中国大学先修课（AP课程）向有志于学习物理及相关专业的学有余力的优秀中学生开放，培养学科兴趣，提高科学素养，打下扎实的物理基础。\n       2014年9月以来《电磁学》已经两度上线开课，教学内容是按周上载，共有十三周课程。考虑到很多大学生和中学生不一定有条件按照我们原来按周上载课件的节奏学习，有的同学反映开始拉下了进度，后面就跟不上了，练习也是有时限的，过了时限就没法记录练习的成绩了。因此我们团队决定将原来上线的《电磁学》课程拆分成两个学习进程在on demand上线，在on demand上，我们将所有课程内容全部上载，没有教学时限，由学生自行安排学习时间和进度，自己完成课后练习，以便随时为需要的学生提供学习的资料和练习。练习题可以多次尝试，只是必须做对每个模块练习题的80%，才可以通过。又考虑到《电磁学》内容比较多，因此将原来十三周的教学内容分成两个学习阶段。《电磁学上》包含的内容是《大学物理通用教程》电磁学的前三章即静电场、导体和电介质以及直流电。这三部分内容属于恒定电场范畴，这些内容应该是深入学习电磁学的基础，在这部分课程结尾，设置了一个结业考试，相当于大学课程的期中考试。第二个学习进程《电磁学下》包含的内容是《大学物理通用教程》电磁学的后五章即恒磁场、磁介质，电磁感应、交流电和电磁场电磁波。建议大家学习了第一进程，通过了结业考试以后再进入第二学习进程《电磁学下》的学习。\n        本课程的课程是按照知识点设置模块，《电磁学上》包含5个模块，《电磁学下》包含6个模块。每个模块又包含几节课，每个模块结束有一个小测，同学们可以自我测试，没有时间限制，大家可以根据自己的需要和时间安排来自主学习，以免一步跟不上，步步跟不上，这对于学习我们这种理论性比较强的课是有利的，已经明白的可以跳过去，不清楚的可以重点学习。\n       《电磁学上》包含以下五个模块\n模块一      库仑定律和电场强度 \n模块二      高斯定理和环路定理\n模块三      导体与静电平衡\n模块四      电介质与电场能量\n模块五      直流电\n欢迎大家选课！", 
     "end_date": null, 
     "title": "电磁学上——恒定电场", 
     "price": 0, 
-    "instructors": "Ms 王稼军   WangJiaJun", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -1898,43 +2060,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-09-16T06:35:46Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
-    "description": "中国具有五千年文明历史，通过考古发掘揭示了中华文明具有辉煌灿烂的文化。本门毕业课程，要求学生设计并实现一款“古墓保卫战”的手机网络游戏，多名玩家共同击退古墓入侵者，完成保护古墓的任务。玩家击可利用多种武器与入侵者PK，期间可利用更多道具和装备，同时也会遇到怪兽威胁。\n      毕业课程要求学生综合利用本专项课程所学知识和掌握的技能，开发可实际运行的手机网络游戏原型。要求自行确定游戏类型，设计游戏故事，撰写设计脚本，游戏关卡以及实现手机网络游戏原型。\n      课程计划邀请工业合作者，包括Unity引擎公司，网易公司、巨人网络和腾讯游戏等行业领袖共同参与本门课程设计与评估。", 
-    "end_date": null, 
-    "title": "网络游戏设计与开发毕业项目", 
-    "price": 0, 
-    "instructors": "姜忠鼎 ", 
-    "institution_name": [
-      "Fudan University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/86/6f6f20dc5c11e59f11997ec8ba0b6f/PJ3.mp4_20160116_232237.656.jpg", 
-    "course_url": "https://en.coursera.org/learn/wangluo-youxi-biye", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2016-03-01T09:48:46Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "课程从喜闻乐见的唐诗宋词入手，触摸一段历史与一群文人的体温，领悟人生旅途的趣味和智慧。", 
     "end_date": null, 
     "title": "唐诗宋词人文解读 Appreciation of Tang and Song Poetry", 
     "price": 0, 
-    "instructors": "5823373", 
+    "topic_name": [], 
     "institution_name": [
       "Shanghai Jiao Tong University"
     ], 
@@ -1948,18 +2085,43 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
+    "instructors": "姜忠鼎 ", 
+    "description": "中国具有五千年文明历史，通过考古发掘揭示了中华文明具有辉煌灿烂的文化。本门毕业课程，要求学生设计并实现一款“古墓保卫战”的手机网络游戏，多名玩家共同击退古墓入侵者，完成保护古墓的任务。玩家击可利用多种武器与入侵者PK，期间可利用更多道具和装备，同时也会遇到怪兽威胁。\n      毕业课程要求学生综合利用本专项课程所学知识和掌握的技能，开发可实际运行的手机网络游戏原型。要求自行确定游戏类型，设计游戏故事，撰写设计脚本，游戏关卡以及实现手机网络游戏原型。\n      课程计划邀请工业合作者，包括Unity引擎公司，网易公司、巨人网络和腾讯游戏等行业领袖共同参与本门课程设计与评估。", 
+    "end_date": null, 
+    "title": "网络游戏设计与开发毕业项目", 
+    "price": 0, 
     "topic_name": [], 
+    "institution_name": [
+      "Fudan University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/86/6f6f20dc5c11e59f11997ec8ba0b6f/PJ3.mp4_20160116_232237.656.jpg", 
+    "course_url": "https://en.coursera.org/learn/wangluo-youxi-biye", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-03-01T09:48:46Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
     "description": "「民以食為天！」\n歷史的發展伴隨著糧食資源豐富的區域，古中國流傳至今的這句話說明了「吃」是多麼重要的一件事，求得三餐溫飽遂成為那個時代的人的生活中心。但相較於遠古時代，現今的人們較少為了「吃飽」而煩惱，而自此衍生而出的是「不只吃飽，更要吃好」，開始追求大魚大肉、滿漢全席；開始改變烹調方法，煎煮炒炸、煙燻、醃製；開始利用食品加工的技術為食物加上各式各樣的顏色與味道。\n導致在食品加工業蓬勃發展的現代，「吃」這件事變成了一個疑問詞，重視養生的我們開始對吃進去的東西產生疑問，「我吃進去的食物有哪些成分？」、「食品添加物是什麼？」、「食品的檢驗標準是怎麼訂定的？」、「檢驗超標會對人體產生什麼危害？」，這些各式各樣對於吃的疑問加上媒體的渲染下，對「吃」的恐懼油然而生。\n\n「吃得飽不如吃得巧！」\n對應這些問題，其實科學家們發展出了多套嚴謹的毒理機制來評斷食品安全性。而我們將在本課程中以深入淺出的概念將毒理學應用在食品安全評估，介紹這些機制運作的方法和實際應用的例子，希望使同學了解看到擺在架上的食品，其背後許多不為人知的故事，並在面對層出不窮的食安問題時，能具有相當的基本概念，與對這些問題的思辨能力。", 
     "end_date": null, 
     "title": "食品安全與毒理 (Food Safety & Toxicology)", 
     "price": 0, 
-    "instructors": "10108738", 
+    "topic_name": [], 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -1973,18 +2135,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-07-01T08:01:58Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": ", 张 祯", 
     "description": "《有机化学》是研究各类有机化合物的结构、性质、相互转化及其规律的一门学科，是化学专业本科学生必修课之一，是生物化学、分子生物学、医学、药学等课程的先修课，在教学计划中占有重要的地位。\n\n本课程主要介绍烷烃、烯烃、芳香烃、卤代烃、醇、酚、醚，醛、酮、醌、羧酸及其衍生物、胺、杂环等有机化合物的性质、相互转化以及机理问题。此外，介绍立体化学和波谱学基础。\n\n通过本课程的学习，你能够掌握常见有机化合物的结构、命名和性质，掌握官能团之间的相互转换及其规律、以及立体化学特征、典型有机反应的机理，简单有机化合物的合成路线的设计等知识，从而为进一步的专业学习打下坚实基础。\n\n课程结构：\n\n本课程的学习内容包括：5~15分钟左右的视频课程，每个视频中间将出现1~2个课间提问，以辅助你的学习，每一章将会布置约10个单元练习题，课程结束后还会设立一次课程考试。\n\n学习该课程，你需要具备高中化学知识，并具备一定的大学无机化学或普通化学基础知识。\n\n推荐阅读：\n1. 唐玉海主编，《有机化学》，化学工业出版社，2011\n2. 邢其毅主编，《基础有机化学》，高等教育出版社，2009\n3. John E. McMurry, Eric E. Simanek, Fundamentals of Organic Chemistry (6th), USA: 2006", 
     "end_date": null, 
     "title": "有机化学", 
     "price": 0, 
-    "instructors": "10165409, 张 祯", 
+    "topic_name": [], 
     "institution_name": [
       "Xi'an Jiaotong University"
     ], 
@@ -1998,18 +2160,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-01-23T08:48:52Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "本课程针对医学图像的特征，结合临床需求，由浅入深地讲解医学图像的种类、特征、应用领域、数字化存储形式，并分类讲解图像处理的理论和算法，结合应用案例和课程实践使学生熟练掌握祥光领域的知识和技能，并具备一定的动手能力。", 
     "end_date": null, 
     "title": "医学图像处理技术 Medical Image Analysis", 
     "price": 0, 
-    "instructors": "7379612", 
+    "topic_name": [], 
     "institution_name": [
       "Shanghai Jiao Tong University"
     ], 
@@ -2023,18 +2185,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": ", ", 
     "description": "如果将软件开发人员看作行走江湖的武侠，那么各种软件开发技术就是武侠赖以傍身的武术秘籍。有的秘籍以易学灵巧见长，练习者很快掌握，并有立竿见影的功效，但失之厚重持久；有的秘籍初学乍练顿显困难，虽冥思苦解仍不得要领，需坚持不断的内功修炼方成正果，却是成为武林大侠必备的至宝。本课程有些类似于后者。\n\n《面向对象技术高级课程》深入、系统、完整地讲解当今主流的面向对象软件开发方法的分析、设计、实现及重构方法，深入讲解UML语言的高级技术细节，以及近年来面向对象方法最新的发展趋势。课程集百家之所言，并结合主讲者最新的研究成果，并通过大量、丰富、完整、不同领域、应用不同技术的案例将其中的关键知识点串联起来，便于理解和应用。\n\n本课程并不拘限于某一特定的面向对象的编程语言的编程技巧，但却包含了基于当前主流的面向对象编程语言的多项完整案例。本课程引导选课同学从更为抽象和共性的模型角度描述现实世界和软件世界,即构建分析与设计模型，之后再将其落实到软件编程实现。这种工程化的理念对于开发大型、复杂、困难、攸关软件系统是非常必要的，也是作为高级程序员、系统分析师、软件架构师等高级软件技术职位所必需具有的素质。\n\n作为一门面向广大受众的中文MOOC课程，本次课程力求向不同需求和背景的朋友呈现中华文化氛围、生动有趣的案例、跨专业的广阔的视野、以及深入实用的技术综合。\n\n同时作为一门传授软件专门知识的MOOC课程，本次课程将为具有编程能力的同学带来有趣的软件开发项目作业，在实际的软件开发中感受学以致用的快乐，体会面向对象方法学的深刻内涵。\n\n本次课程仍将邀请面向对象领域著名学者北京大学信息科学技术学院邵维忠教授和麻志毅副教授讲解某些章节，并对面向对象方法学中的某些关键问题进行讨论。", 
     "end_date": null, 
     "title": "面向对象技术高级课程（The Advanced Object-Oriented Technology）", 
     "price": 0, 
-    "instructors": "6102094, 6570082", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -2048,43 +2210,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-07-01T07:57:53Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
-    "description": "“悖论”（paradox）指思维中深层次的矛盾，并且是难解的矛盾。它们是巨大且艰深的理智难题，以触目惊心的形式向我们展示了：我们的看似合理、有效的“共识”、“前提”、“推理规则”在某些地方出了问题，我们思维中最基本的概念、原理、原则在某些地方潜藏着风险。悖论对人类理智构成严重挑战，并在人类的认知发展和科学发展中起重要作用。\n\n本课程将讲授历史上已经提出的一些著名悖论，涉及的论题有：一些扰人的二难困境；模糊性：连锁悖论；芝诺悖论和无穷之迷；逻辑-数学悖论；语义悖论；休谟问题和归纳悖论；认知悖论；合理行动和决策的悖论；道德悖论；中国古代文化中的悖论；对于悖论的进一步思考，如此等等。\n\n我认为，大学里应该传授两类知识：一类知识“实实在在”，另一类知识“奇奇怪怪”。\n\n学习第一类知识后，你能够成为此类知识的使用者和传播者，成为社会所需要的合格的劳动者，能够直接在企事业单位就业，也为自己谋一份体面而有尊严的生活。\n\n学习第二类知识，则有助于打破你的思维定势，开拓你的理智空间，激发你的理智好奇心，使你养成独立思考的习惯，培养一种健康、温和的怀疑主义态度，培养一种宽容和接纳的文明态度，能够成为民主社会中独立自主、理性负责的公民，经进一步深造后，有可能成为知识的创造者和生产者，成为各行各业中的精英人物。\n\n“悖论”（paradox）典型地属于“奇奇怪怪”的知识。", 
-    "end_date": null, 
-    "title": "悖论：思维的魔方", 
-    "price": 0, 
-    "instructors": "陈波", 
-    "institution_name": [
-      "Peking University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/34/fbaea047cf11e597162b029727a664/600x340_____.jpg", 
-    "course_url": "https://en.coursera.org/learn/bei-lun", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2016-07-01T08:25:24Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "罗昭锋", 
     "description": "通过本门课程，你将能够清楚地认识到当今社会我们面临的机遇和挑战，社会未来的发展趋势与需求，这样我们才能找准自己的位置，确定自己未来的发展方向。这门课程中我将从宏观到微观，从历史到现实，分析社会的发展规律，明晰我们每个人与这个社会的关系。这门课看似与提升生产力并无关系，但事实上，它是后面课程的基础，也是你学习后面内容的动力所在。", 
     "end_date": null, 
     "title": "信息社会的机遇和挑战", 
     "price": 0, 
-    "instructors": "罗昭锋", 
+    "topic_name": [], 
     "institution_name": [
       "University of Science and Technology of China"
     ], 
@@ -2098,24 +2235,24 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-03-01T09:26:14Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
-    "description": "東坡詞如秋夜的星光、月色，既遙遠又親近。我們以愉悅的心情展讀《東坡詞》，徜徉於〈水調歌頭〉、〈江城子〉、〈定風波〉與〈念奴嬌〉等作品裡，如晤故人，自能心領神會，除了可以看見天才駕馭技巧的藝術表現，更可貼近東坡的內在世界，親切感受一個偉大心靈的躍動，以豐富我們的生命境界，讓我們知曉如何在人情世界中尋得心靈的安頓。", 
+    "instructors": "陈波", 
+    "description": "“悖论”（paradox）指思维中深层次的矛盾，并且是难解的矛盾。它们是巨大且艰深的理智难题，以触目惊心的形式向我们展示了：我们的看似合理、有效的“共识”、“前提”、“推理规则”在某些地方出了问题，我们思维中最基本的概念、原理、原则在某些地方潜藏着风险。悖论对人类理智构成严重挑战，并在人类的认知发展和科学发展中起重要作用。\n\n本课程将讲授历史上已经提出的一些著名悖论，涉及的论题有：一些扰人的二难困境；模糊性：连锁悖论；芝诺悖论和无穷之迷；逻辑-数学悖论；语义悖论；休谟问题和归纳悖论；认知悖论；合理行动和决策的悖论；道德悖论；中国古代文化中的悖论；对于悖论的进一步思考，如此等等。\n\n我认为，大学里应该传授两类知识：一类知识“实实在在”，另一类知识“奇奇怪怪”。\n\n学习第一类知识后，你能够成为此类知识的使用者和传播者，成为社会所需要的合格的劳动者，能够直接在企事业单位就业，也为自己谋一份体面而有尊严的生活。\n\n学习第二类知识，则有助于打破你的思维定势，开拓你的理智空间，激发你的理智好奇心，使你养成独立思考的习惯，培养一种健康、温和的怀疑主义态度，培养一种宽容和接纳的文明态度，能够成为民主社会中独立自主、理性负责的公民，经进一步深造后，有可能成为知识的创造者和生产者，成为各行各业中的精英人物。\n\n“悖论”（paradox）典型地属于“奇奇怪怪”的知识。", 
     "end_date": null, 
-    "title": "東坡詞 (Ci Poetry of Su Dong Po)", 
+    "title": "悖论：思维的魔方", 
     "price": 0, 
-    "instructors": "10838321", 
+    "topic_name": [], 
     "institution_name": [
-      "National Taiwan University"
+      "Peking University"
     ], 
     "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/4e/9d1f00c14d11e48956b3e48b928366/___.jpg", 
-    "course_url": "https://en.coursera.org/learn/su-dongpo", 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/34/fbaea047cf11e597162b029727a664/600x340_____.jpg", 
+    "course_url": "https://en.coursera.org/learn/bei-lun", 
     "currency": null, 
     "subject_name": [], 
     "duration": null, 
@@ -2123,18 +2260,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
-    "start_date": "2016-05-13T08:06:18Z"
+    "start_date": "2016-07-01T08:25:24Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "你有没有好奇过：计算机为什么能够进行计算？计算机程序是怎样运行的？你是否想知道：计算机未来可能的发展趋势有哪些？程序是如何编写出来的？如何学习程序设计语言？程序设计语言的基本成分有哪些？《计算导论》这门课将帮助你解决这些疑惑。\n学完这门课，你将能够解释计算机和程序的基本运行原理以及它们的特性，向你的朋友讲述计算机的历史和发展趋势；同时，你也将充分“热身”，迎接“计算机程序设计语言”的学习！", 
     "end_date": null, 
     "title": " 计算导论与C语言基础", 
     "price": 0, 
-    "instructors": "3293721", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -2148,18 +2285,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-07-21T03:37:34Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "乔亚男, 谢涛, 吴 宁", 
     "description": "《基于.NET的Web开发技术》是.NET环境下进行Web编程的一门重要课程。内容包括Web原理及环境部署、HTML基础、CSS应用、JavaScript基础、ASP.NET技术；重点介绍ASP.NET技术及相关的数据库应用开发，通过实例介绍各种技术的特点及应用。\n通过本课程的学习，使学员了解Web应用开发技术的发展与现状，了解WEB原理、开发过程和环境部署；能够熟练掌握HTML语言，CSS，JavaScript，掌握利用ASP.NET进行Web应用开发的特点；掌握各种控件的用法和ADO.NET相关技术，掌握数据源控件和数据绑定控件的用法；具备运用面向对象的思想和ASP.NET相关知识对Web网站进行需求分析、进而进行设计和开发的能力。学员学完该课程后，应能利用ASP.NET开发简单的Web应用程序。", 
     "end_date": null, 
     "title": "基于.Net的Web开发技术", 
     "price": 0, 
-    "instructors": "乔亚男, 谢涛, 吴 宁", 
+    "topic_name": [], 
     "institution_name": [
       "Xi'an Jiaotong University"
     ], 
@@ -2173,18 +2310,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-01-20T05:02:57Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "想讓自己3D建模功力大增？想了解3D建築模型的繪製過程？\n「工程圖學3D CAD專題」延續前一門課「工程圖學3D CAD」，將所學的3D建模技術，應用於建築模型的建構。本課程介紹建築模型繪製的相關注意事項，並以完整的例子帶領同學實際建立一份建築模型，希望透過實作專題的訓練，學生更加熟悉3D繪圖技術，並瞭解如何技術應用於工程界的實際案例。\n『工程圖學3D CAD專題』，利用與本專項課程的第二門課 --『工程圖學2D CAD專題』同樣的一幢五層的公寓住宅，帶著你一步一步地，從建築最基本的構件，梁、柱、樓板、樓梯、窗戶等建立起來，到門窗的細節繪製，至上材質等精緻化過程。\n想一窺3D建模技術用於建築模型的案例，加入本課程吧！", 
     "end_date": null, 
     "title": "工程圖學 3D CAD 專題", 
     "price": 0, 
-    "instructors": "2139037", 
+    "topic_name": [], 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -2198,18 +2335,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-08-01T02:27:14Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "杨善华", 
     "description": "家庭是个体在人生经历中接触最早、生活在其中时间最长的社会生活群体。但是家庭生活的和谐是需要人生的智慧的。因为家庭是是社会的一个因子，所以家庭又是我们观察和了解社会的窗口，而只有真正了解了社会，我们也才有可能处理好家庭中发生的种种问题。学习家庭社会学，实用的方面，就是要在掌握家庭社会学的理论、研究方法和基本概念，认识家庭在社会影响下自身演变的规律的基础上，提升自己的社会洞察力和人生智慧，从而获得对家庭真谛和家庭生活真谛的领会与体悟，在为自己谋取家庭生活的幸福的同时也为社会的安定贡献一份力量。\n\n因此，我们为课程设定的目标是：跳出自身局限，认识家庭真谛！", 
     "end_date": null, 
     "title": "家庭社会学导论", 
     "price": 0, 
-    "instructors": "杨善华", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -2223,18 +2360,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-07-01T08:27:19Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": ", , ", 
     "description": "本课面向有志于学术研究和具有论文写作需求的高年级本科生和研究生同学，适合人文社会科学、特别是法学专业的学生学习，也欢迎理工科学生选修。教学内容主要集中于学术研究的基本方法与一般理念，既包括学术论文的提问、选题、谋篇、布局和实际写作，也包括学术资源特别是综合性与专业性数据库的检索和使用。", 
     "end_date": null, 
     "title": "论文写作初阶（Academic Writing and Research）", 
     "price": 0, 
-    "instructors": "8590916, 9189780, 9277519", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -2248,18 +2385,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-03-12T03:34:51Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "Peng Chongsheng", 
     "description": "谈到中华传统文化，大家首先想到的莫过于以孔子思想为代表的儒学思想，但中华传统文化绝不止这些；谈到中医药，大家第一印象可能是针灸、按摩，因为她们已经走向全球，但中医药也远不止如此。医学、生物学飞速发展的21世纪，中医药学这一古老学科为什么还有生命力？她与现代医药学有何不同？为什么很多人觉得中医药知识体系不容易学习和掌握？因为：中医药学具有深厚的中华传统文化背景，如果不了解中华传统文化，就难以深入理解中医药学的思想和知识。\n本课程就是希望通过剖析中医药与中华传统文化的密切联系，使大家了解中医药学的中华传统文化的背景，更容易理解中医药的思维特征、思想特色和知识体系。通过本课程的学习，不仅能掌握一些中医药的基本知识、中医药养生的原理和方法，还能从中医药的视角认识中华传统文化的精髓。", 
     "end_date": null, 
     "title": "中医药与中华传统文化 ", 
     "price": 0, 
-    "instructors": "Peng Chongsheng", 
+    "topic_name": [], 
     "institution_name": [
       "Shanghai Jiao Tong University"
     ], 
@@ -2273,18 +2410,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-04-07T07:03:05Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "更年期是女性必经生理过程。大约50%的女性在此时会遇到多种不适，影响生活工作质量，并因反复、多科就诊而增加家庭和社会负担；更年期也是多种老年疾病萌发的时期，是预防并延缓这些疾病进展的关键时期。本课程提供更年期综合管理方案，包括改善生活方式、合理用药等，并对相关知识进行系统讲解，突出精华和实用性。", 
     "end_date": null, 
     "title": "更年期综合管理", 
     "price": 0, 
-    "instructors": "9785201", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -2298,18 +2435,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-04-12T05:19:40Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "儒家和道家，都是中国文化的主流。儒家塑造着国人的社会人格，道家则成就着国人的自然人格。道家的智慧，博大精深，学理深奥，以“道”为核心，以“自然”与“无为”为基本范畴，对为人处事与政治哲学有着深远的影响，具有重要的现代价值。\n        本课程主要分三大部分：道家的渊源和宗旨；老子其人其书其道；庄子其人其书其道。着重阐述了道家的渊源和宗旨，老子和庄子的智慧精要及其现代价值。", 
     "end_date": null, 
     "title": "品读道家的智慧", 
     "price": 0, 
-    "instructors": "11044721", 
+    "topic_name": [], 
     "institution_name": [
       "Xi'an Jiaotong University"
     ], 
@@ -2323,18 +2460,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-05-28T07:50:38Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": ", , ", 
     "description": "不管是赞同还是反对，卡尔 • 马克思（1818-1883）已经成为我们这个时代人类共有的精神财产。法国解构主义思想家雅克 • 德里达（1930-2004）因此宣称：“全世界的男男女女们，不论愿意与否，甚至知道与否，他们今天在某种程度上都是马克思和马克思主义的继承人。” \n本课程将在一种当代视野中简要勾画马克思的思想历程，进而以《1844年经济学哲学手稿》、《共产党宣言》、《资本论》这三种著作为中心，在比较的视野中阐发理解马克思的方法，展现马克思的思想世界及其当代影响。\n\n学习者将主要通过观看教学视频（每一讲含5-8段教学视频，每段教学视频8-16分钟左右）、阅读教辅材料（原著节选、期刊论文），并结合相关作业练习以及测试的形式进行自学。\n\nWhether approving or not, Karl·Marx(1818-1883) has become the common spiritual wealth of human in our time. Therefore, as Jacques Derrida said: ‘Whether they wish it or know it or not, all men and women, all over the earth, are today to a certain extent the heirs of Marx and Marxism.’\nThe course will briefly delineate Marx’s thought process in a contemporary view, and center on these three core works of Marx :‘Economic and Philosophical Manuscripts of 1844’ , ‘the communist manifesto’ and ‘Capital’, to interpret and understand Marx’s method in a comparative perspective, showing Marx’s thoughts and its contemporary influence.", 
     "end_date": null, 
     "title": "理解马克思", 
     "price": 0, 
-    "instructors": "9702526, 11912486, 11383783", 
+    "topic_name": [], 
     "institution_name": [
       "Nanjing University"
     ], 
@@ -2348,43 +2485,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-03-18T07:31:20Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
-    "description": "电影编剧不同于文学创作，它意味着要以影像化、动作化的方式赋予故事生命，在这个意义上，编剧不仅是导演，而且还是那个灵动的新世界的创造者。这个世界中的每一个人物命运，每一个起承转合，都表达着创作者对于人性的判断和立场。本课程将通过丰富的案例和针对性的练习，阐述电影编剧的基本步骤、基础知识和内在规律。", 
-    "end_date": null, 
-    "title": "编剧：像导演一样编剧", 
-    "price": 0, 
-    "instructors": "许 肖潇, 梁永安, 龚金平", 
-    "institution_name": [
-      "Fudan University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/74/484920bd1711e59b19b7c7ac4e469b/_______.jpg", 
-    "course_url": "https://en.coursera.org/learn/bian-ju", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2016-05-02T22:49:10Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "Dr. Barbara Oakley, , Hong Chee Joo", 
     "description": "本课程将介绍各领域专家所使用的学习方法，他们包括艺术家、文学家、数学家、科学家、运动员和很多其他领域专家。我们将学习如何使用两种不同的大脑模式，以及大脑如何封装（“chunks”）信息。我们还将介绍能力错觉（illusions of learning），记忆技巧，对付拖延症的方法，以及研究表明能帮助我们掌握困难科目的方法。\n\n无论您在所学领域是专家还是菜鸟，您都可以使用这些方法，改变自己的思维模式，重塑自己的人生。如果您是所学领域的专家，通过学习大脑认知的底层知识，您可以进一步提高自己的学习能力，您将了解反直觉的考试技巧和见解，从而能够更高效地完成作业和习题。如果您在学习中遇到困难，系统有效的学习技巧将帮助您将走上正轨。无论您希望学习什么内容，这门课程都可以作为您的指南。", 
     "end_date": null, 
     "title": "学会如何学习：帮助你掌握复杂学科的强大智力工具", 
     "price": 0, 
-    "instructors": "Dr. Barbara Oakley, 5718916, Hong Chee Joo", 
+    "topic_name": [], 
     "institution_name": [
       "University of California, San Diego"
     ], 
@@ -2398,18 +2510,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-01-30T03:16:08Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "许 肖潇", 
     "description": "拍微电影，没什么必须要走的路，可以从任何地方起步。但起步之前，首先要形成对微电影的正确认知。本门课程以情景再现的方式，结合理论与实践，打通技术与叙事，简明扼要地还原微电影创作的全历程，以期传达这样的理念：微电影创作，需要怀着敬畏之心，以更天真的姿态去对抗这个模式化的世界，从而达致自由的境界。生命最切肤之处，就是电影开始的地方。", 
     "end_date": null, 
     "title": "导演思维：微影人的自我修养", 
     "price": 0, 
-    "instructors": "许 肖潇", 
+    "topic_name": [], 
     "institution_name": [
       "Fudan University"
     ], 
@@ -2423,18 +2535,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-03-01T09:41:24Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "    计算概论A是针对“信息科学技术学科一年级本科生”开设的一门专业基础主干课程。本课程的教学目标有二：其一，帮助学习者建立起“学习计算机科学技术知识所需的基本知识背景”；其二，帮助学习者“掌握计算机程序设计的基础知识”，培养学习者“独立设计计算机程序解决问题”的基本技能。", 
     "end_date": null, 
     "title": "Introduction to Computing 计算概论A", 
     "price": 0, 
-    "instructors": "3293721", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -2448,18 +2560,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "本课程总览了促进人类社会管理风险和发展企业的思想、方法和机构。", 
     "end_date": null, 
     "title": "Financial Markets 金融市场（中文版）", 
     "price": 0, 
-    "instructors": "3543921", 
+    "topic_name": [], 
     "institution_name": [
       "Yale University"
     ], 
@@ -2473,43 +2585,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
-    "description": "关于《系统平台与C#程序基础》课程：\n作为“.Net平台下软件开发技术”专项课程的第一门课程，本课程将从计算机的入门知识讲起，首先向你介绍计算机的基础知识和基本原理，包括信息表示与编码、软硬件系统组成及工作原理等，并通过由基本逻辑门到运算器的构造过程讲述，帮助你初步建立自底向上的系统构造思维能力。如果你未来从事系统设计，这将是非常重要的一项素质。\n在基础奠定之后，本课程将用两周的时间，带你快步走进C#，为你介绍如何设计基本的C#控制台程序。包括C#程序语言基础、控制台的输入输出、基本程序控制结构等。更主要的，本课程将通过实际案例，为你介绍如何利用Visual Studio集成开发环境编辑和调试C#程序，为后续课程学习奠定基础。掌握良好的程序调试技巧，是你未来从事软件项目设计必备的技能。\n如果你目前对计算机的一些基本应用操作还不是很熟悉，请不用担心，本课程附加了有关OFFICE应用的详细操作指导视频，你可以自行观看。\n课程共含4周，每周都设有单元测验和作业，可以帮助你了解自己的学习状态。", 
-    "end_date": null, 
-    "title": "系统平台与C#程序基础", 
-    "price": 0, 
-    "instructors": "吴 宁", 
-    "institution_name": [
-      "Xi'an Jiaotong University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/4e/4c9e20b5aa11e5a3dee98a51395b90/xjtu2.jpg", 
-    "course_url": "https://en.coursera.org/learn/xitong-pingtai-csharp-chengxu-jichu", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2016-03-03T01:28:45Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "Wanling Qu", 
     "description": "学习面对实际问题如何设计算法与分析算法。", 
     "end_date": null, 
     "title": "算法设计与分析   Design and Analysis of Algorithms", 
     "price": 0, 
-    "instructors": "Wanling Qu", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -2523,18 +2610,43 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
+    "instructors": "吴 宁", 
+    "description": "关于《系统平台与C#程序基础》课程：\n作为“.Net平台下软件开发技术”专项课程的第一门课程，本课程将从计算机的入门知识讲起，首先向你介绍计算机的基础知识和基本原理，包括信息表示与编码、软硬件系统组成及工作原理等，并通过由基本逻辑门到运算器的构造过程讲述，帮助你初步建立自底向上的系统构造思维能力。如果你未来从事系统设计，这将是非常重要的一项素质。\n在基础奠定之后，本课程将用两周的时间，带你快步走进C#，为你介绍如何设计基本的C#控制台程序。包括C#程序语言基础、控制台的输入输出、基本程序控制结构等。更主要的，本课程将通过实际案例，为你介绍如何利用Visual Studio集成开发环境编辑和调试C#程序，为后续课程学习奠定基础。掌握良好的程序调试技巧，是你未来从事软件项目设计必备的技能。\n如果你目前对计算机的一些基本应用操作还不是很熟悉，请不用担心，本课程附加了有关OFFICE应用的详细操作指导视频，你可以自行观看。\n课程共含4周，每周都设有单元测验和作业，可以帮助你了解自己的学习状态。", 
+    "end_date": null, 
+    "title": "系统平台与C#程序基础", 
+    "price": 0, 
     "topic_name": [], 
+    "institution_name": [
+      "Xi'an Jiaotong University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/4e/4c9e20b5aa11e5a3dee98a51395b90/xjtu2.jpg", 
+    "course_url": "https://en.coursera.org/learn/xitong-pingtai-csharp-chengxu-jichu", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-03-03T01:28:45Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
     "description": "物理學是描述世上質量與能量交互作用的學問，在這門課中我們將為大家介紹近代物理對於世界的認識。我們會從電磁學出發，進展到光學，並進而說明近代物理對人類觀念的突破。", 
     "end_date": null, 
     "title": "普通物理學 - 電磁學、光學及近代物理", 
     "price": 0, 
-    "instructors": "4374566", 
+    "topic_name": [], 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -2548,18 +2660,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-07-01T08:24:58Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "崔舒宁", 
     "description": "本课程讲述C#的全部语法，学习如何使用C#编写控制台程序。内容涉及数组、方法、类与对象等知识。课程同时讲述面向对象的编程思想，学习如何使用类和对象构建程序。课程同时也会简单讨论 .NET的架构和简单的数据结构和算法。\n本课程的学习重点是2个：（1）C#的语法（2）面向对象的编程方法。课程使用大量的例子来讲述，引导学习者由易到难，由浅入深的掌握整个课程的内容。本课程不需要有其他语言的编程经验。通过本课程的学习，你将真正进入程序设计的世界。", 
     "end_date": null, 
     "title": "c#高级编程", 
     "price": 0, 
-    "instructors": "崔舒宁", 
+    "topic_name": [], 
     "institution_name": [
       "Xi'an Jiaotong University"
     ], 
@@ -2573,18 +2685,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-04-04T05:40:23Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "从认识和理解软件Bug开始，介绍软件测试的基本理论，阐述软件测试设计的多样性原理。基于多样性原理，介绍白盒测试方法和黑盒测试，具体包括随机测试、等价类测试、控制流测试、数据流测试等；邀请业界专家讲解功能测试、性能测试、移动应用测试技术。", 
     "end_date": null, 
     "title": "软件测试 (Software Testing)", 
     "price": 0, 
-    "instructors": "9841791", 
+    "topic_name": [], 
     "institution_name": [
       "Nanjing University"
     ], 
@@ -2598,18 +2710,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-09-05T05:50:46Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "以深入淺出的概念說明日常生活與科學應用中常見的光學現象，特色在於大量的範例以及實驗展示。", 
     "end_date": null, 
     "title": "基礎光學 I ", 
     "price": 0, 
-    "instructors": "4374566", 
+    "topic_name": [], 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -2623,18 +2735,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-04-30T07:48:38Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "媒介批评是立足于批判的价值立场，对媒介活动及其产品和传播观念进行研究。", 
     "end_date": null, 
     "title": "媒介批评:理论与方法 Media Criticism: Theory and Method", 
     "price": 0, 
-    "instructors": "5218093", 
+    "topic_name": [], 
     "institution_name": [
       "Shanghai Jiao Tong University"
     ], 
@@ -2648,68 +2760,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
-    "description": "在本课程中，你将了解如何运用模型进行思考、理解我们生活的这个复杂世界。", 
-    "end_date": null, 
-    "title": "Model Thinking 模型思维（中文版）", 
-    "price": 0, 
-    "instructors": "785", 
-    "institution_name": [
-      "University of Michigan"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/c5/75a1e0477311e595ba1fba66d4bb16/modelthinking.png", 
-    "course_url": "https://en.coursera.org/course/modelthinkingzh", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": null
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
-    "description": "在『工程圖學2D CAD專題』，我們以一幢五層的公寓住宅為案例，一步步地講述AutoCAD繪製建築平面圖的技巧，包含梁、柱、樓板、樓梯、窗戶等，並介紹建築平面圖與立面圖的基本符號代表的意義與表達方式。\n修完這門課，你會具備2D製圖所有的基礎技巧與應用，你會知道如何「看懂」一張建築平面圖與立面圖！\n「工程圖學2D CAD專題」延續前一門課「工程圖學2D CAD」，將所學的平面繪圖技術，應用於建築圖繪製。本課程介紹建築圖相關概念與繪製注意事項，並以完整的例子帶領同學實際完成一份建築圖，希望透過實作專題的訓練，學生更加熟悉平面繪圖技術，並瞭解如何技術應用於工程界的實際案例。\n已具備工程圖學2D CAD的繪圖能力，想要大展伸手嗎？想要體會完成建築平面圖的過程嗎？ 快加入工程圖學2D CAD專題吧！", 
-    "end_date": null, 
-    "title": "工程圖學 2D CAD 專題", 
-    "price": 0, 
-    "instructors": "2139037", 
-    "institution_name": [
-      "National Taiwan University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/da/c4d620d90e11e48e1c550c03848e9e/cad2dpracticelogo.png", 
-    "course_url": "https://en.coursera.org/learn/cad", 
-    "currency": null, 
-    "subject_name": [], 
-    "duration": null, 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2015-07-01T23:28:53Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": ", ", 
     "description": "在本课程中，学生将学习认识和应用说明人体九个器官系统中整体人体机能（作为完整有机体）的基本概念。", 
     "end_date": null, 
     "title": "人体生理学导论（中文版）", 
     "price": 0, 
-    "instructors": "868977, 920567", 
+    "topic_name": [], 
     "institution_name": [
       "Duke University"
     ], 
@@ -2723,18 +2785,43 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-03-07T05:05:11Z"
   }, 
   {
     "selfpaced": false, 
+    "instructors": "", 
+    "description": "在『工程圖學2D CAD專題』，我們以一幢五層的公寓住宅為案例，一步步地講述AutoCAD繪製建築平面圖的技巧，包含梁、柱、樓板、樓梯、窗戶等，並介紹建築平面圖與立面圖的基本符號代表的意義與表達方式。\n修完這門課，你會具備2D製圖所有的基礎技巧與應用，你會知道如何「看懂」一張建築平面圖與立面圖！\n「工程圖學2D CAD專題」延續前一門課「工程圖學2D CAD」，將所學的平面繪圖技術，應用於建築圖繪製。本課程介紹建築圖相關概念與繪製注意事項，並以完整的例子帶領同學實際完成一份建築圖，希望透過實作專題的訓練，學生更加熟悉平面繪圖技術，並瞭解如何技術應用於工程界的實際案例。\n已具備工程圖學2D CAD的繪圖能力，想要大展伸手嗎？想要體會完成建築平面圖的過程嗎？ 快加入工程圖學2D CAD專題吧！", 
+    "end_date": null, 
+    "title": "工程圖學 2D CAD 專題", 
+    "price": 0, 
     "topic_name": [], 
+    "institution_name": [
+      "National Taiwan University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/da/c4d620d90e11e48e1c550c03848e9e/cad2dpracticelogo.png", 
+    "course_url": "https://en.coursera.org/learn/cad", 
+    "currency": null, 
+    "subject_name": [], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2015-07-01T23:28:53Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "Professor Chen Xiangqun", 
     "description": "《操作系统原理》是针对计算机科学技术专业三年级本科生开设的一门专业基础课程。本课程着重学生系统观的培养，通过重点讲述操作系统的内部结构、工作原理及典型技术的实现，使学生建立起对操作系统的整体及各个功能模块的认识，从而系统掌握计算机的专业知识，进一步提升学生的软件开发能力乃至系统软件开发能力。\n\n任何计算机都必须在加载相应的操作系统之后，才能构成一个可以运转的、完整的计算机系统。操作系统的功能是否强大，决定了计算机系统的综合能力；操作系统的性能高低，决定了整个计算机系统的性能；操作系统本身的安全可靠程度，决定了整个计算机系统的安全性和可靠性。操作系统是软件技术的核心和基础运行平台。因此，计算机科学技术专业的学生需要学习和掌握操作系统的基本原理和专业知识。\n\n本课程的教学目标是：\n\n1．掌握操作系统的基本概念、功能组成、系统结构及运行环境；\n\n2．熟悉并运用操作系统工作原理、设计方法和实现技术，理解有代表性、典型的操作系统实例（如UNIX、Linux和Windows）；\n\n3．了解操作系统的演化过程、发展研究动向、新技术以及新思想，为后续相关课程的学习打下良好基础，为后续职业发展奠定基石。", 
     "end_date": null, 
     "title": "操作系统原理（Operating Systems）", 
     "price": 0, 
-    "instructors": "Professor Chen Xiangqun", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -2748,18 +2835,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-07-01T08:23:13Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "罗昭锋", 
     "description": "本门课将注重执行。前面已经学会了很多的技能，但只有行动才会有结果。这门课程帮助你找出阻碍你行动的原因。通过目标设定，时间管理等，帮助你实现自己的梦想。", 
     "end_date": null, 
     "title": "自我实现", 
     "price": 0, 
-    "instructors": "罗昭锋", 
+    "topic_name": [], 
     "institution_name": [
       "University of Science and Technology of China"
     ], 
@@ -2773,18 +2860,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-01-20T05:14:13Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "与之前的“竞争策略”(https://www.coursera.org/learn/competitivestrategyzh)相比，“高阶竞争策略”课程将在讲解新课题和新模块的同时，结合更多实际案例并提供更多与学生互动交流的机会。\n\n在“高阶竞争策略”课程中，我们将研究企业如何通过增加转换成本和推进战略客户锁定来建立和维护客户群。探索企业如何通过寻求适当的价格歧视和产品差异化策略来提高收益。\n\n我们将举例介绍在欧盟竞争政策和美国反垄断政策前提下可接受的行为，并且找到企业通过战略性利用网络效应和规模经济来增加回报的方法。我们会进一步强化新学的有关网络效应的知识，并讨论专门为网络市场定制的策略。\n\n我们还会分析兼并和收购的运作方式，此外，帮助您思考有助于公司有机增长的其他策略。\n\nThis is a Chinese version of Advanced Competitive Strategy. You can find the original course in English from our course catalog.\n【 此版本是Coursera首次尝试推出的中文翻译版。课程视频为英文原版附中文字幕，课程页面和测验已译成中文，帮助中心提供中文支持。此版本仍在测试中，欢迎批评指正。】", 
     "end_date": null, 
     "title": "高阶竞争策略（中文版）", 
     "price": 0, 
-    "instructors": "2573718", 
+    "topic_name": [], 
     "institution_name": [
       "Ludwig-Maximilians-Universität München (LMU)"
     ], 
@@ -2798,18 +2885,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2014-12-17T01:22:04Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "汤文璐", 
     "description": "超级细菌肆虐、感染无药可医，人类正面临前所未有的困境。\n面对这危及每个人的严酷现实，是坐以待毙还是奋力反击？相信你心中已有答案。\n本课程将以独特、新颖的视角，为你展现抗菌药和超级细菌间博弈的历程；以深入浅出、生动形象的课件，教你抗菌药与超级细菌的知识；以浅显易懂、亦庄亦谐的教学情景剧，让你辩证地看待菌药的关系。\n战争已经打响，智慧勇敢的你，快来加入我们的行列，从自身做起阻止超级细菌的产生与蔓延。", 
     "end_date": null, 
     "title": "抗菌药与超级细菌 －－天使与魔鬼的博弈", 
     "price": 0, 
-    "instructors": "汤文璐", 
+    "topic_name": [], 
     "institution_name": [
       "Fudan University"
     ], 
@@ -2823,18 +2910,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-11-19T09:16:16Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": ", , ", 
     "description": "本课面向有志于学术研究和具有论文写作需求的高年级本科生和研究生同学，适合人文社会科学、特别是法学专业的学生学习，也欢迎理工科学生选修。教学内容主要集中于学术研究的基本方法与一般理念，既包括学术论文的提问、选题、谋篇、布局和实际写作，也包括学术资源特别是综合性与专业性数据库的检索和使用。", 
     "end_date": null, 
     "title": "论文写作与检索（Academic Writing and Research）", 
     "price": 0, 
-    "instructors": "8590916, 9189780, 9277519", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -2848,18 +2935,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "吴 宁", 
     "description": "毕业设计项目将综合5门课程所学知识，设计完成一个基于.Net平台的小型软件项目，以验证你是否具备了.Net应用程序开发的基本能力。我们为你提供了两个可选方案，你可以从中任选一项来完成。\n项目一：Windows界面下的网上订餐系统。主要功能包括：菜单发布、菜品选择、订单查看、订单修改、订单智能排队、用户管理等。\n项目二：作业管理系统。主要功能包括：题库管理、自动成卷、作业安排与编辑、用户管理等。\n如果你能够利用C#语言独立完成毕设项目，说明你已经到达面向.net框架的初级程序员水平。", 
     "end_date": null, 
     "title": ".Net平台下的软件开发技术毕业项目", 
     "price": 0, 
-    "instructors": "吴 宁", 
+    "topic_name": [], 
     "institution_name": [
       "Xi'an Jiaotong University"
     ], 
@@ -2873,18 +2960,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-01-23T01:30:31Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "吴 宁, , ", 
     "description": "* \"系统平台与计算环境\"仅是\"大学计算机\"系列课程的第一部分，我们将在不久的未来推出“算法与C语言编程基础”，\"大学计算机\"系列课程的第二部分，敬请关注！*\n\n计算机科学是研究抽象和自动计算的学科，涉及的理论知识众多。作为计算机科学的入门，“大学计算机”系列课程将从基础知识入手，循序渐进，帮助你在了解计算机系统整体结构和基本原理的基础上，具备“选择和利用各种已有工具软件解决问题的能力”和“编写程序解决一般专业问题的能力”。\n\n本系列课程由“系统平台与计算环境（第一部分）”和“算法与C语言编程基础（第二部分）”两门课程构成。每门课程独立开设，既自成一体，又相互衔接，构成体系。本课程，即第一部分的内容，将涉及计算模型与信息表示、软硬件系统组成及工作原理、网络技术及应用、OFFICE基本操作等多个知识模块。本课程的学习目标是了解计算机软硬件系统组成、信息表示方法、网络技术等计算机学科的基础知识和基本操作技能；在未来我们将提供系列课程第二部分的学习目标，即学会编写简单的C语言控制台程序以及排序、查找等基本算法。\n\n本课程是学习计算机的入门课程，无需信息技术方面的基础，但需要你会一些计算机的基本操作，比如：文字录入、通过网络获取信息（网络信息检索）等。", 
     "end_date": null, 
     "title": "系统平台与计算环境", 
     "price": 0, 
-    "instructors": "吴 宁, 11063936, 11065014", 
+    "topic_name": [], 
     "institution_name": [
       "Xi'an Jiaotong University"
     ], 
@@ -2898,18 +2985,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-01-23T08:49:16Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "人是否會如同理論經濟學的預測進行決策？這門課將透過每週的課程影片以及課後作業帶你了解實驗經濟學的基本概念。每週將會有習題練習以及指定閱讀的期刊論文。你將會參與一些線上的實驗、報告論文並且互評其他同學的報告。\n\n❖ 課程介紹（About the course）\n\n這是一門進階的經濟學課程，課程目標為介紹實驗經濟學的基本概念，並且讓學生們能開始在這個領域從事自己的相關研究。\n\n詳細課程目標如下:\n\n1. 實驗經濟學的介紹: 在上完這堂課之後，學生應能列舉經濟學各個領域的數個知名實驗，並且解釋實驗結果如何驗證或否證經濟理論及其他實地資料。\n\n2. 評論近期相關領域研究：上完這堂課之後，學生應能閱讀並評論實驗經濟學相關的期刊論文。在課堂中，學生將會閱讀指定的期刊論文，並且（在影片中）親自上台報告一篇論文。\n\n\n\n❖ 授課形式（Course format）\n\n1. 本堂課將以影片的形式為主，搭配課後作業的形式來進行。\n\n每個同學將閱讀一篇實驗經濟學論文，並錄影成兩段各 10 分鐘的介紹影片並後上傳至 Coursera（或上傳到 Youku，再複製連結到作業上傳區）。第一段期中報告影片請同學介紹該論文所描述的實驗設計，第二段，也就是期末報告影片則介紹實驗結果。此外每位同學至少需觀看其他兩位同學的呈現內容，並給予評論。\n\n2. 這堂課將簡單地運用以下賽局（博弈）概念：\n\n奈許均衡 / 纳什均衡（Nash Equilibrium）\n混合策略均衡（Mixed Strategy Equilibrium）\n子賽局完美均衡 / 子博弈精練纳什均衡（SPNE）\n共識 / 共同知識（Common Knowledge）\n信念（Belief）", 
     "end_date": null, 
     "title": "實驗經濟學 (Experimental Economics I: Behavioral Game Theory)", 
     "price": 0, 
-    "instructors": "8020813", 
+    "topic_name": [], 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -2923,18 +3010,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-04-01T05:23:54Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "本课程主要介绍高级语言程序中的数据类型及其运算、语句和过程调用等是如何在计算机系统中实现的。主要包含三个主题：（1）表示。不同数据类型（如带符号整数、无符号整数、浮点数、数组、结构等）数据在寄存器或存储器中的表示和存储；指令的格式、编码及其在存储器中的存储；存储地址（指针）的表示。（2）转换。高级语言程序中的过程（函数调用）、循环、选择等语句与机器级代码之间的对应关系。（3）链接。多个可重定位目标文件如何链接生成可执行目标文件并加载到系统中。\n通过本课程的学习，使学习者能从程序员角度认识计算机系统，能够建立高级语言程序、ISA、OS、编译器、链接器等之间的相互关联，对指令在硬件上的执行过程和指令的底层硬件执行机制有一定的认识和理解，从而增强在程序调试、性能提升、程序移植和健壮性等方面的能力，并为后续的“计算机组成与设计”、“操作系统”、“编译原理”、“计算机体系结构”等课程打下坚实基础。\n学完本课程后，学习者将对以下问题有比较深刻的认识，并能解决相关实际问题。\n----程序中处理的数据在机器中如何表示和运算？\n----程序中各类控制语句对应的机器级代码结构是怎样的？ \n----多个程序模块是如何链接起来形成可执行目标文件的？\n----机器级代码及构成机器级代码的指令是如何在机器上执行的？", 
     "end_date": null, 
     "title": "计算机系统基础（一） ：程序的表示、转换与链接", 
     "price": 0, 
-    "instructors": "7083440", 
+    "topic_name": [], 
     "institution_name": [
       "Nanjing University"
     ], 
@@ -2948,18 +3035,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-03-19T12:46:02Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "刑法是规定犯罪与刑罚的法律。刑法学是研究刑法的科学，主要研究犯罪的成立条件以及刑罚的种类与适用刑法的制度等问题。本课程的主要目的是简明完整地说明现代刑法学总论的基本概念、基本理论与基本方法，包括的主要内容有刑法与刑法学的基本概念，刑罚的正当性，罪刑法定原则，刑法解释，刑法的适用范围，犯罪与犯罪构成的概念，犯罪构成的主要内容，排除犯罪的根据，犯罪的未完成状态，共同犯罪，刑罚的概念与体系，量刑制度，数罪并罚，缓刑、减刑与假释。本课程通过理论说明与案例分析对有关问题进行讲解，鼓励同学们通过刑法发展来认识刑法的生命，通过刑法比较来认识刑法的国际标准，通过确立刑法理想来追求社会的公平正义。\n\n本课程将系统完整地说明、分析现代刑法学总论中的基本概念、基本理论。同学们通过本课程的讲述、案例的讨论、理论的分析，可以对现代刑法学知识的基本使用方法有一个完整的理解，从而有助于理解与分析现代社会面临的刑法问题。", 
     "end_date": null, 
     "title": "刑法学总论 Criminal Law", 
     "price": 0, 
-    "instructors": "6063593", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -2973,18 +3060,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-07-01T07:51:52Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "Yu-Wen Chen (陳毓文)", 
     "description": "課程介紹 (About the course)\n　　　　　　　　　　　　　　　　　世上有許多事可以等待\n　　　　　　　　　　　　　　　　　　但孩子是不能等的\n　　　　　　　　　　　　　　　　 他的骨在長，他的血在生\n　　　　　　　　　　　　　　　　　　 他的意識在形成\n　　　　　　　　　　　　　　　我們對他的一切不能答以「明天」\n　　　　　　　　　　　　　　　　　　他的名字是「今天」\n　　　　　　　　　　　　　　　　－智利詩人Gabriela Mistral\n\n　　少年是我們國家未來的「希望」，如何提供他們一個健全發展的環境是各國致力的目標。本課程旨在探討當今少年的基本福利與權利，以及其所面臨的各種問題與挑戰，並討論影響少年問題產生之相關因素，以及社會工作領域在處理少年問題時所採用的對策。此外，也將探討相關少年福利政策的意義與對社工實務的影響，並將強調以社會工作的觀點來深入討論上述各項與少年有關的議題或問題、影響問題形成的因素以及預防和輔導少年問題相關對策。 課程涵蓋國內外相關論述。\n\n課程目標有：\n1)\t 對於少年之福利、權利議題有正確的認識。\n2)\t 建立對少年族群正確的觀念，破除相關迷思與刻板印象。\n3)\t 具備社會工作基礎專業知識來同理並協助處遇少年福利相關議題。\n4)\t 能夠發揮社會正義的精神來倡導少年權利維護之相關議題。\n\n授課形式 (Course format)\n　　本堂課將以演講影片為主，其中也包含實務工作者經驗分享與個案分析等，並穿插選擇題項的問題討論，帶動同學能將課堂知識與生活經驗連結、反思。此外，同學也必須完成線上討論與作業繳交，以及至少需觀看其他兩位同學的作業並給予評論。\n\n修課背景要求 (Recommended background)\n　　修習本課程的同學，不需專業基礎，只要具備基本中文閱讀與寫作能力，並對少年福利、權利及社會工作方法有興趣即可。", 
     "end_date": null, 
     "title": "少年福利與權利 (Welfare and Rights of Youth)", 
     "price": 0, 
-    "instructors": "Yu-Wen Chen (陳毓文)", 
+    "topic_name": [], 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -2998,18 +3085,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-11-04T10:19:57Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": ", , ", 
     "description": "本课程是北京大学开设的一门在线跨学科选修课程，主要面向信息技术、社会学和经济学等专业的本科生。课程内容涉及用计算思维的方法讨论社会学和经济学的一些经典问题。学习运用计算思维分析社会学、经济学问题的方法，加深对某些生活现象的理解，体会计算与社会科学的互动。\nLearn to analyze and reason about problems in social sciences with computational thinking, appreciate interactions between computing and social sciences, as well as gain deeper understanding of some common phenomena in life and society", 
     "end_date": null, 
     "title": "人群与网络 ", 
     "price": 0, 
-    "instructors": "2363791, 4517421, 2794735", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University"
     ], 
@@ -3023,18 +3110,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-06-30T05:48:46Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "黃俊傑 (Chun-chieh Huang)", 
     "description": "本課程希望透過對《孟子》原典的解讀，使學生發現中國傳統文化的精髓與深刻的人文意涵，並能對應其所處的21世紀全球化時代，領悟經典的現代意義，使其知識得到深刻的啟發，生命也能獲得厚實的成長。\n\n課程內容將帶領同學從戰國至唐、宋、明、清與孟子對話。在對話中，照見自己身處的時代困境，並思索出合宜的處世原則，例如：朱子、陽明都曾藉由與孟子思想的對話，學習孟子的人生智慧，以因應其時代環境之困境。\n\n學生修習本課程，除可了解孟子以強靭的生命力，剛正不阿的性格批判他所處的時代，並試圖改變時代。也可認識孟子抱著堅定的使命感，在政治轉型、社會重組、經濟發展的戰國時代，強力批判急功近利的社會風氣，那種以天下為己任的精神，是值得現今知識分子效法的人格典範。", 
     "end_date": null, 
     "title": " 東亞儒學：孟子二 (East Asian Confucianisms: Mencius 2)", 
     "price": 0, 
-    "instructors": "黃俊傑 (Chun-chieh Huang)", 
+    "topic_name": [], 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -3048,18 +3135,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-06-16T01:07:28Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "徐小平, 杨壮, 王强, 张黎", 
     "description": "《真格北大创业课》是真格基金与北京大学国家发展研究院首次联合开发的中文“慕课”（MOOC, Massive Open Online Course，大型公开在线课程)。课程以创业为主题，共分为三个部分：创业前的准备工作，创业中的要点，以及融资、众筹的技巧等。此课程的目的是让所有有创业意愿的或者刚刚起步的创业者更好地了解现在中国创业行业的氛围，以及创业初期不得不知的干货。每节课都凝结了真格基金业内专家和北京大学资深教授的丰富知识，也包括多位成功创业者的实践经验。完成本课程之时，你将能够为自己绝妙的创意找到切实可行的商业模式，组建能力出色行动高效的团队，撰写专业具体可执行的策划书。在课程的最后，我们希望所有的学员可以完成一份完整的商业计划书，把自己的创业想法有效地表达出来。成功完成慕课的学生会得到由Coursera提供的真格基金与北京大学联合认证的付费认证书，并且其商业计划书会得到真格基金的认真考虑。\n\n课程特点：\n•\t真格基金与北京大学国家发展研究院联合开发的首部中文“慕课”\n•\t徐小平、王强领衔，多位来自国内知名机构的专家和成功创业公司的创始人亲授\n•\t北京大学国家发展研究院BiMBA商学院张黎院长、杨壮院长对创业者倾力指导\n\n•\t专注于创业的在线课程\n•\t注重实践，最鲜活的案例教学\n•\t充分利用碎片化时间学习，每节课15分钟以内，每周仅需1-2个小时学习时间\n•\t无需相关教育或工作背景，对所有人开放\n \n参与本课程，您将收获：\n•\t12位知名公益专家亲自设计的教学内容、资料\n•\t加入讨论区，与业内专家、资深教授和同行互动的机会\n•\t对中国创业大环境的进一步了解\n•\t为自己绝妙的创意找到切实可行的商业模式\n\n•\t组建能力出色行动高效的团队\n•\t撰写专业具体可执行的策划书\n•\t您在课程结束时提交的商业计划书将得到真格基金的认真考虑\n\n除此之外，完成课程的同学可以获得由课程平台提供方Coursera颁发的付费认证证书（电子版）。获得认证证书要求同学们总体得分超过80%，并需向Coursera支付$29美金的费用。您可以先免费注册课程，开始学习课程后再选择支付证书费用。", 
     "end_date": null, 
     "title": "真格—北大在线创业课堂", 
     "price": 0, 
-    "instructors": "徐小平, 杨壮, 王强, 张黎", 
+    "topic_name": [], 
     "institution_name": [
       "Peking University", 
       "真格基金"
@@ -3074,18 +3161,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-03-08T02:42:22Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "本課程是作為歷史入門通識而設計，重點在於藉由歷史教育啟發同學的思維，而非背誦歷史知識。具體的課程目標，是為了讓修課同學感到：\n（一）有趣：重新發現學習歷史的樂趣。\n（二）有用：重新認識學習歷史的價值。\n", 
     "end_date": null, 
     "title": "中國古代歷史與人物－－秦始皇", 
     "price": 0, 
-    "instructors": "2644105", 
+    "topic_name": [], 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -3099,18 +3186,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "心理学很神秘？你会发现，只要有人的地方，就有心理学！\n心理学很深奥？你会发现，似乎每个人都是大众心理学家，谁都可以说点“心理学”。\n的确，我们生活中处处都是心理学！但这门课程却要告诉你，我们常常挂在嘴边的“心理学”绝大部分是错的，剩下的一小部分也是不全面的。\n在本课程中，我们会一起把看似复杂的心理学理论运用到简单的生活现象中，在理解和掌握心理规律和原理后，用独具的慧眼看到一个与原先完全不同的生活世界。", 
     "end_date": null, 
     "title": "心理学与生活", 
     "price": 0, 
-    "instructors": "9875694", 
+    "topic_name": [], 
     "institution_name": [
       "Nanjing University"
     ], 
@@ -3124,18 +3211,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-03-18T07:31:54Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "姚武", 
     "description": "人最宝贵的是生命，而在生命历程中充满着安全威胁与挑战。本课程以“珍爱生命、关注安全”为主线，期望通过该课程教学，努力增强学生在体育运动及野外活动中的安全防范意识，提高自我保护能力，掌握生存、自救和互救的基本技能，学会常见运动创伤的处置方法以及危险环境中的避险、自救和互助技能，具备应对突发事件的基本能力。", 
     "end_date": null, 
     "title": "生命安全与救援Life Safety and Rescue", 
     "price": 0, 
-    "instructors": "姚武", 
+    "topic_name": [], 
     "institution_name": [
       "Shanghai Jiao Tong University"
     ], 
@@ -3149,18 +3236,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-06-24T05:33:44Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "胡东雁", 
     "description": "本课程为“初级课程”，为了适应初学者需求，章节安排分为三个板块。1-5章为初学者进行了知识普及和铺垫，6-7章为学员了解行业做进一步介绍，8-9章带领学员深入中国游戏行业了解产业发展和产品运营，层层进阶、循序渐进。而课程二《游戏策划与设计》整体知识难度将有升级，重视实操，请学员做好准备。\n从游戏诞生之初至今已走过半个多世纪。但许多人任认为游戏产业并未成熟，然而其高速发展的势头引人注目。蕴含市场潜力的游戏产品推陈出新，品类丰富多样，终端靓丽时尚，游戏玩家人数激增，游戏产业逐渐成为欧、美、日、韩等国创意经济新的增长点。本课程包括游戏起源、游戏发展史、游戏分类、游戏的研发制作流程、世界游戏产业纵览和知识产权保护等章节，为培养成熟的游戏产业市场经理人打下良好基础。", 
     "end_date": null, 
     "title": "游戏产业概论", 
     "price": 0, 
-    "instructors": "胡东雁", 
+    "topic_name": [], 
     "institution_name": [
       "Fudan University", 
       "上海戏剧学院"
@@ -3175,18 +3262,18 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-03-03T02:59:27Z"
   }, 
   {
     "selfpaced": false, 
-    "topic_name": [], 
+    "instructors": "", 
     "description": "《紅樓夢》不只是一部青春紀事，更是一闋母神的頌歌；它既熱烈地宣揚了少女之美，卻也莊嚴地禮讚著母性力量。本次課程將聚焦在女媧─警幻─賈母─元妃─王夫人─劉姥姥六位成熟女性，針對其在書中扮演角色的功能與位置，進行深入的剖析，重新辨明這些「母神」具備的崇高形象。\n", 
     "end_date": null, 
     "title": "紅樓夢二──母神崇拜(The Red Chamber Dream 2)", 
     "price": 0, 
-    "instructors": "4656064", 
+    "topic_name": [], 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -3200,20 +3287,165 @@
       "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
   }, 
   {
     "selfpaced": false, 
+    "instructors": "何建宇", 
+    "description": "《NGO能力建设入门》由联合国开发计划署(UNDP)出品。课程以非营利组织的成长脉络为主线，从组织建立之初对自身定位、使命和治理方式的思考，运行之时对人力资源和资金的管理，到发展之际对外界的拓展和传播，探索非营利组织在管理和运作过程中涉及的核心理念和关键问题。每节的15分钟的课程凝结了数十位业内专家实践经验的精华和对创新方法的探索，力求以丰富的案例和精心提炼的“干货”，帮助非营利组织解决实际问题。\n\n本课程是联合国首部中文“慕课”《民间组织能力建设入门》的升级版。基于第一期学员的反馈，新版课程强化了课程的体系性和知识点背后的逻辑，在注重实践经验分享的同时，更强调思考方式的培养，以期帮助非营利组织更好地“举一反三”、学以致用。\n\n完成本课程四个章节的学习，您不仅将掌握每项主题的关键知识点，亦会了解到各位专家不同经验的共通之处，发现治理、人力资源管理、筹款等议题之间的彼此关联，学会更系统性地思考非营利组织的管理和运作。\n\n当然，很多问题并没有标准答案或固定模板，因此本课程将通过一系列线上及线下的课外活动，鼓励同学们在汲取讲师们传授的经验的同时，发挥自身和集体的智慧，互相分享、不断碰撞，一同发现问题并寻找解决方案。\n\n\n>>>>>>>>>>>>>>>>课程大纲<<<<<<<<<<<<<<<<\n\n\n第1章 从使命到治理\n\n1.1 非营利组织概述（赵华，彼得·德鲁克社会组织学习中心秘书长）\n1.2 非营利组织——使命优先 （赵华，彼得·德鲁克社会组织学习中心秘书长）\n1.3 使命与组织管理实践 （彭艳妮，南都公益基金会常务副秘书长）\n1.4 非营利组织治理：理事会的角色 (赵华，彼得·德鲁克社会组织学习中心秘书长)\n1.5 组织的治理结构 （贾西津，清华大学公共管理学院副教授）\n\n\n第2章 人力资源管理\n\n2.1 非营利组织人力资源管理概念及价值（翟雁，北京惠泽人公益发展中心主任）\n2.2 非营利组织人力资源管理基本原则及方法（翟雁，北京惠泽人公益发展中心主任）\n2.3 员工管理：战略人力资源管理案例 （零慧，友成企业家扶贫基金会常务副秘书长）\n2.4 志愿者管理：志愿者的招募与保留 （翟雁，北京惠泽人公益发展中心主任）\n\n\n第3章 筹款\n\n3.1 非营利组织的资源分布及其特点（肖蓉，赠与亚洲中国首席代表）\n3.2 筹款方视角：非营利组织的资源开发（王超，世界自然基金会首席运营官）\n3.3 捐赠方视角：筹款从找对捐赠方开始（霍庆川，敦和慈善基金会秘书长助理）\n3.4 传统的筹款工具与方法（肖蓉，赠与亚洲中国首席代表）\n3.5 如何利用互联网为公益筹款（贝晓超，前新浪微博社会责任总监）\n\n\n第4章 对外拓展\n\n4.1 向政府拓展：非营利组织的政府关系（徐家良，上海交通大学学第三部门研究中心执行主任）\n4.2 倡导的基本理论与方法 （郭婷，中国发展简报副主编）\n4.3 向公众拓展：非营利组织的公信力（徐家良，上海交通大学学第三部门研究中心执行主任）\n4.4 体验式公益活动与新媒体传播（陈红涛，中国扶贫基金会副秘书长）\n\n\n>>>>>>>>>>>>>>>>常见问题<<<<<<<<<<<<<<<<\n\n1. 怎样才能获得证书？\n\n本课程有两种证书供同学们选择：\n\n1) 由课程平台提供方Coursera颁发的付费认证证书（电子版）\n认证证书（Verified Certificate）是Coursera颁发的电子版证书，带有唯一认证编码。获得认证证书要求同学们每一次平时作业和考试的得分都分别超过80%，并需向Coursera支付$29美金的费用。您可以先免费注册课程，开始学习课程后再选择支付证书费用。更多关于Coursera的证书问题请浏览：https://www.coursera.org/certificate/undpcso 页面下方的常见问题解答。\n\n2) 由课程内容提供方UNDP颁发的免费结业证书（电子版）\n结业证书带有UNDP logo，用户姓名和课程名称，不带认证编码，不具有认证效力，主要目的是鼓励并纪念同学们顺利通过课程。获得结业证书只需要免费注册，不需要支付任何费用，完成课程并总成绩超过80%即可申请获得。\n\n请注意：本期课程不提供任何纸质证书。联合国开发计划署不在本课程的任何环节收取任何费用，且不对Coursera的收费政策负责。\n\n\n2. 课程的时间安排是怎样的？\n\n本期课程将从2015年12月21日起开放全部内容，持续六周时间，包括四章内容的学习和一次期末考试。每周的课后习题设有截止日期（通常是每周一章），建议同学们根据截止日期安排学习，以便与其他同学保持同步、交流学习，课程组也会根据一周一章的进度安排相应的课外活动。当然，同学们也可以选择灵活地支配自己的进度，只需在整个学期结束前完成并提交所有内容即可获得本期课程的总评。\n\n\n3. 课程的评分政策是怎样的？\n\n总成绩(100%)= 四次课后习题(50%) + 期末考试(50%) \n课后习题主要以选择题为主，由系统评分；期末考试形式为主观题，由同伴互评。\n\n\n关于课程如有更多问题，欢迎通过课程论坛答疑板块或微信公众号（ID：UNDPCSO）向我们提问。", 
+    "end_date": null, 
+    "title": "NGO能力建设入门 Building Capacity of CSOs in China", 
+    "price": 0, 
     "topic_name": [
-      "music-and-art"
+      "governance-and-society"
     ], 
+    "institution_name": [
+      "Peking University"
+    ], 
+    "commitment": "1-2 hours/week", 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f2/7330b091bd11e597177731f0b398bd/Picture4.png", 
+    "course_url": "https://en.coursera.org/learn/undp-cso", 
+    "currency": null, 
+    "subject_name": [
+      "social-sciences"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2015-12-21T00:23:38Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
+    "description": "社会调查与研究方法，\n首先，是一套观察社会现象、测量社会现象的工具；\n其次，是一套分析和运用社会现象数据的科学方法；\n最高境界，则是一套针对社会、经济、教育、政治、法律、管理、公共卫生、新闻报道等人类的生产与生活现象，进行科学沟通的思维逻辑与表达方式。", 
+    "end_date": null, 
+    "title": "社会调查与研究方法 （上）Methodologies in Social Research (Part I)", 
+    "price": 0, 
+    "topic_name": [
+      "education"
+    ], 
+    "institution_name": [
+      "Peking University"
+    ], 
+    "commitment": "4-6 hours/week", 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/9c/0da1701ef411e490eb8f929657e503/Msocial.jpg", 
+    "course_url": "https://en.coursera.org/learn/shehu-yanjiu-fangfa", 
+    "currency": null, 
+    "subject_name": [
+      "social-sciences"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-01-15T05:15:09Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "罗昭锋", 
+    "description": "通过本门课程的学习，你的创新能力将会获得大幅提升。课程首先致力于观念的转变，其次我会讲到很多具体的创新思维和创新方法。创新并不仅仅是那些黑科技。解决生活或工作中碰到的每一个问题，都需要创新。每一个人的发展都会受到资源的制约，我希望这门课程里，你能找出制约自己发展的那些内部和外部条件，并创造性地解决，突破自己成长的天花板。", 
+    "end_date": null, 
+    "title": "创新思维", 
+    "price": 0, 
+    "topic_name": [
+      "personal-development"
+    ], 
+    "institution_name": [
+      "University of Science and Technology of China"
+    ], 
+    "commitment": "4 周课程, 1-3 小时/周", 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/5d/3b0540b87d11e5b7f4377491ebab0b/____.jpg", 
+    "course_url": "https://en.coursera.org/learn/chuangxin-siwei", 
+    "currency": null, 
+    "subject_name": [
+      "personal-development"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-06-07T02:35:47Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
+    "description": "靜電靜磁到電磁波相關物理、數學及應用之介紹", 
+    "end_date": null, 
+    "title": "電磁學(Electromagnetics)", 
+    "price": 0, 
+    "topic_name": [
+      "physics-and-astronomy"
+    ], 
+    "institution_name": [
+      "National Taiwan University"
+    ], 
+    "commitment": "5-6 hours/week", 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a8/abba302cef11e4a2c70bcfab45cc52/140825-___-01.jpg", 
+    "course_url": "https://en.coursera.org/course/ntuem", 
+    "currency": null, 
+    "subject_name": [
+      "physical-science-and-engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2018-09-01T08:00:00Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "", 
+    "description": "工程圖學在教什麼？這門課有的重要性為何? 對我的專業有什麼幫助?沒有工程背景的人也可以學習工程圖學嗎？我不是工程師，學習工程圖學對我的生活有幫助嗎？\n這門課是CAD/BIM技術與應用專項課程的第一門課，與其他三門課「工程圖學2D專題」、「工程圖學3D」，及「工程圖學3D專題」，作為工程圖學及電腦繪圖的入門課程，你將在這門課會學到各種繪圖的原理與方法，以及AutoCAD電腦繪圖技術，並在相關的作業練習中，逐漸熟練這些基本技術。\n工程製圖的應用無所不在，最主要的目的就是利用圖像來描述物體的形貌與功能，作為保存與傳遞想法的工具。繪圖一點也不難，無論你從事什麼工作，來自什麼背景，只要你具備中學程度的基本幾何和三角函數概念，就可以在這裡從頭開始，學會工程圖學！你會驚訝的發現，當繪圖融入你的生活時帶來的趣味與方便！", 
+    "end_date": null, 
+    "title": "工程圖學 2D CAD", 
+    "price": 0, 
+    "topic_name": [
+      "mechanical-engineering"
+    ], 
+    "institution_name": [
+      "National Taiwan University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/00/a5a050b00f11e4a169f7e38b70cf48/20150130-1-03.png", 
+    "course_url": "https://en.coursera.org/learn/2d-cad", 
+    "currency": null, 
+    "subject_name": [
+      "physical-science-and-engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2015-06-16T02:54:28Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "instructors": "许 肖潇", 
     "description": "剪辑台前，剪辑师就像厨师对待食材一样，摆弄着拍摄现场记录下来的影像片段，用影像和声音去捕捉线索和瞬间，讲述一个故事，同时赋予故事以力量、以情感。怎样平衡剪辑給画面带来的跳跃？当有几条情节线索相互穿插时，又应使用哪些剪辑手法？剪辑过程和编剧的过程一样，以叙事和抒情为最高准则，同时不断突破陈规，创造专属于自己的独特风格。本课程将带领学习者从剪辑开始，认识镜头，认识剪辑的语法，揭开微电影创作的神秘面纱。", 
     "end_date": null, 
     "title": "剪辑：像编剧一样剪辑", 
     "price": 0, 
-    "instructors": "许 肖潇", 
+    "topic_name": [
+      "music-and-art"
+    ], 
     "institution_name": [
       "Fudan University"
     ], 
@@ -3226,10 +3458,10 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Others"
+      "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-04-01T07:07:43Z"
   }

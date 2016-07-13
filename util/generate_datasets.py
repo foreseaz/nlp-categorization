@@ -103,4 +103,5 @@ if __name__ == '__main__':
 
     print "## generate datasets for English courses ..."
     generate_datasets('en',5,5)
+    # generate_datasets('zh', 4, 5)
     print "## done."

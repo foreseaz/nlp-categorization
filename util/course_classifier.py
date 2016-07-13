@@ -181,7 +181,7 @@ if __name__ == '__main__':
         'udemy',
         'xuetang'
     ]
-    classify_en_courses(provider_list,True)
+    classify_en_courses(provider_list,False)
 
     collect_all_courses('../output/classified_courses')
 

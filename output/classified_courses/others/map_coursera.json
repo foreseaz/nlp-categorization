@@ -12,7 +12,7 @@
     "institution_name": [
       "Higher School of Economics"
     ], 
-    "commitment": null, 
+    "commitment": "10 недель обучения , 2-4 часа / неделю", 
     "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6a/a7f4946004bdf4a99193647b5061ff/macroeconomics-_3_.jpg", 
     "course_url": "https://en.coursera.org/learn/makrojekonomika", 
     "currency": null, 
@@ -21,12 +21,12 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Others"
+      "Russian"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
-    "start_date": "2016-06-02T02:56:31Z"
+    "start_date": "2016-07-12T00:57:57Z"
   }, 
   {
     "selfpaced": false, 
@@ -37,7 +37,7 @@
     "end_date": null, 
     "title": "Працюйте розумніше, а не більше: управління часом для особистої та професійної продуктивності", 
     "price": 0, 
-    "instructors": "9772840", 
+    "instructors": "", 
     "institution_name": [
       "University of California, Irvine"
     ], 
@@ -50,10 +50,10 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Others"
+      "Ukrainian"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-12-19T07:27:56Z"
   }, 
@@ -79,10 +79,10 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Others"
+      "Russian"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-10-16T02:42:40Z"
   }

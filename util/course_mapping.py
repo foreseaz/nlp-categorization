@@ -117,12 +117,11 @@ if __name__ == '__main__':
     print "mapping English courses..."
     excute_mapping('en')
     print "mapping Chinese courses..."
-    excute_mapping('ch')
+    excute_mapping('zh')
     print "mapping Korean courses..."
     excute_mapping('ko')
-
     print "mapping Japanese courses..."
-    excute_mapping('jp')
+    excute_mapping('ja')
     print "mapping Other courses..."
     excute_mapping('others')
     print 'done!'

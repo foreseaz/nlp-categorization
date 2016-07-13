@@ -1,0 +1,2870 @@
+[
+  {
+    "selfpaced": true, 
+    "instructors": "Hackademy Project, Riotaro OKADA, Yuichi Kuramoto", 
+    "description": "サイバー・セキュリティの現実を知るべき時代です。そこで、実際のハッキングテクニックやサイバースペースの現状を理解する事は、サイバーセキュリティ対策を学ぶ上で必要な事柄を理解するのに大変有効です。\n本コースでは、技術者も、技術者ではないビジネスパーソンも習得すべき内容を取り扱っています。現在のサイバーセキュリティにかかわる脅威の解説、攻撃と防御の実際をご紹介しています。\nまた、数多くのデモをご紹介するだけでなく、それらのハッキングテクニックを手元の環境で再現するための検証環境構築と操作手順もステップ・バイ・ステップで解説します。\n関心のあるすべての方のエントリーとして受講いただきたくビギナーコースとしていますが、実践にフォーカスした内容が豊富に含まれています。", 
+    "end_date": null, 
+    "title": "サイバーセキュリティ～ハッキングと防御 ビギナー編", 
+    "price": "50.00", 
+    "topic_name": [
+      "Network & Security"
+    ], 
+    "institution_name": null, 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/796730_f77d.jpg", 
+    "course_url": "https://www.udemy.com/hack-defence-basic/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-18T07:01:23Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "ネットイヤーグループ NETYEAR GROUP", 
+    "description": "■■今日から実践で使える！Google アナリティクス講座■■●新任でWebマーケティングを担当することになった●個人でWebサイトを立ち上げているけれど、なかなかトラフィックが増えず悩んでいる●もっと効率的にコンバージョン率をあげたいけどどこから始めれば良いか分からず困っている･･･●書籍を買って勉強しようと思ったがなかなか理解も学習も進まなかった方●企画を立案しWEBにおける効果まで検証されたい方そんなあなたにGoogle社の公式認定パートナー（GACP)*であるネットイヤーグループがUdemy日本版初のGoogle アナリティクス講座をお届けします！＊GACP (Google アナリティクス認定プログラム）は顧客のビジネス向上や課題解決をGoogle アナリティクスとアクセス解析を通じて実現できる企業を認定するプログラムで、Google社の審査、面接により高品質のコンサル力、技術力を持つと確認された企業のみ取得できる認定です。この講座では初心者～中級者向けにGoogle アナリティクスの基本的な機能からより上手に活用するコツまで丁寧に解説していきます。※2015年10/31現在最新Ver.に準じ講座を制作～この講座の特徴～・UX（ユーザーエクスペリエンス）の観点を取り入れ、データ分析が目的ではなく顧客視点でデータをどう活かすかに注目します。・逆引き方式で忙しくて全コースを受講できなくても必要な部分だけピックアップして学べる構成になっています。・実際画面を操作しながら教えるので、分かりやすく理解できます。また、不明な部分は繰り返して受講しながら理解度を高めることができます。・もし受講してみて満足できなかった場合はUdemyの30日間返金保証により、返金できますのでお気軽に、今すぐ登録してみては如何でしょうか？", 
+    "end_date": null, 
+    "title": "今日から実践で使える！Google アナリティクス講座", 
+    "price": "50.00", 
+    "topic_name": [
+      "Analytics & Automation"
+    ], 
+    "institution_name": null, 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/647944_cb57_2.jpg", 
+    "course_url": "https://www.udemy.com/googleanalytics_ngc/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Marketing"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-10-22T16:11:07Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "NTTデータ ユニバーシティ, NTTデータ 渡部 良一, NTTデータ 升田 真奈美, NTTデータ 福岡 将", 
+    "description": "この講座では、マウス操作で簡単にデータを視覚化できる、今最も注目されている分析ツール「Tableau（タブロー）」の使い方を習得できます。\nTableauを使いこなすことにより、大量のデータであってもほとんどマウス操作だけで簡単にデータを視覚化して、次々に新しい発見を繰り返しながら、次のアクションのための問題点を特定したり、ビジネスチャンスを見つけたりすることができます。\nTableauを使うと、データ分析がこれまでにくらべて遥かに簡単に、スピーディにできるようになり、さらに、分析が楽しくなります。\n私たちNTTデータは、米国発のこのツールにいち早く注目し、日本国内への展開初期からのパートナーとして、国内有数の有資格者をそろえ、多数のお客様のデータ分析をご支援して来ました。\nこの講座では、私たちが多くの経験から培ってきたノウハウをつぎ込んで、ビジネスユーザの方が短期間でデータ分析を習得できるよう、Tableauの使い方を丁寧に解説します。", 
+    "end_date": null, 
+    "title": "Tableau（タブロー）で実践！ビジネスユーザのためのデータ集計・視覚化・分析　基礎編", 
+    "price": "50.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "4.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/765080_e2cc.jpg", 
+    "course_url": "https://www.udemy.com/tableau-ntt/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-02-17T04:07:42Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation kids&family group", 
+    "description": "■本コースについて二重あご、頬のリフトアップ、ほうれい線などみんなの気になるポイントに効果のある顔ヨガポーズを学び、実践していきます。イントロダクションにある顔ヨガの生徒さんのBeforeAfterの変化をご覧ください。顔ヨガは、自己流ではなく正しく実践してこそ効果がでるもの。この講座では、ポーズを実践しつつ、１つ１つコツや注意点を学べます。顔ヨガは、見た目の変化や効果が実感できるのが約２週間。そして、何よりステキな笑顔になることで自分の気持ちが前向きになったり、家族や周りの人とのコミュニケーションにもよい影響が現れます。■講師－上野清香 顔ヨガ協会インターナショナル所属。本業は歯科衛生士。口腔ケアの大切さを広めるための良い方法を探していたところ、顔ヨガに出会う。自身もすぐに顔ヨガを実践し、小顔効果など見た目の変化以外にも、小さな子どもとのやりとりなど、対人関係がスムーズになる効果を実感。口腔ケアと密接に関係する顔ヨガを取り入れながら、患者さんのお口の健康のために、さらには笑顔のために、顔ヨガの普及につとめている。", 
+    "end_date": null, 
+    "title": "笑顔のママが好き！表情筋を鍛える「顔ヨガ」講座", 
+    "price": "20.00", 
+    "topic_name": [
+      "Parenting & Relationships"
+    ], 
+    "institution_name": null, 
+    "commitment": "30 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/612472_a843.jpg", 
+    "course_url": "https://www.udemy.com/bckf15-kaoyoga-001/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Personal Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-09-15T06:26:27Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "平山 雄三", 
+    "description": "文系・理系にかかわらず初心者がプログラミング基礎知識を習得できます。さらに科学を題材とし学校、受験、社会生活で必要な科学的思考を身に付けます。Ex-Gram（エクスグラム）プログラミング実教室での延べ1000人・時間にわたる指導経験をベースにした豊富なサイエンスビジュアルコンテンツで楽しく学べます。透明スクリーンによるわかりやすい説明のほか、ダウンロードできるテキストやソースコード、プログラムを実行できるサイトも準備しています。Vol.1ではプログラミングの基礎を学び、応用としてお絵描きソフトも作ります。そしてVol.2以降の本格的な科学的思考プログラミングへとつなげていきます。 学習の期限はありませんが、各巻とも約３か月で修了することを想定しています。", 
+    "end_date": null, 
+    "title": "プログラミングで科学を学ぼう！ Vol. 1", 
+    "price": "50.00", 
+    "topic_name": [
+      "Math & Science"
+    ], 
+    "institution_name": null, 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/505894_cc49_5.jpg", 
+    "course_url": "https://www.udemy.com/ex-gram-vol-1/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Academics"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-05-19T07:40:24Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Double Bind, Benesse Corporation", 
+    "description": "手のひらサイズのコンピュータ、ラズベリーパイが世界で注目を集めています。ここ数年の間に飛躍的に性能が向上し、安価で手に入れられるコンピュータが登場したことにより、プログラミングによるハードウェアの制御を学習する目的はもちろん、実際にロボットにラズベリーパイを搭載することでスマートフォンから制御するなどの目的に使えるようになったためです。IoT（もののインターネット）と呼ばれるこれらの技術は今後ますます注目を集めていくことでしょう。この講座ではのような時代に生きるお子様の興味を育てるために、簡単なプログラムを使ってラズベリーパイを制御する電子工作に取り組みます。また、そのためには、部品の購入やOSのインストール、日本語環境など保護者の方の準備・協力が必要ですが、その方法も映像で詳しく解説しています。この講座を見れば、機械やコンピュータに詳しくない保護者の方でも、親子で電子工作に取り組むことができるようになります。キーワード：IoT，Raspberry Pi，ラズパイ，スクラッチ，ハードウェア", 
+    "end_date": null, 
+    "title": "【 IoT の最初の一歩！】ラズベリーパイで初めて学ぶ、プログラミングと電子回路の作り方", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/580678_4e55.jpg", 
+    "course_url": "https://www.udemy.com/iot_rasp/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-08-12T00:17:13Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Mio Kato, Misato Komano", 
+    "description": "本講座ではFusion360を使ったモデリングから、3Dプリントサービスの使い方まで自分が思い描いたアイデアを形にする方法について学びます。まずは講座に従ってシンプルなカップをご自分のパソコンでデザインしてみましょう。初心者でも簡単にモデリングすることができます。次にマイコンのサイズにぴったりあったケースも作成します。完成した3Dモデルは、お近くに3Dプリンターがない場合を考えて3Dプリントサービスで出力できますので、その方法をご説明します。本講座の内容は上記までですが、少し使い方に慣れてきたらカップやケースをカスタマイズして、ぜひオリジナルの雑貨をデザイン・プリントしてみてください。本講座では3Dプリントを3Dプリントサービス業者へ発注しますが、ファブラボでは実際に制作したデータを3Dプリンタでプリントすることができます。興味がある方はお近くのファブラボへ足を運んでみてください。", 
+    "end_date": null, 
+    "title": "Fusion360で学ぶ3Dモデリング | アイデアをカタチにするファブラボ鎌倉の授業", 
+    "price": "50.00", 
+    "topic_name": [
+      "3D & Animation"
+    ], 
+    "institution_name": null, 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/676274_5968_4.jpg", 
+    "course_url": "https://www.udemy.com/learn3dmodeling/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-11-21T08:04:41Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "村守 康", 
+    "description": "このコースはAdobe After Effects CC を基礎から学ぶための講座です。\n全編を手を動かして作品を制作しながら解説しているので、理論や機能を単独で学ぶ講座に比べ、飽きることがありません。\nひとつのセクションごとにひとつの作品を完成させるので、目標がはっきりし、達成感を感じながら進められるように構成されています。\nAfter Effects でプロ並みの作品をつくろう\n・学習に必要な素材はすべてコース内のページにありダウンロードして使えます\n・多くの作品を手を動かして作りながら学べます\n・すぐに自分の作品に応用できるテクニックを実例で使っています\n・定番のエフェクトや機能を使い特殊なテンプレートなどに頼らず基礎から学べます・入門用の簡単な作品からプロレベルの作品まで、学習段階に応じた難易度で無理がありません・ほぼすべての作品の完成したプロジェクトファイルを添付してあるので、設定で困ることはありません\nAfter Effects を基本からステップバイステップで学ぶコース\nAfter Effects は動画を扱うため、静止画を扱うPhotoshopやIllustratorとはちがった難しさがあります。このコースでは動画や3DなどAfter Effects独特の考え方に慣れるために多くの時間を割いています。このコースを終わると動画や3Dを多用するAfter Effectsの独特の思考と想像力が身につきます。\n\n学習内容\n７つのセクション、44本のビデオ、合計５時間の講座で集中して学べます\n最初は簡単なテクニックから徐々に高度なテクニックを使えるようにステップを踏んで進めます定番のエフェクトを使って、それを応用した作品を紹介しています最新のCC2015を使って解説していますAfter Effectsを使ってアイデアを形にできる力が身につきます", 
+    "end_date": null, 
+    "title": "After Effects  初歩からプロを目指そう　手を動かして楽しみながらクールな映像技術を学ぶ動画講座", 
+    "price": "30.00", 
+    "topic_name": [
+      "3D & Animation"
+    ], 
+    "institution_name": null, 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/786062_9a13_2.jpg", 
+    "course_url": "https://www.udemy.com/after-effects-b/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-08T11:57:40Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation, 阿部 和広", 
+    "description": "このコースは、小学生から中学生のお子さまが、世界で一番使われている子ども向けのプログラミング言語「スクラッチ」をゼロからはじめることができるコースです。このコースを受講すれば、ゲームや科学シミュレーション、楽曲作りのサンプルなどど「6つの作品づくり」を動画で学びながら実際に作っていくことができます。コースを終えるころには一人ひとりが自分のアイディアを、ゲームやアニメーションを使った物語、科学シミュレーション、といった形で表現できるようになります。自分の作ったものを、世界中のみんなに紹介することもできます。さらには世界中で作られたプロジェクト（作品）を使ったり、自分の工夫を追加して新しく公開していくこともできます！このコースでプログラミングの考え方から基礎が身につき、ものごとを論理的に考える力もつきます。将来の夢も広がることでしょう！※日経BP社『小学生からはじめるわくわくプログラミング』の内容をベースに、本の著者である阿部和広がコースを監修しています。本の中に登場するにゃたろ～、マスラーというキャラクターが登場いたします。（イラスト・キャラクターデザイン 石田 裕子）■監修者　阿部和広　略歴1987年より一貫してオブジェクト指向言語Smalltalkの研究開発に従事。パソコンの父として知られSmalltalkの開発者であるアラン・ケイ博士の指導を2001年から受ける。Squeak EtoysとScratchの日本語版を担当。近年は子供向け講習会を多数開催。OLPC($100 laptop)計画にも参加。2003年度IPA認定スーパークリエータ。著書に「小学生からはじめるわくわくプログラミング」(日経BP社)、共著に「ネットを支えるオープンソースソフトウェアの進化」(角川学芸出版)、監修に「作ることで学ぶ」(オライリー・ジャパン）など。 多摩美術大学研究員、東京学芸大学・武蔵大学非常勤講師、サイバー大学客員教授を経て、現在、青山学院大学・津田塾大学非常勤講師。文部科学省プログラミング学習に関する調査研究委員。", 
+    "end_date": null, 
+    "title": "動画でまなぶScratch 『小学生からはじめるわくわくプログラミング』", 
+    "price": "25.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/533924_1e7f_2.jpg", 
+    "course_url": "https://www.udemy.com/bc15_scratch_01/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-06-22T06:54:25Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation, Kaori Hashizume", 
+    "description": "■コースのご紹介無料のアプリ「ScratchJr」を使って、親子でプログラミングを楽しむコースです。このコースは、「基本的な使い方」をはじめ、「ブロックの使い方」、「ペイントエディタの使い方」、「キャラクターとページの追加方法」、「オリジナルのゲームの作成方法」、「オリジナルの動く物語絵本の作成方法」、「自分で作った作品の発表方法」まで、ScratchJrを幅広く学べるコースです。アイデアを思い浮かべて、その実現方法を考えながら、筋道を立てて考える力、実際に作り上げる力、周りの人と楽しむことを育みます。積み木やブロックのような感覚でデジタルツールを駆使し、親子で楽しみながらプログラミングが学べます。このコースが終了したら、ぜひ出来上がった作品をたくさんの人と見せ合って楽しみましょう。※日経BP社『5才からはじめるすくすくプログラミング』の内容をベースに、本の著者である橋爪香織氏本人が講師として、本の中に登場するにゃ〜こというキャラクターとともに登場します。（にゃ〜こイラスト・キャラクターデザイン 石田 裕子）【対象】未就学児や小学生のお子様と保護者の方が対象です。【使用することができる機材】iOS7.0以降のiPad （AppStoreより「ScratchJr」アプリをダウンロードしてください。）Android4.4以降のタブレット （GooglePlayより「ScratchJr」アプリをダウンロードしてください。）【何が学べるか】ScratchJrの基本的な使い方（プロジェクト作成・保存）ScratchJrのブロックの使い方（動き・見た目・スタート・音・制御・終了）ScratchJrのペイントエディタの使い方キャラターとページの追加の方法オリジナルのゲームの作成方法オリジナルの動く物語絵本の作成方法自分で作った作品の発表方法【カリキュラム】スクラッチジュニアとは　1 ScratchJrへ ようこそ　2 スクラッチジュニアとは　3 プロジェクトとは　4 プロジェクト画面じぶんだけのキャラクターをうごかせるようになろう　5 ねこを うごかそう①　6 ねこを うごかそう②　7 いっしょに やってみよう　8 キャラクターを かこう①　9 キャラクターを かこう②　10 キャラクターを かこう③　11 キャタクターを うごかそう　12 いっしょに やってみようなんでも たべよう　13 なんでも たべよう①　14 なんでも たべよう②　15 なんでも たべよう③　16 いっしょに やってみようジャンプゲームをつくろう　17 ジャンプゲームをつくろう①　18 ジャンプゲームをつくろう②　19 ジャンプゲームをつくろう③　20 ジャンプゲームをつくろう④　21 ジャンプゲームをつくろう⑤　22 ジャンプゲームをつくろう⑥　23 いっしょに やってみよううごく えほんを つくろう　24 うごく えほんを つくろう①　25 うごく えほんを つくろう②　26 うごく えほんを つくろう③　27 うごく えほんを つくろう④　28 うごく えほんを つくろう⑤　29 いっしょに やってみようじゆうに つくってみよう　30 じゆうに つくってみよう", 
+    "end_date": null, 
+    "title": "動画でまなぶScratch Jr『5才からはじめるすくすくプログラミング』", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/476738_3c5a_2.jpg", 
+    "course_url": "https://www.udemy.com/bc15_others_scratchjr_001/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-04-15T04:43:29Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "NTTデータ ユニバーシティ, NTTデータ 渡部 良一, NTTデータ 升田 真奈美, NTTデータ 福岡 将", 
+    "description": "この講座では、マウス操作で簡単にデータを視覚化できる、今最も注目されている分析ツール「Tableau（タブロー）」の、応用的な使い方をお伝えします。Tableauは、マウス操作で簡単にデータを視覚化できるツールであるだけでなく、使いこなしていくと他のツールなどでは実現できないような複雑な計算をシンプルな手順で実現できたり、標準では用意されていない様々なチャート表現を作成できたりと、非常に奥の深い、習得し甲斐のあるツールです。この応用編では基礎編で学習した機能のより高度な使い方や、高度な計算機能、および、基礎編で扱わなかったより多くの種類のチャートの表現などを学習します。私たちNTTデータは、米国発のこのツールにいち早く注目し、日本国内への展開初期からのパートナーとして、国内有数の有資格者をそろえ、多数のお客様のデータ分析をご支援して来ました。この講座では、私たちが多くの経験から培ってきたノウハウをつぎ込んで、ビジネスユーザの方が短期間でデータ分析を習得できるよう、Tableauの使い方を丁寧に解説します。", 
+    "end_date": null, 
+    "title": "Tableau（タブロー）で実践！ビジネスユーザのためのデータ集計・視覚化・分析　応用編", 
+    "price": "50.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/803368_e8d0.jpg", 
+    "course_url": "https://www.udemy.com/tableau-ntt2/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-25T01:49:50Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Eriko Kurosaki", 
+    "description": "「ネイルを簡単に楽しみたい」方から「ネイルサロンに行かなくても、自分でかわいいデザインが簡単にできるようになりたい」という方まで。カリスマ・ネイリスト　黒崎えり子　が実際にネイルスクールで講義をしている内容を、ご自宅で受講してみませんか。■「どこのネイルサロンでやったの？」とびっくりされるコツを身につけてみませんか。1日15分ずつでOK！　最短一週間で、ほめられるきちんとネイルに。約３分から１５分の短い動画で、ネイルの日々のお手入れからデザインのコツまで、少しずつプロ級の技術を簡単に身につけられます。Udemy専用学習アプリを使えば、通勤・通学途中やお部屋でのリラックスタイムに、スマートフォンで簡単に受講OK。プロの技術やネイル・デザインをぎゅっと凝縮した必見の2時間30分です。■デザインのバリエーションに応じた２シリーズ構成「キュート＆ポップ編」「上品＆エレガント編」の2シリーズ構成で本講座では「キュートに見せるかわいいネイルアート」を学んでいきます。ネイル技術の基礎部分に当たる、セクション1～セクション5（約30分）は、2つの講座で共通の内容です。ネイルアートを紹介するセクション6は、プロの技術とデザインが凝縮された5つのキュート＆ポップなアートバリエーションを、7つのレクチャーを通してレベルアップしながら簡単に学ぶ構成になっています。", 
+    "end_date": null, 
+    "title": "ネイルは初めて。簡単に楽しく学びたい！❤　by 黒崎えり子　キュート編", 
+    "price": "40.00", 
+    "topic_name": [
+      "Beauty & Makeup"
+    ], 
+    "institution_name": null, 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/645402_cb41_8.jpg", 
+    "course_url": "https://www.udemy.com/eriko_nail_cute/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Lifestyle"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-10-20T01:44:20Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "井上 博樹 (Hiroki Inoue)", 
+    "description": "ネット上に、授業や研修のページを作成するMoodleというソフトウェアについて学びます。Moodleは世界でトップシェアの学習プラットフォームです。オープンソースで配布されているため、無料で導入したり、デザインや機能をカスタマイズしたりできます。この講座では、ネット上に授業のページを開設して、生徒の予習や復習をサポートしたい反転授業にチャレンジしてみたいオンライン講座を制作して、販売したいという方々のために、短期間にMoodleを使いこなし、授業や講座のページを自分で作って、運用できるようになることを目指して作りました。＊ただし、公開サーバを運用するには、別途専用サーバかクラウドサービスの利用が必要になります。＊コース作成の練習用環境を用意する予定です。", 
+    "end_date": null, 
+    "title": "【プログラミング不要！】1日でマスターするMoodle入門", 
+    "price": "25.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/657532_63f6_5.jpg", 
+    "course_url": "https://www.udemy.com/1daymoodle/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-11-02T06:38:54Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Haamalu Limited Liability Company", 
+    "description": "このコースは「商品紹介デモ動画」を作るプロセスを通して、Adobe Creative Cloudのスキルを身につけることを目的としています。具体的にはAfter Effects, Premiere Pro、Photoshop、Illustrator、Auditionの使い方を勉強しますスキルの。このコースでは、スキルの習得を最終的なゴールとせず、スキルを使って\"食っていけること\"をゴールにしています。Adobeスキルの習得がインプットであるならば、商品紹介デモ動画の制作はアウトプットです。「Adobeのスキルがあります」と言っても飯を食うことはできませんが、「商品紹介デモ動画を作ることができます」と言えれば飯を食うことができます。職業的にAdobeスキルを身につけたい人のための講座なので、趣味や特技としてAdobeスキルを身につけたい人には向いていません。", 
+    "end_date": null, 
+    "title": "食いっぱぐれないアニメーター：Adobe Creative Cloudを使ってクールな「商品紹介デモ動画」を作る方法", 
+    "price": "20.00", 
+    "topic_name": [
+      "3D & Animation"
+    ], 
+    "institution_name": null, 
+    "commitment": "9.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/627758_be5f.jpg", 
+    "course_url": "https://www.udemy.com/adobe-creative-cloud/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-10-01T07:45:25Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "クラウドナインアップス 小松 信介", 
+    "description": "いつでもどこでもiPhoneアプリ開発に必要な事前準備や心得を学ぶことができます。中学生からシニアまでを対象とした講座です。【コースのご紹介】　本コースは、Macを触ったことがない方、プログラミングを一度もしたことのない方向けのこれからiPhoneアプリ開発をしていく際に必要なことを学ぶためのコースです。そのため、必要な準備にMacも必要ありません。インターネット環境に繋がるスマートフォンがあれば受講して頂くことができます。\n　私は、アプリ開発スクールで講師をしております。iPhoneアプリ開発を学ぼうとする方からの質問で最も多いのが、「開発を始めるに当って、何を用意してどのような事前準備が必要なの？」になります。　このような質問に答えるために作成した講座が本講座となります。　本講座を受講してアプリ開発に必要な準備を学べば、専門のプログラミングスクールに通ったり、書籍や他のiPhoneアプリ開発コースを受講してさらに理解を深めていく事前準備を整えることができます。\n【受講対象者】想定している受講対象者は次のとおりとなります。これからiPhoneアプリ開発を学んでいきたいが、一体何から手をつけていけばいいかわからない方アプリを開発して起業・副業・お小遣い稼ぎをしたい主婦、OL、サラリーマンの方アプリを開発して就職に活かしたい学生の方中学生から大学生の間にプログラミングを学び、将来の選択肢を広げたい学生の方アプリ開発に関わる営業マンやベンチャー起業家など、実際は外部にアプリ開発を発注する予定だが、基礎を知り見積り制度を高めたい方【コース概要】はじめにiPhoneアプリ開発について開発に必要な機材と環境開発に必要なアプリケーション開発を始める前に事前に読んでおくべき（知っておくべき）ドキュメント／サイトの紹介開発の際に必要となるMacの操作についておわりに", 
+    "end_date": null, 
+    "title": "【３０分でわかる】iPhoneアプリを作りたいが一体何から手をつければいいのかわからない方向け講座", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/665424_4ad8.jpg", 
+    "course_url": "https://www.udemy.com/iphone01/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-11-10T02:36:20Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "片岡義雄 Yoshio Kataoka", 
+    "description": "初めてねりきりを作ってみたい、どうせやるなら本格的に始めたい、と思う人のための練切作りのコースです。ねりきりとはどういうものなのかを知っていただくために、ねりきりの材料、種類、お茶との関係、上生菓子としてのねりきりなど、ねりきりの持つ魅力や価値についても簡単にわかりやすくお伝えしています。また、実際にねりきり菓子を作るのに必要な材料、道具、色素、包材についてもお伝えしていますので、何もない状態からあなた好みの道具、色素などを揃える（カスタマイズ）ことができます。また、必ずうまくできるねりきり餡の作り方やプロ仕様の色つけ方法、ねりきり基本技法など、ネットやレシピ本を見て「これでいいのかなあ？」と首を傾げながらねりきり菓子を作っている人には是非見ていただきたいコースです。", 
+    "end_date": null, 
+    "title": "初めてのねりきり（基礎編）", 
+    "price": "25.00", 
+    "topic_name": [
+      "Arts & Crafts"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/832154_b27e_6.jpg", 
+    "course_url": "https://www.udemy.com/vnuxjbmq/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Lifestyle"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-04-26T08:03:05Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Mr.wakui 涌井晃 wakui", 
+    "description": "この講座は、ハリウッド映画の登場キャラクターの\nデザインや造形で活躍している「ZBrush」(ズィーブラッシュ)\nという3DCGモデリングのソフトを使って、誰でも３DCGモデリングができて、さらに3Dプリントが出来るようになることを目的に構成しています。\nハリウッド映画やゲームのキャラクターデザイン、フィギュアやおもちゃの原型の業界では、すでにスタンダードになっているこのZBrushは、プロフェッショナルレベルのかなり高度な３DCGを作ることも可能ですが、この初級講座の中ではあえて使用するツールを少数に絞り込むことで、ZBrushの面白みをお伝えする内容になっていますから、３DCG初心者のかた向けの内容です。\n実際のフィギュアを作りたいけど、場所や道具を揃えることができなくてもこのソフトで３Dデータさえ作ることができれば、いまでは３Dプリントサービスにデータをアップロードすれば数日後には手元にオリジナルデザインのフィギュアが届きますし、ZBrushの\n腕を磨き、英語を学ぶことでハリウッド映画の仕事をしている日本人の方もいらっしゃいます。日本国内の大手ゲームソフト開発企業の多くもZBrushを導入してゲームのリアリティーや臨場感のある表現を実現しています。\nそんなZBrushという多くの可能性を秘めたエキサイティングなソフトを楽しみ、３DCGモデリングの世界へ足を踏み出してみませんか？", 
+    "end_date": null, 
+    "title": "だれでもできる！ZBrushで３DCG　基礎講座1", 
+    "price": "30.00", 
+    "topic_name": [
+      "3D & Animation"
+    ], 
+    "institution_name": null, 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/758440_cea9.jpg", 
+    "course_url": "https://www.udemy.com/zbrush3dcg-1/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-02-10T14:29:54Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "新宮まり子 Mariko Shinguu", 
+    "description": "  子育てに迷いや悩みを抱えておられるあなたに贈る珠玉の一点です！「ダイヤモンド発見！・・・」ダイヤモンドは、あなたご自身です。お母さまのあなたが輝くことによって、あなたのお子様が幸せになります。御主人も幸せになります。お母さまが輝くことにより、家族の全てが変わります！このコースの扉には、≪英語≫の文字が掲げられてはいますが、このコースを通じて子育て全般についての考え方が一変します。子育てが、どんなに楽しいかを実感していただける様になります。さらに、このコースの途中で疑問に思えたり、悩み事が生れたり、モヤモヤしてきたら、すぐにでもご相談下さい。・・・ていねいに、そして誠実にお応え致します。私は、本当はお子様の味方です。その為に、お母さまに輝いて頂く事を考えました。お母さまが輝くことで、家族皆が輝きます。「英検」の具体的な情報も満載です。その他、早期教育や費用についても触れて参ります。お母さまが、生き生きと輝いて頂く為に、何から始めたらよいのか？親が気を付けなければならない事柄についても触れて参ります。疑問・質問をどしどしぶつけて下さい。「ダイヤモンド発見！お母さまが輝くわくわく子育て塾≪英語編≫」にてあなたとお会いできることを楽しみにしております。セクション１：現状把握編レクチャー１：「わくわく子育て」の世界へようこそ！≪もくじ≫：３分36秒レクチャー２：文科省の方向性 ：６分48秒　　　レクチャー３：諸外国の英語教育 ：８分52秒セクション２：子育て編レクチャー４：英語教育のスタートは？　：10分22秒レクチャー５：早期教育について思うこと　：９分55秒レクチャー６：親が気を付けること  ：12分 28秒　　　　　　　　　　　　セクション３：情報収集編　　　　　　　　　　　　　　　　レクチャー７：英検の種類  ：８分19秒レクチャー８：気になる費用？ ：４分21秒レクチャー９：その他おまけ ：３分34秒　　　　　　　　　　　　　　　　                                                                   総計：68分15秒 ", 
+    "end_date": null, 
+    "title": "ダイヤモンド発見！お母さまが輝くわくわく子育て塾　英語編", 
+    "price": "50.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/783880_c81d_2.jpg", 
+    "course_url": "https://www.udemy.com/ekwsfbvt/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Test Prep"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-06T10:11:28Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "誠 寒川井", 
+    "description": "講座や授業において、いくら一生懸命伝えようとしても、インプットだけの内容では学びは５０％までしか進みません。学びはインプットとアウトプットで１セットです。アウトプットの方法には、ディスカッションしてもらうワークショップなど体験をしてもらう教える立場になってもらうなどといった方法があります。アウトプットに大切なツールの１つが「発問」です。教科書やテキストに答えが載っていない問いかけ。いわば、正解のない質問です。上手な発問をつくることができれば、授業の中で子どもたちはアクティブに学びを始めます。発問は学校の先生のためのものだけではありません。セミナー講師にとっての最強のツールでもあるのです。しかし、発問を学ぶ場というものは多くありません。私自身も発問を学ぶために、大変苦労した経験があります。この度は、魔法の質問メソッドをベースとした発問のつくり方を、まずは型を紹介するという形で学んでいただきます。型はすべてで２０種類。まずは型を学び、習得を進めると応用がきくようになってきます。オリジナルの切り口で発問をつくることができるようになるわけです。コミュニケーションでも活用できる質問力でもあります。", 
+    "end_date": null, 
+    "title": "学びを加速させる発問のつくり方", 
+    "price": "50.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/821770_4c2f.jpg", 
+    "course_url": "https://www.udemy.com/hatsumon-tsukuru/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Teacher Training"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-04-14T08:05:02Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation kids&family group", 
+    "description": "■本コースについて【基礎編】代表的な魚の切り身を用いて、「生」「焼」「揚」「煮」の調理の仕組みと調味料の合わせ方を理解することができます。「下処理」と「保存」という最も魚料理でネックになる要素を正しく理解することで、魚料理の６つのハードル（臭い、ゴミ、手間、骨、レパートリー、割高）を乗り越え、４つの欲求（時短、おいしさ、財布、栄養バランス）を満たす魚料理への知恵と姿勢を学びます。度々メディアでも取り上げられる魚の伝道師「ウエカツ」先生の軽快なテンポの話と手さばきに釘付け！今日からすぐにご家庭で実践的できる講座を目指します。【応用編】魚を一匹丸ごと自分でさばいて、食卓を彩れるようになるを目的に、代表的な魚のさばき方のポイントとコツを徹底解説。扱う魚は、「いわし」「あじ」「さんま」「鯖」「鯛」。これらを応用すれば、ほとんどの魚は自分でさばけるようになります。さばきたてが美味しい魚が食べられるのはもちろん、一匹の魚を無駄なく使って、汁物、メインなど自由に考えられるようになることで、安価で、栄養価の高い健康的な食卓を作ることができます。■講師－上田勝彦                          漁師から水産省勤務２０年という異色のキャリア後、現在は日本の家庭とさかなの産地をつなぎなおす役目を担い、さかなの相談とあらば全国漁場から学校で子どもたちへの食育まで行っている。料理をレシピではなく、しくみで理解するという方法で、家庭でカンタンに実践できるさかな料理が人気。NHK「あさイチ」「うまい！」、ＴＶ朝日「林修の今でしょ講座」等多数出演。著書に「ウエカツの目からウロコの魚料理」（東京書籍）がある。", 
+    "end_date": null, 
+    "title": "魚の伝道師！ウエカツの目からウロコのさかな塾　まとめパック（基礎編・応用編）", 
+    "price": "50.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/626442_ce3f.jpg", 
+    "course_url": "https://www.udemy.com/bckf15-sakana-003/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Personal Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-09-29T23:27:20Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "平井 和美", 
+    "description": "すき間時間に１分からできる、とても簡単な筋肉トレーニングです。ボディの筋肉を鍛えるのが特徴で、体の筋肉を動かすだけなのに、なんとたるんだフェイスラインがきゅっとリフトアップされ、ほうれい線が浅くなります。肩こりやぽっこりお腹の解消にも効果があります。ボディの筋肉にアプローチすることから、一般的な表情筋トレーニングにつきものの、顔の筋肉を動かすことによる美容リスクもありません。簡単な体操ですが、正しいポーズで行わないと、違う筋肉を使ってしまうことがあります。この講座では、効果的に行えるように、なぜ効果があるのか納得したうえで、運動のコツや注意点を学べます。リフトアップ筋トレは、一度でもやってみると、体に効くのを実感できます。元々の筋肉の強さなどにより多少の差はありますが、１〜２週間でリフトアップされるのがわかります。すき間時間を有効利用できることで充実感も生まれ、鏡を見るたびに嬉しくなります。この講座を身につけたあなたは、生き生きとした毎日を送ることができます。リフトアップして、10年時間を巻き戻し、身も心も軽くなったあなたは、10年分蓄積した人間力、女性としての魅力を持ち、10年前にできなかったことを楽しむことができます。", 
+    "end_date": null, 
+    "title": "気になるお顔のたるみがキュッ！ 「１分からできるリフトアップ筋トレ」", 
+    "price": "25.00", 
+    "topic_name": [
+      "Beauty & Makeup"
+    ], 
+    "institution_name": null, 
+    "commitment": "30 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/767184_20b8_3.jpg", 
+    "course_url": "https://www.udemy.com/liftup-kintore/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Lifestyle"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-02-19T02:01:34Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "合同会社 T＆P", 
+    "description": "ホームページ作成初心者の方でも、たった60分でプロ並み＆スマートフォン対応も可能なホームページやブログを作成できるようになる講座です。本講座をマスターすることで、・プロ並みのホームページを自分のチカラでつくれるようになります。・デザインを変えることで、ランディングページをつくることが出来ます。・プラグインを活用することで、問い合わせフォームやFacebookのいいねボタンなど　簡単に設置できるようになります。・常に新しいデザインやプラグインが登場していますので、　時代に対応したメディアを創り上げることが出来ます。・メールマガジンの登録フォームなどを作成し、　見込み客を集めるツールとしても活用できます。・自分が他の人のホームページ作成代行やブログの作成代行業を行い　副業としてビジネスを構築することも可能です。まだ、アメブロなどの無料ブログ作成サイトや無料で広告入りのホームページ作成サイトでいつ消されるか分からないリスクでサイト作成してませんか？WordPressの魅力は、誰でも簡単に、オリジナルのブログやホームページを作成自由にカスタマイズできることだけでなく、アカウント削除というリスクを排除できる素晴らしいツールです。世界中で利用されているWordPressこの機会にあなたのチカラで作ってみませんか？1度作り方を覚えるだけで、いくつものサイトを簡単につくれるようになります。※なお、本コンテンツは2014年に発売したDVDの内容と同じ内容です。", 
+    "end_date": null, 
+    "title": "たった60分でプロ並みのホームページができるWordPress作成初級講座", 
+    "price": 0, 
+    "topic_name": [
+      "Media"
+    ], 
+    "institution_name": null, 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/651278_9bbc_3.jpg", 
+    "course_url": "https://www.udemy.com/wordpress-beginner/", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-10-26T14:37:34Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "清野克行 清野", 
+    "description": "データベースとしてMySQLを使用して、SQL言語について学んでいきます。 受講対象者 １．SQL言語に初めて挑戦する方 ２．SQLを実際の仕事に役立てたい方。 コースの構成 このコースでは、MySQLを自分のPCにインストールして、データベースとテーブルの作成およびまとまったデータの登録などから、SQL文を使用した様々な検索方式を学びます。更にその後、ECサイト（電子商取引サイト）を例にとって、実際の業務システム用にテーブルを作成して検索を行うなど、実務に直結したSQLの利用方法も学ぶことができます。 　コースではSQL文の解説を行う度に、その内容を実際にコマンドを入力して実行していきますので、SQLの機能を画面から確認しながら進めることができます。", 
+    "end_date": null, 
+    "title": "初学者向けSQL", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "6.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/653400_bebc_3.jpg", 
+    "course_url": "https://www.udemy.com/sql_for_beginners/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-10-28T13:09:30Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "ボイラー技士は、建物の空気調節を管理したり、工場などで蒸気を供給するボイラーを取り扱う技術者です。2級ボイラー技師は、主に、ビルやマンション、病院や学校など、冷暖房を使用している建物の空気調節を管理する事が多いようです。この講座は、2級ボイラー技師資格試験の受験を検討されている方を、試験合格に導くための講座です。多彩な場所で活躍できるボイラー技士ボイラー技士は、年齢・経験不問の狙い目資格です。日本全国に活躍の場があり、中高年の求人も多数存在。定年後の就職・転職対策におすすめです！知識ゼロからスムーズに合格レベルに到達！わかりやすい動画中心の講座なので、ボイラーの知識がまったくなくても安心です。心配な方は、お試し無料プレビューで教材を試してみてください。", 
+    "end_date": null, 
+    "title": "2級ボイラー技士試験に8時間で合格する講座", 
+    "price": "30.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "8.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/737518_5c52.jpg", 
+    "course_url": "https://www.udemy.com/2_boiler/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Test Prep"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-01-22T04:13:57Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation kids&family group", 
+    "description": "■本コースについて代表的な魚の切り身を用いて、「生」「焼」「揚」「煮」の調理の仕組みと調味料の合わせ方を理解することができます。「下処理」と「保存」という最も魚料理でネックになる要素を正しく理解することで、魚料理の６つのハードル（臭い、ゴミ、手間、骨、レパートリー、割高）を乗り越え、４つの欲求（時短、おいしさ、財布、栄養バランス）を満たす魚料理への知恵と姿勢を学びます。度々メディアでも取り上げられる魚の伝道師「ウエカツ」先生の軽快なテンポの話と手さばきに釘付け！今日からすぐにご家庭で実践的できる講座を目指します。■講師－上田勝彦                          漁師から水産省勤務２０年という異色のキャリア後、現在は日本の家庭とさかなの産地をつなぎなおす役目を担い、さかなの相談とあらば全国漁場から学校で子どもたちへの食育まで行っている。料理をレシピではなく、しくみで理解するという方法で、家庭でカンタンに実践できるさかな料理が人気。NHK「あさイチ」「うまい！」、ＴＶ朝日「林修の今でしょ講座」等多数出演。著書に「ウエカツの目からウロコの魚料理」（東京書籍）がある。", 
+    "end_date": null, 
+    "title": "魚の伝道師！ウエカツの目からウロコのさかな塾（基礎編）", 
+    "price": "30.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/626412_2521.jpg", 
+    "course_url": "https://www.udemy.com/bckf15-sakana-001/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Personal Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-09-29T22:58:58Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "片岡義雄 Yoshio Kataoka", 
+    "description": "季節のねりきり菓子１２個（１月〜１２月）の作り方をご紹介。動画を見ながら実際に作ってみることで、楽しみながらねりきり作りの基礎を身につけることができます！\n各月毎のお菓子作りで学ぶ技法は以下のようになります。\n＜菓名＞　　　　　＜使用する技法＞\n１月（松の雪）　ー 色つけ、きんとんの植え付け方２月（小梅）　　 ー 色つけ、包餡あん、まん丸く成形、三角ベラ・丸棒の使い方３月（春の山）　ー 包餡、布巾絞り（「山」の作り方）４月（乙女桜）　ー 包餡、もみあげ、花びらの起こし方（桜編）５月（花菖蒲）　ー 張りぼかし、包餡、もみあげ、布巾絞り（「花芯」の作り方）６月（四葩の花）ーぼかし、包餡、もみあげ、花びらの起こし方７月（芙蓉）　　 ー 色つけ、包餡、空洞の作り方８月（朝顔）　　 ー 色つけ、包餡、星形の作り方、布巾絞り（朝顔編）、シベ、グラス絞り９月（桔梗）　　 ー 色つけ、包餡、包みぼかし、もみあげ、花びらの起こし方１０月（姫菊）　ー 色つけ、包みぼかし、包餡、三角ベラの使い方、菊のシベつけ１１月（紅葉）　ー 色つけ、張りぼかし、もみあげ、葉脈の入れ方１２月（山茶花）ー色つけ、包みぼかし、包餡、もみあげ、布巾絞り、シベのつけ方\n", 
+    "end_date": null, 
+    "title": "初めてのねりきり（実践編）", 
+    "price": "30.00", 
+    "topic_name": [
+      "Arts & Crafts"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/883092_a17d_4.jpg", 
+    "course_url": "https://www.udemy.com/ixobszts/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Lifestyle"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-06-20T11:44:30Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社ブレインパッド BrainPad Inc.", 
+    "description": "本コースは分析・データ活用による問題解決実践を目指す初心者向けのコースです。すべてのビジネスに新しい価値が求められる時代に、データから価値を創出し、ビジネスの課題に答えを出すプロフェッショナル、それがデータサイエンティストという新しい職種です。アメリカの調査会社ガートナー社の試算では、将来的に国内だけで約25万人のデータサイエンティストが不足とすると予測しています。まさに大きなチャンスが目の前にあります。データサイエンティストには、3つのスキルセットが求められます。それはビジネス力・データサイエンス力・データエンジニアリング力の3つ。ビジネスの課題を発見し、データの処理・分析を通じて仮説を検証し、結論を導き出すことができるスキルです。この講座では、だれでも無料で使えるBIツールである、マイクロソフトの「Power BI」を利用して、データサイエンティストが行う「PPDACサイクル」をケーススタディ方式で学ぶことで、難しい統計や、ツールの詳細な使い方を学習する前に、データサイエンスの全体像をつかむことができます。", 
+    "end_date": null, 
+    "title": "Power BIで学ぶ、データサイエンティストの\u000b分析プロセス入門", 
+    "price": "50.00", 
+    "topic_name": [
+      "Data & Analytics"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/780746_cb45_2.jpg", 
+    "course_url": "https://www.udemy.com/power-bi/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-03T04:49:37Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "家子 史穂", 
+    "description": "＼スマートフォンだけ、カメラとPCでの、動画制作と活用方法が習得できる／\nスマートフォンの普及によって、動画に触れる機会が年々増加し、動画は当たり前に日常に存在するツールになりました。今や動画はプロのものではなく、わたしたち個人が気軽に発信し視聴できるものになっています。\n一方で写真と比べると、動画は撮影や編集の手間がかかり「難しそう」というイメージが先行してなかなか一歩が踏み出せないという人も少なくありません。そこで、この講座では\n「動画を使った発信がしたいけど、やり方がわからない」「限られた予算で効果が高い、動画を使ったマーケティング方法が知りたい」「イベント集客やブランド価値を高めるために動画を使ってみたい」「個人のキャリアアップにつながる動画活用方法を身に付けたい」\nという動画初心者の方にむけて、手間をかけず、無料や低コストなツールをうまく使った動画撮影・編集の方法など、動画の基本を学ぶことができる内容になっています。\n★内容Chapter1_事例・知識編動画の効果的な活用方法の紹介や最新の動画マーケティングの事例を学ぶパートです。また、ECサイト運営/イベント集客/お店のファンを増やす/企業・団体のPR/フリーランスのキャリアアップなど、業態や目的に合わせて、自作のオリジナル動画を制作しビジネスに活用している人・企業の具体的な事例を紹介。それぞれの業態にはどんな動画を作ることが効果的かを知ることができます。\nChapter2_実践編動画づくりで誰もがつまずきやすい「ストーリーやシナリオの立て方」のコツ動画撮影のためのカメラ選びのコツおすすめの撮影ツールや無料アプリの紹介といったことから撮影の注意点、スマートフォンやPCを用いた動画編集の方法まで実践的に学ぶことができるパートです。講座を修了したその日から、お持ちのスマートフォンあるいはカメラひとつで動画制作ができるようになることを目指します。\n\n★講師はベストセラー本「仕事に使える動画術」の著者著者は”動画はプロやYouTuberなどの特殊な人がつくるもの”という風潮に対して「初心者でも動画をビジネスに活かすことができる」ための事例と方法を提示した『仕事に使える動画術』（翔泳社）を上梓。Amazonのカテゴリーランキング１位を獲得し、ベストセラーになりました。この本のエッセンスを凝縮し、さらに最新の情報やナレッジを詰め込み、動画で分かりやすく解説したのが今回の講座になります。巷には広告制作会社、あるいは動画制作会社などが提供する動画マーケティングや動画制作の講座は多いですが、その多くは予算のある企業にむけた概論的なマーケティング活用方法がほとんどです。そのような講座とは一線を画した、「知識や予算がない個人でも、時間や手間をかけずに動画をつくり仕事に活かす方法とは？」を追求してきた講師だからこそお伝えできるノウハウがたっぷり詰まっています。\n\n", 
+    "end_date": null, 
+    "title": "ゼロから始める！動画マーケティングとオリジナル動画作成法   | 低コスト・手間なく始める入門講座 | スマホ動画でOK", 
+    "price": "40.00", 
+    "topic_name": [
+      "Video & Mobile Marketing"
+    ], 
+    "institution_name": null, 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/853848_41c8.jpg", 
+    "course_url": "https://www.udemy.com/howtomakemovies/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Marketing"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-05-19T08:51:25Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation kids&family group", 
+    "description": "■本コースについて：食育テーマの中でも、特にニーズが高く、食育の基本ともいえる、子どもの苦手食材克服について実践的に学べる講座。子どもが嫌いがちな食材別に展開し、今すぐ役立つレシピや調理法の工夫を満載し、映像でわかりやすくお届けします。実際に困っている親はもちろん、子ども向けのメニュー開発などをしている人にも役立つ内容です。■講師－－祐成二葉氏略歴：ドイツ国立マイスター校卒業。５年間のヨーロッパ留学を経て、1988年、祐成陽子クッキングアートセミナー「フードコーディネーター養成講座」メイン講師に就任。テレビや雑誌などで、料理やお菓子制作、テーブルコーティネートを数多く手がけ、高い評価を得ている。今までに出版した著書は、全部で55冊。（2011年現在）。初心者向けの基本の料理レシピから、プロ向けのケーキデザインまでと幅広い。2008年に長男を出産。子供向けの本などで離乳食や様々なグッズなどを提案し、独自のKIDSstyleを築き、好評を得ている。 ", 
+    "end_date": null, 
+    "title": "おうちで食育講座～子どもが完食！苦手食材克服レッスン～", 
+    "price": "20.00", 
+    "topic_name": [
+      "Parenting & Relationships"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/555986_65fd_2.jpg", 
+    "course_url": "https://www.udemy.com/bckf15-shokuiku-001/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Personal Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-07-16T04:32:21Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Eriko Kurosaki", 
+    "description": "黒崎えり子ネイルビューティカレッジの黒崎えり子が提供する公式オンライン講座がUdemyで初公開「サロンに行かなくても、自分で素敵なセルフネイルができるようになりたい」方から「いつかネイリストを目指したい」という方まで。カリスマネイリスト・黒崎えり子が実際にネイルスクールで講義をしている内容を、ご自宅で受講してみませんか。プロの技術をぎゅっと凝縮した必見の2時間30分です。■1日15分ずつでOK！　最短一週間で、ほめられるきちんとネイルに約３分から１５分の短い動画で、日々のお手入れからネイルアートのコツまで、少しずつプロ級の技術を身につけられます。Udemy専用学習アプリを使えば、通勤・通学途中やお部屋でのリラックスタイムに、スマートフォンでらくらく受講OK。「どこのネイルサロンでやったの？」とびっくりされるコツを身につけてみませんか。■TPOにあわせた２シリーズ構成「キュート＆ポップ編」「上品＆エレガント編」の2シリーズ構成で本講座では「上品＆エレガントに見せるネイルアート」を学んでいきます。ネイル技術の基礎部分となる最初の30分の内容(セクション１～セクション５）は2つの講座で共通の内容です。メインとなるセクション６は、プロの技術が凝縮された5つのエレガントなアートバリエーションを、7つのレクチャーを通してレベルアップしながら学ぶ構成で、約2時間の動画となっています。職場でもOKなきちんとネイルを身につけたいかたにおすすめします！", 
+    "end_date": null, 
+    "title": "プロのテクニックをマスター！エレガントに変身　❤　 セルフネイル　エレガント編", 
+    "price": "40.00", 
+    "topic_name": [
+      "Beauty & Makeup"
+    ], 
+    "institution_name": null, 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/644504_3e84_7.jpg", 
+    "course_url": "https://www.udemy.com/eriko_nail_elegant/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Lifestyle"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-10-19T08:03:15Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "中島 俊治", 
+    "description": "2014年10月にHTMLは５回目の大幅な改定が行われ、HTML5となりました。HTML5は従来のホームページを作るものからWebアプリケーションへと進化し、ゲームやユーティリティが簡単に作成できるようになりました。HTML5には、マークアップのタグはもちろん、デザインのCSS3、プログラムのJavaScript、さらにはいろいろな機能を提供してくれるAPIなど様々な仕様の集合体です。このコースでは、HTML5の最大の立役者である「描画の機能」の「canvas」に焦点を当て、「canvasでどのようなことができるか」を実際のコーディングを交えてご紹介します。この授業をきっかけに更に深くHTML5アプリケーションに興味を持っていただき、今後に開設するコースにも参加していただき、Webアプリケーションを皆さんが自由に作れるようになっていただければ幸いです。", 
+    "end_date": null, 
+    "title": "ホームページに絵を描き、アニメーションする「canvas」入門", 
+    "price": "25.00", 
+    "topic_name": [
+      "3D & Animation"
+    ], 
+    "institution_name": null, 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/662686_f973_2.jpg", 
+    "course_url": "https://www.udemy.com/canvasbeginning/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-11-07T04:12:27Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation, 朝日新聞社", 
+    "description": "テレビ局、新聞社、出版社、ラジオ局、\bウエブメディア会社など、マスコミ業界への就職を目指しているあなた、業界への憧れはあるけれど実際どういう仕事をするのか、どこから準備を始めれば良いか迷ってはいませんか？この講座では実際新聞社で働く講師によるマスコミ業界への基礎知識から内定には欠かせない時事問題、作文・小論文、ES・面接、時事英語対策法についてまとめて学ぶことができます。このコースひとつでもやっとしていたあなたのイメージ図がだいぶクリアになることでしょう。もしマスコミ就職に少しでも興味をお持ちなら、ぜひこの講座で夢を具体化してください。そして、マスコミ業界を目指していない方にも、この講座をお勧めします。新聞をどうやって読めば自分の思考力が向上するのか。作文をする際に気をつけるべきことは何か。他の人に自分を上手に伝えるためのコツは？など、高校生から大学生、社会人を始めたばかりの新人の方々の教養にも必ず役立つ構成になっています。今すぐ登録して、人生に役立つコツを身につけませんか？Udemyのポリシーにより、ご受講頂いて満足できない場合は３０日間返金保証を行っていますので、迷わず、今すぐ学び始めましょう。", 
+    "end_date": null, 
+    "title": "マスコミ内定に近づく３０のコツ Presented by 朝日新聞", 
+    "price": "40.00", 
+    "topic_name": [
+      "Media"
+    ], 
+    "institution_name": null, 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/656936_4d07_2.jpg", 
+    "course_url": "https://www.udemy.com/masscommunication/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-11-01T12:59:30Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "松村 恵", 
+    "description": "このコースは主に星空観察の初心者に向けて作られたものです。季節ごとの星座の見つけ方を知り、さらに明るい星の名前、大三角などの形、各季節の星雲・星団が理解できるようになります。また、流星群など主な天文現象を知り、星座探し以外の星空を見上げる楽しさも持てるようになります。コースは各季節ごとにセクション化されており、自分が好きな季節から始めることができます。ほとんどがパワーポイントを使った５～１０分程度のビデオ講義ですので、内容が理解しやすく、気軽にどこで見ることができます。", 
+    "end_date": null, 
+    "title": "現役プラネタリウム解説員が教える、星座に隠されたストーリーと季節ごとの星座の見つけ方", 
+    "price": "25.00", 
+    "topic_name": [
+      "Math & Science"
+    ], 
+    "institution_name": null, 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/740544_1a1a.jpg", 
+    "course_url": "https://www.udemy.com/opqexsuc/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Academics"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-01-25T03:05:11Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "西村 由加利", 
+    "description": "近年、子供のプログラミング教育が注目されています。世界的には、ITの発展に伴う人材育成などのために、すでにプログラミング学習が義務化している国もいくつかあり、日本でも義務教育への導入が検討され始めています。 プログラミング知識そのものの習得以外に、プログラミング学習には、創造力、問題解決能力、協調性などが育成される効果も期待されています。 ところで、これまでプログラミングに直接関わる必要があったお母様やお父様、そして、学校の先生は、それほど多くはいらっしゃらないのではと思います。プログラミングとはほとんど無縁だった皆様は、きっと、こんなふうに思っているのではないでしょうか。 「プログラミングって、具体的に、どんなもの？？？」 このコースを受講したお母様やお父様は、プログラミングとは何かを理解した上でお子様のプログラミング教育の方針を検討できます。さらに、その検討によってお子様にプログラミング教育を受けさせることに決めて学習対象となるプログラミング言語にScratch（スクラッチ）を選んだなら、このコースを受講したお母様やお父様は家のPCに予習復習用の環境を用意することができ、さらに、お子様の疑問を一緒に調べることができます。 また、このコースはオンライン講座なので、忙しい学校の先生でも仕事の合間にご自身のペースで受講を進められ、通常の教務や校務を行ないながらプログラミング教育の準備を始めることができます。 このコースでは無償の子供向けプログラミング言語Scratchの  PCへの設定方法 基本事項と簡単なプログラミング コミュニティーサイト上の情報閲覧、作品発表・討論の場などの利用方法  の３つを学習します。 このコースは、身近な子供たちのプログラミング教育を検討したり支援したりするための道具としてお使いいただくために作りました。したがって、プログラミング学習が目的の方の場合は、大人なら物足りず、子供ならプログラミング以外の要素が多過ぎると感じると思います。 今回このコースで扱うScratchは、マサチューセッツ工科大学（MIT）で8歳から16歳の子供のIT教育導入用に開発された無償のプログラミング言語ですが、大人でも子供でも誰でも使用を許可されていて、商用でも使用できます。米国の名門大学のコンピューターサイエンスの導入教育の言語などとしても使用されています。40以上の言語で150以上の国の人々から使用されていて、ユーザー登録数もすでに1千万人を超えている非常にポピュラーなプログラミング言語です。Scratchには子供の好奇心をそそる、可愛いくかっこいい組み込みのアイテムが豊富にあり、また、Scratchではドラッグアンドドロップ中心の簡単な操作でプログラミングができるので、あっというまに楽しくアニメーションのプログラムができ上がります。実際、多くの子供は、Scratchを使える環境があり簡単なルール（文法や起動／修了方法など）を覚えれば、大人が思いもよらないようなユニークなプログラムを短期間で作り上げます。このページをご覧になったのを機会に、身近なお子様のプログラミング教育を考えてみませんか。それでは、コースへのご参加をお待ちしています。", 
+    "end_date": null, 
+    "title": "うちの子のためにうちのPCにScratchを準備しよう", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/597936_ec8e_3.jpg", 
+    "course_url": "https://www.udemy.com/setupscratchforkids/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-08-31T05:16:53Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Yutaka Kataoka, sfchaos sf chaos, Prof. IshidaMotohiro 石田", 
+    "description": "データサイエンスの第一歩をスムーズに！\nこのコースは、データサイエンスの基本的な考え方、データ解析とグラフ作成について学ぶことができます。そして、あなたの実際の業務に適応することを目標にしています。また、予備知識については全く必要ありません。\nここでは、Rという統計解析用のプログラミング言語を学びます。Rはプログラミング初心者に対しても優しい言語であり、大学や企業などでも広く用いられています。\n近年、Rに関する数多くの書籍が出版されています。しかし、実際の操作方法については、文字による説明だけでは飲み込みづらいのが実状です。本コースでは実際の操作画面を動画とキャプションで表示しているため、複雑な操作であっても直感的に理解することができるでしょう。\n本コースを通して、以下の項目を学ぶことができます。\nデータサイエンス（統計学・機械学習）の背景、データ分析の実践例R/Rstudioの基本的な操作データの特徴を理解するのに役立つ要約技法、グラフ作成方法実際の業務を想定した分析シミュレーション・分析プロセスインターネット上に公開されているデータを取得し、地図などで表現する可能性twitterなどのテキスト情報を分析してグラフ化する技法\nデータサイエンスの学習を始めましょう！", 
+    "end_date": null, 
+    "title": "【R言語をゼロから理解していく】データサイエンスの実践例から学ぶデータ分析入門", 
+    "price": "40.00", 
+    "topic_name": [
+      "Data & Analytics"
+    ], 
+    "institution_name": null, 
+    "commitment": "5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/762844_4f8d_2.jpg", 
+    "course_url": "https://www.udemy.com/r-datascience/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-02-15T04:28:36Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation kids&family group", 
+    "description": "■本コースについて：雑誌やインターネットではまとめて見ることができない、おべんとうのアレンジ方法を動画でわかりやすく実践的に紹介。全９本のレクチャーを見れば、「子どもが喜ぶおにぎり」から「詰め方・すき間おかず」まで完璧にマスターできます。難しいテクニックではなく、シンプルなのに「○○するだけ」で驚くほどかわいく変身する方法を厳選しました。■講師－－関岡弘美さん略歴：６年間にわたり、出版社で料理雑誌の編集に携わる。2006年に渡仏、ル・コルドンブルーパリ本校にて料理、製菓、ワインを学び、グランディプロムを取得。パリ市内の三つ星、二つ星のレストランで研修、2008年帰国。料理研究家として雑誌、広告などを中心に活躍中。出版社時代から、子どものお弁当やおやつのレシピについての経験も豊富。", 
+    "end_date": null, 
+    "title": "意外と知らない裏ワザ満載！子どもが喜ぶかわいいおべんとう講座", 
+    "price": "20.00", 
+    "topic_name": [
+      "Parenting & Relationships"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/551522_63ef_2.jpg", 
+    "course_url": "https://www.udemy.com/bckf15-obentou-001/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Personal Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-07-11T02:30:38Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "ドナルド松山先生の国内旅行業務取扱管理者対策講座です。役者でもある特徴を生かし、駅員さんに扮して講義を行うなど、楽しく学ぶことができます。2020年には東京でオリンピックも開催され、インバウンドツーリズム（訪日外国人旅行）の需要は増々高まっている今、日本の魅力を世界中に伝えるチャンスなのです。【講師プロフィール】ドナルド 松山独立系ファイナンシャルプランナー　会計、ITコンサルタント　俳優独立系ファイナンシャルプランナーとして、ライフプランニング、キャリアプランニングのコンサルティングを行う一方、講師として、大学をはじめ各種教育機関で10数年にわたりFPを中心に講義活動をしている。\u000b またシステムエンジニアとしての経験を生かした会計、ITコンサルタントとしても活躍している。 ドナルド松山とは、俳優としての芸名であり、ユニークなパーソナリティが人気を呼んでいる。 \u000b主な講義分野はＦＰを中心に、証券外務員、簿記会計、ITパスポート、MOS(マイクロソフトオフィススペシャリスト)、国内旅行取扱主任者等、多岐にわたる。", 
+    "end_date": null, 
+    "title": "ドナルド松山の国内旅行業務取扱管理者2016年度改訂版", 
+    "price": "50.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "14.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/770162_47ad.jpg", 
+    "course_url": "https://www.udemy.com/2016-wej/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Test Prep"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-02-22T04:52:57Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation kids&family group", 
+    "description": "■本コースについて：誕生日などの家族イベント、七夕やお月見など季節を楽しむ月々の行事。子どもと一緒に楽しめるご飯やお菓子の作り方と、センスのいいテーブルコーディネート、お客様を迎える際の簡単なインテリアやデコレーションまで、特別な道具や材料、難しいテクニック無しで今日からマネできる方法を伝授します。初心者でも、これまでうまくいかなかった人でもオッケー。家族で、ママ友や子どものお友達を招くなど、様々なシーンに対応できる方法をご紹介します。■講師－祐成二葉氏略歴：ドイツ国立マイスター校卒業。５年間のヨーロッパ留学を経て、1988年、祐成陽子クッキングアートセミナー「フードコーディネーター養成講座」メイン講師に就任。テレビや雑誌などで、料理やお菓子制作、テーブルコーティネートを数多く手がけ、高い評価を得ている。今までに出版した著書は、全部で55冊。（2011年現在）。初心者向けの基本の料理レシピから、プロ向けのケーキデザインまでと幅広い。2008年に長男を出産。子供向けの本などで離乳食や様々なグッズなどを提案し、独自のKIDSstyleを築き、好評を得ている。", 
+    "end_date": null, 
+    "title": "子どもと楽しむ！「おうちパーティー」レッスン", 
+    "price": "25.00", 
+    "topic_name": [
+      "Parenting & Relationships"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/555108_c4a5_2.jpg", 
+    "course_url": "https://www.udemy.com/bckf15-omotenashi-001/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Personal Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-07-15T05:48:45Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Marie Claire UK", 
+    "description": "【このコースは、日本語字幕版です。字幕を表示するには、視聴画面下部にある「CC」ボタンをクリックしてください。】◆◆日本のみなさまへ◆◆ イギリスのMarie ClaireがUdemyに参戦！ プロのヘアメイク術を日本の皆さまにお届けします。普段使いのメイクから、夏の野外ライブやパーティーシーンまで。ちょっとしたコツでひと手間かかって見えるヘアメイク術をご紹介します。いつものメイクとはちょっと違ったルックに挑戦してみたいとき、わかりやすいHow-to動画で新しい自分を発見してみませんか。◆◆講師より◆◆イギリスのMarie Claire マガジンがお届けするこのコースは、プロのヘアメイクアーティストによる２時間以上のメイクレッスンと、ヘアスタイリングのHow-to動画で構成されています。世界中で活躍するヘアメイクアーティストが、時代に左右されないクラシックなメイク術から最先端のエッジィなメイクまで、様々なルックをご紹介します。 ランウェイやレッドカーペットのメイク術を学べるとともに、Marie Claire ビューティーチームのノウハウもお見せします。ブロンザーの使い方から、テカリ対策、 そして色を味方につける方法など。Marie Claireのショートビデオを通じて、どんなシーンでも素敵に見えるヘアメイクをマスターしましょう。", 
+    "end_date": null, 
+    "title": "Marie Claire アーティストから学ぶプロのヘアメイク術（日本語字幕）", 
+    "price": "20.00", 
+    "topic_name": [
+      "Beauty & Makeup"
+    ], 
+    "institution_name": null, 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/425626_6d7c.jpg", 
+    "course_url": "https://www.udemy.com/beauty-genius-by-marie-claireuk_jp/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Lifestyle"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-02-18T04:18:18Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "中山 久美子", 
+    "description": "このコースではスクラッチ（Scratch）という無料のプログラミング環境を使用して学習します。\nスクラッチはＭＩＴで開発された小学生にも使える教育用のプログラミング環境です。\n視覚的にわかりやすいプログラミングができるため、プログラミングの入門編に向いているといわれています。\nこのコースでは、このスクラッチ環境について他には類を見ないほど詳しく説明していますので、最初からスクラッチの持つ機能をフルに使った快適なプログラミングをすることが可能です。\nそのため、プログラミングをはじめて学ぶ小中学生はもとより、プログラミングをお子さんに教えたいとお考えの保護者の方、教職員の方にもおすすめの内容となっております。\nスクラッチの機能と基本的な使い方を学んだらすぐに、おばけから逃げろ！ゲーム、ブロックくずしゲーム、ケーキ拾いゲームといった、みんなが夢中になれるようなゲームを作ることができます。\n最初はビデオ教材を真似しながらプログラミングし、それをもとに自分で工夫して新しいゲームを創り出すことができます。\nゲームで遊ぶ側から創る側へ。創造する力を身に付け、自分のアイディアをかたちにするための方法や技術を学ぶことができます。\n～☆　この講座は特にこんな方におすすめします。　☆～\n・ゲームが大好きなお子さんがゲームを作ることで、将来役立つ技術の基礎を作りたいと考えている保護者の方。\n・お子さんにプログラミングを習わせたい、教えたいと思っている保護者や教職員の方。", 
+    "end_date": null, 
+    "title": "さあ、はじめよう！ゲームを作りながら学ぶキッズプログラミング", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/703536_c970_2.jpg", 
+    "course_url": "https://www.udemy.com/kidsprogramming/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-12-22T05:48:03Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "伊良波 茜", 
+    "description": "化粧品や美容に興味があっても何が正しくて何が間違っているのか解らない人がほとんどです。\n化粧品は化学物質の固まりであり、それをつける皮膚は生体です。化粧品や美容を正確に理解するには化学と医学の知識が必要ですが、”興味がある”程度ではそこまで深く勉強するのも抵抗がある事でしょう。\nそこで、化学や医学の知識がなくても理解出来るスキンケア講座が当プログラムです。難しい理論や説明は抜きにして解りやすくまとめました。動画を見ながら正しい化粧品の知識、皮膚の構造、基礎化粧品の特徴や必要性、自分の肌質の見極め方などが学べます。きちんと理解出来たか科目事にテストもあります。\n意外と知られていない美容業界、化粧品業界の裏話、高額化粧品のカラクリなど女性が興味をもつ情報が満載！\n正しい知識で周りに差をつけませんか？\n化粧品検定１級、コスメコンシェルジュ、スキンケアアドバイザーの資格を持つ化粧品・美容のプロが解りやすく解説いたします。\n前編・後編の２部制\nこの講座は前編と後編に分かれており、両方受講いただく事でより完璧なスキンケアを習得する事が出来ます。\n\n下記に該当する方は受講をおすすめ出来ません。\n・化学の専門知識が有る方\n・医学の専門知識が有る方\n・化粧品製造で成分決定の分野に携わった事の有る方\n・化粧品に偏った強い拘りがあり、考えを曲げる事が出来ない方\n\n上記に該当される方で特に得に化学と医学の知識が豊富な方にとっては既に習得している知識や理論である可能性が高いため、無駄足になる恐れがあります。\nこの講座はあくまでも、初心者向けとなっております。\n化学や医学は良く知らないけど、正しいスキンケアと正しい化粧品選びを知りたいと言う方向けの講座内容となっております。\n※上記該当者の購入を拒否するものではありません。\n\n今まで正しいと言われていた美容法や理論が実は根拠の無いやり方だったかもしれません。化学と医学の基礎知識に沿った正しいスキンケアをこの機会に是非学んでみませんか？\n世間一般の『美容のプロ・美肌のプロ』とはひと味違う、本物の知識を是非習得してください。\n", 
+    "end_date": null, 
+    "title": "これが本当の正しいスキンケア!美肌のプロが教えます！前編", 
+    "price": "50.00", 
+    "topic_name": [
+      "Beauty & Makeup"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/812140_8616.jpg", 
+    "course_url": "https://www.udemy.com/artistry-japan-skincare-course1/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Lifestyle"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-04-04T07:51:37Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "伊良波 茜", 
+    "description": "後編であるこの講座では美容液、セラミド、肌質の知り方、化粧品の見方について学べます。せっかく基礎化粧品のアイテムについて学んでも自分の肌質を知らなければ自分に合う化粧品を見つける事は出来ません。化学や医学を知らなくても正しい化粧品選びが出来るように作ってます。解らない事は質問もしていただけます。レクチャー毎に小テストもあります。化学と医学の基礎知識に沿った正しいスキンケアをこの機会に是非学んでみませんか？", 
+    "end_date": null, 
+    "title": "これが本当の正しいスキンケア！美肌のプロが教えます！後編", 
+    "price": "50.00", 
+    "topic_name": [
+      "Beauty & Makeup"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/803730_62af.jpg", 
+    "course_url": "https://www.udemy.com/artistry-japan-skincare-course2/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Lifestyle"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-25T12:57:37Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Ryutaro Imoto", 
+    "description": "&lt;Yahoo知恵袋公認アドバイザーの資格を持つ情報収集の専門家が教える情報収集術の講座です。&gt;\n\n\n\n知っていますか？ 情報強者だけが知ってる情報収集術を・・・\n情報の有無がビジネス格差、就活格差、学生格差、教育格差などあらゆる格差につながります。\n情報収集術で周りに差をつけましょう。人生を左右するような重要な情報を見逃してしまうかもしれませんよ。\n ◎こんなことを教えます。\n・本当に役立つSNS\n・Google検索のコツ\n・トレンド情報をいち早く手に入れる方法とは \n・安くモノを手に入れる（旅行を格安で行く、割引された商品を見つける、など）\n ・Webサービスを生活・ビジネスに役立てる方法とは\n・膨大な情報をきちんと整理する方法\n・質の高い情報同士をリンクさせるには？", 
+    "end_date": null, 
+    "title": "Google検索だけで満足しない、情報に振り回されないための一歩先をいく収集・整理・応用術", 
+    "price": "30.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/544626_e9b7_3.jpg", 
+    "course_url": "https://www.udemy.com/personalinformation/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Personal Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-07-04T05:54:05Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Edifist Learning", 
+    "description": "今、ビジネスシーンではIoT・ビッグデータ・人工知能・ビジネスインテリジェンスなどの言葉が飛び交っています。すべてのビジネスに新しい価値が求められる時代に、データから価値を創出し、ビジネスの課題に答えを出すプロフェッショナル、それがデータサイエンティストという新しい職種です。アメリカの調査会社ガートナー社の試算では、将来的に国内だけで約25万人のデータサイエンティストが不足とすると予測しています。まさに大きなチャンスが目の前にあります。データサイエンティストには、3つのスキルセットが求められます。それはビジネス力・データサイエンス力・データエンジニアリング力の3つ。この講座では、この「データエンジニアリング力」を高める強力なツールとして、マイクロソフトの「Power BI」による分析・仮説検証の手法を学びます。「Power BI」は無料で使えるBIツールですが、エクセルなどのデータファイルや、インターネット上からのデータも含むさまざまな形式のデータを読み込んで整理し、求める形のレポートを作成し、共有することができるツールです。この講座では、販売実績データを基にした分析ケーススタディのデモンストレーションを中心に、「Power BI」によるデータ分析手法を習得できます。講義はさまざまな企業での導入研修に豊富な経験を持つエディフィストラーニングのプロ講師が担当します。エクセルだけではできない、本格的なデータ分析をあなたのビジネスに活かしてみませんか。ぜひ、この講座からデータサイエンティストへの一歩を踏み出しましょう。", 
+    "end_date": null, 
+    "title": "Power BI を使用したデータ分析入門講座", 
+    "price": "50.00", 
+    "topic_name": [
+      "Data & Analytics"
+    ], 
+    "institution_name": null, 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/790292_ef8a.jpg", 
+    "course_url": "https://www.udemy.com/power-bi-edifist/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-12T03:04:46Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "平山 雄三", 
+    "description": "誰でも使えるビジュアル言語のScratchを用いてプログラミングの基礎を学び科学的思考を身に付けることができます。前編ではプログラミングの基礎と乱数を扱います。テキスト入力でプログラムを記述する「プログラミングで科学を学ぼう！」コースへの導入編としても最適です。\nEx-Gram（エクスグラム）プログラミング実教室での延べ1000人・時間にわたる指導経験をベースにした豊富なサイエンスビジュアルコンテンツで楽しく学べます。\nEx-Gram（エクスグラム）プログラミング実教室のコースとの対応は下記のとおりです。初級Aコース 「Scratchで学ぶ科学的思考プログラミング」 前編、中編、後編初級Bコース 「プログラミングで科学を学ぼう！」 Vol.1, 2中級1Aコース 「プログラミングで科学を学ぼう！」 Vol.3, 4, 5中級1Bコース 「プログラミングで科学を学ぼう！」 Vol.6, 7, 8中級2Aコース 「プログラミングで科学を学ぼう！」 Vol.9, 10, 11中級2Bコース 「プログラミングで科学を学ぼう！」 Vol.12, 13, 14上級Aコース 「プログラミングで科学を学ぼう！」 Vol.15, 16上級Bコース 「プログラミングで科学を学ぼう！」 Vol.17, 18", 
+    "end_date": null, 
+    "title": "Scratchで学ぶ科学的思考プログラミング　前編", 
+    "price": "25.00", 
+    "topic_name": [
+      "Math & Science"
+    ], 
+    "institution_name": null, 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/860538_6f12.jpg", 
+    "course_url": "https://www.udemy.com/ex-gram-vol-0-a/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Academics"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-05-26T12:51:52Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "村守 康", 
+    "description": "このコースは子どもがひとりでも自分でパソコンを操作してSCRATCHを学べるようにと考えられた講座です。\nこのコースの目的は単にSCRATCHでプログラムをつくる方法を学ぶことではありません。子どもたちがすべての学習の基本になる「論理的にものごとを考える力」を育むことを目的にこの講座は開発されました。\nそのために「ひとりでできる」ことをこの講座では重視しています。大人の助言や発想でプログラムを組み立てるのではなく、自由に創造力を発揮して子どもに自主的にプログラムをする力を身につけることです。\nみかけ上の難易度の高いプログラムを子どもに押しつけるのではなく、子どもたちが自分で考え、プログラムし、問題を解決できるレベルの作品を集中して学ぶことができます。\nこのコースでは最初に大人がパソコンの環境を設定してあげれば、子どもがこの動画を見て、自分でパソコンを操作してSCRATCHでプログラミングの学習を行う事ができるように設計されています。\n\nどんな人に適した講座か\nプログラミングを通してお子さんに論理的な思考力を身につけてもらいたい方\nSCRATCHでお子さんといっしょにプログラミングをしたい方\n学校で始まるプログラミングの授業の準備をしたい保護者の方や先生\n自分でゲームのプログラムをしてみたいお子さん\n\nSCRATCHでコンピューターゲームをつくろう\n・ブロック（積み木）を積み重ねるのと同じようにしてプログラミングをするので、文字を入力する必要はありません\n・命令や構文はすべてスクリプトというブロックにされているので、それを規則にしたがって組み合わせることでプログラミングの基本が理解できます。\n・お子さんひとりでも分かるように、コース内容も子どもの目線で説明されています。\n・子どもたちが興味をもつキャラクターや物語で内容を構成しています。\n・子どもの集中力に合わせて１つのコースの時間を短く構成しています。\n・ご家族や兄弟で一緒に楽しみながらプログラミングして共同で作品をつくることもできます。\n\nプログラミングを通して身につける論理的な思考力\nSCRATCHはプログラミングを学ぶためのツールですが、プログラマになるための職業訓練講座ではありません。知識としてのプログラミング技術ではなく、論理的にものごとを考える力を養う教育プログラムです。\nこのコースでは、子どもたちの論理的な思考力を高めることに重点を置き、子どもたちが自分で考え問題が解決できるように設計されています。\n\n学習内容\n７つのセクション、45本のビデオ、4つのサンプルファイルを含んだ合計4時間のコースです。\n最初のセクションでは大人の方へ、お子さんが一人で扱えるよう準備する方法を説明しています。\n第２～第５までのセクションではお子さんが一人でもできるように簡単な操作から少し高度なプログラムまでを収録しています。\n第６、第７のセクションは小学生のお子さんには少し高度な内容です。保護者の方や上級生のご兄弟で協力して取り組まれるといいでしょう。もちろんプログラミングが大好きでどんどんやりたいというお子さんには丁度いい難度の教材になります。\n日本語のプログラミング用語で解説されていますが、内容はそのまま英語のプログラム用語に置き換えが可能です。そのため高学年や中高生のお子さんには英語学習の勉強にもなります。", 
+    "end_date": null, 
+    "title": "SCRATCHであそぼう。こどものためのSCRATCH（スクラッチ）プログラミング講座", 
+    "price": "20.00", 
+    "topic_name": [
+      "Parenting & Relationships"
+    ], 
+    "institution_name": null, 
+    "commitment": "4 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/859500_bebb_2.jpg", 
+    "course_url": "https://www.udemy.com/scratch-scratch/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Personal Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-05-25T10:31:44Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation", 
+    "description": "※本コースは、ベネッセ『著者大学』で提供している、村上憲郎氏の講座「村上式シンプル英語勉強法（入門編）」、「村上式仕事術（入門編）」を元に提供しております。■本コースについて：「まとめパック」となる本コースでは、「村上式シンプル英語勉強法」、「村上式シンプル仕事術」の二つのコースを一挙に習得できます。「村上式シンプル英語勉強法」では、“村上憲郎氏自身が31才の時、全く英語が話せなかったのに外資系の会社に転職して仕事で必要な英語を身に付けた\"という体験に裏付けられた勉強法を学びます。「読む」、「聴く」、「アウトプットする」というシンプルな行動を英語の勉強に活かすテクニックは必見！英語に自信のない方にはぴったりの勉強法です。「村上式シンプル仕事術」では、「7つの原理」、「経済学を学べ」、「グローバルに仕事をするための4つの知識」を学びます。さらには、村上憲郎氏の提唱する「Frame of reference」という、グローバルビジネスに必要な、知識・教養体系のコンセプトを紹介いたします。■ベストセラー著者・講師－村上憲郎氏略歴：村上憲郎事務所代表。前グーグル日本法人名誉会長、元グーグル米国本社副社長兼グーグル日本法人代表取締役社長。主な著書『知識ベースシステム入門』（インフォサイエンス社）、『村上式シンプル英語勉強法』『村上式シンプル仕事術』（ともにダイヤモンド社）、『一生食べられる働き方』（PHP新書）、『スーパーIT高校生“Tehu\"と考える創造力のつくり方』（角川書店）他。『著者大学』では、「フレーム・オブ・リファレンス」として、グローバル人材に必要な、ビジネスのよりどころとなる知識体系の習得を通してビジネスセンスを飛躍的に高める講座に挑戦する。", 
+    "end_date": null, 
+    "title": "元Google日本代表 村上憲郎英語勉強法と仕事術(まとめパック)", 
+    "price": 0, 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/472484_15ce_4.jpg", 
+    "course_url": "https://www.udemy.com/bc15_businessothers_murakami_003/", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-04-10T03:30:33Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "アテイン 株式会社", 
+    "description": "このコースではExcel VBAによるプログラミング基礎を学ぶことができます。Excelの基本操作ができる人が対象で、プログラミングは初心者で大丈夫です。セクション1では、マクロの登録方法から始まり、プログラミング基礎知識として重要な変数、条件判断と繰り返し処理を学びます。セクション2では、Excel VBAならではの、セルやワークシートやブックの操作方法について学びます。セクション3では、ユーザーフォームとイベント、配置するコントロールについてと、グラフの作成方法を学びます。また、動画講座内で使用している演習ファイルが付属します。これによって動画講座を見ながら、実際のアプリケーションで実習することができます。", 
+    "end_date": null, 
+    "title": "誰でもわかる！これから始める VBAプログラミング基礎（Excel 2010）", 
+    "price": "40.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/563238_3b4f.jpg", 
+    "course_url": "https://www.udemy.com/attain-vbaexcel-2010/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-07-24T01:52:07Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "平山 雄三", 
+    "description": "誰でも使えるビジュアル言語のScratchを用いてプログラミングの基礎を学び科学的思考を身に付けることができます。\n中編では画像処理の初歩、関数のグラフ、フィードバック制御を扱います。テキスト入力でプログラムを記述する「プログラミングで科学を学ぼう！」コースへの導入編としても最適です。\nEx-Gram（エクスグラム）プログラミング実教室での延べ1000人・時間にわたる指導経験をベースにした豊富なサイエンスビジュアルコンテンツで楽しく学べます。\nEx-Gram（エクスグラム）プログラミング実教室のコースとの対応は下記のとおりです。初級Aコース 「Scratchで学ぶ科学的思考プログラミング」 前編、中編、後編初級Bコース 「プログラミングで科学を学ぼう！」 Vol.1, 2中級1Aコース 「プログラミングで科学を学ぼう！」 Vol.3, 4, 5中級1Bコース 「プログラミングで科学を学ぼう！」 Vol.6, 7, 8中級2Aコース 「プログラミングで科学を学ぼう！」 Vol.9, 10, 11中級2Bコース 「プログラミングで科学を学ぼう！」 Vol.12, 13, 14上級Aコース 「プログラミングで科学を学ぼう！」 Vol.15, 16上級Bコース 「プログラミングで科学を学ぼう！」 Vol.17, 18", 
+    "end_date": null, 
+    "title": "Scratchで学ぶ科学的思考プログラミング　中編", 
+    "price": "25.00", 
+    "topic_name": [
+      "Math & Science"
+    ], 
+    "institution_name": null, 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/873180_8da5.jpg", 
+    "course_url": "https://www.udemy.com/ex-gram-vol-0-b/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Academics"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-06-09T08:02:44Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "平山 雄三", 
+    "description": "誰でも使えるビジュアル言語のScratchを用いてプログラミングの基礎を学び科学的思考を身に付けることができます。\n後編ではオブジェクト指向プログラミングと生命現象のシミュレーションを扱います。\nテキスト入力でプログラムを記述する「プログラミングで科学を学ぼう！」コースへの導入編としても最適です。\nEx-Gram（エクスグラム）プログラミング実教室での延べ1000人・時間にわたる指導経験をベースにした豊富なサイエンスビジュアルコンテンツで楽しく学べます。\nEx-Gram（エクスグラム）プログラミング実教室のコースとの対応は下記のとおりです。初級Aコース 「Scratchで学ぶ科学的思考プログラミング」 前編、中編、後編初級Bコース 「プログラミングで科学を学ぼう！」 Vol.1, 2中級1Aコース 「プログラミングで科学を学ぼう！」 Vol.3, 4, 5中級1Bコース 「プログラミングで科学を学ぼう！」 Vol.6, 7, 8中級2Aコース 「プログラミングで科学を学ぼう！」 Vol.9, 10, 11中級2Bコース 「プログラミングで科学を学ぼう！」 Vol.12, 13, 14上級Aコース 「プログラミングで科学を学ぼう！」 Vol.15, 16上級Bコース 「プログラミングで科学を学ぼう！」 Vol.17, 18", 
+    "end_date": null, 
+    "title": "Scratchで学ぶ科学的思考プログラミング　後編", 
+    "price": "25.00", 
+    "topic_name": [
+      "Math & Science"
+    ], 
+    "institution_name": null, 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/873206_3832.jpg", 
+    "course_url": "https://www.udemy.com/ex-gram-vol-0-c/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Academics"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-06-09T08:51:03Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation kids&family group", 
+    "description": "■本コースについて魚を一匹丸ごと自分でさばいて、食卓を彩れるようになるを目的に、代表的な魚のさばき方のポイントとコツを徹底解説。扱う魚は、「いわし」「あじ」「さんま」「鯖」「鯛」。これらを応用すれば、ほとんどの魚は自分でさばけるようになります。さばきたてが美味しい魚が食べられるのはもちろん、一匹の魚を無駄なく使って、汁物、メインなど自由に考えられるようになることで、安価で、栄養価の高い健康的な食卓を作ることができます。■講師－上田勝彦                                                   漁師から水産省勤務２０年という異色のキャリア後、現在は日本の家庭とさかなの産地をつなぎなおす役目を担い、さかなの相談とあらば全国漁場から学校で子どもたちへの食育まで行っている。料理をレシピではなく、しくみで理解するという方法で、家庭でカンタンに実践できるさかな料理が人気。NHK「あさイチ」「うまい！」、ＴＶ朝日「林修の今でしょ講座」等多数出演。著書に「ウエカツの目からウロコの魚料理」（東京書籍）がある。", 
+    "end_date": null, 
+    "title": "魚の伝道師！ウエカツの目からウロコのさかな塾（応用編）", 
+    "price": "30.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/626428_40fc.jpg", 
+    "course_url": "https://www.udemy.com/bckf15-sakana-002/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Personal Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-09-29T23:14:59Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation", 
+    "description": "■本コースについて美崎栄一郎のベストセラー著書で、ビジネス書大賞も受賞した、『「結果を出す人」はノートに何を書いているのか』の内容をベースに、美崎栄一郎が実際に使っていたノートを惜しみなく事例で見せながら、社会人経験を価値に高めるノート術について、解説をします。「まとめパック」である本コースは、ノート術の神髄をぎっしりと詰め込んだ充実のコースです。ノート術を高めること＝日々の仕事の価値を飛躍的に高めるということ。その具体的なテクニックを実際に見ながら習得できる実践的な講義で、すぐに実務に活かすことができます。■美崎栄一郎氏略歴：1971年、横浜で生まれ大阪で育つ。大阪府立大学大学院工学研究科を卒業後、花王株式会社で約15年勤務ののち、現在は、独立し、商品開発コンサルタント、ビジネス書作家として活動中。手がけた商品は、アタック、ニュービーズ、ワイドハイターなどの日用品から、化粧品のブランドであるレイシャス、ファインフィットまで幅広い。ニコンとの共同開発の多視点画像解析システムは、テレビや新聞などでも取り上げられた。著書は、『「結果を出す人」はノートに何を書いているのか』（株式会社ナナ・コーポレート・コミュニケーション）、『アイデアは才能では生まれない』（日本経済新聞出版社）他多数。※本コースは、『ビジネス書大賞作家・美崎栄一郎の「社会人こそ学びたいノート術」【vol.1】と【vol.2】』、2つの講座をまとめたお得な「まとめパック」コースです。", 
+    "end_date": null, 
+    "title": "ビジネス書大賞作家・美崎栄一郎の「社会人こそ学びたいノート術」【まとめパック】", 
+    "price": "50.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/476942_0e6f_3.jpg", 
+    "course_url": "https://www.udemy.com/bc15_other_notetaking_misaki_001/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-04-15T10:02:50Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "平山 雄三", 
+    "description": "Processingを用いて力と運動をシミュレーションするプログラムを作成します。応用としてブロック崩しやフラッピーバードゲームを作成します。これらの学習を通じて科学的思考を養っていきます。\nEx-Gram（エクスグラム）プログラミング実教室での延べ1000人・時間にわたる指導経験をベースにした豊富なサイエンスビジュアルコンテンツで楽しく学べます。\nEx-Gram（エクスグラム）プログラミング実教室のコースとの対応は下記のとおりです。初級Aコース 「Scratchで学ぶ科学的思考プログラミング」 前編、後編初級Bコース 「プログラミングで科学を学ぼう！」 Vol.1, 2中級1Aコース 「プログラミングで科学を学ぼう！」 Vol.3, 4, 5中級1Bコース 「プログラミングで科学を学ぼう！」 Vol.6, 7, 8中級2Aコース 「プログラミングで科学を学ぼう！」 Vol.9, 10, 11中級2Bコース 「プログラミングで科学を学ぼう！」 Vol.12, 13, 14上級Aコース 「プログラミングで科学を学ぼう！」 Vol.15, 16上級Bコース 「プログラミングで科学を学ぼう！」 Vol.17, 18", 
+    "end_date": null, 
+    "title": "プログラミングで科学を学ぼう！ Vol. 9", 
+    "price": "25.00", 
+    "topic_name": [
+      "Math & Science"
+    ], 
+    "institution_name": null, 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/865808_4aef.jpg", 
+    "course_url": "https://www.udemy.com/ex-gram-vol-9/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Academics"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-06-01T14:43:37Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "平山 雄三", 
+    "description": "Processingを用いてオブジェクト指向プログラミングを行います。具体的にはボールのオブジェクトを作成し運動のシミュレーションを行います。これらの学習を通じて科学的思考を養っていきます。\nEx-Gram（エクスグラム）プログラミング実教室での延べ1000人・時間にわたる指導経験をベースにした豊富なサイエンスビジュアルコンテンツで楽しく学べます。\nEx-Gram（エクスグラム）プログラミング実教室のコースとの対応は下記のとおりです。初級Aコース 「Scratchで学ぶ科学的思考プログラミング」 前編、後編初級Bコース 「プログラミングで科学を学ぼう！」 Vol.1, 2中級1Aコース 「プログラミングで科学を学ぼう！」 Vol.3, 4, 5中級1Bコース 「プログラミングで科学を学ぼう！」 Vol.6, 7, 8中級2Aコース 「プログラミングで科学を学ぼう！」 Vol.9, 10, 11中級2Bコース 「プログラミングで科学を学ぼう！」 Vol.12, 13, 14上級Aコース 「プログラミングで科学を学ぼう！」 Vol.15, 16上級Bコース 「プログラミングで科学を学ぼう！」 Vol.17, 18", 
+    "end_date": null, 
+    "title": "プログラミングで科学を学ぼう！ Vol. 10", 
+    "price": "25.00", 
+    "topic_name": [
+      "Math & Science"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/865944_cdaa.jpg", 
+    "course_url": "https://www.udemy.com/ex-gram-vol-10/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Academics"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-06-01T16:42:21Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation", 
+    "description": "■本コースについて時田氏の軽やかな語り口で、難解と思われていた東大の数学入試問題が分かりやすい言葉で説明されます。【学生編】では、問題を解く過程を通して、数学的な考え方とはどのようなものかを解説。また、分かりにくい長文問題を解くキーポイントも伝授します。受験に役立つだけでなく問題解決能力をも手に入れ、実生活にも活かせる数学的センスを身に付けるコースです。演習問題を解く模擬授業には、オスカープロモーション所属の籠谷さくらさん、泉川実穂さん（いずれも現役高校生）を迎え、臨場感ある動画が視聴できます。■株式会社合格舎代表取締役・東大合格請負人／講師－時田啓光（ときたひろみつ）氏略歴：山口県下関市出身、京都大学大学院卒業。高校時代に通っていた塾で、「教え合う」ことの重要性に気づく。その経験に裏打ちされた力で、偏差値35の生徒を東京大学現役合格に導いたことをはじめ、1200人以上を指導し、難関大学合格、全国模試１位達成などの実績を上げている。また、関東を中心とした各種団体、教育機関でのセミナー・講演やシェアハウスのプロデュース、書籍の執筆など多彩な活動を行っている。■学習の進め方「分解力」「想定力」「論証力」「批判力」の４つの力を身に付けるため、概要説明の後は実際に出題された入試問題が提示されます。段階を踏んで答えを導き出す流れを、分かりやすく動画で視聴します。ぜひ、実際にノートを用意して自分でも手を動かしながら進めましょう。解答のまとめを視聴したら次のセクションへ進みます。４つの講義の後には、活発な意見が交わされる模擬授業を視聴し、最後は総まとめとして時田氏からのメッセージをご覧ください。", 
+    "end_date": null, 
+    "title": "【学生編】東大の入試問題で「数学的センス」が身につく", 
+    "price": "20.00", 
+    "topic_name": [
+      "Math & Science"
+    ], 
+    "institution_name": null, 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/531992_2bfc.jpg", 
+    "course_url": "https://www.udemy.com/bc15_math_tokyouniv/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Academics"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-06-19T08:23:07Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation", 
+    "description": "＜本コースについて＞「日本化粧品検定」代表理事の小西さやか自身の指導で、正しくコスメを理解するための基礎知識、「化粧品検定3級」対策について学べます。肌の悩みに対しての効果的な対処や最適な化粧品選びの基礎もわかるようになります。まとめパックとなる本コースは、化粧品の基礎的な知識や選び方、効果的なメイクのテクニック、スキンケアについてや内面から美しくなるためのポイントなど、広範囲なテーマにも関わらず明確で分かりやすい講義が展開されます。検定対策だけでなく、実生活で生かせる“美容\"の知識がぎっしりと詰まった充実のコースです。※全70回の講義全てを学習できるお得な「まとめパック」です。※化粧品用語や解釈は2015年4月現在のもので、今後変わる可能性があります。＜講師：小西さやか　略歴＞一般社団法人 日本化粧品検定協会 代表理事。コスメコンシェルジュ第一号。化学修士（サイエンティスト）としての科学的視点から美容、コスメを評価できるスペシャリスト。その知見から意味のない無駄なお手入れを省いた最短最適な美容法「なまけ美容」を推奨。過去、毎週200種以上（累計10万種を越える）の化粧品を評価。その鋭い評価が好評で、各種の雑誌やメディアで新作コスメの評価を担当。毎月5～10誌で美容コーナーを担当。雑誌美的、MAQUIA、CanCam、anan、minaなどでベストコスメ選定を担当。現在は、あらゆる美容知識の集約・蓄積及び美容術の振興に寄与することを目的とし、一般社団法人日本化粧品検定協会を設立。代表理事として、協会運営を行っている。その他、化粧品コンサルティング、美容コラムの執筆、大学での講義や日本流行色の選定、メイクアップトレンドカラー本の監修、日本美容食協会 理事や韓国コスメのナビゲーターなど幅広く活躍。【経歴・資格】・国連機関勤務 国連大学 補助研究員・国立大学工学部化学科 修士号・化粧品製造販売責任者 取得・コスメ薬事法管理者 取得・工業高校化学科教員免許 取得・k-two メイクアップアーティストプロフェッショナル資格 取得・ジャパンコスメティックアカデミー認定 化粧品プランナー資格・ジャパンコスメティックアカデミー認定 化粧品マーケティングプランナー資格・日本化粧品検定1級・日本化粧品検定協会認定 コスメコンシェルジュ資格・日本化粧品検定協会認定 コスメコンシェルジュインストラクター資格・健康入浴指導士検定協会公式 健康入浴指導士資格・日本ライター検定公式 BWS認定ベーシックコース 修了認定・日本ライター検定公式 日本ライター検定2級 ・タイ古式マッサージ 取得（ワットポーマッサージスクール＠タイ）・中国式足ツボマッサージ 取得（ワットポーマッサージスクール＠タイ）・ ロミロミコース 取得（ヒーリングアカデミー＠ハワイ）・ベビーマッサージ初級 取得・TOEIC740点・普通自動車免許・アロマテラピー検定1級。", 
+    "end_date": null, 
+    "title": "小西さやかの「日本化粧品検定3級」対策講座（まとめパック）", 
+    "price": "25.00", 
+    "topic_name": [
+      "Beauty & Makeup"
+    ], 
+    "institution_name": null, 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/477090_d97b_2.jpg", 
+    "course_url": "https://www.udemy.com/bc15_beauty_konishi_001/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Lifestyle"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-04-15T13:26:41Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation, 日経ＢＰ社 コンピュータ・ネットワーク局教育事業部", 
+    "description": "全国の教育機関で、タブレットなどの情報端末やインターネットを利用した新しい学びが広がっています。教育の情報化を進める際には、教職員の情報リテラシーの向上が欠かせません。教職員を対象に、ICT利活用教育に必要な情報リテラシーについて解説します。■主な内容・ICT利活用教育の最新動向・ソーシャル時代のコミュニケーション・セキュリティと個人情報の保護■講師：教育とICT Online 編集長　中野淳", 
+    "end_date": null, 
+    "title": "教職員のための情報リテラシー講座", 
+    "price": "40.00", 
+    "topic_name": [
+      "Operations"
+    ], 
+    "institution_name": null, 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/628224_9328_4.jpg", 
+    "course_url": "https://www.udemy.com/nikkei_informationliteracy_teachers/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-10-01T19:40:58Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation kids&family group", 
+    "description": "■本コースについて：この講座では「出産に関する基本知識」と、赤ちゃんが生まれた後の「お世話と生活」の大きく２つに分けてレクチャーを行います。「出産に関する基本知識」では、お産の進み方やその時にできる夫のサポートを図解を用いて説明いたします。「赤ちゃんのお世話と生活」では、抱っこ、おむつ替え、沐浴といったパパにやってもらいたい基本的なお世話のHOWTO や「赤ちゃんが泣きやまない時の対処法」など、よく皆さんから頂く質問について解決のヒントをお伝えいたします。講座を見終わった後は、きっと、「赤ちゃんに会うのが楽しみ」と思う気持ちや「親になる自信」がますます高まるでしょう。■講師－豊倉節子氏略歴：看護師として3年間病院に勤務した後、自身の長男の出産を機に助産師を目指した。陣痛促進剤に頼らない自然出産や、産前産後をトータルサポートをするため、1994年に横浜市に豊倉助産院を設立。これまでに1800件以上のお産に立ち会った。自然なお産には、規則正しい生活や食生活で健康な体作りをしておくことが必要というのが持論。また、2012年には東京赤坂にとよくら産後ケアハウスを設立し、産後の心と体のケアに注力している。平成23年度には、地域医療や福祉に長年にわたって尽くした医療従事者に贈られる「医療功労賞」を受賞。 ", 
+    "end_date": null, 
+    "title": "カリスマ助産師に学ぶ！パパにおくる出産・育児講座", 
+    "price": "20.00", 
+    "topic_name": [
+      "Parenting & Relationships"
+    ], 
+    "institution_name": null, 
+    "commitment": "40 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/553110_27e3_2.jpg", 
+    "course_url": "https://www.udemy.com/bckf15-ikuji-001/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Personal Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-07-13T07:08:01Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation kids&family group", 
+    "description": "■本コースについて：生後５・６カ月ごろからスタートする離乳食。赤ちゃんにおいしく食べてほしいと思う反面、大人の食事と違う離乳食作りへの戸惑いも・・・。そんな声にお応えすべく、この講座では、はじめて離乳食を作る方向けに、基本の「キ」を動画で分かりやすく解説いたします。基本のおかゆ・だしのとり方から、食材ごとに赤ちゃんが食べやすい調理法やレシピ、フリージングの方法を学ぶことができます。離乳食のスタート時期はもちろん、離乳食期の間はずっと活用できる内容がギュッと詰まった講座です。■講師-赤堀 博美(管理栄養士、赤堀料理学園校長)日本女子大学大学院食物栄養学専攻修了。管理栄養士として、離乳食講座や食育の講演会、栄養指導で日本各地を回っている。「たまひよ」でも、長年、離乳食や食育に関する監修・調理に携わる。また、フードコーディネーターとしてテレビの料理番組、ドラマ、CMで活躍中。", 
+    "end_date": null, 
+    "title": "はじめての離乳食づくり！基本の「キ」講座", 
+    "price": "20.00", 
+    "topic_name": [
+      "Parenting & Relationships"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/562208_5af7_3.jpg", 
+    "course_url": "https://www.udemy.com/bckf15-rinyuushoku-001/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Personal Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-07-23T02:26:22Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation, 日経ＢＰ社 コンピュータ・ネットワーク局教育事業部", 
+    "description": "パソコン超初心者向けセキュリティー講座メールやWebページ、ショッピング、SNSなど、今やインターネットを使わない日がないくらい、パソコンをインターネットに接続するのが当たり前の時代です。しかし残念ながら、ウイルスやネット詐欺、個人情報の流出など、様々な危険があるのも事実です。インターネットにはなぜこのような危険があるのか？被害にあわないためにはどうすればよいのか？この講座では、安心してインターネットが使えるように、正しい知識を動画で分かりやすく解説しています。【主な内容】◆ネットやパソコンの利用に伴う危険◆ウイルスの実態と対策◆ネット詐欺の実態と対策◆パスワードの重要性と作成／管理◆迷惑メールの現状と対策◆パソコンを買ったら最初に確認するべきこと◆スマートフォンのセキュリティ", 
+    "end_date": null, 
+    "title": "日経パソコンのスキルアップ講座◆動画で学ぶセキュリティ◆", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/680146_e564.jpg", 
+    "course_url": "https://www.udemy.com/nikkeibp_security/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Office Productivity"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-11-25T03:52:03Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "アテイン 株式会社", 
+    "description": "システムは企業の「業務への要求」から始まり、「企画」「開発」というプロセスを経て完成し「保守･運用」となり、実際の稼働に入ります。エンジニアもその流れの中で活動する以上、システム開発の基礎知識は不可欠です。また、システムを開発する上で、仕様書をはじめとする文書の役割はとても重要です。例えば、依頼側と開発側との間には、機能や仕様などについての確認と合意が必要となります。また実際に開発側が、SEやプログラマーの共同作業で開発していくことになると、それぞれの解釈や認識の違いがあった場合には、正しくひとつのものを作り上げることが出来ません。もちろんシステムは日々安定して稼動して利用されることが必要です。そのために、システムの運用管理が欠かせません。同様に、システムの信頼性や安全性を評価する、システム監査もとても重要なことです。■■■　各5セクションの紹介　■■■----------------------------------------------------●セクション1「システム開発入門」システムを開発するエンジニアや、エンジニアを目指す人たちのために必須となる、システム開発のおおまかな流れと基本的な事柄について学ぶことができます。具体的な内容としては、システムとはそもそも何なのか、という話から始まり、システム開発の全体的な流れ、その中で作成する文書の役割、成果物や文書のレビュー方法、開発の工程をどのように実行するかという開発モデルの種類、システムの提案の流れ、設計工程について、プログラム開発の工程について、成果物のテストの方法の種類について解説しています。●セクション2「システム仕様書入門」システムを開発するエンジニアや、エンジニアを目指す人たちのために必須となる、システム開発で必要になる様々な仕様書について学ぶことができます。具体的な内容としては、なぜ仕様書が必要なのか、という話から始まり、どのような点に気を付けて書くのか、レビューの方法にはどのようなものがあるのか、どのように管理するのか、そして、各工程の仕様書の役割について解説します。●セクション3「システム運用管理入門」システムを開発するエンジニアや、エンジニアを目指す人たちのために、システム運用管理の基礎、考え方、必要な手順などについて学びます。具体的な内容としては、システムの運用管理の役割や、障害が発生した際に迅速に対応し復旧する為の対応方法や手順、そして、障害の発生をできるだけ防止して、発生した場合でも被害を最小限にとどめる安全対策や、数々の脅威に対してどのようなセキュリティ対策が有効か、など。更に、常にシステムを快適に利用できるようにするために必要なパフォーマンス改善や、システムの更新や移行を速やかに行う重要性や、システム構成と障害履歴の重要性、他にも、サポートデスクの必要性と種類についても解説します。●セクション4「ネットワーク構築入門」ネットワークを開発するエンジニアや、ネットワーク開発エンジニアを目指す人たちのために、ネットワーク構築の基礎、考え方、必要な手順などについて学びます。具体的な内容としては、ネットワークの種類にはどのようなものがあるか、ネットワークにはどのような機器が使用されているか、どのような手順でネットワークを構築するのか、ネットワーク稼動後にどのような保守があるのかを解説します。●セクション5「システム監査入門」システムを開発するエンジニアや、エンジニアを目指す人たちのために、システム監査の基礎、考え方、必要な手順などについて学びます。具体的な流れとしては、システム監査の概要として、システム監査の基準、監査方法、基本用語を学んだ後、監査計画、監査実施、監査報告、改善指導（フォローアップ）について学びます。■シナリオ/監修小島 邦男（こじま くにお）テクニカルライター。1955年新潟市生まれ。日本大学文理学部心理学科卒業。編集プロダクションでPR誌や雑誌・単行本の編集に従事した後、1984年にフリーとなる。以来、パソコン関連のマニュアルや初心者向けの技術解説記事、単行本などを執筆。", 
+    "end_date": null, 
+    "title": "誰でもわかる システム開発入門", 
+    "price": "50.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/648688_61a0.jpg", 
+    "course_url": "https://www.udemy.com/system-development/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-10-23T09:02:02Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "忠郎 渡邊", 
+    "description": "お父さん、お母さん。もし、小さなお子さんの成績で悩んでいるなら、ぜひこのコースを受講してみてください。お子さんのためにお父さん、お母さんがお子さんの脳力向上をできることが理解していただけます。とくに小さな子どものうちは、「落ちこぼれ」などが不当なレッテルだということがわかっていただけます。学校では、いわゆる落ちこぼれは救済しきれないからこそ、お父さん、お母さんがお子さんの脳力を伸ばして、社会人になってから困らない様に出来るんです。このコースはその方法を気づいていただくためのコースです。", 
+    "end_date": null, 
+    "title": "動画で学ぶ、子供の能力（成績）を向上させるための講座", 
+    "price": "30.00", 
+    "topic_name": [
+      "Social Science"
+    ], 
+    "institution_name": null, 
+    "commitment": "5.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/728720_e5b3.jpg", 
+    "course_url": "https://www.udemy.com/keaxbvqx/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Academics"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-01-15T03:36:35Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "この教材では、長年学校教育の現場で化学教育に携わってきた、江部先生が、社会人になって化学を忘れてしまった方向けに、化学を好きになる方法を教えています。高校や中学校で化学分野の事は習ったともいますが、専門家以外の方は、忘却の彼方にあることがほとんどです。しかしながら、危険物取扱者や公害防止管理者などの資格試験では、化学分野の問題が出題されます。これらは、ほぼ基礎知識であるのですが、化学を忘れてしまった大人には、難問となってしまうことが多いようです。故に、化学分野が苦手分野となってしまい、勉強がはかどらない、合格がままならないといった事になってしまいます。ここでは、危険物取扱者の講師も行っている江部先生が化学の基礎を紹介し、化学のを身近に感じる、化学を好きになる講義を行っています。是非、無料プレビューをご覧ください。", 
+    "end_date": null, 
+    "title": "化学が好きになる手引き", 
+    "price": "20.00", 
+    "topic_name": [
+      "Math & Science"
+    ], 
+    "institution_name": null, 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/745406_d22e.jpg", 
+    "course_url": "https://www.udemy.com/chemical/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Academics"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-01-29T00:55:10Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation kids&family group", 
+    "description": "■本コースについて：～本コースは、いぬのきもち特別編集ＤＶＤ付きムック「愛犬のための健康長寿ガイド」の映像ＤＶＤを再編集したものです～【「愛犬のための健康長寿ガイド」の効果的な取り組み方】「愛犬のための健康長寿ガイド」は、忙しい方も視聴しやすい、1コンテンツ5分程度の映像で構成されています。少しずつ順番に見ていただても、気になるテーマ順に見ていただいても効果的です。【「愛犬のための健康長寿講座」の収録内容】「お手入れ編」ブラッシング、ホットタオル拭き、シャンプー&沐浴（もくよく）、ドライ（体の乾かし方）、オーラルケア、耳そうじ、爪のヤスリがけ、ラクラク足拭き、肛門ケア、肉球ケア、陰部拭き「看護編」体温の測り方、エリザベスカラーのつけ方、薬の飲ませ方「介護編」歩行の介護、食事の介護、おむつのはかせ方、犬の介護用おむつの作り方、排泄の介護、寝返りの打たせ方、全身のお手入れ、汚れやすい部分のお手入れ■お手入れ編・講師-二村陽子先生 略歴：Ａ級トリマーとしてトリミングサロンHONDEHOKを運営。一級建築士としてペット関連施設の設計にも携わる。人も犬も心地いいと感じられる空間づくりを提案する。■看護編・講師-藤田桂一先生 略歴：埼玉県上尾市のフジタ動物病院院長。獣医学博士。日本獣医畜産大学大学院獣医学研究科修士課程修了。歯科の研究で論文や学会への参加も多数。日本小動物歯科研究会理事も務める。■介護編・講師-鈴木知寿子先生（旧姓：津山）、章浩先生 略歴：東京都大田区の犬猫ペットケアサービス「キャットワン」代表。地域に根ざしたシニア犬の訪問介護を１７年以上行う。犬一頭一頭の性格や体の状態に合わせたきめ細やかなサービスには定評がある。", 
+    "end_date": null, 
+    "title": "愛犬と元気に健やかに！愛犬のための健康長寿講座", 
+    "price": "30.00", 
+    "topic_name": [
+      "Parenting & Relationships"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/562182_e2b6_3.jpg", 
+    "course_url": "https://www.udemy.com/bckf15-nagaiki-001/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Personal Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-07-23T01:49:49Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation kids&family group", 
+    "description": "■本コースについて：～本コースは、たまひよｂｅｆａ！安産エクササイズＤＶＤ、産後ボディメイキングＤＶＤを再編集したものです～【「安産エクササイズ」の効果的な取り組み方】「安産エクササイズ」は、出産に向けて「カラダのチカラ」を鍛えるためのエクササイズです。自分の体をチェックし、弱点を鍛えるエクササイズに重点的に取り組み、「安産に向けた体づくり」を進めていきましょう。【「産後ボディメイキング」の効果的な取り組み方】「産後ボディメイキング」は、忙しい育児中のママでも取り組める、1コンテンツ5分程度のエクササイズです。より美しく、より健康になるために自分に合ったものを選んで取り組みましょう。※「目的別おすすめエクササイズ」のチャートを講座内で提供しています。自分に合ったエクササイズを確認して取り組むと効果的です。■講師－吉岡マコ氏略歴： ＮＰＯ法人マドレボニータ代表。マドレボニータとはスペイン語で「美しい母」の意味。「うつくしい母がふえれば、世界はもっとよくなる。」をキャッチフレーズに、体のケアが最も必要な時期でありながら、後回しになりがちな産前・産後ケアの必要性を訴えるとともに、プログラムの開発・普及とインストラクターの養成に力を注ぐ。 ", 
+    "end_date": null, 
+    "title": "安産エクササイズ講座＆産後ボディメイキング講座（まとめパック）", 
+    "price": "20.00", 
+    "topic_name": [
+      "Parenting & Relationships"
+    ], 
+    "institution_name": null, 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/549680_44d1_5.jpg", 
+    "course_url": "https://www.udemy.com/bckf15-ekusa-003/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Personal Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-07-09T02:29:26Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Takafumi Kawai", 
+    "description": " 初めてのiBooks Authorをご覧いただきありがとうございます。     \t このレッスンでは、AppleのiBooksストア用の本を作成するiBooks Aurthorを使って、電子書籍を作成します。iBookストアアカウントの作成から、書籍の作成、公開までの手順を解説します。    ＜レッスンのアウトライン＞   Apple IDの作成 支払い情報の設定 ソフトウェアのダウンロード ブックタイトルの作成 ブックタイトルの修正 チャプターとアイコンの作成 セクションの作成 動画の挿入 目次とイントロメディア ブックのプレビュー ストアへの公開 サンプルブックの作成   iBooks Authorを使うことで、誰でも簡単に画像や動画、ウェブリンクを追加できるようになります。Macのコンピュータをお持ちの方でしたら、どなたでも無料で電子書籍を作成することができます。Wordで文章を作成するように、簡単に電子書籍を作成できます。オリジナルの本を作成して、世界中に本を配信しましょう！  ", 
+    "end_date": null, 
+    "title": "初めてのiBooks Author", 
+    "price": "20.00", 
+    "topic_name": [
+      "Media"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/245428_c9b8_2.jpg", 
+    "course_url": "https://www.udemy.com/ibooks-author/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2014-06-18T03:33:57Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation", 
+    "description": "※本コースは、『ビジネス書大賞作家・美崎栄一郎の「社会人こそ学びたいノート術」【まとめパック】』から、【Vol.1】の講義を提供しています。※一気にすべてを学びたい方には、2つの講座をまとめたお得な「まとめパック」コースがおすすめです。■本コースについて美崎栄一郎のベストセラー著書で、ビジネス書大賞も受賞した、『「結果を出す人」はノートに何を書いているのか』の内容をベースに、美崎栄一郎が実際に使っていたノートを惜しみなく事例で見せながら、社会人経験を価値に高めるノート術について、解説をします。【Vol.1】となる本コースは、ノートのとり方が向上すれば仕事の効率から時間の使い方、勉強法まで変わってくるという美崎式のノート術の入門編とも言えるコースです。どんなノートをどのように活用するのかを具体的に分かりやすく説明する講義で、しっかりと理解することができます。■美崎栄一郎氏略歴：1971年、横浜で生まれ大阪で育つ。大阪府立大学大学院工学研究科を卒業後、花王株式会社で約15年勤務ののち、現在は、独立し、商品開発コンサルタント、ビジネス書作家として活動中。手がけた商品は、アタック、ニュービーズ、ワイドハイターなどの日用品から、化粧品のブランドであるレイシャス、ファインフィットまで幅広い。ニコンとの共同開発の多視点画像解析システムは、テレビや新聞などでも取り上げられた。著書は、『「結果を出す人」はノートに何を書いているのか』（株式会社ナナ・コーポレート・コミュニケーション）、『アイデアは才能では生まれない』（日本経済新聞出版社）他多数。", 
+    "end_date": null, 
+    "title": "ビジネス書大賞作家・美崎栄一郎の「社会人こそ学びたいノート術」【Vol.1】", 
+    "price": "40.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/479588_b8ee_2.jpg", 
+    "course_url": "https://www.udemy.com/bc15_businessskillother_notetaking_misaki_002/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-04-18T07:04:26Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Mayumi Okumura", 
+    "description": "旬の彩り豊かな野菜やフルーツ・ハーブ等を束ねて作るかわいくて、おいしいブーケ。それが野菜ブーケです。野菜ブーケを「作る」「飾る」「食べる」３つの魅力がつまった、野菜好きな方にぜひ新しい野菜の楽しみ方を知ってほしいコースです。そして、食べるだけと思われがちな野菜を、楽しくかわいくアレンジして野菜嫌いの方にも喜んで頂けるレッスンです。贈って、飾って、食べられる！かわいくて、おいしいブーケをご家庭で簡単に作ってみましょう！このコースでは、アレンジメントが初心者の方でもわかりやすく挑戦しやすいように、道具の説明・野菜を選ぶ下準備から、5つの野菜でつくる『野菜ブーケ』の作り方、ラッピング・リボンの結び方テクニックをレクチャーします。野菜を美味しくいただくだけではなく、野菜や食をもっと楽しみ、喜びや驚き、大切な方・彼氏、旦那さん、お子さん、お友達などへ贈る基礎となるブーケ制作の基礎を学んで頂ける内容です。「今までにない野菜ブーケを贈って」、「あなたが作った たった一つのブーケを見て、楽しんで、」「（料理して）一緒に食べる」という素敵なサプライズプレゼントを行う事ができるかもしれません。", 
+    "end_date": null, 
+    "title": "誰でも簡単にできるはじめての野菜ブーケを作ってみよう！", 
+    "price": "30.00", 
+    "topic_name": [
+      "Arts & Crafts"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/789582_864e_2.jpg", 
+    "course_url": "https://www.udemy.com/hbjifpfk/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Lifestyle"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-11T12:24:59Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "MOS（マイクロソフト オフィス スペシャリスト）Word2013の対策講座です。MOS試験には「スペシャリスト（一般）」と「エキスパート（上級）」の2つのレベルがありますが、本講座はスペシャリスト（一般）レベルの内容となります。Wordの基本的な機能に絞って学習していきますので、資格の取得に限らず、日々の業務等でWordを使用する方にもお勧めの講座となります。また、本講座では、講義動画に加えて、講義で使用しているサンプルファイルも提供します。講師の話を聞くだけではなく、サンプルファイルを自分で操作しながら学習を進めることで、Wordの基本的な機能を効率的に使いこなせるようになります。【講師　滝口直樹 プロフィール】大学卒業後、大手資格スクール会社に入社。情報システム部・企画開発部でデジタルコンテンツ制作・eラーニングプロジェクトを担う。2006年に独立。Webコンサルティング・Webマーケティング・Webサイト制作・IT顧問を中心に活動をはじめる。現在は、ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタントなどとして活動の幅を広げる。主な資格に、ITパスポート、基本情報技術者、Microsoft Office Master 2010(Word/Excel/Powerpoint/Outlook)、インストラクター資格は、Microsoft Official Trainer 、IC3認定インストラクター、第一種教員免許。著書「ゼロからはじめるITパスポートの教科書」、「ゼロからはじめる基本情報技術者の教科書」、MOS対策問題集など。", 
+    "end_date": null, 
+    "title": "滝口先生のMOS Word2013講座", 
+    "price": "50.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "8 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/777830_dbaa.jpg", 
+    "course_url": "https://www.udemy.com/mos-word2013/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-02-29T15:03:07Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation", 
+    "description": "※本コースは、『ビジネス書大賞作家・美崎栄一郎の「社会人こそ学びたいノート術」【まとめパック】』から、【Vol.1】の最初のメッセージと【Vol.2】の講義を提供しています。※一気にすべてを学びたい方には、2つの講座をまとめたお得な「まとめパック」コースがおすすめです。■本コースについて美崎栄一郎のベストセラー著書で、ビジネス書大賞も受賞した、『「結果を出す人」はノートに何を書いているのか』の内容をベースに、美崎栄一郎が実際に使っていたノートを惜しみなく事例で見せながら、社会人経験を価値に高めるノート術について、解説をします。【Vol.1】と【Vol.2】の抜粋となる本コースでは、スケジュールノートの使い方や、タスク管理、メモノートを利用したブレストの方法など、具体的な手法を伝授します。■美崎栄一郎氏略歴：1971年、横浜で生まれ大阪で育つ。大阪府立大学大学院工学研究科を卒業後、花王株式会社で約15年勤務ののち、現在は、独立し、商品開発コンサルタント、ビジネス書作家として活動中。手がけた商品は、アタック、ニュービーズ、ワイドハイターなどの日用品から、化粧品のブランドであるレイシャス、ファインフィットまで幅広い。ニコンとの共同開発の多視点画像解析システムは、テレビや新聞などでも取り上げられた。著書は、『「結果を出す人」はノートに何を書いているのか』（株式会社ナナ・コーポレート・コミュニケーション）、『アイデアは才能では生まれない』（日本経済新聞出版社）他多数。", 
+    "end_date": null, 
+    "title": "ビジネス書大賞作家・美崎栄一郎の「社会人こそ学びたいノート術」【Vol.2】", 
+    "price": "40.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/479590_a00f_2.jpg", 
+    "course_url": "https://www.udemy.com/bc15_businessskillother_notetaking_003/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-04-18T07:10:36Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation kids&family group", 
+    "description": "■本コースについて：数多くの工作本やワークショップに携わってきた宮本先生の数ある工作レパートリーの中から、「作って遊べる！ひとつの遊びで終わることなく、次々と新しい遊びに発展していく」という1粒で2度・3度と美味しい（＝楽しめる）人気の工作ばかりを厳選した講座です。■講師-宮本えつよし氏略歴：1954年、大阪府生まれ。グラフィックデザイナーを経てイラストレーター及び絵本作家となる。現在、広告、児童書、絵本などを手がけるほか、絵本講座の講師および造形教室ではワークショップなどの工作イベントを行う。● えほん 『キャべたまたんてい』シリーズ（金の星社）『きむらゆういち・みやもとえつよしのガラクタ工作』シリーズ 全12巻（チャイルド本社）他多数● ワークショップ 2012年 夏のチャレンジ 夏休み自由研究塾（ベネッセコーポレーション）／日本科学未来館2011年 宮本えつよしさんとワークショップ／千葉県市川市立中山小学校2011年 夜須高原えほんの森 親子で絵本づくり／国立夜須青少年自然の家 他多数", 
+    "end_date": null, 
+    "title": "親子で作ろう！リサイクルおもちゃ工作講座", 
+    "price": "20.00", 
+    "topic_name": [
+      "Parenting & Relationships"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/578892_1322_2.jpg", 
+    "course_url": "https://www.udemy.com/bckf15-kousaku-001/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Personal Development"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-08-10T10:09:59Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "本講座は、ビジネスマンにとって大事になる「数字を使って伝える技術」を学ぶ講座です。\u000b数字を使って伝えることが上手な人は人を動かすのが上手な人です。そして、人を動かすことが上手な人はビジネスが上手な人です。ビジネス上手になるために、本講座で数字のリテラシーを学んでいきましょう。【講師プロフィール】深沢 真太郎＜経歴＞BMコンサルティング代表／ビジネス数学・カレッジ学長日本大学大学院総合基礎科学研究科修了。(公財)日本数学検定協会認定トレーナー。\u000b予備校講師を経験後、ファッション業界にて主に外資系企画のマネジメント職を歴任し、コンサルタントとして独立。ビジネス数学を専門とし、大学講座や企業研修にて約3,000名を指導。\u000b著書に「数学女子 智香が教える こうやって数字を使えば、仕事はもっとうまくいきます。」「数学女子智香が教える　仕事で数字を使うって、こういうことです。」「数字を使えば9割伝わる!」「「仕事」に使える数学」「こまったら、“数学的”に考えよう。」がある。", 
+    "end_date": null, 
+    "title": "数字で伝える技術", 
+    "price": "30.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/755892_44ff.jpg", 
+    "course_url": "https://www.udemy.com/oyjpyzvi/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-02-08T12:02:16Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "ITパスポート試験のための対策講座です。講師は、ゼロからはじめるITパスポートの教科書でお馴染み、滝口直樹先生です。この講座は、本気でITパスポートの合格を目指す皆さんを支援するために開発しました。一人でも多くの人に役立つ講座にしたいという思いから，自由度が高いeラーニング講座となっています。\u000b無料実力診断で、自分の実力を確認し、自分の本当に必要な講義のみ、受講できます。第1章では、仕事の基本、ビジネスの一般常識、また企業活動、つまり会社というのはどういう仕組みで動いているか、経営の中で意思決定をしていく中でどういった手法を用いているか学びます。一見、直接ITとは関わりがないように思いますが、システム開発を進めていくにあったって非常に関係してくる重要な項目です。【講師プロフィール】滝口 直樹ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタント大学卒業後、大手資格スクール会社に入社。 情報システム部・企画開発部でデジタルコンテンツ制作・eラーニングプロジェクトを担う。 \u000b2006年に独立。 Webコンサルティング・Webマーケティング・Webサイト制作・IT顧問を中心に活動をはじめる。 \u000b 現在は、ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタントなどとして活動の幅を広げる。\u000b 主な資格に、ITパスポート、基本情報技術者、Microsoft Office Master 2010(Word/Excel/Powerpoint/Outlook)、インストラクター資格は、Microsoft Official Trainer 、IC3認定インストラクター、第一種教員免許。 \u000b\u000b著書\u000b「ゼロからはじめるITパスポートの教科書」、「ゼロからはじめる基本情報技術者の教科書」、MOS対策問題集など。", 
+    "end_date": null, 
+    "title": "ITパスポート講座　 第1章　企業と法務", 
+    "price": "35.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/779704_a219_5.jpg", 
+    "course_url": "https://www.udemy.com/it-1-ldc/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-02T05:03:55Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Brit + Co", 
+    "description": "【このコースは、日本語字幕版です。字幕を表示するには、視聴画面下部にある「CC」ボタンをクリックしてください。】◆◆日本のみなさまへ◆◆Udemy人気講座から、フラワーアレンジメントの基本が学べる、楽しいブーケ作りの講座をご紹介します。家族やお友達の誕生日に、お店で用意されたブーケを買うことはあっても、自分で花を選ぶのはちょっとハードルが高いもの。でも、フラワーアレンジメントの基本を身につけられたら、特別な日のお花選びが楽しくなること間違いありません。また、歓迎会や送別会などでいただいたブーケを持ち帰った後、自宅できれいに飾れる簡単なコツもご紹介します。食卓を華やかにする素敵なセンターピースのアレンジ方法を学びましょう。アメリカでクリエイティブな手芸の講座を運営している「Brit+Co」の女性講師たちと一緒に、フラワーアレンジメントを学んでみませんか。◆◆講師より◆◆フラワーアレンジメントは、美しい「アート」であるとともに緻密な「サイエンス」の側面も持っています。フラワーアレンジメントの講師、クリスティアーナとリアノンと一緒に、シンプルで美しいブーケを短時間で作る方法を学びましょう。フラワーデザインの基礎から、花のアレンジやコンディショニングのコツまで、フラワーアレンジメントの基本を学ぶことができます。また、美しいフラワーデザインの基本となる、色の選び方・バランスの調整・構成・デザインについてご紹介します。花を長持ちさせブーケを美しく保つための、事前準備のポイントもお見逃しなく。このコースで使用している材料は、講師の「Brit+Co」が運営しているオンラインショップで購入いただくことができます。ぜひご活用ください。", 
+    "end_date": null, 
+    "title": "米国人気講師に学ぶ！ はじめてのフラワーアレンジメント（日本語字幕）", 
+    "price": "20.00", 
+    "topic_name": [
+      "Arts & Crafts"
+    ], 
+    "institution_name": null, 
+    "commitment": "27 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/425632_418a.jpg", 
+    "course_url": "https://www.udemy.com/flowerarranging_jp/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Lifestyle"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-02-18T04:19:38Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Brit + Co", 
+    "description": "【このコースは、日本語字幕版です。字幕を表示するには、視聴画面下部にある「CC」ボタンをクリックしてください。】◆◆日本のみなさんへ◆◆ソーイングに興味があるけれど、なかなか始める機会が無い。ミシンの使い方は小学校の家庭科で習ったけれど、今ちゃんと使えるかはちょっと自信が無いかも…！ そんなみなさん、ぜひこのコースで一緒に学んでみませんか。アメリカでクリエイティブな手芸クラスを主催している団体「Brit+Co」の女性講師と一緒に、普段使いできるかわいい布小物を作りながら、ミシンを使ったソーイングの基本をおさらいしましょう。お気に入りの生地を使って、お部屋をもっと楽しく明るくする、手芸入門の第一歩になれば幸いです。◆◆講師より◆◆「Brit + Co」の講師ロキシ―が、ソーイングを基礎からお教えします。まずは、意外と知らない、様々な生地タイプの特徴や利点と欠点について学びましょう。生地や手芸グッズを手に入れる方法もご紹介します。このコースでは、３種類の作品を完成させることができます。最初は小物作りから始めます。簡単にできる布ナプキンとピローケース作りで、ソーイングの基礎のおさらいをしましょう。最後は、好きな柄の生地を使っておしゃれなマキシスカートを完成させます。", 
+    "end_date": null, 
+    "title": "基礎から学ぶきちんとソーイング（日本語字幕）", 
+    "price": "20.00", 
+    "topic_name": [
+      "Arts & Crafts"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/425634_7866.jpg", 
+    "course_url": "https://www.udemy.com/sewing-101_jp/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Lifestyle"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-02-18T04:19:51Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "crash. academy", 
+    "description": "【こんな方にお勧めです】ITを学びたい社会人・初学者。【講師紹介】南　政樹crash.academy共同創業者（アクセリア株式会社取締役）慶應義塾大学　環境情報学部講師【講座の特徴】アプリ開発を題材にITの学びに必要な知識とIT人材に不可欠な学ぶ習慣を身につけます。アプリが作れるだけではなく、以下を意識して講座をデザインしています。アプリ作成を通じてITに関する概念を解説「学ぶ習慣」を身につけ継続的な学習を維持インターネット上の情報から必要な情報を探すトレーニング【学習の目安】講義動画は2時間半ほどですがそれ以外に20～30時間ほどの学習時間を確保して頂くことを想定しています。", 
+    "end_date": null, 
+    "title": "【学ぶべきは知識やスキルではなく習慣だ！】「ハイブリッドアプリ開発で学ぶIT基礎」（社会人・初学者向けIT講座）】", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/698840_377f_2.jpg", 
+    "course_url": "https://www.udemy.com/crash_academy-01/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-12-16T05:06:34Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "映像学習サービス elearners", 
+    "description": "  \t  アントイレプランナー　白倉氏の「自分らしさ・キャリアを考える」授業です。     \t  アントイレプランナーとは「トイレ起業家」「トイレ評論家」の意味を持つ白倉氏が作った造語です。     \t  誰もが毎日使うトイレ...     \t  そのトイレに魅了された白倉氏の考え方・生き方は人生を新しい視点で見るためのきっかけになることでしょう！     \t  2012年11月2日　ＴＢＳ「マツコの知らない世界」など多くのメディアに注目中の白倉氏の授業をぜひご覧ください。", 
+    "end_date": null, 
+    "title": "トイレ起業家という新職業創りに挑戦！", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/242648_0a70_2.jpg", 
+    "course_url": "https://www.udemy.com/elearners0003/", 
+    "currency": "USD", 
+    "subject_name": [
+      "Lifestyle"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2014-06-13T09:44:14Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "ITパスポート試験のための対策講座です。講師は、ゼロからはじめるITパスポートの教科書でお馴染み、滝口直樹先生です。この講座は、本気でITパスポートの合格を目指す皆さんを支援するために開発しました。一人でも多くの人に役立つ講座にしたいという思いから，自由度が高いeラーニング講座となっています。\u000b無料実力診断で、自分の実力を確認し、自分の本当に必要な講義のみ、受講できます。第2章では、　・ 異形の経営を進めていくにあたってどんな分析方法や考え方があるのか　・ それを実現するうえでIT技術をどのように活用していくか、またその計画の立て方　・ 現在ビジネスの世界でどういったシステムが使われているのかを学んでいきます。【講師プロフィール】滝口 直樹ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタント大学卒業後、大手資格スクール会社に入社。 情報システム部・企画開発部でデジタルコンテンツ制作・eラーニングプロジェクトを担う。 \u000b2006年に独立。 Webコンサルティング・Webマーケティング・Webサイト制作・IT顧問を中心に活動をはじめる。 \u000b現在は、ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタントなどとして活動の幅を広げる。\u000b主な資格に、ITパスポート、基本情報技術者、Microsoft Office Master 2010(Word/Excel/Powerpoint/Outlook)、インストラクター資格は、Microsoft Official Trainer 、IC3認定インストラクター、第一種教員免許。\u000b\u000b著書\u000b「ゼロからはじめるITパスポートの教科書」、「ゼロからはじめる基本情報技術者の教科書」、MOS対策問題集など。", 
+    "end_date": null, 
+    "title": "ITパスポート講座　 第2章　経営戦略", 
+    "price": "35.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/780738_98d0_3.jpg", 
+    "course_url": "https://www.udemy.com/it-2-ofo/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-03T04:40:04Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "ITパスポート試験のための対策講座です。講師は、ゼロからはじめるITパスポートの教科書でお馴染み、滝口直樹先生です。この講座は、本気でITパスポートの合格を目指す皆さんを支援するために開発しました。一人でも多くの人に役立つ講座にしたいという思いから，自由度が高いeラーニング講座となっています。\u000b無料実力診断で、自分の実力を確認し、自分の本当に必要な講義のみ、受講できます。第3章では、企業活動の中でITをいかに取り入れるか、その具体的な話を講義します。【講師プロフィール】滝口 直樹ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタント大学卒業後、大手資格スクール会社に入社。 情報システム部・企画開発部でデジタルコンテンツ制作・eラーニングプロジェクトを担う。 \u000b2006年に独立。 Webコンサルティング・Webマーケティング・Webサイト制作・IT顧問を中心に活動をはじめる。 \u000b現在は、ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタントなどとして活動の幅を広げる。\u000b主な資格に、ITパスポート、基本情報技術者、Microsoft Office Master 2010(Word/Excel/Powerpoint/Outlook)、インストラクター資格は、Microsoft Official Trainer 、IC3認定インストラクター、第一種教員免許。\u000b\u000b著書\u000b「ゼロからはじめるITパスポートの教科書」、「ゼロからはじめる基本情報技術者の教科書」、MOS対策問題集など。", 
+    "end_date": null, 
+    "title": "ITパスポート講座　 第3章　システム戦略", 
+    "price": "35.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/780758_8e13_5.jpg", 
+    "course_url": "https://www.udemy.com/it-3-pbj/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-03T04:58:25Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "ITパスポート試験のための対策講座です。講師は、ゼロからはじめるITパスポートの教科書でお馴染み、滝口直樹先生です。この講座は、本気でITパスポートの合格を目指す皆さんを支援するために開発しました。一人でも多くの人に役立つ講座にしたいという思いから，自由度が高いeラーニング講座となっています。\u000b無料実力診断で、自分の実力を確認し、自分の本当に必要な講義のみ、受講できます。第4章では、自分たち用のシステムを開発するための流れを学びます。第3章で学んだストラテジ系とこの章で学ぶマネジメント系は分野が分かれていますが、一緒に流れとして把握したほうがより理解しやすくなっています。【講師プロフィール】滝口 直樹ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタント大学卒業後、大手資格スクール会社に入社。 情報システム部・企画開発部でデジタルコンテンツ制作・eラーニングプロジェクトを担う。 \u000b2006年に独立。 Webコンサルティング・Webマーケティング・Webサイト制作・IT顧問を中心に活動をはじめる。 \u000b現在は、ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタントなどとして活動の幅を広げる。\u000b主な資格に、ITパスポート、基本情報技術者、Microsoft Office Master 2010(Word/Excel/Powerpoint/Outlook)、インストラクター資格は、Microsoft Official Trainer 、IC3認定インストラクター、第一種教員免許。\u000b\u000b著書\u000b「ゼロからはじめるITパスポートの教科書」、「ゼロからはじめる基本情報技術者の教科書」、MOS対策問題集など。", 
+    "end_date": null, 
+    "title": "ITパスポート講座　第4章　開発技術", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/784518_7b51_3.jpg", 
+    "course_url": "https://www.udemy.com/it-4-jtr/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-07T01:57:41Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "ITパスポート試験のための対策講座です。講師は、ゼロからはじめるITパスポートの教科書でお馴染み、滝口直樹先生です。この講座は、本気でITパスポートの合格を目指す皆さんを支援するために開発しました。一人でも多くの人に役立つ講座にしたいという思いから，自由度が高いeラーニング講座となっています。\u000b無料実力診断で、自分の実力を確認し、自分の本当に必要な講義のみ、受講できます。第5章では、プロジェクトの進捗管理をする上での必要な知識、また実際に進めていくプロセスについて講義します。【講師プロフィール】滝口 直樹ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタント大学卒業後、大手資格スクール会社に入社。 情報システム部・企画開発部でデジタルコンテンツ制作・eラーニングプロジェクトを担う。 \u000b2006年に独立。 Webコンサルティング・Webマーケティング・Webサイト制作・IT顧問を中心に活動をはじめる。 \u000b現在は、ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタントなどとして活動の幅を広げる。\u000b主な資格に、ITパスポート、基本情報技術者、Microsoft Office Master 2010(Word/Excel/Powerpoint/Outlook)、インストラクター資格は、Microsoft Official Trainer 、IC3認定インストラクター、第一種教員免許。\u000b\u000b著書\u000b「ゼロからはじめるITパスポートの教科書」、「ゼロからはじめる基本情報技術者の教科書」、MOS対策問題集など。", 
+    "end_date": null, 
+    "title": "ITパスポート講座　 第5章　プロジェクトマネジメント", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "36 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/785722_c726_3.jpg", 
+    "course_url": "https://www.udemy.com/it-5-zak/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-08T04:45:48Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "ITパスポート試験のための対策講座です。講師は、ゼロからはじめるITパスポートの教科書でお馴染み、滝口直樹先生です。この講座は、本気でITパスポートの合格を目指す皆さんを支援するために開発しました。一人でも多くの人に役立つ講座にしたいという思いから，自由度が高いeラーニング講座となっています。\u000b無料実力診断で、自分の実力を確認し、自分の本当に必要な講義のみ、受講できます。第7章では、基礎理論として、コンピュータの考え方のベースになっている二進数の捉え方、アルゴリズムやプログラミングといった、コンピュータ処理をする際の処理法を企画するときに役立つ知識を学びます。【講師プロフィール】滝口 直樹ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタント大学卒業後、大手資格スクール会社に入社。 情報システム部・企画開発部でデジタルコンテンツ制作・eラーニングプロジェクトを担う。 \u000b2006年に独立。 Webコンサルティング・Webマーケティング・Webサイト制作・IT顧問を中心に活動をはじめる。 \u000b現在は、ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタントなどとして活動の幅を広げる。\u000b主な資格に、ITパスポート、基本情報技術者、Microsoft Office Master 2010(Word/Excel/Powerpoint/Outlook)、インストラクター資格は、Microsoft Official Trainer 、IC3認定インストラクター、第一種教員免許。\u000b\u000b著書\u000b「ゼロからはじめるITパスポートの教科書」、「ゼロからはじめる基本情報技術者の教科書」、MOS対策問題集など。", 
+    "end_date": null, 
+    "title": "ITパスポート講座　 第7章　基礎理論", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/794438_5368.jpg", 
+    "course_url": "https://www.udemy.com/it-7-xzq/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-16T05:28:51Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "ITパスポート試験のための対策講座です。講師は、ゼロからはじめるITパスポートの教科書でお馴染み、滝口直樹先生です。この講座は、本気でITパスポートの合格を目指す皆さんを支援するために開発しました。一人でも多くの人に役立つ講座にしたいという思いから，自由度が高いeラーニング講座となっています。\u000b無料実力診断で、自分の実力を確認し、自分の本当に必要な講義のみ、受講できます。第8章では、コンピュータやシステムの構成、ソフトウェア、ハードウェアについて学びます。【講師プロフィール】滝口 直樹ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタント大学卒業後、大手資格スクール会社に入社。 情報システム部・企画開発部でデジタルコンテンツ制作・eラーニングプロジェクトを担う。 \u000b2006年に独立。 Webコンサルティング・Webマーケティング・Webサイト制作・IT顧問を中心に活動をはじめる。 \u000b現在は、ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタントなどとして活動の幅を広げる。\u000b主な資格に、ITパスポート、基本情報技術者、Microsoft Office Master 2010(Word/Excel/Powerpoint/Outlook)、インストラクター資格は、Microsoft Official Trainer 、IC3認定インストラクター、第一種教員免許。\u000b\u000b著書\u000b「ゼロからはじめるITパスポートの教科書」、「ゼロからはじめる基本情報技術者の教科書」、MOS対策問題集など。", 
+    "end_date": null, 
+    "title": "ITパスポート講座　 第8章　コンピュータシステム", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/796568_d64f.jpg", 
+    "course_url": "https://www.udemy.com/it-8-fba/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-18T03:09:14Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "ITパスポート試験のための対策講座です。講師は、ゼロからはじめるITパスポートの教科書でお馴染み、滝口直樹先生です。この講座は、本気でITパスポートの合格を目指す皆さんを支援するために開発しました。一人でも多くの人に役立つ講座にしたいという思いから，自由度が高いeラーニング講座となっています。\u000b無料実力診断で、自分の実力を確認し、自分の本当に必要な講義のみ、受講できます。第2章では、　・ 異形の経営を進めていくにあたってどんな分析方法や考え方があるのか　・ それを実現するうえでIT技術をどのように活用していくか、またその計画の立て方　・ 現在ビジネスの世界でどういったシステムが使われているのかを学んでいきます。【講師プロフィール】滝口 直樹ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタント大学卒業後、大手資格スクール会社に入社。 情報システム部・企画開発部でデジタルコンテンツ制作・eラーニングプロジェクトを担う。 \u000b2006年に独立。 Webコンサルティング・Webマーケティング・Webサイト制作・IT顧問を中心に活動をはじめる。 \u000b現在は、ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタントなどとして活動の幅を広げる。\u000b主な資格に、ITパスポート、基本情報技術者、Microsoft Office Master 2010(Word/Excel/Powerpoint/Outlook)、インストラクター資格は、Microsoft Official Trainer 、IC3認定インストラクター、第一種教員免許。\u000b\u000b著書\u000b「ゼロからはじめるITパスポートの教科書」、「ゼロからはじめる基本情報技術者の教科書」、MOS対策問題集など。", 
+    "end_date": null, 
+    "title": "ITパスポート講座　 第2章　経営戦略", 
+    "price": "35.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/780738_98d0_3.jpg", 
+    "course_url": "https://www.udemy.com/it-2-ofo/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-03T04:40:04Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "ITパスポート試験のための対策講座です。講師は、ゼロからはじめるITパスポートの教科書でお馴染み、滝口直樹先生です。この講座は、本気でITパスポートの合格を目指す皆さんを支援するために開発しました。一人でも多くの人に役立つ講座にしたいという思いから，自由度が高いeラーニング講座となっています。\u000b無料実力診断で、自分の実力を確認し、自分の本当に必要な講義のみ、受講できます。第3章では、企業活動の中でITをいかに取り入れるか、その具体的な話を講義します。【講師プロフィール】滝口 直樹ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタント大学卒業後、大手資格スクール会社に入社。 情報システム部・企画開発部でデジタルコンテンツ制作・eラーニングプロジェクトを担う。 \u000b2006年に独立。 Webコンサルティング・Webマーケティング・Webサイト制作・IT顧問を中心に活動をはじめる。 \u000b現在は、ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタントなどとして活動の幅を広げる。\u000b主な資格に、ITパスポート、基本情報技術者、Microsoft Office Master 2010(Word/Excel/Powerpoint/Outlook)、インストラクター資格は、Microsoft Official Trainer 、IC3認定インストラクター、第一種教員免許。\u000b\u000b著書\u000b「ゼロからはじめるITパスポートの教科書」、「ゼロからはじめる基本情報技術者の教科書」、MOS対策問題集など。", 
+    "end_date": null, 
+    "title": "ITパスポート講座　 第3章　システム戦略", 
+    "price": "35.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/780758_8e13_5.jpg", 
+    "course_url": "https://www.udemy.com/it-3-pbj/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-03T04:58:25Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "ITパスポート試験のための対策講座です。講師は、ゼロからはじめるITパスポートの教科書でお馴染み、滝口直樹先生です。この講座は、本気でITパスポートの合格を目指す皆さんを支援するために開発しました。一人でも多くの人に役立つ講座にしたいという思いから，自由度が高いeラーニング講座となっています。\u000b無料実力診断で、自分の実力を確認し、自分の本当に必要な講義のみ、受講できます。第4章では、自分たち用のシステムを開発するための流れを学びます。第3章で学んだストラテジ系とこの章で学ぶマネジメント系は分野が分かれていますが、一緒に流れとして把握したほうがより理解しやすくなっています。【講師プロフィール】滝口 直樹ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタント大学卒業後、大手資格スクール会社に入社。 情報システム部・企画開発部でデジタルコンテンツ制作・eラーニングプロジェクトを担う。 \u000b2006年に独立。 Webコンサルティング・Webマーケティング・Webサイト制作・IT顧問を中心に活動をはじめる。 \u000b現在は、ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタントなどとして活動の幅を広げる。\u000b主な資格に、ITパスポート、基本情報技術者、Microsoft Office Master 2010(Word/Excel/Powerpoint/Outlook)、インストラクター資格は、Microsoft Official Trainer 、IC3認定インストラクター、第一種教員免許。\u000b\u000b著書\u000b「ゼロからはじめるITパスポートの教科書」、「ゼロからはじめる基本情報技術者の教科書」、MOS対策問題集など。", 
+    "end_date": null, 
+    "title": "ITパスポート講座　第4章　開発技術", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/784518_7b51_3.jpg", 
+    "course_url": "https://www.udemy.com/it-4-jtr/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-07T01:57:41Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "ITパスポート試験のための対策講座です。講師は、ゼロからはじめるITパスポートの教科書でお馴染み、滝口直樹先生です。この講座は、本気でITパスポートの合格を目指す皆さんを支援するために開発しました。一人でも多くの人に役立つ講座にしたいという思いから，自由度が高いeラーニング講座となっています。\u000b無料実力診断で、自分の実力を確認し、自分の本当に必要な講義のみ、受講できます。第5章では、プロジェクトの進捗管理をする上での必要な知識、また実際に進めていくプロセスについて講義します。【講師プロフィール】滝口 直樹ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタント大学卒業後、大手資格スクール会社に入社。 情報システム部・企画開発部でデジタルコンテンツ制作・eラーニングプロジェクトを担う。 \u000b2006年に独立。 Webコンサルティング・Webマーケティング・Webサイト制作・IT顧問を中心に活動をはじめる。 \u000b現在は、ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタントなどとして活動の幅を広げる。\u000b主な資格に、ITパスポート、基本情報技術者、Microsoft Office Master 2010(Word/Excel/Powerpoint/Outlook)、インストラクター資格は、Microsoft Official Trainer 、IC3認定インストラクター、第一種教員免許。\u000b\u000b著書\u000b「ゼロからはじめるITパスポートの教科書」、「ゼロからはじめる基本情報技術者の教科書」、MOS対策問題集など。", 
+    "end_date": null, 
+    "title": "ITパスポート講座　 第5章　プロジェクトマネジメント", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "36 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/785722_c726_3.jpg", 
+    "course_url": "https://www.udemy.com/it-5-zak/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-08T04:45:48Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "ITパスポート試験のための対策講座です。講師は、ゼロからはじめるITパスポートの教科書でお馴染み、滝口直樹先生です。この講座は、本気でITパスポートの合格を目指す皆さんを支援するために開発しました。一人でも多くの人に役立つ講座にしたいという思いから，自由度が高いeラーニング講座となっています。\u000b無料実力診断で、自分の実力を確認し、自分の本当に必要な講義のみ、受講できます。第6章では、サービスマネジメント、つまりシステム運用開始後の管理について学びます。【講師プロフィール】滝口 直樹ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタント大学卒業後、大手資格スクール会社に入社。 情報システム部・企画開発部でデジタルコンテンツ制作・eラーニングプロジェクトを担う。 \u000b2006年に独立。 Webコンサルティング・Webマーケティング・Webサイト制作・IT顧問を中心に活動をはじめる。 \u000b現在は、ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタントなどとして活動の幅を広げる。\u000b主な資格に、ITパスポート、基本情報技術者、Microsoft Office Master 2010(Word/Excel/Powerpoint/Outlook)、インストラクター資格は、Microsoft Official Trainer 、IC3認定インストラクター、第一種教員免許。\u000b\u000b著書\u000b「ゼロからはじめるITパスポートの教科書」、「ゼロからはじめる基本情報技術者の教科書」、MOS対策問題集など。", 
+    "end_date": null, 
+    "title": "ITパスポート講座　第6章　サービスマネジメント ", 
+    "price": "20.00", 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/791996_e8c1_3.jpg", 
+    "course_url": "https://www.udemy.com/it-6-bml/", 
+    "currency": "USD", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-14T04:40:37Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "株式会社 キバンインターナショナル", 
+    "description": "ITパスポート試験のための対策講座です。講師は、ゼロからはじめるITパスポートの教科書でお馴染み、滝口直樹先生です。この講座は、本気でITパスポートの合格を目指す皆さんを支援するために開発しました。一人でも多くの人に役立つ講座にしたいという思いから，自由度が高いeラーニング講座となっています。\u000b無料実力診断で、自分の実力を確認し、自分の本当に必要な講義のみ、受講できます。【講師プロフィール】滝口 直樹ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタント大学卒業後、大手資格スクール会社に入社。 情報システム部・企画開発部でデジタルコンテンツ制作・eラーニングプロジェクトを担う。 \u000b2006年に独立。 Webコンサルティング・Webマーケティング・Webサイト制作・IT顧問を中心に活動をはじめる。 \u000b現在は、ITパスポート資格対策講師、専門学校講師、PCスクール講師、通信制大学院システムマネージャー、私大ITアシスタントなどとして活動の幅を広げる。\u000b主な資格に、ITパスポート、基本情報技術者、Microsoft Office Master 2010(Word/Excel/Powerpoint/Outlook)、インストラクター資格は、Microsoft Official Trainer 、IC3認定インストラクター、第一種教員免許。\u000b\u000b著書\u000b「ゼロからはじめるITパスポートの教科書」、「ゼロからはじめる基本情報技術者の教科書」、MOS対策問題集など。", 
+    "end_date": null, 
+    "title": "ITパスポート講座　ガイダンス", 
+    "price": 0, 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/783988_6f07.jpg", 
+    "course_url": "https://www.udemy.com/it-rfthc/", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-06T12:58:59Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Haamalu Limited Liability Company", 
+    "description": "永久機関の試みは失敗しました。結局、理科の時間に習った「エネルギー保存の法則」は正しかったのです。外部から力を加えて、ようやく機関は動き出すのですね。\nしかし、いざインターネットビジネスの世界となると、この永久機関に近似するモデルを散見することができます。例えば、料理のHow toを紹介するYouTubeチャンネルはたくさんあります。食卓に運ばれる料理をGoProなどのプロ用カメラで撮影し、どんどんとコンテンツを生産してゆきます。\nコツは、続けられること。\n衣食住を選ぶ人が多いですね。生活の一部に埋め込まれた活動をコンテンツ化するだけですから、職業的に新たなアクションを追加する必要はありません。（レジ打ちをしたり、会議に出たり、通勤したり・・・という活動）\n本講義では、ネット界隈に存在する永久機関的な生き方を分析し、どう実現するかを示唆しています。具体的には、GoProを使って料理動画を作り、それをYouTubeにアップしてチャンネル登録者数を増やす方法や、ダイエットの経過をブログなどに掲載して、Googleアドセンス広告を貼ることで事業活動を行う方法。\nある程度の画質は担保されていないと、ユーザーを惹きつけられませんので、カメラを買うための初期投資は必要です。また動画となると、それなりの編集ソフトが必要にもなります。だいたい5万円〜10万円くらいでしょうか。（こんな小資本ではじめられるビジネスはほとんどありませんよ！）\n料理好きの人は必見です。あなたの日常をコンテンツ化するヒントが各レクチャーに含まれています！興味のある方は受講のご検討を！", 
+    "end_date": null, 
+    "title": "飯ハック！私の職業は、料理と食事をGoProで撮影することです。", 
+    "price": 0, 
+    "topic_name": [
+      "Food & Beverage"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/798880_ac30.jpg", 
+    "course_url": "https://www.udemy.com/gopro-food-hack/", 
+    "subject_name": [
+      "Lifestyle"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-20T15:11:46Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation, Kaori Hashizume", 
+    "description": "【特別無料（7/31まで）】＜動画でまなぶScratchJr『5才からはじめるすくすくプログラミング』＞の「まとめパック」から、前半のScratchJrの基本的な使い方のみを切り出した分割コースです。これが楽しめたら「まとめパック」をぜひチェックしてください。■コースのご紹介無料のアプリ「ScratchJr」を使って、親子でプログラミングを楽しむコース【Vol.1】です。アイデアを思い浮かべて、その実現方法を考えながら、筋道を立てて考える力、実際に作り上げる力、周りの人と楽しむことを育みます。積み木やブロックのような感覚でデジタルツールを駆使し、親子で楽しみながらプログラミングが学べます。このコースでは、ScratchJrの基本的な使い方を覚えながら、自分だけのキャラクターを動かす喜びを味わうことができます。「ScratchJrってどんなもの？」「何ができる？うちの子にもできる？」「ちょっと試してみたい」と思った方には最適のコースです。コースが終了したら、ぜひ出来上がった作品をたくさんの人と見せ合って楽しみましょう。※日経BP社『5才からはじめるすくすくプログラミング』の内容をベースに、本の著者である橋爪香織氏本人が講師として、本の中に登場するにゃ〜こというキャラクターとともに登場します。（にゃ〜こイラスト・キャラクターデザイン 石田 裕子）【対象】未就学児や小学生のお子様と保護者の方が対象です。【使用することができる機材】iOS7.0以降のiPad （AppStoreより「ScratchJr」アプリをダウンロードしてください。）Android4.4以降のタブレット （GooglePlayより「ScratchJr」アプリをダウンロードしてください。）【何が学べるか】ScratchJrの基本的な使い方（プロジェクト作成・保存）ScratchJrのブロックの使い方（動き・スタート・終了）ScratchJrのペイントエディタの使い方キャラターの追加の方法【カリキュラム】スクラッチジュニアとは　1 ScratchJrへ ようこそ　2 スクラッチジュニアとは　3 プロジェクトとは　4 プロジェクト画面じぶんだけのキャラクターをうごかせるようになろう　5 ねこを うごかそう①　6 ねこを うごかそう②　7 いっしょに やってみよう　8 キャラクターを かこう①　9 キャラクターを かこう②　10 キャラクターを かこう③　11 キャタクターを うごかそう　12 いっしょに やってみよう", 
+    "end_date": null, 
+    "title": "【無料体験版】動画でまなぶScratch Jr『5才からはじめるすくすくプログラミング』", 
+    "price": 0, 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/478716_4259_2.jpg", 
+    "course_url": "https://www.udemy.com/bc15_others_scratchjr_002/", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-04-17T05:24:53Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "映像学習サービス elearners", 
+    "description": "     キュレーションメディアとマーケティング、その向こう側についてがテーマ。いまや数百万ダウンロード（ユーザー）規模に拡がった、新興キュレーションサー ビス生活者に急速に普及するキュレーションメディアの、キーマン達が一同に介す。その未来像と、企業マーケティングへの可能性と価値をフラットな視点で、 討議していきたい。     \t     （Written by 内田 哲也）         Moderator:       内田 哲也      \t  (株)博報堂ＤＹメディアパートナーズ     \t  統合コミュニケーション  \t  デザインセンターセンター長         Speakers:       福島良典      \t  株式会社グノシー     \t  代表取締役　最高経営責任者      町野健      \t  株式会社グライダーアソシエイツ     \t  取締役COO      佐々木紀彦      \t  株式会社ユーザベース     \t  NewsPicks編集長 執行役員      渡辺洋之      \t  株式会社日本経済新聞社     \t  デジタル編成局長  ", 
+    "end_date": null, 
+    "title": "キュレーションメディア最前線", 
+    "price": 0, 
+    "topic_name": [
+      "Media"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/324626_066b.jpg", 
+    "course_url": "https://www.udemy.com/elearners-adtechtokyo2014a4/", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2014-10-22T03:19:06Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Haamalu Limited Liability Company", 
+    "description": "このコースでは最新版であるiMindMap 9 の操作方法をカバーしております。いずれも超基本的な作業の解説ではありますが、そもそもiMIndMap 9 には難しい操作はなくいずれも直感的なモノばかりなので、受講後はスムーズにマインドマップの世界に入っていけるはずです。手書きのマインドマップで挫折した人に朗報です。マインドマップの開発者（トニーブザン）が唯一公認したデジタルワークスペース = iMindMapがいよいよリリースされました。最新版のiMindMap 9 は、ブレインストーミングから情報のオーガナイズ、アイディアの具体化・連想・共有、さらにはプレゼンテーションまでをたった一つのツールでサポートする完璧なクリエイティブ・パッケージです。デジタル時代のマインドマップ活用法を1つの講座にまとめました。超基本的な操作を超高速で学べるように、1つ1つのレクチャーをほぼ5分以内に収めました。iMindMapの操作方法を学ぶ入門講座としてご利用ください。", 
+    "end_date": null, 
+    "title": "食いっぱぐれないiMindMap9仕事術：デジタル時代のマインドマップ超入門", 
+    "price": 0, 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "2.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/716560_6776_4.jpg", 
+    "course_url": "https://www.udemy.com/imindmap9/", 
+    "subject_name": [
+      "IT & Software"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-01-05T04:26:11Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation", 
+    "description": "■中原圭介氏略歴アセットベストパートナーズ株式会社の経済アナリスト・経営コンサルタント。著書『トップリーダーが学んでいる５年後の世界経済入門』（日本実業出版社）、『シェール革命後の世界勢力図』『経済予測脳で人生が変わる!』（ダイヤモンド社）他多数。経済予測の正確さでは群を抜き、カリスマエコノミストとして評価が高い。予測に必要なのは「本質」を見抜くこととだと説く。『著者大学』では、「本質的な物事の捉え方」、「勉強法」、「新聞の読み方」等、社会人、とりわけグローバルな社会人に必要なビジネススキルを鍛えたいと、語る。新刊の『本質を見極める勉強法』（サンマーク出版）をぜひご覧ください。■村上憲郎略歴村上憲郎事務所代表。 前グーグル日本法人名誉会長 、元グーグル米国本社副社長兼グーグル日本法人代表取締役社長 。主な著書 『知識ベースシステム入門』（インフォサイエンス社） 、『村上式シンプル英語勉強法』『村上式シンプル仕事術』（ともにダイヤモンド社）、『一生食べられる働き方』（PHP新書）、『スーパーIT高校生“Tehu と考える 創造力のつくり方』（角川書店）他。■鹿嶋春平太 略歴宗教社会学者。1941年生まれ。 著書に『聖書の論理が世界を動かす』『誰もが聖書を読むために』『神とゴッドはどう違うか』（以上新潮社）、 『図解 聖書のことがよくわかる本』『キリスト教のことが面白いほどわかる本』（以上中経出版）、 『聖書がわかればアメリカが読める』（PHP研究所）などがある。 本名・肥田日出生は明治学院大学名誉教授。 著書は、『現代マーケティング論考』（中央経済社）、『高品質の時代』（日本経済新聞社）、 『マーケティングを知っていますか」（新潮社）など。■本コースの特徴カリスマエコノミストとして知られるベストセラー著者の中原圭介先生。先生曰く、経済を読むために欠かせないのは「本質的な物事の捉え方」、とのこと。グローバル人材に必要な力についての講義もあります。さらには、新聞を読むことの大切さについても、カリスマエコノミストの中原圭介ならではの視点で講義があります。※本コースは、『著者大学』の「入門講座」より提供しています。", 
+    "end_date": null, 
+    "title": "【特別無料】カリスマエコノミスト・中原圭介のビジネスセンスアップ＆新聞読解講座", 
+    "price": 0, 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "31 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/474112_7bcb_4.jpg", 
+    "course_url": "https://www.udemy.com/bc15_businessskill_nakahara_001/", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-04-12T11:52:26Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation", 
+    "description": "※本講座は『元Google日本代表 村上憲郎のシンプル英語勉強法と仕事術(まとめパック)』の中から仕事術の内容を抜粋したコースになります。仕事術に関する講座を受けたいという方のためにご用意いたしました。■本コースについて：20万部のベストセラーとなっている、村上憲郎の著書『村上式シンプル英語勉強法』から、エッセンスを著者自ら紹介します。本コースの内容は「7つの原理」、「経済学を学べ」、「グローバルに仕事をするための4つの知識」。著者自身がグローバルに仕事を動かすために学んできたことを、惜しげもなく伝授してくれます。また、村上憲郎氏の提唱する「Frame of reference」という、グローバルビジネスに必要な、知識・教養体系のコンセプトを紹介いたします。シンプルでありながら奥深い“知の体系\"、そのエッセンスを凝縮したレクチャーをぜひ受講してください！※特典映像として「シンプル英語勉強法」から「読む」についての講義をお届けします。■ベストセラー著者・講師－村上憲郎氏略歴：村上憲郎事務所代表。前グーグル日本法人名誉会長、元グーグル米国本社副社長兼グーグル日本法人代表取締役社長。主な著書『知識ベースシステム入門』（インフォサイエンス社）、『村上式シンプル英語勉強法』『村上式シンプル仕事術』（ともにダイヤモンド社）、『一生食べられる働き方』（PHP新書）、『スーパーIT高校生“Tehu\"と考える創造力のつくり方』（角川書店）他。『著者大学』では、「フレーム・オブ・リファレンス」として、グローバル人材に必要な、ビジネスのよりどころとなる知識体系の習得を通してビジネスセンスを飛躍的に高める講座に挑戦する。", 
+    "end_date": null, 
+    "title": "元Google日本代表 村上憲郎の英語勉強法と仕事術（仕事編）", 
+    "price": 0, 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "34 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/473284_6319_3.jpg", 
+    "course_url": "https://www.udemy.com/bc15_businessothers_murakami_002/", 
+    "subject_name": [
+      "Business"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-04-11T02:53:52Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Autodesk Education", 
+    "description": "使いやすくパワフルで柔軟性の高い CAD パッケージを使って、アイデアを形にすることができます。 \nこのコースでは、受講者は Autodesk Fusion 360 を使って製品設計を行います。まず、アイデアをスカルプする方法を学習し、次にパーツやアセンブリのモデリングに移り、最終的には図面やレンダリングを作成して、CNC マシンや 3D プリンタで製造できる状態にするまでの全工程を学びます。\nFusion 360 は、製品を共同開発するためのクラウドベース CAD/CAM ツールです。Fusion 360 を使えば、デザイン案の調査や反復を効率的に行えるだけでなく、分散している製品開発チームのコラボレーションを促進します。さらに重要なことは、Autodesk Fusion 360 は、有機的形状のモデリング、機械設計、製造工程までをすべてカバーする、広範なパッケージであるということです。オートデスクの公式 Web サイトにアクセスしたり、製品をダウンロードしたりして、Autodesk Fusion 360 に関する知識をさらに深めてください。学生、教育機関、3D 技術愛好者、そしてスタートアップ企業(まだ、市販品を販売していない企業)の皆様には、無料でライセンスを提供しています。\nコースを受講すると、アイデアから試作品の製作までを通して、独自の商品をデザインすることができるようになります。\nコースには 4 時間分のビデオ レッスン、手順説明書、データセットが含まれています。このコースを完了するには通常、約 16 時間かかります。Autodesk Fusion 360 を今すぐダウンロードし、使い方を学び始めましょう。講師略歴今日山積みになっているさまざまな課題を解決するのは、未来にわたって活動するデザイナーです。オートデスクが学生、教育者、および教育機関を対象に、設計ソフトウェア、クリエイティブなアプリ、ラーニング リソースへのアクセスを無償で提供しているのは、このためです。30 年以上にわたって市場をリードしているオートデスクは、設計、デザインの世界で最も広範囲で専門性に富んだ製品ラインナップを提供しています。オートデスクは、誰もがよりよい世界を想像し、設計し、創造できるように支援します。プロの設計者、エンジニア、建築家、デジタル アーティスト、学生、愛好家まで、あらゆるお客様がオートデスクのソフトウェアを使って創造性を解放し、重要な課題を解決しています。", 
+    "end_date": null, 
+    "title": "Fusion 360 による製品設計: アイデアから試作品の製作まで", 
+    "price": 0, 
+    "topic_name": [
+      "3D & Animation"
+    ], 
+    "institution_name": null, 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/794964_bf2e_3.jpg", 
+    "course_url": "https://www.udemy.com/fusion-360-product-design-jp/", 
+    "subject_name": [
+      "Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-16T18:18:03Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Haamalu Limited Liability Company", 
+    "description": "このコースは職業アニメーターを目指す第一歩になります。映像クリエイターなどの達人を目指す人のための、After Effects CC 2015を学ぶ講座です。\nプロになる人たちを対象にしていますが、このコースではプロが使うテクニックを学ぶことはできません。中級者や上級者が「え？そんな簡単なことまで説明するの？」と言ってしまうほど基礎的な操作を解説しています。\nこれまで分厚いテキストで挫折した経験のある人は、映像学習がいかに効率良く学習できるか感覚的に理解できるはずです。生徒と講師の画面構成がまるっきり同じで、講師がポインターを動かせば、生徒もポインターを動かす。\nどこにどんな機能があって、いつどのタイミングでキーフレームを打ち、具体的にどうやってエフェクトをかけていくのかが、文字通り手に取るようにわかるのです。\n・・・と、大げさに自分のコースを用意しましたが、僕自身、講師としてまだまだ精進している身でありますので、説明に過不足があるだろうし、他の先生ならもっと明快に説明出来る点は多々あると思います。\n悪い点はそれだけではありません。講師である石崎は、北陸地方独特の訛りを持っています。かなり強い金沢弁で喋っているので、プレビューを見て「耳心地がいい話し方」かどうかを必ず確認してください。\n札幌で4年間、東京で1年間、アメリカで2年間、標準語を矯正してきましたが、いよいよ舌になじむことはありませんでした。\nこのコースは動画をメインに講義が進行してゆきます。ワークスペースやユーザーインターフェースの確認から、よく使うツールのテクニックまでを網羅的に解説しています。もちろん逆引き辞典のように森羅万象を解説しているわけではないので、カリキュラムを確認して必要なコンテンツがあるかどうかチェックしてください。\nえ？僕の訛りが強すぎて、講義の意味がわからない？\nそんなことを、ぬべらっちゃや！！", 
+    "end_date": null, 
+    "title": "After Effects CC 2015の職人トレーニング - 初級テクニック&スキル編", 
+    "price": 0, 
+    "topic_name": [
+      "3D & Animation"
+    ], 
+    "institution_name": null, 
+    "commitment": "3.5 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/806024_59b4.jpg", 
+    "course_url": "https://www.udemy.com/after-effect-cc-2015/", 
+    "subject_name": [
+      "Design"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-03-28T10:58:50Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "映像学習サービス elearners", 
+    "description": " 購入済の商品を宣伝し続けるリターゲティング広告に費用を惜しまないECサイト。   「リードナーチャリング」と称して、とりあえずカタログをダウンロードしただけの来訪者にも営業攻勢をかけるB2B企業。こうした「残念な事例」が後を絶たない原因は、顧客の興味レベルや関心事に対する理解が不充分なまま、集まったデータを安易にマーケティングに活用しようとする姿勢にあると言えるでしょう。本セッションでは、実務の最前線で「データに基づく顧客理解」と日々格闘するパネリストが、ネットやリアルあるいはO2Oの領域で、データを正しい顧客理解につなげ、マーケティングROIを最大化するために必要とされる知見・スキル・人材さらには組織体制のあり方や、その障害となり得る要因について徹底討論します。      Moderator:     泉 浩人    \t    (株)ルグラン     \t    代表取締役共同CEO      Panelists:     馬渕 邦美    \t    オグルヴィ・ワン・ジャパン(株)     \t    ネオ・アット・オグルヴィ(株)     \t    代表取締役    松永 久    \t    (株)電通     \t    デジタル・ビジネス局 データ戦略室  \t    データベース・マネジメント部  \t    チーフ・アナリスト    奥谷 孝司    \t    (株)良品計画     \t    WEB事業部 部長    谷井 等    \t    シナジーマーケティング(株)     \t    代表取締役社長 兼 CEO  ", 
+    "end_date": null, 
+    "title": "ビッグデータ分析から読み取る コンシューマーニーズとは？ (Adtech Tokyo 2013 Track B6)", 
+    "price": 0, 
+    "topic_name": [
+      "Analytics & Automation"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/246390_49bf_2.jpg", 
+    "course_url": "https://www.udemy.com/elearners-adtechtokyo2013trackb6/", 
+    "subject_name": [
+      "Marketing"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2014-06-19T08:34:18Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "久保知行 久保", 
+    "description": "この講座では、公的年金制度の概要につき、基礎的な事項を学ぶことができます。毎日のように、新聞記事に年金の記事が掲載されていますが、きちんとした知識がないと、その真偽を判断することができません。年金は、知らないと損をすることが多くあります。思いがけずに、もらえる年金がもらえないことがあったりすることのないように、基礎知識を身につけましょう。さあ、気楽に学習してみましょう。", 
+    "end_date": null, 
+    "title": "企業年金講座０１　必見！　誰にでも必要な年金の知識", 
+    "price": 0, 
+    "topic_name": [
+      "Social Science"
+    ], 
+    "institution_name": null, 
+    "commitment": "42 mins", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/829576_a0ef_2.jpg", 
+    "course_url": "https://www.udemy.com/nenkinkoza01/", 
+    "subject_name": [
+      "Academics"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-04-22T21:26:24Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Benesse Corporation", 
+    "description": "※こちらは書籍『GTEC完全攻略(アルク社)』をお持ちの方向けに収録しています。※上記書籍をお持ちでない方もGTECの基礎について無料で受講頂けます。■ヒロ前田　略歴英語語インストラクター、英語学習書作家。 2001年、ロバート・ヒルキ氏を講師に人気講座 「TOEICテスト730点突破ゼミ」をプロデュース。それをきっかけに「テストの本質」を研究開始。2003年から講師として全国の企業・大学・大学生協・高校でスコアアップ指導を開始。2007年4月に独立。2008年12月グランドストリーム株式会社を設立。TOEIC受験対策の第一人者といて知られる。著書に「TOEICテスト 究極シリーズ」、『GTEC完全攻略』（ともにアルク）他多数。今回は、テストの本質を知る、ヒロ前田による「GTEC」の講義となる。■補足情報：GTECの特徴◎特長1 世界初！ オンラインテストによる4技能測定　(1)「読む」「聞く」はもちろん「書く」「話す」の４技能測定で総合的なコミュニケーション能力が測定可能。　(2) 受験者の能力レベルに対応する出題方式とビジネスシーンを想定した出題内容で、実践的な英語力を正確に測定。◎特長2 高精度！ 詳細なスコアレポート＆コンサルティング　(1)技能および総合的な実力を評価。なかでもアウトプット能力は５つのスキルプロファイルで評価する高精度なスコアレポート。　(2) 採用企業には、数値分析をベースとした組織の英語能力分析、綿密なコンサルティングが可能に。◎特長3 短時間！ 試験時間は80分／結果返却まで最大10日　(1)受験者の能力レベルに対応する効率的な出題方式により試験時間：80分　(2) 結果を詳細に分析したスコアレポートは受験後10日でウェブ上の閲覧が可能", 
+    "end_date": null, 
+    "title": "英語対策書ベストセラー作家、ヒロ前田のGTEC攻略講座(入門)", 
+    "price": 0, 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/474108_cf4a_3.jpg", 
+    "course_url": "https://www.udemy.com/bc15_english_hiromaeda_001/", 
+    "subject_name": [
+      "Test Prep"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-04-12T11:48:47Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "映像学習サービス elearners", 
+    "description": " Adtech Tokyo 2012 Track D2   マーケティングの領域でビッグデータがもてはやされている大きな理由の一つは、   人々の行動や選択の履歴が解析可能な形で記録できるようになったことで、より確度が高い（と合理的に期待できる）戦略の企画・立案が可能になった点であろう。  しかし、意思決定の現場では、データが示す「不都合な真実」から目をそむけたり、データ分析の可能性や限界に対する誤った理解からデータの活用が進まないなど、その状況は、ビッグデータ時代以前から、それほど変わっていないように見える。  そこで本セッションでは、企業や組織に対してデータに基づく意思決定の重要性を説く立場にあるパネリストによるディスカッションを通して、日本の企業・組織が抱える現在の課題と、そこから見える今後の可能性を明らかにする。      Moderator:       泉 浩人       \t    株式会社ルグラン  \t    代表取締役 共同CEO      Panelists:       小口 日出彦       \t    株式会社エム・データ 取締役  \t    株式会社パースペクティブ・メディア(PERSPECTIVE MEDIA)代表取締役      佐伯 諭       \t    株式会社電通  \t    データ戦略室　チーフアナリスト      内山 幸樹       \t    株式会社ホットリンク  \t    代表取締役CEO  ", 
+    "end_date": null, 
+    "title": "データドリブン主義 :日本の企業・組織においてデータに基づく意思決定が根付かない理由について考える", 
+    "price": 0, 
+    "topic_name": [
+      "Analytics & Automation"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/246946_27e9_2.jpg", 
+    "course_url": "https://www.udemy.com/elearners-adtechtokyo2012trackd2/", 
+    "subject_name": [
+      "Marketing"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2014-06-20T06:30:25Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "映像学習サービス elearners", 
+    "description": "    PCとモバイルを含めた「TV以外」、つまりYouTubeをはじめとしたインターネット経由での動画視聴はすでに生活者の常識となっています。さらにスマートフォン・タブレットの利用拡大によってもたらされた、TVとモバイルの「ダブルスクリーン視聴」一般化と、SNSを経由したリアルタイムコミュニケーションの広がりが注目を集めています。    これらの新しいコミュニケーション形態と生活者行動の変化を広告主はどう捉えどこに期待しているのか、クリエイターやプラットフォームはそれをどうサポートできるのか、このセッションでは特に「TVと動画がマーケティングにもたらすもの」にフォーカスしてディスカッションします。      Moderator:       太田 禎一       \t  アドビ システムズ 株式会社  \t  デジタルメディア ビジネス開発部      Panelists:       川村 真司       \t  株式会社パーティー  \t  クリエイティブディレクター      水野 有平       \t  グーグル株式会社  \t  執行役員　YouTubeパートナーシップ　日本代表      大薮 範子       \t  株式会社ワコール  \t  広報宣伝部　Web･CRM企画課　課長  ", 
+    "end_date": null, 
+    "title": "ビデオマーケティング：繋がるテレビとオンラインで必要な動画マネジメントとは - (Adtech Tokyo'12 C2)", 
+    "price": 0, 
+    "topic_name": [
+      "Video & Mobile Marketing"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/246212_a88f_2.jpg", 
+    "course_url": "https://www.udemy.com/elearners-adtechtokyo2012trackc2/", 
+    "subject_name": [
+      "Marketing"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2014-06-19T03:07:31Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "映像学習サービス elearners", 
+    "description": "     広告の表現や、媒体選定には、さまざまなパラメターが存在する。旧来のテレビ、雑誌などのメディアの広告では、あまり多くのデーターが取れなかったため に、このパラメターの最適化は、一部のクリエーター、メディア選定者に任せられていた。    現在では、多くの反応データーを取れるために、広告クリエィティブ のA/B  テストも容易に行えるようになった。そして、それはインターネットの広告だけではなく、他のメディアの広告にも活用できるだろう。そこで、このセッション ではBig Dataか使える今、広告に本当にA/Bテストが必要なのかを議論します。     \t  （Written by 本間充）      Moderator:       本間充      \t  花王     \t  デジタルトレード室長      Speakers:       藤原尚也      \t  ガシー・レンカー・ジャパン株式会社     \t  シニアマネージャー      加藤公一レオ      \t  株式会社 売れるネット広告社     \t  代表取締役社長      瞿曇啓亮      \t  株式会社大広九州     \t  ソリューション開発局局次長兼クリエイティブプランニング部部長      宮腰卓志      \t  株式会社博報堂DYメディアパートナーズ     \t  アナリティカルプラニングディレクター  ", 
+    "end_date": null, 
+    "title": "実践的A/Bテストのススメ- (ad:tech Tokyo 2014 C-1)", 
+    "price": 0, 
+    "topic_name": [
+      "Analytics & Automation"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/322962_cdac.jpg", 
+    "course_url": "https://www.udemy.com/elearners-adtechtokyo2014c1/", 
+    "subject_name": [
+      "Marketing"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2014-10-20T07:12:55Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "Grand Blue TAKAHASHI TOMOYA, 木下秀人", 
+    "description": "本、講習で普段の生活でも役立つロープの取り扱いを学習していただく事ができます。【意外と知られていませんが、】小型船舶試験には『学科と実技』の二種類があり 別々に受験することが可能です。また、2級・特殊(Jet)免許の試験学科・実技とも合格率は　95%程度あり しっかり受講して頂くと　どなたでも合格が可能な試験です。　　　続く　『ボート免許の取り方 For　CSR  』では日頃、忙しい方でも　1日　1時間　2週間で　学科合格に必要な知識を習得ができるプログラムになっております。_____________________________________________________講座受講者で学科試験 合格者には　実技講習割引クーポンを差し上げます　        ※現在　対応する試験場は　《ここから》ご確認下さい　　この講座をきっかけとして　『 ボートのある休日 』を　お楽しみ下さい", 
+    "end_date": null, 
+    "title": "〔簡単・忘れない〕 試験に出る　ロープの結び方　　　　　　【ボーナスポイントあり】　〔学科試験〕最新試験問題　進呈", 
+    "price": 0, 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "3 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/649358_62b6.jpg", 
+    "course_url": "https://www.udemy.com/akiffkrb/", 
+    "subject_name": [
+      "Test Prep"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2015-10-24T04:34:22Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "映像学習サービス elearners", 
+    "description": "           現在オンライン動画広告がＵＳを中心に非常に高い成長率を示しています。   国内でも昨年より動画広告市場への新規参入が相次いでおり、マーケット拡大に対する期待が高まってきています。そんなオンライン動画広告について市場整理から具体的な活用事例までを含めたセッション行います。広告主、媒体、ソリューションベンダーのそれぞれの観点よりオンライン動画広告におけるビジネスチャンスを議論するのと同時に、近未来の動画を活用したコミュニケーションについてイメージがわくようなビジョナリーな　セッションを目指したいと思います。（Written by 山本章悟）      Moderator:       山本章悟      \t    株式会社オムニバス     \t    代表取締役CEO      Speakers:       羽生浩一      \t    株式会社 資生堂     \t    室長      高田徹      \t    ヤフー株式会社     \t    MSCエグゼクティブユニットマネージャー      楳田良輝      \t    株式会社デジタルインテリジェンス     \t    取締役シニアディレクター      山口有希子      \t    日本アイ・ビー・エム株式会社     \t    マーケティング＆コミュニケーション     \t    コミュニケーション＆ブランドエクスペリエンス 部長  ", 
+    "end_date": null, 
+    "title": "ビデオアド市場の成長と収益化への挑戦-(ad:tech Tokyo 2014 B-4)", 
+    "price": 0, 
+    "topic_name": [
+      "Video & Mobile Marketing"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/324732_1c6c.jpg", 
+    "course_url": "https://www.udemy.com/elearners-adtechtokyo2014b4/", 
+    "subject_name": [
+      "Marketing"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2014-10-22T07:31:39Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "映像学習サービス elearners", 
+    "description": " 携帯電話からスマートデバイスに進化を遂げた「モバイル革命」は、広告主を絶え間ないテクノロジーの混乱の渦へ巻きこむのか、それともブランドにとっての新たなデジタルマーケティングの可能性を拓くのか？モバイルがもたらす真の革命について広告主とサプライヤーの両方の視点から議論します。    - モバイル革命の「王様」は誰か？エージェンシーと広告主はどちらがギロチン台に送られるか？- スクリーン戦争がもたらすのは消費者の新しい行動・接点か？それとも新しいイタチごっこの始まりか？- モバイル革命は誰のマーケティング市場を奪うのか？ブランドにとっての価値は何か？      Moderator:       鈴木 健       \t  株式会社ニューバランスジャパン  \t  マーケティング部長      Panelists:       福徳 俊弘       \t  ニールセン株式会社  \t  代表取締役会長兼CEO      石戸 亮       \t  株式会社CyberZ(株式会社CyberAgent)  \t  取締役      森 直樹       \t  株式会社電通  \t  コミュニケーション・デザイン・センター     \t  次世代コミュニケーション開発部  ", 
+    "end_date": null, 
+    "title": "THE モバイル革命：モバイル/タブレットにおけるブランドマネージメント戦略とは?", 
+    "price": 0, 
+    "topic_name": [
+      "Video & Mobile Marketing"
+    ], 
+    "institution_name": null, 
+    "commitment": "1 hour", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/247124_e301_3.jpg", 
+    "course_url": "https://www.udemy.com/elearners-adtechtokyo2012trackb3/", 
+    "subject_name": [
+      "Marketing"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2014-06-20T12:46:12Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "instructors": "J-Arc Hiroshi Matsumoto", 
+    "description": "●　平成28年度全国学力・学習状況調査「算数A」の『傾向と対策』解説レクチャーです。\n⇨　文部科学省が実施する「全国学力テスト」をこれから受ける小学５年生の君へ！このレクチャーでしっかり学習すると、大幅得点アップが狙えるぞ！\n⇨　すでに受験した小学６年生の君へ！しっかり復習して中学数学へのステップとしよう！公立高校受験問題はよく似た傾向がありその対策としても有効だ！⇨　お子様の勉強方法を改善したい保護者の皆様へ！認知科学を応用し、お子様が生まれながら持っている能力をどうやって引き出すか？勉強方法・勉強技術にこだわった解説です！●　講師は進学塾の塾長で大手出版社の参考書の著者です。多くの生徒指導の経験を持ち、生徒たちがつまずくポイントを踏まえ、その具体的な対策をレクチャーします。\n⇨　講師は学習参考書の著者で１４教室で指導を受け持つアーク進学会の塾長！伸びない生徒に足りないのは「勉強方法が間違っている」からです。頭脳が持つ力を引き出す勉強方法の改善で「わかる！」を体験！知的好奇心を自然と引き出すことが「できる生徒」の必須条件です！⇨　問題解説だけでなく「傾向」を深く探り、それに対する【認知科学を用いた勉強方法】を「対策」として詳細に解説！　成績が良い人の勉強方法を学べるチャンス！\n⇨　「認知負荷」という「わかることを邪魔する力」がキーワード！　一見長く難しそうに見える問題が、「実は小１や小２の問題レベルだった！」といった目からウロコが落ちる体感を！\n　⇨　勉強は、直感を始め記憶力・注意力といった「学習能力」が向上して初めて得点アップにつながります。もし君が「算数はちょっと苦手」とか「７０点ぐらいで頭打ち」といった伸び悩みをかかえているなら、「解法の丸暗記」といった間違った勉強方法になっている可能性が大きいぞ！\n⇨　学習能力が向上するよう「勉強方法」を改善すれば、自分が元々持っていた能力を使いこなせるようになるので、成績アップはそう難しくはない！勉強方法を指導してもらう機会がなかった君、自分の欠点を知り学習能力を引き出すチャンスですよ！\n●　【６色マーカー学習法】は雑誌「プレジデントFamily」で何度も特集された勉強方法！\n⇨　認知科学を応用した少し難しい独自理論「Powered Brain Learning System（パワード・ブレイン・ラーニング・システム）」を、色をテーマにして小学生にもわかりやすくしたカリキュラム【６色マーカー学習法】でひもときます。雑誌「プレジデントFamily」で特集された勉強方法・勉強のテクニックを無料で学ぶチャンス！楽しくしっかり勉強したい君へ、その要求にこたえます！\n⇨　頭脳は情報が入ってきて動きます。「カラーマーカーで数学的要素を強調認識」、「問題文を数学的要素ごとに区切って細分化」といった、認知科学を応用した勉強技術をマスターしよう！注意力・記憶力をはじめ眠っていた学習能力を引きすことを目標にしたカリキュラム！\n⇨「マーキング」「スラッシュ分割」「ライン化」「イメージング」「記号化」などの勉強技術をマスターして、その瞬間から学習能力がアップすることを体感！百聞は一見にしかず！\n●　全編無料公開！", 
+    "end_date": null, 
+    "title": "全国学力テスト「傾向と対策」　【算数A】", 
+    "price": 0, 
+    "topic_name": [
+      "Other"
+    ], 
+    "institution_name": null, 
+    "commitment": "2 hours", 
+    "cover_url": "https://udemy-images.udemy.com/course/750x422/818428_75d6_6.jpg", 
+    "course_url": "https://www.udemy.com/a-jrvows/", 
+    "subject_name": [
+      "Test Prep"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Japanese"
+    ], 
+    "provider_name": [
+      "Udemy"
+    ], 
+    "start_date": "2016-04-11T05:45:50Z"
+  }
+]

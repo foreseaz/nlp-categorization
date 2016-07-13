@@ -23,7 +23,7 @@
       "Chinese"
     ], 
     "provider_name": [
-      "xuetang"
+      "学堂在线"
     ], 
     "start_date": "2016-04-15T14:00:00Z"
   }, 
@@ -51,7 +51,7 @@
       "Chinese"
     ], 
     "provider_name": [
-      "xuetang"
+      "学堂在线"
     ], 
     "start_date": "2015-05-11T12:00:00Z"
   }, 
@@ -78,7 +78,7 @@
       "Chinese"
     ], 
     "provider_name": [
-      "xuetang"
+      "学堂在线"
     ], 
     "start_date": "2015-09-14T00:00:00Z"
   }, 
@@ -105,36 +105,9 @@
       "Chinese"
     ], 
     "provider_name": [
-      "xuetang"
+      "学堂在线"
     ], 
     "start_date": "2017-04-01T00:00:00Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [
-      "物理学科"
-    ], 
-    "description": "简介: 作为理科专业基础课程，内容为经典光学，着重在波动性（电磁波），深入讨论波的性质，独立看深刻揭示光的波形，整体看为了后续量子力学进行必要铺垫。从光是电磁波开始，介绍Maxwell方程导出电磁波以及其一般性质；再分别讨论下列重要物理现象：光在介质中的传播；几何光学简介；波的叠加而由此产生的重要的光的干涉，衍射和偏振等重要概念与现象以及它们的应用。教学上突出对物理概念，物理图像的阐释与理解，对基本原理深入地讨论，再辅以严格的数学推导。The course is about classical optics, focusing on the wave property of light. With such thorough discussion, we not only reveal important properties of light, but also offer a solid background for further study of quantum mechanics.  The content of Optics will include:1．\tWhat is ‘light’2．\tMaxwell equations3．\tPropagation of light in isotropic media4．\tGeometric Optics5．\tSuperposition of waves6．\tInterference7.\tDiffraction8.\tPolarization of light\n章节: Chapter 1 General Property of Wave(波的一般性质) Chapter 2 Electro-Magnetic Wave(电磁波) Chapter 3 Light Propagation through Homogeneous and Isotropic Media Chapter 4 Geometric optics(几何光学) Chapter 5 Interference and Coherence(Part 1) Chapter 6(1) Chapter 6(2) Chapter 7 Chapter 8（上） Chapter 8（下） 期末测试（共25题，不限时，开放一周）", 
-    "end_date": "2016-06-21T01:00:00Z", 
-    "title": "光学", 
-    "price": 0, 
-    "instructors": "蒋硕", 
-    "institution_name": [
-      "清华大学"
-    ], 
-    "commitment": "6 hours/week", 
-    "cover_url": "http://www.xuetangx.com/c4x/TsinghuaX/10430896X/asset/guang.jpg", 
-    "course_url": "http://www.xuetangx.com/courses/TsinghuaX/10430896X/2016_T1/about", 
-    "currency": null, 
-    "subject_name": null, 
-    "duration": "14 weeks", 
-    "language_name": [
-      "Chinese"
-    ], 
-    "provider_name": [
-      "xuetang"
-    ], 
-    "start_date": "2016-03-15T00:00:00Z"
   }, 
   {
     "selfpaced": false, 
@@ -159,36 +132,36 @@
       "Chinese"
     ], 
     "provider_name": [
-      "xuetang"
+      "学堂在线"
     ], 
     "start_date": "2015-09-14T00:00:00Z"
   }, 
   {
-    "selfpaced": true, 
+    "selfpaced": false, 
     "topic_name": [
-      "数学学科"
+      "物理学科"
     ], 
-    "description": "简介: “微积分-2”讲授微积分的基础知识，主要内容包括：级数，幂级数，傅立叶级数，多元函数微积分，微分方程等。授课对象主要是理学、工学本科低年级大学生。本课程的特点是：1）中英文对照，英文为主；2）侧重理解, 应用和计算技能的训练；3）难度适中，面广实用。Calculus-2 teaches foundations of calculus. The main contents are: series, power series, Fourier series, multivariable functions and their calculus, and ODEs， etc.  The features of this course are: 1) Chinese-English based; 2) Focus on comprehension, applications, and practical stills; 3) Moderate difficulty with a vast range of contents.\n章节: Chapter 1 Improper Integrals 广义积分 (first part) Chapter 1 Improper Integrals 广义积分 (second part) Chapter 2 Infinite Series 无穷级数(first part)  Chapter 2 Infinite Series 无穷级数 (second part) Chapter 3 Power Series and Fourier Series  幂级数和Fourier级数 (first part) Chapter 3 Power Series and Fourier Series  幂级数和Fourier级数 (second part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (first part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (second part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (third part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (fourth part) Chapter 5 Multiple Integrals 重积分 (first part) Chapter 5 Multiple Integrals 重积分 (second part) Chapter 5 Multiple Integrals 重积分 (last part)", 
-    "end_date": null, 
-    "title": "微积分-2", 
+    "description": "简介: 作为理科专业基础课程，内容为经典光学，着重在波动性（电磁波），深入讨论波的性质，独立看深刻揭示光的波形，整体看为了后续量子力学进行必要铺垫。从光是电磁波开始，介绍Maxwell方程导出电磁波以及其一般性质；再分别讨论下列重要物理现象：光在介质中的传播；几何光学简介；波的叠加而由此产生的重要的光的干涉，衍射和偏振等重要概念与现象以及它们的应用。教学上突出对物理概念，物理图像的阐释与理解，对基本原理深入地讨论，再辅以严格的数学推导。The course is about classical optics, focusing on the wave property of light. With such thorough discussion, we not only reveal important properties of light, but also offer a solid background for further study of quantum mechanics.  The content of Optics will include:1．\tWhat is ‘light’2．\tMaxwell equations3．\tPropagation of light in isotropic media4．\tGeometric Optics5．\tSuperposition of waves6．\tInterference7.\tDiffraction8.\tPolarization of light\n章节: Chapter 1 General Property of Wave(波的一般性质) Chapter 2 Electro-Magnetic Wave(电磁波) Chapter 3 Light Propagation through Homogeneous and Isotropic Media Chapter 4 Geometric optics(几何光学) Chapter 5 Interference and Coherence(Part 1) Chapter 6(1) Chapter 6(2) Chapter 7 Chapter 8（上） Chapter 8（下） 期末测试（共25题，不限时，开放一周）", 
+    "end_date": "2016-06-21T01:00:00Z", 
+    "title": "光学", 
     "price": 0, 
-    "instructors": "陈酌, 林润亮", 
+    "instructors": "蒋硕", 
     "institution_name": [
       "清华大学"
     ], 
-    "commitment": "5 hours/week", 
-    "cover_url": "http://www.xuetangx.com/asset-v1:Tsinghuax+10421065X_2015_T2+sp+type@asset+block@images_course_image.jpg", 
-    "course_url": "http://www.xuetangx.com/courses/course-v1:Tsinghuax+10421065X_2015_T2+sp/about", 
+    "commitment": "6 hours/week", 
+    "cover_url": "http://www.xuetangx.com/c4x/TsinghuaX/10430896X/asset/guang.jpg", 
+    "course_url": "http://www.xuetangx.com/courses/TsinghuaX/10430896X/2016_T1/about", 
     "currency": null, 
     "subject_name": null, 
-    "duration": null, 
+    "duration": "14 weeks", 
     "language_name": [
       "Chinese"
     ], 
     "provider_name": [
-      "xuetang"
+      "学堂在线"
     ], 
-    "start_date": "2015-09-14T00:00:00Z"
+    "start_date": "2016-03-15T00:00:00Z"
   }, 
   {
     "selfpaced": false, 
@@ -213,9 +186,36 @@
       "Chinese"
     ], 
     "provider_name": [
-      "xuetang"
+      "学堂在线"
     ], 
     "start_date": "2016-02-22T00:00:00Z"
+  }, 
+  {
+    "selfpaced": true, 
+    "topic_name": [
+      "数学学科"
+    ], 
+    "description": "简介: “微积分-2”讲授微积分的基础知识，主要内容包括：级数，幂级数，傅立叶级数，多元函数微积分，微分方程等。授课对象主要是理学、工学本科低年级大学生。本课程的特点是：1）中英文对照，英文为主；2）侧重理解, 应用和计算技能的训练；3）难度适中，面广实用。Calculus-2 teaches foundations of calculus. The main contents are: series, power series, Fourier series, multivariable functions and their calculus, and ODEs， etc.  The features of this course are: 1) Chinese-English based; 2) Focus on comprehension, applications, and practical stills; 3) Moderate difficulty with a vast range of contents.\n章节: Chapter 1 Improper Integrals 广义积分 (first part) Chapter 1 Improper Integrals 广义积分 (second part) Chapter 2 Infinite Series 无穷级数(first part)  Chapter 2 Infinite Series 无穷级数 (second part) Chapter 3 Power Series and Fourier Series  幂级数和Fourier级数 (first part) Chapter 3 Power Series and Fourier Series  幂级数和Fourier级数 (second part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (first part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (second part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (third part) Chapter 4 Differentiations of Multivariable Functions 多元函数微分学 (fourth part) Chapter 5 Multiple Integrals 重积分 (first part) Chapter 5 Multiple Integrals 重积分 (second part) Chapter 5 Multiple Integrals 重积分 (last part)", 
+    "end_date": null, 
+    "title": "微积分-2", 
+    "price": 0, 
+    "instructors": "陈酌, 林润亮", 
+    "institution_name": [
+      "清华大学"
+    ], 
+    "commitment": "5 hours/week", 
+    "cover_url": "http://www.xuetangx.com/asset-v1:Tsinghuax+10421065X_2015_T2+sp+type@asset+block@images_course_image.jpg", 
+    "course_url": "http://www.xuetangx.com/courses/course-v1:Tsinghuax+10421065X_2015_T2+sp/about", 
+    "currency": null, 
+    "subject_name": null, 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "学堂在线"
+    ], 
+    "start_date": "2015-09-14T00:00:00Z"
   }, 
   {
     "selfpaced": false, 
@@ -240,7 +240,7 @@
       "Chinese"
     ], 
     "provider_name": [
-      "xuetang"
+      "学堂在线"
     ], 
     "start_date": "2016-02-22T00:00:00Z"
   }, 
@@ -267,7 +267,7 @@
       "Chinese"
     ], 
     "provider_name": [
-      "xuetang"
+      "学堂在线"
     ], 
     "start_date": "2016-09-25T00:00:00Z"
   }, 
@@ -287,13 +287,13 @@
     "course_url": "https://www.edx.org/course/la-realidad-macroeconomica-de-america-idbx-idb9x", 
     "currency": null, 
     "subject_name": null, 
-    "duration": "6 weeks", 
+    "duration": null, 
     "language_name": [
       "Chinese"
     ], 
     "provider_name": [
-      "xuetang"
+      "学堂在线"
     ], 
-    "start_date": "2015-06-23T00:00:00Z"
+    "start_date": "9999-12-31T23:59:59Z"
   }
 ]

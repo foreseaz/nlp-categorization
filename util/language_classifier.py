@@ -79,8 +79,8 @@ if __name__ == '__main__':
     raw_path = '../data/raw_courses/total'
     output_dirs = {
         'English': '../data/raw_courses/en',
-        'Chinese': '../data/raw_courses/ch',
-        'Japanese': '../data/raw_courses/jp',
+        'Chinese': '../data/raw_courses/zh',
+        'Japanese': '../data/raw_courses/ja',
         'Korean': '../data/raw_courses/ko',
         'Others': '../data/raw_courses/others'
     }

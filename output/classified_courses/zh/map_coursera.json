@@ -8,7 +8,7 @@
     "end_date": null, 
     "title": "数据结构与算法  Data Structures and Algorithms", 
     "price": 0, 
-    "instructors": "2499461", 
+    "instructors": "", 
     "institution_name": [
       "Peking University"
     ], 
@@ -21,12 +21,70 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Others"
+      "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": null
+  }, 
+  {
+    "selfpaced": false, 
+    "topic_name": [
+      "Business Essentials"
+    ], 
+    "description": "介紹國際職場素養的內涵及相關課題，培育學生應有的職場視野與能力，便利學生融入職場環境，迅速自新手成為高手，裕如地發揮所學與所長。", 
+    "end_date": null, 
+    "title": "職場素養 (Professionalism)", 
+    "price": 0, 
+    "instructors": "", 
+    "institution_name": [
+      "National Taiwan University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a5/c7abc0186411e49569bd8fae65d268/600x340.jpg", 
+    "course_url": "https://en.coursera.org/learn/zhichang-suyang", 
+    "currency": null, 
+    "subject_name": [
+      "Business and Management"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2015-08-12T04:18:55Z"
+  }, 
+  {
+    "selfpaced": false, 
+    "topic_name": [
+      "Mechanical Engineering"
+    ], 
+    "description": "課程介紹與教學目標 (About the course)\n　　房屋為我們遮風避雨，讓我們安心工作、生活，而結構系統又是房屋的骨幹，讓房屋能站的又高、又直、又穩。你知道橫者為梁，直者為柱，但你知道在結構工程師的眼中，梁與柱有什麼其他的不同嗎？他們其中藏著什麼秘密，能支撐起整個結構？工程師要怎麼決定梁該有多深？柱該有多粗？該用矩形、圓形還是其他形狀？該用實心還是空心？在有地震的地方，設計上是否又有不一樣的考量？\n　　材料力學是通往上述問題解答關鍵的一步。在材料力學(一)裡，我們會由大家熟知的虎克定律開始，以蓋房子的重要材料「結構鋼」為例，深入探討「力量」與「變形」這兩個令結構工程師愛恨交加的物理量之間的關係。然後依序探討結構桿件受軸力（拉/壓）、受扭、受彎、受剪四大外力作用下，會在桿件內部產生怎樣的相對應變形與受力，並探討建築結構設計概念與提供桿件設計演算範例。\n　　本課程是希望精通「鋼筋混凝土設計」、「鋼結構設計」、「木構造設計」者必備的先修課程，也為對「彈性力學」有興趣者，提供許多基礎知識與這些知識如何實際應用於工程設計。\n主要授課對象為土木、建築相關從業人員與在學學生，其他包括工學院各科系同學或對材料力學有興趣的人士，也歡迎選修。\n\n授課形式 (Course format)\n　　本堂課將以影片的形式為主, 搭配課後作業及期末報告的形式來進行。\n\n修課背景要求 (Recommended background)\n　　靜力學 ( Statics )", 
+    "end_date": null, 
+    "title": "材料力學一 (Mechanics of Materials I)", 
+    "price": 0, 
+    "instructors": "黃尹男  Yin-Nan Huang", 
+    "institution_name": [
+      "National Taiwan University"
+    ], 
+    "commitment": null, 
+    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/87/25ae60971111e590b26f18b4aa42ec/__logo.jpg", 
+    "course_url": "https://en.coursera.org/learn/mechanics-of-materials-1", 
+    "currency": null, 
+    "subject_name": [
+      "Engineering"
+    ], 
+    "duration": null, 
+    "language_name": [
+      "Chinese"
+    ], 
+    "provider_name": [
+      "Coursera"
+    ], 
+    "start_date": "2016-01-12T05:40:28Z"
   }, 
   {
     "selfpaced": false, 
@@ -50,10 +108,10 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Others"
+      "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-12-21T00:23:38Z"
   }, 
@@ -66,7 +124,7 @@
     "end_date": null, 
     "title": "社会调查与研究方法 （上）Methodologies in Social Research (Part I)", 
     "price": 0, 
-    "instructors": "4517421", 
+    "instructors": "", 
     "institution_name": [
       "Peking University"
     ], 
@@ -79,10 +137,10 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Others"
+      "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-01-15T05:15:09Z"
   }, 
@@ -108,10 +166,10 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Others"
+      "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2016-06-07T02:35:47Z"
   }, 
@@ -124,7 +182,7 @@
     "end_date": null, 
     "title": "電磁學(Electromagnetics)", 
     "price": 0, 
-    "instructors": "4251483", 
+    "instructors": "", 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -137,70 +195,12 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Others"
+      "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2018-09-01T08:00:00Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [
-      "Mechanical Engineering"
-    ], 
-    "description": "課程介紹與教學目標 (About the course)\n　　房屋為我們遮風避雨，讓我們安心工作、生活，而結構系統又是房屋的骨幹，讓房屋能站的又高、又直、又穩。你知道橫者為梁，直者為柱，但你知道在結構工程師的眼中，梁與柱有什麼其他的不同嗎？他們其中藏著什麼秘密，能支撐起整個結構？工程師要怎麼決定梁該有多深？柱該有多粗？該用矩形、圓形還是其他形狀？該用實心還是空心？在有地震的地方，設計上是否又有不一樣的考量？\n　　材料力學是通往上述問題解答關鍵的一步。在材料力學(一)裡，我們會由大家熟知的虎克定律開始，以蓋房子的重要材料「結構鋼」為例，深入探討「力量」與「變形」這兩個令結構工程師愛恨交加的物理量之間的關係。然後依序探討結構桿件受軸力（拉/壓）、受扭、受彎、受剪四大外力作用下，會在桿件內部產生怎樣的相對應變形與受力，並探討建築結構設計概念與提供桿件設計演算範例。\n　　本課程是希望精通「鋼筋混凝土設計」、「鋼結構設計」、「木構造設計」者必備的先修課程，也為對「彈性力學」有興趣者，提供許多基礎知識與這些知識如何實際應用於工程設計。\n主要授課對象為土木、建築相關從業人員與在學學生，其他包括工學院各科系同學或對材料力學有興趣的人士，也歡迎選修。\n\n授課形式 (Course format)\n　　本堂課將以影片的形式為主, 搭配課後作業及期末報告的形式來進行。\n\n修課背景要求 (Recommended background)\n　　靜力學 ( Statics )", 
-    "end_date": null, 
-    "title": "材料力學一 (Mechanics of Materials I)", 
-    "price": 0, 
-    "instructors": "黃尹男  Yin-Nan Huang", 
-    "institution_name": [
-      "National Taiwan University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/87/25ae60971111e590b26f18b4aa42ec/__logo.jpg", 
-    "course_url": "https://en.coursera.org/learn/mechanics-of-materials-1", 
-    "currency": null, 
-    "subject_name": [
-      "Engineering"
-    ], 
-    "duration": null, 
-    "language_name": [
-      "Others"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2016-01-12T05:40:28Z"
-  }, 
-  {
-    "selfpaced": false, 
-    "topic_name": [
-      "Business Essentials"
-    ], 
-    "description": "介紹國際職場素養的內涵及相關課題，培育學生應有的職場視野與能力，便利學生融入職場環境，迅速自新手成為高手，裕如地發揮所學與所長。", 
-    "end_date": null, 
-    "title": "職場素養 (Professionalism)", 
-    "price": 0, 
-    "instructors": "7803858", 
-    "institution_name": [
-      "National Taiwan University"
-    ], 
-    "commitment": null, 
-    "cover_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a5/c7abc0186411e49569bd8fae65d268/600x340.jpg", 
-    "course_url": "https://en.coursera.org/learn/zhichang-suyang", 
-    "currency": null, 
-    "subject_name": [
-      "Business and Management"
-    ], 
-    "duration": null, 
-    "language_name": [
-      "Others"
-    ], 
-    "provider_name": [
-      "coursera"
-    ], 
-    "start_date": "2015-08-12T04:18:55Z"
   }, 
   {
     "selfpaced": false, 
@@ -211,7 +211,7 @@
     "end_date": null, 
     "title": "工程圖學 2D CAD", 
     "price": 0, 
-    "instructors": "2139037", 
+    "instructors": "", 
     "institution_name": [
       "National Taiwan University"
     ], 
@@ -224,10 +224,10 @@
     ], 
     "duration": null, 
     "language_name": [
-      "Others"
+      "Chinese"
     ], 
     "provider_name": [
-      "coursera"
+      "Coursera"
     ], 
     "start_date": "2015-06-16T02:54:28Z"
   }
